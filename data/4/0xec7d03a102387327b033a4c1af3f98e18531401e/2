@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdfySUy7GLsHVoxCmcUcV2YoQJ9G2UszDVDEkGbtBKiXx/nft.png",
+  "tokenId": 2,
+  "description": "Cool Apes #1",
+  "nftContractAddress": "0xec7d03a102387327b033a4c1af3f98e18531401e",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Cool Apes #2",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "navy blue"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bored lazy"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "glasses love red"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "punk style"
+    }
+  ]
+}

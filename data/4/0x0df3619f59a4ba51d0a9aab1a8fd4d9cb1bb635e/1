@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd9G4hqEkkXb15qMRHyH9zhhJVHeCZnfgkN1d5vi6Ru5w/nft.png",
+  "tokenId": 1,
+  "description": "testtest",
+  "nftContractAddress": "0x0df3619f59a4ba51d0a9aab1a8fd4d9cb1bb635e",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "test",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "shape",
+      "value": "1"
+    },
+    {
+      "trait_type": "coller",
+      "value": "ca"
+    }
+  ]
+}

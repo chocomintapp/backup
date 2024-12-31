@@ -1,0 +1,20 @@
+{
+  "image": "",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0xc246a6b928fb4b33893fa6035029c44df8bd429a",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "あああ",
+      "value": "あああ"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

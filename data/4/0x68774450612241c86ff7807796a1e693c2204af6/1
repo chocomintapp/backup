@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYmjWVmbQg4vtQuMrm29zM2KDKz35GGHfphKdwYA5uR9k/nft.png",
+  "tokenId": 1,
+  "description": "This is a first test",
+  "nftContractAddress": "0x68774450612241c86ff7807796a1e693c2204af6",
+  "animationUrl": "https://ipfs.io/ipfs/QmYmjWVmbQg4vtQuMrm29zM2KDKz35GGHfphKdwYA5uR9k/nft.png",
+  "chainId": "4",
+  "name": "Ant 1",
+  "attributes": [],
+  "minted": ""
+}

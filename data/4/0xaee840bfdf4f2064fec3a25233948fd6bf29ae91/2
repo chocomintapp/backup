@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYJ6zv5yAA1ZSjpQnxqQxgbLbMAzoq83Ewag3dzQuQRJK/nft.png",
+  "tokenId": 2,
+  "description": "swiss",
+  "nftContractAddress": "0xaee840bfdf4f2064fec3a25233948fd6bf29ae91",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "test"
+}

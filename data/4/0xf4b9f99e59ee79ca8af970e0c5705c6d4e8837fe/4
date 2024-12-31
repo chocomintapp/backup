@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTDWm6xJRmSULKVHZeUpQm4ghTy3Ak3PVY5NJe1SQcK5y/nft.png",
+  "tokenId": 4,
+  "description": "wwwwwwww",
+  "nftContractAddress": "0xf4b9f99e59ee79ca8af970e0c5705c6d4e8837fe",
+  "animationUrl": "https://ipfs.io/ipfs/QmSCc5ksRikxsqzcuFbbZpXtywa7yy6QvsG9U99jfoSmA8/nft.mp4",
+  "chainId": "4",
+  "name": "zikken2222",
+  "attributes": [
+    {
+      "trait_type": "aaa",
+      "value": "bbb"
+    }
+  ]
+}

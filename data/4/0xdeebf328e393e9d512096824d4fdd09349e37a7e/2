@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRWnE9bZi1ugwwvpwwTswqMf53jQQdJ1XNdr6tjoFTq2L/nft.gif",
+  "nftContractAddress": "0xdeebf328e393e9d512096824d4fdd09349e37a7e",
+  "animationUrl": "https://ipfs.io/ipfs/QmRWnE9bZi1ugwwvpwwTswqMf53jQQdJ1XNdr6tjoFTq2L/nft.gif",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "giftest#102",
+  "description": "name: Hoge\n-----------------\nname: ほげ",
+  "attributes": [
+    {
+      "value": "Smoke",
+      "trait_type": "Scene"
+    }
+  ],
+  "minted": "✅"
+}

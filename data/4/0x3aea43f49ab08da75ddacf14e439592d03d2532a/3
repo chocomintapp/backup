@@ -1,0 +1,24 @@
+{
+  "image": "",
+  "tokenId": 3,
+  "description": "",
+  "nftContractAddress": "0x3aea43f49ab08da75ddacf14e439592d03d2532a",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "",
+  "attributes": [
+    {
+      "trait_type": "test",
+      "value": "testteset"
+    },
+    {
+      "trait_type": "tetetest",
+      "value": "tetetest"
+    },
+    {
+      "trait_type": "aaasd",
+      "value": "aaa"
+    }
+  ],
+  "minted": "✅"
+}

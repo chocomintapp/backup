@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaSeKiLA77PY9qj7j57ATMbsSstwSWXxixRfi9Fq64J5a/nft.png",
+  "nftContractAddress": "0xdd15cf5847d323c8373b16210e58b56dc9a768e7",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "test#1",
+  "description": "試しに作ってみました。",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "red"
+    },
+    {
+      "value": "1",
+      "trait_type": "blue"
+    },
+    {
+      "value": "1",
+      "trait_type": "green"
+    },
+    {
+      "value": "1",
+      "trait_type": "black"
+    }
+  ]
+}

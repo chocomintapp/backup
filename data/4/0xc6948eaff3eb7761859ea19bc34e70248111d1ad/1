@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbYwf8vVzvpW46tgCpSG4XzykRYLeNzUmhoFRuwyeJqcs/nft.jpg",
+  "tokenId": 1,
+  "description": "tes11",
+  "nftContractAddress": "0xc6948eaff3eb7761859ea19bc34e70248111d1ad",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "tes11",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "1"
+    },
+    {
+      "trait_type": "outfit",
+      "value": "1"
+    }
+  ]
+}

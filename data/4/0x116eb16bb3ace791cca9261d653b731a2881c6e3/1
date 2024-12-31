@@ -1,0 +1,19 @@
+{
+  "image": "",
+  "nftContractAddress": "0x116eb16bb3ace791cca9261d653b731a2881c6e3",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "TEST",
+  "description": "日本語も入る",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "HP"
+    },
+    {
+      "value": "100",
+      "trait_type": "MP"
+    }
+  ]
+}

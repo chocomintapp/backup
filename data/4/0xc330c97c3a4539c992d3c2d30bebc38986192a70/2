@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRPwpPWpox83EbeL7woTer7gAWJbHvW471vjB6n4yBeMk/nft.jpeg",
+  "tokenId": 2,
+  "description": "ERC721 hay 1155?",
+  "nftContractAddress": "0xc330c97c3a4539c992d3c2d30bebc38986192a70",
+  "animationUrl": "https://ipfs.io/ipfs/QmSWodEgpH5R6JqiGLauNUipWhLz9UkjwKcUzTzWGENd45/nft.jpeg",
+  "chainId": "4",
+  "name": "Gon_222",
+  "attributes": [
+    {
+      "trait_type": "hair",
+      "value": "black"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

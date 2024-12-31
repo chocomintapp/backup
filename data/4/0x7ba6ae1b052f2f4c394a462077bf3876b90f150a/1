@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaNK2mDFvZ7vQe93xh7YgcDJ4Kz3jEHJRa63pvZ2tFy4o/nft.jpeg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x7ba6ae1b052f2f4c394a462077bf3876b90f150a",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "manabu-banana-test",
+  "attributes": []
+}

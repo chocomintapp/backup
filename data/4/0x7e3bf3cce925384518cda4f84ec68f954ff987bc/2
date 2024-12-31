@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdEBaRRoivfqt2yoHCCx4agqfmzgACUfscmNyKcLKk8Lj/nft.jpeg",
+  "nftContractAddress": "0x7e3bf3cce925384518cda4f84ec68f954ff987bc",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "kuma2",
+  "description": "kumachan kawaii",
+  "attributes": []
+}

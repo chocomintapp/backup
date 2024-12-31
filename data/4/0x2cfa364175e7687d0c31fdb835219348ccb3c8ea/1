@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTe4D1ZHML8FGmtdaPE3B6GVGy3skpV4esDKPNaEVWpUC/nft.jpg",
+  "nftContractAddress": "0x2cfa364175e7687d0c31fdb835219348ccb3c8ea",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "choco-taro",
+  "description": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

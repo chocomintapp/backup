@@ -1,0 +1,11 @@
+{
+  "image": "",
+  "tokenId": 8,
+  "description": "",
+  "nftContractAddress": "0x1c2b5891d70476f70634f6fa6279dda9dcf9adb2",
+  "animationUrl": "https://raw.githack.com/Aqrare/kusoge-metadata/main/game/SlotMachine/index.html",
+  "chainId": "4",
+  "name": "slot",
+  "attributes": [],
+  "minted": ""
+}

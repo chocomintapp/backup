@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX6MaFf1XqKBTMtNbFgTs5QiK4frQoMF8Rvr4phwYRe4V/nft.png",
+  "tokenId": 1,
+  "description": "ストロングなハンズです",
+  "nftContractAddress": "0x661080f3f9dc3c0f8432d54dcf7e3ec58a7edeae",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "StrongHands"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPNtcjJKX1EVSggSKtTWAiRjSj5Jdqk9R8K6sm1tQU28p/nft.png",
+  "tokenId": 1,
+  "description": "説明",
+  "nftContractAddress": "0x204f0aad7565091620ca3c05c689227a5e6d5cf9",
+  "animationUrl": "https://gateway.pinata.cloud/ipfs/QmanDBFeWD1AfDVkRYQrQFKtACqbdBHYjELbGVzV8K49Xv/?seed=0",
+  "chainId": "4",
+  "name": "token1",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

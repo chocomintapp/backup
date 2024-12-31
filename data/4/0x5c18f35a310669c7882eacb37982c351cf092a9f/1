@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfVLabVzTtsXcJiMm6emL4c9tC9mHVjx7yjrqRKipB5sz/nft.jpg",
+  "tokenId": 1,
+  "description": "日本の盆栽",
+  "nftContractAddress": "0x5c18f35a310669c7882eacb37982c351cf092a9f",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "BONSAI#1",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

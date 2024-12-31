@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYgGYFWnSPCnXmCN6LFfLf3cRDDrhqfiD2GA3RJCHfmks/nft.jpg",
+  "nftContractAddress": "0x119b840eaf97e786bfae7a01da4bc6161b42af86",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "test pic cf1",
+  "description": "test from cf",
+  "attributes": [
+    {
+      "value": "testC",
+      "trait_type": "test type"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,95 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUbVvw8nuiWvAp1Ps7J5sGuvoiwPWfgApf7rBGYLSXnud/nft.png",
+  "tokenId": 1,
+  "description": "これはこういうトークンです",
+  "nftContractAddress": "0x69e254297cec47f9a2458a384bdd925bfd628e04",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Token 1 ",
+  "attributes": [
+    {
+      "trait_type": "sex",
+      "value": "male"
+    },
+    {
+      "trait_type": "sex",
+      "value": "female"
+    },
+    {
+      "trait_type": "power",
+      "value": "5"
+    },
+    {
+      "trait_type": "type",
+      "value": "fire"
+    },
+    {
+      "trait_type": "color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "bgColor",
+      "value": "gray"
+    },
+    {
+      "trait_type": "eye",
+      "value": "brown"
+    },
+    {
+      "trait_type": "hand",
+      "value": "metal"
+    },
+    {
+      "trait_type": "sing",
+      "value": "good"
+    },
+    {
+      "trait_type": "body",
+      "value": "metal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "sports",
+      "value": "soccer"
+    },
+    {
+      "trait_type": "fanny",
+      "value": "cool"
+    },
+    {
+      "trait_type": "music",
+      "value": "guitar"
+    },
+    {
+      "trait_type": "test",
+      "value": "a"
+    },
+    {
+      "trait_type": "test",
+      "value": "b"
+    },
+    {
+      "trait_type": "test",
+      "value": "c"
+    },
+    {
+      "trait_type": "test",
+      "value": "d"
+    },
+    {
+      "trait_type": "test",
+      "value": "e"
+    },
+    {
+      "trait_type": "test",
+      "value": "f"
+    },
+    {
+      "trait_type": "test",
+      "value": "g"
+    }
+  ]
+}

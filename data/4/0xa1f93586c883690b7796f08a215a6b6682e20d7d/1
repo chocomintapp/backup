@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdccp2sAFzRnHh9x23MW31dNMwEhajB14kyrHwxhnbYWS/nft.jpg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xa1f93586c883690b7796f08a215a6b6682e20d7d",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "NYAN",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "NYAN",
+      "value": "CHOCO"
+    }
+  ]
+}

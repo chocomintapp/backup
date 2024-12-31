@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfXX3fR7NxL7QRkWViqCmpS36Sj4qtL4cqbQujswy145b/nft.jpg",
+  "nftContractAddress": "0xbb2c4d3a03c6b1b2ef68f2c51a4884bff0afa0ac",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "4",
+  "name": "著作権誰チョコミント",
+  "description": "っふぁｓｄｆ",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

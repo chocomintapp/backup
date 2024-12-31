@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUczjbvtFfi7PEzgznmuRUejueTHRNeVXZiKREbqWrhAb/nft.png",
+  "tokenId": 3,
+  "description": "changed",
+  "nftContractAddress": "0xc9e0a2c7d76531d2056f91e5501084f39423eb96",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "wqwq",
+  "attributes": [
+    {
+      "trait_type": "www",
+      "value": "www"
+    },
+    {
+      "trait_type": "qqq",
+      "value": "qqq"
+    }
+  ]
+}

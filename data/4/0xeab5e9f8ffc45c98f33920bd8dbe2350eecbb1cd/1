@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZfCJh7LXyA2Z2ns6irQeTo24dCYLnqVPGqvZckhq3VxS/nft.png",
+  "tokenId": 1,
+  "description": "A colorful mug and a teaspoon.\nThe cup is filled with a strawberry latte with milk.",
+  "nftContractAddress": "0xeab5e9f8ffc45c98f33920bd8dbe2350eecbb1cd",
+  "animationUrl": "https://ipfs.io/ipfs/Qmf757qK5JmhZVEooeUUkPhqf7NiMraqQwpxMbQMpYRV7c/nft.glb",
+  "chainId": "4",
+  "name": "Mug #1 Zakka",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Mug"
+    },
+    {
+      "trait_type": "COLOR",
+      "value": "Pastel yellow"
+    },
+    {
+      "trait_type": "SUBCOLOR",
+      "value": "Pastel pink"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Star shaped teaspoon"
+    }
+  ]
+}

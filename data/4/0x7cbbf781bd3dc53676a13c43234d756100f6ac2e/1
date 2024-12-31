@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNNX7zyhrtQpBEbNxCVwex3dcGBvBLDkEBnFsiQKUQhob/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x7cbbf781bd3dc53676a13c43234d756100f6ac2e",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "name",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "jutsu",
+      "value": "water"
+    },
+    {
+      "trait_type": "acssesary",
+      "value": "ring"
+    }
+  ]
+}

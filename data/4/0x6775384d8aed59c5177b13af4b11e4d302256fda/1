@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV8FB8q1UDWcgYmrEGsQC2X4uvhgHBkod1rJWBDwYWvpn/nft.png",
+  "tokenId": 1,
+  "description": "542ETH MUSIC",
+  "nftContractAddress": "0x6775384d8aed59c5177b13af4b11e4d302256fda",
+  "animationUrl": "https://ipfs.io/ipfs/QmV8FB8q1UDWcgYmrEGsQC2X4uvhgHBkod1rJWBDwYWvpn/nft.png",
+  "chainId": "4",
+  "name": "542ETH",
+  "attributes": [
+    {
+      "trait_type": "CHAOS",
+      "value": "542"
+    },
+    {
+      "trait_type": "HELL",
+      "value": "542"
+    },
+    {
+      "trait_type": "POEMCORE",
+      "value": "542"
+    },
+    {
+      "trait_type": "DARK",
+      "value": "542"
+    }
+  ],
+  "minted": ""
+}

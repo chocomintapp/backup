@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTifpCZdAihD6BuDuUc7TBnJrxPadSwXJi4MQEi9xKmqb/nft.JPG",
+  "tokenId": 8,
+  "description": "desc",
+  "nftContractAddress": "0x74c4bcd16a6d2614b0dc58b6a25ad6f9920c6118",
+  "animationUrl": "ipfs://QmV5fibbws51uBNc7tjMs2v8rGtXkZoAWt1CmBnAvUrNcL/id1.html",
+  "chainId": "4",
+  "name": "ml5jstest",
+  "attributes": [],
+  "minted": "✅"
+}

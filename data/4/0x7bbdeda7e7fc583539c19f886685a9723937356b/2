@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUAcyThciFUTEVQcnz1N63QkYvDK5FoXitgY5CrYKvz7s/nft.jpeg",
+  "nftContractAddress": "0x7bbdeda7e7fc583539c19f886685a9723937356b",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "Snoopy Portrait",
+  "description": "Close up!",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Shining",
+      "trait_type": "Background"
+    }
+  ]
+}

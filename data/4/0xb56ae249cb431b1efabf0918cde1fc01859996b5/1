@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU5D9YeEMYwp8kGSEorTtb7SeJAwYqP85YCz2fWX1thXv/nft.jpg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xb56ae249cb431b1efabf0918cde1fc01859996b5",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "test",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "eiga",
+      "value": "harma"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYiF8hg6pCVAcXhrNfngriq2e9FT9MRwJFwYE77rDZhNN/nft.jpg",
+  "tokenId": 1,
+  "description": "car 1 in contract 1",
+  "nftContractAddress": "0x3c83385b0252fa75a365f70a18a53a4eeeaeb2f4",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "car-c1-1"
+}

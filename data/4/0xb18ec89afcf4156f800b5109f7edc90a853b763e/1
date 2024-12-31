@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP76Q7RW6L1QufNXMtp7tsT36x9kAkVZYSo3dcZ9Y2eMr/nft.png",
+  "tokenId": 1,
+  "description": "texttexttext",
+  "nftContractAddress": "0xb18ec89afcf4156f800b5109f7edc90a853b763e",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Yoshino Dayu",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

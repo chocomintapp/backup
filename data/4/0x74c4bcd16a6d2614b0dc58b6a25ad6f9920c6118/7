@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbiLFyG2Z3utQwaPiy1gFY2W4kVu5DQBPKoBkDUWfEdLv/nft.JPG",
+  "tokenId": 7,
+  "description": "",
+  "nftContractAddress": "0x74c4bcd16a6d2614b0dc58b6a25ad6f9920c6118",
+  "animationUrl": "ipfs://QmfHFaUbxLySesVDfZBu1ucyUxvcFHwhcxn2uDwqJJkQrB/id1.html",
+  "chainId": "4",
+  "name": "generativetest",
+  "attributes": [],
+  "minted": "✅"
+}

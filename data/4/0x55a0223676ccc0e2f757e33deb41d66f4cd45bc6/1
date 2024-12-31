@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRBVZZnyiir5vSrGbijBpvRpmNDY8mkfwZJ68xwPG1GPL/nft.jpg",
+  "nftContractAddress": "0x55a0223676ccc0e2f757e33deb41d66f4cd45bc6",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "THE SUN",
+  "description": "sunsun",
+  "attributes": []
+}

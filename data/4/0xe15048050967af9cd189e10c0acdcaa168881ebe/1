@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSKRMkhLFYqGjtM9BkDUq89pJ5sNuCdh1xfkKxhqwoNEA/nft.jpg",
+  "nftContractAddress": "0xe15048050967af9cd189e10c0acdcaa168881ebe",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "IwakenIcon",
+  "description": "2017年のUniteTokyoで撮影したプロフィール写真",
+  "attributes": [],
+  "minted": "✅"
+}

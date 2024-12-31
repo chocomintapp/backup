@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdCnhPZLj28APpFryo84X89P4gNLubXiNFt6MvBcUJPUL/nft.jpg",
+  "tokenId": 65,
+  "description": "https://ipfs.io/ipfs/QmPYe39ekCpjtvWgjkBxyA7S83CkcWFkEWsub8ZzwhNJS2/nft.jpg",
+  "nftContractAddress": "0x65698c4b127cbc320ad5007807ebcd9a216b0339",
+  "animationUrl": "https://ipfs.io/ipfs/QmdCnhPZLj28APpFryo84X89P4gNLubXiNFt6MvBcUJPUL/nft.jpg",
+  "chainId": "4",
+  "name": "Krs-Art",
+  "attributes": [],
+  "minted": ""
+}

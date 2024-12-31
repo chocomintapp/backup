@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmekSGgdcVHPjwLmusDNcRNvJ3YFeFys8pjcDKsNTtmXcT/nft.png",
+  "tokenId": 8,
+  "description": "テスト用NFTです",
+  "nftContractAddress": "0x0a66a4ac486966ced75ac0039932b857b795b059",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "aaa",
+  "attributes": [],
+  "minted": "✅"
+}

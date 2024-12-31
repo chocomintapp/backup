@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdZKZWyibkcnp2FWKZNw5r5xcRcCM2R4YvcCDnaVRsm8G/nft.jpeg",
+  "nftContractAddress": "0x7bbdeda7e7fc583539c19f886685a9723937356b",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "4",
+  "name": "Snoopy The Pilot",
+  "description": "Flying to the moon",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Clear",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbeKYzSkfdBvi7XS4ALjxGVhhzVMmJRiSdKj6d2Qngb1p/nft.gif",
+  "tokenId": 3,
+  "description": "gif tes",
+  "nftContractAddress": "0xc6948eaff3eb7761859ea19bc34e70248111d1ad",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Gif tes",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "3"
+    },
+    {
+      "trait_type": "outfit",
+      "value": "3"
+    }
+  ]
+}

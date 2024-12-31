@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRWSip9p4tvFdid9Gh4xsLcLimC11YpHsbxzo669sXTx1/nft.jpg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x1009fea66806343b14f1bf7a37633c6e932511db",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "001",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Woman"
+    }
+  ]
+}

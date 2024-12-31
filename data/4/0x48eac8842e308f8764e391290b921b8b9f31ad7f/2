@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVsswvHyphaBCsFpTNNshfhappvoivkSqDykoBq9y5kud/nft.JPG",
+  "tokenId": 2,
+  "description": "有名な穂高岳です。",
+  "nftContractAddress": "0x48eac8842e308f8764e391290b921b8b9f31ad7f",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "穂高岳",
+  "attributes": [
+    {
+      "trait_type": "Size",
+      "value": "4032 x 3024"
+    }
+  ]
+}

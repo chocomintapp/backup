@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS7BseD2KMcQeQ5HCsrtBRorvKob3B2tXAnnYrQf5a5c9/nft.jpg",
+  "tokenId": 1,
+  "description": "new design ",
+  "nftContractAddress": "0xcbbcc03f90bc28fd3a2405264bbf4153e4025f51",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "OCO",
+  "attributes": [],
+  "minted": ""
+}

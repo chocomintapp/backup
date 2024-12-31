@@ -1,0 +1,9 @@
+{
+  "image": "",
+  "tokenId": 1,
+  "description": "This is a test post.The 3D model is from the following site.\nhttp://3dchaya.com/views/content/us/architecture/hourinji_pagota00.html",
+  "nftContractAddress": "0xa5a24d9d77ffc30b3cd69bec2aa30e6fcc84b036",
+  "animationUrl": "https://ipfs.io/ipfs/QmUygzzHa1ki7csZg9imYP8wxu5Xj91z1dLKGanwzs3ZGS/nft.glb",
+  "chainId": "4",
+  "name": "Test 3D model"
+}

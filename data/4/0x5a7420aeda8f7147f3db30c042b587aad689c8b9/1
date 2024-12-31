@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS6NCb1AH161d4GDBBr5tCSGhEc98HZbPAvAeJAoM44qw/nft.gif",
+  "tokenId": 1,
+  "description": "変更変更",
+  "nftContractAddress": "0x5a7420aeda8f7147f3db30c042b587aad689c8b9",
+  "animationUrl": "data:text/html,<!DOCTYPE html><html lang=\"en\"><head><meta http-equiv=\"Content-Security-Policy\" content=\"script-src \"self\" \"sha256-dtZQXTtwWaTWzlzbWQI5YFQO/v4LWqNq9cqtOQ8D9nI=\"\"></head><body><script>console.log(\"a\");</script><h1>Test</h1></body></html>",
+  "chainId": "4",
+  "name": "T",
+  "attributes": [
+    {
+      "trait_type": "Thisis",
+      "value": "cool"
+    },
+    {
+      "trait_type": "Aqua Power",
+      "display_type": "boost_number",
+      "value": 40
+    },
+    {
+      "lv": 60
+    }
+  ],
+  "minted": "✅"
+}

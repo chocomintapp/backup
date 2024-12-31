@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdFWgcwAvPiJQV8BWNR9169nGtbVpTa7qmjTUWNjNxfUw/nft.jpg",
+  "tokenId": 1,
+  "description": "This is a night curved mirror.\n\nIt is so interesting for me.\n\nThanks.",
+  "nftContractAddress": "0x864de042df6933c10c4e3ca51df7e839542390e9",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Night",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TagName",
+      "value": "TagValue"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmeo27G6pgiYdWBNXUjfCZhgLk6ud6TBJxEmP6UPDvaECH/nft.jpg",
+  "tokenId": 1,
+  "description": "Jack Ape NFT",
+  "nftContractAddress": "0x4c07db0a21965a0cdc6e9e9fcf0890834689f92a",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Jack Ape",
+  "attributes": [],
+  "minted": "✅"
+}

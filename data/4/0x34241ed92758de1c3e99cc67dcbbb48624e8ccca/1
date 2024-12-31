@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc4Zhbdt9pkcGj4coVi57ChAgzHb3potC6KCRXTADNUoQ/nft.gif",
+  "tokenId": 1,
+  "description": "sukajan NFT",
+  "nftContractAddress": "0x34241ed92758de1c3e99cc67dcbbb48624e8ccca",
+  "animationUrl": "https://ipfs.io/ipfs/QmVnLfBAtiMZH2yVtS2WZw4edTm6cgQfqHwB9mdTffFgku/nft.mp4",
+  "chainId": "4",
+  "name": "suka",
+  "attributes": []
+}

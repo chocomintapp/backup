@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYJB8gFztGoyy9kJzWotV8b1YiyJbAdJXSCNquyt82dVw/nft.png",
+  "tokenId": 6,
+  "description": "Music1",
+  "nftContractAddress": "0xea25db9d731e157f9a682b11552f75e7b6bc3e8d",
+  "animationUrl": "https://ipfs.io/ipfs/QmVvFBRtMkF4Vs5sWQbmnWJYNnns2KnEgkQp3m1NVsNzKe/nft.mp3",
+  "chainId": "4",
+  "name": "MusicTest1",
+  "attributes": []
+}

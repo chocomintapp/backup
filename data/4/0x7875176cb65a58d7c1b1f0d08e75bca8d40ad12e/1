@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdUJDSf6BuzpKam2ckpBSw9Dxtcx1Gf8wo9nc34urnA7Z/nft.png",
+  "tokenId": 1,
+  "description": "gnx-test",
+  "nftContractAddress": "0x7875176cb65a58d7c1b1f0d08e75bca8d40ad12e",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "test",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

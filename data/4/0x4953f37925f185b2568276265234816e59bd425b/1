@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWNLeZ2ZUegQNoRiW1TWD7DgcJmkYSrUQ1e5vexw6vACq/nft.jpeg",
+  "nftContractAddress": "0x4953f37925f185b2568276265234816e59bd425b",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "FirstToken",
+  "description": "This is the first ever minted TOKEN",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "WhatIsTrait"
+    }
+  ]
+}

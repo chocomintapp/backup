@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRWNECWpSwopcZKwRRLd3C8YH21scqJhELE4QThCWn82Q/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x4273defdff0db9d0f141606723c2811cd2da67a7",
+  "animationUrl": "https://clanvery-dev.vercel.app/cuMr8QxRuyodG5dPzSmKBax/iframe",
+  "chainId": "4",
+  "name": "CC",
+  "attributes": [],
+  "minted": ""
+}

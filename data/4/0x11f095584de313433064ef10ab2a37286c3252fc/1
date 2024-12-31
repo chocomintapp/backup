@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbF7zfeUDUiz9xBAVwGLGPm76gE1uk5zRFPQGd3DLS8Pn/nft.webp",
+  "tokenId": 1,
+  "description": "Event Pass",
+  "nftContractAddress": "0x11f095584de313433064ef10ab2a37286c3252fc",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Two Truths and a Lie",
+  "attributes": [],
+  "minted": ""
+}

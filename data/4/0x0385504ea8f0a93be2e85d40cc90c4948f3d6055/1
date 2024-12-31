@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNef8cAG9v1tRVfrp773QShemSsDxX2y32MXHnW27mRNQ/nft.jpg",
+  "tokenId": 1,
+  "description": "tes",
+  "nftContractAddress": "0x0385504ea8f0a93be2e85d40cc90c4948f3d6055",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "tes",
+  "attributes": [
+    {
+      "trait_type": "tes",
+      "value": "1"
+    },
+    {
+      "trait_type": "test",
+      "value": "2"
+    }
+  ]
+}

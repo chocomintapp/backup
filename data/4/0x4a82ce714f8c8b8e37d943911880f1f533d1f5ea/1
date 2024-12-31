@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmax8e5X8fVyFa79JT6ZXDTQ8V5V2L8n6qhNw58VPfqfN2/nft.jpg",
+  "nftContractAddress": "0x4a82ce714f8c8b8e37d943911880f1f533d1f5ea",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "A",
+  "description": "A",
+  "attributes": [
+    {
+      "value": "A",
+      "trait_type": "A"
+    },
+    {
+      "value": "A",
+      "trait_type": "A"
+    },
+    {
+      "value": "A",
+      "trait_type": "A"
+    }
+  ],
+  "minted": "✅"
+}

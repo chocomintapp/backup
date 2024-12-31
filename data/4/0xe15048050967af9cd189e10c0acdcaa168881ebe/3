@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmafX3KpQov3fKYtjtJzjYpTs5N9i3x7wUYP59LLWpwmL8/nft.jpg",
+  "nftContractAddress": "0xe15048050967af9cd189e10c0acdcaa168881ebe",
+  "animationUrl": "https://ipfs.io/ipfs/QmbAoLYbqDk36MmLV6DouTVPt5NwbRrUWcx9JbX8oamTea/nft.glb",
+  "tokenId": 3,
+  "chainId": "4",
+  "name": "IwakenCube",
+  "description": "Cubeに三次元化",
+  "attributes": [],
+  "minted": "✅"
+}

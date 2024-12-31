@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaKM9zN9Qi1Srj2CJ5pLpKczQzr99rphxQRZBTuFP9t9g/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xff3f7dc5cc2e9f1dfe8758add18d14ffae086597",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Joker",
+  "attributes": []
+}

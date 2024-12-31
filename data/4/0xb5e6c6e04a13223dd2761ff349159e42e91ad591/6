@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfAgFTm3CmQrgkLUsUYc5wXtdsBT9zpgh7RgqTAkuJikN/nft.png",
+  "tokenId": 6,
+  "description": "",
+  "nftContractAddress": "0xb5e6c6e04a13223dd2761ff349159e42e91ad591",
+  "animationUrl": "https://ipfs.io/ipfs/QmTHuv4XeDaNbB4WhCD6x4rN3kqrSuAHhp3erRxmNkXGZm/nft.glb",
+  "chainId": "4",
+  "name": "gltftest-1125",
+  "attributes": []
+}

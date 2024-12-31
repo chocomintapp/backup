@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSfPzNNLnS2CXv2Jb8eh5Ch2QGwfTH1n6ECGQ5f8vy2qW/nft.png",
+  "tokenId": 1,
+  "description": "Boy Ape NFT",
+  "nftContractAddress": "0xe0420e4758573c423a0c48fafde5a9e72fddf690",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "#1",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

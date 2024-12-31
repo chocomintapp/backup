@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPTMqZU1zbPLCfMXeEPHvr1gPJCnuMing2E5VfRctGreg/nft.png",
+  "tokenId": 1,
+  "description": "It's Mandarin orange",
+  "nftContractAddress": "0x093967545c9bb4059142ba73734bad6b531145b4",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "mikan",
+  "attributes": [
+    {
+      "trait_type": "attr1",
+      "value": "aatr1 val"
+    }
+  ]
+}

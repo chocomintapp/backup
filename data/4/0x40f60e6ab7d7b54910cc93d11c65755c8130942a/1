@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR2pMooB8sV1gw1Q11pURHBvMPGiD4aaRuvq5LaXotqkP/nft.png",
+  "nftContractAddress": "0x40f60e6ab7d7b54910cc93d11c65755c8130942a",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "あいうえお",
+  "description": "あいうえお",
+  "attributes": []
+}

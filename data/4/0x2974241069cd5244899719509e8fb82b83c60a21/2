@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYAqWbuAQ2QM56x53Mf8RxA2ZKuUoLCs9JtiH8bjgXoJV/nft.png",
+  "tokenId": 2,
+  "description": "test",
+  "nftContractAddress": "0x2974241069cd5244899719509e8fb82b83c60a21",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "2",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "文明",
+      "value": "緑文明"
+    }
+  ]
+}

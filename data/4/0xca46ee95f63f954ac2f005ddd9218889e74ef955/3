@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdZaBxq8RJvxdWoHzsmnGEgHMismYvG98neDVqTAbzMP5/nft.png",
+  "tokenId": 3,
+  "description": "ttssttss",
+  "nftContractAddress": "0xca46ee95f63f954ac2f005ddd9218889e74ef955",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "3go-ki",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "art skill",
+      "value": "green"
+    },
+    {
+      "trait_type": "herorank",
+      "value": "C"
+    }
+  ]
+}

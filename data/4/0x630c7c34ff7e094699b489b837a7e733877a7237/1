@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaWHYEvq7gwmFda3isdPoUvL9ehbRgMEVRB2BSmQ5f7g3/nft.png",
+  "tokenId": 1,
+  "description": "makerlogotest",
+  "nftContractAddress": "0x630c7c34ff7e094699b489b837a7e733877a7237",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "makerlogotest",
+  "minted": ""
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPxVp97PDEbHBbSuoSFyoKy8tYWQUNs6NRuZnWPRKgLbN/nft.mp4",
+  "nftContractAddress": "0x65dae5879c50a72bdefedf896b9d4e0143ef54f5",
+  "animationUrl": "https://ipfs.io/ipfs/QmPxVp97PDEbHBbSuoSFyoKy8tYWQUNs6NRuZnWPRKgLbN/nft.mp4",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "Chara-Genny feat. AstarCats #001",
+  "description": "This is a limited Chara-Genny NFT collaboration with Astor Cats.",
+  "attributes": [],
+  "minted": "✅"
+}

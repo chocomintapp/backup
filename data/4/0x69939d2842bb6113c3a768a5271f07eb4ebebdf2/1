@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZezc4v3mfALLBTmyrwwNP53r528z9BhJ66AMfc6u6t4L/nft.jpg",
+  "nftContractAddress": "0x69939d2842bb6113c3a768a5271f07eb4ebebdf2",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "Special NFT ",
+  "description": "Fantastic",
+  "attributes": []
+}

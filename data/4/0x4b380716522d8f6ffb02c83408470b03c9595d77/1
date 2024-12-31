@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcoLsNtca69XpjzEruhErPivtSDtsLvnqNYCQXcRTyVMn/nft.gif",
+  "nftContractAddress": "0x4b380716522d8f6ffb02c83408470b03c9595d77",
+  "animationUrl": "https://ipfs.io/ipfs/QmcoLsNtca69XpjzEruhErPivtSDtsLvnqNYCQXcRTyVMn/nft.gif",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "PAGE2_CHOCOMIN",
+  "description": "PAGE2",
+  "attributes": []
+}

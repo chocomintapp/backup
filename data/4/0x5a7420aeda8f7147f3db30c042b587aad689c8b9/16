@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXR2Zd8xv8w1s75fH3ytAKmfkPbf3v1YYUL4sgwe32oKE/nft.gif",
+  "tokenId": 16,
+  "description": "aaa",
+  "nftContractAddress": "0x5a7420aeda8f7147f3db30c042b587aad689c8b9",
+  "animationUrl": "https://ipfs.io/ipfs/QmPmDTfrVaQiA735PbUq81WgSwFFcGRiNYWH962vMpMRBE/nft.mp4",
+  "chainId": "4",
+  "name": "AnimationURL",
+  "minted": "✅"
+}

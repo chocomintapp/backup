@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVLJBYgS4u8rBgq2DNVhTDnr4fqceNDXRDzr46YpbTm83/nft.jpg",
+  "nftContractAddress": "0x2d1c7ce1f3f5170131cbf742ae9efc9c3e7595a4",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "fad",
+  "description": "adf",
+  "attributes": []
+}

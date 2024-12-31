@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfLAciab2kkaAvNg5fPtpWN6R1Bn8ZSTtNcgwKwLJZseN/nft.png",
+  "tokenId": 1,
+  "description": "These are utility tokens for the story \"Super Picell\" created by the creator \"muhus\".\nThese are membership certificates for those with a \"Gold\" membership rank.",
+  "nftContractAddress": "0xaa9922994a02bde24aafab90eb32660d30ead7f8",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Gold Membership Certificate",
+  "attributes": [],
+  "minted": "✅"
+}

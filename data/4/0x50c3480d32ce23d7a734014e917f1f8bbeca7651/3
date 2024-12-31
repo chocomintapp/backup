@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZgBhYDqdDUGHeZpEJguJLG8qUSJbW8gTppM7DrUcHUAb/nft.jpg",
+  "tokenId": 3,
+  "description": "description",
+  "nftContractAddress": "0x50c3480d32ce23d7a734014e917f1f8bbeca7651",
+  "animationUrl": "https://ipfs.io/ipfs/QmTtJHVyuCTvucoLLKFSNeyh2LQQyu7P2VaDzUixp4Tsgh/nft.mp3",
+  "chainId": "4",
+  "name": "test3",
+  "attributes": [
+    {
+      "trait_type": "Title",
+      "value": "Neck Snap"
+    },
+    {
+      "trait_type": "Format",
+      "value": "mp3"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdZyoBz8FFJ9spFPvvaLU3Cs86yA6bUj4rYEqmh3f8kUq/nft.jpg",
+  "nftContractAddress": "0x7fa7f30a9ac7784bfcc0f5cb288e3071afc04ae4",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "4",
+  "name": "House2",
+  "description": "House of NFT",
+  "attributes": []
+}

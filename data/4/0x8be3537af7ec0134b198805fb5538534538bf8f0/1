@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaYZadVTumRwxTQZ7qvz1iNg2DGa5xY8rwsoWhRr2huZ9/nft.png",
+  "nftContractAddress": "0x8be3537af7ec0134b198805fb5538534538bf8f0",
+  "animationUrl": "https://ipfs.io/ipfs/QmaYZadVTumRwxTQZ7qvz1iNg2DGa5xY8rwsoWhRr2huZ9/nft.png",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "ku",
+  "description": "",
+  "attributes": []
+}

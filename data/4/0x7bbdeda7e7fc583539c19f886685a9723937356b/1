@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV17pdfSE9VEMd5UYHdMNFMDQAz45rrnSACcgqW4n6san/nft.jpeg",
+  "nftContractAddress": "0x7bbdeda7e7fc583539c19f886685a9723937356b",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "First Beagle in Space",
+  "description": "Snoopy in the Space",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Stars",
+      "trait_type": "Background"
+    }
+  ]
+}

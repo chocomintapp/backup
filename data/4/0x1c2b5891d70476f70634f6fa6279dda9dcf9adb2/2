@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeBRL9WS9qWmCRBVjTxeZ7G6cxFfVBFsRrhyMrLMk3Ktj/nft.png",
+  "tokenId": 2,
+  "description": "updated",
+  "nftContractAddress": "0x1c2b5891d70476f70634f6fa6279dda9dcf9adb2",
+  "animationUrl": "https://gateway.pinata.cloud/ipfs/QmcHLAdVU7FPQmQQMSsmhMVBkiW4sFgZADEzfergoEYvxm/",
+  "chainId": "4",
+  "name": "NEXT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": "1"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    }
+  ]
+}

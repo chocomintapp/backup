@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQT8R83tq8Udk4W1uytzgDKia2Er9JbY1HVfKqgkmfL6C/nft.jpeg",
+  "nftContractAddress": "0x4d27bd461b3cfd04a82103359c77e082a3b351d7",
+  "animationUrl": "https://ipfs.io/ipfs/QmQT8R83tq8Udk4W1uytzgDKia2Er9JbY1HVfKqgkmfL6C/nft.jpeg",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "Rinkerby _chocomint_Project",
+  "description": "Rinkerby _chocomint_Project",
+  "attributes": []
+}

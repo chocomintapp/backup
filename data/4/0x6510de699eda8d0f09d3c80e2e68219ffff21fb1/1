@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXXabZCRfHyhLBVkisCPfjDtnP4shxPP37s9Acz79nrpq/nft.png",
+  "nftContractAddress": "0x6510de699eda8d0f09d3c80e2e68219ffff21fb1",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "Grass-four-icon",
+  "description": "ディスクリプション",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "タグ"
+    }
+  ],
+  "minted": ""
+}

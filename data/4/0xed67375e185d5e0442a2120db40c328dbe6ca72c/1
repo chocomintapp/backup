@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP3ffyyypY2u2rhnsVeGhDAhYz5J3egdggkkiNqwNYhpy/nft.jpg",
+  "nftContractAddress": "0xed67375e185d5e0442a2120db40c328dbe6ca72c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "Kami",
+  "description": "kamikami",
+  "attributes": [
+    {
+      "value": "B",
+      "trait_type": "A"
+    },
+    {
+      "value": "",
+      "trait_type": "C"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma26MfjfbsCrfYraC4R1HKU9vKvjTFB9LqpCrgXGT1iPj/nft.JPG",
+  "tokenId": 3,
+  "description": "CHIISANA TAKI",
+  "nftContractAddress": "0x48eac8842e308f8764e391290b921b8b9f31ad7f",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "TAKI",
+  "attributes": [
+    {
+      "trait_type": "SIZE",
+      "value": "3024 X 4032"
+    }
+  ]
+}

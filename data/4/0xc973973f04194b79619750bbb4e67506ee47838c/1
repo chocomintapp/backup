@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeB6ymU1t5nXhL8TtLLhAfsrcr7E8sFbxXHcY4Baxh8eK/nft.png",
+  "nftContractAddress": "0xc973973f04194b79619750bbb4e67506ee47838c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "Hallo NFT",
+  "description": "説明",
+  "attributes": []
+}

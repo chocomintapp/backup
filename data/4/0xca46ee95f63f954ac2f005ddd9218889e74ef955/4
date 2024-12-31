@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdWqBPQRj8aVuoiiRpHFukNJMyYDoUKxjPpQgYu6M11ee/nft.png",
+  "tokenId": 4,
+  "description": "ttssttss",
+  "nftContractAddress": "0xca46ee95f63f954ac2f005ddd9218889e74ef955",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "4go-ki",
+  "attributes": [
+    {
+      "trait_type": "art skill",
+      "value": "red"
+    },
+    {
+      "trait_type": "herorank",
+      "value": "L"
+    }
+  ],
+  "minted": ""
+}

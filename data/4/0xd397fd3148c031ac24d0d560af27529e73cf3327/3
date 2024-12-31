@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTegChPTTTZBAn9QLadSje9LefSMQXG5ynoV453mWcLzG/nft.jpg",
+  "nftContractAddress": "0xd397fd3148c031ac24d0d560af27529e73cf3327",
+  "animationUrl": "https://ipfs.io/ipfs/QmTegChPTTTZBAn9QLadSje9LefSMQXG5ynoV453mWcLzG/nft.jpg",
+  "tokenId": 3,
+  "chainId": "4",
+  "name": "RV_Test_another_NFT",
+  "description": "This BRAND NEW RV is perfect for your next road trip. With a queen bed, 2 bunk beds, and 2 sofa beds, it can fit 10 people comfortably. In addition, it features its own kitchen with a working sink, oven, stove, microwave, and refrigerator. Moreover, the bathroom features a toilet and indoor shower! A unique feature not found in many other RVs, is out separate lounge area which features a couch and a TV; perfect for your kids!",
+  "attributes": [
+    {
+      "value": "2022",
+      "trait_type": "YEAR"
+    },
+    {
+      "value": "0001",
+      "trait_type": "Collection"
+    }
+  ],
+  "minted": ""
+}

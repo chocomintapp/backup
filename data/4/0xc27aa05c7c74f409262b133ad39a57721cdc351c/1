@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPBufnmUG4Ye9QRDiYrYSNK3kh9U1aRN4tkiQR2p1qXtA/nft.jpg",
+  "tokenId": 1,
+  "description": "Tes1",
+  "nftContractAddress": "0xc27aa05c7c74f409262b133ad39a57721cdc351c",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "#1",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "one",
+      "value": "one"
+    }
+  ]
+}

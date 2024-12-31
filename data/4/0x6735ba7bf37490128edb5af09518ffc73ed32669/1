@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQMQJEmAJ6QjQf1cYzXUWMinFWvJfT1pR41F5NKGs2NWW/nft.png",
+  "nftContractAddress": "0x6735ba7bf37490128edb5af09518ffc73ed32669",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "YUZU",
+  "description": "YUZU",
+  "attributes": []
+}

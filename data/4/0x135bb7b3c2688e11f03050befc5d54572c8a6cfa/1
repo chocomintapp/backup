@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX76AqP7Hb8aW3EetFu1EFtKmQZHZizK8SCd6SfgqYsjF/nft.jpg",
+  "nftContractAddress": "0x135bb7b3c2688e11f03050befc5d54572c8a6cfa",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "Horizon",
+  "description": "Test",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "Horizontal"
+    }
+  ]
+}

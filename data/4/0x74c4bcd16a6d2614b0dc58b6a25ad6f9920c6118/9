@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZyc8kD6KsmwwYNpaKmhHQNUfQ3mMrmEX3yBZCvLW9T9w/nft.JPG",
+  "tokenId": 9,
+  "description": "",
+  "nftContractAddress": "0x74c4bcd16a6d2614b0dc58b6a25ad6f9920c6118",
+  "animationUrl": "ipfs://QmSjkFBqyvEVrMMCPmq4K7oSF1QdMdmR15VBDpF4ieSJk1",
+  "chainId": "4",
+  "name": "chrtest",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "series",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "model",
+      "value": "Gaussian"
+    },
+    {
+      "trait_type": "meanZ",
+      "value": "0.002"
+    },
+    {
+      "trait_type": "sdZ",
+      "value": "0.023"
+    },
+    {
+      "trait_type": "priceInit",
+      "value": "0.05"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc2N1tDM9YvnreRvi39SKdc5nocAzKtACBwLoku6uT3Er/nft.png",
+  "tokenId": 1,
+  "description": "test_desu",
+  "nftContractAddress": "0xff62dc9d4cc089c9711909f915bdb0400bad3c98",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "test_nft_ryo",
+  "attributes": []
+}

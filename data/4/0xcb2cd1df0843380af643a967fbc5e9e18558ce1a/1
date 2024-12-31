@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUeCuxT1NYS8CvfokPyBXMytG3RfZDNUHoZvSvdEofF6G/nft.png",
+  "tokenId": 1,
+  "description": "testy",
+  "nftContractAddress": "0xcb2cd1df0843380af643a967fbc5e9e18558ce1a",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "testy",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "bgcolor",
+      "value": "blue"
+    }
+  ]
+}

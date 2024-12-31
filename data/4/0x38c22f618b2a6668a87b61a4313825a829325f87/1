@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTaZ9NCZULWE448Spy437ePEkjK5nobGajUatSbGkjnHK/nft.jpg",
+  "tokenId": 1,
+  "description": "テストトークン",
+  "nftContractAddress": "0x38c22f618b2a6668a87b61a4313825a829325f87",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "mynewtoken"
+}

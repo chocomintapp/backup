@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS8oX6F8XhMco7a2Q2te4avaBP2RYoKAWDSqHdSUo2Qxt/nft.jpg",
+  "tokenId": 1,
+  "description": "FirstNFT",
+  "nftContractAddress": "0xd07aca06c784f16eaa3846236cb5c0294ca3e487",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Tok-C-NFT",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Gray"
+    }
+  ]
+}

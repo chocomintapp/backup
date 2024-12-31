@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRkYqH5rn8ohNZDMwc4YE2PqZJY62LXnNVv1Ahg5UiMGN/nft.jpg",
+  "tokenId": 1,
+  "description": "italwos",
+  "nftContractAddress": "0x802d724124ffe70c8491d9024be2b70165c61819",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "US",
+  "attributes": [
+    {
+      "trait_type": "hulk",
+      "value": "100"
+    }
+  ]
+}

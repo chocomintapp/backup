@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdTnKX96JWMzzMgBoLLq4B4chT3vAAt4wgiofiacy8MUP/nft.png",
+  "tokenId": 1,
+  "description": "MSのトークン",
+  "nftContractAddress": "0x24c593368416699592def7c93d02d1907be971e1",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "ringo"
+}

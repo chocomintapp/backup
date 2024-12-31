@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQNEDMo9nFMsXiuGp9YZ5fNRBfDTVvXp8iZjH1gk9pJix/nft.png",
+  "tokenId": 1,
+  "description": "wfwefewfwef",
+  "nftContractAddress": "0x1959e96aa35e2af216a802f42ca7d6072487aa15",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "test-20211001",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

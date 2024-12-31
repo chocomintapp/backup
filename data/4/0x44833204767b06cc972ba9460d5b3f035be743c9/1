@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVX7g1RcBebdaVs57xW44hRSorU89aL8vk1L9bVy4aSNg/nft.png",
+  "nftContractAddress": "0x44833204767b06cc972ba9460d5b3f035be743c9",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "web3search membership test NFT #1",
+  "description": "",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "No"
+    }
+  ]
+}

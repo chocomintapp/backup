@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW3Cf1Y99pGiwyVjaKR2vEAE3xjCfcqxmNg2WHEBDmiuG/nft.svg",
+  "nftContractAddress": "0xe59ff5cfca8747c16dfc0c3904c568ce469c171e",
+  "animationUrl": "https://ipfs.io/ipfs/QmW3Cf1Y99pGiwyVjaKR2vEAE3xjCfcqxmNg2WHEBDmiuG/nft.svg",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "Curly",
+  "description": "Meet cheerful friends! Drawn by a Ukrainian artist. ",
+  "attributes": [],
+  "minted": "✅"
+}

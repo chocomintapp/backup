@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYN1gDKDhEKnYKgzevoTwhtvYtAQLLUHSGa4SoqWP8kN9/nft.jpeg",
+  "tokenId": 1,
+  "description": "hogehoge",
+  "nftContractAddress": "0x048d5fee483ea9ca5391a139e3f8541750746b59",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "hogehoge"
+}

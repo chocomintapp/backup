@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd3JTk4FVjk4yjwNbSbGZMAAUm8hdVsfHx87yPJR2sSUR/nft.png",
+  "tokenId": 1,
+  "description": "fuga",
+  "nftContractAddress": "0xac2872743288b30d5ca3fff1563d07bd5fd0ab72",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "hoge",
+  "attributes": [
+    {
+      "trait_type": "hoge",
+      "value": "fuga"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTQrYeKHQmpRRDNRvn4Xzcn1ekQ4K8UCJUMseXvRXSKo7/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x7352595fb5f2f1b0acb323098b5d4509524fb4ee",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "token1",
+  "attributes": []
+}

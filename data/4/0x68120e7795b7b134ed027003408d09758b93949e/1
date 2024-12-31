@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdX7e3yF27xh16bVLotpZ83y5RdNk4yqXEkZNSvTRbo2J/nft.png",
+  "tokenId": 1,
+  "description": "test2",
+  "nftContractAddress": "0x68120e7795b7b134ed027003408d09758b93949e",
+  "animationUrl": "https://ipfs.io/ipfs/QmeEvz9sitNNSVfYimbg4iU54aNphj4tSptoUdqUFvEbbC/nft.png",
+  "chainId": "4",
+  "name": "test2",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

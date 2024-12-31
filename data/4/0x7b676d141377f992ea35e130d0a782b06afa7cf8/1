@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRnW3eLyoKhML8AWSZo2MigmbxTrA3KS5U4XqZQMisT9W/nft.png",
+  "nftContractAddress": "0x7b676d141377f992ea35e130d0a782b06afa7cf8",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "G",
+  "description": "The \"G\" is a mysterious family of litter.\n\n\"G\"はゴキの中でも謎に包まれた一族\n",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "mop"
+    },
+    {
+      "value": "1",
+      "trait_type": " bucket"
+    },
+    {
+      "value": "1",
+      "trait_type": "blue"
+    },
+    {
+      "value": "1",
+      "trait_type": "leader"
+    },
+    {
+      "value": "1",
+      "trait_type": "G"
+    }
+  ]
+}

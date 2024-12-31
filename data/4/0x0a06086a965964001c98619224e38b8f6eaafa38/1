@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWkjeaf6WDZaKURQzLBvh96cjZeHUyGXfFaR6zRnKG5TN/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x0a06086a965964001c98619224e38b8f6eaafa38",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "DROP_TEST",
+  "attributes": [
+    {
+      "trait_type": "1",
+      "value": "0.1"
+    }
+  ]
+}

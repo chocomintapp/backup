@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcRqqGML12DAA169nSsVF6q9XLCFJ7XytTpjX8y8ceFJG/nft.mp4",
+  "tokenId": 2,
+  "description": "This is NFT's Description",
+  "nftContractAddress": "0x36cb62f1e4f19d5d0c3b5b6e146b66a5f89d8a04",
+  "animationUrl": "https://ipfs.io/ipfs/QmcRqqGML12DAA169nSsVF6q9XLCFJ7XytTpjX8y8ceFJG/nft.mp4",
+  "chainId": "4",
+  "name": "RFS #testnet",
+  "attributes": [
+    {
+      "trait_type": "Mood",
+      "value": "Ambient"
+    }
+  ]
+}

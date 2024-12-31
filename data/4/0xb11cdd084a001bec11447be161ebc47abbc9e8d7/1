@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYMhns71bNqjfcDX3jPQ5vytp9G8Cd8vCyJgWeuC5Vms9/nft.jpg",
+  "nftContractAddress": "0xb11cdd084a001bec11447be161ebc47abbc9e8d7",
+  "animationUrl": "https://ipfs.io/ipfs/QmYMhns71bNqjfcDX3jPQ5vytp9G8Cd8vCyJgWeuC5Vms9/nft.jpg",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "AIR KANBAY ZERO #1",
+  "description": "\"AIR KANBAY ZERO\" will serve as a key for future projects.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

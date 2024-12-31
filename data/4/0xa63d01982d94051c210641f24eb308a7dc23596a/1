@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYcFGFwUeGbaDcv1dWrir2bncktKwxfPA5UQ3BHPBvDWf/nft.jpg",
+  "tokenId": 1,
+  "description": "太郎が太郎してるNFTです",
+  "nftContractAddress": "0xa63d01982d94051c210641f24eb308a7dc23596a",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Taro NFT",
+  "attributes": []
+}

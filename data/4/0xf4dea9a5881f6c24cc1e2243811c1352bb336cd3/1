@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdY2uwTLwDvgFL3HxmLXm3AY6GSUHXq8vcN7AgmuGhC5p/nft.jpg",
+  "nftContractAddress": "0xf4dea9a5881f6c24cc1e2243811c1352bb336cd3",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "concac ",
+  "description": "abc",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "songuoi"
+    }
+  ]
+}

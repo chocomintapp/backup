@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPPHizWBc6n3YRfWUh624BSnWS1SMbuqtYmDj1S41Y2bF/nft.jpg",
+  "nftContractAddress": "0x0bfd59f6275a0c1a54aecf0f578ca6457fdec509",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "Sayumi",
+  "description": "",
+  "attributes": [
+    {
+      "value": "BLACK",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "KANZASHI",
+      "trait_type": "ACCESSORY"
+    }
+  ]
+}

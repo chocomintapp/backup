@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXw3xTbsns7nMLK9Kdraty6T9R46x7jQY6Gss4gm6K3HE/nft.JPG",
+  "tokenId": 1,
+  "description": "first",
+  "nftContractAddress": "0x310df71d04ab273d335fef0988648c0fa9ac391b",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "tamuken-1",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

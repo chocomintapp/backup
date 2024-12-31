@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY6uDwXYFHmnqRKR4kYHYTeXunSSwREspd6JNwc9e4wyn/nft.jpg",
+  "nftContractAddress": "0xfb7481d2a67e7f9508a4b9a46687908119cc6faf",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "test2",
+  "description": "This is test2",
+  "attributes": [
+    {
+      "value": "Three Great Spears of Japan",
+      "trait_type": "Series"
+    }
+  ]
+}

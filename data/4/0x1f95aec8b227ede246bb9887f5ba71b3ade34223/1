@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeZA173UVDULdTsEPs2TTQUcbHboF5dQpAppeSgvFY3Y9/nft.gif",
+  "tokenId": 1,
+  "description": "description. 日本語",
+  "nftContractAddress": "0x1f95aec8b227ede246bb9887f5ba71b3ade34223",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "RY-t01",
+  "attributes": [],
+  "minted": ""
+}

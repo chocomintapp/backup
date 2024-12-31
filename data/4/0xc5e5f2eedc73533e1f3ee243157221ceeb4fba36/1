@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX9k1LSmQfxiZaMFdLAtoHTFw6MmZaNomKpYHGWXRRMq2/nft.jpg",
+  "tokenId": 1,
+  "description": "NFT_Creator_001",
+  "nftContractAddress": "0xc5e5f2eedc73533e1f3ee243157221ceeb4fba36",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "NFT_Creator_001",
+  "attributes": []
+}

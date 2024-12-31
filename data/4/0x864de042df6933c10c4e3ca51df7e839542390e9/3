@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUiSDCfByeAazB4kwtjRXP7gJHVGCEW3rUnF5qgkexU2i/nft.jpg",
+  "tokenId": 3,
+  "description": "This is a sky and cloud.",
+  "nftContractAddress": "0x864de042df6933c10c4e3ca51df7e839542390e9",
+  "animationUrl": "hogehoge",
+  "chainId": "4",
+  "name": "SkySky",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

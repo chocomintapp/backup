@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQgojo2VWnp3F8RMC665FaVC521Pud7EQP15MxDB4qobs/nft.jpg",
+  "tokenId": 2,
+  "description": "BONSAI",
+  "nftContractAddress": "0x5c18f35a310669c7882eacb37982c351cf092a9f",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "BONSAI#3",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

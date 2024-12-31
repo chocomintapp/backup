@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTZjisrDXBZptLHcLDiQ4ejHXsfXFw1dd3DrUFdpyB2Lz/nft.jpg",
+  "tokenId": 1,
+  "description": "ss",
+  "nftContractAddress": "0xd18d9049ddda1f0beb84049173477b1810b36543",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "ab1",
+  "attributes": [
+    {
+      "trait_type": "a",
+      "value": "zz"
+    },
+    {
+      "trait_type": "z",
+      "value": "oa"
+    },
+    {
+      "trait_type": "c ",
+      "value": "ba"
+    }
+  ]
+}

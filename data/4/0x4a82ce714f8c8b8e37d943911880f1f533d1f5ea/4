@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRH9FFu3nGmkbQ4bVQCvrnL8tNcYs8ZUkmijaiST2ft1L/nft.png",
+  "nftContractAddress": "0x4a82ce714f8c8b8e37d943911880f1f533d1f5ea",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "4",
+  "name": "4",
+  "description": "4",
+  "attributes": [
+    {
+      "value": "a",
+      "trait_type": "Background"
+    },
+    {
+      "value": "a",
+      "trait_type": "Body"
+    },
+    {
+      "value": "a",
+      "trait_type": "Type"
+    },
+    {
+      "value": "a",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "a",
+      "trait_type": "Mouth"
+    }
+  ]
+}

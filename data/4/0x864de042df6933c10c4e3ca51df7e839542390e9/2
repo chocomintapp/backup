@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeTzFFyJYW9383SUoTaUZUTMsZnUPKgeECsrkaubrewds/nft.jpg",
+  "tokenId": 2,
+  "description": "Blue minimal arch\n\nThanks",
+  "nftContractAddress": "0x864de042df6933c10c4e3ca51df7e839542390e9",
+  "animationUrl": "https://ipfs.io/ipfs/QmeTzFFyJYW9383SUoTaUZUTMsZnUPKgeECsrkaubrewds/nft.jpg",
+  "chainId": "4",
+  "name": "Blue",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TraitTag",
+      "value": "TraitValue"
+    }
+  ]
+}

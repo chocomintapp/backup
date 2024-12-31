@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPGcQRVsL77p7tDoYGpAWsdScKMikdcg3AN5a2CQNujEn/nft.png",
+  "tokenId": 1,
+  "description": "DNA HELIX",
+  "nftContractAddress": "0x26343573a4deefa193e7365270fd3bf253a5bc2a",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Crypto Gunzo-zu prototype",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

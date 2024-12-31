@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSQYaESitcgJXZ4sjwGNEfjrwNrS5tUXet5h5UULZrNgo/nft.jpg",
+  "nftContractAddress": "0x0d5224c2da4915e9c536aa33916c83b67b7770f4",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "test",
+  "description": "test",
+  "attributes": [],
+  "minted": "✅"
+}

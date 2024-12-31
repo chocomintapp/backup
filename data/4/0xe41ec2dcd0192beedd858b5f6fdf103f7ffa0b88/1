@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW8AoX5ZZj1svX5MSaU92f7bAPDZ91cEukzuhH7AWDAiD/nft.png",
+  "nftContractAddress": "0xe41ec2dcd0192beedd858b5f6fdf103f7ffa0b88",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "CatEater #1",
+  "description": "CatEater Collection ",
+  "attributes": []
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWCjMZuqxSt1jdrDoir4cixFKqGAQQYfPSF9aZqvcMsuf/nft.jpg",
+  "tokenId": 2,
+  "description": "hhh",
+  "nftContractAddress": "0x10d0593ca8c246ace9aea00ee834b666c4dae1b7",
+  "animationUrl": "https://ipfs.io/ipfs/QmWCjMZuqxSt1jdrDoir4cixFKqGAQQYfPSF9aZqvcMsuf/nft.jpg",
+  "chainId": "4",
+  "name": "nnn",
+  "attributes": []
+}

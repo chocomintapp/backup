@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUHMdYocvwu1ALwbtZnM47f7GXJE4sEoS7JSEHVmKeKgq/nft.jpg",
+  "tokenId": 1,
+  "description": "ASdas",
+  "nftContractAddress": "0xb2ae4af0df70c40a8c18fbc9e0fb07e971f5b244",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "あAA",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

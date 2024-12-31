@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW8ZHFeyh2s5oVefi1a9PpDoyfUn1asf1gAgzPwBfsGVc/nft.JPG",
+  "tokenId": 81,
+  "description": "Test minted pieces on Rinkeby Testnet for teaching purposes. For Trading\n\nKrs 2022/01/10",
+  "nftContractAddress": "0x65698c4b127cbc320ad5007807ebcd9a216b0339",
+  "animationUrl": "https://ipfs.io/ipfs/QmW8ZHFeyh2s5oVefi1a9PpDoyfUn1asf1gAgzPwBfsGVc/nft.JPG",
+  "chainId": "4",
+  "name": "Krs-Art",
+  "attributes": []
+}

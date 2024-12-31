@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWg7B2XE9QmmYH8hFuPRjQjMfsVQ5c3zYCv7XnC9AGw3v/nft.mp4",
+  "tokenId": 2,
+  "description": "Owners can use this sound indefinitely in their creativity even commercial use.\nInclude KEY to unlock the contents like WAV, AEP, PRPROJ... which means you can recreate as you like.",
+  "nftContractAddress": "0x11b35a709f655a0e114b29a75de0f0ed5f761276",
+  "animationUrl": "https://ipfs.io/ipfs/QmWg7B2XE9QmmYH8hFuPRjQjMfsVQ5c3zYCv7XnC9AGw3v/nft.mp4",
+  "chainId": "4",
+  "name": "RFS #A1DFFF/02",
+  "attributes": [
+    {
+      "trait_type": "Mood",
+      "value": "Motivate"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Cool"
+    }
+  ]
+}

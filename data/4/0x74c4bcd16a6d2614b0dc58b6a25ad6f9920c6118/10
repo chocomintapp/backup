@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQQ49MaUfJJTZheFiXgXDq48b32GuK9McyUv1Am8hkkym/nft.PNG",
+  "tokenId": 10,
+  "description": "",
+  "nftContractAddress": "0x74c4bcd16a6d2614b0dc58b6a25ad6f9920c6118",
+  "animationUrl": "https://utsp2-eiaaa-aaaad-qa2oq-cai.ic.fleek.co/",
+  "chainId": "4",
+  "name": "Hello Internet Computer",
+  "attributes": [],
+  "minted": ""
+}

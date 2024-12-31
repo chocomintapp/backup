@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSEjSFSdWdJqM4YdWbitpyEN5cfmCPC5yKcvLiqonbSRn/nft.jpg",
+  "tokenId": 1,
+  "description": "しろ",
+  "nftContractAddress": "0xa5951a787b1f77c2af149632d1f3f0dcb236bcff",
+  "animationUrl": "https://ipfs.io/ipfs/QmSEjSFSdWdJqM4YdWbitpyEN5cfmCPC5yKcvLiqonbSRn/nft.jpg",
+  "chainId": "4",
+  "name": "白",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

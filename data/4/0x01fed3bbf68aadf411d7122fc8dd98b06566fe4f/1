@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX2RfTpeDA8UtaQX5saNn1h5Nx5qBR3jXNJJuk6wGKJT9/nft.png",
+  "tokenId": 1,
+  "description": "This is Test",
+  "nftContractAddress": "0x01fed3bbf68aadf411d7122fc8dd98b06566fe4f",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "KttyTest1stEDition"
+}

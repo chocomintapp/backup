@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNdzgMKa2avhNA37douLuLKibWFQwQbV5MLxPNU8xx6di/nft.jpeg",
+  "nftContractAddress": "0xa49e41c60b1f95f71a318ce4f36ce117d938c460",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "METXI",
+  "description": "METSIDIBIBFDIUBFOU",
+  "attributes": [
+    {
+      "value": "Metis",
+      "trait_type": "CHAin"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaZRHvULLhRU3X43FS5rGm84QHbQWdXRSs6mK9xdQtPJP/nft.png",
+  "nftContractAddress": "0x2560260acbb0b993746231ffa4707568f7ca0646",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "wolf police",
+  "description": "wolf police description",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "number"
+    },
+    {
+      "value": "2",
+      "trait_type": "test"
+    },
+    {
+      "value": "pony",
+      "trait_type": "hair"
+    }
+  ],
+  "minted": "✅"
+}

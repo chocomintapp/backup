@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWWP6aAEHm25NWQrUfpZUksdhSMC4r7Ay3XVsQwhpuAhq/nft.jpg",
+  "tokenId": 3,
+  "description": "fuji",
+  "nftContractAddress": "0xccd5ff11f1552de4f26e5ba20349ff2be5d0157f",
+  "animationUrl": "https://ipfs.io/ipfs/QmXZ7H6NhM67StC45ESJ3gHG2KFGWExjHV4ZXF3oadtCCC/nft.glb",
+  "chainId": "4",
+  "name": "fuji",
+  "attributes": []
+}

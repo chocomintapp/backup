@@ -1,0 +1,16 @@
+{
+  "image": "ipfs://QmNfsbbUVFo58oAesG4zkeZiy7bh6WR95XsKse4wCViTQ8",
+  "tokenId": 1,
+  "description": "ttttt1",
+  "nftContractAddress": "0xaace80e379a7a4cd13203776c1a0be2164e47a18",
+  "animationUrl": "ipfs://QmZkwSuAYnevHNomGgwTyYhFaKgUu3Zq9UPRyPU4kcYtiW/",
+  "chainId": "4",
+  "name": "t1",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

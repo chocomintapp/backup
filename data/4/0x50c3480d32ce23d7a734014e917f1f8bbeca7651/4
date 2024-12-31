@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ666Aei4BzcU4KyzeV1wGDjvkAjj4sL498jvNjvBfjXx/nft.jpg",
+  "tokenId": 4,
+  "description": "this is new electric dance music.",
+  "nftContractAddress": "0x50c3480d32ce23d7a734014e917f1f8bbeca7651",
+  "animationUrl": "https://ipfs.io/ipfs/QmTtJHVyuCTvucoLLKFSNeyh2LQQyu7P2VaDzUixp4Tsgh/nft.mp3",
+  "chainId": "4",
+  "name": "new track",
+  "attributes": [
+    {
+      "trait_type": "Format",
+      "value": "mp3"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1/3"
+    }
+  ]
+}

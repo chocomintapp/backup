@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQdjBDEjTQd67A6pijJZ9WJrbdK2yrUQkJTnHc6ZkqyuP/nft.jpg",
+  "tokenId": 1,
+  "description": "ATATATTATA",
+  "nftContractAddress": "0xe528e872f946670ddfb2d4ecd6f336bea85f0119",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "SAMPLEX",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "AAA",
+      "value": "100"
+    }
+  ]
+}

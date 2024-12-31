@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdqdqCxygwDwi7kjxDxGUYsX63DiSGZoJyMxopcMdXD2s/nft.png",
+  "tokenId": 1,
+  "description": "Unique Fuseprime Logo - 1 of 1",
+  "nftContractAddress": "0x682edd6ee5f8875e2e60bf69346dec22b610d788",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Fuseprime",
+  "attributes": [
+    {
+      "trait_type": "Company",
+      "value": "Fuseprime"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legend"
+    },
+    {
+      "trait_type": "Value",
+      "value": "Expensive"
+    },
+    {
+      "trait_type": "Suggested_Price",
+      "value": "100Eth"
+    }
+  ]
+}

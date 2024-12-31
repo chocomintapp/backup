@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQWeXk7Y1eogVgcCY32ZbaLrpdEtytHoWARxSWQt3UYgo/nft.png",
+  "nftContractAddress": "0x42b4db8baa983e2c35130bf94440acb311287861",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "4",
+  "name": "Rental Test Item #12",
+  "description": "",
+  "attributes": []
+}

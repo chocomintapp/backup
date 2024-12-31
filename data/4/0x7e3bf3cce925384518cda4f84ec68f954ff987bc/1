@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY1BPbUEfWdwYfcqb163V3KyhaFWqYX6ZG9fHQXAr6uH7/nft.png",
+  "nftContractAddress": "0x7e3bf3cce925384518cda4f84ec68f954ff987bc",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "kumachan",
+  "description": "kawaii kuma",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

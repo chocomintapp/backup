@@ -1,0 +1,24 @@
+{
+  "image": "",
+  "tokenId": 1,
+  "description": "TEST DESU",
+  "nftContractAddress": "0xf4b9f99e59ee79ca8af970e0c5705c6d4e8837fe",
+  "animationUrl": "https://ipfs.io/ipfs/QmTt6iBqHXnSzV5MSkL686HG3sL24bJA7Hg3EgQuTHhDUP/nft.mp4",
+  "chainId": "4",
+  "name": "Test Parade! #XXXA",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fantasy"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Koke"
+    },
+    {
+      "trait_type": "Avatar",
+      "value": "Good"
+    }
+  ],
+  "minted": "✅"
+}

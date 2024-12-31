@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbZMMNXqqfmXJ1KD9ENfu7VhqzitRttgx18kDHT3UruWc/nft.png",
+  "tokenId": 1,
+  "description": "textpicasso",
+  "nftContractAddress": "0x409f3b1bc68a029e9ef4352a5c53f8a4bd49dd3a",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "picasso",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

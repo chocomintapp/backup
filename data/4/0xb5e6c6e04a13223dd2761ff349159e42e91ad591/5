@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR5qoh4WjtroBhwabU2f53CGQ2KammR7suDAgYHNE9sVa/nft.png",
+  "tokenId": 5,
+  "description": "test",
+  "nftContractAddress": "0xb5e6c6e04a13223dd2761ff349159e42e91ad591",
+  "animationUrl": "https://ipfs.io/ipfs/QmdPVs7HM6LvWEwkBQKYF8vYfV29GCW7pkxcng795hjBkG/nft.glb",
+  "chainId": "4",
+  "name": "glbtest-musixbox",
+  "attributes": []
+}

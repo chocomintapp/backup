@@ -1,0 +1,9 @@
+{
+  "image": "",
+  "tokenId": 2,
+  "description": "minio-1",
+  "nftContractAddress": "0x3c83385b0252fa75a365f70a18a53a4eeeaeb2f4",
+  "animationUrl": "https://ipfs.io/ipfs/QmXQdoddzcSMXpo1dFztMnCnpGmD8tPxk7hvdpfXbtoXpK/nft.gif",
+  "chainId": "4",
+  "name": "minio-1"
+}

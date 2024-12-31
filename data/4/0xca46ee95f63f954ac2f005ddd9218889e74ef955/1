@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUqLzGwLnQsg4Buz9fqwAf8FpY132zaZ3GbTXXVHERqKt/nft.png",
+  "tokenId": 1,
+  "description": "changed",
+  "nftContractAddress": "0xca46ee95f63f954ac2f005ddd9218889e74ef955",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "1go-ki-kai",
+  "attributes": [
+    {
+      "trait_type": "art skill",
+      "value": "redstrike"
+    },
+    {
+      "trait_type": "herorank",
+      "value": "R"
+    }
+  ],
+  "minted": "✅"
+}

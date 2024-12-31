@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfYBXUTA66nns3bsedZvCCHCrAPyL89Bhkiih7HyQ1jPJ/nft.png",
+  "tokenId": 1,
+  "description": "WAN!",
+  "nftContractAddress": "0x4363144207fc792d178da5be29bdb628c972a5be",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "KENKEN",
+  "attributes": [],
+  "minted": ""
+}

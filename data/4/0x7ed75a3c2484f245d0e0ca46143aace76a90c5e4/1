@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeEHxHtbfVtQ7E9QTFgQrsZczSPaedVv19WZnYybmCzXF/nft.jpg",
+  "nftContractAddress": "0x7ed75a3c2484f245d0e0ca46143aace76a90c5e4",
+  "animationUrl": "https://ipfs.io/ipfs/QmZEWJduW9hHCA94Z7LFQS5hZLszzjjpxYkHN6cR1x77p7/nft.jpg",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "adas",
+  "description": "asddsaasdasd",
+  "attributes": [
+    {
+      "value": "190",
+      "trait_type": "cabeloi"
+    },
+    {
+      "value": "12",
+      "trait_type": "dasd"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

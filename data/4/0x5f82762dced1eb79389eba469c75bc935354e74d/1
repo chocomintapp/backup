@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPpicvYRZNVKJyJB6DXaLfuJc9LnvmRtPFZncRVzYinZN/nft.jpg",
+  "nftContractAddress": "0x5f82762dced1eb79389eba469c75bc935354e74d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "test00001",
+  "description": "test nft test nft test nft",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "color"
+    }
+  ]
+}

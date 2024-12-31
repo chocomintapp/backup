@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPBvGwEXJpnghuyJKRqnAD8KtkmVqheSdjYceueKkXzPJ/nft.jpg",
+  "tokenId": 2,
+  "description": "tes2",
+  "nftContractAddress": "0xc6948eaff3eb7761859ea19bc34e70248111d1ad",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "tes2",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "2"
+    },
+    {
+      "trait_type": "outfit",
+      "value": "2"
+    }
+  ]
+}

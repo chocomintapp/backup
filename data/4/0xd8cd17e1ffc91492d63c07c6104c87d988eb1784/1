@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmesGUPQ7PqwvXBVapk2jViUsn9Bme7xn3UKbtqxghVaQh/nft.jpg",
+  "tokenId": 1,
+  "description": "木魚拓=木魚の魚拓。",
+  "nftContractAddress": "0xd8cd17e1ffc91492d63c07c6104c87d988eb1784",
+  "animationUrl": "https://ipfs.io/ipfs/QmX8WymKeyR7fGXCk8rDNNWxfSDdEaxAB12eZqnP3pBo4P/nft.jpg",
+  "chainId": "4",
+  "name": "Mokugyo Taku #01",
+  "attributes": []
+}

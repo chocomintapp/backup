@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRnz6QUPyakeig7VGeVaNXEvx7ozgEFJ8dGrdwadDmtni/nft.jpg",
+  "tokenId": 1,
+  "description": "Me in Bush",
+  "nftContractAddress": "0xa7eebc73b7ec57a7cd4f9b075cee16d36add069b",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Me in bush",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "0.001"
+    }
+  ]
+}

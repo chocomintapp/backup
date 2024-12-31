@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeQfWZ3kMKaCpXKJGxVL3dQnegmwQPEAscZYzByu7MFiy/nft.jpg",
+  "tokenId": 1,
+  "description": "can u see?",
+  "nftContractAddress": "0xb8ab1e8a6b934a452d5ad096c17060ac0de206ae",
+  "animationUrl": "https://ipfs.io/ipfs/QmeQfWZ3kMKaCpXKJGxVL3dQnegmwQPEAscZYzByu7MFiy/nft.jpg",
+  "chainId": "4",
+  "name": "black&white",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "white",
+      "value": "1"
+    },
+    {
+      "trait_type": "black",
+      "value": ""
+    }
+  ]
+}

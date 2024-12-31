@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ3ehwz4cTmqKy5xyBaHzUTwYKovYaK4ShNC1vS87xSyy/nft.png",
+  "tokenId": 1,
+  "description": "SolidityNFT",
+  "nftContractAddress": "0xd836f3b2d33fae595075b4e07b36a3be547179c9",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Solidity.jp",
+  "attributes": []
+}

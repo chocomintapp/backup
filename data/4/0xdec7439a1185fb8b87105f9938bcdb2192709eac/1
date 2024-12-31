@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdM8pTYjbCh5Aj6pdUGamqySY7g2arJ5nnPeFRQ7gKYkE/nft.jpg",
+  "tokenId": 1,
+  "description": "独自コントラクトのテストだよ",
+  "nftContractAddress": "0xdec7439a1185fb8b87105f9938bcdb2192709eac",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "DOKUKON TEST",
+  "attributes": [
+    {
+      "trait_type": "power",
+      "value": "3"
+    },
+    {
+      "trait_type": "balance",
+      "value": "5"
+    },
+    {
+      "trait_type": "beauty",
+      "value": "8"
+    }
+  ]
+}

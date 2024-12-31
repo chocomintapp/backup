@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXfPknHF3V8dkDFBYoef8UTwKE6i8yfCbNPnNamRrRdyv/nft.png",
+  "tokenId": 5,
+  "description": "aaaa",
+  "nftContractAddress": "0x74c4bcd16a6d2614b0dc58b6a25ad6f9920c6118",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Trait Test",
+  "attributes": [
+    {
+      "trait_type": "a",
+      "value": "aaa"
+    }
+  ],
+  "minted": "✅"
+}

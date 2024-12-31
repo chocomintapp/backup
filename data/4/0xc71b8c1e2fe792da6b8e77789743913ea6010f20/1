@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSAYSPga4tsxP6MfJBjnXYmqmkiYJAyUhKP3qQTGRsyS5/nft.png",
+  "nftContractAddress": "0xc71b8c1e2fe792da6b8e77789743913ea6010f20",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "robot",
+  "description": "test token",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "none",
+      "trait_type": "body"
+    },
+    {
+      "value": "robot",
+      "trait_type": "head"
+    },
+    {
+      "value": "none",
+      "trait_type": "hand"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaAWAXcJL65eemtnr67r59YvRHW6gNZzQPA6QN5gAHGEp/nft.png",
+  "nftContractAddress": "0xfef9fb584b8e742a1a29296f0da0c0d137968633",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "SHRUM",
+  "description": "another creature lives in deep forest",
+  "attributes": [
+    {
+      "value": "muhamor",
+      "trait_type": "SHRUM"
+    },
+    {
+      "value": "smoked",
+      "trait_type": "EYES "
+    },
+    {
+      "value": "glitchy",
+      "trait_type": "BG"
+    }
+  ],
+  "minted": ""
+}

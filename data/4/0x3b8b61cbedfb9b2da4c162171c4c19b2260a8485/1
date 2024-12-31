@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVTsyuterFDoe1b8Fe5uNm1Qo5RES3mM8sN1wKNbo55cw/nft.png",
+  "nftContractAddress": "0x3b8b61cbedfb9b2da4c162171c4c19b2260a8485",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "テスト01_edit",
+  "description": "",
+  "attributes": [
+    {
+      "value": "bbb",
+      "trait_type": "aaaa"
+    }
+  ],
+  "minted": "✅"
+}

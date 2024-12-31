@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQWTm3wCnnVUwQ3WAe7ZiciNywbQDdVdJdCxUEkxyTLjp/nft.png",
+  "tokenId": 1,
+  "description": "GX1",
+  "nftContractAddress": "0x26d532c226d74b463c9c0dd018c36e9936538241",
+  "animationUrl": "https://ipfs.io/ipfs/QmQWTm3wCnnVUwQ3WAe7ZiciNywbQDdVdJdCxUEkxyTLjp/nft.png",
+  "chainId": "4",
+  "name": "GX1",
+  "minted": "✅"
+}

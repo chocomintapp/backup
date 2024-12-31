@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXKTyjHcuL62Y39orx34fhabw7ANkjaVs5rXwcypXh3fu/nft.jpg",
+  "nftContractAddress": "0xd397fd3148c031ac24d0d560af27529e73cf3327",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "_test_second_B2",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "2022",
+      "trait_type": "YEAR"
+    },
+    {
+      "value": "0001",
+      "trait_type": "Collection"
+    }
+  ]
+}

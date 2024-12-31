@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRoxVwMFogVwwbmJh5ye6NNuAv5pFR3jjZRwpC6mKfjkq/nft.png",
+  "tokenId": 1,
+  "description": "A NFT collection of star-dwelling 10,000 digital monkeys made on the Ethereum blockchain. Monkeys have their own fashion that is randomly combined. No monkey has the same combination.\nThis project was inspired by CryptoPunks and is not affiliated with Larva Labs.",
+  "nftContractAddress": "0x9c37b5d6797b4176fcebd9b31ff04aa77ab9f0bd",
+  "animationUrl": "https://ipfs.io/ipfs/QmRoxVwMFogVwwbmJh5ye6NNuAv5pFR3jjZRwpC6mKfjkq/nft.png",
+  "chainId": "4",
+  "name": "Punk Monkeys #61",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Red",
+      "value": "1"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXFHZ8z36xd6Xw5C59qC6kYmuzAZCABZhAMp8skgBboHM/nft.png",
+  "nftContractAddress": "0x50ae34bdd0513b154c4b446562aac4fc1395830f",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "4",
+  "name": "Yachiyo NFT #6",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "Background"
+    },
+    {
+      "value": "国常立尊",
+      "trait_type": "signature stamp"
+    }
+  ]
+}

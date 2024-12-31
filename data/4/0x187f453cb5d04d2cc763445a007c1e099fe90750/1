@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQm9DdrSj71LumFFLNXhgWfe4sETgy7zhPewP9W3VvRNC/nft.jpg",
+  "tokenId": 1,
+  "description": "Men in Bryansk",
+  "nftContractAddress": "0x187f453cb5d04d2cc763445a007c1e099fe90750",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "BOR",
+  "attributes": []
+}

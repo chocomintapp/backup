@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYtinGg6PQMMXSy7zunMmEKQUKCiXreDYpJEWn87sxHpu/nft.jpg",
+  "nftContractAddress": "0x4f22f888da528a6d963f861790e33b6873067cc3",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "dd",
+  "description": "dd",
+  "attributes": [
+    {
+      "value": "eiga",
+      "trait_type": "jutsu"
+    },
+    {
+      "value": "acssesary",
+      "trait_type": "acssesary"
+    }
+  ],
+  "minted": ""
+}

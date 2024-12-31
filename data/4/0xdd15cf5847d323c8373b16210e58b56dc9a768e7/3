@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc9nqRUCeyMaxFvWzQWdrnnc2gDhNAG8SYcoeteX38cSW/nft.png",
+  "nftContractAddress": "0xdd15cf5847d323c8373b16210e58b56dc9a768e7",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "4",
+  "name": "apngtest",
+  "description": "apng表示テスト",
+  "attributes": []
+}

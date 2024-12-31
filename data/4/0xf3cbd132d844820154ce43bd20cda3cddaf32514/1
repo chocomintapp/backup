@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVQk9zhvQw7h9EG2ejXNJbjYPgwjpDShs1BPGnAdZkEFA/nft.gif",
+  "tokenId": 1,
+  "description": "og1",
+  "nftContractAddress": "0xf3cbd132d844820154ce43bd20cda3cddaf32514",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "og1",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Head"
+    },
+    {
+      "trait_type": "outfit",
+      "value": "outfit"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYhEYyDoH2BwN3959WUuPFEddk23KyqJ2Z5pc343HR4ec/nft.jpg",
+  "tokenId": 4,
+  "description": "### My friends [keiko](https://testnets.opensea.io/collection/keiko)",
+  "nftContractAddress": "0xc6948eaff3eb7761859ea19bc34e70248111d1ad",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "joji",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "ffff"
+    },
+    {
+      "trait_type": "outfit",
+      "value": "aaaa"
+    }
+  ]
+}

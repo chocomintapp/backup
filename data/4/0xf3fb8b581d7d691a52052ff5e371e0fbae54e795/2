@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc61ikvYm9gaTwGdXs3M9rFXqRJWjb44iKp2J9rRZWj8s/nft.avi",
+  "nftContractAddress": "0xf3fb8b581d7d691a52052ff5e371e0fbae54e795",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "avi",
+  "description": "avi",
+  "attributes": []
+}

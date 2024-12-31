@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTtkipKMC6ft38zdiA6Kq3qYWPbRvg6kYtBvm1KtgdECj/nft.png",
+  "tokenId": 2,
+  "description": "test des",
+  "nftContractAddress": "0xca28ab3989ea1f2997785b98f33201c279939e1d",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "second test",
+  "attributes": [],
+  "minted": "✅"
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWM5wwTV7ft525idUoGWE6Atu4UUdWaLnihJZP9qNjdeQ/nft.png",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0x9c37b5d6797b4176fcebd9b31ff04aa77ab9f0bd",
+  "animationUrl": "https://ipfs.io/ipfs/QmWM5wwTV7ft525idUoGWE6Atu4UUdWaLnihJZP9qNjdeQ/nft.png",
+  "chainId": "4",
+  "name": "Punk Monkeys #2",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

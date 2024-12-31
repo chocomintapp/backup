@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTMgk7vrv8tJbV8fq1VtRwT24opNmz9LTDBZhZ1H5HV2R/nft.png",
+  "nftContractAddress": "0x5911f6576580b046a62798439f6a77161bcb42b4",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "Day_of_the_1st_day",
+  "description": "One fine day.\nBeautiful days have begun.",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "Like"
+    }
+  ]
+}

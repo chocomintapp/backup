@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXjN9ZVV7nTvQ8TNLgdk5qqJ68Nv7wnwiAb25ZKK7UBcv/nft.png",
+  "tokenId": 1,
+  "description": "Punk",
+  "nftContractAddress": "0x65ed0be0be34e13134e96f0aff99eba6345dd063",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Punk",
+  "attributes": []
+}

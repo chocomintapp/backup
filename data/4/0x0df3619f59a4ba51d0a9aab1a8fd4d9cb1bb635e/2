@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR1ThaKa3VSUi4ZeQyYjWpmuuXDKR2qBjmt4x4Nvk9Umy/nft.png",
+  "nftContractAddress": "0x0df3619f59a4ba51d0a9aab1a8fd4d9cb1bb635e",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "mcklmlc",
+  "description": "csklcsmcl",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "testvalue",
+      "trait_type": "testtrait"
+    },
+    {
+      "value": "vskvns",
+      "trait_type": "ncsnklcs"
+    }
+  ]
+}

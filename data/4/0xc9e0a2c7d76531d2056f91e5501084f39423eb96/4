@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaGWN4872epoDV885UVSd19ZaAUGGpC1xmR8QhYNXtDUS/nft.png",
+  "tokenId": 4,
+  "description": "tewte",
+  "nftContractAddress": "0xc9e0a2c7d76531d2056f91e5501084f39423eb96",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "texg",
+  "attributes": [
+    {
+      "trait_type": "te",
+      "value": "te"
+    },
+    {
+      "trait_type": "ee",
+      "value": "ee"
+    }
+  ]
+}

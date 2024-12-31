@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT7SW9QXQ3e29nzjfsRUinmtJTVUPVtLGXHKGkg3B4k1q/nft.png",
+  "nftContractAddress": "0x07d8b965660fb3375389ad0ec3f7bb5f6c6fc6fd",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "TEST #1",
+  "description": "TEST #1の説明です",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "Power"
+    },
+    {
+      "value": "3",
+      "trait_type": "Speed"
+    }
+  ]
+}

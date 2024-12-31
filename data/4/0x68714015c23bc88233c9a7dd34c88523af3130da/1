@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUDDqMaHLei5HchxBa3xKR3LG3tGLnZu4X5tT7vkFk4Rw/nft.jpg",
+  "tokenId": 1,
+  "description": "先週たべたパスタ",
+  "nftContractAddress": "0x68714015c23bc88233c9a7dd34c88523af3130da",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "mynewToken"
+}

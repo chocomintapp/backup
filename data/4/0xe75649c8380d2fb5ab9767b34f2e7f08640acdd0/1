@@ -1,0 +1,36 @@
+{
+  "image": "",
+  "nftContractAddress": "0xe75649c8380d2fb5ab9767b34f2e7f08640acdd0",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "PuPu collection #0001",
+  "description": "PuPUUuu0001",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "11",
+      "trait_type": "sss"
+    },
+    {
+      "value": "22",
+      "trait_type": "ddd"
+    },
+    {
+      "value": "3",
+      "trait_type": "ss"
+    },
+    {
+      "value": "33",
+      "trait_type": "44"
+    },
+    {
+      "value": "33",
+      "trait_type": "22"
+    },
+    {
+      "value": "44",
+      "trait_type": "332"
+    }
+  ]
+}

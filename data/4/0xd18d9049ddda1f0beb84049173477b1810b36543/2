@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVUaDAJ1Ykm6WdRRonaSJpWx4RHMybX3WYyTcKb1HPaP1/nft.jpg",
+  "tokenId": 2,
+  "description": "sushidayo",
+  "nftContractAddress": "0xd18d9049ddda1f0beb84049173477b1810b36543",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "sushi",
+  "attributes": []
+}

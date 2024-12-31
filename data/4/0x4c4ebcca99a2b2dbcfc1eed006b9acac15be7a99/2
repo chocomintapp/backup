@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX2P2TRFxCAFFX6PAAfRLALujNXjb8ESpdkGjrRxR6guE/nft.jpeg",
+  "nftContractAddress": "0x4c4ebcca99a2b2dbcfc1eed006b9acac15be7a99",
+  "animationUrl": "https://ipfs.io/ipfs/QmX2P2TRFxCAFFX6PAAfRLALujNXjb8ESpdkGjrRxR6guE/nft.jpeg",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "factory.chocomint.app",
+  "description": "factory.chocomint.app",
+  "attributes": []
+}

@@ -1,0 +1,16 @@
+{
+  "image": "",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0xa1f93586c883690b7796f08a215a6b6682e20d7d",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "",
+  "attributes": [
+    {
+      "trait_type": "Choco",
+      "value": "Mint"
+    }
+  ],
+  "minted": "✅"
+}

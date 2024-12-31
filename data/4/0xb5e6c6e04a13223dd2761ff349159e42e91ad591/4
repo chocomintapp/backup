@@ -1,0 +1,10 @@
+{
+  "image": "",
+  "tokenId": 4,
+  "description": "test-noimage",
+  "nftContractAddress": "0xb5e6c6e04a13223dd2761ff349159e42e91ad591",
+  "animationUrl": "https://ipfs.io/ipfs/QmdPVs7HM6LvWEwkBQKYF8vYfV29GCW7pkxcng795hjBkG/nft.glb",
+  "chainId": "4",
+  "name": "glbtest-musicbox",
+  "attributes": []
+}

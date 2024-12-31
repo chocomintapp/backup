@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQieVovV9UGnXZ1EJ8A72QQTgXQp3CvMEAzQYWEA3oceE/nft.webp",
+  "tokenId": 1,
+  "description": "desc",
+  "nftContractAddress": "0xabe7a6891e6e2c1f0234d8448bc59a7bee536557",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "neko1",
+  "attributes": []
+}

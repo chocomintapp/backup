@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUSrNZW4JChVmkeEH51UaLbUT1YWLsr1uFKwByZmLohqh/nft.png",
+  "tokenId": 3,
+  "description": "glb3",
+  "nftContractAddress": "0xb5e6c6e04a13223dd2761ff349159e42e91ad591",
+  "animationUrl": "https://ipfs.io/ipfs/QmbDEjM9JMuXCahR3oqX1jLBHVomDw4fpTxci5wgTxHt4L/nft.glb",
+  "chainId": "4",
+  "name": "test-glb-3",
+  "attributes": [],
+  "minted": ""
+}

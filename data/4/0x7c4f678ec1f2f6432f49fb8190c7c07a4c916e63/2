@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTaeP8js9Hjz8JViZA5K7QPEup9JitaUwVEwWySGkuGTs/nft.png",
+  "tokenId": 2,
+  "description": "これはNFTの購入を促す為に用いる、テストNFTです。",
+  "nftContractAddress": "0x7c4f678ec1f2f6432f49fb8190c7c07a4c916e63",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Fracton- test NFT"
+}

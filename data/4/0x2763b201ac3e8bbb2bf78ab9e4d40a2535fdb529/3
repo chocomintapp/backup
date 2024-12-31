@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZfSo6X6ptMe9LqSgMy3UjJoysq63kHknZyVoqFMyFULi/nft.png",
+  "tokenId": 3,
+  "description": "ハロウィンのキャラクター（ゾンビ）",
+  "nftContractAddress": "0x2763b201ac3e8bbb2bf78ab9e4d40a2535fdb529",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "ゾンビ",
+  "attributes": []
+}

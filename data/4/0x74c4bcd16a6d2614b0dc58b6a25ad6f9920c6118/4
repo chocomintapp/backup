@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXbiV6iLLSwJNuPWEsn3Bt4hF77k2UXVwebVXgfMqnoS6/nft.jpg",
+  "tokenId": 4,
+  "description": "",
+  "nftContractAddress": "0x74c4bcd16a6d2614b0dc58b6a25ad6f9920c6118",
+  "animationUrl": "https://ipfs.io/ipfs/QmVbPMSeJAL6e1atTA9KDMM8LmA6am1qrYF8KGrBkkfAio/nft.txt",
+  "chainId": "4",
+  "name": "tesrew",
+  "attributes": [
+    {
+      "trait_type": "[String]",
+      "value": "[test]"
+    }
+  ],
+  "minted": "✅"
+}

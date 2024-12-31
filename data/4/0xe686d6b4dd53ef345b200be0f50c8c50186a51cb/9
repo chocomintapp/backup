@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ3dsW5t3vGK9U3DThffHCQ94gmZ9Dz9ve8WvyecZF4hq/nft.jpg",
+  "tokenId": 9,
+  "description": "説明文を入れる",
+  "nftContractAddress": "0xe686d6b4dd53ef345b200be0f50c8c50186a51cb",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "作品名",
+  "attributes": []
+}

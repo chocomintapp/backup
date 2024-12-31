@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTp5eC7hi8DqbW3rri8ZKbVz9vaiJaTY1ZFWg5fKY3j5g/nft.png",
+  "tokenId": 1,
+  "description": "ごくごく",
+  "nftContractAddress": "0x2962a5261ca7bd3a9ca1378f1ef92a383938856e",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "kong",
+  "attributes": []
+}

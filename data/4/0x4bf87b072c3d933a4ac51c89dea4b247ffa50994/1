@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf9LQhvNqPkj4GRNDfJXHmhXizipLe5WvgotAHKtfW1ZT/nft.jpg",
+  "tokenId": 1,
+  "description": "item1",
+  "nftContractAddress": "0x4bf87b072c3d933a4ac51c89dea4b247ffa50994",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "C-shop-item1",
+  "minted": ""
+}

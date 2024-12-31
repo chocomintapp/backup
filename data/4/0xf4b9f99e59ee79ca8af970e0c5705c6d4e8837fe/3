@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPnYRpbf92eDK9rDgLvTHK6G8N8BZPe1WhYvyRkEtxV8A/nft.png",
+  "tokenId": 3,
+  "description": "aaaaaaaaaaaa",
+  "nftContractAddress": "0xf4b9f99e59ee79ca8af970e0c5705c6d4e8837fe",
+  "animationUrl": "https://ipfs.io/ipfs/QmSN2puZHCYuqmBcKwU2BzmXRMpWUqLwnretDxFSQM1C8h/nft.mp4",
+  "chainId": "4",
+  "name": "test parade #XXXB",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Frame"
+    },
+    {
+      "trait_type": "Avatar",
+      "value": "Avatar"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

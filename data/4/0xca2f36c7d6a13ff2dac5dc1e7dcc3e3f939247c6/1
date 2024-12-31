@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbPFHb5CCRPVEDXQmNC1Yj96ahqBJbp4AupF8jySzAjoR/nft.png",
+  "tokenId": 1,
+  "description": "響木アオ　ユメスクリームのジャケットデータです。\n購入者特典として実際にMVに使用したユメスクリームの原画（1.5m×1.5m）をプレゼントいたします。\n\n【MV】ユメスクリーム\nWords and Music：MIKICHU\nArrange：Takahiro Matsumoto\nGuitar：Takahiro Matsumoto\nVocal：Hibiki Ao\n\nJacket Art：Yoshida Kathmi\n\nhttps://www.youtube.com/watch?v=5wSb6I_Btpk",
+  "nftContractAddress": "0xca2f36c7d6a13ff2dac5dc1e7dcc3e3f939247c6",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "ユメスクリーム",
+  "attributes": [
+    {
+      "trait_type": "vtuber",
+      "value": "Hibiki Ao"
+    }
+  ]
+}

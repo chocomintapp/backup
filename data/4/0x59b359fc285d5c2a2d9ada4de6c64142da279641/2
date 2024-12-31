@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRBVZZnyiir5vSrGbijBpvRpmNDY8mkfwZJ68xwPG1GPL/nft.jpg",
+  "nftContractAddress": "0x59b359fc285d5c2a2d9ada4de6c64142da279641",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "the sun",
+  "description": "and wave",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "sun"
+    },
+    {
+      "value": "4",
+      "trait_type": "wave"
+    },
+    {
+      "value": "5",
+      "trait_type": "island"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcRqqGML12DAA169nSsVF6q9XLCFJ7XytTpjX8y8ceFJG/nft.mp4",
+  "tokenId": 1,
+  "description": "Something sound for creativity.\nOwners can break, detach and rebuild it.",
+  "nftContractAddress": "0x11b35a709f655a0e114b29a75de0f0ed5f761276",
+  "animationUrl": "https://ipfs.io/ipfs/QmcRqqGML12DAA169nSsVF6q9XLCFJ7XytTpjX8y8ceFJG/nft.mp4",
+  "chainId": "4",
+  "name": "RFS #A1DFFF/01",
+  "attributes": [
+    {
+      "trait_type": "Mood",
+      "value": "Cool"
+    }
+  ]
+}

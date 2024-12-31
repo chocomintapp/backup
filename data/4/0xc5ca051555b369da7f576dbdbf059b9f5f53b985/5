@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZMD3dNZncHeG7YqVipmQkYhexgPGKSAp6MRV11hnvZXb/nft.png",
+  "nftContractAddress": "0xc5ca051555b369da7f576dbdbf059b9f5f53b985",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "4",
+  "name": "triat test",
+  "description": "",
+  "attributes": [
+    {
+      "value": "a,b,c",
+      "trait_type": "column"
+    },
+    {
+      "value": "[a,b,c]",
+      "trait_type": "array"
+    }
+  ]
+}

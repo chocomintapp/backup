@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfVrN9tzD3xXi4UDqGz4Wrk4RK8PCVgqekSmjV943Dvtw/nft.png",
+  "tokenId": 1,
+  "description": "はじめてのNFT",
+  "nftContractAddress": "0x2f3c330aad467522907e7dae10316b99fb37b173",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "SAMPLE"
+}

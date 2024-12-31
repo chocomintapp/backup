@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZGjAHeGHwJwt95rwN1LShC3dThkhAh5ize4weLrpLZsm/nft.png",
+  "nftContractAddress": "0x4b380716522d8f6ffb02c83408470b03c9595d77",
+  "animationUrl": "https://ipfs.io/ipfs/QmcoLsNtca69XpjzEruhErPivtSDtsLvnqNYCQXcRTyVMn/nft.gif",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "PAGE#3",
+  "description": "",
+  "attributes": []
+}

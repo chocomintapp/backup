@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR4vokTx6W9MH9XsBBh5mLJHjJbAmepAwjkcY9BUtmrEZ/nft.png",
+  "nftContractAddress": "0x28e87602b25c443682308fa39de730b1179b1b2d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "トライアル",
+  "description": "テストです",
+  "attributes": []
+}

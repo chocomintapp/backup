@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc113PxVSBLsZDRWdssth4AFNcdLCnDsZGz3V4msv5sko/nft.png",
+  "nftContractAddress": "0xff011503cc912370a8e72ab60e2b8aa457e9cfce",
+  "animationUrl": "https://ipfs.io/ipfs/QmXFzwp7EzjYRcozbzUK5vnozWyMf75ZcTY9K5wysASDYs/nft.glb",
+  "tokenId": 4,
+  "chainId": "4",
+  "name": "fish",
+  "description": "",
+  "attributes": []
+}

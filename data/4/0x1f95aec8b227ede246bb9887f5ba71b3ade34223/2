@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU7QLr5eNhFxptXA9tAea5CfPEdaf7Pb139Fth3AGSNpT/nft.gif",
+  "tokenId": 2,
+  "description": "Desc,",
+  "nftContractAddress": "0x1f95aec8b227ede246bb9887f5ba71b3ade34223",
+  "animationUrl": "https://ipfs.io/ipfs/QmU7QLr5eNhFxptXA9tAea5CfPEdaf7Pb139Fth3AGSNpT/nft.gif",
+  "chainId": "4",
+  "name": "RY-t02",
+  "attributes": []
+}

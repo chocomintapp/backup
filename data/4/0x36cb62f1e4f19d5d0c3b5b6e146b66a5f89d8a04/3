@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcqhkYj8KU96tr9Bgbb6M13PHytqSSB4os6WLbmFUTLrr/nft.jpg",
+  "tokenId": 3,
+  "description": "This is sample NFT for testing",
+  "nftContractAddress": "0x36cb62f1e4f19d5d0c3b5b6e146b66a5f89d8a04",
+  "animationUrl": "https://ipfs.io/ipfs/QmdbCbT66LL45nvzignSH6ovsfkpteSiY3268dULfPknyT/nft.mp4",
+  "chainId": "4",
+  "name": "NFT Sample for Developer",
+  "attributes": [
+    {
+      "trait_type": "Mood",
+      "value": "Ambient"
+    }
+  ]
+}

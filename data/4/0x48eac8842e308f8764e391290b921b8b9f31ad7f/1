@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZHjRWPef5EvTcWtidnE91YdyAc2DTfyG77rGNfJhHRp5/nft.JPG",
+  "tokenId": 1,
+  "description": "A well-maintained path for strolling through the satoyama",
+  "nftContractAddress": "0x48eac8842e308f8764e391290b921b8b9f31ad7f",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "YAMANOKOMICHI",
+  "attributes": [
+    {
+      "trait_type": "Size",
+      "value": "2448 x 3264"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVTca9s92f9UNEtqzDRwJd4UfwagcuAic9h3gQ7N2xpSL/nft.jpg",
+  "tokenId": 2,
+  "description": "metadata changed",
+  "nftContractAddress": "0xca46ee95f63f954ac2f005ddd9218889e74ef955",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "2go-ki-fake",
+  "attributes": [
+    {
+      "trait_type": "art skill",
+      "value": "blue"
+    },
+    {
+      "trait_type": "herorank",
+      "value": "E"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYLdHQNzhufaXkiuW6fRfg64naJSV3VXtW3mid1nR8T9s/nft.png",
+  "tokenId": 1,
+  "description": "Battle TEST MV",
+  "nftContractAddress": "0xa6b18181f3f976a6a9a488d0e2504246a4636aad",
+  "animationUrl": "http://frog.company/nft/mv.mp4",
+  "chainId": "4",
+  "name": "Battele",
+  "minted": "✅"
+}

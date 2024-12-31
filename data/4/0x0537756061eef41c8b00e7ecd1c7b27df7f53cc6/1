@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdoK5dVc1AXdexyQCG1v1VDAXGMKxWLCiP4z3JhE8NdfC/nft.gif",
+  "tokenId": 1,
+  "description": "k_1",
+  "nftContractAddress": "0x0537756061eef41c8b00e7ecd1c7b27df7f53cc6",
+  "animationUrl": "https://ipfs.io/ipfs/QmNghj7uvfAzwr6aDSBpKNCrnnDCUeXexyMAxeFfiLRjJU/nft.png",
+  "chainId": "4",
+  "name": "k_1",
+  "minted": ""
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWZ3rJRQfdAXT6tEUP4yrg9rNnX9ytoWnqJS95t3XAhr1/nft.jpg",
+  "nftContractAddress": "0x957365c90e7f4723f02852fb8030d5c01b4ebbb3",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "Black Cat",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "Color"
+    },
+    {
+      "value": "On a wall",
+      "trait_type": "Position"
+    },
+    {
+      "value": "8",
+      "trait_type": "Age"
+    }
+  ]
+}

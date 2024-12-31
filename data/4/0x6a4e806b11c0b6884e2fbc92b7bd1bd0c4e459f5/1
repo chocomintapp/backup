@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVbgL6Gnq6n1MKBFztkC4ub6icAftvcJ9shHBSzfmoz9W/nft.jpg",
+  "nftContractAddress": "0x6a4e806b11c0b6884e2fbc92b7bd1bd0c4e459f5",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "NeonoSlice",
+  "description": "So Epic",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

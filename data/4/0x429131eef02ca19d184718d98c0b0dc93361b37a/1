@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV2XC1DBoTHbaeb4anXCqymhn3EmNfjGRFcHoVuz6uFUH/nft.png",
+  "tokenId": 1,
+  "description": "cafe",
+  "nftContractAddress": "0x429131eef02ca19d184718d98c0b0dc93361b37a",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "uiuacafe",
+  "attributes": []
+}

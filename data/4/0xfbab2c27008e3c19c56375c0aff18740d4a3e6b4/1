@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT2wxNPbb1WPKxWTWeW2Kt8WmV45N6nBE8rpbikPe5qxg/nft.jpg",
+  "tokenId": 1,
+  "description": "tes desc 1234",
+  "nftContractAddress": "0xfbab2c27008e3c19c56375c0aff18740d4a3e6b4",
+  "animationUrl": "https://ipfs.io/ipfs/QmT2wxNPbb1WPKxWTWeW2Kt8WmV45N6nBE8rpbikPe5qxg/nft.jpg",
+  "chainId": "4",
+  "name": "angelll",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "red"
+    },
+    {
+      "trait_type": "head",
+      "value": "halo"
+    },
+    {
+      "trait_type": "body",
+      "value": "wing"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmay42Rqf872Twjh4prBi9sg8B9MznNHLXGwjBep55Uvm8/nft.jpg",
+  "tokenId": 1,
+  "description": "Bay Bridge- Home of the Bay",
+  "nftContractAddress": "0x93d399f31316cfb9eda98c5f4f8c7e8b025b20fa",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "BayBridge",
+  "attributes": [
+    {
+      "trait_type": "Bay Area Historical Monuments",
+      "value": "1.0 ETH"
+    }
+  ]
+}

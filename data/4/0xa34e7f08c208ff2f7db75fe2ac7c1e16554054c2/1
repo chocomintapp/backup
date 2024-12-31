@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYz64FA1kSF6ZQqMypGjDeHeuGGk4kc7rYAa8fiqNDNLe/nft.jpg",
+  "tokenId": 1,
+  "description": "説明",
+  "nftContractAddress": "0xa34e7f08c208ff2f7db75fe2ac7c1e16554054c2",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "トークン1"
+}

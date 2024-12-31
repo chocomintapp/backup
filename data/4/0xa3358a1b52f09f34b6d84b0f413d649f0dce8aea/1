@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRRDYjVFWuwmWjMy9AmPiLmQYzMyRRhS4Xi24pewogouP/nft.png",
+  "tokenId": 1,
+  "description": "Descriptionに日本語はあつかえるのか",
+  "nftContractAddress": "0xa3358a1b52f09f34b6d84b0f413d649f0dce8aea",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "nftTest"
+}

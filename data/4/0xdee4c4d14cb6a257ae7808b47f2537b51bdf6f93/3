@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX8oBrE17XeKKdY4yqZgFsnv8XDiwx8gbp5QgM1bmkH5L/nft.png",
+  "nftContractAddress": "0xdee4c4d14cb6a257ae7808b47f2537b51bdf6f93",
+  "animationUrl": "https://ipfs.io/ipfs/QmXhPX4P9PAdwntm5bgjkT4R9kNnEWDQbCZNWEqeCbaRxw/nft.jpg",
+  "tokenId": 3,
+  "chainId": "4",
+  "name": "test3",
+  "description": "これ説明",
+  "attributes": []
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmchPRHm4Vbzbt617mCLKpPeSs6jh67anzUcQSZFfuKtJt/nft.jpg",
+  "tokenId": 2,
+  "description": "テストで作成しています。",
+  "nftContractAddress": "0xf1a1924638de8be980fc99f0bc0e2c1f3ead3bbe",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "NTFのテスト",
+  "attributes": [
+    {
+      "trait_type": "会社",
+      "value": "PAP"
+    },
+    {
+      "trait_type": "内容",
+      "value": "ロゴマーク"
+    },
+    {
+      "trait_type": "許諾No",
+      "value": "1234567ABC"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "",
+  "tokenId": 4,
+  "description": "WE ARE CHOCOMINT",
+  "nftContractAddress": "0xa1f93586c883690b7796f08a215a6b6682e20d7d",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "CHOCOMINTTOKEN",
+  "attributes": [
+    {
+      "trait_type": "COLOR",
+      "value": "YELLOW"
+    }
+  ],
+  "minted": "✅"
+}

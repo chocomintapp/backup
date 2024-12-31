@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmankB2Z5SBXJ9wrqqFNApNzUqqB9gkG2EPNuLdqYi1yP4/nft.jpg",
+  "tokenId": 1,
+  "description": "Atestestaa",
+  "nftContractAddress": "0x9b8b8e730af126cfc1b23dbe723c55d5b97c55fb",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Atesta",
+  "attributes": [
+    {
+      "trait_type": "hair",
+      "value": "red"
+    },
+    {
+      "trait_type": "face",
+      "value": "smile"
+    },
+    {
+      "trait_type": "background",
+      "value": "pink"
+    }
+  ]
+}

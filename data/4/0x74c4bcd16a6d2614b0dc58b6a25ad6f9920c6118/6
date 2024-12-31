@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdq8nLuY3xRvUM95pKtYLS8nZoDn8pRhBsCqAYEdqcBoj/nft.jfif",
+  "tokenId": 6,
+  "description": "今度こそ頼む",
+  "nftContractAddress": "0x74c4bcd16a6d2614b0dc58b6a25ad6f9920c6118",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Test Trait2",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TITAN",
+      "value": "25%"
+    },
+    {
+      "trait_type": "USDC",
+      "value": "75%"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVjAt1msQVzvBrtCdD8qBzSVCZqr3SqLELmLfnmsqojBN/nft.png",
+  "nftContractAddress": "0xe82d1e80506418d62441f88c40b2e0a5107c9fbc",
+  "animationUrl": "https://ipfs.io/ipfs/QmfLbkr3VXFrmq5mnVYoaTm3y2sC9uEENpvkBWPnob94R8/nft.wav",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "Chrometestnet",
+  "description": "Chrometestnet",
+  "attributes": [
+    {
+      "value": "b",
+      "trait_type": "a"
+    }
+  ]
+}

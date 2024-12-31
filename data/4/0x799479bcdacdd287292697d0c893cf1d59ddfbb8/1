@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVzDp1hrh6uct3RgadrMsLUDc2JXgsWn9iRzkS47mr1ub/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x799479bcdacdd287292697d0c893cf1d59ddfbb8",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Chocochip #1",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Chocochip"
+    }
+  ],
+  "minted": ""
+}

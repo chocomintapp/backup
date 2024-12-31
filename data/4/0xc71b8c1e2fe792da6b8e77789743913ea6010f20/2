@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPWkCpBPca3Du94Epvbnhcj6ixxw33CmUCAvciiREF4Cd/nft.png",
+  "nftContractAddress": "0xc71b8c1e2fe792da6b8e77789743913ea6010f20",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "smile",
+  "description": "test token 2!",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "none",
+      "trait_type": "body"
+    },
+    {
+      "value": "human",
+      "trait_type": "head"
+    },
+    {
+      "value": "none",
+      "trait_type": "hand"
+    }
+  ]
+}

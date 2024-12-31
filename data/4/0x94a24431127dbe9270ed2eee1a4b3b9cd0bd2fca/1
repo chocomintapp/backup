@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPGw9ggeRF1htpY3TC39M3zEkbUVPtSN8cHxX24RNJ45y/nft.png",
+  "tokenId": 1,
+  "description": "20220111の検証",
+  "nftContractAddress": "0x94a24431127dbe9270ed2eee1a4b3b9cd0bd2fca",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "tmp1",
+  "attributes": []
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcoLsNtca69XpjzEruhErPivtSDtsLvnqNYCQXcRTyVMn/nft.gif",
+  "nftContractAddress": "0x0982cca13ae91f51b93425f65e7b3b21a66d8811",
+  "animationUrl": "https://ipfs.io/ipfs/QmcoLsNtca69XpjzEruhErPivtSDtsLvnqNYCQXcRTyVMn/nft.gif",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "THUAN",
+  "description": "THUAN",
+  "attributes": []
+}

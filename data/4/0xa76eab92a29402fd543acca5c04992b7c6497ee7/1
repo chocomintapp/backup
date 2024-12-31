@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUUpVQaVL8L68L1Z6ynzN9NM5Efro7bGAXszaRr9vHxgp/nft.png",
+  "nftContractAddress": "0xa76eab92a29402fd543acca5c04992b7c6497ee7",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "keiba",
+  "description": "外れました",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

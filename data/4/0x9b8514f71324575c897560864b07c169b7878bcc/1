@@ -1,0 +1,15 @@
+{
+  "image": "",
+  "tokenId": 1,
+  "description": "my fire",
+  "nftContractAddress": "0x9b8514f71324575c897560864b07c169b7878bcc",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "fire",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

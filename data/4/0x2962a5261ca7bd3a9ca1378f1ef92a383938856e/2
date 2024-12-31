@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZB6ZVitpkHS4yvhFAAkrg4saqaMZWp8MUxxe1CZXYDw2/nft.png",
+  "tokenId": 2,
+  "description": "とくとく",
+  "nftContractAddress": "0x2962a5261ca7bd3a9ca1378f1ef92a383938856e",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "tokkun",
+  "attributes": []
+}

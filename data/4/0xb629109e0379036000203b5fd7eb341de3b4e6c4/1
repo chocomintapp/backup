@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSLmAJqAS7HQb3SEcGN7y7JvPEVv7YKmhZHnbNSuq32M6/nft.png",
+  "tokenId": 1,
+  "description": "天体でーす",
+  "nftContractAddress": "0xb629109e0379036000203b5fd7eb341de3b4e6c4",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "天　テスト",
+  "attributes": []
+}

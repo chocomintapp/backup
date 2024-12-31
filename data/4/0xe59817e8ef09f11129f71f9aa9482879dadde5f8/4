@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUh498Tt9BdGeUxRDaARv6z6id8A7mRPz48EbVUYqWSQr/nft.png",
+  "tokenId": 4,
+  "description": "ここにリンク",
+  "nftContractAddress": "0xe59817e8ef09f11129f71f9aa9482879dadde5f8",
+  "animationUrl": "https://ipfs.io/ipfs/QmUCGPPHhMqWfuq5rDXH4V4Jx6wvpb4yTbPHPSvMwTV9iu/nft.glb",
+  "chainId": "4",
+  "name": "test_glb",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

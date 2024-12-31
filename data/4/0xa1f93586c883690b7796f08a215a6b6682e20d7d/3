@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbLGevdMjHBgH5wmtHrjKiyPa5L4poXn5W3pAXKhWH9sU/nft.jpeg",
+  "tokenId": 3,
+  "description": "elbveibavlruvbuiabv",
+  "nftContractAddress": "0xa1f93586c883690b7796f08a215a6b6682e20d7d",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "UUUUM",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "CHOCO",
+      "value": "MINT"
+    }
+  ]
+}

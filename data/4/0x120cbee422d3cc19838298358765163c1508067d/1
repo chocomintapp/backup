@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRMhxC4vaRLWf1kAg7cPtddgpbXH6nrhcuHXUe2oyfyRb/nft.jpg",
+  "nftContractAddress": "0x120cbee422d3cc19838298358765163c1508067d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "Primer token",
+  "description": "solo un test",
+  "attributes": [
+    {
+      "value": "0.5",
+      "trait_type": "Laser Eyes"
+    }
+  ]
+}

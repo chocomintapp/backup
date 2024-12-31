@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPV9cypMoE9Dp1Zd9cZpFYxVarB46xXcjpTj9xDcdYmYn/nft.jpeg",
+  "tokenId": 1,
+  "description": "this is test",
+  "nftContractAddress": "0x938d0e1a69d8e59242e8d2129d2c6001a9f5ad36",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "uutasolo.test20220210",
+  "attributes": [
+    {
+      "trait_type": "Brave",
+      "value": "1"
+    },
+    {
+      "trait_type": "Faith",
+      "value": "1"
+    }
+  ]
+}

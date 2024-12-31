@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYFXPbXhyxkpLiZSmLyMxV7qRb2W5PDp84xtVmpFiBHeG/nft.png",
+  "tokenId": 1,
+  "description": "aaa test description",
+  "nftContractAddress": "0xca28ab3989ea1f2997785b98f33201c279939e1d",
+  "animationUrl": "https://ipfs.io/ipfs/QmTTo9qq7ZNTp38PEawhHdefh4fjDYpYQK2LnW8hPZQicQ/nft.gif",
+  "chainId": "4",
+  "name": "first test",
+  "attributes": [],
+  "minted": "✅"
+}

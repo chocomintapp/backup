@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeoFPZWYn7czZttLD55k94LBZqt5jKzURpk44rWBye96z/nft.PNG",
+  "tokenId": 1,
+  "description": "test",
+  "nftContractAddress": "0x98d9984750e1fb1eaa8f47cf80d8d6667f954fc9",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Sasa1",
+  "attributes": []
+}

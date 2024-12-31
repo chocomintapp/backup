@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUSrNZW4JChVmkeEH51UaLbUT1YWLsr1uFKwByZmLohqh/nft.png",
+  "tokenId": 2,
+  "description": "test2",
+  "nftContractAddress": "0xb5e6c6e04a13223dd2761ff349159e42e91ad591",
+  "animationUrl": "Qmbc7bn5G2XvwTLa13PBjFLHxx5od8HuacPndfX52uWVhF",
+  "chainId": "4",
+  "name": "glb-test2",
+  "attributes": [],
+  "minted": "✅"
+}

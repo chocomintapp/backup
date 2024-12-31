@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb9cMLYCru9ZncnHNvDsNZixTGoWDKwnwhKqBg79zGuby/nft.png",
+  "nftContractAddress": "0xe7a099ab3180002a6c74a8521cf740ce2bf20a70",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "toke",
+  "description": "sdfsfsfsf",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

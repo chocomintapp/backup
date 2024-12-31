@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYQcpqc8e1FKqQfR7nYeGexeaPFNGemTTUKWcPi57zZiP/nft.png",
+  "tokenId": 2,
+  "description": "Otaku100 brand shirt for Metaverse",
+  "nftContractAddress": "0x6b563885e2f04b9458f0aa3389d2392908233710",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "otaku100 #1 - Yellow",
+  "attributes": [
+    {
+      "trait_type": "color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "type",
+      "value": "genesis"
+    }
+  ]
+}

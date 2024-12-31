@@ -1,0 +1,11 @@
+{
+  "image": "https://dentou-s3.s3.ap-northeast-1.amazonaws.com/questions/1.png",
+  "tokenId": 1,
+  "description": "しろくま",
+  "nftContractAddress": "0xb28cee889ff0bbe1a298656d888446be85519f2f",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Q1 - クリプト - 初級",
+  "attributes": [],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUc4uRpKE97fdoCeXDahSgSG17QBi23sLomboaVZSMjht/nft.png",
+  "nftContractAddress": "0x5bc3b056989a152ecc17d520ffeff7a7ab4ad087",
+  "animationUrl": "https://ipfs.io/ipfs/QmUc4uRpKE97fdoCeXDahSgSG17QBi23sLomboaVZSMjht/nft.png",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "choco1",
+  "description": "choco test",
+  "attributes": []
+}

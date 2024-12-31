@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPg8hH6eBg6N7bbfNKSyPh6HdwaWEaC5bNScKF2eaLQCN/nft.jpg",
+  "tokenId": 1,
+  "description": "This is test NFT for v.",
+  "nftContractAddress": "0x19d6855964636c02c331ab73a33d8b17cf34a98f",
+  "animationUrl": "https://ipfs.io/ipfs/QmR5pMGQRzuZbBBbrEGc3NYLuJBSUAHdCbEF8cEYxPbX2n/nft.jpg",
+  "chainId": "4",
+  "name": "vtestnft",
+  "minted": ""
+}

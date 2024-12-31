@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaQr84ZMB4KyVbm8xbpCvrmpHZge5Cz73SJf873LB8D5d/nft.png",
+  "nftContractAddress": "0xb886c58b9cb5ff4af4e9a46730059bf27176a15e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "ticket",
+  "description": "チケットNFTテストです",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": ""
+}

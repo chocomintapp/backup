@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSJYmvh9QTSaWkgTzRaoKThHE1ugubLdBf5MneVoQpGMD/nft.png",
+  "tokenId": 2,
+  "description": "コンクエストみたいなやつ",
+  "nftContractAddress": "0x94859d93b7d557386a03bea9cc2c242605623dd9",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "SWBF2の立ち回りについて書いたマップ"
+}

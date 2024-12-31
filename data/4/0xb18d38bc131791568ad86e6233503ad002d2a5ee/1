@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfVrN9tzD3xXi4UDqGz4Wrk4RK8PCVgqekSmjV943Dvtw/nft.png",
+  "tokenId": 1,
+  "description": "nakamuraのトークン",
+  "nftContractAddress": "0xb18d38bc131791568ad86e6233503ad002d2a5ee",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "mynewtoken"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZns6JQK4oZsU5aqJsCwC3f8YZ5mtJ9raCPuDF4tGHjCF/nft.jpeg",
+  "tokenId": 1,
+  "description": "totally rubbish NFT",
+  "nftContractAddress": "0x528b13a08925c14cf4648a213410bff78249843c",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "broken BMW",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdVKxKwJY7VcGEXQxJPHVdd1VzEvhcgQE7yAFoEJtVNoc/nft.gif",
+  "nftContractAddress": "0xdd15cf5847d323c8373b16210e58b56dc9a768e7",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "4",
+  "name": "giftest2",
+  "description": "giftest2",
+  "attributes": []
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcP6b3UP3nhjM5kwczC6swZjLzNx8MoWZRCFLsJcfC3vv/nft.png",
+  "tokenId": 1,
+  "description": "Triangle art",
+  "nftContractAddress": "0x8a405dce0273a323e117f72e531e544c96b74f5b",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Tringle",
+  "minted": ""
+}

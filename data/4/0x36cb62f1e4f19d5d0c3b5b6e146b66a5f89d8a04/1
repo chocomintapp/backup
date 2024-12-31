@@ -1,0 +1,15 @@
+{
+  "image": "",
+  "tokenId": 1,
+  "description": "Hold once, Use Lifetime\nUse Music with Rights\nFree Monetize, NFT ",
+  "nftContractAddress": "0x36cb62f1e4f19d5d0c3b5b6e146b66a5f89d8a04",
+  "animationUrl": "https://ipfs.io/ipfs/QmcRqqGML12DAA169nSsVF6q9XLCFJ7XytTpjX8y8ceFJG/nft.mp4",
+  "chainId": "4",
+  "name": "RFS NFT #testnet",
+  "attributes": [
+    {
+      "trait_type": "Mood",
+      "value": "Cyber"
+    }
+  ]
+}

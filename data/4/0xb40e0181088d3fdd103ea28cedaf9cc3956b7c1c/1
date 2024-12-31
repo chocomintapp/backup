@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVA8BcfrmBQvDMtSMy4sjT3KdogBeVmtNMKbAm73q6eVc/nft.png",
+  "nftContractAddress": "0xb40e0181088d3fdd103ea28cedaf9cc3956b7c1c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "test-nft-1",
+  "description": "test-nft-1-description",
+  "attributes": [
+    {
+      "value": "0",
+      "trait_type": "hoge"
+    },
+    {
+      "value": "1",
+      "trait_type": "fuga"
+    },
+    {
+      "value": "2",
+      "trait_type": "piyo"
+    }
+  ]
+}

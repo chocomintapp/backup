@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRnaVga9Jk7xFXenK79wRDoCn1pYfSM45V8yQw53ezsgw/nft.jpeg",
+  "tokenId": 1,
+  "description": "co thay doi dc ko",
+  "nftContractAddress": "0xc330c97c3a4539c992d3c2d30bebc38986192a70",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "first",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

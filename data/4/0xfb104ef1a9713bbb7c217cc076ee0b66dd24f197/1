@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeLqtNfdFvSG2MadNKDFDarj87sWAut2t3KZ9xEdEqskE/nft.png",
+  "tokenId": 1,
+  "description": "this is super ultra nft",
+  "nftContractAddress": "0xfb104ef1a9713bbb7c217cc076ee0b66dd24f197",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "mysuperNFT"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYAjkM8XYeeGPwoVs9rWwJhTmWe8MFiABRsx42xbmUxHF/nft.jpg",
+  "nftContractAddress": "0x7fa7f30a9ac7784bfcc0f5cb288e3071afc04ae4",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "Database",
+  "description": "NFT DB ",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTBfMBQRBeLazxSPLtsLDCWGssic369YUtoRLqxZYyZxn/nft.png",
+  "tokenId": 1,
+  "description": "きらきらの画像",
+  "nftContractAddress": "0x62bd250a7089659227ee0d231b672610aae7341d",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "KiraKira",
+  "attributes": [],
+  "minted": ""
+}

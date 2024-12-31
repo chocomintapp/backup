@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbhthmvoQaJRXVnh7h7DmjL2z51xBq2JLHbjwRrk9j3gE/nft.png",
+  "tokenId": 1,
+  "description": "This is a LIK T-shirt.",
+  "nftContractAddress": "0x63438a83929f06366683d149fa1eebdd4d42fe70",
+  "animationUrl": "https://ipfs.io/ipfs/QmNi4jGk4BGrKgms85EJ7XV3oeJsr7fomF7uVbjqr3JCrs/nft.glb",
+  "chainId": "4",
+  "name": "LIK Tee #001",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Front",
+      "value": "Photo"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    }
+  ]
+}

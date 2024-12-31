@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbrL3bz9qNPpDSY6f9UEq9q55kne7pZx33zWq23SyKPrg/nft.gif",
+  "tokenId": 2,
+  "description": "Day Pass",
+  "nftContractAddress": "0x11f095584de313433064ef10ab2a37286c3252fc",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "Two Truths and a Lie",
+  "attributes": [
+    {
+      "trait_type": "VIP",
+      "value": "2"
+    }
+  ]
+}

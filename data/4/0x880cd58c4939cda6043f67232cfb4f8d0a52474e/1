@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQLrxywR2NFTeuG6Pr1eCJnPnUn2hQ9FrUbk3AtG1SHDn/nft.jpg",
+  "nftContractAddress": "0x880cd58c4939cda6043f67232cfb4f8d0a52474e",
+  "animationUrl": "https://ipfs.io/ipfs/QmUpN639LetvsKgaPkB3sAKJc5BChjxbevfEU2CB4wRU1p/nft.mp3",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "TEST 01",
+  "description": "TEST DESCRIPTION",
+  "attributes": [
+    {
+      "value": "dog",
+      "trait_type": "animal"
+    },
+    {
+      "value": "male",
+      "trait_type": "sex"
+    }
+  ]
+}

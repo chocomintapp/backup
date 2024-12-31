@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRBVZZnyiir5vSrGbijBpvRpmNDY8mkfwZJ68xwPG1GPL/nft.jpg",
+  "nftContractAddress": "0x5e4606e4cb755e20f7098a832db0536ec4354bac",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "THE SUN",
+  "description": "FRUSH SUN",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

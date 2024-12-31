@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWHBKeYjjkXqu7G273y5NRaYbCQrjLbfF3cfjhka8z2WZ/nft.png",
+  "tokenId": 1,
+  "description": "A small, hand-stitched & then digitally edited, amphibious creature that resides in the metaverse. Made with love.",
+  "nftContractAddress": "0xf1c1c11b79259b114215f4f432e27ba2f32af5dd",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "StitchToadz #6065",
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Blood"
+    }
+  ]
+}

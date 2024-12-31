@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXrdBTBUJEifDKLzFE9mA2WFH3v2Ao7Y4YgXLZU7JivZT/nft.jpg",
+  "tokenId": 1,
+  "description": "kmのトークン",
+  "nftContractAddress": "0x2ac1891349d3b96432444f2ddaa1ff310a3591ce",
+  "animationUrl": "",
+  "chainId": "4",
+  "name": "newtoken"
+}

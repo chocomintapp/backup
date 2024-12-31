@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPxVp97PDEbHBbSuoSFyoKy8tYWQUNs6NRuZnWPRKgLbN/nft.mp4",
+  "nftContractAddress": "0xc3db8016a30fe7c11598d3138ac1b601567a196c",
+  "animationUrl": "https://ipfs.io/ipfs/QmPxVp97PDEbHBbSuoSFyoKy8tYWQUNs6NRuZnWPRKgLbN/nft.mp4",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "RTEST ",
+  "description": "",
+  "attributes": []
+}

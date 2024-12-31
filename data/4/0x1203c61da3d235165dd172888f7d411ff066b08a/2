@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPzBiQH5KkHzsMAGBjrS4LLoXXzVfq8kbhv5zktRVT2DR/nft.jpg",
+  "nftContractAddress": "0x1203c61da3d235165dd172888f7d411ff066b08a",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "mandrill",
+  "description": "test02",
+  "attributes": []
+}

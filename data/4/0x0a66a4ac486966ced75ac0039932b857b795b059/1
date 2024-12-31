@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP7FDu7fqi8Wy1FDhR1QY9ZcyMgxd2XHn9ETsGjYJUDgF/nft.png",
+  "tokenId": 1,
+  "description": "Description",
+  "nftContractAddress": "0x0a66a4ac486966ced75ac0039932b857b795b059",
+  "animationUrl": "data:text/html;base64,PCFkb2N0eXBlIGh0bWw+PGh0bWwgbGFuZz0iamEiPjxoZWFkPjxtZXRhIGNoYXJzZXQ9IlVURi04Ij48dGl0bGU+SFRNTCBTYW1wbGU8L3RpdGxlPjwvaGVhZD48Ym9keT48ZGl2IGNsYXNzPSJoZWFkZXIiPkhlYWRlcjwvZGl2PjxkaXYgY2xhc3M9Im1haW4iPjxoMT5oMTwvaDE+PHA+Y29udGVudDwvcD48L2Rpdj48ZGl2IGNsYXNzPSJmb290ZXIiPjxzcGFuPkZvb3Rlcjwvc3Bhbj48YSBocmVmPSIjIj5saW5rPC9hPjwvZGl2PjwvYm9keT48L2h0bWw+",
+  "chainId": "4",
+  "name": "TestToken",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

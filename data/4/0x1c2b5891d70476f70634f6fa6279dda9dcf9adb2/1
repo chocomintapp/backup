@@ -1,0 +1,16 @@
+{
+  "image": "https://gateway.pinata.cloud/ipfs/QmWcYLNKCYLFP2K23zM1dNMP3nEJxQyJo343JukJd47wJQ/Black.png",
+  "tokenId": 1,
+  "description": "AAAAA",
+  "nftContractAddress": "0x1c2b5891d70476f70634f6fa6279dda9dcf9adb2",
+  "animationUrl": "https://gateway.pinata.cloud/ipfs/QmWcYLNKCYLFP2K23zM1dNMP3nEJxQyJo343JukJd47wJQ/Black.png",
+  "chainId": "4",
+  "name": "AAA",
+  "attributes": [
+    {
+      "trait_type": "VVV",
+      "value": "YYYY"
+    }
+  ],
+  "minted": "✅"
+}

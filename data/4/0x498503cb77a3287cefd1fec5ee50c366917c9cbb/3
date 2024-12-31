@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeDUXj4MLZWFKW3ynCwgsHs27qL5ck1eR68A63YBNztUj/nft.png",
+  "tokenId": 3,
+  "description": "ccc",
+  "nftContractAddress": "0x498503cb77a3287cefd1fec5ee50c366917c9cbb",
+  "animationUrl": "https://ipfs.io/ipfs/QmeDUXj4MLZWFKW3ynCwgsHs27qL5ck1eR68A63YBNztUj/nft.png",
+  "chainId": "4",
+  "name": "test3",
+  "attributes": [
+    {
+      "trait_type": "DNA",
+      "value": "ZERO"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "GREEN"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "PURPLE"
+    },
+    {
+      "trait_type": "WEAPON",
+      "value": "YARI"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdhtyWJ9ZMyZTPyva1xwfkS2smd1s99LYiCUbPAHrCZxK/nft.png",
+  "nftContractAddress": "0x4c20481086bae7bd16a5191184f74bdd102b217f",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "Image of Taiwan",
+  "description": "Photos taken on a trip to Taiwan",
+  "attributes": []
+}

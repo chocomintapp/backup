@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb55cX6jyYgC3BsbLkkvyufhRvLz3pHAQW8tsaqc3cpct/nft.jpeg",
+  "nftContractAddress": "0x87f285bc57af42d6e0c868130a77f384114df54c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "NobisRoom_Test",
+  "description": "Test",
+  "attributes": []
+}

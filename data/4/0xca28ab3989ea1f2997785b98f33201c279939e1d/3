@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXd1mCu1P3AQfqXUB64oQgt3PiSpbhQF66bKxyQgSinnh/nft.png",
+  "tokenId": 3,
+  "description": "des",
+  "nftContractAddress": "0xca28ab3989ea1f2997785b98f33201c279939e1d",
+  "animationUrl": "https://ipfs.io/ipfs/QmXd1mCu1P3AQfqXUB64oQgt3PiSpbhQF66bKxyQgSinnh/nft.png",
+  "chainId": "4",
+  "name": "third",
+  "attributes": [],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR1i4CUuHxs6mB8mzYjjThzwA5TJ7TJ46x9QHEVNWd7aQ/nft.png",
+  "nftContractAddress": "0xa66911c7df2e05a57c970c09289a34855e36ef55",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "4",
+  "name": "a",
+  "description": "ai",
+  "attributes": [
+    {
+      "value": "0.1",
+      "trait_type": "super rare"
+    }
+  ]
+}

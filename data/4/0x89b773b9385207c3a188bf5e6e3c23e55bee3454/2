@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcoLsNtca69XpjzEruhErPivtSDtsLvnqNYCQXcRTyVMn/nft.gif",
+  "nftContractAddress": "0x89b773b9385207c3a188bf5e6e3c23e55bee3454",
+  "animationUrl": "https://ipfs.io/ipfs/QmcoLsNtca69XpjzEruhErPivtSDtsLvnqNYCQXcRTyVMn/nft.gif",
+  "tokenId": 2,
+  "chainId": "4",
+  "name": "TEST_CHOCOMINT",
+  "description": "",
+  "attributes": []
+}
