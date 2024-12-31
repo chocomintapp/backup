@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcvAgFxYzuLLmNDVanA6CuXWzGEXFiYvKibsbY4bdcyb4/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmbfpWx5EHmq8BWU6EXBuBYSHWUSKonZ2sEDCzAS12ycvo/nft.gif",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "Kawaii Legends #007",
+  "description": "#007 Sake Kawaii\n\n\"You inherently have a sense of what to do and which way to go.\nIntuition has a fun-loving attitude that is quickly rewarded.\"\n\n\n\n*Here are some tidbits about this costume:\n\nThis garment is an ancient underwear called \"Sarashi\". \nIt was used like a modern bra. Wow!\nEven today, Japanese gang women are sometimes depicted wearing these.\n\n衣装豆知識：\nこれはサラシと呼ばれる過去の時代の下着です。\n現代のブラに当たります。\n現代でも日本の極道の女性たちがこれを着用した姿で描かれることがあります。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "ONI",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Celebrate",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Sakura",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Sarashi",
+      "trait_type": "Outfit"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTw48ZYudQhZBG2BS3KiXhMcPXpJVVqaC6zJ4gRBfDoRk/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmTw48ZYudQhZBG2BS3KiXhMcPXpJVVqaC6zJ4gRBfDoRk/nft.mp4",
+  "tokenId": 914,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1014",
+  "description": "明確に持ってる5年後のビジョン\nSNS顔出し運用",
+  "attributes": [
+    {
+      "value": "aj5",
+      "trait_type": "M"
+    },
+    {
+      "value": "Ｂプルート",
+      "trait_type": "押韻職人"
+    },
+    {
+      "value": "禅",
+      "trait_type": "BG"
+    }
+  ]
+}

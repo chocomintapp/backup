@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPnoquAYdsLwShUSJwzSReHfdG1uAFw7uBSiotvNd6SKT/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "TANU-KIDS #014",
+  "description": "サーファーに変身したTANU-KIDS\n\n実は泳げないので\n海辺をふらついてナンパしたいだけです",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Surfer",
+      "trait_type": "Sports"
+    }
+  ]
+}

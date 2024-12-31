@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdkcsSEPLX73xfbDQZCXbz9Y6LRUYpGrwGFNjigixaxnQ/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 128,
+  "chainId": "137",
+  "name": "Day60 Umitsuru's Art",
+  "description": "玉ねぎの使い勝手の良さに日々感謝しています。\n\nI am thankful every day for the ease of using onions.",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

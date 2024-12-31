@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfHSbUdLBGT54UfnrwbnPtLRwjKA4Ns8tnecKptfYPMPG/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "大吉 Bubble Gum #21",
+  "description": "あなたのハートを膨らませます。笑\n\nInflate your heart．hahaha\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "attributes": [
+    {
+      "value": "pink Bubble gum",
+      "trait_type": "special item"
+    }
+  ]
+}

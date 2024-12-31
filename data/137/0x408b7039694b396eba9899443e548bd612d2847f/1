@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPHSmFbozBXXJL16NzaALxVuHWsPVEb1E1YgBpPQvjuZF/nft.jpg",
+  "tokenId": 1,
+  "description": "A limited edition NFT made for early adopters of the SunstrikeChain (https://twitter.com/SunstrikeChain), it's a good thing to have!",
+  "nftContractAddress": "0x408b7039694b396eba9899443e548bd612d2847f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "SunstrikeChain Early Adapter's NFT",
+  "attributes": []
+}

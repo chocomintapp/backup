@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcgRz9RVGY8rR1TKXpYJA2aEbuhFWCqvym32WnUscTtbS/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "LIVING MINERAL #1",
+  "description": "",
+  "attributes": [
+    {
+      "value": "ape",
+      "trait_type": "gene"
+    },
+    {
+      "value": "rare",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "crystal",
+      "trait_type": "material"
+    },
+    {
+      "value": "true",
+      "trait_type": "albino"
+    }
+  ]
+}

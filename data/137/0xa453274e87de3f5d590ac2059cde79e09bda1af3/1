@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVBBjSn5jM3cCnkrRQA4sYUNC87WY174qTUxH8LoKBCRn/nft.png",
+  "nftContractAddress": "0xa453274e87de3f5d590ac2059cde79e09bda1af3",
+  "animationUrl": "https://ipfs.io/ipfs/QmVBBjSn5jM3cCnkrRQA4sYUNC87WY174qTUxH8LoKBCRn/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "KMNMOTOM Collection #1",
+  "description": "KMNM in OTOM.Thanks to all.\nThat's all.",
+  "attributes": [],
+  "minted": ""
+}

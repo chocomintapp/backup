@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRfxFHBfm1c5zJZR8yuBRvngTeAb2igRY72XzBQg1BQaC/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "DOZAN11 × VeryLongAnimals (APE)",
+  "description": "A collaboration with DOZAN11, a famous reggae artist in Japan. Created by VLAB and AkimuneKawa.",
+  "attributes": [
+    {
+      "value": "Ape DOZAN",
+      "trait_type": "TYPE"
+    }
+  ]
+}

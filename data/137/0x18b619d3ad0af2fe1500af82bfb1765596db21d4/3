@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbz8oak9Rfxepe7s84Ur1M5nRDr627kEmsU7mNrrjJors/nft.png",
+  "tokenId": 3,
+  "description": "TwitterのHeader画像用サイズ Size for Twitter Header image\n\nmamonomania Utilitiesは、特定の用途に特化した、mamonomaniaのサブコレクションです。\n\nmamonomania Utilities is a sub-collection of mamonomania, dedicated to specific applications.\n\nLearn more about [mamonomania] https://opensea.io/collection/mamonomania",
+  "nftContractAddress": "0x18b619d3ad0af2fe1500af82bfb1765596db21d4",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#003 mamonomania Header",
+  "attributes": []
+}

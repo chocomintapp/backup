@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdWEBub2Vz8cESxkwJEuWhb7EwNRFTG4adErit1o8z3uR/nft.gif",
+  "tokenId": 7,
+  "description": "",
+  "nftContractAddress": "0x238312a4b25d38da55f437c35bb713f2a5924664",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Dooms",
+  "attributes": [
+    {
+      "trait_type": "Attribute",
+      "value": "Black Wing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dooms"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Catwoman"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black Fedora"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Rx"
+    }
+  ]
+}

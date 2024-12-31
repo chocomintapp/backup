@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaXHEnB1GgCL5o5zF4n5p9aNhtYNQjnxhN6vwvzBagrdP/nft.png",
+  "nftContractAddress": "0x0ed584f956237cd686d709058e6a2af576dcb598",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "【第9話】しろねことはむすたー",
+  "description": "ベビロン(どうぶつのあかちゃん)があそんでるひとコマまんが",
+  "attributes": [
+    {
+      "value": "しろねこ",
+      "trait_type": "どうぶつ"
+    },
+    {
+      "value": "はむすたー",
+      "trait_type": "どうぶつ"
+    }
+  ]
+}

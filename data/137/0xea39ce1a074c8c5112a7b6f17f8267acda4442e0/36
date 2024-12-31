@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ2uoFzc46ndnKKCNASkhwUbNGaJYr2sJDexQ3rpEbkAc/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "137",
+  "name": "TANU-KIDS #035",
+  "description": "ナースに変身したTANU-KIDS\n\nナースのお仕事がんばります！\n採血は得意なのでお任せください",
+  "attributes": [
+    {
+      "value": "Nurse",
+      "trait_type": "Occupation"
+    }
+  ],
+  "minted": "✅"
+}

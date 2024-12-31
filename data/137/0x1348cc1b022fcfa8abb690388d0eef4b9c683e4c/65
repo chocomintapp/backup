@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZxDaq4UtqS7a2mvxyAgX58XrdF13yYFZrbMQDBFz7nQX/nft.png",
+  "nftContractAddress": "0x1348cc1b022fcfa8abb690388d0eef4b9c683e4c",
+  "animationUrl": "",
+  "tokenId": 65,
+  "chainId": "137",
+  "name": "SP65",
+  "description": "VL",
+  "attributes": []
+}

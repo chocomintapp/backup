@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXi3yQKvm6VzjMDmehgtaHVXho9nqME8BDPHiHWS5KM11/nft.png",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 90,
+  "chainId": "137",
+  "name": "Day37 Syu's Art #108",
+  "description": "一生懸命、自転車に乗る練習をしてます。楽しい。\n\nI'm practicing riding my bike as hard as I can. It's fun.",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

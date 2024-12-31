@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeaWFphVHVa1fMJ7A1zL7aACKF5iBpsjjauZw2ydDoZzb/nft.webp",
+  "nftContractAddress": "0x993087debe55f16380f45344008dfd092d7b7974",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "お手伝い券",
+  "description": "なじゅさんのお手伝い券です。この券をなじゅさんに渡すと、なじゅさんが10分お手伝いしてくれます。",
+  "attributes": []
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd2sSwanWNNwSVUKoDsbafYTvf1CYjLGJd28cGLC3qMwo/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/Qmd2sSwanWNNwSVUKoDsbafYTvf1CYjLGJd28cGLC3qMwo/nft.gif",
+  "tokenId": 80,
+  "chainId": "137",
+  "name": "WavyLongAnimals #80",
+  "description": "ベリロン二次創作",
+  "attributes": [
+    {
+      "value": "Sea Anemone",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

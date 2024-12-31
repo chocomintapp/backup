@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmacPYujk8QrKpXayJBoCBZbhTvGVQ3aJmqDDSwwPDCo8T/nft.png",
+  "nftContractAddress": "0x7e61ad13c51183720d50cfcffa6b10b5714af9f5",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "VeryLongEnglishAnimals #8",
+  "description": "This is a secondary production of \"VeryLongAnimals\"",
+  "attributes": [
+    {
+      "value": "Squid",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

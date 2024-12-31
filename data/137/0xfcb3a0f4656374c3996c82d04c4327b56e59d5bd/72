@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeA5bmSyzQjWS5PeqRoX1N9ndUjSBYb2SKofgbsWAoAyF/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 72,
+  "chainId": "137",
+  "name": "#0068_Niton_YBK_G_Bst",
+  "description": "#0068_Niton_YBK_G_Bst\nブーストアイテムにて変化しています！",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    },
+    {
+      "value": "Horn",
+      "trait_type": "Boost"
+    }
+  ],
+  "minted": "✅"
+}

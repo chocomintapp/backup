@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRgXX3EvhAUhg2ieHZMg2EdnAW8ZVFUo37AeEikt7h9bE/nft.mp4",
+  "nftContractAddress": "0x658bc3c70c50b1006ea543fd25149d733941807b",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Christmas Card",
+  "description": "Merry Christmas！ステキなクリスマスをお過ごしください。",
+  "attributes": [],
+  "minted": ""
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmafMXc3kGSdnpNPAZcA2QKb8mHUvaZnukPUCy1vJPs6Nz/nft.png",
+  "tokenId": 1,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**Me163 Comete:Captain Wolfgang Späte's bright red aircraft**  \nThis NFT is a rare ace pilot's aircraft, the only one in Season 1. \n\nThis is the red aircraft of Captain Wolfgang Späte, the only rocket fighter in the history of mankind to be put into actual combat.\nIt is the \"Red Comet\" that hit an astonishing 960km/h at a time when reciprocating aircraft were going around 600km/h.\nThe reason for painting it red was to honor the Red Baron of World War I, Richthofen. The reason why it was painted red was to honor the Red Baron, Richthofen, who was the downed king of World War I. However, Captain Speete did not want to paint it red. It is said that the maintenance staff, excited by the first battle, painted it on their own.\n\n**Me163コメート：ヴォルフガングシュペーテ大尉機**  \nシーズン1に1枚だけ存在するエース機NFTです。\n\n人類史上で唯一実戦投入されたロケット戦闘機の初陣を飾った\nヴォルフガング・シュペーテ大尉の赤い機体です。\nレシプロ機が時速600km前後だった時代に驚異の960kmを叩き出した元祖「赤い彗星」です。\n\n赤く塗った理由は第一次大戦の撃墜王レッドバロンことリヒトホーフェンにあやかるためでしたが、当のシュペーテ大尉が望んだわけではなく初陣に盛り上がった整備員が勝手に塗ったと言われいます。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0001 Me163 Wolfgang Späte",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Fighter"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Ace aircraft"
+    }
+  ]
+}

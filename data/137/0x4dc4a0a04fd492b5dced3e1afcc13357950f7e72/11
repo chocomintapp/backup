@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdjY82m8rySWUTRdZFm1rZioCKA5odKucHbLNUXHhQ5L6/nft.png",
+  "nftContractAddress": "0x4dc4a0a04fd492b5dced3e1afcc13357950f7e72",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc79BTPyVYyiyqTmFC4VGuVUSUJhHUp7CRWRYQxpnHbHD/nft.glb",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "MSBoy3D typeB #1",
+  "description": "MoonshotBoy3D typeB #1",
+  "attributes": [],
+  "minted": "✅"
+}

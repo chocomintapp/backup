@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYTA46LEETQvs3jFBhKE4CV2wcs8UxbHgBY5i77WfZ5S4/nft.png",
+  "nftContractAddress": "0x0ed584f956237cd686d709058e6a2af576dcb598",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "【第7話】しろねことあるぱか",
+  "description": "ベビロン(どうぶつのあかちゃん)があそんでるひとコマまんが",
+  "attributes": [
+    {
+      "value": "しろねこ",
+      "trait_type": "どうぶつ"
+    },
+    {
+      "value": "あるぱか",
+      "trait_type": "どうぶつ"
+    }
+  ]
+}

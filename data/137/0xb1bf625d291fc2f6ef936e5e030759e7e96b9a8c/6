@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbtPK1PJ1h73mYJWdgqukNGziuNQyBJXFoSEYptPmoA3k/nft.jpeg",
+  "tokenId": 6,
+  "description": "Human + Animal = Hunimal",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "HUNIMAL #6",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Hunimal"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Camel + Human"
+    },
+    {
+      "trait_type": "FASHION",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "Chignon"
+    },
+    {
+      "trait_type": "STYLE",
+      "value": "Rockabilly"
+    }
+  ],
+  "minted": "✅"
+}

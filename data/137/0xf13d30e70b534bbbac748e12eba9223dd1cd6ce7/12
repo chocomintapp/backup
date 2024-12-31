@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRoxNmJf33PwAgnV7kPgs2w5b9xQcf8Hiy7jX8Mtv8Hmt/nft.jpg",
+  "tokenId": 12,
+  "description": "FugutaSwap is an automated market maker and Decentralized Exchange (DEX) that allows tokens to be exchanged on the ISONO Chain. ",
+  "nftContractAddress": "0xf13d30e70b534bbbac748e12eba9223dd1cd6ce7",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Fuguta Swap"
+}

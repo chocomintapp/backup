@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXDqKHa6NHZutbRxtZtSmtGgdTaXRYx5LeJF5gawQ4Hrs/nft.png",
+  "tokenId": 21,
+  "description": "みんなで引きこもっています。\n\nWe are holed up.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Beef Bowl",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cow"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPjnzAZSBESWionbP6PfGYRK4JS2hxEhQorU5xM289ohL/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 64,
+  "chainId": "137",
+  "name": "引っ込み思案なえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ナイコウテキ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "オムレツ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "クリームシチュー",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "深夜ラジオ",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "アリノママデイコウ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

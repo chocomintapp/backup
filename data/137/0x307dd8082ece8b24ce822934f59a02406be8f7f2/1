@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeuUuHwR4m6G8oWJt9BbbrF4vJa4qtVWdJbvPuEgymJTG/nft.jpg",
+  "tokenId": 1,
+  "description": "ayatakatest",
+  "nftContractAddress": "0x307dd8082ece8b24ce822934f59a02406be8f7f2",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "ayataka01"
+}

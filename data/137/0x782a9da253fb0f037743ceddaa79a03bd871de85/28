@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUze7D5F6fbGwpX7xA1r6QfPihqV1u5PtGHWR8Nqx8PuF/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "VerySilentFruits#28 Passionfruit",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Passionfruit",
+      "trait_type": "Fruit"
+    }
+  ]
+}

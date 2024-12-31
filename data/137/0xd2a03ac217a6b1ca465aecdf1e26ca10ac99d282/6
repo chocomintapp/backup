@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVACM8omyJBkTNWP9fgHn7W4KriMH7FwuaeAC94x7Jjpq/nft.png",
+  "tokenId": 6,
+  "description": "Flying round metals.",
+  "nftContractAddress": "0xd2a03ac217a6b1ca465aecdf1e26ca10ac99d282",
+  "animationUrl": "https://ipfs.io/ipfs/QmVACM8omyJBkTNWP9fgHn7W4KriMH7FwuaeAC94x7Jjpq/nft.png",
+  "chainId": "137",
+  "name": "WingBalls 10 BluePhoenix",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "R"
+    }
+  ]
+}

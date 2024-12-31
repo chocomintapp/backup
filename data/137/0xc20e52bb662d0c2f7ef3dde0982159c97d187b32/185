@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTtUpEisanTTKop5rRYTu5LDYiZfRcdjpgd9tGptdsfid/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 185,
+  "chainId": "137",
+  "name": "#185",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Different world",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "Hard ground",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Elemental jewels",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Earth jewel",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "The power of the earth",
+      "trait_type": "special1"
+    },
+    {
+      "value": "Falling rocks",
+      "trait_type": "Accessory1"
+    }
+  ]
+}

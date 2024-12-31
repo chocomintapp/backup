@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb8z47vYKzjvVyhkDmohJ8sxu8de2QnZ9GmThKzLTRHnC/nft.png",
+  "tokenId": 14,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n1月11日\n\n今日もまた、自慢のMA-1に身を包んだ「ねじねじドーナツ部長」。今日は朝から取引先へ直行するため、どうせならバイクで出発をして、昨日ドタキャンになったツーリングの続きでもしようかな…と考えていたり、いなかったり。「よし、バイクで行っちゃおうかな」と思ったその時、夜に取引先との懇親会の予定が入っていたことに気づきました。「また、お預けか…」とがっくし肩を落としたのでした。\n\nJan 11\n\nToday, \"Screwy Donut Department Manager\" is again dressed in his prized MA-1. He had to go directly to his business partner in the morning, so he was thinking of taking off on his motorcycle and continuing the touring he had cancelled yesterday... or not. Just as he was thinking, \"Okay, I'll go on the bike,\" he realized that he had an evening get-together with his business partner scheduled for that evening. He was disappointed to find that he had to leave it all behind again.",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #010 Jan.11",
+  "attributes": [
+    {
+      "trait_type": "JEANS",
+      "value": "Mocha"
+    },
+    {
+      "trait_type": "MA-1",
+      "value": "Red"
+    },
+    {
+      "trait_type": "SHIRT",
+      "value": "White"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "White"
+    }
+  ]
+}

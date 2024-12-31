@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdK8WDarH2Eu5Xn4gAbBozhhM148532frLMQacQdxmr4s/nft.jpg",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 79,
+  "chainId": "137",
+  "name": "#0075_Niton_for Custom",
+  "description": "全86色の中から好きな3色を選び、組み合わせをオーダーすることが可能です。購入後にDiscordにてリクエストして下さい。\nhttps://discord.gg/PcbnUAVNcH\n\n色の組み合わせ決定後、3日〜1週間後に変化（Revel）します。\n※既に登場している色の組み合わせはお受けできません。",
+  "attributes": [
+    {
+      "value": "Possible",
+      "trait_type": "Custom"
+    }
+  ],
+  "minted": "✅"
+}

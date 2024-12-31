@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSX4wq8zKTvpZFd1wvLyJ5KMbwJSt7GeaQ98PNBUzaBDd/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "137",
+  "name": "大吉 3D Glasses  #23",
+  "description": "メタバースへようこそ！\n\nWelcome to Metaverse!\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "attributes": [
+    {
+      "value": "3d glasses",
+      "trait_type": "special item"
+    }
+  ]
+}

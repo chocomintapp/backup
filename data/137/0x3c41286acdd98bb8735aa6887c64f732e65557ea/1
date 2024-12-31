@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXWEAGP3TQKiGdkojkrCPu2HHctdewPgZxLoQsCi1Hhg3/nft.jpeg",
+  "nftContractAddress": "0x3c41286acdd98bb8735aa6887c64f732e65557ea",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "作品名 #1",
+  "description": "作品#1の詳細説明",
+  "attributes": [],
+  "minted": ""
+}

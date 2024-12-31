@@ -1,0 +1,15 @@
+{
+  "image": "",
+  "nftContractAddress": "0x56d07de7fad8e72ed7c6ff1a5a2ec36bb056b489",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "#2 6maker \"Ms. Muscle Maid\"／6maker「マッスルメイドさん」",
+  "description": "This is a secondary NFT of 6maker's \"Muscle Maid-san\".\nEven though she is muscular and works at a maid cafe.\nShe has the power to destroy an entire container of ketchup.\n\nOriginal author:\n6maker\n\n6makerさんの「マッスルメイドさん」の二次創作NFTです。\n筋肉ムキムキでメイド喫茶に勤めていても\nケチャップの容器ごと破壊しそうなパワーを持っています。\n\n原作者：\n6maker",
+  "attributes": [
+    {
+      "value": "Muscle Maid",
+      "trait_type": "6maker"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "",
+  "tokenId": 1,
+  "description": "test  test  test  \ntest",
+  "nftContractAddress": "0x96de8fc55b1ef80ccedb4b945d84454353945c4b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "CheckToken1",
+  "attributes": [
+    {
+      "trait_type": "VRMConvert",
+      "value": "true"
+    },
+    {
+      "trait_type": "LocalUse",
+      "value": "true"
+    }
+  ]
+}

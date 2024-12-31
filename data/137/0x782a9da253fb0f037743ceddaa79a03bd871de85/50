@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS5cewZxJpUGe8cnCNQQvAfaSSkhYsV8BRmVi2xpF7VeF/nft.JPEG",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 50,
+  "chainId": "137",
+  "name": "VerySilentFruits#50 Dragon Fruit",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Dragon Fruit",
+      "trait_type": "Fruit"
+    },
+    {
+      "value": "The Stranger",
+      "trait_type": "Speciality"
+    },
+    {
+      "value": "Super Rare",
+      "trait_type": "Rarity"
+    }
+  ]
+}

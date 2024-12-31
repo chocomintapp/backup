@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTsLxfDeBceuufcRXtK1s9PypjSqGBtwTR8rHZpKEHqe4/nft.png",
+  "tokenId": 21,
+  "description": "The Boy Ape Smart Club is a collection of 10.000 unique Boy Ape NFTs— unique digital collectibles living on the Polygon & Ethereum blockchain.",
+  "nftContractAddress": "0xc61a577267b7ca57abf312fa48e4c71d9f8c8786",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Boy Ape #21",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Meteor Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazy Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking Cigarette"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bunny Headban"
+    }
+  ],
+  "minted": "✅"
+}

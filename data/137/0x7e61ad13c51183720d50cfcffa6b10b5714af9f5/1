@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbbh1zRGsopLcjA4EuZXsqgWNiF65iu96egB1dGwh2zN2/nft.png",
+  "nftContractAddress": "0x7e61ad13c51183720d50cfcffa6b10b5714af9f5",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "VeryLongEnglishAnimals #1",
+  "description": "This is a secondary production of \"VeryLongAnimals\".",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Penguin",
+      "trait_type": "TYPE"
+    }
+  ]
+}

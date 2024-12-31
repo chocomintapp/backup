@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdbsFSuPEs8c8skDbub4s2gdripjZnRTLttA3Rwd8PGEU/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "137",
+  "name": "TANU-KIDS #029",
+  "description": "魔法少女に変身したTANU-KIDS\n\nアニメを観すぎて変身しました",
+  "attributes": [
+    {
+      "value": "Magical girl",
+      "trait_type": "Hobby"
+    }
+  ],
+  "minted": "✅"
+}

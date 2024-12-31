@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRaVTXuBPW4MreLYYgumyksJkgBUf4tM9s59mZhmeufoY/nft.png",
+  "tokenId": 1,
+  "description": "これはテストです\nあああ\nthis is test aaaa\nこれはテストです\nあああ\nthis is test aaaa\nこれはテストです\nあああ\nthis is test aaaa\nこれはテストです\nあああ\nthis is test aaaa\nこれはテストです\nあああ\nthis is test aaaa",
+  "nftContractAddress": "0xd69623e5b96e7a101fede3090f6f824b422a0efe",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test1 あああ",
+  "minted": "✅"
+}

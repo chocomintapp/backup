@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbmRPDqER32kvjZDcLP4S3pjiumqhE9ApsMYxU6DbDzgz/nft.PNG",
+  "tokenId": 1,
+  "description": "This is 3D model data in GLB format created for Ichiya avatars.",
+  "nftContractAddress": "0x576f54919190c06256a3d0effaf198e0b6433c4f",
+  "animationUrl": "https://ipfs.io/ipfs/QmUQrVoFW1bHZ1JKUBSXkHDeVkyTAEQRRgfZag81Q8AtjD/nft.glb",
+  "chainId": "137",
+  "name": "3d model data - Ichiya",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

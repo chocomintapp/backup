@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNhZJDtmhWXn8tmGu7BjogYVoH8dHNwTUvirKaymfY9jF/nft.jpg",
+  "nftContractAddress": "0x547abf3b0afc35391991c789969ef5fad760395b",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "gazou",
+  "description": "gazou  gazou\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "rarety",
+      "trait_type": "rarety"
+    }
+  ]
+}

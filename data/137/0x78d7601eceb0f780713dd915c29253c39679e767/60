@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ3RMUNdYBVFLJmCva9dUfaJt7JdeCRSCNP6j2Kj873av/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 60,
+  "chainId": "137",
+  "name": "#60 School uniform Cardigan yellow",
+  "description": "The school uniforms of the girls who aim to be Rabbitgirls of their dreams\n",
+  "attributes": [
+    {
+      "value": "Clothes",
+      "trait_type": "Type"
+    },
+    {
+      "value": "School uniform1",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaU7jk2WTQPgNb8ur4QB6uckbcBTN7b4B78rk3eQBbqtn/nft.png",
+  "tokenId": 4,
+  "description": "Noodle: Nikumaki soba \nRestaurant: Menya Sou Takadanobaba honten\nAddress: 1-4-21 Takadanobaba, Shinjuku-ku, Tokyo-to \n169-0075 Japan\nSNS：https://twitter.com/menyasou1",
+  "nftContractAddress": "0xa4433e91473733a2fb70792b37a2388c56540a21",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "肉まきそば・麺屋宗 高田馬場本店",
+  "attributes": []
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYUNFewiovPDpPENdzEuDj8b9iZy15ubNxZSud9wvdmpR/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #29",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Beetle",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTW1arAEpqBr1NBYk2Uhy9Nxj9TCuDPPAhf6u2RPyJ5fa/nft.png",
+  "tokenId": 30,
+  "description": "このNFTは公式から購入した場合、それぞれに対応したWAXのNFTを受け取ることが可能です。 ただし締め切る場合があるので注意して下さい。  WAXのNFTを受け取る方法については、こちらを御覧ください。 https://the-neko-returns.pigboat.jp/211/  Mini FactoryはThe Neko Returnsにおいて特別なNFTです。 30日毎に猫缶を一つ受け取ることが出来ます。  注意点 猫缶の配布は永続するわけではありません。使用しているサービスが使用できなくなるなど、続けていくことが困難になった場合は中止する場合があるます。 Factoryを一つのWAXwalletに複数所有している場合でも、猫缶は一つしか受け取ることが出来ません。",
+  "nftContractAddress": "0xdc7bdef20327c0d57a0fefef09b01a31020f3625",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Mini Factory#13",
+  "attributes": [],
+  "minted": ""
+}

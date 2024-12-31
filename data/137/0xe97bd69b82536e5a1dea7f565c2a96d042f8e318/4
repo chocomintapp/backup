@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaBPL1zmdcAwDGnRiKzPj3Uw8Ep4fydDj2nM3t1yea96T/nft.jpeg",
+  "tokenId": 4,
+  "description": "he's my friend",
+  "nftContractAddress": "0xe97bd69b82536e5a1dea7f565c2a96d042f8e318",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "friend",
+  "attributes": [],
+  "minted": ""
+}

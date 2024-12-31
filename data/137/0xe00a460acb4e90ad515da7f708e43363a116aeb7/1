@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPT7cvc12YyWcUYe9VzRcf6DheMBn6Rr3iRpoAizPcSNF/nft.png",
+  "nftContractAddress": "0xe00a460acb4e90ad515da7f708e43363a116aeb7",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "birthday #1",
+  "description": "Piyoko's birthday\n\nぴよこのお誕生日",
+  "attributes": [
+    {
+      "value": "birthday",
+      "trait_type": "background"
+    },
+    {
+      "value": "cake",
+      "trait_type": "item"
+    }
+  ]
+}

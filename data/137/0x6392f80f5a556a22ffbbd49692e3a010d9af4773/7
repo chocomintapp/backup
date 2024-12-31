@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPaSdUU2Z2ARueKkaigDBTrYc8WrtM2mB7zHtjfkzyEdg/nft.png",
+  "tokenId": 7,
+  "description": "ColorCircle(CC) visualizes the concept of \"Circular Diversity\", and contains a strong wish for respect of diversity through color harmony.\n\nThis CC's name is \"Origin\". \n 【NOT FOR SALE】\n\nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x6392f80f5a556a22ffbbd49692e3a010d9af4773",
+  "animationUrl": "https://ipfs.io/ipfs/QmQa656tBnBqxdd5ubfBzCPNZiA7KVXdWHiERAzwoQkBJP/nft.png",
+  "chainId": "137",
+  "name": "CC #0 \"Origin\"",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "NOT FOR SALE"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Origin"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "Crypyan",
+      "value": "12"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "CC"
+    }
+  ]
+}

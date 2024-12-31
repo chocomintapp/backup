@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQBtTeQnBfYTh26qEHSjnjMvhJENt4G1SA6ptQEuV1kHe/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "https://ipfs.io/ipfs/QmQBtTeQnBfYTh26qEHSjnjMvhJENt4G1SA6ptQEuV1kHe/nft.png",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "#11  Pink flower hair ornament",
+  "description": "Flower hair ornament made for happiness and peace.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Accessories",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Hair accessories",
+      "trait_type": "Accessories"
+    }
+  ]
+}

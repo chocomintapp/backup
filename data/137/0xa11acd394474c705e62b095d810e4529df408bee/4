@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSSXamq2pmEU9oStLZHTmHuEFc6k6EaNDgC3urxMcxTLQ/nft.jpg",
+  "nftContractAddress": "0xa11acd394474c705e62b095d810e4529df408bee",
+  "animationUrl": "https://ipfs.io/ipfs/QmNSPUZ3woA8WNNpqJQs2GuSGN3jLgDDqfSV4xDSTinEzu/nft.gif",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "POC gif",
+  "description": "",
+  "attributes": [],
+  "minted": ""
+}

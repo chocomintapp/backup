@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcD4Fijy2WkdLKgUtWDZZjPnSERzhEF9BnbA7MhMXBorx/nft.png",
+  "tokenId": 5,
+  "description": "Scientific name : Carassius Auratus",
+  "nftContractAddress": "0xb7a47919496f2defb43b9472302384664dab91b7",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Goldfish",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Area",
+      "value": "River"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Fish"
+    }
+  ]
+}

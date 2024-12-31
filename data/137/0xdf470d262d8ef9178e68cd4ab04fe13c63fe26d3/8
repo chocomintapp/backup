@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNaMLNQ6yo6VnKFaKmNkdnHQo4PgHdwESHjvk95L66QQY/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/Qmdt1gPUkLhyRWyrKWKahK46wyrdemWfPUQ8HfR2GKaCNi/nft.gif",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "Kawaii Legends #008",
+  "description": "#008 Hitozuma Kawaii\n\n\"The energy surrounding you is positive and playful.\nIt is time to have some fun.\"\n\n\n*Here are some tidbits about this costume:\nThis black kimono is called \"Tomesode\" and is formal attire for married women.\nEven today, tomesode is sometimes used when attending a wedding. \n\n衣装豆知識：\nこの黒い着物は「留袖」と呼ばれる既婚女性の正装です。\n現在でも結婚式に出席する際に留袖が着用されることがあります。",
+  "attributes": [
+    {
+      "value": "ONI",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Celebrate",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Sakura",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Tomesode kimono",
+      "trait_type": "Outfit"
+    }
+  ],
+  "minted": "✅"
+}

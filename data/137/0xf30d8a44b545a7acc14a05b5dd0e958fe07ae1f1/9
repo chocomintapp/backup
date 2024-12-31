@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWaWCdzVkDRVheyAWkRNDVxSi4ss99URofaJ231rPqtua/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "PPP #009",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gradation",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Bikini BL",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Flower crown",
+      "trait_type": "Accessories"
+    }
+  ]
+}

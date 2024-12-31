@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRdvZPoQsrm1FHWnsiS1P2EBBfTLwgWH2Ezv5HDnYL62i/nft.jpg",
+  "tokenId": 7,
+  "description": "By reading the QR code with your smartphone camera and holding it over this NFT, you can view the augmented reality (AR) model. \n\n3D+AR display on a smartphone browser\n\nThe QR code is a link to the IPFS 3D viewer.\nhttps://gateway.pinata.cloud/ipfs/QmP2xajUwXCNH7HPWMcp8Vu37hPaCbHbrsYqJ9fTwUjhLP/usdc_ar/\n\nThe artwork for this 3D model is based on the logo of the USD Coin (USDC), a staple coin.",
+  "nftContractAddress": "0x9a5b20e07f1826d9202abe092f8dd45f89cc583f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "USDC AR"
+}

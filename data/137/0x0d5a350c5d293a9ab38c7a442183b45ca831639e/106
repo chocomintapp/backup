@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQz1uur7xRJU2bed2k9vGcz5AiWMvgX7jzRa6RDnS6tDf/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 106,
+  "chainId": "137",
+  "name": "Day43 Umitsuru's Art #124",
+  "description": "みかんって、包丁いらずで食べられるからステキですよね。\n\nMandarin oranges are wonderful because you don't need a knife to eat them.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

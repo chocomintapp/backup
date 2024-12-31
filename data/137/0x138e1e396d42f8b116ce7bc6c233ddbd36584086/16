@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYPH77wTmFMYwJaYwcdSVVFB86RR7HFanxkpvp736ZzRC/nft.png",
+  "nftContractAddress": "0x138e1e396d42f8b116ce7bc6c233ddbd36584086",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "137",
+  "name": "paper sumo",
+  "description": "life-size paper sumo",
+  "attributes": []
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQfN4fUESV3tocMDA8XJRxrnNfT5JsujATHGgh46pnPj8/nft.jpg",
+  "nftContractAddress": "0xf4eba4631d12293abe3725b1845a627b234bca74",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "wahats",
+  "description": "test",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

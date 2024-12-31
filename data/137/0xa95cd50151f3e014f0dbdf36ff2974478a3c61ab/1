@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmReYP1GkvZJZx6coDGffLcQNvduLwLuwZy9RXEbRQ46FY/nft.jpg",
+  "tokenId": 1,
+  "description": "WEN MOON?",
+  "nftContractAddress": "0xa95cd50151f3e014f0dbdf36ff2974478a3c61ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmYDj532C4SEfuKtZnuD72Uv3JAriWcgCqPzhF314u7XwY/nft.gif",
+  "chainId": "137",
+  "name": "DOGE TO THE MOON #1",
+  "attributes": [
+    {
+      "trait_type": "DOGE",
+      "value": "MOON"
+    }
+  ]
+}

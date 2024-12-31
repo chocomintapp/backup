@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPqp9AkW1mg7o7RpqUr8PxqYQrfD9jPCuqs1D79RiA9yN/nft.jpeg",
+  "nftContractAddress": "0x869d59cce33b74ac06ecaf1c42e49d274cf30907",
+  "animationUrl": "https://ipfs.io/ipfs/QmZWchnBucPXRmGYTQFXTV4iyeVGoobAgmoJjmEnsvWCDi/nft.jpeg",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "KillaG3",
+  "description": "Wild OUT",
+  "attributes": [
+    {
+      "value": "200",
+      "trait_type": "Beauty"
+    }
+  ]
+}

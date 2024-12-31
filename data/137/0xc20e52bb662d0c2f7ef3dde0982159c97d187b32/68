@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWFSQcrHKWXvjezpjZUZFd7qMfW8rdARm7a1gp7Pku17e/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 68,
+  "chainId": "137",
+  "name": "#68",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#F6F1C3",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#8B71D1",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "UMA",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kappa",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Head plate",
+      "trait_type": "special1"
+    }
+  ],
+  "minted": "✅"
+}

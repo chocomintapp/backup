@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWTRhgPgpqVu4RDA8UEHbdzc5sFiQf7HhzgM1H5YinuDR/nft.jpg",
+  "nftContractAddress": "0x2e3d77706b025857fdf4eb874f1e901a62745061",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "VeryLongLizardTail_Pink",
+  "description": "@skyuya03",
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "Color"
+    }
+  ]
+}

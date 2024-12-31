@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXww7HKin5wFqvFBvTd45e1UjNp8vbF4EZjV4mYg4XGaw/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "137",
+  "name": "THS 3/7",
+  "description": "",
+  "attributes": [
+    {
+      "value": "???",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

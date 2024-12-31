@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmePzKJZRRZGEV52SWtgojD5cNSXJdNchBt2X9R7iYKooX/nft.png",
+  "tokenId": 128,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**M4A3E2 Sherman Jumbo**  \nIt is a heavily armored type of the M4 series that specializes in supporting infantry breakthroughs.  \nA very small number (254 tanks) were produced.\n\nIt boasts a maximum armor thickness of 178mm, and was used in ambushes by German troops. In such situations, they were the first to be deployed.\n\nThe 75mm cannon, which was initially designed to support infantry, had a shrapnel advantage. However, it was replaced by a 76.2mm cannon on the spot so that it could also Many vehicles were converted to other types of vehicles.\n\n**M4A3E2 シャーマンジャンボ **  \nM4シリーズの中でも歩兵の突破支援に特化した重装甲タイプです。ごく少数（254輌）が生産されました。\n\n最大装甲厚は178mmを誇り、ドイツ軍が待ち伏せをしていそうな状況では真っ先に投入されました。\n\n歩兵支援が前提ということで当初は榴弾が有利な75mm砲を搭載していましたが、対戦車戦闘もこなせるように現地で76.2mm砲に換装された車輌も多くありました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0128 M4A3E2 Sherman Jumbo",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

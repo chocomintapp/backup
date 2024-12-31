@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf48dRQhsrCGT6i296eFHvjNLSytyNvgqHzfSAo3ZNeGv/nft.png",
+  "tokenId": 149,
+  "description": "Contemporary art style BTC medjed",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/Qmf48dRQhsrCGT6i296eFHvjNLSytyNvgqHzfSAo3ZNeGv/nft.png",
+  "chainId": "137",
+  "name": "medjed no.149/1000",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

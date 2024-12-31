@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPjDNPbUrJqnm6PDTZ7fjAKx39bez3GPHumjD7qrrLU7F/nft.png",
+  "tokenId": 1,
+  "description": "The creatures that live in the seaside luck o city.\nThey live with sin on their backs.",
+  "nftContractAddress": "0xc101a3685be26c91dd9b41778addb085af6820f1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "nemmu",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Sloth",
+      "value": "70"
+    },
+    {
+      "trait_type": "Envy",
+      "value": "20"
+    },
+    {
+      "trait_type": "Pride",
+      "value": "10"
+    }
+  ]
+}

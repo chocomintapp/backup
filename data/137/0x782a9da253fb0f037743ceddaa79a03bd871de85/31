@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVBzEZLYPmu6YKCKHbWEihrLQuGPprQXYj3AD8gsmswjf/nft.JPEG",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "137",
+  "name": "VerySilentFruits#31 Tangerine",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Tangerine",
+      "trait_type": "Fruit"
+    }
+  ]
+}

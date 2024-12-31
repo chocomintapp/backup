@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVzdd2LNC3e3VwhohjS14u8WCSEaSjNJYsC1A9PR3bpRw/nft.gif",
+  "nftContractAddress": "0x2ac9b933b7fbea9b999f23c1f9ec5dd1fd649b4f",
+  "animationUrl": "https://ipfs.io/ipfs/QmVzdd2LNC3e3VwhohjS14u8WCSEaSjNJYsC1A9PR3bpRw/nft.gif",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "第2回GORO MEME CONTEST GODトロフィー",
+  "description": "第2回GORO MEME CONTEST GODトロフィー\n\n優勝者　Mr.Bon//NFT\n@BonMasterNFT\n",
+  "attributes": [
+    {
+      "value": "Mr.Bon//NFT @BonMasterNFT",
+      "trait_type": "優勝者"
+    }
+  ]
+}

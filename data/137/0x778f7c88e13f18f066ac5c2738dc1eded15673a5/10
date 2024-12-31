@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUFXz2Bi7wzcidMsVPV3rWYh57nEYeVh9YvC988bvJL1x/nft.png",
+  "nftContractAddress": "0x778f7c88e13f18f066ac5c2738dc1eded15673a5",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "Yua",
+  "description": "Ambitious One City Special Edition for dgift",
+  "attributes": [
+    {
+      "value": "SMILE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "SPECTER",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "KIMONO",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "ANTENNA",
+      "trait_type": "ITEM"
+    }
+  ],
+  "minted": ""
+}

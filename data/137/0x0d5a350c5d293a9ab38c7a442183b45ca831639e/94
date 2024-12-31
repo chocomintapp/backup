@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYSE8VVDCgsrQUtmoaRV2HvYWZTs9xiTEt6oDqvYiuF2C/nft.png",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 94,
+  "chainId": "137",
+  "name": "Day38 Umitsuru's Art #112",
+  "description": "頭の中にやりたいことが沢山積んだままになっています。\n\nI have a lot of things I want to do piled up in my head.",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

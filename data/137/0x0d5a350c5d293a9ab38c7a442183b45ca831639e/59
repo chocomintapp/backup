@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc1kXjKESHWfZYmmTuiS1ge9ki31kEUMrwmxvCNk8PbJC/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 59,
+  "chainId": "137",
+  "name": "Day26 Nana's Art #77",
+  "description": "出来たての餃子を鷲掴みして手を火傷したみたい。\n\nI think I grabbed a freshly made dumpling and burned my hand.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ]
+}

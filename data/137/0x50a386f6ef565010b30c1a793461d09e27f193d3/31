@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUdThmkkZ5gH5Ts8vdHvw6TiBiSqejt4xCdvijAG4xzow/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "137",
+  "name": "hakorobo #31",
+  "description": "hakorobo #31 HKNFFHP-6\n\nBased on:\nhttps://hicetnunc.art/objkt/216991",
+  "attributes": [
+    {
+      "value": "HKNFFHP",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Shoes"
+    }
+  ]
+}

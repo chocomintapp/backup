@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRkf77jgHUspNTMrJcf3GSGXoHFRnB8UdJ4aetFQpK5ok/nft.png",
+  "nftContractAddress": "0x63750abba09ec9699536753e9f5d8172db111457",
+  "animationUrl": "",
+  "tokenId": 103,
+  "chainId": "137",
+  "name": "PachiMon #00103",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Gray",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Homebody",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Dot T1 red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Long red",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Earring",
+      "trait_type": "Accessory"
+    }
+  ]
+}

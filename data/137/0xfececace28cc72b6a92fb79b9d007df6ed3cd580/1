@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNn1skDKM6A7pwJmFo4q6YAc13T2vHRdJJfrHHQR9qWGF/nft.png",
+  "nftContractAddress": "0xfececace28cc72b6a92fb79b9d007df6ed3cd580",
+  "animationUrl": "https://ipfs.io/ipfs/QmVgB2hhRoriWjCrN7HGxhTAEyF2cC1QtrfGVG95eepVNe/nft.mp3",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "2211-Dialogue",
+  "description": "Syoneco's Voice Sample of Dialogue",
+  "attributes": []
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSSGPLwSTDijsNWLVUcjrZVomrr2dw4GhsCzwxiMJX3yv/nft.png",
+  "nftContractAddress": "0x60ac01f6bc7568eff39805e905240cfc5e95c113",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "家紋-菊",
+  "description": "キクの花言葉は「高貴」「高尚」「高潔」です。 日本の皇室や宮家などの紋章に用いられている紋章です。",
+  "attributes": [
+    {
+      "value": "ornaments",
+      "trait_type": "Attribute"
+    },
+    {
+      "value": "10",
+      "trait_type": "Defense"
+    },
+    {
+      "value": "Water",
+      "trait_type": "Element"
+    }
+  ]
+}

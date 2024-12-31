@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbqNQ3Unrr9dVbryUhqY3D2uqSxgHbj6STHu1MirGBFVa/nft.jpg",
+  "nftContractAddress": "0xce9036ad9234119a64a916f32254e178790aef23",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Pro Golemer Certificates 初段 @SumomoMomogi",
+  "description": "This NFT proves @SumomoMomogi is a pro-golemer first dan!",
+  "attributes": [
+    {
+      "value": "初段",
+      "trait_type": "初段"
+    }
+  ]
+}

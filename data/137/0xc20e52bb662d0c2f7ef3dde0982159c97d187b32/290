@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUkepba7Yfq9WFtJfTsrfGABzrRiVu3S89wC8DZURz2xy/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 290,
+  "chainId": "137",
+  "name": "#290",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Eine kleine Nachtmusik",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#D92818",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Composer",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Wolfgang Amadeus Mozart ",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

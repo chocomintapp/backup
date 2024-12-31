@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVuZe6BvxENNmjfPjwFhhHVoiTidEA4o3JATjGDQgQ6aa/nft.png",
+  "tokenId": 2,
+  "description": "テストだよ",
+  "nftContractAddress": "0xa2ebc1484951aa33d8276a3d941024e2cd58459f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test0128",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Gorilla"
+    }
+  ]
+}

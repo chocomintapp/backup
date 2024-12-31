@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTSPmd2mJLQhPmJvHeGN6zczXPnobRC5ka3rEs33EcKNe/nft.png",
+  "nftContractAddress": "0xc05f3ad17c742d3ed7d4663766b1e1e6e0845f0f",
+  "animationUrl": "https://ipfs.io/ipfs/QmRzCWJKziDmpu3T36uy691JEthZ6RWgNs5uwyNYEwMnKK/nft.mp4",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "FIrst test",
+  "description": "null",
+  "attributes": [
+    {
+      "value": "patern",
+      "trait_type": "color"
+    }
+  ],
+  "minted": "✅"
+}

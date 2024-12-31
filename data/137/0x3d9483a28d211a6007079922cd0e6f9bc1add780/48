@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZiNJAwMzJThkYYAyhsj67Po22ZAFB7k8bRMi8CcH8euw/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 48,
+  "chainId": "137",
+  "name": "Neon #48",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "yellow flower hat",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue neon cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "none",
+      "trait_type": "hand"
+    },
+    {
+      "value": "dark-blue botle",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

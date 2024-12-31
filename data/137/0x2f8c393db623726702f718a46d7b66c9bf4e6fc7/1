@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTjrNYShXLi5Cwnurd3pk9Ja8BxQq1qPuKGE85EcUvrjx/nft.png",
+  "nftContractAddress": "0x2f8c393db623726702f718a46d7b66c9bf4e6fc7",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "my choko",
+  "description": "This is my choko. So sweeeeeet!!",
+  "attributes": [
+    {
+      "value": "100",
+      "trait_type": "hardness"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd9Uvqg9tsPispYeMic4xhXNkyDRFEBVZGf5orrnPAX5v/nft.jpeg",
+  "tokenId": 44,
+  "description": "Creator [PUNIKO](https://opensea.io/puniko.eth?tab=created_collections)\n\n明けましておめでとうございます🌅  \nここで凶を引いたから、きっと今年一年分の不運を使い切った事でしょう💡✨  \n今年も良い年になりますように🦈💕",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "凶 #3",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "凶"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "PUNIKO"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

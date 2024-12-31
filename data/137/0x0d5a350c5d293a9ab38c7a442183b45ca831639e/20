@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmabpUTZUfr4XLPZxnvLDJiwTq1RTry6p2kCfgR2SsdzdC/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "Day13 Nana's Art #38",
+  "description": "今日は家の中で走って転び、積み木に衝突。唇から出血しました！よくあることです。\n\nToday I ran and fell in the house and hit a block of wood. My lip is bleeding! It happens often.\n\n",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWbEWTkCbKUyxr55tEbXuvF5NT3ivD5y49VqBJEcujBtk/nft.png",
+  "tokenId": 33,
+  "description": "Calligraphy Devil #33",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #33",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Armaros"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Satan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Hades"
+    }
+  ]
+}

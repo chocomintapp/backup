@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbdZBRx5dDGN1s3p9xkiynq2VHAmvkaD2aL7JY8218R4M/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmbdZBRx5dDGN1s3p9xkiynq2VHAmvkaD2aL7JY8218R4M/nft.gif",
+  "tokenId": 32,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #32",
+  "description": "ベビロン二次創作",
+  "attributes": [
+    {
+      "value": "Leopard",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

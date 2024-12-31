@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcCE99M6CDwt7P9MdUnjjQw6Uj446yKVpXwohh5WRT4M5/nft.png",
+  "nftContractAddress": "0xb95ec6c2f9ba3eee6c7f73d02a6ec015860df2f4",
+  "animationUrl": "",
+  "tokenId": 207,
+  "chainId": "137",
+  "name": "PKC #207",
+  "description": "Pixel Kappa Club is an evolving generative collection of 1000 kappa, tengu, red demons and other youkai.\nIt was created by the program based on more than 130 types of items including background, clothes, hat, body, items, and face.\nThese items will be added as the collection unfolds.",
+  "attributes": [
+    {
+      "value": "AgletPurple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Kappa",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "WhiteT",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Mouth",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Ycap",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Aglet PRIMO OG",
+      "trait_type": "ITEM"
+    }
+  ]
+}

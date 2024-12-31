@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWK1faw52YaiSUueTeCb4LbvtxbRzn5qNvszuUoJFyUcA/nft.png",
+  "nftContractAddress": "0x631e7a68d5cfdb3b793f3e4647234983ca6fc76d",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "NFT #2",
+  "description": "Example NFT",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "TokenID"
+    }
+  ]
+}

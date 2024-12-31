@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNXdUBe1JhSMPKnytJkNeqcrgBwopK3xbAhxsT1MwAgFW/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 119,
+  "chainId": "137",
+  "name": "hakorobo #119",
+  "description": "hakorobo #119 HKSP-04 chocorobo",
+  "attributes": [
+    {
+      "value": "HKSP",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Shoes"
+    }
+  ]
+}

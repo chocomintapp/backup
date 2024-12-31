@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWj65Y7hG2De3a6ByRTwErP7gUk8Psk2zm3woY6zHqqth/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 87,
+  "chainId": "137",
+  "name": "#87 Hotaru blue",
+  "description": "The school uniforms of the girls who aim to be Rabbitgirls of their dreams.\n",
+  "attributes": [
+    {
+      "value": "Hair",
+      "trait_type": "Type"
+    },
+    {
+      "value": "hotaru",
+      "trait_type": "Hair"
+    }
+  ],
+  "minted": "✅"
+}

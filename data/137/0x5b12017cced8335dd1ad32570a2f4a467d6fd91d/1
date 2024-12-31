@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaTA59GGa8sEycJHwXUYim8nJaj6TyBXqdqqPE3TE1Z2a/nft.jpg",
+  "tokenId": 1,
+  "description": "1st NFT of daiperp",
+  "nftContractAddress": "0x5b12017cced8335dd1ad32570a2f4a467d6fd91d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WA",
+  "attributes": []
+}

@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdpU7etAeABheomr9GQALjK4wJVKrnqq16Nw9b8vRUbsX/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "137",
+  "name": "Neon #16",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "green small hat",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "dj controller",
+      "trait_type": "hand"
+    },
+    {
+      "value": "smoking",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

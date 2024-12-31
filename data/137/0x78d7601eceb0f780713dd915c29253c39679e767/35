@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbbPib4S2o55SywvYGVdbEmx4Ko8hSrzMVmgJ2ESBa8k4/nft.jpg",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "137",
+  "name": "#35『Girl with star eyes』×『RabbitGirls』 SLR",
+  "description": "Special Collaboration Dress up item.\nSLR(single lens reflex camera)\n\nThanks💜Twitter @acha_52",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hug",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Collaboration",
+      "trait_type": "Special"
+    }
+  ]
+}

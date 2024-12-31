@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTVyowSoHjAMak9rbnqRuy7uYFvAkDMBFpfMns8Aoyau3/nft.jpg",
+  "tokenId": 1,
+  "description": "Acoustic cover of \"That's Life\"\nIt's a 90 second thumbnail version",
+  "nftContractAddress": "0xb2e05a443271d780e678dd8e3fed094a5f8048c5",
+  "animationUrl": "https://ipfs.io/ipfs/QmdNWbtQWsMDfnKkQa98s3gj4B16Hdf6GkpF5Lcwm5KBXB/nft.mp3",
+  "chainId": "137",
+  "name": "That's Life (Acoustic Cover) Short ver"
+}

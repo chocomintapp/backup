@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbHrXdDEnCcboVGWtfyELm4zxn18CYk1t5DDDmFYh4v4j/nft.png",
+  "nftContractAddress": "0xd71a76b0f1285791b4694364a4003de3ea3b8df2",
+  "animationUrl": "https://ipfs.io/ipfs/QmPhStDgYykRhSTjeKybhrSwNSU1NhUzc27T7NimTzJ6Jc/nft.gif",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "adidas Originals: Into the Metaverse (Phase 2)",
+  "description": "Into the Metaverse is a collaborative NFT project between adidas Originals and NFT pioneers gmoney, Bored Ape Yacht Club and PUNKS Comic. An NFT co-created with the OG communities, creators and doers.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "Phase "
+    }
+  ]
+}

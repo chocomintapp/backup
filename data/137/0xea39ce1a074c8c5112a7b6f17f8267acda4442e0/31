@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYa8Fxbi8DY3AF23JSRNrTsXvjnevjkY8ykN1sAiFEFYo/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "137",
+  "name": "TANU-KIDS ＃030",
+  "description": "きつねに変身したTANU-KIDS\n\nきつねは変身仲間です",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Fox",
+      "trait_type": "Animal"
+    }
+  ]
+}

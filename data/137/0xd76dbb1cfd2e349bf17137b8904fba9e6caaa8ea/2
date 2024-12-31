@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaQ4fA3rN1D5wf6r3hcHe5XiEGZh3ghXfDdiyAVnHSM2t/nft.png",
+  "tokenId": 2,
+  "description": "Theme：　Sola Aoi's blend of everyday life and digital art.\n\nAdditional information：　https://aoisola-cryptoart.com/",
+  "nftContractAddress": "0xd76dbb1cfd2e349bf17137b8904fba9e6caaa8ea",
+  "animationUrl": "https://ipfs.io/ipfs/QmbBDkGHY9W9jni7dYeu1HisNGm8ExY13YYgcP8W7g2VFk/nft.mp4",
+  "chainId": "137",
+  "name": "[Going my way] Sola Aoi Snap Collection",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

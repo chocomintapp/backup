@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPsMsNwBRwUu4Z9xbn3Kiwcmiss3JYp61rLpn35TyPXPo/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 570,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #570",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Platypus",
+      "trait_type": "TYPE"
+    }
+  ]
+}

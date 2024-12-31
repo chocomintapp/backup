@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPxdQbvk8z1bBQ2rMLgcN1xGxgEQow7u4CPpkLE8TxaXK/nft.png",
+  "tokenId": 5,
+  "description": "DDD PUNKS is an addictive 10,000 NFT collection.",
+  "nftContractAddress": "0xedeafa01fb6f82e78d5963cec15a07f26b65b830",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "DDD PUNKS#005",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Magic Purple"
+    },
+    {
+      "trait_type": "SKIN",
+      "value": "EB_Puppy_Cream"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Gaze_Yellow"
+    },
+    {
+      "trait_type": "EQUIPMENT",
+      "value": "Kung Fu_Orange"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Garururu_Alien"
+    },
+    {
+      "trait_type": "HAT",
+      "value": "Neguse_Red"
+    }
+  ]
+}

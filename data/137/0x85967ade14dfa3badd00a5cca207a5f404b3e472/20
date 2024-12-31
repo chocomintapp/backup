@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ4DMSHD98haj1BD85kgBaxyqFi5E8enPtiomMeamcG2q/nft.jpg",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "VeryLongAnimalsEveryday",
+  "description": "【毎日ベリロン】\n【VeryLongAnimalsEveryday】\nNo.5\n「長は短を兼ねる」\n\"The longer also serves for the shorter \"",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "No."
+    }
+  ]
+}

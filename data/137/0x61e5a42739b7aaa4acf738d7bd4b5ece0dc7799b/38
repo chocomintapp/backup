@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZJPAsqUkwGEaf8uD3Q7T2xgedPFa8C2rQ4Zw8fmM35he/nft.png",
+  "tokenId": 38,
+  "description": "Creator [Pokemaru](https://opensea.io/Pokemaru?tab=created_collections)\n\nおめでとうございます！小吉です！  \n2022年は健康第一で過ごしましょう！  \n◯貴方へのメッセージ◯  \n「虎嘯風生」  \n時期が来た！全ての能力を解き放つ時！",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "小吉 #3",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "小吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Pokemaru"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Unopened"
+    }
+  ]
+}

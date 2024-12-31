@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXxhqH9xeNRn6GzF8cuKVcnstUo64ZNNM7N8fW39yA5ho/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 81,
+  "chainId": "137",
+  "name": "#81 Hotaru gold",
+  "description": "Hotaru gold",
+  "attributes": [
+    {
+      "value": "Hair",
+      "trait_type": "Type"
+    },
+    {
+      "value": "hotaru",
+      "trait_type": "Hair"
+    }
+  ],
+  "minted": "✅"
+}

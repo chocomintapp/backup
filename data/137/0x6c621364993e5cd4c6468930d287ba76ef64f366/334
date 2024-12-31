@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRtfyHS3zqrqsw8v9CmpjFqSjNcQhzNfB3S7ozUAj5Gcd/nft.gif",
+  "nftContractAddress": "0x6c621364993e5cd4c6468930d287ba76ef64f366",
+  "animationUrl": "",
+  "tokenId": 334,
+  "chainId": "137",
+  "name": "CryptoGoro #Day334",
+  "description": "CryptoGoro #Day334\n\n30/MAY/2022\n\nWorld famous modern artist Mr.Goro makes his self-portrait every day. Each NFG(Non-Fungible Goro) mint only one. This project will continue until his death. Let’s collect your own Goros!!\n\n1666 days before death.",
+  "attributes": [
+    {
+      "value": "Wheat Field",
+      "trait_type": "BACKGROUND"
+    }
+  ],
+  "minted": "✅"
+}

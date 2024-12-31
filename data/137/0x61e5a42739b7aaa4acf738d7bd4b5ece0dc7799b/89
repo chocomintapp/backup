@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTd1BQ7bRbKo4BK64xotD6itmGsWndqYN34r16J62eTHj/nft.png",
+  "tokenId": 89,
+  "description": "元旦に絵札が届きます。  \nYou will receive your picture cards on New Year's Day.",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Omikuji #45",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "fortune slip"
+    },
+    {
+      "trait_type": "State",
+      "value": "Unopened"
+    }
+  ]
+}

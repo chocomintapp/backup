@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUY1tNfbJU2NK8Vi1ML2Mb7L1KsutFbeXFENFjNmiuNZF/nft.png",
+  "tokenId": 1,
+  "description": "3DData pipe",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/QmRYAzQgsdH7HodVVmuBjbrCcKBMrXvuikFJ6P9LWNZ5Lp/nft.gltf",
+  "chainId": "137",
+  "name": "pipe",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "アイテム",
+      "value": "0.01"
+    }
+  ]
+}

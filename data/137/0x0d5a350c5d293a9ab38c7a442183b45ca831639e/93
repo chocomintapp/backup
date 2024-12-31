@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUbCwoaKqUDL1r2VdNohAiP5jXDUN8rZoyuPYY5P5DM17/nft.png",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 93,
+  "chainId": "137",
+  "name": "Day38 Syu's Art #111",
+  "description": "パパとドッジビーをするのが楽しいです。\n\nIt's fun to play Frisbee with my dad.",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

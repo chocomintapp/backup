@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWa3DKWPdpif7Lgok1sDPcXodcV1Wb6kk8BgTcQb2YaW5/nft.png",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "137",
+  "name": "#8 サイボーグだもの。",
+  "description": "サイボーグの医療班って…‥？",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Japanese",
+      "trait_type": "Language"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeDUXj4MLZWFKW3ynCwgsHs27qL5ck1eR68A63YBNztUj/nft.png",
+  "tokenId": 1,
+  "description": "aaaa",
+  "nftContractAddress": "0x9969154702c6de88dfdef0f593a9a10482d316ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmeDUXj4MLZWFKW3ynCwgsHs27qL5ck1eR68A63YBNztUj/nft.png",
+  "chainId": "137",
+  "name": "test11",
+  "attributes": [
+    {
+      "trait_type": "DNA",
+      "value": "ZERO"
+    }
+  ]
+}

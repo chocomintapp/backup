@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNNUGCrF67whkCtsR1h36xEZGfTtqZiR4QwtX96aGfHKP/nft.jpg",
+  "nftContractAddress": "0xc42cd87adc7b171cc19b7dfa84320759127969b6",
+  "animationUrl": "https://ipfs.io/ipfs/QmdSP9s4ChpmoTJwMHntWiEJrwZHPRoLfTuBkQ3TcKGpnW/nft.glb",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "taru",
+  "description": "",
+  "attributes": []
+}

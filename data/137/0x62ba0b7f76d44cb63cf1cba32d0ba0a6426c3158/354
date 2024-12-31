@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRxGaDUZCNKLp5YNhHS8JFJ6UNb6CcfVTfsr8t1s9GBmJ/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 354,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #354",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Chick",
+      "trait_type": "TYPE"
+    }
+  ]
+}

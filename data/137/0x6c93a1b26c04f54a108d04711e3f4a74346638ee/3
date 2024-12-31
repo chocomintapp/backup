@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRdoxM4FN6dzf9At2ezn4VLy1rS5KqE41o5WTPpQq3Ww9/nft.png",
+  "tokenId": 3,
+  "description": "Test.\n\nGod In The Brain Color7 Last Story.",
+  "nftContractAddress": "0x6c93a1b26c04f54a108d04711e3f4a74346638ee",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "God In The Brain",
+  "attributes": [
+    {
+      "trait_type": "COLORS",
+      "value": "7"
+    }
+  ]
+}

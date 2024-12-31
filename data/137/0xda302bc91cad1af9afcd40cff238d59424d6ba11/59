@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcsATXgDNFcesQayQsq4Vk7Pq1MyCBBHCp4DweCjqrDox/nft.png",
+  "tokenId": 59,
+  "description": "",
+  "nftContractAddress": "0xda302bc91cad1af9afcd40cff238d59424d6ba11",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "SUSHI CONUSI A #058",
+  "attributes": [
+    {
+      "trait_type": "TRAIT",
+      "value": "GEN-0"
+    }
+  ],
+  "minted": "✅"
+}

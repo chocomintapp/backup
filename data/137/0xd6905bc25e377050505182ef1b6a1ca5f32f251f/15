@@ -1,0 +1,16 @@
+{
+  "image": "https://bafybeig5naytvc7bcijhwizgmajbmcia5do32oirlszvhznmx3r3xfou2e.ipfs.nftstorage.link/photo_2022-08-13_18-55-54.jpg",
+  "nftContractAddress": "0xd6905bc25e377050505182ef1b6a1ca5f32f251f",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "Family Photo",
+  "description": "This is me, Yuki, and Yanghwa. We are yuhwa family!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Style"
+    }
+  ]
+}

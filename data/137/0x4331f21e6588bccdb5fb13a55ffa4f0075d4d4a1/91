@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXwhCWGKBsHpYUyefa9zaoV3ejhLDMJUZAfUWGcCMHHE6/nft.png",
+  "tokenId": 91,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TYPE1 HAYABUSA model2**  \nIt was the main fighter produced by the Japanese Army in the Pacific War in the largest numbers.\n\nAlthough it was a light fighter, it could not be said to be well armed, it achieved great battle results thanks to its inherent fighting performance and high reliability.\n\nIt is still talked about today as a famous aircraft that is twin-peaked with the Zero fighter of the Japanese Navy.\n\nType II is a fully improved version of Type I, with the engine replaced by a high-power HA115 to increase strength, and is a representative of the Hayabusa series.\n\n**一式戦闘機 隼 二型**  \n太平洋戦争で日本陸軍が最も多く生産した主力戦闘機です。\n\n軽戦だけに充実した武装とは言い難い機体でしたが持ち前の格闘性能と高い信頼性により、大きな戦果をあげ海軍の零戦と双璧をなす名機として語り継がれています。\n\nII型は発動機を大出力のハ115に換装し機体強度を高めるなど、I型を全面的に改良した機体となっており隼シリーズの「顔」とも言えます。\n",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0091 TYPE1 HAYABUSA model2",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Fighter"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWUTEgihLumVf4hZhhqMgP2ouVzA6tCUcFLUeWwsihN9K/nft.png",
+  "nftContractAddress": "0xedda5766883fd6d11141dbae58889af2c73a34c0",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "cocoa",
+  "description": "cocoaの癒し",
+  "attributes": []
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmamxqo1KtYGYYJP3dyWALfLx7nFRdLJBCPfih5nrWUodo/nft.png",
+  "tokenId": 57,
+  "description": "母ちゃんみたいなゴッツイ背中になるのやだな〜\n\nI don't want to have a big, fat back like my mom!",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Baby Ankylosaurus（アンキロサウルスの赤ちゃん）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Dinosaur"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

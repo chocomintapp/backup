@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbsbSmb2fnCpexbgAmV4AuubsaMWjrZxVRXUddYxexbVj/nft.jpeg",
+  "nftContractAddress": "0x884c116f191eff93d67c43b7a62be5da2c1b8a48",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #2",
+  "description": "VeryLongAnimals #2の二次創作です！",
+  "attributes": [
+    {
+      "value": " Dog",
+      "trait_type": "Type"
+    }
+  ]
+}

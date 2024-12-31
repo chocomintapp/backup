@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWJYd8M5kDg6AVgJBbAPR1cxeGHUwARxL2Hm1VTXYWiZ5/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 799,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #799",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Andrias Davidianus",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "激アツ水風呂DiveAnimalBabies2nd🔥",
+      "trait_type": "Special"
+    }
+  ]
+}

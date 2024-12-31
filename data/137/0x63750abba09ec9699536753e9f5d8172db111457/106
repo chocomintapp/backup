@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbEDKmtYxa12N87ptNrVLpcM37Yztypi7vXxCEyRbV126/nft.png",
+  "nftContractAddress": "0x63750abba09ec9699536753e9f5d8172db111457",
+  "animationUrl": "",
+  "tokenId": 106,
+  "chainId": "137",
+  "name": "PachiMon #00106",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Human T2",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Robot",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Top hat",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "None",
+      "trait_type": "Accessory"
+    }
+  ]
+}

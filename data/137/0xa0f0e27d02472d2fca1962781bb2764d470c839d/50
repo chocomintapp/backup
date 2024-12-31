@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXmDzWFCoxmMakx5yP9ppDjZbRHte2JazhmmNr47ivths/nft.png",
+  "tokenId": 50,
+  "description": "きみ、いつもハンバーグ定食頼むよね。\n\nYou always order the hamburger set meal, don't you?",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Hamburg Steak",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Hamburg Steak"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

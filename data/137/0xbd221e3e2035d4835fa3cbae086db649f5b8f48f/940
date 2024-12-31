@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmakZ9Cz14VmcZnR7nAe2rxXeQKbTVRkzr4AqXSyZZqaQN/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmakZ9Cz14VmcZnR7nAe2rxXeQKbTVRkzr4AqXSyZZqaQN/nft.mp4",
+  "tokenId": 940,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1040",
+  "description": "今からNFT冬支度\n切ってもいいよイーサ１００ドル\nイケハヤがNFT撤退して\n１年後やってくる春",
+  "attributes": [
+    {
+      "value": "Bike Air Zoom Generation",
+      "trait_type": "M"
+    },
+    {
+      "value": "Bpluto",
+      "trait_type": "押韻職人"
+    },
+    {
+      "value": "2023",
+      "trait_type": "DAY"
+    }
+  ]
+}

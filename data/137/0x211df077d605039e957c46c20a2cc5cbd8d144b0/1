@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbVTiRtz1nbusp2PS7dsMpQNjPzKqYdEfs2SApNQAPYyw/nft.png",
+  "nftContractAddress": "0x211df077d605039e957c46c20a2cc5cbd8d144b0",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Pug #1",
+  "description": "",
+  "attributes": [],
+  "minted": ""
+}

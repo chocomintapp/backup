@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfY9sSYvK6vcwgcuARGQJzXsPFJHrqJQdNdddt7vHcRpQ/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 211,
+  "chainId": "137",
+  "name": "#211",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#C9EA83",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#948559",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Crocodile friends",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "William",
+      "trait_type": "face"
+    },
+    {
+      "value": "Accumulate power",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Mithril Hammer",
+      "trait_type": "Accessory1"
+    }
+  ]
+}

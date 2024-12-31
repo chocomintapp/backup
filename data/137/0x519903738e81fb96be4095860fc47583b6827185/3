@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf5HSHUeo4KSmkWCdAk4ZBdf73rN46RTBXbQG8HUiZLSg/nft.png",
+  "nftContractAddress": "0x519903738e81fb96be4095860fc47583b6827185",
+  "animationUrl": "https://ipfs.io/ipfs/Qmf5HSHUeo4KSmkWCdAk4ZBdf73rN46RTBXbQG8HUiZLSg/nft.png",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "PANDA3",
+  "description": "",
+  "attributes": [],
+  "minted": "✅"
+}

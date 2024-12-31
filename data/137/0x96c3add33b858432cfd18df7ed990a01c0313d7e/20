@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWHBb18fo54ZzYGepuBs9QRBbYt5wsBWJVELhZRQMFjLb/nft.PNG",
+  "nftContractAddress": "0x96c3add33b858432cfd18df7ed990a01c0313d7e",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "P.N.G Ex.04 P.N.G x YugiYn",
+  "description": "My favorite \"¥u-Gi¥n 遊戯苑\" fan art. It is a P.N.G. with #6000 as a motif.\n\nTwitter：https://twitter.com/Yu_Gi_Yn Opensea：https://opensea.io/collection/yugiyn-official",
+  "attributes": [
+    {
+      "value": "SHION",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Alive",
+      "trait_type": "CONDITION"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Bob BLK-GRY",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "VIOLENCES",
+      "trait_type": "FEELING"
+    }
+  ]
+}

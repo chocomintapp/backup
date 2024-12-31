@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmba9C3nkEDzXk4xRzuAEc5MrgxmZxxTeEyCH48Gk31qLE/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "#14",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#931F00",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#6A5D3C",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Mummy",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ],
+  "minted": "✅"
+}

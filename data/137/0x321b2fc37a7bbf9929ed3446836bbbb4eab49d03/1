@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmReQEhdfvXgxyh9pCVWenMRKGMrPkooh72tsQspBCmfC4/nft.jpg",
+  "tokenId": 1,
+  "description": "Ghosts preparing for a coffee break. \nコーヒー休憩の準備をしてくれるおばけたち。",
+  "nftContractAddress": "0x321b2fc37a7bbf9929ed3446836bbbb4eab49d03",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "coffee break"
+}

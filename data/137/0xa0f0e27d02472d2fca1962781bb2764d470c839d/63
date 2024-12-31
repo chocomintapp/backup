@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVwqDmjdiGmGctXgBQLZmfquvtdpDnghrQa1yuYu5m2ky/nft.jpeg",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "tokenId": 63,
+  "chainId": "137",
+  "name": "Mysterious life form（謎の生命体）",
+  "description": "A life form in which everything is a mystery.\n\nすべてが謎に包まれた生命体。",
+  "attributes": [
+    {
+      "value": "Mysterious life form",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "Mechanic",
+      "trait_type": "DNA"
+    }
+  ]
+}

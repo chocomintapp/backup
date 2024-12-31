@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXEHnhnBpmngc1waCBcY6jk42t7K47FLa3sdRRPJetw7o/nft.jpg",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 71,
+  "chainId": "137",
+  "name": "Ganmmichan's wanko give #1",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "special",
+      "trait_type": "series"
+    },
+    {
+      "value": "wolf",
+      "trait_type": "situation"
+    }
+  ]
+}

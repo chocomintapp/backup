@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR4177LiUYmpCsEA5k7U1dWfAi1BwiydkxG23GaywPS6B/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 319,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #319",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Spotted Garden Eel",
+      "trait_type": "TYPE"
+    }
+  ]
+}

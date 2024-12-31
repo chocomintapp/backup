@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfSYXrBg5nw8rPwd5qVt8ZPS5THzrvWxbv34ocJ45vx9X/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/QmfSYXrBg5nw8rPwd5qVt8ZPS5THzrvWxbv34ocJ45vx9X/nft.gif",
+  "tokenId": 84,
+  "chainId": "137",
+  "name": "WavyLongAnimals #84",
+  "description": "ベリロン二次創作",
+  "attributes": [
+    {
+      "value": "Boar",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

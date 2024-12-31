@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVD4qtBEpw4NZBm1na7ZuiV95nhf3QmUhAxzumaoCnvWS/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "137",
+  "name": "#24",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#BC96ED",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#C91919",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "12 ecliptical constellations",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Leo",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

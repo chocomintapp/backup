@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbcVYZFBX2JCkWUoW28csyCMaph3NgZv34aDTtxCNj63G/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 59,
+  "chainId": "137",
+  "name": "TANU-KIDS #058",
+  "description": "バスケットボール選手に変身したTANU-KIDS\n\n特技はレイアップ",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "basketball",
+      "trait_type": "Sports"
+    }
+  ]
+}

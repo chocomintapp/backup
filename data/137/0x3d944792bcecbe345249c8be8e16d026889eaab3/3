@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbcUJVpA5hpUB8jHriFXJ9SGuncWQGQhnG6JiUBYP9bgR/nft.png",
+  "tokenId": 3,
+  "description": "クジラNFT",
+  "nftContractAddress": "0x3d944792bcecbe345249c8be8e16d026889eaab3",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "kujira2",
+  "attributes": []
+}

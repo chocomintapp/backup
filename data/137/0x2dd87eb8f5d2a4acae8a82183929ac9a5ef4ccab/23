@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXeRapcLcSN7k1yrCfVMHZH2JQpVJTkyYYSkjp1kBGgAT/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #009 Jan.10",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n1月10日\n\n今日は自慢のMA-1に身を包んで、ツーリングへと出かけます。背中のドーナツが傷つかないように運転するのは、もはや当たり前。ドーナツとの共同生活の中で身につけた特技のようなものです。「今日も、無事にコイツと戻ってくるぞ」と出かける準備をしていたその時。一緒にツーリングに行くはずだったバイク仲間から「すみません、行けなくなりました」との一報が…。せっかくの気持ちが、萎えてしまった「ねじねじドーナツ部長」でした。\n\nJan 10\n\nToday he is off touring in his prized MA-1. It is a matter of course for him to drive so as not to damage the donut on his back. It is like a special skill that he has acquired during his shared life with Donut. Just as he was getting ready to go out, \"Today, too, I'm going to come back with this guy in one piece. He was getting ready to go out, thinking, \"I'm going to come back safely with this guy today,\" when he received a message from his motorcycle friend who was supposed to go touring with him, saying, \"Sorry, I can't go. He was so disappointed that he could not go with his friend.\n",
+  "attributes": [
+    {
+      "value": "Mocha",
+      "trait_type": "JEANS"
+    },
+    {
+      "value": "Green",
+      "trait_type": "MA-1"
+    },
+    {
+      "value": "White",
+      "trait_type": "SHIRT"
+    },
+    {
+      "value": "White",
+      "trait_type": "T-SHIRT"
+    }
+  ]
+}

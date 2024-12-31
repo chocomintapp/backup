@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeSkpQZ6QyXirjZeqTcKyh72D43rqWLyzvw6DuTBKC9a3/nft.jpg",
+  "tokenId": 15,
+  "description": "スーパー行ったけど、イーサリアムでは買えなかった。\n\nI went to the supermarket, but I couldn't buy anything with Ethereum.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Shopping Cat",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

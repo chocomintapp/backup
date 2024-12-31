@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUigHzpSwL54ZkxiXQ3MwysDMTuAgchFjBMhGyxvCtbLe/nft.png",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "https://ipfs.io/ipfs/QmUigHzpSwL54ZkxiXQ3MwysDMTuAgchFjBMhGyxvCtbLe/nft.png",
+  "tokenId": 36,
+  "chainId": "137",
+  "name": "#36 CRYPPL - Wise Sam",
+  "description": "Hello Wise Sam #76.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "76",
+      "trait_type": "FRWC_ID"
+    }
+  ]
+}

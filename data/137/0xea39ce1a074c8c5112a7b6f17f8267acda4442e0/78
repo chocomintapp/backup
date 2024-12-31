@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZWf8DfC4KurmDVEaEY1XXDrsgs4BZDpUwngQEQtdz9oy/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 78,
+  "chainId": "137",
+  "name": "TANU-KIDS #077",
+  "description": "メイドに変身したTANU-KIDS\nご主人様に尽くします",
+  "attributes": [
+    {
+      "value": "Maid",
+      "trait_type": "Occupation"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYLCxeRZAVvMnej99QRsQ33f828qso45wnQewwpqXTqUv/nft.JPEG",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 47,
+  "chainId": "137",
+  "name": "VerySilentFruits#47 Amla",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Amla",
+      "trait_type": "Fruit"
+    }
+  ]
+}

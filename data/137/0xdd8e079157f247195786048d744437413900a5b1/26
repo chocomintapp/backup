@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYBWRyCegYW7TGLYYPQ24LPVQ5zEvDVaVQr4LUfVnYpYY/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmYBWRyCegYW7TGLYYPQ24LPVQ5zEvDVaVQr4LUfVnYpYY/nft.gif",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #26",
+  "description": "ベビロン二次創作",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Owl",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW68dJsj49JNjVqRi4aAo7c79jD6ATzZavHMFmdHAnpzW/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 86,
+  "chainId": "137",
+  "name": "帰国子女のえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "シャコウテキ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "フランスパン",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "ナマザカナ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "ケーキ作り",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "ヒロイシヤヲモテ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

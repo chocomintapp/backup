@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcpKtrNbhspdKw1XT4NQAc1Fr1rKTK2U1MFUPZ1FG7oqK/nft.jpg",
+  "tokenId": 1,
+  "description": "色塗り",
+  "nftContractAddress": "0x4bd53ce3a4d31550e705433af2c11c280979df08",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#2/acanel/1",
+  "attributes": [
+    {
+      "trait_type": "number",
+      "value": "#2"
+    }
+  ]
+}

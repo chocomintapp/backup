@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPiwxPynsHAxVCoeUxiFypGbFWtaBZgfTbxMDNaWV2WAi/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "#5",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#ABABAB",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#1E3E75",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Cryptocurrency",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "XRP",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

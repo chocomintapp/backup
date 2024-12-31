@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb5bR3qWAwh3Q6RDk7sKgixsqcNsKDBz95ZQ5eR88isAa/nft.png",
+  "nftContractAddress": "0xe35620a46ac8d48262651d310f1fcc71e3e2ec8e",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Octet Mountains #4/12",
+  "description": "This is a mountain range nestled in a wasteland.\nManaged by highly skilled \"messengers\".",
+  "attributes": [
+    {
+      "value": "004",
+      "trait_type": "Messenger"
+    },
+    {
+      "value": "Octet Mountains",
+      "trait_type": "Area"
+    },
+    {
+      "value": "Light Purple",
+      "trait_type": "Sticker color"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYQLTTM2iJF2VUZsXTczmxLzL17ZZbvKGiUn3o5sekPsE/nft.jpg",
+  "tokenId": 1,
+  "description": "New Profile Pic",
+  "nftContractAddress": "0x32ae6c3a89f6d1b00e5fad97aeaadfc19ca0547d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Crypt_Geek_Here",
+  "attributes": []
+}

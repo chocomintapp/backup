@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmajDvSP1zfGz2TSqj31KdJSYLdYoSq7bBDFvstNekiMXC/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 74,
+  "chainId": "137",
+  "name": "VeryLongAnimals #74",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Papio Hamadryas",
+      "trait_type": "TYPE"
+    }
+  ]
+}

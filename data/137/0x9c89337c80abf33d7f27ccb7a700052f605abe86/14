@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV9sLs9e5zcWikuwjSu5WfsRE73fav2emLWjXR2okPBVP/nft.jpg",
+  "tokenId": 14,
+  "description": "Ninja nft with a Japanese sword",
+  "nftContractAddress": "0x9c89337c80abf33d7f27ccb7a700052f605abe86",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Ninja"
+}

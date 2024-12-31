@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVU9tLNP4Y7VD9DuTrnBPjkp7ovmBWX3caZKP7TU31Wii/nft.jpg",
+  "nftContractAddress": "0x7f1c030f673d8e215d5b9d503519f78a9b2f1470",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "137",
+  "name": "Twilight Nup Owl #12",
+  "description": "The owl, a symbol of wisdom, will give you the power to see far.",
+  "attributes": [
+    {
+      "value": "Twilight",
+      "trait_type": "Attribution"
+    },
+    {
+      "value": "Nup",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "West",
+      "trait_type": "Birth"
+    },
+    {
+      "value": "Baby",
+      "trait_type": "Age"
+    },
+    {
+      "value": "Necromancer",
+      "trait_type": "Class"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRMX6XSvft3TsLgEMFnPTJZidBi6GCVBmzHBdcLLvU9wz/nft.jpg",
+  "nftContractAddress": "0x5f2e42f34d63eb91ab13974ecb6a911d57d18133",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "Chibikko-saurus girl#07",
+  "description": "What do you want to do when you grow up?",
+  "attributes": [
+    {
+      "value": "Styracosaurus",
+      "trait_type": "character"
+    },
+    {
+      "value": "unique",
+      "trait_type": "personality"
+    }
+  ]
+}

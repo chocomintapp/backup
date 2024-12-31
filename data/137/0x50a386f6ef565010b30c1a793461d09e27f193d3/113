@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUJ2nwR9UkEcceZzT4nXsKCyS2p2ZgvDcBLFZiBbqdB8x/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 113,
+  "chainId": "137",
+  "name": "hakorobo #113",
+  "description": "hakorobo #113 Artists Edition HKAE-16 Vusiuz\n\noriginal work:\nhttps://teia.art/objkt/382212\n\nby:\nhttps://twitter.com/Vusiuz",
+  "attributes": [
+    {
+      "value": "HKAE",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Shoes"
+    }
+  ]
+}

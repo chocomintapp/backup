@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeM6oSRPDEAHRFpHQfFFVnjehksFNdwBtatuG7Ai89TmZ/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmeM6oSRPDEAHRFpHQfFFVnjehksFNdwBtatuG7Ai89TmZ/nft.gif",
+  "tokenId": 48,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #48",
+  "description": "ベビロン二次創作",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Sea Otter",
+      "trait_type": "TYPE"
+    }
+  ]
+}

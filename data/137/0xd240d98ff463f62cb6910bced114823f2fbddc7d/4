@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVZKEyFqQBhNPCNBZYZkUdrfrxZXiPvXE7kbJCHxwZPhH/nft.png",
+  "tokenId": 4,
+  "description": "",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmVwNaJpvU9YCaXUSUBbiiYk17haQbAjBwnUCP1gre2PSJ/nft.glb",
+  "chainId": "137",
+  "name": "Chickbit #4",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "uncommon"
+    }
+  ]
+}

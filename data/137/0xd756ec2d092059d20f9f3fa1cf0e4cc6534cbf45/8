@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRXaDWErxgUgvrEBb2xAqJJiU3uSVRQJTySjHpmncXdef/nft.png",
+  "nftContractAddress": "0xd756ec2d092059d20f9f3fa1cf0e4cc6534cbf45",
+  "animationUrl": "https://ipfs.io/ipfs/QmRXaDWErxgUgvrEBb2xAqJJiU3uSVRQJTySjHpmncXdef/nft.png",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "Kero Sticker",
+  "description": "The First Kero Sticker on Polygon\nCreated to be handed out during Tokyo Game Show 2022 to see how many people want NFTs",
+  "attributes": []
+}

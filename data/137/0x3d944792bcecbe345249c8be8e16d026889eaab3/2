@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVLzFUEyyHuHAumNymZfyaSBHzrzXaeyEYQPSEHjG7ok4/nft.png",
+  "tokenId": 2,
+  "description": "クジラNFT",
+  "nftContractAddress": "0x3d944792bcecbe345249c8be8e16d026889eaab3",
+  "animationUrl": "https://ipfs.io/ipfs/QmVLzFUEyyHuHAumNymZfyaSBHzrzXaeyEYQPSEHjG7ok4/nft.png",
+  "chainId": "137",
+  "name": "kujira",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "size",
+      "value": "big"
+    }
+  ]
+}

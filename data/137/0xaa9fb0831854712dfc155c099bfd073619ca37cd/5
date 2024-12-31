@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVW7Lc9AFZMnFRZ76emKZo2cGGTN3dXsLEwbjyr4bD52G/nft.jpeg",
+  "nftContractAddress": "0xaa9fb0831854712dfc155c099bfd073619ca37cd",
+  "animationUrl": "https://ipfs.io/ipfs/QmUstwB7QW5ePSedS5P8PW71pDJZo5uWMXqsxmTHUZzwBT/nft.mp4",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "MILLIN-2",
+  "description": "NUMERO 2 DE 27",
+  "attributes": [
+    {
+      "value": "ALAS BOR",
+      "trait_type": "BLANCO "
+    },
+    {
+      "value": "LUNAR",
+      "trait_type": "ROJO "
+    },
+    {
+      "value": "CABELLO ",
+      "trait_type": "NEGRO"
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "TOMATE "
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "ANARAJADO "
+    },
+    {
+      "value": "PIEL ",
+      "trait_type": "PIEL "
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "AMARILLO"
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "ROJO OSCURO "
+    },
+    {
+      "value": "3D ",
+      "trait_type": "3D "
+    },
+    {
+      "value": "MORADO",
+      "trait_type": "MORADO"
+    }
+  ],
+  "minted": ""
+}

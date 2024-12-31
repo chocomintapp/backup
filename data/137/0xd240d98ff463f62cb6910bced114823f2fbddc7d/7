@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXAz5sNTN5MHuAbFPyVhYbYHbaXj2utWBtu4STXAdt4bK/nft.png",
+  "tokenId": 7,
+  "description": "",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmRUQC12EVhU8SjBaxyGq2KoTey25ksSYbtwfRPpa7TVBB/nft.glb",
+  "chainId": "137",
+  "name": "Chickbit #7",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "uncommon"
+    }
+  ]
+}

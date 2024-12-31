@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmajKqp3LTYQWnQGYhD7r7hdLxBxERZokXg9m5NLzMJT1w/nft.png",
+  "tokenId": 10,
+  "description": "Soy sauce ramen is a ramen that uses soy sauce sauce in the soup.  Sometimes referred to as \"Chinese noodles\" or \"Soy sauce ramen\"",
+  "nftContractAddress": "0xafcaf44db4a79e28075111aa018295cc5a23a826",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "SHOYU RAMEN",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

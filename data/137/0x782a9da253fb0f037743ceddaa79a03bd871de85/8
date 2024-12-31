@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRmfPQNgjvECyab6qou1FrXZ7ETkbvX3KEerfSVXZKNPo/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "VerySilentFruits#8 Bluberry",
+  "description": "",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Blueberry",
+      "trait_type": "Fruit"
+    }
+  ]
+}

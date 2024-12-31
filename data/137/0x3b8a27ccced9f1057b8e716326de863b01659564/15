@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVYQvLDHMJqiZXLxYm1UEUsygku3gVpHja19PmdgEkFeH/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #15",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Parrot",
+      "trait_type": "Type"
+    }
+  ]
+}

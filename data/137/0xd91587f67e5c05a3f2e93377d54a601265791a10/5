@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWxMvv7ZcYC6sWTVZWr3jVL8qtQfVj8A4Dv1jK2bF5VTb/nft.png",
+  "nftContractAddress": "0xd91587f67e5c05a3f2e93377d54a601265791a10",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "ASCT #5",
+  "description": "#5",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "Goldish Line"
+    },
+    {
+      "value": "1",
+      "trait_type": "Blue Background"
+    }
+  ]
+}

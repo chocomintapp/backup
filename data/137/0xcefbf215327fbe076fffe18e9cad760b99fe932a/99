@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaxCuS5Zo5PQuankXRkCu7BeeNZuugGW1qMUMbHqxrk27/nft.jpg",
+  "tokenId": 99,
+  "description": "99/101  \nTaken on Jan 6, 2022  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #99",
+  "attributes": [
+    {
+      "trait_type": "weather",
+      "value": "snow"
+    }
+  ]
+}

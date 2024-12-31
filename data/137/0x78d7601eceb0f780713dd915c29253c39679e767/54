@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdsAFMXn7EHWiUVJeS5o4bt7ut38bew8v5SVc2nsco83p/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 54,
+  "chainId": "137",
+  "name": "#54 Braided up style skyblue",
+  "description": "Cute hairstyles that look good with yukata.",
+  "attributes": [
+    {
+      "value": "Hair",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Braided up style",
+      "trait_type": "Hair"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYMRNVmytxgNMqaKGXyWBTyoCdssJ98N1wBmELP6hJfNc/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmYMRNVmytxgNMqaKGXyWBTyoCdssJ98N1wBmELP6hJfNc/nft.png",
+  "tokenId": 24,
+  "chainId": "137",
+  "name": "Rabbit girl #6S 『Hydrangea』",
+  "description": "Rabbit girl #6S 『Hydrangea』\n\nShe works part-time at a maid cafe. Her longing is a cute senior at a part-time job with pink hair and cat ears.\n\nHer specialty is sweet and fluffy pancakes.\n\nWelcome back, master!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hydrangea",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "School",
+      "trait_type": "Series"
+    }
+  ]
+}

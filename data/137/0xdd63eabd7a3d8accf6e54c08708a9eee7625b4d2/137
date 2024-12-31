@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfS1Dp3ZLvgtciNqwdq8TKVVDDbtxopyk77zm4Sf68hdx/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 137,
+  "chainId": "137",
+  "name": "LIVING MINERAL #137",
+  "description": "",
+  "attributes": [
+    {
+      "value": "chick",
+      "trait_type": "gene"
+    },
+    {
+      "value": "common",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "stone",
+      "trait_type": "material"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNyQ4WYp6ACb4bCG6SuKaMnA99uQJdg2CniEwCCYwNifC/nft.png",
+  "tokenId": 2,
+  "description": "Creator [akane4475](https://opensea.io/akane4475.eth?tab=created_collections)\n\n日本円がモチーフの双子の姉妹「[まどか＆つぶら](https://hide.ac/articles/SxApLyyvM)」のくじです。",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "大吉 #1",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "大吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "akane4475"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Unopened"
+    }
+  ]
+}

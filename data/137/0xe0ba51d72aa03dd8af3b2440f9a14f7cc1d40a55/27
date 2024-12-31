@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQHEPDLfA6CzX5BWWrcYPEEW6HEtLKhdwXKrJvhLuW6Qb/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "137",
+  "name": "聖なる剣に選ばれしえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ビビリ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "カレー",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "ピスタチオ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "ネトゲ",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "ケセラセラ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

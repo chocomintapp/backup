@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWWZFU2YHHb1pKsYaFtVPwJR7nEw7VWm81F4ALPkym3WL/nft.png",
+  "tokenId": 11,
+  "description": "Limited 1/1\n\nA little sad Monstarz.\nThis Monstarz is minted by their original contract (MSZ).",
+  "nftContractAddress": "0x966b004e16302e7e0cc7d2906eed2c4eff01d670",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#0011 Golem",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "UnCommon"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd9ooZ74rmTu6xbQEPru6T1unPqygEMfodbuLBK5Jjgg4/nft.png",
+  "tokenId": 40,
+  "description": "飛ぶ鳥を落とす勢いだニャ\n\nI am a flying bird.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cat（CazuTora　カズ虎）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

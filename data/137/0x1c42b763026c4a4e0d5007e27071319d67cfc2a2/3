@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQC47v9QfGPkcLWENYCZMuYypZif3r6DUcdFhzoans8we/nft.jpg",
+  "nftContractAddress": "0x1c42b763026c4a4e0d5007e27071319d67cfc2a2",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "milk tea Ticket",
+  "description": "If you collect 10 of this milk tea tickets NFT, you can exchange them for one drawing picture after listening to your request.\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

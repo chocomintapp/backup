@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf6s1fwusKfVDjLsr3vW22Q9ttDFP3KQciih7Zk3FoWEW/nft.jpg",
+  "nftContractAddress": "0x75f068e8b87d50a65aa0d9ea9fe4258f415a423e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "kyaba",
+  "description": "kyaba",
+  "attributes": []
+}

@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaRb4Q4nJtWmt62pGDWiBHPBJH8g3b9rfnwjigMkwrnMb/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "#3",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#0F9722",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#0F9722",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Cryptocurrency",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "BNB",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    }
+  ]
+}

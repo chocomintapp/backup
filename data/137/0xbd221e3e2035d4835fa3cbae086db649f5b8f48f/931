@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmShs6t5ZMxyvC3niNb8j5LFmwDnPJypBtK9qLLWQN9cyo/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmShs6t5ZMxyvC3niNb8j5LFmwDnPJypBtK9qLLWQN9cyo/nft.mp4",
+  "tokenId": 931,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1029",
+  "description": "ドキュメンタリー風に動画撮る\nプロジェクトロンチまでの伝説",
+  "attributes": [
+    {
+      "value": "aj9",
+      "trait_type": "M"
+    },
+    {
+      "value": "Ｂプルート",
+      "trait_type": "押韻職人"
+    },
+    {
+      "value": "禅",
+      "trait_type": "BG"
+    }
+  ]
+}

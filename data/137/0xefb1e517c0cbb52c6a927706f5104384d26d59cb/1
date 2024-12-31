@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfVUxKNo5o3MrZ2ZpuNaHycAMasN1PmtMMPB3gpTJmkSk/nft.png",
+  "tokenId": 1,
+  "description": "Test NFT Polygon Original contract",
+  "nftContractAddress": "0xefb1e517c0cbb52c6a927706f5104384d26d59cb",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Test NFT Polygon",
+  "attributes": [],
+  "minted": "✅"
+}

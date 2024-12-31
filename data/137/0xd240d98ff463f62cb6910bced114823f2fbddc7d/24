@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdaqPzQyP6fbLZXjK1MHRbQ6SbJRLbBbEVuWx3E9caFSo/nft.png",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmQBFrrHKmmZz82jW3f2TqYhEtCULqxD5ZAToNPpQipBNq/nft.glb",
+  "tokenId": 24,
+  "chainId": "137",
+  "name": "Chickbit #24",
+  "description": "",
+  "attributes": [
+    {
+      "value": "common",
+      "trait_type": "rarity"
+    }
+  ]
+}

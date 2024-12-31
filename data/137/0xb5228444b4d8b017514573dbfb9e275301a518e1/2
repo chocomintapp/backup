@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb1n9hZ41jLU5wK3JE4k4hy3kKBJs1Hh6ZcMXQ4UF9e9H/nft.jpg",
+  "nftContractAddress": "0xb5228444b4d8b017514573dbfb9e275301a518e1",
+  "animationUrl": "https://ipfs.io/ipfs/Qmb1n9hZ41jLU5wK3JE4k4hy3kKBJs1Hh6ZcMXQ4UF9e9H/nft.jpg",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "herbariums-twin",
+  "description": "I put herbs into two small bottoles in Nasu, Tochigi Prefecture, Japan　in Febrary 2022.",
+  "attributes": [],
+  "minted": "✅"
+}

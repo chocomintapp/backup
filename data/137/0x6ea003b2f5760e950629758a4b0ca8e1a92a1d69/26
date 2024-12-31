@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZYDqBtUUqtJ97dAwnTy4NpX4twLG7JXvwur8joUKR3tt/nft.png",
+  "tokenId": 26,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations. In particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "残雪 -Zansetsu-",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Kumano Taisha"
+    },
+    {
+      "trait_type": "MODEL",
+      "value": "SENBYO"
+    }
+  ]
+}

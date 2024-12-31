@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTJgHu8NPdV9wP41AHRNJAy6NNvGEpDqYtQqJRjVdhLZo/nft.png",
+  "nftContractAddress": "0xe06a17670acbce3d6e31b586652a990e8844f9d4",
+  "animationUrl": "https://ipfs.io/ipfs/QmTJgHu8NPdV9wP41AHRNJAy6NNvGEpDqYtQqJRjVdhLZo/nft.png",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "USAKUJI",
+  "description": "NFT Meetup!2",
+  "attributes": []
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZx2CXTqiowfssupPzj2WoL4tYi8G6WUNXraFWXJYoPCS/nft.jpg",
+  "tokenId": 1,
+  "description": "This is a test mint.",
+  "nftContractAddress": "0xefcb1ce213fec0d1c8b89445780e821c6e1c0a33",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "MOE TRY",
+  "attributes": []
+}

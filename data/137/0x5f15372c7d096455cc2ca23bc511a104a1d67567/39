@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbXHKFPLcP4Kg5JXZaeFAmXtaW2wY4E6247DhZCzid3eB/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmbXHKFPLcP4Kg5JXZaeFAmXtaW2wY4E6247DhZCzid3eB/nft.png",
+  "tokenId": 39,
+  "chainId": "137",
+  "name": "Rabbit girl #9E 『Pinkbear』",
+  "description": "Rabbit girl #9E 『Pinkbear』\nRabbit Girls Easter\n\nGirls with cute rabbit ears came to you. RabbitGirls is always next to you.\n\n\"Hello! I hope every day will be a wonderful day for you.\"",
+  "attributes": [
+    {
+      "value": "PinkBear",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "Easter",
+      "trait_type": "Series"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW5RUU3ksAr7pTWPbU9y42mxoGSSedhyrFVmTfrCktDGn/nft.png",
+  "tokenId": 75,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**MATILDA II Mk.II**  \nThis tank is the successor to the \"Matilda I\", which was developed for infantry support.  \nBecause of the concept of infantry support, the emphasis was not on speed, but on armor.\n\nThe maximum armor of 78mm was very thick for a tank of this period, and it repelled all the shells of the German tanks Panzer III and Panzer IV (short barrel).\n\nWith its solid armor and high reliability, it was active in the North African front in the early stages of the war, and was praised as the \"Queen of the Battlefield\" by the infantry.\n\n**マチルダII Mk.2 歩兵戦車**  \n歩兵支援車輛として開発された「マチルダI」の後継となる戦車です。\n\n歩兵随伴というコンセプトの為速度は重視されず、装甲に重点が置かれました。  \n最大装甲78mmはこの時期の戦車にしては非常に厚く、ドイツ軍のIII号・IV号戦車（短砲身）の砲弾をことごとく跳ね返しました。\n\nその堅固な装甲と高い信頼性で大戦序盤の北アフリカ戦線などで活躍し、歩兵からは「戦場の女王」と賞賛されました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0075 MATILDA II Mk.II",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "UK"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

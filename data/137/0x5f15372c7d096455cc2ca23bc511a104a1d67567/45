@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXiboHcTzbAewYBPsqp1Bioo2HUaJ79rhu4VtNthKZGf7/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmXiboHcTzbAewYBPsqp1Bioo2HUaJ79rhu4VtNthKZGf7/nft.png",
+  "tokenId": 45,
+  "chainId": "137",
+  "name": "Rabbit girl #23 『Mallow pink』",
+  "description": "Flora's power to give magical flowers gave birth to a flower witch.\n\nA girl who hoped that her boring days would change.\n\nShe has a bright and calm personality\n\nMallow blue herbal tea has the property of changing from bluish purple to pink when lemon is added.\n\n",
+  "attributes": [
+    {
+      "value": "MallowPink",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "Flower",
+      "trait_type": "Series"
+    }
+  ],
+  "minted": "✅"
+}

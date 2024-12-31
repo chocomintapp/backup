@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVCG7EaMgUqgJRb36RCkng4JUrFeBPKU9UT9aR7SanYzZ/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 44,
+  "chainId": "137",
+  "name": "#44",
+  "description": "alien",
+  "attributes": [
+    {
+      "value": "Alien",
+      "trait_type": "RACE"
+    }
+  ]
+}

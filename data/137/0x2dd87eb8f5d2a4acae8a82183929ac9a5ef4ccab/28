@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQvdkQSjERDVkK46SZojNeJ7SyngAAp84E2wX16K7F8x9/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #100 Apr.11",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n4月11日\n\n土曜日だというのに、電車は満員。昨日見た夢のことが忘れられず、夢と精神分析に関する蔵書が豊富な大学図書館へと、調べ物に行く部長です。ドーナツが傷つかないように、カバンを足元に置いて、空いている方の手でドーナツをケアしながら格闘すること6駅分。「名前の長いあの大学前」駅を降り、大学構内に入ったすぐのところにあるベンチで、ドーナツについてしまった繊維などをハンドタオルで優しく払いのけます。図書館に入り、調べ物をすること4時間ほど。いくつか分かってきたことがありました。ドーナツになぜ穴が空いているのかは諸説あるということ、昨日見た夢はドーナツが持っている記憶の可能性があるということ、物に記憶が宿った事例を論文にまとめた教授がこの大学にいること、などなど。収穫はもりだくさんでした。「今、いちばん会いたい人が、この大学にいる」ということが分かった部長は、その場で早速アポイントを取り付けるメールを送ったのでした。\n\n\n-------------\n\nApril 11\n\nEven though it was Saturday, the train was packed. He couldn't forget about the dream he had last night, so he went to the university library, which had a large collection of books on dreams and psychoanalysis, to do some research. He put his bag at his feet and struggled for six stations, using his free hand to care for the donut so that it would not get damaged. He gets off at \"that university station with the long name\" and gently brushes off the fibers and other things that have gotten on the donut with a hand towel on a bench just inside the university campus. He went into the library and spent about four hours doing some research. There were a few things he came to understand. There are many theories as to why donuts have holes in them, the dream I had last night may have been a memory that the donuts have, and there is a professor at this university who has written a paper on the case of memories residing in objects. There was a lot to take in. When he realized that the person he wanted to meet the most was at this university, he immediately sent an e-mail to set up an appointment.",
+  "attributes": [
+    {
+      "value": "Sweet bag 1866 dr.chocolate edition",
+      "trait_type": "BAG"
+    },
+    {
+      "value": "Navy",
+      "trait_type": "CAP"
+    },
+    {
+      "value": "Special",
+      "trait_type": "CLASSIC GRASSES"
+    },
+    {
+      "value": "Confused",
+      "trait_type": "ENVIRONMENT"
+    },
+    {
+      "value": "Camouflage",
+      "trait_type": "HOODIE"
+    },
+    {
+      "value": "Grey",
+      "trait_type": "MASK"
+    },
+    {
+      "value": "Navy",
+      "trait_type": "PANTS"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "SHOES"
+    },
+    {
+      "value": "White",
+      "trait_type": "T-SHIRT"
+    }
+  ]
+}

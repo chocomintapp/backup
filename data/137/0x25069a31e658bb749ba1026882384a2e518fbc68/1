@@ -1,0 +1,43 @@
+{
+  "image": "",
+  "nftContractAddress": "0x25069a31e658bb749ba1026882384a2e518fbc68",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "CM0001",
+  "description": "トレーディングカードゲーム＜クリプトメモリーズ＞のポイントカード。",
+  "attributes": [
+    {
+      "value": "0001",
+      "trait_type": "Number"
+    },
+    {
+      "value": "20240528",
+      "trait_type": "Date"
+    },
+    {
+      "value": "4",
+      "trait_type": "画像付きポスト"
+    },
+    {
+      "value": "2",
+      "trait_type": "バトル動画"
+    },
+    {
+      "value": "13",
+      "trait_type": "購入*パック数"
+    },
+    {
+      "value": "0",
+      "trait_type": "イベント参加"
+    },
+    {
+      "value": "0",
+      "trait_type": "ポイントカード作成ポスト"
+    },
+    {
+      "value": "3",
+      "trait_type": "お気に入りカード登録（最大5）"
+    }
+  ]
+}

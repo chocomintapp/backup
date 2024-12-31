@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYmf7HUwC6Js6S85TTdFK3KCnjU92he1CG2Pc1GPWFCwU/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 41,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #158 June.8",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n6月8日\n\n狐博士が本に殴り書きをしていた言葉「アイデンティティを取り戻せ」に触発された部長は、自分のアイデンティティについて考えてみることにしました。「自分の本体は、ドーナツなんじゃないか」と思うこともあるくらい、随分と長い時間をドーナツと一緒に過ごしているような気がします。ドーナツが本体だとしたら、今こうして考えている自分は一体…？\n\nその日の食卓では、普段飲んでいるものとは違う味のするお茶が並んでいました。「よく分かったわね、新しいお茶よ」奥さんから差し出されたお茶のパッケージには、「アイデンティ・ティー」と書かれていました。自分の存在が何なのかさえ分からずに過ごしていた、あの歳の夜を思い出すような…そんな味がしました。\n\n\n-----------\n\n\nJune 8\n\nInspired by the words that Dr. Fox had punched into his book, \"Take back your identity,\" he decided to think about his identity. He has spent so much time with doughnuts that he sometimes wonders if they are his true identity. If the doughnut is my true body, then who am I that I am thinking about this now?\n\nAt the dining table that day, there was a tea that tasted different from what I usually drink. The package of the tea that his wife offered him was labeled \"Identity. He tasted it...it reminded him of the night he was that age, when he didn't even know what he was.",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "Cap"
+    },
+    {
+      "value": "barefoot",
+      "trait_type": "Foot"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "Half Sleeve Shirt"
+    },
+    {
+      "value": "アイデンティ・ティー",
+      "trait_type": "Item"
+    },
+    {
+      "value": "Black",
+      "trait_type": "SHORT PANTS"
+    },
+    {
+      "value": "White",
+      "trait_type": "T-shirt"
+    }
+  ]
+}

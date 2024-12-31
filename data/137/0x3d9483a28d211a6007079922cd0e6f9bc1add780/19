@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWhkom1hpkriXx758kAq7pyb92daEcGQB5gcetY1bhLT6/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "Neon #19",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon girl",
+      "trait_type": "character"
+    },
+    {
+      "value": "pink hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue-yellow flower",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "magic broom",
+      "trait_type": "hand"
+    },
+    {
+      "value": "smoking",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

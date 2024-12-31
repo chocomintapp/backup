@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaPARE8v3aouHUGyDiDGeGcQ5nF3hNV4UCxSc7AQp9R79/nft.png",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "Basket Ball Babies #10",
+  "description": "バブボール\nBasket Ball Babies\nこあら\nKoala",
+  "attributes": [
+    {
+      "value": "KOALA",
+      "trait_type": "TYPE"
+    }
+  ]
+}

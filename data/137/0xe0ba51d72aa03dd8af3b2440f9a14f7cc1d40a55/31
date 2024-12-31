@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQBykUb4Q3KVh2hhP8UiZS7RkS6ZDTz1zMoGR6rdZUSdQ/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "137",
+  "name": "背中で語るえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "カンダイ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "コーヒー",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "ヨウナシ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "ボルダリング",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "セッサタクマ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

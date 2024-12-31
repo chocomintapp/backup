@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXSbpRGVS3LHhjqquusmft8LYogHo1uSG3cdtCbGpATWR/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 137,
+  "chainId": "137",
+  "name": "WMM #0137 KATSURAGI 1944",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KATSURAGI 1944**  \nThis silhouette is aircraft carrier Katsuragi in 1944.\n\nIt is the third ship of the Unryu class aircraft carrier.\nIt was also the last carrier completed by the Imperial Japanese Navy.\n\nBy the time the Katsuragi appeared on the scene, it was already too late, and the defeat of the war had been decided.\n\nThe Allied fleet had been virtually destroyed, with only aircraft to carry them but no crew to man them.\n\nHowever, it was not during the war but after the war that this youngest carrier was active.\n\nThe Katsuragi, which was able to sail at the end of the war, made the most of its huge hull It played a major role as a demobilization ship.\n\n**空母 葛城 1944**  \n雲龍型空母の3番艦にして日本海軍が最後に完成させた空母です。\n\n「葛城」が登場した頃には時既に遅し・・・戦局は決定的でした。搭載する航空機はあっても搭乗員が不足している状況で\n事実上連合艦隊は壊滅していました。\n\nしかしこの末っ子空母が活躍したのは戦時中ではなく戦後でした。航行可能な状態で終戦を迎えた葛城は、その巨大な船体を生かして復員船として大きな役割を果たしました。\n\nこのNFTは1944年頃の葛城のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Aircraft carrier",
+      "trait_type": "Ship"
+    }
+  ]
+}

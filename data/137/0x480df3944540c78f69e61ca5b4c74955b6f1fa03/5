@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV6KErVXqVuAxyukfD1qM7coPqitkuDqyVQPdGRvdrEY1/nft.png",
+  "nftContractAddress": "0x480df3944540c78f69e61ca5b4c74955b6f1fa03",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "logo-5",
+  "description": "This is a project to create a new city in Metaverse by forming a community under “Ambitious One City”, a new city created by ambitious creators, centered on creators from Japan and overseas. All the works created by the artists participating in the community have been converted to NFT. A world full of creativity, with the entire city made of “NFT”. It is an art tourist spot that visitors can purchase or sell on their own.\n国内外のクリエイターを中心に 「Ambitious One City ” 野心的なクリエイターが創り上げる新たな街“」のもとにコミュニティを形成し、メタバースに新しく街を作っていくプロジェクトです。\nコミュニティに参加するアーティストが⼿掛けた作品を全てNFT化。\n街全てが「NFT」で出来ており、クリエイティビティ溢れる世界。\n訪れたユーザーが⾃由に購⼊したり、⼆次販売出来るアート観光スポットを⽬指す。",
+  "attributes": [
+    {
+      "value": "expressionless",
+      "trait_type": "face"
+    },
+    {
+      "value": "android",
+      "trait_type": "Race"
+    },
+    {
+      "value": "device",
+      "trait_type": "Costume"
+    },
+    {
+      "value": "Kanzashi Antenna",
+      "trait_type": "Equipment"
+    }
+  ]
+}

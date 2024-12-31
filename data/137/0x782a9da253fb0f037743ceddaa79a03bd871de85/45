@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUbEAPU9TSbcs38MNw6vhFrvdq2PEr3HvvDFza3nC8mmu/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 45,
+  "chainId": "137",
+  "name": "VerySilentFruits#45 Durian",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Durian",
+      "trait_type": "Fruit"
+    }
+  ]
+}

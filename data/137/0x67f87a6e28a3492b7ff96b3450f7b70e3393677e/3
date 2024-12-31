@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdZ5GunHr369nRBKUeF1BsP4aaokwb4kvApRMitTDAfk7/nft.png",
+  "nftContractAddress": "0x67f87a6e28a3492b7ff96b3450f7b70e3393677e",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "VeryPoliticalLongAnimals #003",
+  "description": "Children Minister",
+  "attributes": [
+    {
+      "value": "Cat",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Bronze",
+      "trait_type": "Grade"
+    }
+  ],
+  "minted": "✅"
+}

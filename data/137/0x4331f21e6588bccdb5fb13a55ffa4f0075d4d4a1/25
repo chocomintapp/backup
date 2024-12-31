@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeEYm8faF95cYedN8nW5McHSKcEn5Uutn7GDuTLhRGDAV/nft.png",
+  "tokenId": 25,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SHINANO**  \nIt is a ship that was changed to an aircraft carrier in the flow of the war while construction began as the third ship of the Yamato type battleship.\n\nIt aimed to become an unsinkable aircraft carrier by utilizing the heavy armor of the Yamato, but it was attacked by the American submarine \"Archer-fish\" and sank just before it was completed.\nThe Shinano was the world's largest aircraft carrier at the time, a record that was not broken until the arrival of the U.S. nuclear-powered aircraft carrier Enterprise.\n\n**航空母艦 信濃**  \n大和型戦艦の三番艦として着工されつつも戦局の流れで空母に変更された艦です。  \n大和ゆずりの重装甲を生かして不沈空母化を目指しましたが、完成目前に米潜水艦「アーチャーフィッシュ」の攻撃を受けて沈没しました。\n\n信濃は日本海軍はもとより当時世界最大の空母であり、その記録は米原子力空母エンタープライズが登場するまで破られませんでした。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0025 SHINANO",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Aircraft carrier"
+    }
+  ],
+  "minted": "✅"
+}

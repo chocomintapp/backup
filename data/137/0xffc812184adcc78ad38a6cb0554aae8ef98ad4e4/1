@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRw83d1EVs8VV91S4xPgZMDuEosU5c5HcxD5ShjyeQX2s/nft.png",
+  "nftContractAddress": "0xffc812184adcc78ad38a6cb0554aae8ef98ad4e4",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "WUW2",
+  "description": "NFT",
+  "attributes": []
+}

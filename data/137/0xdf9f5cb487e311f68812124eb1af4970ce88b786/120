@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSkTa1izxyLiEdu8Gvpi7Uie4sApCd3FhXZDRUcDgHgRn/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 120,
+  "chainId": "137",
+  "name": "Ganmichan's gifs #2",
+  "description": "to the moon!!",
+  "attributes": [
+    {
+      "value": "gifs",
+      "trait_type": "series"
+    },
+    {
+      "value": "to the moon",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

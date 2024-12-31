@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYGDqeeVWFYKQM7vQGf4Bnm4aE4MUHEMyDDJCCxqUdKu5/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "137",
+  "name": "Day19 Nana's Art #56",
+  "description": "今日は雪が降っているのをしばらく眺めました。\n\nI watched the snow fall for a while today.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ]
+}

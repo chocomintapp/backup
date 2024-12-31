@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY4FerXp2KQYpnZWSA75NkpDfG2dNTBmdFRwnUSvrpLEJ/nft.jpeg",
+  "tokenId": 9,
+  "description": "Calligraphy Devil #9",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #9",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Astaroth"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Asmoday"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Greed"
+    }
+  ],
+  "minted": "✅"
+}

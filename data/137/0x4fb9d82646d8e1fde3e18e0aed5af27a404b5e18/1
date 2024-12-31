@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdt6onxMd1RrrR6zx2XkQH3yGHLWyrbHTePF5VWqhpRG1/nft.jpg",
+  "nftContractAddress": "0x4fb9d82646d8e1fde3e18e0aed5af27a404b5e18",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Dance Contest Award GensokishiCFes1st",
+  "description": "Dance Contest Award for player-sponsered events GensokishiCFes1st .",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": ""
+}

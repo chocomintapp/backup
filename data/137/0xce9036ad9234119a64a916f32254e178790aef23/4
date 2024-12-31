@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU4N6CdSzj5DYtZAUegJtUDn34Gg1ks9RrZnkzy6JRBfB/nft.jpg",
+  "nftContractAddress": "0xce9036ad9234119a64a916f32254e178790aef23",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Pro Golemer Certificates 初段 @fuga_135",
+  "description": "This NFT proves @fuga_135  is a pro-golemer first dan!",
+  "attributes": [
+    {
+      "value": "初段",
+      "trait_type": "初段"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbzsEkGDmtqo7CKWBdeHx6D8gVbqmgLekxavFU4vWA5T1/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "NonFungible × VeryLongAnimals - Tatsuru",
+  "description": "A collaboration with NonFungible, the NFT-themed web drama from Japan by Nomdeplume and supported by Yay. The artwork was created by VLAB.",
+  "attributes": [
+    {
+      "value": "Founder",
+      "trait_type": "TYPE"
+    }
+  ]
+}

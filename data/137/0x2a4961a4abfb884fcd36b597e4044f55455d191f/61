@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV2sdWYnP89beYmGDVgZ32rgVouyYmixqmyWBfVwMEtoL/nft.png",
+  "nftContractAddress": "0x2a4961a4abfb884fcd36b597e4044f55455d191f",
+  "animationUrl": "",
+  "tokenId": 61,
+  "chainId": "137",
+  "name": "NoisyLongAnimals #61",
+  "description": "Secondary works of VeryLongAnimals",
+  "attributes": [
+    {
+      "value": "Crocodile",
+      "trait_type": "TYPE"
+    }
+  ]
+}

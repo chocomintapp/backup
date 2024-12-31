@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdsYjE7PoFeWpG376A5pVig9sZAhKiqpBcEwae9ZMy7z8/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 79,
+  "chainId": "137",
+  "name": "Day33 Umitsuru's Art #97",
+  "description": "天使って、なんで輪っかがついてるんだろう。\n\nI wonder why angels have rings on them.",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

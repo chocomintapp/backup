@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWMSMBD2ddmSyScLa6jimJERcuGbddUyJD2KWKdgbM5R8/nft.png",
+  "nftContractAddress": "0x7e61ad13c51183720d50cfcffa6b10b5714af9f5",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "VeryLongEnglishAnimals #12",
+  "description": "This is a secondary production of \"VeryLongAnimals\".",
+  "attributes": [
+    {
+      "value": "Spotted flathead",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbqjcuqTxXkXVoy2iFdMGteP1S8KE1LkozXqUzwXXPF9V/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "HUNIMAL #9",
+  "description": "Human + Animal = Hunimal",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Blueish green",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Boston Terrier + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "1940s US navy style",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Slick back",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Biker",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

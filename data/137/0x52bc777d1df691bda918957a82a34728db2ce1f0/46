@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXhqwLPNz4bYz2vtFh7Lfhx1mwwWkgftSCymJtBDHeeZr/nft.jpeg",
+  "tokenId": 46,
+  "description": "Calligraphy Devil #46",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #46",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "God"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Thor"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Vassago"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Phlegethon"
+    }
+  ]
+}

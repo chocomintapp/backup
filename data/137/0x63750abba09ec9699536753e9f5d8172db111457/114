@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYQbHANmJNKB9NxjVfz8pRuGnKMSSvqgEv3meNTkXm63G/nft.png",
+  "nftContractAddress": "0x63750abba09ec9699536753e9f5d8172db111457",
+  "animationUrl": "",
+  "tokenId": 114,
+  "chainId": "137",
+  "name": "PachiMon #00114",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Human T1",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Dot T4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Long red",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "None",
+      "trait_type": "Accessory"
+    }
+  ]
+}

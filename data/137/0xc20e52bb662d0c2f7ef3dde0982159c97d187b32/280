@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdsJUt4v3WNbjCnnjf7Z17wiE8tofrpwEsXXut6SkEyCk/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 280,
+  "chainId": "137",
+  "name": "#280",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#B7C483",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#D81515",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Insects",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Grasshopper",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

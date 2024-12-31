@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWQeu7QCMpivLFueXHcBbCwj3GRboQWxmL8it6jRoWSyR/nft.png",
+  "nftContractAddress": "0x979756897565bda543a953c1d6616c37632109d5",
+  "animationUrl": "",
+  "tokenId": 70,
+  "chainId": "137",
+  "name": "Ticket to the void No.70",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Banyanya",
+      "trait_type": "MOM"
+    }
+  ]
+}

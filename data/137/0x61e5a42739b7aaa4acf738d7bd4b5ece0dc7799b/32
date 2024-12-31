@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZgVmHffKwt6kZeNYTCqGH1Rwk8AJfTisbuw59rQ6bVyM/nft.png",
+  "tokenId": 32,
+  "description": "Creator [CATHATS](https://opensea.io/CATHATS?tab=created_collections)\n\nおみくじの結果は \"吉\" でした！  \nなにをやっても成功するでしょう！",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "吉 #4",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "CATHATS"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

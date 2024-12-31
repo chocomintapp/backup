@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaxLQAEhtrJsRFHzqyzaqVGzdwSqsZHfv8rTFpC1anG2s/nft.jpg",
+  "nftContractAddress": "0x547abf3b0afc35391991c789969ef5fad760395b",
+  "animationUrl": "https://ipfs.io/ipfs/QmX6weK3nxfQ2CgXDk7XTZbnyUxBDR68sZEZgpjPUqE35X/nft.jpg",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "改行4",
+  "description": "改行   kaigyou \n",
+  "attributes": [
+    {
+      "value": "レア",
+      "trait_type": "レア度"
+    }
+  ],
+  "minted": "✅"
+}

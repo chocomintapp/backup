@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW1rDqsdWZJpuBpD7GM1JnKsJSsiW95jRoK3MfysFanJR/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 80,
+  "chainId": "137",
+  "name": "Day33 Nana's Art #98",
+  "description": "Apple PencilをiPadに叩きつけるようにして描いてます。\n\nI draw by tapping the Apple Pencil against the iPad.",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

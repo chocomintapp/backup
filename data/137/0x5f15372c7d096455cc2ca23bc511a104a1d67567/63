@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQmXtE2SaV3ZTEQ18Vr1vzbEnhMi6akdHNJjnW3oFVmYT/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmQmXtE2SaV3ZTEQ18Vr1vzbEnhMi6akdHNJjnW3oFVmYT/nft.png",
+  "tokenId": 63,
+  "chainId": "137",
+  "name": "Rabbit girl #2『Mint』Christmas🎄✨",
+  "description": "Mint from Rabbit Girls came with a present! \"Thank you for always taking care of us. Have a wonderful Christmas.\"\n\n2022 Merry Christmas🎄✨",
+  "attributes": [
+    {
+      "value": "Mint",
+      "trait_type": "Character"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

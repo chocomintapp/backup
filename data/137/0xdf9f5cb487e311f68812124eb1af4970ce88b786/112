@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQmf9mW7Fbj3xFdM5HzGkG4jfo5Cov1XZxLKCLQcVZxRy/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 112,
+  "chainId": "137",
+  "name": "Ganmichan's snap #4",
+  "description": "がんみちゃんの何気ない日常",
+  "attributes": [
+    {
+      "value": "snap",
+      "trait_type": "series"
+    },
+    {
+      "value": "knapsack",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

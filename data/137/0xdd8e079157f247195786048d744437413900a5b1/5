@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW11wuyPkWw383sqc5bWGVeohyponA2oXsDfJRcSHs3g4/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmW11wuyPkWw383sqc5bWGVeohyponA2oXsDfJRcSHs3g4/nft.gif",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #5",
+  "description": "ベビロン二次創作",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Bear",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaPBhWDKECTjqZV1oKEFFsftyfYNwxba7mM1v3tH69Fvv/nft.jpg",
+  "nftContractAddress": "0x058e4734cc5e3496963b2cb029b4fbc8bdac019b",
+  "animationUrl": "https://ipfs.io/ipfs/QmeW5q8pkM4p4QQ3PKX3jwWMp2kPvuZUzbmBZdsDB1YWGE/nft.mp4",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Crystal Polygon Laboratory #04",
+  "description": "Crystal Polygon Laboratory is a work produced by Eri Momoeda of Japan.\n\nThis eternally shining crystal consists of 42 items.",
+  "attributes": [],
+  "minted": "✅"
+}

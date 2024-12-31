@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYygkAG8HJWEQnmWr2vL8PdUnuN93tuAXx119uLboUAWf/nft.jpeg",
+  "tokenId": 1,
+  "description": "limited edition of 1 【Maikoha~~~~n】",
+  "nftContractAddress": "0xa04c7167e71d905fe931e4e90dcd98f1a035d23d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Maiko",
+  "attributes": [
+    {
+      "trait_type": "Japanese",
+      "value": "purple"
+    }
+  ]
+}

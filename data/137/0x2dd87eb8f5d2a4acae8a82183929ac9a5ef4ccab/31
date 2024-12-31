@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaebST3kiZxmjY4yH7a7efRzs8riFxgXRKgCJWBQn3D4a/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #015 Jan.16",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n1月16日\n\n土曜日の朝は、ゴミ出しから始まります。「ちょっと喫茶店へ行ってきます」とお出かけをして、スタバをテイクアウトで戻ってくる。これが「ねじねじドーナツ部長」のちょっとした楽しみだったりするんです。もちろん、本当の楽しみは一緒に食べるドーナツの方！スタバの紙袋を持って家へ戻ると、「喫茶店に行くって出かけて、スタバに行くのやめようよ」と、小言を言われてしまう部長でした。\n\n\n---------\n\nJan 16\n\nOn Saturday mornings, his routine begins with taking out the trash. He goes out for a \"quick trip to the coffee shop\" and comes back with a Starbucks takeout. Sometimes this is his little bit of fun. Of course, his real pleasure is the donuts we share! When he returns home with a paper bag of Starbucks, he would get a snide remark, \"Let's not go out and go to Starbucks when we're going to the coffee shop.",
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "JEANS"
+    },
+    {
+      "value": "Black",
+      "trait_type": "CAP"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "MA-1"
+    },
+    {
+      "value": "Black",
+      "trait_type": "T-SHIRT"
+    }
+  ]
+}

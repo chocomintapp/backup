@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPwappbnNARQMEjX6wbADV7Eyo1AedMifGMcmdP1GWY9J/nft.gif",
+  "nftContractAddress": "0xf4bda3c904ca98ee4ec23a60fb217cfb86f22668",
+  "animationUrl": "https://ipfs.io/ipfs/QmRgCfZvYyP5qJszRjK4a5PecUy6vNCxpTUYWC3kh5R7Sx/nft.glb",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "PolyVision #3",
+  "description": "PolygonLow assistant robot.",
+  "attributes": [
+    {
+      "value": "Sauna",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Aloha",
+      "trait_type": "Body"
+    },
+    {
+      "value": "light blue",
+      "trait_type": "Feet"
+    }
+  ]
+}

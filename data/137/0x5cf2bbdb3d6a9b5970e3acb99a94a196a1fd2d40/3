@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTkMKroBBKFuYZLU38qS57W2zMP11zfJ9FgVJTq3Rxfvx/nft.png",
+  "tokenId": 3,
+  "description": "The CUPANIMALS live inside the cup.",
+  "nftContractAddress": "0x5cf2bbdb3d6a9b5970e3acb99a94a196a1fd2d40",
+  "animationUrl": "https://ipfs.io/ipfs/QmTkMKroBBKFuYZLU38qS57W2zMP11zfJ9FgVJTq3Rxfvx/nft.png",
+  "chainId": "137",
+  "name": "CUPANIMALS_03_chicken",
+  "attributes": []
+}

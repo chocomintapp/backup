@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXoTtQm8w7qYQ4PcsYoJzUAk21TWS7pV9sNg3mBCudSY6/nft.jpg",
+  "nftContractAddress": "0x0298a43388fdd108835a5cf59cbb868a08afb8fc",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "CHOCO　JIN",
+  "description": "CRYPTO NINJA ＃01",
+  "attributes": [
+    {
+      "value": "CRYPO NINJA",
+      "trait_type": "シリーズ"
+    }
+  ],
+  "minted": ""
+}

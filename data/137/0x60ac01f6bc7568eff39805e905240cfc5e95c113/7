@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQg2BKkDuu9P3XdaGou1w4AxWoqNScUEKLS3FxnSmMddW/nft.png",
+  "nftContractAddress": "0x60ac01f6bc7568eff39805e905240cfc5e95c113",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "家紋-紫陽花",
+  "description": "アジサイの花言葉は「移り気」「辛抱強さ」「浮気」「無常」です。 移り行く景色や時代を示唆する紋章になります。",
+  "attributes": [
+    {
+      "value": "ornaments",
+      "trait_type": "Attribute"
+    },
+    {
+      "value": "9",
+      "trait_type": "Defense"
+    },
+    {
+      "value": "1",
+      "trait_type": "Attack"
+    },
+    {
+      "value": "Water",
+      "trait_type": "Element"
+    }
+  ]
+}

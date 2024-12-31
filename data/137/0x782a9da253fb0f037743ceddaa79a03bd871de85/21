@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcDALNt8Dex57x2u7UKWZaD9Bh49gzRkz73pN64R3GXmc/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "VerySilentFruits#21 Kiwi",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Kiwi",
+      "trait_type": "Fruit"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRAqPo7xEMU9j1ZHZhZiE8VVEgqRscb5oaxGG9ya8jrxy/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #21",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Koala",
+      "trait_type": "TYPE"
+    }
+  ]
+}

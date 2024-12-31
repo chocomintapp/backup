@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmazNopKdG1vmD9dZQZNJsX6T7ym5VkPpmeeT9ZtbgstUS/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/QmazNopKdG1vmD9dZQZNJsX6T7ym5VkPpmeeT9ZtbgstUS/nft.gif",
+  "tokenId": 36,
+  "chainId": "137",
+  "name": "WavyLongAnimals #36",
+  "description": "ベリロン二次創作",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Dobermann",
+      "trait_type": "TYPE"
+    }
+  ]
+}

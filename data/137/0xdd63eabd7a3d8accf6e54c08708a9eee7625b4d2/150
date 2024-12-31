@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWPpJvAgQfU9JM4XeoE6gwfFJ8AMMedtSRqqUYywgMSED/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 150,
+  "chainId": "137",
+  "name": "LIVING MINERAL #150",
+  "description": "",
+  "attributes": [
+    {
+      "value": "ibex",
+      "trait_type": "gene"
+    },
+    {
+      "value": "rare",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "crystal",
+      "trait_type": "material"
+    },
+    {
+      "value": "true",
+      "trait_type": "albino"
+    }
+  ]
+}

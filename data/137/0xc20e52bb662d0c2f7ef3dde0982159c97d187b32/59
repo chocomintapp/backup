@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP5wBHqwjwUCUZBfuFxrRkK4QdsA4ip19u5XVyCTJqu72/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 59,
+  "chainId": "137",
+  "name": "#59",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "UFO",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#B19566",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Alien",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Sirians alien ",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

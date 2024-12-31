@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX5d4sW67kHchzTDoMvvA9px6eofdiZaN8Vnpxw9VfTBk/nft.png",
+  "nftContractAddress": "0xb56e49b6428c85c77df4a936162509962caed661",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "Foreman Beaver",
+  "description": "Foreman Beaver\nA master of construction, carving and all things wood related\n\nChop trees without axes.\n\nYou can craft this item at the Blacksmith in the game.\n\nSupply\n300\n\nCrafting Costs\n300 SFL\n5000 Wood\n1 Apprentice Beaver\n100 Gold\nLink\n\nContributor\nSunflower Land is an open source game built by a community of hundreds of developers and artists across the globe.\n\nCome join us on Github\n\nDesigned by (Gabbi)[https://twitter.com/birborbirb_]",
+  "attributes": [
+    {
+      "value": "Boost",
+      "trait_type": "PURPOSE"
+    }
+  ]
+}

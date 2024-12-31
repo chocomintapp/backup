@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf8P16KSX8adm62S7YCLDpNv4tLRPW7tnKh9Rnn4tZMST/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/Qmf8P16KSX8adm62S7YCLDpNv4tLRPW7tnKh9Rnn4tZMST/nft.png",
+  "tokenId": 59,
+  "chainId": "137",
+  "name": "#4B💍『Yoru』",
+  "description": "💍RabbitGirls Bridal bouquet💐\nRabbit Girls in shining rings and wedding dresses are coming to you.\n\nA mysterious girl who looks good in the night color.🌃\n",
+  "attributes": [
+    {
+      "value": "Bridal",
+      "trait_type": "Series"
+    },
+    {
+      "value": "Yoru",
+      "trait_type": "Character"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdp495g1eUa7WL5sgBJxJ3Gq2WaxbusfrpjJMG6uc66Gd/nft.jpeg",
+  "tokenId": 2,
+  "description": "WOW",
+  "nftContractAddress": "0xa04c7167e71d905fe931e4e90dcd98f1a035d23d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "3DGMAN",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Male"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eye Mask"
+    }
+  ]
+}

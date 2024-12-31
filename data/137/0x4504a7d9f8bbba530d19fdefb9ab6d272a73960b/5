@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVNH352W5maiu9qUPyAUbddtuTRN1HHjxmBM4bn9bHcnr/nft.png",
+  "nftContractAddress": "0x4504a7d9f8bbba530d19fdefb9ab6d272a73960b",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "pack#5",
+  "description": "ベリロンアイスのパックです\nパック内容はベリロン2次創作になります",
+  "attributes": []
+}

@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTELYnpgCkhCUjBkj2mdDKRLLcyUPy5Wps2pFAsBMam2m/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 57,
+  "chainId": "137",
+  "name": "#57",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Sea",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#FFFFFF",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "International maritime signal flags",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Zulu",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPS1h6LtQVP45ReLoTkNsUWPA9pKpihvSv1XUtZVNUT3a/nft.png",
+  "tokenId": 8,
+  "description": "おめでとうございます！",
+  "nftContractAddress": "0x0b60325786dce92dea24ce61e22817ff21791e50",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "2021年10月",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

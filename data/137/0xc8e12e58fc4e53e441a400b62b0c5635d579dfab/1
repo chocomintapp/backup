@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSNUbBBAQpqVkkm9uS4DtPXZRrexaL5skz6HPdrrXv73Y/nft.jpeg",
+  "nftContractAddress": "0xc8e12e58fc4e53e441a400b62b0c5635d579dfab",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "NJCN☆DORAMONTA",
+  "description": "MURAMONTA専用NIJICON🌈",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

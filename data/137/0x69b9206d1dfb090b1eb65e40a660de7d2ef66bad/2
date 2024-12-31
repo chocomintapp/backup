@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcTJejZD22aV4PUgR1tj8NFqpxxDEapgDB1LrmCsBSv7u/nft.jpg",
+  "nftContractAddress": "0x69b9206d1dfb090b1eb65e40a660de7d2ef66bad",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "RAINBoW VoMITS Group Photo 1",
+  "description": "RAINBoW VoMITSをお迎えいただき、  \n本当にありがとうございます！  \nRAINBoW VoMITSの集合写真。  \nいつまでもあなたのそばに。  \nー－－－－－－－－－  \nThank you so much for welcoming RAINBoW VoMITS!  \nGroup photo of RAINBoW VoMITS.  \nAlways by your side.  ",
+  "attributes": [
+    {
+      "value": "#14",
+      "trait_type": "No."
+    },
+    {
+      "value": "#15",
+      "trait_type": "No."
+    },
+    {
+      "value": "#57",
+      "trait_type": "No."
+    },
+    {
+      "value": "#66",
+      "trait_type": "No."
+    }
+  ]
+}

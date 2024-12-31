@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmShH2V3kcWcXHSpDMeVmbQDn95W8e8NnTNwaiSEkrNJEt/nft.png",
+  "tokenId": 7,
+  "description": "Time is Cannabbies.\nLimited Edition of 1【NABBIE PRESENT】",
+  "nftContractAddress": "0x777444fb026cd06f490f87a7dc9dcaacc08fd3a5",
+  "animationUrl": "https://ipfs.io/ipfs/QmShH2V3kcWcXHSpDMeVmbQDn95W8e8NnTNwaiSEkrNJEt/nft.png",
+  "chainId": "137",
+  "name": "CANNABBIES #7",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Nabbie"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Sativa"
+    },
+    {
+      "trait_type": "FASHION",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "ITEM",
+      "value": "Bouquet"
+    }
+  ]
+}

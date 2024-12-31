@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbFyZHD9WtaWj7LNSRUgmFZ6p9yyN95iiJvEWoSSZ9WZ8/nft.jpg",
+  "tokenId": 75,
+  "description": "75/101  \nTaken on Nov 1, 2018  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #75",
+  "attributes": [
+    {
+      "trait_type": "weather",
+      "value": "clear"
+    },
+    {
+      "trait_type": "item",
+      "value": "ship"
+    }
+  ]
+}

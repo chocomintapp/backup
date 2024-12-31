@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT3C1LUWZMCD2rn6ugsMvKUxoiXdVeAamrp3GFYqRKKxX/nft.png",
+  "tokenId": 33,
+  "description": "Hello Ghost Eater Kobold of the Technochrome",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#33 CRYPPL - Ghost Eater Kobold of the Technochrome #55",
+  "attributes": [
+    {
+      "trait_type": "FRWC_ID",
+      "value": "55"
+    }
+  ],
+  "minted": "✅"
+}

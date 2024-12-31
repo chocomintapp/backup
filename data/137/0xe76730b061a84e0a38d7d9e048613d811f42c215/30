@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmau4mAscpUEsWdPHixoztB9B4SnEupt86tuJN4Y921WCj/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "137",
+  "name": "THS #025",
+  "description": "【以】",
+  "attributes": [
+    {
+      "value": "bamboo",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

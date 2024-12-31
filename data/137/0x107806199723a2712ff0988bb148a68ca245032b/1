@@ -1,0 +1,59 @@
+{
+  "image": "",
+  "nftContractAddress": "0x107806199723a2712ff0988bb148a68ca245032b",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "SnpitCameraNFT #10213",
+  "description": "",
+  "attributes": [
+    {
+      "value": "22",
+      "trait_type": "LEVEL"
+    },
+    {
+      "value": "UNCOMMON",
+      "trait_type": "RARITY"
+    },
+    {
+      "value": "0/7",
+      "trait_type": "MINT"
+    },
+    {
+      "value": "16",
+      "trait_type": "INITIAL QUALITY"
+    },
+    {
+      "value": "16",
+      "trait_type": "CURRENT QUALITY"
+    },
+    {
+      "value": "9",
+      "trait_type": "INITIAL EFFICIENCY"
+    },
+    {
+      "value": "9",
+      "trait_type": "CURRENT EFFICIENCY"
+    },
+    {
+      "value": "8",
+      "trait_type": "INITIAL LUCK"
+    },
+    {
+      "value": "8",
+      "trait_type": "CURRENT LUCK"
+    },
+    {
+      "value": "13",
+      "trait_type": "INITIAL BATTERY"
+    },
+    {
+      "value": "13",
+      "trait_type": "CURRENT BATTERY"
+    },
+    {
+      "value": "100.00",
+      "trait_type": "BATTERY REMAINING"
+    }
+  ]
+}

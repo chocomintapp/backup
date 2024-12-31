@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUjpc34V3TXSUTspDR3JmxxaB6btripAzeyqV72DogEv5/nft.png",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmRFLoJCZnXtMxZqqCyMSa26yELyRYuPvUZ5cGvix4kBm1/nft.glb",
+  "tokenId": 23,
+  "chainId": "137",
+  "name": "Chickbit #23",
+  "description": "",
+  "attributes": [
+    {
+      "value": "common",
+      "trait_type": "rarity"
+    }
+  ]
+}

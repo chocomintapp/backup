@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYR78oSKZ7NA5Yxm1TJKDLzQ1XZwMEdyEh3tAscdcMiwa/nft.png",
+  "nftContractAddress": "0x3547172defa1bdf88da0e52887fd68237636f142",
+  "animationUrl": "",
+  "tokenId": 51,
+  "chainId": "137",
+  "name": "HLP GOMA EGG NFT",
+  "description": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Pink Egg"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXVFzuaEU6JpJU7VLGBfEqRraFdDR3p5aP273aBHKxyTx/nft.png",
+  "nftContractAddress": "0x54c5e0b104adb8765a54d094a7d68c1d5701de4f",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "#5 - 3",
+  "description": "This icon was created from a comic.",
+  "attributes": [
+    {
+      "value": "Rita",
+      "trait_type": "Cast"
+    },
+    {
+      "value": "5",
+      "trait_type": "ComicID"
+    }
+  ],
+  "minted": "✅"
+}

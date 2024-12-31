@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXKEYmMfLtxQDspfixRKQHJUwNTR1rrC8pTXopd1uKDS4/nft.png",
+  "tokenId": 10,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n3月15日\n\n変化というのは、にわか雨のように、ある日突然やってくるもので。「あら…先月、こんなにガス代高かったかしら？」という何気ない会話から、それは始まりました。「…ガス代…？」と、何か大事なことを忘れていたような気がした部長は、聞こえてきた言葉を声に出してみました。「ガス代…ガス代……ガス代…」と何度も何度も、頭の中では同じ言葉がループしています。「イーサ…、ダブル…イーサ…ポリ……ゴン？」と、忘れかけていた言葉と記憶が、ゆっくりとゆっくりと浮かび上がってきます。その様子を心配そうに見つめる家族の視線に、ハッと我に返った部長でしたが、思い出した言葉は、とてもとても大切な言葉でした。\n\nMarch 15\n\nChange can come as suddenly as a shower. \"Oh my...was my gas bill this high last month?\" It all started with a casual conversation with his wife. Gas bill...?\" He felt as if he had forgotten something important, and he tried to say aloud the words he heard. The same words looped in his head over and over again, \"Gas bill...gas bill ...... gas bill...\" Ether..., double..., ea..., poly ...... gon?\" and his nearly forgotten words and memories slowly, slowly emerge. The worried stares of his family members brought him back to his senses, and the words he remembered were very, very important words.",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #073 Mar.15",
+  "attributes": [
+    {
+      "trait_type": "CRYPTO CURRENCY",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "SWEAT",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Black"
+    }
+  ]
+}

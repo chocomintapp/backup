@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVik16DgzfHaaaTG5fwFr4x87QAez3H7qTxsT7NZmSP9V/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Kosuke Kitajima × VeryLongAnimals",
+  "description": "A collaboration with [Kosuke Kitajima](https://en.wikipedia.org/wiki/Kosuke_Kitajima), a swimmer who won two gold medals at the Olympics. Created by [AkimuneKawa](https://opensea.io/AkimuneKawa).",
+  "attributes": [
+    {
+      "value": "Swimmer",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaJLx8SHHxBxbC2Bz4ZPpNiUQLFbd4zBjN5ehL5Vqe8ed/nft.mp4",
+  "nftContractAddress": "0xccc279b4adc3c9a17348ca185061a80b144790b9",
+  "animationUrl": "https://ipfs.io/ipfs/QmaJLx8SHHxBxbC2Bz4ZPpNiUQLFbd4zBjN5ehL5Vqe8ed/nft.mp4",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "20230601-motion",
+  "description": "gamaccho's \"20230601\" movie version",
+  "attributes": []
+}

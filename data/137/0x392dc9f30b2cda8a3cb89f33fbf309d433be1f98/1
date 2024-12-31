@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbGKAEAQoCU3NTAXmgzVynamxm669yCitWJQqRntEvsx3/nft.png",
+  "nftContractAddress": "0x392dc9f30b2cda8a3cb89f33fbf309d433be1f98",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "milk tea ticket",
+  "description": "If you collect 10 of this milk tea tickets, you can change to one hand made drawing NFT ",
+  "attributes": [],
+  "minted": ""
+}

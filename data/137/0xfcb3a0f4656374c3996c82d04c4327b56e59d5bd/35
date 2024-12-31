@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmabctWwroJ6Lw5ksJMZ17zqDCjkBhixjnnXR3x5ZhxGb7/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "137",
+  "name": "#0034_Niton_YCB",
+  "description": "#0034_Niton_YCB",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Dodger Blue",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "SpringGreen",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

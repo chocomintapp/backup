@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYq4TfkTmqAm4krC3RWgDjrRGa3TkyVnxAJu8u18ZsVkC/nft.png",
+  "nftContractAddress": "0x7385708ad33302aa8e29355d23a2ca7706a72e53",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "Gentoo Penguin",
+  "description": "Penguin with Jewel",
+  "attributes": [],
+  "minted": "✅"
+}

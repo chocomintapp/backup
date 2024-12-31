@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmenqU7r74RByADEEk8cz31vy4LRYs7J1TqjPb46sic6fv/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 80,
+  "chainId": "137",
+  "name": "TANU-KIDS #079",
+  "description": "中華大好きなTANU-KIDS\n\n麻婆豆腐、酸辣湯麺、餃子、小籠包食べたい",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

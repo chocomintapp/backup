@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRtyLCsGrAAxAppX1rJrS2Kq7RCE67R5A8G4pAzyp8piz/nft.png",
+  "tokenId": 90,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**Ju87 G-1 Stuka**  \nThe Stuka is a dive bomber that struck fear into the hearts of Allied soldiers.\n\nThe \"G\" model was a modification of the \"D\" model and was equipped with two Flak 18 37mm machine guns for anti-tank attack under the wings, commonly known as \"cannon birds.\n\nAlthough its maximum speed was low, less than 400 km/h, it destroyed many Soviet tanks on the Eastern Front, where it was relatively easy to secure air superiority.\n\nIt is also famous as the aircraft of Colonel Hans Ulrich Rudel, the king of tank destroyers, who was called the \"Demon King of the Skies.\n\nAs a hastily built wartime weapon, its balance was very poor, and even super aces had difficulty piloting it.\n\n\n**Ju87 G-1 スツーカ**  \n連合軍兵士を恐怖のどん底に落とし入れた急降下爆撃機「怪鳥スツーカ」のD型を改造し、主翼下に対戦車攻撃用のFlak18 37mm機関砲を2門搭載した通称「大砲鳥」です。\n\n最大でも400km/h以下と低速でしたが比較的制空権を確保しやすかった東部戦線において、数多くのソ連戦車を撃破しました。\n\n「空の魔王」と呼ばれた戦車撃破王のハンス・ウルリッヒ・ルーデル大佐の乗機としても有名ですが、戦時急造兵器らしく機体バランスは非常に悪くスーパーエースを持ってしても操縦は難しかったようです。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0090 Ju87 G-1 Stuka",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Attacker"
+    }
+  ]
+}

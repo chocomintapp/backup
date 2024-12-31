@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmai5PUZBAhMUL7fvyTufF5wAXybaNNwCfseRC3iPbAQPy/nft.jpg",
+  "tokenId": 34,
+  "description": "34/101  \nTaken on Jan 18, 2015  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #34",
+  "attributes": [
+    {
+      "trait_type": "weather",
+      "value": "clear"
+    },
+    {
+      "trait_type": "item",
+      "value": "ship"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNgkcqdpHadsfixAbjd5GYhdCXzi5He1Bih39PeW8j3dr/nft.JPG",
+  "nftContractAddress": "0x6c621364993e5cd4c6468930d287ba76ef64f366",
+  "animationUrl": "",
+  "tokenId": 513,
+  "chainId": "137",
+  "name": "CryptoGoro #Day513",
+  "description": "CryptoGoro #Day513\n\n25/NOV/2022\n\nWorld famous modern artist Mr.Goro makes his self-portrait every day. Each NFG (Non-Fungible Goro) mint only one. This project will continue until his death. Let’s collect your own Goros!!\n\n1487 days before death.\n\nMade by best friend @AswangNFT !!\n",
+  "attributes": [
+    {
+      "value": "Manananggal",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "Goro House",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Artist",
+      "trait_type": "JOB"
+    }
+  ],
+  "minted": "✅"
+}

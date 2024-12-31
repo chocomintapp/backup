@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ7zESqYYf4mtcE1XCErqV98pJ4bXvWuZmB6MV4ZLtP68/nft.jpeg",
+  "nftContractAddress": "0x5b3be86e5d6ef82789fc29fb7e55a786dda17fd3",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Omnikitten",
+  "description": "omnikitten",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "Butts"
+    },
+    {
+      "value": "2",
+      "trait_type": "Cats"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPT7cvc12YyWcUYe9VzRcf6DheMBn6Rr3iRpoAizPcSNF/nft.png",
+  "nftContractAddress": "0x7f7ad3801b86cd9f0b0fd03ae872d9a22c225784",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "birthday #1",
+  "description": "ぴよこのお誕生日",
+  "attributes": [
+    {
+      "value": "birthday",
+      "trait_type": "scene"
+    }
+  ]
+}

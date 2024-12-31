@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZSN3YSyBuH7Wy3wHaMxas89PE18GUtSVHDydgYPf2Rjz/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/QmZSN3YSyBuH7Wy3wHaMxas89PE18GUtSVHDydgYPf2Rjz/nft.gif",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "WavyLongAnimals #13",
+  "description": "ベリロン二次創作",
+  "attributes": [
+    {
+      "value": "Cow",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

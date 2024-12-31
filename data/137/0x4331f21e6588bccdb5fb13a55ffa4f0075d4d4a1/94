@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcVkhw88W3aiw5iA1Y8hznQZ1vRtFjZGPuw3uRuRim2HP/nft.png",
+  "tokenId": 94,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**REPPU model11**  \nIt is a local fighter that was expected to be the successor to the Zero fighter.\n\nIt was originally designed as a shipboard fighter, but work was delayed due to problems with the \"Homare\" engine it was to be equipped with, and even after its first flight, it did not perform as planned.\n\nThe engine was replaced with the 18-cylinder, 2,000-horsepower \"Ha 43\" engine, which recorded a maximum speed of 624 km/h, and was confirmed to have extremely good climbing ability.\n\nAlthough it could not be mass-produced or deployed due to the confusion at the end of the war, it can be said that this aircraft had performance suitable for the successor to the Zero fighter.\n\n\n**烈風 11型**  \n零戦の後継として期待された局地戦闘機です。  \n当初は艦上戦闘機として設計されますが、搭載を予定していた「誉」エンジンの不具合などで作業は遅れ初飛行後も予定した性能を発揮できませんでした。\n\nこの結果を受けてエンジンを18気筒2000馬力を誇る「ハ43」に換装したところ最高速度624km/hを記録し、上昇力も極めて優秀な機体であることが確認されました。\n\n大戦終盤の混乱により量産・配備は叶いませんでしたが、零戦の後継にふさわしい性能を秘めた機体であったと言えます。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0094 REPPU model11",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Fighter"
+    }
+  ]
+}

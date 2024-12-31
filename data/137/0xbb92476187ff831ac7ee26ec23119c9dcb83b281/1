@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUwKbXW35XqipxKhepbuSSj4K3X9TatvPQfpZ9yd4LwLp/nft.jpg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xbb92476187ff831ac7ee26ec23119c9dcb83b281",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Let's have lunch",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

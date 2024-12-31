@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmesSAkGcG1Jb5wFZwoL96NfqCXFRkV3Wnq62RGp9VzaaZ/nft.png",
+  "nftContractAddress": "0x0459f8c8f3ba350d8abdd4680eb595759293a021",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Smile! Kevin",
+  "description": "Kevin is glad to be friends with you!",
+  "attributes": [
+    {
+      "value": "Kevin",
+      "trait_type": "Character"
+    }
+  ]
+}

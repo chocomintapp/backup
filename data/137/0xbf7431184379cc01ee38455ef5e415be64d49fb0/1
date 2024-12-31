@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPosydWhyfwytVabmu7ZbcckTM4kURCuPQATB6fHKWunv/nft.jpg",
+  "nftContractAddress": "0xbf7431184379cc01ee38455ef5e415be64d49fb0",
+  "animationUrl": "https://ipfs.io/ipfs/QmPosydWhyfwytVabmu7ZbcckTM4kURCuPQATB6fHKWunv/nft.jpg",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "GO",
+  "description": "tset",
+  "attributes": [],
+  "minted": ""
+}

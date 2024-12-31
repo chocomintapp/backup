@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTjdMEMhA9ZrnLKrFBnNBsm2ckN4BDyQrRaZUNkCWcRuN/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "格好の付け方を覚えたえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "レイセイ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ステーキ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "モモ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "筋トレ",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "タルヲシル",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

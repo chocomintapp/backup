@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT4XWa18BxUyEtnwZgbeVLqhjFJffPaJZgeSnSwGgaSfX/nft.jpeg",
+  "tokenId": 13,
+  "description": "Calligraphy Devil #13",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #13",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "God"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Odin"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Morax"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Malebolge"
+    }
+  ]
+}

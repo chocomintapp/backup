@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPYhnMFYq6fSg2XRDNjDzcFdDQ3dSfkB5RyAKvUhcvwbp/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "PPP #013",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Navy",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Long straight PK",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cybersuite BL",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Head set",
+      "trait_type": "Accessories"
+    }
+  ]
+}

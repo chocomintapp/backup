@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbQpcT6hpwVggyfnKBTR21JjPGaqNPBGy63yqiZataMZb/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 57,
+  "chainId": "137",
+  "name": "他力本願なえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ヒトマカセ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ドーナツ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "タクアン",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "スイーツ巡り",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "オマエノモノハオレノモノ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

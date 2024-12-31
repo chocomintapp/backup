@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXto21d9g7h9SvXrFdg1RpiTWiUHUM5SCh4WWgctRQz1f/nft.png",
+  "tokenId": 6,
+  "description": "\"sleepsan\" is a soft serve ice cream of soda pop.",
+  "nftContractAddress": "0xe5bef7ef6c3de48a853c76477466cbd4a839762c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sofnchosan pixel art collection #6 \"sleepsan\"",
+  "attributes": [
+    {
+      "trait_type": "taste",
+      "value": "soda pop"
+    }
+  ]
+}

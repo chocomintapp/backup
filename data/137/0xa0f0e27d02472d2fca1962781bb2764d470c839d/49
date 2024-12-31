@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYwD3t1PAisFPBb5Eppb3My6tXn5uTn1syzhHMMNbWZfL/nft.png",
+  "tokenId": 49,
+  "description": "ずっと同じ脚で立ってたら太くなっちゃった。\n\nI've been standing on the same leg for a long time, and it's gotten thicker.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Flamingo",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Flamingo"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

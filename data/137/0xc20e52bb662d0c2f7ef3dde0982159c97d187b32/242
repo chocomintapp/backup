@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVnzJeNhoYATUsqNNdWfkRe5vZu6ygAz5UmHCfLaeS6Wn/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 242,
+  "chainId": "137",
+  "name": "#242",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#FFD3BC",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#494949",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Skull in the back alley",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull",
+      "trait_type": "face"
+    },
+    {
+      "value": "Combat readiness",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Crack",
+      "trait_type": "special1"
+    },
+    {
+      "value": "M202 FLASH",
+      "trait_type": "Accessory1"
+    }
+  ],
+  "minted": "✅"
+}

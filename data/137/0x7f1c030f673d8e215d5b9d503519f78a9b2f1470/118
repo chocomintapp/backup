@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPUuoooJYHNaTTKpu2ccmFdaXB8ew5N2xEpyDxxWqZGwH/nft.jpg",
+  "nftContractAddress": "0x7f1c030f673d8e215d5b9d503519f78a9b2f1470",
+  "animationUrl": "",
+  "tokenId": 118,
+  "chainId": "137",
+  "name": "Dawn Nup Snake #1",
+  "description": "The snake, a symbol of regeneration, will give you the opportunity to heal yourself.",
+  "attributes": [
+    {
+      "value": "Dawn",
+      "trait_type": "Attribution"
+    },
+    {
+      "value": "Nup",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "East",
+      "trait_type": "Birth"
+    },
+    {
+      "value": "Elder",
+      "trait_type": "Age"
+    }
+  ]
+}

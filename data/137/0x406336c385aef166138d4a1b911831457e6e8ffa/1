@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQxcp74rVGCxSKgMK7JdZ7ZLgD76bHs4A5TmadnCPCt2X/nft.jpg",
+  "tokenId": 1,
+  "description": "Good smell photo",
+  "nftContractAddress": "0x406336c385aef166138d4a1b911831457e6e8ffa",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Myfavorite"
+}

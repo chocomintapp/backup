@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRPukUvt6j68LiWHiZ4W94BDuKEZXwhASW9Qx7DdPLTyW/nft.jpg",
+  "nftContractAddress": "0x066f93516cbe6d648aba011f595608551ebc2d57",
+  "animationUrl": "https://ipfs.io/ipfs/QmNYSwh3JoHhTT57queE5Vfc9rk7KbQF25Gchtd82NSqcc/nft.glb",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "#002 VRfoodNFT chocolate cornet ChocoColone チョココロネ ローポリ3DCG suisaiNFT howdyNFT 3DCG low-poly Optimization photogrammetry",
+  "description": "3DCG low-poly Optimization photogrammetry\n\nChoco Coronet is a sweet bread that originated in Japan\nチョココロネは日本発祥の菓子パンです\n\nローポリチョココロネ  choco cornet\n頂点数1505　三角面ポリゴン1868\n軽量化 最適化フォトグラメトリ\n\n\nゲームエンジンのユーザーマニュアルによるとポリゴン数はモバイルデバイスでは、メッシュあたり300から1500ポリゴン デスクトッププラットフォームでは1500から4000ぐらいが理想的と書かれています\n\n今回は2000ポリゴン以下まで削減しました\n\n数十万ポリゴン、数百万ポリゴンであろうと単純な形状であればここまで軽量化できます\n\n\nVRfoodNFT chocolate cornet ChocoColone チョココロネ ローポリ3DCG suisaiNFT_howdyNFT\n\nCopyright 2021~ howdyNFT suisaiNFT\nlit.link/howdynft\nlit.link/suisaiNFT\nlinktr.ee/howdynft\nlinktr.ee/suisaiNFT\ntwitter.com/howdynft\ntwitter.com/suisainft\n\nopensea.io/suisaiNFT\nopensea.io/collection/vrfoodnft\nopensea.io/collection/suisainft-collection\n\n_0x4B607b5e4617237cE46c88b73685db0bC37546C8_suisaiNFT_howdyNFT_vrfoodnft",
+  "attributes": [
+    {
+      "value": "low-poly",
+      "trait_type": "Photogrammetry"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdN8kEX8UpGY6qC4rwy6EVfSM1eXgcyjmiRddmzN4gUXD/nft.PNG",
+  "nftContractAddress": "0x14bba37cc3d9030fafe7fb900af7fea00dbfe9c5",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "Prophet girl PFP",
+  "description": "Prophet girl_PFP",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

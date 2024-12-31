@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSx8rKHQyTrPqxZP6wUJop3Wv1pboDzfsk9KAri2wPMVv/nft.png",
+  "tokenId": 2,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**Zero Model 21**  \nThis is the initial model of the masterpiece fighter that shook the world.\nIn the early stages of the Pacific War, it was a legendary fighter.\n\nThe Model 21 was the first Zero fighter to be mass-produced for use on aircraft carriers.\nIt boasted amazing fighting performance, cruising range, and massive firepower from its 20mm machine gun.\n\nAfter successfully leading the first attack on Pearl Harbor, it continued to play a remarkable role in supporting the rapid advance of the Japanese military.\nIts Allied codename was ZEKE.\n\n\n**零式艦上戦闘機 21型**  \n世界を震撼させた傑作戦闘機の初期型です。\n太平洋戦争初期には伝説レベルの無双状態でした。\n\n二一型は空母搭載を前提に大量生産された初の零戦で\n驚異的な格闘性能と航続距離、20mm機銃からなる大火力を誇りました。\n\n初陣の真珠湾攻撃を成功に導くと、その後も目覚ましい活躍を続け\n日本軍の快進撃を支えました。\n連合軍のコードネームは「ZEKE（ジーク）」です。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0002 ZERO model 21",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Fighter"
+    }
+  ]
+}

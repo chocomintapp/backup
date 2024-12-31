@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmegFAPUrQXUEVzTVa7yDpK1c1BqU3irLG7ZnRqKKen3Gd/nft.gif",
+  "tokenId": 13,
+  "description": "",
+  "nftContractAddress": "0xa38f30ee1089b44c5421d393f7986d4a8f90268e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Nuke",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Yellow Beanie"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Rx"
+    },
+    {
+      "trait_type": "Clotes",
+      "value": "Blue Hoodie"
+    },
+    {
+      "trait_type": "Bag",
+      "value": "Yellow Backpack"
+    },
+    {
+      "trait_type": "Pet",
+      "value": "Bunny"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Nuke"
+    }
+  ]
+}

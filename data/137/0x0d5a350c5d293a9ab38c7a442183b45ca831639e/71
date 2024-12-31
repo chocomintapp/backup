@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmasYH6xicWsXK9kw7RanCE8uXTrh3tWLkz1VoNgE9zQCi/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 71,
+  "chainId": "137",
+  "name": "Day30 Nana's Art #89",
+  "description": "グミっておいしいよね。\n\nI like gummies.",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

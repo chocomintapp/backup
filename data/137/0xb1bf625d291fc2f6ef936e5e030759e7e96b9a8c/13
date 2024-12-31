@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYF6MbbKbXdr2fYQ3KaA7XTjiUez9VjisXP3nLK49HCvQ/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "HUNIMAL #13",
+  "description": "Human + Animal = Hunimal",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Whale Shark + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Naked",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Flat Top",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "US navy",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

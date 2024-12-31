@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWXrKimwQEu5fxoF7apqtU4QCnjhCCfgRF8gKit1kksyJ/nft.png",
+  "tokenId": 2,
+  "description": "Created by MoonshotManClub\nMoonshotBoy3D prototype #1 wide",
+  "nftContractAddress": "0xf5e0ba22e29bbf054984165e97334214fccb9e9d",
+  "animationUrl": "https://ipfs.io/ipfs/Qmek2iUwWTicNvSY88BrsJKjC5PtwP2na8mTcoNj3ae45T/nft.glb",
+  "chainId": "137",
+  "name": "MSBoy3D prototype #1 wide",
+  "attributes": []
+}

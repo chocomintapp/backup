@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV3XSpMgj6aY8bw6gyPuis8GFXq9eyY9w5qXsfvCe5ond/nft.png",
+  "tokenId": 61,
+  "description": "If I practice diligently every day, I too can climb a tree.\n\n毎日コツコツと練習すれば、私だって木に登れるんです。",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Pig climbing a tree",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Pig"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVqvd1EbSZaV7BUQkKVBakkShGfxWvUN3mC6CLTEYeGxi/nft.png",
+  "tokenId": 11,
+  "description": "Gold Picture Frame",
+  "nftContractAddress": "0x9a5b20e07f1826d9202abe092f8dd45f89cc583f",
+  "animationUrl": "https://ipfs.io/ipfs/QmbmWUhPTHH5ncL8k4S5vs8KtD4mR7Tt3PY8RQAsSTS2oN/nft.glb",
+  "chainId": "137",
+  "name": "digital-signage-proto_001",
+  "attributes": []
+}

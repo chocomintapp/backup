@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVZMkwZTF5poNrLfhAnLqu9WsN8voQNbpbpWyjtfUi1iB/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "TANU-KIDS #025",
+  "description": "学生に変身したTANU-KIDS\n\n耳に着けたリボンがお気に入り",
+  "attributes": [
+    {
+      "value": "Student",
+      "trait_type": "Occupation"
+    }
+  ],
+  "minted": "✅"
+}

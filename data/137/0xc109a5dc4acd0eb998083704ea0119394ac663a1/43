@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZQcYgD6eBfysnKWkxDGeWyNe9PjUqMtsVUMP1NerzjPY/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "137",
+  "name": "#43",
+  "description": "dinosaur",
+  "attributes": [
+    {
+      "value": "Dinosaur",
+      "trait_type": "RACE"
+    }
+  ]
+}

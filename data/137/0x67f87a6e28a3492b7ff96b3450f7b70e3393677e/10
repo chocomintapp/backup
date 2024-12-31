@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNMq96LcnGg1ToENsNsbEKRYUgemBANYjL7JinUxh7tYr/nft.png",
+  "nftContractAddress": "0x67f87a6e28a3492b7ff96b3450f7b70e3393677e",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "VeryPoliticalLongAnimals #049",
+  "description": "Chief of Okinawa Development Agency",
+  "attributes": [
+    {
+      "value": "Dolphin",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Bronze",
+      "trait_type": "Grade"
+    }
+  ]
+}

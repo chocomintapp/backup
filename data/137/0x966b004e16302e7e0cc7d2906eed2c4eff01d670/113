@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdSj4aCzRzCFFak5is41JzD9SFZ3Z5pfnEMGeujti6qD6/nft.png",
+  "tokenId": 113,
+  "description": "Created by [Monstarz](https://opensea.io/Monstarz?tab=created)Limited 1/1A little sad Monstarz. This Monstarz is minted by their original contract (MSZ).",
+  "nftContractAddress": "0x966b004e16302e7e0cc7d2906eed2c4eff01d670",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#0113 Maverick",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "UnCommon"
+    }
+  ]
+}

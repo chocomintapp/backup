@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbPQEQKaPqZDrSck88fcrBRh4gBhPrfhpscF6eAFSpEtU/nft.png",
+  "tokenId": 1,
+  "description": "February 3rd is Setsubun.👹  \nIn Japan, people throw beans to drive away Oni.  \n(Oni is Japanese demon)",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#1 Setsubun (English)",
+  "attributes": [
+    {
+      "trait_type": "Language",
+      "value": "English"
+    }
+  ],
+  "minted": "✅"
+}

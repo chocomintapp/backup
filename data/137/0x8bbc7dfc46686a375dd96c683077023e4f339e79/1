@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbVyay77hskbNja5LHh2gbJ6N8Zq9jPiaBR3XqmNT1dZM/nft.jpg",
+  "tokenId": 1,
+  "description": "Hello,my name Chaco!",
+  "nftContractAddress": "0x8bbc7dfc46686a375dd96c683077023e4f339e79",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "chaco1",
+  "attributes": [],
+  "minted": "✅"
+}

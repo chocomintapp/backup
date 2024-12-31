@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTgN4iQERFpkTrRojhdLec44fwZ8AAv6xFsUpqEiiKdEC/nft.png",
+  "tokenId": 45,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TYPE 89 I-go**  \nIt was the first domestically produced tank for the Japanese Army. It became the vehicle that determined the flow of Japanese tanks afterwards.\n\nIt's a great way to make sure you're getting the most out of your time in the field.\n\nIn fact, it was the first mass-produced diesel engine tank in the world.\n\n\n**八九式中戦車 イ号**  \n日本陸軍初の国産制式戦車にして、その後の日本戦車の流れを決めた車輌となりました。\n\n登場時期が早く太平洋戦争では活躍の場が限られていましたが\n主力の座を九七式中戦車に譲った後も補充車輛や本土決戦兵器として終戦まで現役で維持されました。\n\n実は世界で初めて大量生産されたディーゼルエンジン戦車でもあります。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0045 TYPE 89 I-go",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ],
+  "minted": "✅"
+}

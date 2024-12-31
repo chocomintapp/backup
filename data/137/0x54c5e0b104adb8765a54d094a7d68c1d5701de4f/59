@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTjUJWZGhZCShPZrchPKtxpzBZrB3ZkJKVmzGYFmHwtxh/nft.png",
+  "nftContractAddress": "0x54c5e0b104adb8765a54d094a7d68c1d5701de4f",
+  "animationUrl": "",
+  "tokenId": 59,
+  "chainId": "137",
+  "name": "#14 - 3",
+  "description": "This icon was created from a comic.",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Suzuki-san",
+      "trait_type": "Cast"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZF9xY1dsnvMV5mvtH34GfCP9A4o8EDV55NZSwre3SDrt/nft.gif",
+  "nftContractAddress": "0xb56e49b6428c85c77df4a936162509962caed661",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "British Flag",
+  "description": "A beautiful flag crafted at Sunflower Land using wood and SFL",
+  "attributes": []
+}

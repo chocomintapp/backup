@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWoVn1hshBTqCWg47sAvu6HCdp3pPxSbA3zxyAXkcAvuq/nft.png",
+  "tokenId": 2,
+  "description": "The CUPANIMALS live inside the cup.",
+  "nftContractAddress": "0x5cf2bbdb3d6a9b5970e3acb99a94a196a1fd2d40",
+  "animationUrl": "https://ipfs.io/ipfs/QmWoVn1hshBTqCWg47sAvu6HCdp3pPxSbA3zxyAXkcAvuq/nft.png",
+  "chainId": "137",
+  "name": "CUPANIMALS_bear_or_rabbit",
+  "attributes": []
+}

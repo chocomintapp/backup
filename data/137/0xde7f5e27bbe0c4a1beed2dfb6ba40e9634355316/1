@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaBB7ZzCSVwmVnHU7SdjcHzfM2U2sFDETWFxBsHo45Epe/nft.png",
+  "tokenId": 1,
+  "description": "ultra Man season2",
+  "nftContractAddress": "0xde7f5e27bbe0c4a1beed2dfb6ba40e9634355316",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "ultraMan",
+  "attributes": []
+}

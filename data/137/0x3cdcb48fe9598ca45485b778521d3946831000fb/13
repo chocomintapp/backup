@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQhQmNvYurfQCL6Wvu6ExxAxDsvAodQyNZe1sHWNjZ5KF/nft.png",
+  "nftContractAddress": "0x3cdcb48fe9598ca45485b778521d3946831000fb",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "OOTD #DAY13",
+  "description": "Record the daily coordination of a dog on Polygon.",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "None",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "None",
+      "trait_type": "Eyewear"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Skin color"
+    },
+    {
+      "value": "Chewing gum",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Simple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "None",
+      "trait_type": "Special"
+    }
+  ]
+}

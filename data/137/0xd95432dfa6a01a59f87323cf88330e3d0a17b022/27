@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQNHML82UD5yy2g2YEV6LmtNpUKkT2bs1G3Y3h3DAxYLK/nft.jpeg",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "137",
+  "name": "大吉 Rocket #27",
+  "description": "あなたを月へ連れて行きます。笑\n\nTake you to the moon.hahaha\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープ official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection",
+  "attributes": [
+    {
+      "value": "rocket",
+      "trait_type": "special item"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTzNH9HrhEGCc8TwBqneLEPaHZDGGxXBKcsuxSnXmZWKU/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 79,
+  "chainId": "137",
+  "name": "TANU-KIDS #078",
+  "description": "マジシャンになったTANU-KIDS\nタネも仕掛けもありません⁇⁇\n",
+  "attributes": [
+    {
+      "value": "Magician",
+      "trait_type": "Occupation"
+    }
+  ]
+}

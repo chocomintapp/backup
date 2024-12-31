@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeKcYJfKeQQpo94vFrHHRGUgpiWtQ9Q5adEBqt67YysWN/nft.gif",
+  "nftContractAddress": "0x1f6ecb1fce10939bceccf68fe7ed805e8cc5139c",
+  "animationUrl": "https://ipfs.io/ipfs/QmeKcYJfKeQQpo94vFrHHRGUgpiWtQ9Q5adEBqt67YysWN/nft.gif",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "SPAM DAO",
+  "description": "Test 1",
+  "attributes": []
+}

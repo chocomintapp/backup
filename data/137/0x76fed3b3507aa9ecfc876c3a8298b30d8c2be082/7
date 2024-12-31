@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSHjijBY4mk9u5inewaWgNhuf9o6uPCgS92UjnNptiNUk/nft.gif",
+  "nftContractAddress": "0x76fed3b3507aa9ecfc876c3a8298b30d8c2be082",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "タコ○チ",
+  "description": "これはタコの隊長です。",
+  "attributes": [],
+  "minted": "✅"
+}

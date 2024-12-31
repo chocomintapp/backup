@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRis8MnzC7pYoKb3QiMghgXmdVLBPGwZvaAZe93DhE9ZB/nft.png",
+  "tokenId": 23,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.\nIn particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.\n\nここは、日本海の離島を結ぶ内航船。\n\n島と島を結び、車と人を渡すその船の舳先に座るねこ。\n\n今日はどんな出会いがあるのかなぁとワクワクしながら到着するのを待ち侘びているようです。",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "舳先　-Hesaki-",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Ama Town"
+    },
+    {
+      "trait_type": "Model",
+      "value": "SENBYO"
+    }
+  ]
+}

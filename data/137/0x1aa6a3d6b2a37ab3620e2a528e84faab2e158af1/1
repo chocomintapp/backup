@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeFAhH1XyzZBCo9EL1gZ71u7cMAfyX6AsZjNVnkSXDFhx/nft.png",
+  "tokenId": 1,
+  "description": "2022年1月30日にdemmpaのユーザー登録をした方々に配布している画像です。",
+  "nftContractAddress": "0x1aa6a3d6b2a37ab3620e2a528e84faab2e158af1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Welcome demmpa（2022.01.30）",
+  "attributes": []
+}

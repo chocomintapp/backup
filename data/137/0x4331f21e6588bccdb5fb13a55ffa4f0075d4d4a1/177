@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRf7aX1u8TDcZuGhtEmc23bjf7LNo3jQ63jgodYbMfzkE/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 177,
+  "chainId": "137",
+  "name": "WMM #0177 KETTENKRAD",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KETTENKRAD**  \nIt is a small semi-armored railcar that was operated in large numbers by the German Army.\n\nMore than 8,000 vehicles were produced, and they were used for a variety of purposes, from transporting personnel to towing aircraft and artillery, reconnaissance missions, and facilities for power lines.\n\nWith its small size and high traveling ability, the semi-terrain vehicle was not only used as a handyman on the battlefield, but was also used as a vehicle to transport personnel, tow aircraft and artillery, perform reconnaissance missions, and as a facility for electric lines. It was so popular that it continued to be produced even after the war.\n\n**ケッテンクラート**  \nドイツ軍が大量に運用した小型の半装軌車です。\n\n8000輌以上も生産され、人員の輸送から航空機や火砲の牽引、偵察任務、電線の施設など様々な用途で使われました。\n\n小回りのきくサイズと半装軌車ならではの高い走破性で戦場の便利屋としてだけでなく、戦後も生産されるほどの人気を博しました。\n",
+  "attributes": [
+    {
+      "value": "Germany",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Other",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

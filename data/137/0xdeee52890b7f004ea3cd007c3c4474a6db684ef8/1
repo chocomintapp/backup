@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUqsWcacBhYAFkHEyW5BKTnY4p1uqBTU9QfPLK8NixBJK/nft.gif",
+  "tokenId": 1,
+  "description": "ぷにぷに動くおにぎりちゃん\n初の独自コントラクト作品です",
+  "nftContractAddress": "0xdeee52890b7f004ea3cd007c3c4474a6db684ef8",
+  "animationUrl": "https://ipfs.io/ipfs/QmUqsWcacBhYAFkHEyW5BKTnY4p1uqBTU9QfPLK8NixBJK/nft.gif",
+  "chainId": "137",
+  "name": "おにぎりちゃん",
+  "attributes": []
+}

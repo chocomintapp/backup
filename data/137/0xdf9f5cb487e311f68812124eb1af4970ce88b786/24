@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQZUuPdBto11HoUb8PnmRsg4t68fqakGisGcf6NmmBguQ/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "137",
+  "name": "Working Ganmichan #16",
+  "description": "Ganmichan is a master of delivery",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "delivery",
+      "trait_type": "situation"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZtrHUoQCQQhGzfWRT2SFY5SRdUHLao2vAEBeSC1D7fGY/nft.jpg",
+  "tokenId": 2,
+  "description": "CryptoEshiritoris全作品です。 新たな作品が発行されるとこのNFTの画像が差し替えられます。 発行上限：20（うち10個は初期参加者10人に配布される予定です。)",
+  "nftContractAddress": "0xe4f7b9c742515dcb5a5d25a4b4ef4f83d2265c9e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "CryptoEshiritoris All Works",
+  "minted": "✅"
+}

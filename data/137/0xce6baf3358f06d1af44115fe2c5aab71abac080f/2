@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb5yQvAZSvYmK8cjb6SfofmhL2brrkafDAdSVS7yMTN8k/nft.PNG",
+  "tokenId": 2,
+  "description": "飼っているだけで心穏やかになるネコちゃんを見ていきませんか？",
+  "nftContractAddress": "0xce6baf3358f06d1af44115fe2c5aab71abac080f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Easy cat 3333",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "light blue"
+    }
+  ]
+}

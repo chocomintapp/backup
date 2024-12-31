@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmahGnhykLPcZUthgDswRtHMgfJKuK2wbjqLsnEJewDDQT/nft.jpg",
+  "tokenId": 8,
+  "description": "Samurai face",
+  "nftContractAddress": "0xf484afcad7e1b9a92d5ef661dc55624031d71a80",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "samurai"
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVjxQ2nhepMCqPn3oPi7Y32ymFpSGgD8E5dwWXiNp8NVH/nft.jpg",
+  "nftContractAddress": "0x7f1c030f673d8e215d5b9d503519f78a9b2f1470",
+  "animationUrl": "",
+  "tokenId": 93,
+  "chainId": "137",
+  "name": "Dawn Nup Rabbit #5",
+  "description": "The rabbit, a symbol of curiosity, will give you the opportunity to start something new.",
+  "attributes": [
+    {
+      "value": "Dawn",
+      "trait_type": "Attribution"
+    },
+    {
+      "value": "Nup",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "North",
+      "trait_type": "Birth"
+    },
+    {
+      "value": "Young",
+      "trait_type": "Age"
+    },
+    {
+      "value": "Engineer",
+      "trait_type": "Class"
+    }
+  ]
+}

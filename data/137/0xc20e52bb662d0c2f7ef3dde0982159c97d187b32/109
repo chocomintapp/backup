@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUm2DcK1oKGJpa55eUbUBGJStFRbQL9iX1JD2C96uCu1y/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 109,
+  "chainId": "137",
+  "name": "#109",
+  "description": "",
+  "attributes": [
+    {
+      "value": "corrosion",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#76782B",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Eyeball(monster)",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Large lime-colored iris",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ],
+  "minted": "✅"
+}

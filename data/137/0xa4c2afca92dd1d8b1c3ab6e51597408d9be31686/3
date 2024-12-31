@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWWJCWJBiAnq8pTrwhyAiLpS99CVZb2YJL6FeG9wWN21V/nft.jpg",
+  "nftContractAddress": "0xa4c2afca92dd1d8b1c3ab6e51597408d9be31686",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "0091",
+  "description": "日本語\nこの町は荒廃している。\n\nギャングが町を牛耳り、保安官だってやつらの前では顔色を伺う始末だ。\nあんな幼い子でさえ、亡き母親が遺した借金をやつらに返すために娼婦として働かざるを得ない状況だ。\n\n今日は、見知らぬ客が来ている。\nパッと見は町のゴロツキどもと同じようだが、なぜかこの町に新しい風を吹かせてくれそうな男だ。\n単なる初老の勘だがね。\n\n-----------------------------------------------------------Bartender「いらっしゃい、バーボン・ウイスキー・スコッチ、どれにしますか。」\nRogue「一番高いものを頼むよ。」\nBartender「ポケットが平らだけど、支払いできるんだろうね」\nRogue「この町には、お宝が眠っているんだってな。会計はそれからでも遅くないだろう」\nBartender「あんたも結局あのギャングどもと同じってわけか」\nRogue「男ならお宝と聞いて黙っている方がおかしいぜ！」\nRogue「一つ言っておくが、俺をあんな酔いどれどもと同じにしてもらっちゃ困るぜ。」\nBartender「あんた、大声でそんなことを言ったら…」",
+  "attributes": [
+    {
+      "value": "Bartender",
+      "trait_type": "Character 1"
+    },
+    {
+      "value": "Rogue",
+      "trait_type": "Character 4"
+    },
+    {
+      "value": "#14 へ続く",
+      "trait_type": "To be continued"
+    }
+  ]
+}

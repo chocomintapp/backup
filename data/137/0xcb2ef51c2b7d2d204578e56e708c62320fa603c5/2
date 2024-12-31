@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTCXFyh4Lv4KxzXrr7bWYeq3cERr9p7UYmeyzq93vucVn/nft.png",
+  "tokenId": 2,
+  "description": "Japanese Specter \"Blue Demon\" \n日本の妖怪「青鬼」",
+  "nftContractAddress": "0xcb2ef51c2b7d2d204578e56e708c62320fa603c5",
+  "animationUrl": "https://ipfs.io/ipfs/QmddZw9kZsHinKkYST34D8ZGVbZQXUJWfjtCP4zLFv6yhq/nft.glb",
+  "chainId": "137",
+  "name": "Mono Daruma ＃2（青鬼）",
+  "attributes": [
+    {
+      "trait_type": "Daruma",
+      "value": "青鬼"
+    }
+  ]
+}

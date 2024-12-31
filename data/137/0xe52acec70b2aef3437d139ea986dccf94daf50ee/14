@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWdFVqUCExjj5KS5JfCXxCtxW11bEhBWVkGxCshnYo2BR/nft.PNG",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimal #44",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Raccoon",
+      "trait_type": "TYPE"
+    }
+  ]
+}

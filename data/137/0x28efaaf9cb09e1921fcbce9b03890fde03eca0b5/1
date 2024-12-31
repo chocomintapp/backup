@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPVDSNM5oR7gYWsRYHXN56oqqKo86MZ6gaVkAbBSUdtMq/nft.jpg",
+  "tokenId": 1,
+  "description": "Natto pasta and soup",
+  "nftContractAddress": "0x28efaaf9cb09e1921fcbce9b03890fde03eca0b5",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Natto pasta",
+  "attributes": []
+}

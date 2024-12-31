@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmToqv8g5RvcxEjG2Sfe5KXLVH8THpUmbdhHn7jWr5gsCR/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "137",
+  "name": "THS 5/7",
+  "description": "",
+  "attributes": [
+    {
+      "value": "dog",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

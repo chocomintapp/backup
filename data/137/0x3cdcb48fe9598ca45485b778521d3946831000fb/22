@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYQXHWSV8bKqzAwvGqY2zyg3Eh5oE2A987C8r8rpcZA2N/nft.png",
+  "nftContractAddress": "0x3cdcb48fe9598ca45485b778521d3946831000fb",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "OOTD #DAY22",
+  "description": "Record the daily coordination of a dog on Polygon.",
+  "attributes": [
+    {
+      "value": "Baseball cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "None",
+      "trait_type": "Eyewear"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Skin color"
+    },
+    {
+      "value": "None",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Simple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "None",
+      "trait_type": "Special"
+    }
+  ],
+  "minted": ""
+}

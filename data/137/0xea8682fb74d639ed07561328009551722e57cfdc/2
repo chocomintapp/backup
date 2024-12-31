@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP5fJ11XQLWBx8QiNfCdWzDFrEZD6K9jeyLCPnMmrpR6S/nft.png",
+  "nftContractAddress": "0xea8682fb74d639ed07561328009551722e57cfdc",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Castle Taka",
+  "description": "Castle Matsu was built in the Edo period and is one of the three great flat mountain castles in Japan.",
+  "attributes": [
+    {
+      "value": "Castle_Matsu",
+      "trait_type": "castle"
+    }
+  ],
+  "minted": ""
+}

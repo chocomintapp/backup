@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbCRB7b8cN5NjxppCC5dAcKg7gXDFeYZYhARBLthR6V23/nft.jpg",
+  "tokenId": 17,
+  "description": "Stones that shine in 7 colors",
+  "nftContractAddress": "0x9c89337c80abf33d7f27ccb7a700052f605abe86",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Stone"
+}

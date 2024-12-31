@@ -1,0 +1,56 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUrrBf1v97h294r3tsL5zEtT9NWBkTB7k2vWKBBSxbdkU/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "137",
+  "name": "#0033_Hot Magenta_Bst",
+  "description": "#0033_Tanshiki_MmR_Hot Magenta_Bst\nブーストアイテムにて変化しています！",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Hot Magenta",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Hot Magenta",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Hot Magenta",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    },
+    {
+      "value": "MofuMofu",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Afro",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Studs",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Metal",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "XX",
+      "trait_type": "Eye"
+    }
+  ]
+}

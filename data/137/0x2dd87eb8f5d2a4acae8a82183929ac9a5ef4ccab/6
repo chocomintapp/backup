@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTeBknfTY53ksoeuThD5Ugpuht4WaBfJp3GLFs19ixHfj/nft.PNG",
+  "tokenId": 6,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n1月17日\n\nグループ関連会社合同のゴルフコンペへ参加する「ねじねじドーナツ部長」です。駐車場へ車を停めて、クラブハウスへ向かうトコロで、上からポトリ…。ゴルフバッグにカラスのXXXが付いてしまいました。「幸先の悪い一日だな…」とショックを受けていると、仲の良い同期の部長から「良かったじゃないか、ドーナツが無事で」という言葉。そっか、ドーナツが無事なんだから良かった！と、早々に立ち直った日曜の朝の出来事でした。\n\nJan 17\n\nThis is \"Screwdriver Donut Department Manager\" participating in a joint golf competition of group affiliated companies. I parked my car in the parking lot and was on my way to the clubhouse when I saw a small birdie from above.... I got a crow's XXX on my golf bag. I was shocked and thought, \"This is a bad day for me...,\" when my good friend, the head of the department, said to me, \"You're lucky your doughnut is safe. I see, he said, \"Well, I'm glad the doughnuts are safe!\" and he recovered quickly on Sunday morning.",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #016 Jan.17",
+  "attributes": [
+    {
+      "trait_type": "CAP",
+      "value": "White"
+    },
+    {
+      "trait_type": "KNIT JACKET",
+      "value": "Others"
+    },
+    {
+      "trait_type": "KNIT PANTS",
+      "value": "Others"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Grey"
+    }
+  ]
+}

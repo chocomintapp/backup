@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUhqfan1P3dmuDY8SUiAwYN65Ya9YeniDQ6BjtA34kvvB/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #163 June.13",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n6月13日\n\nこれまでにも、ドーナツに宿る「意志」のようなものを感じることは、たびたびありました。そして、ドーナツが何かに興味を示すことも、何度も目の当たりにしてきました。これまでの出来事を総合して考えると、どうやら…このドーナツは自分の意志によって部長と一体化している…としか思えませんでした。\n\nあの日の朝。ドーナツが部長の体にすっぽりとハマり、自分で外すことはできなくなって以来。実生活で制限されることも多々ありますが、「禁則や暗黙のルールがあるからこそ、面白い」と考える部長にとって、それはもはや\"不自由\"ですら、ありませんでした。\n\n「君は、どうして私を選んだんだ…？」部長は、独り言のようにドーナツに問いかけてみました。この時、部長は特に何かを感じとったわけではありませんが、部長の周囲では歪みのような現象が起こっていました。\n\n\n--------------\n\nJune 13\n\nHe has often sensed a kind of \"will\" in doughnuts. And he has also witnessed many times that the doughnut shows interest in something. Considering the totality of what had happened so far, it seemed...this doughnut had become one with him by its own will...that was all I could think.\n\nThat morning. Since the doughnut has been completely hooked into his body and cannot be removed by himself. He is often restricted in his real life, but for him, who believes that \"the prohibitions and unspoken rules are what make it interesting,\" they are not even \"inconveniences\" any more.\n\nWhy did you choose me...? He asked the donut as if talking to himself. At this moment, he did not sense anything in particular, but there was a distortion of sorts going on around him.",
+  "attributes": [
+    {
+      "value": "Orange",
+      "trait_type": "Cap"
+    },
+    {
+      "value": "Barefoot",
+      "trait_type": "Foot"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "Distortion",
+      "trait_type": "ENVIRONMENT"
+    },
+    {
+      "value": "Monotone",
+      "trait_type": "Jacket"
+    },
+    {
+      "value": "Grey",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Black",
+      "trait_type": "T-Shirt"
+    }
+  ]
+}

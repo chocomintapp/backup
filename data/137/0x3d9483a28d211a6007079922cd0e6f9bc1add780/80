@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXaeNzLX9pA8rcHhUqsMZSKRRrrr2nb2BTaAwhC6L8Qjs/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 80,
+  "chainId": "137",
+  "name": "Neon #80",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "blue hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "yellow cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "none",
+      "trait_type": "hand"
+    },
+    {
+      "value": "sad",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

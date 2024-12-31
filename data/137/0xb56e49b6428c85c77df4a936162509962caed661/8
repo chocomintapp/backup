@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVkoQuFyWXYEhWoQZ8w86WP3r7yx3uorqz8T8o31DpyUY/nft.png",
+  "nftContractAddress": "0xb56e49b6428c85c77df4a936162509962caed661",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "Radish Pie",
+  "description": "Radish Pie\n\nDespised by humans, loved by Goblins! Owning this item unlocks crop seeds\n\nYou can craft this item at the Kitchen in the game.\n\nSupply\n\nUnlimited\n\nCrafting Costs\n?\n\nLink",
+  "attributes": [
+    {
+      "value": "Resource",
+      "trait_type": "PURPOSE"
+    }
+  ]
+}

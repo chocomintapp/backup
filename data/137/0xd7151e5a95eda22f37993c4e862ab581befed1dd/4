@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcxMW58d24mLzyBiyLtcwak6BnweNdVRDqriq2fZXDQ4g/nft.png",
+  "nftContractAddress": "0xd7151e5a95eda22f37993c4e862ab581befed1dd",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "#003 Tim Tether Black Cat",
+  "description": "Tim works to deliver valuable gifts and luggage.",
+  "attributes": [
+    {
+      "value": "Crypto",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Delivery",
+      "trait_type": "JOB"
+    }
+  ],
+  "minted": "✅"
+}

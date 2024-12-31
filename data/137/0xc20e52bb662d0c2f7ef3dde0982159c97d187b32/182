@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcrABiULu3jz6hktrsVo861TrFQtEAFP9GTq5e6Za7aSk/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 182,
+  "chainId": "137",
+  "name": "#182",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Different world",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "Burning",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Elemental jewels",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Flame jewel",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "The power of fire",
+      "trait_type": "special1"
+    },
+    {
+      "value": "Flame of anger",
+      "trait_type": "Accessory1"
+    }
+  ],
+  "minted": "✅"
+}

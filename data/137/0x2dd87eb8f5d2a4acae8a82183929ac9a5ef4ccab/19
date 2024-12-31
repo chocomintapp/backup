@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYAXFogFUUAaV9MmeLXBipUGjdZNTYoUSuxi9yyji8ZMe/nft.png",
+  "tokenId": 19,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n4月2日\n\n木曜日。大好きなファッションブランド「Wearable Donuts」製の新作パーカーが届いてご満悦の部長です。今回の新作は、上下ともにカラフルなドーナツがデザインされたセットアップで、ランダムに生成された配色パターンでこの世界に同じものが存在しない…という、まさに１点モノのアイテムなのです。…そう、既にお気づきの方もいるように、ここ最近の偽物騒動にはピッタリの服です。もし、このアイテムと全く同じモノを身につけた偽物がいるとしたら、それは偽物ではなく本物だということになるのですが…。果たして？\n\nApril 2\n\nThursday. He was very happy to receive his new hoodie made by his favorite fashion brand, Wearable Donuts. This new item is a set-up with colorful donut designs on both the top and bottom, and the randomly generated color patterns make it a truly one-of-a-kind item. ...Yes, as some of you may have already noticed, this is the perfect outfit for the recent fake fiasco. If there is a fake wearing the exact same thing as this item, then it is not a fake, but the real thing.... What do you think?",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #091 Apr.2",
+  "attributes": [
+    {
+      "trait_type": "CLASSIC GRASSES",
+      "value": "Special"
+    },
+    {
+      "trait_type": "HOODIE",
+      "value": "Wearable Donuts"
+    },
+    {
+      "trait_type": "KNIT CAP",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MASK",
+      "value": "Green"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "Wearable Donuts"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Black"
+    }
+  ]
+}

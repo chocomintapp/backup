@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma3mQDujqHPhBEwxU13H3qio9RT4zRYQjQij1x494S8Pj/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "137",
+  "name": "TANU-KIDS #037",
+  "description": "キョンシーに変身したTANU-KIDS\n\n誰が何故なりたかったのかわかりませんが\n可愛いキョンシーに変身",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Jiangshi",
+      "trait_type": "History"
+    }
+  ]
+}

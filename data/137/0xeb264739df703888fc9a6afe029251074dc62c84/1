@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbR8hxcaq1S7n7pSJuARc8V8bPEaeZtZxoDEnnQLPgCEz/nft.jpg",
+  "nftContractAddress": "0xeb264739df703888fc9a6afe029251074dc62c84",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "T1",
+  "description": "CDAOGT-1",
+  "attributes": []
+}

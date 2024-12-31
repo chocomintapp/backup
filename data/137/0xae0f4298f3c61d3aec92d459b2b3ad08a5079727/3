@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma3FebEWY6KMhRU4yedJ4UDnyU4b2UAzrS9e6rttuLpuc/nft.jpg",
+  "nftContractAddress": "0xae0f4298f3c61d3aec92d459b2b3ad08a5079727",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Ueyama Genesis",
+  "description": "新世紀にまつわるエトセトラ",
+  "attributes": [
+    {
+      "value": "20230729",
+      "trait_type": "date"
+    },
+    {
+      "value": "1",
+      "trait_type": "version"
+    }
+  ],
+  "minted": "✅"
+}

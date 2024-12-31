@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRUxjnfAnjCHoKp3c9cXMuu1ibB9BdmccuWgg7zP7AKYE/nft.png",
+  "tokenId": 3,
+  "description": "Sushi is generally a Japanese food that combines cooked rice and mainly seafood. Traditionally eaten with wasabi.",
+  "nftContractAddress": "0xafcaf44db4a79e28075111aa018295cc5a23a826",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "SUSHI"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSd7tREftkkFmW27zdgRBQighA3fRTXGs2gQuvEk9iUyb/nft.png",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 91,
+  "chainId": "137",
+  "name": "Day37 Umitsuru's Art #109",
+  "description": "緑って、癒されますよね。\n\nGreen is soothing, isn't it?",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

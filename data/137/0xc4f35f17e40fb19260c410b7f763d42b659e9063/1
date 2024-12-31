@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVX9Zah1VA6JkZ5PsZXViwUZja1TR92AbrJuyhS58tDvV/nft.jpeg",
+  "nftContractAddress": "0xc4f35f17e40fb19260c410b7f763d42b659e9063",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "MDSB【a】",
+  "description": "we are MEDASI BOYS!!!\nMDSB for short.\nWe are a sustainable group that continues to live for love and peace.\nthanks.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

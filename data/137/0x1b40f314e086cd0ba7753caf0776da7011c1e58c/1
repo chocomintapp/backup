@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXNwhmuFvGiNETJE757zz5onMdRA9whpVoFgsQqx6kLE5/nft.png",
+  "tokenId": 1,
+  "description": "logo",
+  "nftContractAddress": "0x1b40f314e086cd0ba7753caf0776da7011c1e58c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "camaocande"
+}

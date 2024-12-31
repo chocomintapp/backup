@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXfkE9PLom18nFzvdZ5u85rp81HHwhFAbCvFJAB64CHRE/nft.png",
+  "nftContractAddress": "0xc583194d13afca23b75e1209df55d06f2f97fa2b",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Alpha Kong #2",
+  "description": "8,888 Alpha Kongs Club Matic Version by Alpha Kongs Club, made by the artists behind Start Wars, Game of Thrones , Pokémon and more.",
+  "attributes": [
+    {
+      "value": "green",
+      "trait_type": "background"
+    },
+    {
+      "value": "chain g silver",
+      "trait_type": "chains"
+    },
+    {
+      "value": "blue dark",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "fannypack red",
+      "trait_type": "front item"
+    },
+    {
+      "value": "blue",
+      "trait_type": "fur"
+    },
+    {
+      "value": "silver",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "septum silver",
+      "trait_type": "noserings"
+    }
+  ]
+}

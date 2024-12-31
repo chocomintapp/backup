@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcriHvWWqHJURXroTDb6VATYMBZE84ZJStyqVbaLC12V7/nft.jpeg",
+  "tokenId": 4,
+  "description": "Human + Animal = Hunimal",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "HUNIMAL #4",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Hunimal"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Eagle + Human"
+    },
+    {
+      "trait_type": "FASHION",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "Ducktail"
+    },
+    {
+      "trait_type": "STYLE",
+      "value": "50s Greaser"
+    }
+  ]
+}

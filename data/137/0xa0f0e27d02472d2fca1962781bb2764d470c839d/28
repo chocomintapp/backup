@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmekD8HByfnf93isH8YFEX7FwqZzie4Cqngkd6H3A51q3g/nft.png",
+  "tokenId": 28,
+  "description": "これがないと眠れないの\n\nI can't sleep without it.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Panda holding a bamboo",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Panda"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

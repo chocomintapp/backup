@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSUsEMhXKgKv7SWEms7QKYVj2JvrBMW2HhEpyHSMsu33T/nft.png",
+  "nftContractAddress": "0xbaf31e2889e0582a29bbdd6a6258e43c14d6f364",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Cow Baby",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Cow",
+      "trait_type": "TYPE"
+    }
+  ]
+}

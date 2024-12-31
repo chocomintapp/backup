@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmeh2iZUXzmgQ7rYHQs9ZwhbAcY8RbYp8hB2vU5FRMYpQN/nft.png",
+  "tokenId": 36,
+  "description": "明日から本気出すぞ。\n\nI'm going to get serious tomorrow.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cat（Nobita　のびた）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZCBCei3qxKwAfF6sh5baa3uqrRwLMFi47ry9r8JVPsw1/nft.jpeg",
+  "tokenId": 21,
+  "description": "My favorite vehicle.\nOne of the bikes I wanted to ride at the time.",
+  "nftContractAddress": "0xe9c4d57d69ad06ab266e41141db6b8c7779cd984",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Fav #006 STEED400_dot",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNnGrqr4jGE9afiU5PTJqBgjAR32RuGQKkhsT2WrfdgU1/nft.png",
+  "nftContractAddress": "0x2a4961a4abfb884fcd36b597e4044f55455d191f",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "NoisyLongAnimals #5",
+  "description": "Secondary works of VeryLongAnimals",
+  "attributes": [
+    {
+      "value": "Bear",
+      "trait_type": "TYPE"
+    }
+  ]
+}

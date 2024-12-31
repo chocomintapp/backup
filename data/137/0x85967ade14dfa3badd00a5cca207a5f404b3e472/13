@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWwczFDY6ydxvwBSnP3NSnyk5Utj4HP1nBeuWSd5T7EyD/nft.png",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "BasketBallBabies ＃12",
+  "description": "Basket Ball Babies \nもぐら\n\nBasket Ball Babies\nMole",
+  "attributes": [
+    {
+      "value": "MOLE",
+      "trait_type": "TYPE"
+    }
+  ]
+}

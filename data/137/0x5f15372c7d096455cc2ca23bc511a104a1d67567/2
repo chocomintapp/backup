@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT8sJQRAt2QiEQKbyZUifCtYQEWJYM9h3QX1ewwtBBMzd/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmT8sJQRAt2QiEQKbyZUifCtYQEWJYM9h3QX1ewwtBBMzd/nft.png",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Black hair girl",
+  "description": "A girl with black hair.\n\nI'm from Japan. I'm busy every day, but I'll do my best.",
+  "attributes": [
+    {
+      "value": "PinkOpal",
+      "trait_type": "Charactor"
+    }
+  ],
+  "minted": "✅"
+}

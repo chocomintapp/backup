@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPBCJfULGxdpiFjoWhXKCbfdrWQMnnrVtiC3Gy3inMjXG/nft.jpeg",
+  "tokenId": 3,
+  "description": "お兄ちゃんに私の肉食べられた。\n\nMy brother ate my meat.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Angry Rabbit",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Rabbit"
+    }
+  ]
+}

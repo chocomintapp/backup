@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ2vaE4Taq9SBF8NF7iacHoS8rcqRsA5uzd1fra9pCMnH/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 1059,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #1059",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Hamster",
+      "trait_type": "TYPE"
+    }
+  ]
+}

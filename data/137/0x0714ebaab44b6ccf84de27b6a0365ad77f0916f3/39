@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbmYFnHKtcTNjx5VPUHAGWASjAaENFoXaeTw7BxvxqDuc/nft.gif",
+  "nftContractAddress": "0x0714ebaab44b6ccf84de27b6a0365ad77f0916f3",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "137",
+  "name": "ToyRobot #39",
+  "description": "ToyRobotsCollection is a collection of 5,000 3D voxel toy robots handcrafted by Japanese creator Toko.Owners can participate in the running of the collection via Discord, and primary distributors will receive NFTs for their icons, as well as avatars for the metaverse if they wish.",
+  "attributes": [
+    {
+      "value": "None",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Naked",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Body Color"
+    },
+    {
+      "value": "Wings",
+      "trait_type": "Backpack"
+    },
+    {
+      "value": "Mask",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Square",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Chainsaw",
+      "trait_type": "Arm"
+    },
+    {
+      "value": "Geta",
+      "trait_type": "Shoe"
+    },
+    {
+      "value": "1st",
+      "trait_type": "Generation"
+    }
+  ]
+}

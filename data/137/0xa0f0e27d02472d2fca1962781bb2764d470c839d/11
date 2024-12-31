@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW1ZNB6JGgWCuZrrkXCYh8cm2Dgke538YDBBPGBNLYcC9/nft.jpg",
+  "tokenId": 11,
+  "description": "靴下履かないと、冬は越せない。\n\nIf I don't wear socks, I won't make it through the winter.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cats with cold feet",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

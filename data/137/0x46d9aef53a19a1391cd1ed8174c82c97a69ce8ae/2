@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVsaXEJ81ToeZJkCmTb2Ebxb6isnSSx1AgEhBS9bnfFYa/nft.png",
+  "nftContractAddress": "0x46d9aef53a19a1391cd1ed8174c82c97a69ce8ae",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "test2",
+  "description": "aadfa",
+  "attributes": [
+    {
+      "value": "100",
+      "trait_type": "va2"
+    }
+  ]
+}

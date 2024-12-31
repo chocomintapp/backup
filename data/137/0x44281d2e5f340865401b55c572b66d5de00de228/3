@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYFW1E91LWnidtAxzjSWcn6BtZGU9Tgdw8kk66Q8V41EH/nft.jpg",
+  "tokenId": 3,
+  "description": "Those with fox masks hurry onward.",
+  "nftContractAddress": "0x44281d2e5f340865401b55c572b66d5de00de228",
+  "animationUrl": "https://ipfs.io/ipfs/QmVyK3z11PBq1N89Xr8Aw7osbvrDPTfQyUXapWsrrc5Gbx/nft.glb",
+  "chainId": "137",
+  "name": "Original KitsuneMen / Run",
+  "attributes": []
+}

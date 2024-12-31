@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbsiJtmoy5XoH2EQbh2ccycVSJuzuGvqw5tEtepqztUZD/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "137",
+  "name": "THS 4/7",
+  "description": "",
+  "attributes": [
+    {
+      "value": "lily flower",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

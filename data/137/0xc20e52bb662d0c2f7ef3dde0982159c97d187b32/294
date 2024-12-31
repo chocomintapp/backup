@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaN8UT1cYqcS8mysLw9qgaz9mikebTzQcZnAkvDj6Awmp/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 294,
+  "chainId": "137",
+  "name": "#294",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Die Schöpfung",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#313131",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Composer",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Franz Joseph Haydn",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Jabot",
+      "trait_type": "Accessory1"
+    }
+  ],
+  "minted": "✅"
+}

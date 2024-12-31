@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT3kKS4MBJ3zDJ2J5YwDGQUWdbn8Fxbk8D9uDdG3ZdrBQ/nft.png",
+  "tokenId": 8,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.\nIn particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "廊下　-Rouka-",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "SENBYO"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Kouunkaku"
+    }
+  ]
+}

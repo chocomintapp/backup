@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdj3QuAq1yjqRstuApA8EirssSZoSDVxGG1vcB2HAvjZk/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 102,
+  "chainId": "137",
+  "name": "#0097_Niton_CBryMBK_CBK",
+  "description": "#0097_Niton_CBryMBK_CBK",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Cerulean",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Dark Magenta",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Teal",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "Feature",
+      "trait_type": "Feature"
+    }
+  ],
+  "minted": "✅"
+}

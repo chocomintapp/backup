@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYvK4hnUJ7bqadu6hb85hWmbFPf4Ce7jQ6YTWSxqPmYqK/nft.jpg",
+  "tokenId": 1,
+  "description": "早く走る秘訣？肉を食べることだ。\n\nThe secret to running fast? Eat meat.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Horse eating meat",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "horse"
+    }
+  ]
+}

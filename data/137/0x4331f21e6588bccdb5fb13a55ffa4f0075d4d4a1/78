@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYDFGUfJs1S8SrKZX5J61Zq82qDmNPAUJuBf2NptKr1SL/nft.png",
+  "tokenId": 78,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**NAGATO 1945**  \nThis silhouette is battleship Nagato in 1945.\n\nIt is famous for being the first battleship in human history to be equipped with a main gun larger than 40 cm.\n\nAt the time of her commissioning, she boasted outstanding performance in all areas, including attack, defense, and speed.\n\nTogether with her sister ship Mutsu, she is one of only seven battleships in the world that are considered to be the most powerful in the world.  \nIt was one of the \"Big Seven.\n\n**戦艦 長門 1945**  \n人類史上初めて40cmを超える主砲を装備した事で有名な戦艦です。\n\n就役当時は攻撃力・防御力・スピードと全てにおいてズバ抜けた性能を誇り、姉妹艦「陸奥」とともに世界に7隻しか存在しない最強の戦艦として「ビッグ7」の1隻に数えられていました。\n\nこのNFTは1945年頃の長門のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0078 NAGATO 1945",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Battleship"
+    }
+  ]
+}

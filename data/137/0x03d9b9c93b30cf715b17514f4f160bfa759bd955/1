@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeuvRRamGNTqzFSdnt4r3TEoCyYdnAAqLx6X6NJFySx55/nft.png",
+  "nftContractAddress": "0x03d9b9c93b30cf715b17514f4f160bfa759bd955",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "TEST_1K",
+  "description": "1K USDT",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

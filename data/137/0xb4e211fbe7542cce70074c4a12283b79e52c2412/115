@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbffGAU3pgnf2RSKegho1dU4KGQaJmJMwJJWHRT3xJ6CR/nft.png",
+  "tokenId": 115,
+  "description": "Contemporary art style Medjed found a silver box",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/QmbffGAU3pgnf2RSKegho1dU4KGQaJmJMwJJWHRT3xJ6CR/nft.png",
+  "chainId": "137",
+  "name": "medjed no.115/1000",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

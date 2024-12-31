@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdVjdagW9nct8JEaf2MSqyAeRywTbLWByaJnAkbWZytPo/nft.jpeg",
+  "tokenId": 1,
+  "description": "ペンギンネコです。",
+  "nftContractAddress": "0x30c0758fc893843254920e908517df7e89cb9ea6",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "penguin neko",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

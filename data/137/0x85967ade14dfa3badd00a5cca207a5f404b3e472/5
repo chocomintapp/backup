@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWMwYTpJ5QGaRiqNH3eWHi78vi5y8JJ7fop1fF82oeJVS/nft.png",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "BasketBallBabies #5",
+  "description": "BasketBallBabies\nぱんだ\n\nBasketBallBabies\nPanda",
+  "attributes": [
+    {
+      "value": "Panda",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWoEXzSSy6DfMm1Qw6vkjSakyP6fNAi6dwapmgxXNDqDL/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #1",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Penguin",
+      "trait_type": "TYPE"
+    }
+  ]
+}

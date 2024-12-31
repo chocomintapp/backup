@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTX6dNhi5hSfhYjjdr1dbeQcYJTGpEWTkmoAS796CU9Hn/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "大吉 Earthen pipe #26",
+  "description": "そうです！あの男の親戚です！ドカーン！\n\nThat's right!That man's relatives!Dokaaaaaaan!\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープル公式↓\n\nhttps://opensea.io/collection/coverdpeople-collection",
+  "attributes": [
+    {
+      "value": "Earthen pipe",
+      "trait_type": "special item"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSqVA7VWY5PA2Tt4pLnhF5jp6WtpEgPR5Locc2V9hBBXA/nft.jpg",
+  "tokenId": 2,
+  "description": "By reading the QR code with your smartphone camera and holding it over this NFT, you can view the augmented reality (AR) model. \n\n3D+AR display on a smartphone browser\n\nThe QR code is a link to the IPFS 3D viewer.\nhttps://ipfs.fleek.co/ipfs/QmNMMaq9Jok81pcvngdFxciDD8eg3mwTKH5YMsbhiZiqqz/\n\nThe artwork for this 3D model is based on Decentraland's Logo. For more information about Decentraland, please visit https://decentraland.org/",
+  "nftContractAddress": "0x9a5b20e07f1826d9202abe092f8dd45f89cc583f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "DCL AR"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXwZwY29Paq7MRxGZ1f8gCPpkJCMjn8EJ1BHur5GXKQD2/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmXwZwY29Paq7MRxGZ1f8gCPpkJCMjn8EJ1BHur5GXKQD2/nft.gif",
+  "tokenId": 63,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #63",
+  "description": "ベビロン二次創作",
+  "attributes": [
+    {
+      "value": "Clione",
+      "trait_type": "TYPE"
+    }
+  ]
+}

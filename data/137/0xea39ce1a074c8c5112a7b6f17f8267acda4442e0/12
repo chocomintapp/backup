@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQR5JSpB5gueu1WoFMYNoogVVqrRksdnamp8V3Xqeqf63/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "TANU-KIDS #011",
+  "description": "釣り人に変身したTANU-KIDS\n毎回、船酔いします\n木の枝で作った竿で大物ねらいます",
+  "attributes": [
+    {
+      "value": "Angler",
+      "trait_type": "Sports"
+    }
+  ],
+  "minted": "✅"
+}

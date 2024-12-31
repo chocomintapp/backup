@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeZbm7vdguvFZZrCH999W4Z5MdKMPdcVPc8UZ5vJtBZUa/nft.png",
+  "nftContractAddress": "0xbaa5fc3e0f87b95276ae8fffbd23a861335171b5",
+  "animationUrl": "https://ipfs.io/ipfs/QmeZbm7vdguvFZZrCH999W4Z5MdKMPdcVPc8UZ5vJtBZUa/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Cyber A",
+  "description": "WEB3 Name icon",
+  "attributes": [
+    {
+      "value": "A",
+      "trait_type": "ALPABET"
+    },
+    {
+      "value": "SQUARE",
+      "trait_type": "BOX"
+    },
+    {
+      "value": "RED",
+      "trait_type": "COLOR"
+    }
+  ]
+}

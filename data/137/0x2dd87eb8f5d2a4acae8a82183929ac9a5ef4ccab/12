@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTpZJWAsRVWuuNFiYpSp865BjXcya2YujSPAxrJHFxZ9w/nft.png",
+  "tokenId": 12,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n3月22日\n\n日曜日。普段なら家族と一緒に過ごす日常も、今日ばかりはちょっと様変わりをしていました。自宅から離れた街ナカに小さな拠点を設置して、しばらくは「Mr.O」の潜伏先と正体を探ることに全精力を捧げようと決意した部長です。目立った行動はできないものの、潜伏しながら、すこしずつ手がかりを集めています。気づけば、もう２日も髭を剃っていません。毎朝の日課だったはずのドーナツも…。\n\nMarch 22\n\nSunday. It was a Sunday, and my normal day-to-day life with my family was a little different today. He set up a small base of operations in a town far from his home. He decided that for the time being, he would devote all his energy to finding out where Mr. O was hiding and who he was. Although he couldn't do anything remarkable, he was slowly gathering clues while hiding. He hasn't shaved for two days, and he hasn't eaten a donut since he started his morning routine...",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #080 Mar.22",
+  "attributes": [
+    {
+      "trait_type": "ARM BAND",
+      "value": "White"
+    },
+    {
+      "trait_type": "HOODIE",
+      "value": "Special"
+    },
+    {
+      "trait_type": "JEANS",
+      "value": "Others"
+    },
+    {
+      "trait_type": "KNIT CAP",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "ROUND GLASSES",
+      "value": "Special"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Grey"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXfnT6H311bazfWXxSd8b2ikLgXpyfDcGUhjFzugVxx4P/nft.png",
+  "nftContractAddress": "0xd91587f67e5c05a3f2e93377d54a601265791a10",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "ASCT #2",
+  "description": "",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "Silverish Line"
+    },
+    {
+      "value": "1",
+      "trait_type": "Yellow Background"
+    }
+  ]
+}

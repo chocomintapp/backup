@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV4F3o3qxcRMdxxCejmByXfcfHkGfnJoSc3Mqqfm9YpSn/nft.png",
+  "tokenId": 28,
+  "description": "Cherry salmon is a trout that is landed only in spring. Its moderate fat goes well with horseradish.\n\nサクラマスは春にのみ水揚げされるマス。程よい脂はホースラディッシュと相性が良い。",
+  "nftContractAddress": "0x0722bb43a4ce0c10a73fe30781b98d9e64adc28c",
+  "animationUrl": "https://ipfs.io/ipfs/Qmf6WEYZ6VbpXDdXcGLGEY73qh2EWj9LAaPN2dKPhp9XGL/nft.mp4",
+  "chainId": "137",
+  "name": "桜鱒 - Sakuramasu【Cherry Salmon】"
+}

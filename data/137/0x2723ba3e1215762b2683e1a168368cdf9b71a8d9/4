@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU43qwzC5CysF21Fw3t4LXPhweUfS4DWPd6eyaejJFzsL/nft.png",
+  "tokenId": 4,
+  "description": "ユキちゃんが、大好きなアランのためにプレゼントを用意したようですが……？",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#2 ユキちゃんのバレンタイン大作戦",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Language",
+      "value": "Japanese"
+    }
+  ]
+}

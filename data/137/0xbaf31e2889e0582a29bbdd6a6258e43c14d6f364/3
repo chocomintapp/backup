@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT8DTjhbY5UCuBbvebfdkfx3yXVksz1kbhesRX8CSv3mK/nft.png",
+  "nftContractAddress": "0xbaf31e2889e0582a29bbdd6a6258e43c14d6f364",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Pig Baby",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Pig",
+      "trait_type": "TYPE"
+    }
+  ]
+}

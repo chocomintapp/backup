@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmasqVCadoQWeGUa2PQeWGtD3HnfuZhsefw5gudWWoy9Qt/nft.jpg",
+  "tokenId": 39,
+  "description": "39/101  \nTaken on Jun 27, 2015  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #39",
+  "attributes": [
+    {
+      "trait_type": "time",
+      "value": "senset"
+    }
+  ]
+}

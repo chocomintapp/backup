@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQdzi3VEEc7Sdo7q3xKd8DVrsXwxjywuAmfQaBuDFTAXU/nft.png",
+  "nftContractAddress": "0x06e69bcf3f9dad2346b2b7d3e4e51ed1898431c2",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "chew",
+  "description": "chewlogo",
+  "attributes": []
+}

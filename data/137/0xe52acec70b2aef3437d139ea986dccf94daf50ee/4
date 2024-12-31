@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS65FUo7uLHTUCUqoKqB18tcGC9oqRstaMUB5UJhbUvYg/nft.PNG",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimal #49",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Dolphin",
+      "trait_type": "TYPE"
+    }
+  ]
+}

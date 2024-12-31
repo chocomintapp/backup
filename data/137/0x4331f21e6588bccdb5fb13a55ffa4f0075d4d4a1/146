@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUcpnWkyyRiLBSDvSqB1Wjh58dcuSHPqicLcby3NhuCcs/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 146,
+  "chainId": "137",
+  "name": "WMM #0146 SU-152",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SU-152**  \nIt is a powerful self-propelled artillery gun developed by the Soviet Union based on the KV-1 heavy tank.\n\nThe 152mm gun has tremendous power, and its armor-piercing grenade has a warhead weight of 47.8 kg, which thanks to its mass can destroy 110mm of armor at a distance of 2000m.\n\nBecause of the huge size of the ammunition, the warhead and charge had to be loaded separately, resulting in a slow rate of fire and a low shell capacity of 20 rounds.\n\nHowever, its power was so great that it destroyed many of its arch-enemies, such as the Tiger I and Panther, earning it the nickname \"Beast Hunter\" from the Soviet soldiers.\n\n**SU-152 重自走砲**  \nソ連がKV-1重戦車をベースに開発した強力な自走砲です。\n152mm砲の威力はすさまじく、徹甲榴弾の弾頭重量は47.8kgもあり\nその質量も手伝って距離2000mで110mmもの装甲を破壊できました。\n\n弾薬が巨大なため、弾頭と装薬を別々に装填する必要があり、結果的に発射速度は遅く、砲弾の搭載量も20発と少なめでしたが、やはりその威力は絶大で、宿敵のティーガーⅠやパンターなどを多数撃破したことから、ソ連兵士からは「野獣ハンター」と称されました。\n",
+  "attributes": [
+    {
+      "value": "Soviet",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

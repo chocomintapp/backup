@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWSVd1bc6HaomizkbmfJoUSdzuYJMBwJnNLAMbZ8aFjr9/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 119,
+  "chainId": "137",
+  "name": "Day51 Umitsuru's Art",
+  "description": "食パンは、バターとチーズを乗せて焼くのが一番好き。\n\nI like to bake bread with butter and cheese on top.",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

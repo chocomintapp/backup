@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWyct8KoY4T2BPHJjwo9yCmp2uGAfWPsWiZJ6Gv4owE83/nft.gif",
+  "nftContractAddress": "0x6c621364993e5cd4c6468930d287ba76ef64f366",
+  "animationUrl": "",
+  "tokenId": 587,
+  "chainId": "137",
+  "name": "CryptoGoro #Day587",
+  "description": "CryptoGoro #Day587\n\n07/FEB/2023\n\nWorld famous modern artist Mr.Goro makes his self-portrait every day. Each NFG (Non-Fungible Goro) mint only one. This project will continue until his death. Let’s collect your own Goros!!\n\n1413 days before death.",
+  "attributes": [
+    {
+      "value": "Kyoko",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "Gorop",
+      "trait_type": "T-SHIRT"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://bafybeidu6yj5ih7eq66vqywfxnrjbkms3e4fbhq6jpmq3ztalbgdbvsl7q.ipfs.nftstorage.link/5.png",
+  "nftContractAddress": "0xd6905bc25e377050505182ef1b6a1ca5f32f251f",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "A Friendly Hoverfly",
+  "description": "There’s a friendly hoverfly which always visits my garden.  We didn’t name her yet, but she’s so cute!  Just like other hoverflies, she loves flowers so much.  She will show herself a lot from now on!",
+  "attributes": [
+    {
+      "value": "Hoverfly",
+      "trait_type": "Style"
+    }
+  ],
+  "minted": "✅"
+}

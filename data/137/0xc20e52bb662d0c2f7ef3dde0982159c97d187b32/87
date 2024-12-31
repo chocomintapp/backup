@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVWgw1hYgTFsruGxEdQbfFqsyXJ54bEnRygMqxomUnSh9/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 87,
+  "chainId": "137",
+  "name": "#87",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Festival",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#EA161E",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Mask",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Issohadores ",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ],
+  "minted": "✅"
+}

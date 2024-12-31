@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdtgPpkuXjR2Jd7RZnadX75s6BZTgQyJD2w7YMbFMD7XH/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 66,
+  "chainId": "137",
+  "name": "TANU-KIDS #065",
+  "description": "ゾンビに変身したTANU-KIDS",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "zombie",
+      "trait_type": "History"
+    }
+  ]
+}

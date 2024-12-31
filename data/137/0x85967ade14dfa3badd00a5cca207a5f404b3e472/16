@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbKDWMiR7npRc5frk63wEnGRQpb7GADPesnCNQgxSCLm2/nft.png",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "137",
+  "name": "VeryLongAnimalsEveryday",
+  "description": "【毎日ベリロン】\n【VeryLongAnimalsEveryday】\nNo.1\n「長くありたい」\n\"I wanna be long\"",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "No."
+    }
+  ]
+}

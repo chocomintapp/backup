@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV7rZcemU4RSQuDG2Nn2V9F3vQb9NqAf6LSHoa9XqKg18/nft.png",
+  "nftContractAddress": "0x9cabe85905b53fe6a60ae8a98d27959794e14b84",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "pink",
+  "description": "pink girl",
+  "attributes": []
+}

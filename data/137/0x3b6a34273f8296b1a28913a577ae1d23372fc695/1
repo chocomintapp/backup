@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZQ1mXocinBWvdAgoApP6CvRC542JDLu8Pd3hjHWdSxjf/nft.jpg",
+  "nftContractAddress": "0x3b6a34273f8296b1a28913a577ae1d23372fc695",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "bbb",
+  "description": "NFTです",
+  "attributes": [
+    {
+      "value": "red",
+      "trait_type": "color"
+    },
+    {
+      "value": "SS",
+      "trait_type": "rank"
+    }
+  ]
+}

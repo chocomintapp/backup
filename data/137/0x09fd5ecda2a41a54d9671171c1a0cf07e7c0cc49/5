@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYHBFCew19TL8DzWkTrwA9VqwWTx1NbKL3uRUs4MqkrqA/nft.gif",
+  "nftContractAddress": "0x09fd5ecda2a41a54d9671171c1a0cf07e7c0cc49",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Very Simple GIF Chameleon",
+  "description": "This is a derivative collection of Very Simple Animals.",
+  "attributes": []
+}

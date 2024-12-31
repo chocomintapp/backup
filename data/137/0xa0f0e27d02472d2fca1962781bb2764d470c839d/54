@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTb3omaXTzNdt9MpMSBY8zLczPYVmLsQW2E7pTMmfcnyK/nft.png",
+  "tokenId": 54,
+  "description": "バナナの親玉を発見しました。\n\nI have discovered the banana parentage.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Monkey and Banana",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Monkey"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

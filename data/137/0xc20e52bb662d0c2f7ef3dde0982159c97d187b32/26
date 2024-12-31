@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNnQwz3G1QAzf3zEV4BiUrFWsdpPQyhyswCA7eebatDLW/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "#26",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#FFC968",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#553600",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "12 ecliptical constellations",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Libra",
+      "trait_type": "face"
+    },
+    {
+      "value": "During measurement",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "plate",
+      "trait_type": "special1"
+    }
+  ],
+  "minted": "✅"
+}

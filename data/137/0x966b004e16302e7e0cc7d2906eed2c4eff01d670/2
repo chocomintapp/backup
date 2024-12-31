@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPJMK7yxbHRgGQ1pwcVWXHEXb9AKsQQgXaeu99JQoa8RG/nft.png",
+  "tokenId": 2,
+  "description": "Limited 1/1\n\nA little sad Monstarz. This Monstarz is minted by their original contract (MSZ).",
+  "nftContractAddress": "0x966b004e16302e7e0cc7d2906eed2c4eff01d670",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#0002 LiquidSneaker",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "UnCommon"
+    }
+  ]
+}

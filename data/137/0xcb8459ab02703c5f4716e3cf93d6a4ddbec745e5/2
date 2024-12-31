@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW52hoSUMkUfM5rjD5N1JeJscWd5FpcUkJXQvGiFKZ1HK/nft.jpeg",
+  "tokenId": 2,
+  "description": "Cute zombie",
+  "nftContractAddress": "0xcb8459ab02703c5f4716e3cf93d6a4ddbec745e5",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "zombie",
+  "attributes": []
+}

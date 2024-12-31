@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQa7pghnjsRPo3GnmTXhWLgntf62YMyb7N81esPrfMjr3/nft.png",
+  "tokenId": 1,
+  "description": "Delivering delicious pork directly from the production area.",
+  "nftContractAddress": "0x6107721ca403091406d89f9659c89dc44737a378",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Umai-ton",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Pork"
+    },
+    {
+      "trait_type": "Weight(g)",
+      "value": "300"
+    },
+    {
+      "trait_type": "Deliciousness",
+      "value": "100"
+    }
+  ]
+}

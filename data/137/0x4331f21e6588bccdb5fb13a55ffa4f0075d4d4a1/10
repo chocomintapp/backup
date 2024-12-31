@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVzE9swBhY7bmbTxk3PqHGVZCr1A6emmz4GPWHpJEiTkU/nft.png",
+  "tokenId": 10,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**IL-2M Sturmovik**  \nThe IL-2M is a Soviet ground-attack aircraft with a total production count of 36,163, the highest in the history of military aircraft.\n\nThe engine, cockpit, and fuel tank are all in one place.\nBecause of its heavy armor and powerful firepower\nIt was called the \"flying tank.\n\nIt was nicknamed the \"Sturmovik\" (marauder) because it was the absolute synonym for a marauder.\n\n**IL-2M シュトルモヴィク**  \n総生産機数が36163機という\n軍用機史上最多を誇るソ連の対地攻撃機です。\n\nエンジン・コクピット・燃料タンクをひとまとめにして\n防弾鋼板で覆うという重装甲っぷりと強力な火力から\n「空飛ぶ戦車」と呼ばれました。\n\n迫り来るドイツ軍に苦戦を強いられたスターリンが\n「赤軍は空気やパンのようにIL-2を必要としている！」と\n言ったほど重要な役割を果たしました。\n\n大祖国戦争（第二次大戦）における救国の戦車T-34と並ぶ\n功績のある機体です。\n\nシュトルモヴィク（襲撃機）は正式名称ではありませんが\n本機が襲撃機の代名詞とも言える絶対的存在だったことから\n愛称として親しまれました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0010 IL-2M Sturmovik",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Soviet"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Attacker"
+    }
+  ],
+  "minted": "✅"
+}

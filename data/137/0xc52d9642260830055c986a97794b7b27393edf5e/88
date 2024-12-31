@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWVG1NknPyfhgjxVCj7g3WyJQMrP566HBFjoVKD72svXv/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 88,
+  "chainId": "137",
+  "name": "VeryLongAnimals #88",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Shark",
+      "trait_type": "TYPE"
+    }
+  ]
+}

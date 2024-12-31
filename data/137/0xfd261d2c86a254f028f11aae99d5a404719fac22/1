@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcHjYK3SMbpFbMf8uCTrAhX8jhUFpWpq6EpebRtS4bcac/nft.png",
+  "tokenId": 1,
+  "description": "This is a mosaic art with 10 colors selected from 26 colors randomly arranged.",
+  "nftContractAddress": "0xfd261d2c86a254f028f11aae99d5a404719fac22",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "MosaicBlock #1",
+  "minted": ""
+}

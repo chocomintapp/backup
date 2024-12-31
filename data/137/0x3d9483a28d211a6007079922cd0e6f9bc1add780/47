@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTqVrWZCxNjSEafJFknas2asZqbgZ2fUVkfQNFNnqrB7i/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 47,
+  "chainId": "137",
+  "name": "Neon #47",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "yellow hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "yellow-blue cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "skateboard",
+      "trait_type": "hand"
+    },
+    {
+      "value": "proud",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red-blue",
+      "trait_type": "skin"
+    }
+  ]
+}

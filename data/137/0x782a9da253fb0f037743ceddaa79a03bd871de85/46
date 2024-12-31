@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbzhH9f4mkSxbXdCcWU6JGG1xPKkuMYCGPGB69CpA7gpi/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 46,
+  "chainId": "137",
+  "name": "VerySilentFruits#46 Rainbow Mangosteen",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Mangosteen",
+      "trait_type": "Fruit"
+    },
+    {
+      "value": "Rainbow",
+      "trait_type": "Speciality"
+    }
+  ]
+}

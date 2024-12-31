@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPVWQn88KMCVSBJ7At2zAzTmLFeuTX4NHdC1LcRKjyFXH/nft.png",
+  "nftContractAddress": "0x0ed584f956237cd686d709058e6a2af576dcb598",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "【第13話】しろねことへらくれす",
+  "description": "ベビロン(どうぶつのあかちゃん)があそんでるひとコマまんが",
+  "attributes": [
+    {
+      "value": "しろねこ",
+      "trait_type": "どうぶつ"
+    },
+    {
+      "value": "へらくれす",
+      "trait_type": "どうぶつ"
+    }
+  ]
+}

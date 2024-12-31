@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbLj7rdgrX6aV1aGdiMWfBpfD6yAUPoYX3PhzFhX1soDZ/nft.jpeg",
+  "nftContractAddress": "0xedda5766883fd6d11141dbae58889af2c73a34c0",
+  "animationUrl": "https://ipfs.io/ipfs/QmbLj7rdgrX6aV1aGdiMWfBpfD6yAUPoYX3PhzFhX1soDZ/nft.jpeg",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "しろうさ",
+  "description": "癒しのうさぎ",
+  "attributes": [],
+  "minted": "✅"
+}

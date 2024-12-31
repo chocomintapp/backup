@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeNH8sTZYvTdnmDv3bCC8qTXUg5M9buQfuggxm1qnNaxV/nft.png",
+  "tokenId": 18,
+  "description": "ぽっちゃりの方が逆にモテるのよ。\n\nChubby women are very popular.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Overfed Lizard",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Lizard"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXVKX9XsuvrSQzdfxzk8UYFto86EMPmTBdxgcuHD9iaFL/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 88,
+  "chainId": "137",
+  "name": "Neon #88",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon girl",
+      "trait_type": "character"
+    },
+    {
+      "value": "yellow hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "none",
+      "trait_type": "hand"
+    },
+    {
+      "value": "sad",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

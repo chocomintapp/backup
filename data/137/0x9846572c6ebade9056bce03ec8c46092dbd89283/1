@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcNuztb9QBTMYwJNvyqYHi4yxCBjuP99YzCQPPfgCoUJG/nft.png",
+  "tokenId": 1,
+  "description": "It is a mysterious Japanese calligraphy 3DNFT on original contract. You can see the letters by changing the angle. [Limited to 1]",
+  "nftContractAddress": "0x9846572c6ebade9056bce03ec8c46092dbd89283",
+  "animationUrl": "https://ipfs.io/ipfs/QmRmbm7rWWngScNyefxU97sYvfwpRWr1XkDjL1Csu4A6AH/nft.glb",
+  "chainId": "137",
+  "name": "書道[syodou]#7",
+  "attributes": []
+}

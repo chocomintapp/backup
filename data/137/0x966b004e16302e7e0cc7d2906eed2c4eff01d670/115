@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbBaJidyjTfemjDDivUk35hC4MtdMCkkyAnhaxMoauxZy/nft.png",
+  "tokenId": 115,
+  "description": "Created by [Monstarz](https://opensea.io/Monstarz?tab=created)Limited 1/1A little sad Monstarz. This Monstarz is minted by their original contract (MSZ).",
+  "nftContractAddress": "0x966b004e16302e7e0cc7d2906eed2c4eff01d670",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#0115 Owen",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "UnCommon"
+    }
+  ]
+}

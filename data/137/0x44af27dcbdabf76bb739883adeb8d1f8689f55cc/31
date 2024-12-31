@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZDKqeVuTgD1JJDuNdBU8JzvJ1TQZPY5ZVdmE1SoxToNo/nft.glb",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/QmTnd3LZtAjPEMPZwuUB4LYYTr4puFZDjkHN19DZD2e7FR/nft.glb",
+  "tokenId": 31,
+  "chainId": "137",
+  "name": "大型飛空艇",
+  "description": "",
+  "attributes": []
+}

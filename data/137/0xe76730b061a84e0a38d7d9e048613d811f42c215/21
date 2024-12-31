@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaLjdr61qMymJDVj7DZrgDSwdGEJbCbdHeAPj3aNLQTXi/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "THS #017",
+  "description": "【世】",
+  "attributes": [
+    {
+      "value": "salmon",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "cosmos",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

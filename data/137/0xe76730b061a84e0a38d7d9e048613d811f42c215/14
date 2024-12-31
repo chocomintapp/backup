@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRPx3NWsrcMm3agJrttEkUe1honRjhyheeuopq7dVgzAn/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "THS #011",
+  "description": "【観】",
+  "attributes": [
+    {
+      "value": "eggplant",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "turtle",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

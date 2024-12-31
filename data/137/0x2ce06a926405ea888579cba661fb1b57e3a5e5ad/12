@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfWxHgwZvvUvA5QA2zuAPVKCu1LDUusB8S4RHMsV3c7mE/nft.jpg",
+  "tokenId": 12,
+  "description": "I'm ako",
+  "nftContractAddress": "0x2ce06a926405ea888579cba661fb1b57e3a5e5ad",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "ako",
+  "attributes": []
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd41C4wyB9ZBDUQ5LVM83TK9ageRcUE6fKcMBBpcL74kH/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 157,
+  "chainId": "137",
+  "name": "WMM #0157 SHIGURE 1944",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SHIGURE 1944**  \nThis silhouette is Destroyer Shigure in 1944.  \nShe is the second ship of the Shiratsuyu class.\n\nShe was a lucky ship, known as the \"Yukikaze of Kure and the Shigure of Sasebo.\n\nShe was not unscathed by any means, but her luck in surviving desperate war situations such as the air raid on Truk Island and the night battle in Surigao Strait was comparable to that of Yukikaze.\n\n**駆逐艦 時雨 1944**  \n白露型の2番艦です。  \n「呉の雪風、佐世保の時雨」と言われた幸運艦でもあります。\n\n決して無傷ではありませんでしたがトラック島空襲やスリガオ海峡夜戦など、絶体絶命の戦況の中でもしぶとく生き残る強運は\nまさに雪風クラスと言えます。\n\nこのNFTは1944年頃の時雨のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Destroyer",
+      "trait_type": "Ship"
+    }
+  ]
+}

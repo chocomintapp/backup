@@ -1,0 +1,60 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS7f66ZkieeEG88VfGPWHJyq9fKrpPXLMwZREpBkZvKe2/nft.png",
+  "tokenId": 49,
+  "description": "What's inside Kapsel?   \nKapsel contains the present, the past, and the future.",
+  "nftContractAddress": "0x4aca62f1a59e44b3cb12e432555f5e6acf3dc558",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "TheKAPSEL#49",
+  "attributes": [
+    {
+      "trait_type": "Brand",
+      "value": "Kapsel78Lab"
+    },
+    {
+      "trait_type": "Collections",
+      "value": "The KAPSEL78"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Morim"
+    },
+    {
+      "trait_type": "Gen",
+      "value": "1"
+    },
+    {
+      "trait_type": "TYPE",
+      "value": "KapselPunks"
+    },
+    {
+      "trait_type": "Upper outer",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Lower outer",
+      "value": "White"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Unchi"
+    },
+    {
+      "trait_type": "Font",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crossed eyes"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Transparent"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcMiKRhEui8zrP9AQhwNfFZGPMRnRuwRbkHQvfUhztcfN/nft.jpeg",
+  "nftContractAddress": "0xedda5766883fd6d11141dbae58889af2c73a34c0",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "金のおにぎり",
+  "description": "あるアイテムを作り出すかけら",
+  "attributes": []
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWeKGe3Fmop4whAg2SoVuS77bdPbCZTRxHhtciLpbY1GJ/nft.png",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "Basket Ball Babies #group",
+  "description": "バブボール\nBasket Ball Babies\n集合絵\n展示会出品用です",
+  "attributes": [
+    {
+      "value": "Group",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQNmYwAd2RhMmcXpneESoCUpPwd8jgXcmgAdEh2nvN2w7/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "137",
+  "name": "LIVING MINERAL #32",
+  "description": "",
+  "attributes": [
+    {
+      "value": "tiger",
+      "trait_type": "gene"
+    },
+    {
+      "value": "common",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "stone",
+      "trait_type": "material"
+    }
+  ]
+}

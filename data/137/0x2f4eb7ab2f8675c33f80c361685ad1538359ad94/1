@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWey3KJd7USRyzDxF5hhZaheYHGeXUtgQdnYht27Ueecy/nft.gif",
+  "nftContractAddress": "0x2f4eb7ab2f8675c33f80c361685ad1538359ad94",
+  "animationUrl": "https://ipfs.io/ipfs/QmcjS18Zve7VXgw2jHkqd4waGhwYccLobHunq53NUReFKL/nft.gif",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "welldone",
+  "description": "welldone, certificate of authenticity, color version.",
+  "attributes": []
+}

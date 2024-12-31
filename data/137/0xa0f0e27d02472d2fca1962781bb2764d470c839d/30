@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRC7gszChRHtodMLoBU95HuwD3ifp9fCoL4UfxG9QFjuR/nft.png",
+  "tokenId": 30,
+  "description": "アゴの力がとっても強いから、気をつけてね。\n\nI have a surprisingly strong jaw, so be careful.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Otters（カワウソ）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Otters"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

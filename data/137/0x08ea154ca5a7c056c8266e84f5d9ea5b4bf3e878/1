@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWZjMNb65PwHhHyBDGSGuZ7N4H2wtfQX9GSa5zkUMVEbF/nft.png",
+  "tokenId": 1,
+  "description": "test mint",
+  "nftContractAddress": "0x08ea154ca5a7c056c8266e84f5d9ea5b4bf3e878",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "First Test WORLD KZM",
+  "attributes": [
+    {
+      "trait_type": "owner",
+      "value": "KZM000"
+    }
+  ]
+}

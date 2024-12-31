@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWKAwePVwhR69uhLxkvU94q5qrm3dRiFBo3ELt5ttrqL9/nft.png",
+  "nftContractAddress": "0xd7151e5a95eda22f37993c4e862ab581befed1dd",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "#007 Tim AVAX Pirate",
+  "description": "Tim wants to become the King of Pirates !!!!",
+  "attributes": [
+    {
+      "value": "Crypto",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": " Pirate",
+      "trait_type": "JOB"
+    }
+  ]
+}

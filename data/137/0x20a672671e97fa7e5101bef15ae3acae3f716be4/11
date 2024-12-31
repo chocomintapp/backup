@@ -1,0 +1,16 @@
+{
+  "image": "ipfs://bafkreih2evolh7x3vamu4vysuuhqgoeqtwq4jniwd5bwquu6sy2jvurpje",
+  "nftContractAddress": "0x20a672671e97fa7e5101bef15ae3acae3f716be4",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "Saccharimeter for Alejandro Lusitania Coffee",
+  "description": "",
+  "attributes": [
+    {
+      "value": "100g",
+      "trait_type": "CONTRIBUTE"
+    }
+  ],
+  "minted": "✅"
+}

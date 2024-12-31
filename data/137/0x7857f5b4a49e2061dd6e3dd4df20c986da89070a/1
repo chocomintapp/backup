@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZiYbG1zKLYcAxmq8zXnhbvvCLsRmhS6LKp44Ss8QBeCy/nft.png",
+  "tokenId": 1,
+  "description": "This is the NFT with partial copyright granted.\n\nThe owner of this NFT can use the image for personal and business use as shown below.\n\nCautions\n\n① You cannot use a part of the image like this. However, the background color can be changed.\n②You may not use it for fraudulent, deceptive, or other socially inappropriate purposes.\n③It is for private and business use only and cannot be used for political or religious purposes.(Use for environmental protection is allowed.)\n④No other use other than for personal or business purposes is permitted.",
+  "nftContractAddress": "0x7857f5b4a49e2061dd6e3dd4df20c986da89070a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "FlowerMasks partially copyrighted NFT",
+  "attributes": [],
+  "minted": "✅"
+}

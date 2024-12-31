@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQhYp5F9eShBniHaXoeDsbcVboW1Gf7TgR3QKLAHsYEn4/nft.png",
+  "tokenId": 6,
+  "description": "The Five Elements of Magatamas (FEM) visualizes the universe by magatamas. The universe consists of the five elements of wood, fire, earth, metal, and water.\n\nThis is summary of FEM prototype.\n\nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x6392f80f5a556a22ffbbd49692e3a010d9af4773",
+  "animationUrl": "https://ipfs.io/ipfs/QmSd5eMyqzC4bZLS53pznajppDHgFe9jGFP91dPtR5Z1Zg/nft.png",
+  "chainId": "137",
+  "name": "FEM Prototype",
+  "attributes": [
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Prototype"
+    },
+    {
+      "trait_type": "Crypyan",
+      "value": "4"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Origin"
+    }
+  ],
+  "minted": "✅"
+}

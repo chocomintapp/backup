@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVN9zcTgxLfhNU7pC1CZrqCBVB4aotRe8Vk9tL4D4F7RW/nft.png",
+  "nftContractAddress": "0xc99c16d7f0b520f712fe194d1214b62e1c6d5699",
+  "animationUrl": "https://ipfs.io/ipfs/QmVN9zcTgxLfhNU7pC1CZrqCBVB4aotRe8Vk9tL4D4F7RW/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "SilverRed #1",
+  "description": "",
+  "attributes": [],
+  "minted": ""
+}

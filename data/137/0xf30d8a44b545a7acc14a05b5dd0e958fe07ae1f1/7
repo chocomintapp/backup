@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUm4NXw8XVX7Bm89fczDLoNcMTWatfnHbBpasmUM5H2Vh/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "PPP #007",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Long BR",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Windbreaker",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Brush",
+      "trait_type": "Accessories"
+    }
+  ]
+}

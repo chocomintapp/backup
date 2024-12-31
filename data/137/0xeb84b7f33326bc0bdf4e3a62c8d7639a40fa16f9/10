@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYQYw1A5jL19ABDBNitQMqzi1R3Tay4jtiZRfp9d8paBk/nft.png",
+  "tokenId": 10,
+  "description": "Shiden Copper Coin",
+  "nftContractAddress": "0xeb84b7f33326bc0bdf4e3a62c8d7639a40fa16f9",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Shiden Copper Coin #3",
+  "attributes": [],
+  "minted": ""
+}

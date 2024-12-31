@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeHjxZKH1vndRUppn9tC2BsjVc78n8kgmvp2uL2wBN9Cu/nft.png",
+  "nftContractAddress": "0x1b399350464e0bb009b00bc1a7bec20b49e204eb",
+  "animationUrl": "",
+  "tokenId": 5510,
+  "chainId": "137",
+  "name": "Samurai Assemble #5510",
+  "description": "Okita Soji.\nA young genius samurai, he is the strongest of the Shinsengumi. His swordsmanship is Shizen Rishinryu, and his special skill is Sandan-tsuki which he attacks three times in one motion. His favorite sword is Kashu Kiyomitsu.",
+  "attributes": [
+    {
+      "value": "Shinsen-gumi",
+      "trait_type": "JOB"
+    },
+    {
+      "value": "Celebrity",
+      "trait_type": "Personage"
+    },
+    {
+      "value": "N/A",
+      "trait_type": "Face Decoration"
+    },
+    {
+      "value": "Famous Katana",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "Kashu Kiyomitsu",
+      "trait_type": "Effect of the weapon"
+    },
+    {
+      "value": "Makoto-Gold",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Hachimaki",
+      "trait_type": "Head Decoration"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Center Part",
+      "trait_type": "Hair Style"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmReukWZwT7piUVF6a9drHKm69hqeVcMm4C86GFv6D2nyW/nft.png",
+  "tokenId": 1,
+  "description": "A passport to enter AdventureDAO",
+  "nftContractAddress": "0xbc1026afe7e88e967944021b704c1fe92b3689da",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "AdventurePassport",
+  "attributes": []
+}

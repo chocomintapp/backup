@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS7q7bFbREMJUCPJ66BZ6sWxLRuq8HfbA3aiXybU5nJ64/nft.png",
+  "nftContractAddress": "0x987a16b4afb20bcd729c42715c65940df9690798",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Test 1",
+  "description": "Yup",
+  "attributes": [
+    {
+      "value": "trait 2",
+      "trait_type": "Trait 1"
+    }
+  ]
+}

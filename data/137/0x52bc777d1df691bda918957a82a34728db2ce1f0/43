@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSZYcn4Yj5tN6iYnN8R3sS8WXxYz7ePN4pNnNh95iV15o/nft.jpeg",
+  "tokenId": 43,
+  "description": "Calligraphy Devil #43",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #43",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Andrealphus"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Abaddon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Akeron"
+    }
+  ]
+}

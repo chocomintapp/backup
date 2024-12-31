@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcu4UgQfL8yfb2XtBeqgPpWWeds2m4haRcA9DM8U7aNBg/nft.jpg",
+  "tokenId": 2,
+  "description": "森のにゃんこさん",
+  "nftContractAddress": "0x3ccac88cb43a7d8a8ef6facfb6c2cc307de30fc3",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "nyanko"
+}

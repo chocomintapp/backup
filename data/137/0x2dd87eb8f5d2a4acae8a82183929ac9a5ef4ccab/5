@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQmzjX389XZoK6mkfeeeiXTV9Ckvhi3Z8Pgu6tWyp9bAW/nft.PNG",
+  "tokenId": 5,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n3月27日\n\n昨日は、見つからないと思っていたドーナツがおでこにくっついていて、自分のうっかり具合に笑うしかなかった部長です。今日は、有給最後の金曜日。袖ラインがお気に入りのパーカーとドーナツキャップを身につけて、ちょっと付近を散策してみることにしました。自宅のあたりも、どんどんと開発が進んでいて、環状のモノレールの建設が決まったとか、決まっていないとか。「今日は、風の音がよく聞こえる」\bこの静けさも、賑やかさに消されてしまうのだろうか…、冷たい風が頬をすり抜けていくのを感じていました。「あの〜……」という声に振り返ると、そこには斜向かいに住む銀行員のところの奥さんが立っていました。「この間は、どうもありがとうございました。」全く身に覚えのない部長、「何かありました…？」と自分の記憶を探るように尋ねてみると、どうやら一昨日に、この奥さんのゴミ出しを手伝ってあげたようなのです。自分が…？張り込み中だった自分が？自分の知らないところで、きっとまた何かが起きている、そんな予感がしたのでした。\n\nMarch 27\n\nYesterday. The donut he thought he would never find was stuck to his forehead and he laughed at his carelessness. Today is my last Friday with pay. He walked around the neighborhood wearing his favorite hoodie with sleeve lines and a donut cap. The area around his house is being developed rapidly, and a ring monorail has been decided to be built. He felt the cold wind brushing against his cheeks, wondering if the quietness would be erased by the bustle. I felt the cold wind slipping through my cheeks. When I turned around at the sound of a voice saying, \"Um, ......,\" I saw the wife of the banker who lived across the street standing there. Thank you very much for the other day.\" He had no idea who she was. He had no recollection of what had happened...? It seemed that he had helped her to take out the garbage the day before yesterday. Did I...? The one who was on stakeout? I had a premonition that something else was going on without my knowledge.",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #085 Mar.27",
+  "attributes": [
+    {
+      "trait_type": "DONUTS CAP",
+      "value": "Green"
+    },
+    {
+      "trait_type": "HOODIE",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "MASK",
+      "value": "Black"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "Khaki"
+    },
+    {
+      "trait_type": "ROUND GLASSES",
+      "value": "Special"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Black"
+    },
+    {
+      "trait_type": "ENVIRONMENT",
+      "value": "Silence"
+    }
+  ]
+}

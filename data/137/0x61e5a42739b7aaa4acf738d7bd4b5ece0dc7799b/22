@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWmhKZt9sd1hbeYgNK5S5xg26CZXTzhe9KEeR2kgpuG1x/nft.png",
+  "tokenId": 22,
+  "description": "Creator [Izuru_eth](https://opensea.io/Izuru_eth?tab=created_collections)\n\nモナーからのおみくじだよ！！",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "吉 #3",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Izuru_eth"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

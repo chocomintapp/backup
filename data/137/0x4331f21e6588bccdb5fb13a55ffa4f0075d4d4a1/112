@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYx4impZMENyRaWT2zL12TtPqEqcKYE2G1w2NT2sMWJXu/nft.png",
+  "tokenId": 112,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KIRISHIMA 1936**  \nThis silhouette is battleship Kirishima in 1936.\n\nThe fourth ship of the Kongo class and the last Battlecruiser of the Imperial Japanese Navy.\n\nLike Kongo, it underwent repeated modernization and refurbishment.\n\nHer performance was dramatically improved from a battlecruiser to a battleship to a high-speed battleship.\n\nIt is also known for its great performance against two battleships of the U.S. Navy in the Third Battle of the Solomons.\n\n**戦艦 霧島 1936**  \n金剛型の4番艦にして日本海軍最後の巡洋戦艦です。\n\n金剛と同じく度重なる近代化改装を行い、巡洋戦艦→戦艦→高速戦艦と、飛躍的に性能をアップさせました。\n\n第三次ソロモン海戦では米新鋭戦艦2隻を相手に大奮戦した事でも知られています。\n\nこのNFTは1936年頃の霧島のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0112 KIRISHIMA 1936",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Battleship"
+    }
+  ]
+}

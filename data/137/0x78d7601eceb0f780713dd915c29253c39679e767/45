@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRZtUJexq4B8zqsoVgyA8Grejd5PrumYPrhxPqqDx2SrQ/nft.jpg",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 45,
+  "chainId": "137",
+  "name": "#45 Memory from summer『Cute cat』",
+  "description": "Items tightly packed with memories of the summer festival.\nYou can scoop up various things at the stalls.\nYou can even get amazing things inside!",
+  "attributes": [
+    {
+      "value": "Hug",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

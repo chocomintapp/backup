@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcMys9Ei2xUgwrJSSf9ixTPM9CdtvQCsM85JpUTdviWT8/nft.png",
+  "tokenId": 121,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SHIMAKAZE 1944**  \nThis silhouette is destroyer Shimakaze in 1944.\n\nThe next-generation destroyer was the fastest and most powerful destroyer in the Imperial Japanese Navy.\n\nIt was born as a high-performance ship with a powerful engine capable of over 40 knots and three unique five-torpedo tubes.\n\nIt was a very capable destroyer, but it took a long time to build, so it was never mass-produced.\n\n**駆逐艦 島風 1944**  \n日本海軍において最速・最強を誇った次世代駆逐艦です。\n\n建艦技術の粋を集め、40ノットを超える強力な機関と唯一無二の5連装魚雷発射管を3基搭載した高性能艦として誕生しました。\n\n非常に優秀な駆逐艦でしたが建造に時間がかかる為、量産される事はありませんでした。\n\nこのNFTは1944年頃の島風のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0121 SHIMAKAZE 1944",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Destroyer"
+    }
+  ]
+}

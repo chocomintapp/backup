@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZaJEZGsGVyz5fMPqQg2Dnmh2v49CpqJXksH2DL4gXhLz/nft.png",
+  "nftContractAddress": "0xcf283077dc54458ea22edb5b12c6516b8258364b",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "137",
+  "name": "Nora [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nNora\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR EVO]",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "White",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Ribbon",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "EVO",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

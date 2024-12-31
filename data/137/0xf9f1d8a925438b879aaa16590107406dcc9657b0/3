@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXnnk5kVH8snyQVGpsDY1GTrbcFEcbv3Cyx9fbHiNXWvQ/nft.png",
+  "tokenId": 3,
+  "description": "I'm a breeder SERARK from \"Cat Trailer House\".\nI'm looking for someone to be the owner.\nWhy don't you go find cute cats?",
+  "nftContractAddress": "0xf9f1d8a925438b879aaa16590107406dcc9657b0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "CTH#3",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Street"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Brown"
+    }
+  ]
+}

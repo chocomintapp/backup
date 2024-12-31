@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeHSRv1xv6hJZpWhfJwHeU3bfjSfvowkrWRpATkkcdNBR/nft.jpg",
+  "tokenId": 21,
+  "description": "VIP CARD 2022\n\n-TO GET IT- ・Burn 1 VIP GORO or collect 5 CryptoGoros. ・Become a Goroist. ・Hold a dark ritual by using KFC.\n\n-BENEFITS- ・A holy gift per month. ・Invitation for metaverse hip-hop live. ・VIP role on discord. ・If you burn 2 VIP CARDs,you can get a BLACK CARD.\n\n-NOTE- ・Second hand VIP CARD becomes invaild. ・Expiration date of this card is 31/DEC/2022.",
+  "nftContractAddress": "0x56952571a5bb9e353f822c4fb235cb2ea5fac4b5",
+  "animationUrl": "https://ipfs.io/ipfs/QmRcDn7PYMg9eqmMVw3kvFXf8rsEYP18qPyYBHATvS8Gxe/nft.mp4",
+  "chainId": "137",
+  "name": "VIP CARD 2022",
+  "attributes": []
+}

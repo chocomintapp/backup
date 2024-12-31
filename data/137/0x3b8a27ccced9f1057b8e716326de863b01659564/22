@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaSZX4DqAtKapAy3m28iLDUqquuiyQkzCJeojGmo774xw/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #22",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Red Panda",
+      "trait_type": "TYPE"
+    }
+  ]
+}

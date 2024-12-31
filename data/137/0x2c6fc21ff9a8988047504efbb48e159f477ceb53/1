@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNaRXaAkPjLmhTanYotFx8QGFzGcPUf1PNyigHGx9iBt8/nft.png",
+  "nftContractAddress": "0x2c6fc21ff9a8988047504efbb48e159f477ceb53",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "morizou's MANGA 2022-9-15",
+  "description": "morizouが2022年9月15日に投稿した漫画です。",
+  "attributes": [],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdyg1nMW1wKAF96YF5kyXNQyQAfmkMrg26mt5wKksKEjm/nft.png",
+  "nftContractAddress": "0x6505808eea34768749f736f6889441c768e80d81",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "137",
+  "name": "The Naughty Husky",
+  "description": "Who want to be this husky owner?",
+  "attributes": []
+}

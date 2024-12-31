@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZHmqMdwzECRzaPS2kMrY6pRm7bfh3XdXXFd7ZAjK8tv9/nft.png",
+  "tokenId": 49,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #49",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dolphin"
+    }
+  ]
+}

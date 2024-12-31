@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYhGY3xPDyfYAh9wUJPdA2CxUuqELADRJ3Za3hPMyjtzr/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmYhGY3xPDyfYAh9wUJPdA2CxUuqELADRJ3Za3hPMyjtzr/nft.png",
+  "tokenId": 27,
+  "chainId": "137",
+  "name": "Rabbit girl #9S 『PinkBear』",
+  "description": "Rabbit girl #9S 『PinkBear』\n\nShe likes unique fashion.\n\nShe belongs to the volleyball club and likes to go on sweets with Yuri after school.\n\nShe has the strongest strength in RabbitGirls.\n\nShe is looking for the prince of destiny, but she can't find the ideal prince who is stronger than herself.\n\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "PinkBear",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "School",
+      "trait_type": "Series"
+    }
+  ]
+}

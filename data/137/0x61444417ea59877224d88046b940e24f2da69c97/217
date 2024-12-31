@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWsd87tRr925BCvHGjjzj6ap6FWiY4cycTv4jC63wca9N/nft.png",
+  "tokenId": 217,
+  "description": "ToyRobots Mini is a generative NFT of 10,000 toy robots created by tokoyann.",
+  "nftContractAddress": "0x61444417ea59877224d88046b940e24f2da69c97",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "ToyRobot #217",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "BackPack",
+      "value": "Missile"
+    },
+    {
+      "trait_type": "BodyColor",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Tshirt"
+    },
+    {
+      "trait_type": "Arm",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Expression"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knit Hat"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeQ8ckghy7buEMm91hVYt3n6e5UfHErJWoyd6Wrfu4dD8/nft.png",
+  "tokenId": 73,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SU-122**  \nThis self-propelled artillery was developed by the Soviet Union based on the success of the German III assault gun.\nIt is based on the body of the T-34 medium tank.\n\nThe howitzer power of the 122mm gun mounted on it was tremendous, and in addition, it was characterized by the high defensive power and mobility of the T-34.  \nIt is a masterpiece weapon that can not only support infantry but also fight against tanks.\n\nHowever, without the success of the SU-122, the SU-85 and SU-100, which were to play an active role later, might not have appeared. If it had not been for the success of the SU-122, the SU-85 and SU-100 might not have appeared.  \nIn this respect, it was a significant vehicle.\n\n\n**SU-122 自走砲**  \nドイツのⅢ号突撃砲の活躍を目の当たりにしたソ連軍がT-34中戦車の車体をベースに開発した自走砲です。\n\n搭載する122mm砲の榴弾威力は凄まじく、加えてT-34譲りの高い防御力と機動性を生かして歩兵支援だけでなく対戦車戦もこなす傑作兵器でした。\n\n大戦中盤にドイツ軍が重戦車を投入してくると流石に力不足になりましたが、SU-122の成功がなければ、後に活躍するSU-85やSU-100などの登場もなかったかもしれません。  \nその点でも意義深い車輌であったと言えます。\n",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0073 SU-122",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Soviet"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

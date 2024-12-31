@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfJcUB7Tc9wqZUdAYCVKWhGZP4V51EgfU6QaS7o2NE9F3/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "LIVING MINERAL #2",
+  "description": "",
+  "attributes": [
+    {
+      "value": "ape",
+      "trait_type": "gene"
+    },
+    {
+      "value": "uncommon",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "gold",
+      "trait_type": "material"
+    }
+  ]
+}

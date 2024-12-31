@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaZAcbTxHQ7hCZBfuSabjiLJehEGaWy4L5hgZC9rd4jw3/nft.PNG",
+  "nftContractAddress": "0xd101193715f330b80dc2dbfb48e7e9f635f358bd",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Patched Dolls × RabbitGirls#8",
+  "description": "Patched Dolls × RabbitGirls Collaboration. \nOriginal character is \"Mint\"\nShe is \"Zombie\" in disguise.\nhttps://opensea.io/ja/collection/rabbitgirlscollection",
+  "attributes": [
+    {
+      "value": "Collaboration Halloween Event",
+      "trait_type": "campaign"
+    },
+    {
+      "value": "OCT 29, 2022",
+      "trait_type": "date"
+    }
+  ]
+}

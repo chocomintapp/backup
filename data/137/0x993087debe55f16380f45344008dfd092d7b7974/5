@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS6KiHmXEWACCcqBMsPgK1HkchMkRCVfeZfgiGws39pvp/nft.webp",
+  "nftContractAddress": "0x993087debe55f16380f45344008dfd092d7b7974",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "お手伝い券",
+  "description": "ススアキさんのお手伝い券です。この券をススアキさんに渡すと、みくさんが10分お手伝いしてくれます。",
+  "attributes": []
+}

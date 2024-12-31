@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbDPDSnr7NBaZKTHQNsrE4kp7SHVSNqunqeiXbcvzL5V2/nft.png",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "Basket  Ball Babies #8",
+  "description": "バブボール\nBasket Ball Babies\nぺんぎん\nPenguin",
+  "attributes": [
+    {
+      "value": "Penguin",
+      "trait_type": "TYPE"
+    }
+  ]
+}

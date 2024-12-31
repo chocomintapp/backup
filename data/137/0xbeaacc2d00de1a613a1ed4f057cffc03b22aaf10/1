@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYSXhVoSFS4989ktXuSY2pf15vFpnJjR9o8E8GM6EJ9zr/nft.jpg",
+  "nftContractAddress": "0xbeaacc2d00de1a613a1ed4f057cffc03b22aaf10",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "huwa huwa sakura",
+  "description": "ふわふわ桜",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPydAfa3w4FAwtNGCdvDiMDT2EoV5YKrXzzBE7dH6pvzj/nft.gif",
+  "tokenId": 1,
+  "description": "This is my first upload to layer 2!",
+  "nftContractAddress": "0x7524034052a0165318c13be1a3be2b5fef2981ce",
+  "animationUrl": "https://ipfs.io/ipfs/QmPydAfa3w4FAwtNGCdvDiMDT2EoV5YKrXzzBE7dH6pvzj/nft.gif",
+  "chainId": "137",
+  "name": "GENESIS"
+}

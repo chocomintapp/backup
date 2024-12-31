@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRDHWWmJ8r1q7QNcKd1SQtzhb9JzMbpPTM94i9S8DLqty/nft.png",
+  "tokenId": 60,
+  "description": "モアイ像ごっご\n\nImitation of Moai statues",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Spotted garden eel（チンアナゴ）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Fish"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

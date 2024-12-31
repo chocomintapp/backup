@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaDDu7sVPEhWV7dPaBekN6VHoC7hmXRCehwaxtBFdNN8E/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "137",
+  "name": "大吉 Star Eye #16",
+  "description": "聖なる星を授けます。笑\n\nBestow the holy star.hahaha\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "attributes": [
+    {
+      "value": "big Star eye",
+      "trait_type": "special item"
+    }
+  ]
+}

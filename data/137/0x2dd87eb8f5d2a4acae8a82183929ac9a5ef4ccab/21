@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWQhP7HehiLAZMrfrj5JimXudgw2cn6FQfSzA7Dzwqfbg/nft.png",
+  "tokenId": 21,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n4月15日\n\n昨日の噴水広場での漫談を見て以来、自分以外にもねじねじドーナツを体につけている人間がいるのだということが分かった部長です。不思議だったのは、ステージを終えた「ベートーベソ」へドーナツに関する話を聞きに行こうと待っていたのですが、いつまで経っても現れなかったこと。イベントの関係者も、彼の素性については一切知らないどころか、「先程はどうも！ウケてましたね〜！」と、まるで部長がステージに立っていたかのように労いの言葉をかけてきます。いつか自宅のリビングで見た偽物と同じ様に、自分以外の人間には、アレが自分…すなわち部長として認識されているようです。「一体…きみは私に何を見せているんだ？」と体のねじねじドーナツに語りかけてみましたが、当然ながら返事はありません。このいつも通りの風景が広がる世界に向かって、「アレは偽物だ！自分じゃない！」と大声で叫びたくなる部長なのでした。\n\nApril 15\n\nEver since he saw the comic performance at the Fountain Square yesterday, he realized that there were other people besides him who had screwed donuts on their bodies. What was strange was that he waited for the comedian to finish the stage to ask him about the donuts, but the comedian didn't show up for some time. The people involved in the event didn't know anything about the identity of the comedian, but rather just said, \"Thanks for your help earlier! You were so funny! And they would say laboriously, as if he were standing on the stage. Just like the fake he saw in his living room one day, it seems that the other people recognize him as himself, or him. \"What the hell... are you showing me?\" He tried to talk to the twisted doughnut of his body, but of course there was no reply. Facing this world with its usual scenery, he said, \"That thing is a fake! It's not me!\" He felt like shouting out loud, \"That's not me!",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #104 Apr.15",
+  "attributes": [
+    {
+      "trait_type": "BULLHORN",
+      "value": "King Goo"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Black&White"
+    },
+    {
+      "trait_type": "CLASSIC GRASSES",
+      "value": "Special"
+    },
+    {
+      "trait_type": "HOODIE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MASK",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Black"
+    }
+  ]
+}

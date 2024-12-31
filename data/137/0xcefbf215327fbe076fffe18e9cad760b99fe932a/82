@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQdiywCUXmYofn99CHpqwZvC4JBo4qKnwCZUVQ1yhXdEZ/nft.jpg",
+  "tokenId": 82,
+  "description": "82/101  \nTaken on Sep 9, 2019  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #82",
+  "attributes": [
+    {
+      "trait_type": "time",
+      "value": "sunset"
+    }
+  ]
+}

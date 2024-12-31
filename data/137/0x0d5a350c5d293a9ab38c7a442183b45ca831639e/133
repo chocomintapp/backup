@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPoWnnAVmChoixKSY74bPY6QfPxGDQES25v8VWF1Q2opP/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 133,
+  "chainId": "137",
+  "name": "Day65 Umitsuru's Art",
+  "description": "いつか花を咲かせたい。\n\nI hope to bloom someday.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

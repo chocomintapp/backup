@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS59Sm24QGWd7RKvZ41iHS7TuPXGzT6yzCynSzqFZHdPp/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 112,
+  "chainId": "137",
+  "name": "#0107_Niton_MmGBW_CBry",
+  "description": "#0107_Niton_MmGBW_CBry",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Violet Blue",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Perano",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Cerulean",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTWyx5ZrvH67Sw6KjR4q6veNTt6NcuwFZNkPKbNZ2S6Jq/nft.jpg",
+  "tokenId": 3,
+  "description": "tesuto",
+  "nftContractAddress": "0x5e94ab334e89aded1621782e489e09fde827eafa",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "nomura",
+  "attributes": []
+}

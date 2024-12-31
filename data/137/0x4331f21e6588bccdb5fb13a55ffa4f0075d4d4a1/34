@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdmYttoPaqFn8DZnGtLdEqhDFCgAzoA254xrNRsvzJWCC/nft.png",
+  "tokenId": 34,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SHIDEN-KAI Naoshi Kanno**  \nSHIDEN-KAI Type 21 Naoshi Kanno, Capt.\nOne of the ace pilots representing the Imperial Japanese Navy Air Forces.\nHe is famous for his work with the \"SHIDEN-KAI,\" a high-performance aircraft that employed air battle flaps.He reigned as an absolute ace in the 343rd Air Groupe, commonly known as the \"Sword Unit,\" where elite pilots gathered, and recorded 72 aircraft shot down in his lifetime.\n\n**紫電改 21型 菅野直 大尉機**  \n日本海軍航空隊を代表するエースパイロットの1人です。  \n空戦フラップを採用した高性能機「紫電改」での活躍が有名です。\n精鋭パイロットが集結した343航空隊、通称「剣部隊」で絶対的なエースとして君臨し、生涯撃墜数72機を記録しました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0034 SHIDEN-KAI Naoshi Kanno",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Fighter"
+    }
+  ]
+}

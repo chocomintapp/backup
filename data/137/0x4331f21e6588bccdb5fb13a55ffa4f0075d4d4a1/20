@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbE1fdshtWVvvTcFpzp23qr29t2vro6HCRUSFmaGS7bZ7/nft.png",
+  "tokenId": 20,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**CHURCHILL Mk.III**  \nIt is an extremely heavily armored tank developed by the British for the purpose of infantry support. Instead of sacrificing mobility, it boasted an ironclad defense with a maximum armor thickness of 102mm.\n\nThe long body and eleven pairs of small coil-spring type rolling wheels demonstrated outstanding ability to traverse rough terrain.It is active on all fronts as a tank for the infantry.\n\nSlow speed was not a major problem for the British military, which did not emphasize mobility.The slow speed was not a big problem for the British army, which did not emphasize mobile warfare.\n\nWhat was important was reliability and treadability.  \nIt eventually became a best-selling infantry tank with over 5,000 tanks produced in total for each model.\n\n**歩兵戦車チャーチル Mk.III**  \nイギリスが開発した歩兵支援を目的とした極めて重装甲の戦車です。  \n機動性を犠牲にするかわりに最大装甲厚102mm（後期型では152mm）という鉄壁の防御力を誇りました。  \n超壕能力の優れた長い車体を採用し11組にも及ぶコイルスプリング式小型転輪は抜群の不整地踏破性を発揮。  \nまさに歩兵の為の戦車として各戦線で活躍しています。\n\n機動戦を重視しないイギリス軍にとって速度の遅さは大きな問題ではなく、どこにでも展開できる信頼性と踏破性が前線でも評価され最終的には各型合計で5000輌以上も生産されるベストセラー歩兵戦車になりました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0020 CHURCHILL Mk.III",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "UK"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

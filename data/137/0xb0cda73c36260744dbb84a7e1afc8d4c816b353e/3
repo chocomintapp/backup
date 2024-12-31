@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaFLh7McvQnySCHj1j8gofA619eTy4NjpugVf2BZuAnRL/nft.png",
+  "nftContractAddress": "0xb0cda73c36260744dbb84a7e1afc8d4c816b353e",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "VeryPongAnimals #082",
+  "description": "It all started with \"PONG\".",
+  "attributes": [
+    {
+      "value": "Hedgehog",
+      "trait_type": "Type"
+    }
+  ]
+}

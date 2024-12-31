@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQeNRx5DiuEWJF9pWrHek28y1fJkZgxjD1FguPhVdkuf1/nft.png",
+  "tokenId": 20,
+  "description": "This is the NFT that will be the voting right for where to donate at the Charity DAO.",
+  "nftContractAddress": "0xecd9adc28068d52c901c6ae9412ca52637d78bb4",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Planet Heroes for Charity #20",
+  "attributes": []
+}

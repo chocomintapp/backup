@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmajLxux7EiufokiRFbT3fQzCNpjCheBKG2arY6b99n52b/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "THS #001",
+  "description": "【心】",
+  "attributes": [
+    {
+      "value": "sun",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "hummingbird",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "iris flower",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

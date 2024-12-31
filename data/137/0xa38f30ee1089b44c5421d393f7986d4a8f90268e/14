@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPa95s6Yek4V5tWpzCKtZbJ3ieDjxy2K1aRJvkgoX5rqC/nft.gif",
+  "tokenId": 14,
+  "description": "",
+  "nftContractAddress": "0xa38f30ee1089b44c5421d393f7986d4a8f90268e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "SuperStar",
+  "attributes": [
+    {
+      "trait_type": "Ears",
+      "value": "Red Cat"
+    },
+    {
+      "trait_type": "Headphone",
+      "value": "Yellow V.2"
+    },
+    {
+      "trait_type": "Gum",
+      "value": "Orange Bubble Gum"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Super Girl"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Super Star"
+    }
+  ]
+}

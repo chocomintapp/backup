@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTesJHgLgnAAzz1kuKMebRisTTPseXd9iHEHv9dXEXTpp/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x327f24e7c26291c42052fa8d7590791e071dea75",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "unko",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

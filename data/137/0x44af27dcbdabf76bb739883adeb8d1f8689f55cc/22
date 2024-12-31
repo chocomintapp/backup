@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWDrVN4nZ5RNsNLEhPALDR3enzxzhEikKbJ766RBsPFTV/nft.jpg",
+  "tokenId": 22,
+  "description": "3D Object",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/QmVkAXJfPGrdn1xWqetAVUaxp2EgqZ3EN3XzuqgamkkAyP/nft.glb",
+  "chainId": "137",
+  "name": "ODN-04U式",
+  "attributes": [
+    {
+      "trait_type": "3D",
+      "value": ""
+    }
+  ]
+}

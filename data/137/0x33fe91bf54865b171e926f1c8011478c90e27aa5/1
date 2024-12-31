@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX7pMpmyRmfLuC46rUK7hyie7kjrUBs1YVanjsdAxzSRY/nft.jpg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x33fe91bf54865b171e926f1c8011478c90e27aa5",
+  "animationUrl": "https://ipfs.io/ipfs/QmbDyboGKbJrDUuyivXxYdaPKiPyB7tjmHbg8bu2mxKp2a/nft.txt",
+  "chainId": "137",
+  "name": "#1 りんご",
+  "minted": "✅"
+}

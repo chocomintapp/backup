@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfVpMZis441oqXcE53c1jHKytgB6cenrj178mUSwK4Cai/nft.png",
+  "tokenId": 10,
+  "description": "\"alpacasan\" is a soft serve ice cream of vanilla.",
+  "nftContractAddress": "0xe5bef7ef6c3de48a853c76477466cbd4a839762c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sofnchosan pixel art collection #10 \"alpacasan\"",
+  "attributes": [
+    {
+      "trait_type": "taste",
+      "value": "vanilla"
+    }
+  ]
+}

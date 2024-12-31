@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZvNGum5QqPa7i5MFEbWYSQScabbfwcufBfwDX27VjPdj/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 68,
+  "chainId": "137",
+  "name": "#68 School uniform Sailor suit pink(Loose socks)",
+  "description": "The school uniforms of the girls who aim to be Rabbitgirls of their dreams.\n",
+  "attributes": [
+    {
+      "value": "Clothes",
+      "trait_type": "Type"
+    },
+    {
+      "value": "School uniform",
+      "trait_type": "Clothes"
+    }
+  ],
+  "minted": "✅"
+}

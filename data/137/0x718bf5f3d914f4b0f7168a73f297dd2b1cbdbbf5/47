@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTEQmxSHhNTp28Y1M1XsqUCQY1vnSjMeBx4QrVAEatKBW/nft.png",
+  "tokenId": 47,
+  "description": "A girl in the image of Pegasus",
+  "nftContractAddress": "0x718bf5f3d914f4b0f7168a73f297dd2b1cbdbbf5",
+  "animationUrl": "https://ipfs.io/ipfs/QmTEQmxSHhNTp28Y1M1XsqUCQY1vnSjMeBx4QrVAEatKBW/nft.png",
+  "chainId": "137",
+  "name": "Pegasus #47",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Orange"
+    }
+  ]
+}

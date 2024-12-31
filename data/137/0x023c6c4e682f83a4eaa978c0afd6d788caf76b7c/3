@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmReDREzMZzwTrUzCPYqZxWvQ1ezAqupVBAicZd6pdwNgD/nft.jpeg",
+  "nftContractAddress": "0x023c6c4e682f83a4eaa978c0afd6d788caf76b7c",
+  "animationUrl": "https://ipfs.io/ipfs/QmcxVeYUekf7NhZGqFtBGkhwpBpBKfaKeLH6Vy96HACDB8/nft.glb",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "test 3D avatar",
+  "description": "a",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

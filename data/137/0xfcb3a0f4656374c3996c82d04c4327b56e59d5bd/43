@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSzg1BpbXFRN6RCGvTmaLNuS8GnDnBsTYX4U2AvVkFeoQ/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "137",
+  "name": "#0042_Spring Green",
+  "description": "#0042_Tanshiki_GgC_Spring Green",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Spring Green",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Spring Green",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Spring Green",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

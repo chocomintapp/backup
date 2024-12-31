@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX51daS7FZ6XdipXdF82bmqXsSXxjRphUufXp9RqvkGzH/nft.jpg",
+  "nftContractAddress": "0x37fa63ddb4c4f37b25cd116fd58104ecaf60d801",
+  "animationUrl": "https://ipfs.io/ipfs/QmbypWSP1nkwNAUvHN2dSkS86XcsGfDwptnzbKTPyNAEHH/nft.png",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "kakure shun 隠　瞬",
+  "description": "His name is Kakure Shun.\nHe looks lethargic, but he is a kind and gentle brother who loves his family.     \nHis favorite thing to do is to live a quiet life.     ",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

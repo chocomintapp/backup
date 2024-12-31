@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSKRMkhLFYqGjtM9BkDUq89pJ5sNuCdh1xfkKxhqwoNEA/nft.jpg",
+  "nftContractAddress": "0x3778940e3d93964e9358d8dbc9da6c50ac62d593",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "IwakenIcons #0",
+  "description": "2017年のUnite Tokyo2017年にて撮影したIcon\n以降SNSで使い続けている",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "HoloLens"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQB3bm6SNXoBA3MouTQvQE4qnD5BT9Siroak72cBtrwuD/nft.jpg",
+  "tokenId": 15,
+  "description": "３D Object",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/QmTsnZc1Q2nXn4TsrzgbXDcH6JyG1Xow78vAhEDT3Pcs5g/nft.gltf",
+  "chainId": "137",
+  "name": "BAG",
+  "attributes": [
+    {
+      "trait_type": "3D",
+      "value": "3D"
+    }
+  ]
+}

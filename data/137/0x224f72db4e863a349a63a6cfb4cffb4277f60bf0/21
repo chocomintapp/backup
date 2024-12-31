@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPFxdy1JTvM3dApTmizJgTM8SSkcQaC4Jguru1tFnZs6Q/nft.png",
+  "tokenId": 21,
+  "description": "Hello Hadrien Of The Hills #113.",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#21 CRYPPL - Hadrien Of The Hills #113",
+  "attributes": [
+    {
+      "trait_type": "FRWC_ID",
+      "value": "113"
+    }
+  ],
+  "minted": "✅"
+}

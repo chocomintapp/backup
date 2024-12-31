@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfWGye4GDxgzA1YMkdysJv3o4nbksaHyai1Tfppmw56pq/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 304,
+  "chainId": "137",
+  "name": "#304",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#509895",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#9B1010",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Polluted nation",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gas mask/Defense enhanced",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "smell of blood",
+      "trait_type": "main damage"
+    }
+  ]
+}

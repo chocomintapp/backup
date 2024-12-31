@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmeh8VXs4ByF3qKh3rng5apu3VYWEiYGe3YuWkZagg89Rw/nft.jpg",
+  "tokenId": 22,
+  "description": "This is a gift from BSP.\nEnjoy in your various unique ways.",
+  "nftContractAddress": "0x8d39c597ead4c034b87acfd45a39052b9df8dd02",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Galactic Road Trip",
+  "attributes": [
+    {
+      "trait_type": "Back Ground",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Car Color",
+      "value": "Sky Blue"
+    },
+    {
+      "trait_type": "Driver",
+      "value": "Ice Baby Skull Girl"
+    }
+  ]
+}

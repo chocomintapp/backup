@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmReNViXnsZ43CNHPJ2CqbRXsPEeaM7RRiBcTkpmHArEHX/nft.jpeg",
+  "nftContractAddress": "0x869d59cce33b74ac06ecaf1c42e49d274cf30907",
+  "animationUrl": "https://ipfs.io/ipfs/QmPh6fv6PaXTFsnvsZkPYr7E29VjLttKFbRQpopyq7Rnkn/nft.jpeg",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "KillaGorilla",
+  "description": "The KILLAG you know me",
+  "attributes": [
+    {
+      "value": "100",
+      "trait_type": "Rare"
+    }
+  ]
+}

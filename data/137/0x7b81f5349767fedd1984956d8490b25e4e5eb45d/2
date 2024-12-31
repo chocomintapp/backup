@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdARtPvqBbWYYLSErnqxtosr49CKkkxeLPpKG7MqKnmZ9/nft.jpeg",
+  "nftContractAddress": "0x7b81f5349767fedd1984956d8490b25e4e5eb45d",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "warrior",
+  "description": "Text to Image NFT from 「warrior with Iron knuckles,Stylish helmets,earring」　",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Iron knuckles",
+      "trait_type": "weapon"
+    },
+    {
+      "value": "Stylish helmets",
+      "trait_type": "defensive armament"
+    },
+    {
+      "value": "earring",
+      "trait_type": "accessory"
+    }
+  ]
+}

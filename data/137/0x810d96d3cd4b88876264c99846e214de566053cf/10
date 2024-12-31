@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZPcjiapgfdTWJQ8r2G7RF945wufQJYx3xFuBeENitog3/nft.png",
+  "tokenId": 10,
+  "description": "Luke's LINE Digital Art NFT",
+  "nftContractAddress": "0x810d96d3cd4b88876264c99846e214de566053cf",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Army"
+}

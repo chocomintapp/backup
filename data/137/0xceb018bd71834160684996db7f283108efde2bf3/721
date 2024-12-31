@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVnEcMqdHm5Nmd17RMNZtT1rP4tZsbGq8prFA6M2zhKjT/nft.png",
+  "nftContractAddress": "0xceb018bd71834160684996db7f283108efde2bf3",
+  "animationUrl": "",
+  "tokenId": 721,
+  "chainId": "137",
+  "name": "721",
+  "description": "",
+  "attributes": []
+}

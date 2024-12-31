@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZhxcwCFSXJxZbezywP3ibVHPs8zpxR9kPwgoZuy3fW3P/nft.png",
+  "nftContractAddress": "0xbaf31e2889e0582a29bbdd6a6258e43c14d6f364",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "Hercules beetle Baby",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Hercules beetle",
+      "trait_type": "TYPE"
+    }
+  ]
+}

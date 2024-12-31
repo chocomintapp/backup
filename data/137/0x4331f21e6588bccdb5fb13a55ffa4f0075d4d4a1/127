@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNyS9UT24tBaAjcY2ESaZrgusR69UsYCdYMEFsi7Frfvg/nft.png",
+  "tokenId": 127,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**PANZER III Ausf.E**  \nIt is a medium tank that played a leading role in the Blitzkrieg with its abundance of advanced equipment.\n\nType E is the first full-scale mass-production model, and has undergone improvements that set it apart from the prototype models A through D. It has been equipped with a wide range of advanced equipment, and is a key player in the Blitzkrieg.\nThe suspension was changed from a leaf spring type to a torsion bar type, and the armor was doubled from 14.5 mm to 30 mm.\n\nAround 1943, it gave up its mainstay position to the IV tank, but it can be said that it made a significant presence as a groundbreaking, groundbreaking tank with the ability to respond to mobile warfare and anti-tank combat.\n\n**Ⅲ号戦車 E型**  \n先進的な装備をふんだんに盛り込み電撃戦の立役者となった中戦車です。\n\nE型は初の本格量産型で、試作的要素が強いA～D型とは別物と言える改良を施されており、サスペンションはリーフスプリング式からトーションバー式へ、装甲も14.5mm→30mmと2倍に引き上げられていました。\n\n1943年頃にはIV号戦車に主力の座を譲りましたが、機動戦や対戦車戦闘に対応する能力を持った画期的な、戦車として大きな存在感を示したと言えます。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0127 PANZER III Ausf.E",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

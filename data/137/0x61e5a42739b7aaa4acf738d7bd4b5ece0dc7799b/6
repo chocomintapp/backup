@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmefmTfiWSzBoPRydCXuTdLfKWAcwo5JCzZkuJXkBdP4SL/nft.png",
+  "tokenId": 6,
+  "description": "Creator [akane4475](https://opensea.io/akane4475.eth?tab=created_collections)\n\n日本円がモチーフの双子の姉妹「[まどか＆つぶら](https://hide.ac/articles/SxApLyyvM)」のくじです。",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "凶 #1",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "凶"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "akane4475"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZpQMgbnZwhbLARbGxkeiYg75PwTrp8knNKXyixrLEZCc/nft.jpg",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "137",
+  "name": "大吉 Joker #40",
+  "description": "唯一無二のジョーカーです。\n\nThe one and only joker.\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープル official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection\n\n\n\n",
+  "attributes": [
+    {
+      "value": "Joker",
+      "trait_type": "Special Item"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeRM7rmwdb4V2uAuh6FVBa8HuCxK2QjUD2LeRcHwfPfrf/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 97,
+  "chainId": "137",
+  "name": "Day39 Umitsuru's Art #115",
+  "description": "床屋のクルクル回る赤と青と白の看板、最近見ないな〜\n\nI haven't seen the spinning red, blue and white sign at the barbershop lately!",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

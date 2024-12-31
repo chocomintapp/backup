@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV21rRisX49pWjjGtkgahAr2X2tf6jbfBVGA4XupyRxVh/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 156,
+  "chainId": "137",
+  "name": "LIVING MINERAL #156",
+  "description": "",
+  "attributes": [
+    {
+      "value": "ibex",
+      "trait_type": "gene"
+    },
+    {
+      "value": "common",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "stone",
+      "trait_type": "material"
+    }
+  ]
+}

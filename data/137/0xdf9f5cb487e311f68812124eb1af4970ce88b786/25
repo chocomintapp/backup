@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYBjVHgWYFaaWopiWChwFWHxwQ1xHLQ9JwnEGH1zEef8D/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "137",
+  "name": "Working Ganmichan #17",
+  "description": "Ganmichan the housekeeper witnessed",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "housekeeper",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdhb1qGZKUHpaQ2BEmc2mGTVKPFcQVFSVSMtD6RPPhw83/nft.png",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "tokenId": 63,
+  "chainId": "137",
+  "name": "Calligraphy Devil #63",
+  "description": "Calligraphy Devil #63",
+  "attributes": [
+    {
+      "value": "Devil",
+      "trait_type": "Spieces"
+    },
+    {
+      "value": "Ose",
+      "trait_type": "Entity"
+    },
+    {
+      "value": "Odin",
+      "trait_type": "Shadow"
+    },
+    {
+      "value": "Hades",
+      "trait_type": "Background"
+    }
+  ]
+}

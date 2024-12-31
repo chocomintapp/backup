@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbEVc9UAku8DcpJqHW9ro12J9i8oM4WNu6uULCbzoHeQC/nft.png",
+  "tokenId": 1,
+  "description": "First crypto",
+  "nftContractAddress": "0xeb97b98d64c97d7040e48b29e42ca9219115b7d6",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Crypt 1",
+  "attributes": []
+}

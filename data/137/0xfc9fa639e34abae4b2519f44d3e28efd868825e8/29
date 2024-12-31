@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWTH5zb3hGxfg9H4nUn6brZort3YKc344io47qmQKqGjc/nft.png",
+  "nftContractAddress": "0xfc9fa639e34abae4b2519f44d3e28efd868825e8",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies Z #29",
+  "description": "Baby's growth potential is unlimited.",
+  "attributes": [
+    {
+      "value": "Zebra",
+      "trait_type": "TYPE"
+    }
+  ]
+}

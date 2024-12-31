@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQsfbbbX2frXGRJJSvcGRDsDZ5nB5JdBK1jSuTY5w4MGs/nft.jpg",
+  "tokenId": 12,
+  "description": "MK's Birthday NFT Charity Auction for children in need of help in Ukraine and Japan.\n\n\nAll the sales made from this collection will be donated to organization which is working to ensure safety for children in Ukraine and Japan. \n\nfunifunikun\n\nArtist: Momoka Otoshi\nTwitter: @momoka_otoshi\n\nOrganized by Mitsumasa Kiyohara\nTwitter : @masamitsu3232\n",
+  "nftContractAddress": "0xb063ad9746f7111d98ab93477449d8dc55daf82c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "funifunikun for Ukeraine #12",
+  "attributes": [
+    {
+      "trait_type": "Country",
+      "value": "Ukraine"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    }
+  ]
+}

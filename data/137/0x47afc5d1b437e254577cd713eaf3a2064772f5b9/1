@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdJz7Ua8RkR4v6K78V5GTCAEm9Q3jXKSJkbuUT2fVnHoQ/nft.png",
+  "tokenId": 1,
+  "description": "Crypto Cat with white shades and original CCC rocker tee",
+  "nftContractAddress": "0x47afc5d1b437e254577cd713eaf3a2064772f5b9",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "CoolCryptoCats #0003",
+  "attributes": []
+}

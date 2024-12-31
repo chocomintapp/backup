@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNwHZx5E5zStU7cN4ACF25SfsbogTUwCG3whp4H8gnrGU/nft.gif",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 1074,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #1074",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Rabbit",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY2DazuFPKd7tLVS6MZVbEmZm1eWGoBYKrwsHV7xRd3DF/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "137",
+  "name": "PPP #018",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Men’s short",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Racing suite RD",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Cap",
+      "trait_type": "Accessories"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWNYTjsiDR8XpdouK74QnnT7CTBv9RHZMC8w8PjRFPRrU/nft.png",
+  "nftContractAddress": "0x3adbd53ce43b64db4921600b95c618a638e07f16",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "Usarina",
+  "description": "POiNT (@point_party_)  \n🐰🥕うさぎラビット2023 🥕🐰　MV参加／出演作品",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "ウサギ",
+      "trait_type": "ANIMAL"
+    },
+    {
+      "value": "バレリーナ",
+      "trait_type": "JOB"
+    }
+  ]
+}

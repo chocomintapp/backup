@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZT3Y46qWQ7bHYPr52DcZR1griWidrpZfXTBRekom54s7/nft.png",
+  "tokenId": 97,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**B-17G Flying Fortress**  \nIt was a heavy bomber operated by the U.S. Army Air Corps in World War II.\n\nWith a long range, ample bomb capacity, the stability of its four-engine engine, and the solid defense provided by its hedgehog-like arrangement of 12.7mm machine guns, it was truly a masterpiece worthy of its nickname, \"Flying Fortress.\n\nEven if the horizontal tail fin was shredded, the fuselage had a wind hole, or the nose blew off, the aircraft survived.\n\n**B-17G フライングフォートレス**  \nアメリカ陸軍航空軍が第二次大戦で運用した重爆撃機です。\n\n長大な航続距離に十分な爆弾搭載量、4発エンジンの安定性とハリネズミのように配置された12.7mm機銃からなる守りの堅さは、まさしく愛称の「空飛ぶ要塞」にふさわしい傑作機でした。\n\n水平尾翼が千切れても、胴体に風穴が空いても、更には機首が吹き飛んでも生還するタフな機体設計は搭乗員から絶大な支持を得ていました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0097 B-17G Flying Fortress",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Bomber"
+    }
+  ]
+}

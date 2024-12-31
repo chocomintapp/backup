@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZnC2XeQbMsqkJS9yUkV5gCKeRFAaAPgcTRVdFa143Yvc/nft.png",
+  "nftContractAddress": "0x835c3ee237419c68e8f8cc770b2b5b3ba89ed7dd",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "soldier No.6",
+  "description": "This NFT is made by Stable Diffusion",
+  "attributes": []
+}

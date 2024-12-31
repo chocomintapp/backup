@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWxpnauMB5a3DgJGirDqb31N6NsjRU1RZ29gXZHDZWK5k/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 89,
+  "chainId": "137",
+  "name": "Day36 Nana's Art #107",
+  "description": "叩きつけるようにして描いています。\n\nI draw them as if I were slapping them together.",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

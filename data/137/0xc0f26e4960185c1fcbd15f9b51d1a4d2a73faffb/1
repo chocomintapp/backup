@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRaBADDMief7oRuxyg4Pz3dpgD6e7XuQzfr5XN2t87MEW/nft.jpg",
+  "nftContractAddress": "0xc0f26e4960185c1fcbd15f9b51d1a4d2a73faffb",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Koichi",
+  "description": "MyProfile",
+  "attributes": []
+}

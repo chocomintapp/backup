@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSzYzKTT6yw9QzLTkqY1fYNBqXbzZ1SBgLWLriJK3MvXp/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "137",
+  "name": "未来を見つめるえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "テレヤ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ビーフシチュー",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "タコ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "登山",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "イワヌガハナ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

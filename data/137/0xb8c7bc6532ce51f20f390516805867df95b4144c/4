@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf68YoSkw3SpG65HXWmCdk5ZHR5zXKP5SeHY1mneWafsg/nft.png",
+  "tokenId": 4,
+  "description": "stakingの呼称としてデジタル預託が選ばれました。",
+  "nftContractAddress": "0xb8c7bc6532ce51f20f390516805867df95b4144c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "staking",
+  "minted": ""
+}

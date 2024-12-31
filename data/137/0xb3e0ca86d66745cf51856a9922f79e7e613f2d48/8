@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdpFPx9aobAYwPG5TgHBNdRGbuNSaPnFs5giSAQc8dSuc/nft.jpg",
+  "nftContractAddress": "0xb3e0ca86d66745cf51856a9922f79e7e613f2d48",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "VeryCoolAnimals #008",
+  "description": "VeryLongAnimals✕CoolGirlの二次創作です。",
+  "attributes": [
+    {
+      "value": "squid",
+      "trait_type": "type"
+    }
+  ]
+}

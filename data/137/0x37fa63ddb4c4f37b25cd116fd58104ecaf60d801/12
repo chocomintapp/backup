@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT5NEJb9SJWzsi1TMbNPDt34vevZihipRP8bMznYFJgyW/nft.png",
+  "nftContractAddress": "0x37fa63ddb4c4f37b25cd116fd58104ecaf60d801",
+  "animationUrl": "https://ipfs.io/ipfs/QmT5NEJb9SJWzsi1TMbNPDt34vevZihipRP8bMznYFJgyW/nft.png",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "A Moment in Everyday Life -kakure kazuchika 隠　和睦-   ",
+  "description": "We grind coffee beans to be served at the coffee shop.     \nThe sound and feel of this crunching by hand and the aromatic aroma are calming.     \nIf you would like to visit our store, please feel free to do so.     \nI would be happy to brew you a cup of coffee that is just right for you.     \n\n喫茶店でお出しするコーヒー豆を挽いています。     \nこの、手でカリカリと砕く音と感触、芳ばしい香りが心を落ち着けてくれます。     \nもしよろしければ当店にお越しください。     \n貴方に合った一杯を、私に淹れさせて下さればと。     ",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

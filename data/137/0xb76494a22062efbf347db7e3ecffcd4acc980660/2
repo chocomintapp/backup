@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmci9LCxZ7r91DTMeTxQzBwpNWGQtMcRvNV8pv6xDiqtkB/nft.png",
+  "nftContractAddress": "0xb76494a22062efbf347db7e3ecffcd4acc980660",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Smile! Saki",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Saki",
+      "trait_type": "Character"
+    }
+  ]
+}

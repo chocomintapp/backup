@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmardVPSdJYm2e1MrZvJQVEX8kai6jxKERF2SgtJiepHoj/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "137",
+  "name": "VerySilentFruits#42 Uchuva",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Uchuva",
+      "trait_type": "Fruit"
+    }
+  ]
+}

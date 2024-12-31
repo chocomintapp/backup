@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbXsVJE4Lbxt1FnT5jD6KKvjPHewWPgPgA6dJFf37wSBo/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 71,
+  "chainId": "137",
+  "name": "Neon #71",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "yellow hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "green-blue cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "none",
+      "trait_type": "hand"
+    },
+    {
+      "value": "proud",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

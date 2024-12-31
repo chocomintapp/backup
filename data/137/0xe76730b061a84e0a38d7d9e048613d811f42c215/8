@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcgvDL9sxfavaarnr4ohhZnNcaxJqYK8wEE7fdSKhHK15/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "THS #007",
+  "description": "【鮫】",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "born",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "shark",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "internal organ",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

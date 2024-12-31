@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP3BWC1RA99R4TcmgFXbQvNzNN2D3jJLxM8xo3tZ4JWyX/nft.jpg",
+  "nftContractAddress": "0x2be0ad31089cd138230887565bbaff36d992295a",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "blueman",
+  "description": "coolguy",
+  "attributes": [
+    {
+      "value": "good",
+      "trait_type": "blueman"
+    }
+  ]
+}

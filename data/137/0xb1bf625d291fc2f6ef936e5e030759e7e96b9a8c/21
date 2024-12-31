@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeVKyfRTCxgsDWSFz1SyCbSRfBG7Kvr7tneVj7HMX19PD/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "HUNIMAL #21",
+  "description": "Human + Animal = Hunimal",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Black",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Owl + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Naked",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Slick Back",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "1980s",
+      "trait_type": "STYLE"
+    }
+  ]
+}

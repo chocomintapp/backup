@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ51amBSjrvQMRWNUVteAtfHpN5XETNLaBvp7EYaf9C1t/nft.png",
+  "tokenId": 1,
+  "description": "ULTRAMAN",
+  "nftContractAddress": "0x6ecbf71aa7462358a3322d57721d7a04ac8365f4",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "ULTRAMAN",
+  "attributes": [],
+  "minted": ""
+}

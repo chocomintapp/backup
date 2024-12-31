@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTdYs1Jgb7as77BJKLrBQCy5k8zGFqKwdBkGKgZ9DU7GV/nft.png",
+  "tokenId": 41,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**V-1 Fi103 Re4**  \nIt was a manned model with a cockpit to dramatically improve the accuracy of the V-1 missile hits, and was named \"Reichenberg\".\n\n\nThe pilot was supposed to eject just before entering the target, but the layout with the engine directly behind made safe and quick ejection very difficult.  \nIn fact, it was similar to the Japanese Navy's \"Ōka\" suicide weapon. Although it was mass-produced, it was not used in actual warfare due to many negative comments about its radical concept.\n\n**V-1 飛行爆弾 ライフェンベルク**  \n史上初の巡航ミサイルV-1の命中精度を飛躍的に向上させる為に\nコクピットを持たせた有人型で「ライフェンベルク」と名付けられました。\n\nパイロットは目標突入直前で脱出する予定でしたが\nエンジンが真後ろにあるレイアウトなので、安全かつ迅速な脱出は非常に厳しく、実際には日本海軍の特攻兵器「桜花」に近い存在でした。\nライフェンベルク量産されたものの、過激なコンセプトに否定的な意見が多く、実戦投入はされませんでした。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0041 V-1 Fi103 Re4",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Secret weapon"
+    }
+  ]
+}

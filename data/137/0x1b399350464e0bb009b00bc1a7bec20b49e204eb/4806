@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd8mbgm4JFa17kvRNf2eYH11HR1wFBDtCnKSnaZREsSn7/nft.png",
+  "tokenId": 4806,
+  "description": "He is Ronin. A ronin is a person who leaves his native land and goes into exile. A ronin leaves a region with many restrictions, then the're free to be active in their own right. They can be described as freelance warriors. There are 5,555 samurais in this Samurai Assemble Collection. You might find super rare characters who are called \"the most powerful samurai in history,\" or someone who are resemble to you or your family and friends. ;-) Please create your favorite group of samurai!\n",
+  "nftContractAddress": "0x1b399350464e0bb009b00bc1a7bec20b49e204eb",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Samurai Assemble #4806",
+  "attributes": [
+    {
+      "trait_type": "JOB",
+      "value": "Ronin"
+    },
+    {
+      "trait_type": "Personage",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Face Decoration",
+      "value": "Kumadori"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Katana"
+    },
+    {
+      "trait_type": "Effect of the weapon",
+      "value": "Sharpened"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Japanese"
+    },
+    {
+      "trait_type": "Head Decoration",
+      "value": "N/A"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Up Bang"
+    }
+  ]
+}

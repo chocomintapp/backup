@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeLHqMG5iJcFpefsPfvdhf2fnB6zVy2Q6tiuipHyFKKUe/nft.jpg",
+  "nftContractAddress": "0x5f2e42f34d63eb91ab13974ecb6a911d57d18133",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "Chibikko-saurus girl#01",
+  "description": "What do you want to do when you grow up?",
+  "attributes": [
+    {
+      "value": "Pachycepharosaurus",
+      "trait_type": "character"
+    },
+    {
+      "value": "kind",
+      "trait_type": "personality"
+    }
+  ]
+}

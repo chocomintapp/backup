@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPb66CyNgwyNm7qmH6GprWwR6KhowEdRTfRcG3xSMaGHc/nft.jpg",
+  "tokenId": 10,
+  "description": "This is a gift from BSP.\nEnjoy in your various unique ways.",
+  "nftContractAddress": "0x8d39c597ead4c034b87acfd45a39052b9df8dd02",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Outback Drive",
+  "attributes": [
+    {
+      "trait_type": "Back Ground",
+      "value": "Desert Wilderness"
+    },
+    {
+      "trait_type": "Car Color",
+      "value": "Moss Green"
+    },
+    {
+      "trait_type": "Driver",
+      "value": "Purgatory Afro Skull Baby"
+    }
+  ],
+  "minted": "✅"
+}

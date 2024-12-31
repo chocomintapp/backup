@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmeuk8TNa5SRsHXZLo7KHT8SmafCohc4rthNhEuaQZt5bs/nft.png",
+  "tokenId": 5,
+  "description": "Summary of prototypes.\n\nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x6392f80f5a556a22ffbbd49692e3a010d9af4773",
+  "animationUrl": "https://ipfs.io/ipfs/QmUCn8MnN763csPLyDVv3NGtYkxbZqQZjG675K6ULoPnZW/nft.png",
+  "chainId": "137",
+  "name": "7E-10E Prototype",
+  "attributes": [
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Prototype"
+    }
+  ],
+  "minted": "✅"
+}

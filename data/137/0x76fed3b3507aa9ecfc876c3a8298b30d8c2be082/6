@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQFmE249CeLeCjvbCjjU8a7iN35FDtZRUF8quYfohvQWM/nft.jpeg",
+  "nftContractAddress": "0x76fed3b3507aa9ecfc876c3a8298b30d8c2be082",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "きりん",
+  "description": "きりんおる？",
+  "attributes": [
+    {
+      "value": "キリンリング",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

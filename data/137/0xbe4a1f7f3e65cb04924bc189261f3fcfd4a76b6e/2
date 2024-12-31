@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ3RVWjG9MsXVyRvU6PAjPJ9sczp2oGuRsso1y8F9guXJ/nft.gif",
+  "tokenId": 2,
+  "description": "Moving Noun 1",
+  "nftContractAddress": "0xbe4a1f7f3e65cb04924bc189261f3fcfd4a76b6e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "GIF Noun 1",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Warm"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Peachy-B"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fox"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square-pink-purple-multi"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcbA1TjC7uECknGQBrZAmAUKDA2r9qUB9eukFb156Mwkd/nft.png",
+  "nftContractAddress": "0x30c83efef673bb661a4a488c72ee696986ba7fa6",
+  "animationUrl": "https://ipfs.io/ipfs/QmRe7BYCBmvactj4m92nr5wADK1gL2sRf16unrp4xY4GNx/nft.PNG",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "RoboBeefRocknRoll",
+  "description": "Cow robot and rock and roll",
+  "attributes": []
+}

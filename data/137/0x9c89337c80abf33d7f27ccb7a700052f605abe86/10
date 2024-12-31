@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW5kpN8DWN21TzBGnvMyDpLaTC7GPjF9gS465JzbhggQW/nft.jpg",
+  "tokenId": 10,
+  "description": "Bear riding a motorcycle nft",
+  "nftContractAddress": "0x9c89337c80abf33d7f27ccb7a700052f605abe86",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Bear motorcycle"
+}

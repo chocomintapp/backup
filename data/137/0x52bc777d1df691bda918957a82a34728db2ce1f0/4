@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNe1vHDAR4RUuFKLoDvkNbgMXRSuYpvmzFLj7B8pVbJPL/nft.png",
+  "tokenId": 4,
+  "description": "Calligraphy Devil #4",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #4",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Ose"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Morax"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Envy"
+    }
+  ],
+  "minted": "✅"
+}

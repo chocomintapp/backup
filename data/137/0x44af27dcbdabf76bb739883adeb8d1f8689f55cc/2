@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbazszv7XMVoBnBgNQmf6PiS1wgXhUDmjgN3TwCRzBc49/nft.png",
+  "tokenId": 2,
+  "description": "3D\n",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/QmSNEvYi2Lsc5mHmVa8Jzd9QmYZXrYToPHqJyqkzyf1yNW/nft.gltf",
+  "chainId": "137",
+  "name": "mutoma+",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "3D",
+      "value": "0.00001"
+    }
+  ]
+}

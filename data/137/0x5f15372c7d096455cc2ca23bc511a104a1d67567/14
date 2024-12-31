@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaPsHEMPNqpGwYtmvfsTVRBaEdXNCxvTgTWN9sCpoDeFH/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmaPsHEMPNqpGwYtmvfsTVRBaEdXNCxvTgTWN9sCpoDeFH/nft.png",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "Rabbit girl #2 『Mint』🐰",
+  "description": "Rabbit girl #2 『Mint』🐰\nShy and cute girl with the image of Valentine's Day and chocolate mint. \nThe trade mark is bright red eyes and a big ribbon.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Mint",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Illustration",
+      "trait_type": "Type"
+    }
+  ]
+}

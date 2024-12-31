@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaFnG3F1uHeXenTad4n6x5dHCggfbrG4j4gKicrQBNqq6/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmaFnG3F1uHeXenTad4n6x5dHCggfbrG4j4gKicrQBNqq6/nft.png",
+  "tokenId": 31,
+  "chainId": "137",
+  "name": "Rabbit girl #14 『Heliodor』",
+  "description": "Rabbit girl #14 『Heliodor』\n\nA jewel girl of the sun.☀️ \nShe always wear glittering accessories.\n\nLove it Girls #4 💎 Bidder benefits🎁",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Heliodor",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

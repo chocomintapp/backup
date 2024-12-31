@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVF4KVrbUHo2dznhoHM2BVFrDCYLmB73YA9196JrkvcP2/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "#17",
+  "description": "fire",
+  "attributes": [
+    {
+      "value": "Fire",
+      "trait_type": "RACE"
+    }
+  ],
+  "minted": "✅"
+}

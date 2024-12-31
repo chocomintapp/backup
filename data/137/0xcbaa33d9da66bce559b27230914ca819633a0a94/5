@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPCcgUBHDecg3fXQRneMKwW7n3NU4fAht5ZSZgTRHetRH/nft.png",
+  "tokenId": 5,
+  "description": "This is a collection of Richard the dog derived from crazy crypto paradise. You will love the mischievous and cute Richard who plays with paint.",
+  "nftContractAddress": "0xcbaa33d9da66bce559b27230914ca819633a0a94",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Paint baby Richard #5",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Paint",
+      "value": "White"
+    }
+  ],
+  "minted": "✅"
+}

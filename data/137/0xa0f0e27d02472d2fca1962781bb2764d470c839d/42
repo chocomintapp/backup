@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXh23v468VLc4p71SAnqA1cTdWtgDuKYFJLgcenaa9fzT/nft.png",
+  "tokenId": 42,
+  "description": "コブラツイストで魚を絞めてます。\n\nI'm choking the fish with a cobra twist.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cat（Inoki　イノキ）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

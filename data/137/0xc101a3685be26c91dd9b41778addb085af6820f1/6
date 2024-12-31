@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma4wrLyPrxaR42Uz4FyU67CsJgg6aPEviy6snhCqGgJLi/nft.gif",
+  "tokenId": 6,
+  "description": "Legs evolved. Because we admired animals that galloped on land.\n\n足が進化した。陸を颯爽と走る動物に憧れたから。\n\nThe creatures that live in the seaside luck o city. They live with sin on their backs. The deeper the sin, the more they can dive into the sea.\n\nseaside luck o city（シーサイドラッコシティ）に住む生き物たち。彼らは罪を背負って生きている。罪が深ければ深いほど、彼らは海に深く潜れる。",
+  "nftContractAddress": "0xc101a3685be26c91dd9b41778addb085af6820f1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "taketake",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Saturn"
+    },
+    {
+      "trait_type": "Envy",
+      "value": "70"
+    },
+    {
+      "trait_type": "Wrath",
+      "value": "20"
+    },
+    {
+      "trait_type": "Greed",
+      "value": "10"
+    }
+  ]
+}

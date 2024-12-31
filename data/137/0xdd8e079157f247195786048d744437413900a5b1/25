@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmexeXxEUFWdpons9qdJnmkGhXBwq2f32SiHgCGnfokYyV/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmexeXxEUFWdpons9qdJnmkGhXBwq2f32SiHgCGnfokYyV/nft.gif",
+  "tokenId": 25,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #25",
+  "description": "ベビロン二次創作",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Octopus",
+      "trait_type": "TYPE"
+    }
+  ]
+}

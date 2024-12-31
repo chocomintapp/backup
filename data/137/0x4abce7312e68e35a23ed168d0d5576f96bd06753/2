@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUhMgsqpNAxFni299e13TbsgFs6szjZgjXChRvcwHgg6c/nft.jpg",
+  "tokenId": 2,
+  "description": "TESTTESTTEST",
+  "nftContractAddress": "0x4abce7312e68e35a23ed168d0d5576f96bd06753",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc5vADCfeChvQgEh5ztxtj7en333YfX3VtHpnk2YGa1VT/nft.mp4",
+  "chainId": "137",
+  "name": "TAAA",
+  "minted": "✅"
+}

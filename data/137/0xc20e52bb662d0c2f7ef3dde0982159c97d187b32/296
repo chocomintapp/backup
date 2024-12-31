@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmasDrJbtMTiovHyUmxBP7XL4o3aFxfYd7PoysPDXYZJx8/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 296,
+  "chainId": "137",
+  "name": "#296",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Ungarische Tänze",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#2A2A2F",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Composer",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Johannes Brahms",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ],
+  "minted": "✅"
+}

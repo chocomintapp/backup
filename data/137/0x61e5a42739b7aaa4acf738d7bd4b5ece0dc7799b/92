@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY12ertayiz2AE9CJHn6oJnkPZazDTGZFbZUVWTitTvBw/nft.jpg",
+  "tokenId": 92,
+  "description": "Creator [Mr_HouseBear](https://opensea.io/Mr_HouseBear_NFT?tab=created_collections)\n\n私と一緒なら幸せになれるよ",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "大凶 #3",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "大凶"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Mr_HouseBear"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Unopened"
+    }
+  ]
+}

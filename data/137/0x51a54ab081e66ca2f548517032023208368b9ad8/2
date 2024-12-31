@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRwy5kUEB61UCKzQXwAP4kzdwDhLjLcryoP5rJfTfNJGv/nft.png",
+  "nftContractAddress": "0x51a54ab081e66ca2f548517032023208368b9ad8",
+  "animationUrl": "https://ipfs.io/ipfs/QmU3BMq4KYwFNTgbAN6H4mAc2P2tEAVVDvABDaYLfCgMUY/nft.glb",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "test3",
+  "description": "テスト",
+  "attributes": []
+}

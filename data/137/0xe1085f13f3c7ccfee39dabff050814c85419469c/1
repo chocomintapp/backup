@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVS3MVY5s3ZnB5yxi57471sre4NVkjyjYinSUT4jmcvN1/nft.jpg",
+  "nftContractAddress": "0xe1085f13f3c7ccfee39dabff050814c85419469c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "hajimeteNFT",
+  "description": "hajimetenoNFT",
+  "attributes": []
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma38zNzFYWyGAhC48D5Xf3kaXWac97bkkLkWf1EnortMp/nft.gif",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/Qma38zNzFYWyGAhC48D5Xf3kaXWac97bkkLkWf1EnortMp/nft.gif",
+  "tokenId": 30,
+  "chainId": "137",
+  "name": "Japanese NFT world Fan art",
+  "description": "Japanese NFT world(@jp_nft_world)'s official character\n\nRemo-ne (Cawaii Gyaru!!!) @Cawaii_Cawaii00) It's fan art of a very cute gyaru.\n\nJNWfanart 🐰",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Fanart",
+      "trait_type": "Type"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

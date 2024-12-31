@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTuDw58Yn3PedcgRqVpz3Q1rKcLUqUbwA6Wr68eXPs7M8/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 46,
+  "chainId": "137",
+  "name": "Neon #46",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon girl",
+      "trait_type": "character"
+    },
+    {
+      "value": "pink hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "jutsu",
+      "trait_type": "hand"
+    },
+    {
+      "value": "focus",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

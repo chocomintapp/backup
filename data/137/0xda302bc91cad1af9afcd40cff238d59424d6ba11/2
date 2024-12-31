@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVRxwmUt9A1EyxX9qxFKFWp5pzpbPsRPNdZCsvaWNoCYc/nft.png",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0xda302bc91cad1af9afcd40cff238d59424d6ba11",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "BITCONUSI #001",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "trait",
+      "value": "GEN-0"
+    }
+  ]
+}

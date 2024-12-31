@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVVPPsQMV1v2SVgEwaxoLStUYBdyVYtwGAxne11s4qhkE/nft.png",
+  "tokenId": 1,
+  "description": "テストだよ",
+  "nftContractAddress": "0x192f4f66540c3086af29bcce977870f2d1a65d8b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "KIKI_test",
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVLzXjfvcZEjnSvQDzy3jHABw3CpHM7wvqDPaUJLqvYtP/nft.png",
+  "tokenId": 1,
+  "description": "【 one-winged LAVOS 】  \nThe beginning of something is also the end of something, \nor the end of something is also the beginning of something.  \n\n【片翼のラヴォス】\n何かの始まりは何かの終わりである、\nまた何かの終わりは何かの始まりでもある。",
+  "nftContractAddress": "0x64dc1cd1ddce70b7848740dd75d7238c50b3e46c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "LAVOS#1XO",
+  "attributes": []
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf33dnxrqJNkWBvi9j557td1W5cPoLmVncKq9NzobuWvP/nft.gif",
+  "tokenId": 250,
+  "description": "CryptoGoro #Day250\n\n07/MAR/2022\n\nWorld famous modern artist Mr.Goro makes his self-portrait every day. Each NFG(Non-Fungible Goro) mint only one. This project will continue until his death. Let’s collect your own Goros!!\n\n1750 days before death.\n\nThis special art work is inspired by great creator Mera Takeru @mera_takeru",
+  "nftContractAddress": "0x6c621364993e5cd4c6468930d287ba76ef64f366",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "CryptoGoro #Day250",
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "RACE",
+      "value": "Mera"
+    }
+  ],
+  "minted": "✅"
+}

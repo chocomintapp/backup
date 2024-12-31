@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPuHkSDfGzWs9snjZuMyW89FyqUUQVuU4AXGFxHBUfhJ6/nft.png",
+  "nftContractAddress": "0xf43a10375ba6683071d3524a9e3ca933b7ef0336",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Wave#1",
+  "description": "yuumato test",
+  "attributes": [
+    {
+      "value": "Yuumato",
+      "trait_type": "Creator"
+    },
+    {
+      "value": "Proccesing",
+      "trait_type": "Code"
+    }
+  ]
+}

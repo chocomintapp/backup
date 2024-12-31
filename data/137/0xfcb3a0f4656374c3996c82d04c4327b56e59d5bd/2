@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSfnEvZ1chATMU1aS6juiViCksVyx7ojmT8apuXPYN47L/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "#0002_Magenta",
+  "description": "#0002_Magenta\n「始祖の三人」のうちの一人であるマゼンタです。\nOne of the \"Founder's Three Chromatopians\"-Magenta.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Magenta",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Magenta",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Magenta",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "Founder's Three",
+      "trait_type": "Feature"
+    }
+  ]
+}

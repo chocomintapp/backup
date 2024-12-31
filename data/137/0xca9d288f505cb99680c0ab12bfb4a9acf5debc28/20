@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeSRVoSr3YLvXBXVqddL52p6pYhcw2tsEqju813fn59Gk/nft.png",
+  "nftContractAddress": "0xca9d288f505cb99680c0ab12bfb4a9acf5debc28",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "#20",
+  "description": "this is 200 unique NFTs.",
+  "attributes": [],
+  "minted": "✅"
+}

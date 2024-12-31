@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeTtfqB3YE4stzG4qS8bAkmAwYN81cEFCoEmkk41tdr7u/nft.png",
+  "tokenId": 3,
+  "description": "He is a proud Japanese Bushi (Samurai).",
+  "nftContractAddress": "0xcac2166f71e19b95ee9e89cfc120ff438d2c247e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "bc_kibi_0003",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Team",
+      "value": "bushi"
+    },
+    {
+      "trait_type": "Name",
+      "value": "takeshi"
+    }
+  ]
+}

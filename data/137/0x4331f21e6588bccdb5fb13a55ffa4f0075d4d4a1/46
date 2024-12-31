@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcenQXRpgqFBKbxstsm6CoeawLs9u52bdGHpedyQLMDau/nft.png",
+  "tokenId": 46,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TYPE4 Chi-to**  \nThis medium tank was to be the successor to the Type 3 Chi-nu.\n\nEquipped with a powerful 75mm gun, it could penetrate 75mm armor at a distance of 1000m.\n\nIt had a maximum armor of 75mm, which was thick for a Japanese tank, and a maximum speed of 45km, which was good enough to go head-to-head with its nemesis, the M4 Sherman.\n\nIt was a world-class medium tank that the Japanese Army finally had, but it could not be mass-produced, and only a few were completed.\n\n**四式中戦車 チト**  \n三式中戦車 チヌの後継となる予定だった中戦車です。\n強力な75mm砲を搭載し距離1000mで75mmの装甲を完徹できました。\n\n装甲も最大75mmと日本戦車にしては厚く、最大速度も45kmと良好で、宿敵M4シャーマンと正面から撃ち合えるスペックでした。\n\n日本陸軍がようやく手にした世界水準の中戦車だったと言えますが、戦況が量産を許さず、ごく少数が完成したにとどまりました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0046 TYPE4 Chi-to",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

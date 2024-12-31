@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmezx1DvJEzeiXVsEVVob5vPkz89sXaeK2jn33VxUbbBuy/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 50,
+  "chainId": "137",
+  "name": "#50",
+  "description": "ogre",
+  "attributes": [
+    {
+      "value": "Ogre",
+      "trait_type": "RACE"
+    }
+  ]
+}

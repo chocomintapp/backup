@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRYDBQ8f2FSAKBzMSJqNqYvQnqWsMvZNoJHQKDTXL5Rsv/nft.png",
+  "tokenId": 1,
+  "description": "My original work",
+  "nftContractAddress": "0x9c89337c80abf33d7f27ccb7a700052f605abe86",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "cat"
+}

@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWA74qAahsBYEB3MAC2sJ4Unnfr1W5vGqq4jfsmAWnY2F/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "137",
+  "name": "#34",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Sea",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#61D2D9",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "International maritime signal flags",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Charlie",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

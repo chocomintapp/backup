@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYUBWXCFUjGrguCqe4VoDGqd1D4Lqk2KLyddCdAZKyB27/nft.jpg",
+  "tokenId": 1,
+  "description": "Baby Skull Pacifier is for costumes, hairstyles, hats, accessories, pacifiers, etc.\nIt consists of various options.\n\nA collection of 9999 types of NFTs that are cute, cool, and sometimes mysterious.\nThere are no same combinations or different color schemes, and all are one of a kind items.\nFind your favorite Baby Skull and welcome it to your wonderful NFT collection.",
+  "nftContractAddress": "0xd69c28ef4e2c80d6d63eb22c292dbaa6cf154cc9",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "BSP #0001",
+  "attributes": [
+    {
+      "trait_type": "Back Ground",
+      "value": "Baby Pink"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Default"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Default"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Bib"
+    },
+    {
+      "trait_type": "Pacifier",
+      "value": "Baby Pink"
+    }
+  ]
+}

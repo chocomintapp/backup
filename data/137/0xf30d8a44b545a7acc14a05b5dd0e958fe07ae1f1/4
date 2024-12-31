@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXeTe6AyhrtLHapbVYa7fagWdZEpmum4oJzVqnusr7e3i/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "PPP #004",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Women’s short BK",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sweater PK",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Glasses",
+      "trait_type": "Accessories"
+    }
+  ]
+}

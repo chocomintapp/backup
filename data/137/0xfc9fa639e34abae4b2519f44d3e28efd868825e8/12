@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcfjPipWVqbTnnFKNG21VrEN29Xx64k3uimDM8FMjK6Qp/nft.png",
+  "nftContractAddress": "0xfc9fa639e34abae4b2519f44d3e28efd868825e8",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies Z #12",
+  "description": "Baby's growth potential is unlimited.",
+  "attributes": [
+    {
+      "value": "Okinawa Rail",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

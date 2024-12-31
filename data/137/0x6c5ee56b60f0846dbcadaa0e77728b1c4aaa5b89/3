@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRKj2sUkmEdwPyFqKf8kG76UKWAmNYuEuFTUUmHMBSj7q/nft.png",
+  "nftContractAddress": "0x6c5ee56b60f0846dbcadaa0e77728b1c4aaa5b89",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Mintin' Donuts #026",
+  "description": "OGP's geometric pattern X gee-chan collaboration \n@FKYN_NFT\n@gee_otaryo",
+  "attributes": [
+    {
+      "value": "Plain",
+      "trait_type": "TOP"
+    },
+    {
+      "value": "Nomal",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Cinnamon Sugar",
+      "trait_type": "DECORATION"
+    },
+    {
+      "value": "OGP's geometric pattern",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Gee-chang",
+      "trait_type": "OTHER"
+    }
+  ],
+  "minted": "✅"
+}

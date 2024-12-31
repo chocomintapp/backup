@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc6V89WfaLS189WfetDUUQJtmhjYYMpACHRwYyxukCMk3/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "Neon #11",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "yellow hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "green-blue sweater",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "umbrella sword",
+      "trait_type": "hand"
+    },
+    {
+      "value": "late",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

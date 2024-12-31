@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmadWhBbFDppv9CJQvr5BxEn3BNNuN17bFQoFWNDPX7fpQ/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "Working Ganmichan #14",
+  "description": "Ganmichan's family mochi pounding",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "mochi",
+      "trait_type": "situation"
+    }
+  ]
+}

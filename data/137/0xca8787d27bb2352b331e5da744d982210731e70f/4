@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmajMbZwZWVnYP9zpzEKLPmiBqfSzdX7QYw9Z8Myj3Bfey/nft.jpg",
+  "nftContractAddress": "0xca8787d27bb2352b331e5da744d982210731e70f",
+  "animationUrl": "https://ipfs.io/ipfs/QmXtAMy1HcMbSqAYGRgahuLUpCVcnzLcUoUFD6Qx7gXNRi/nft.glb",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "gold",
+  "description": "gold",
+  "attributes": []
+}

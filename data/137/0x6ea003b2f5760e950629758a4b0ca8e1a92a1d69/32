@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfPsJF7Z4mTjvmpt8wJNz4bo7KR2ZwpyC6UfbhnfZvssr/nft.png",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "137",
+  "name": "陽光 -Youko-",
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations. In particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.\n\nここは全国の恵比寿様の総本山、美保神社。\nその神門から出てきたのは、一匹の猫。\n\n背に陽光を受けながら出てきた彼女は、まるで、スポットライトを浴びたかのようにオレンジ色に染まっています。\n\nお参りに来た帰りかな。",
+  "attributes": [
+    {
+      "value": "Miho Jinjya",
+      "trait_type": "Location"
+    },
+    {
+      "value": "SENBYO",
+      "trait_type": "MODEL"
+    }
+  ]
+}

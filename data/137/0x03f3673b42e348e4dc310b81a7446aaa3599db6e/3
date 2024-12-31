@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdGxgVjqyw4kZjX8hCLPaLRVizpL4oj1M1iBNwcxz5uwN/nft.png",
+  "tokenId": 3,
+  "description": "夏が待てないくっじーの動画です。",
+  "nftContractAddress": "0x03f3673b42e348e4dc310b81a7446aaa3599db6e",
+  "animationUrl": "https://ipfs.io/ipfs/QmP933d3Whuw7Q3msSAArxW8zaVKB5JMxQqCiLsvz4noXk/nft.mp4",
+  "chainId": "137",
+  "name": "夏が待てないくっじー",
+  "minted": "✅"
+}

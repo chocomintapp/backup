@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXpX3aoJcdDAA5ycojfRwosYJBmX6BGmp7wv3y4qAnjdn/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 184,
+  "chainId": "137",
+  "name": "#184",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Different world",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "Breeze",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Elemental jewels",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Wind jewel",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "The power of the wind",
+      "trait_type": "special1"
+    },
+    {
+      "value": "Wind mischief",
+      "trait_type": "Accessory1"
+    }
+  ],
+  "minted": "✅"
+}

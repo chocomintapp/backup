@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmakmLLr3iufkt7W6J245Xcv2DSSw7RrfjRgnReBWVEDCQ/nft.png",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "BasketBallBabies ＃14",
+  "description": "Basket Ball Babies\nたぬき\n\nBasket Ball Babies\nRaccoon",
+  "attributes": [
+    {
+      "value": "RACCOON",
+      "trait_type": "TYPE"
+    }
+  ]
+}

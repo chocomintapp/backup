@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPVi3juNmpWwkPiUXbxefe66AzJKAqjcmpiLUMDjVj9Sm/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "THS #002 ",
+  "description": "【無】",
+  "attributes": [
+    {
+      "value": "eggplant leaf",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "eel",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "snake",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

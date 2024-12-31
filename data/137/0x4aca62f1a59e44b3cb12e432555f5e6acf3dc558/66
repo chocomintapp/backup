@@ -1,0 +1,64 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcPnDpLzr9BQeT3pdhJYZabXw9jUA5LYjiNMxhJrqGNaW/nft.png",
+  "tokenId": 66,
+  "description": "This is a limited edition NFT.   \nNiko24 x TheKAPSEL78 This is a collaboration piece for a gift.   \nI've been thinking a lot about Wolves.   \nThis is a tribute NFT to the NFTCreater Niko24.   \nThis KAPSEL is my 10th collaboration KAPSEL. Limited Edition1/1 NFT.   \n\nI wish for good things to happen in your life.   \n\nhttps://opensea.io/collection/niko24 - The Cake #44  \nhttps://twitter.com/fukusta343",
+  "nftContractAddress": "0x4aca62f1a59e44b3cb12e432555f5e6acf3dc558",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "TheKAPSEL#66 Collab LE",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Brand",
+      "value": "Kapsel78Lab"
+    },
+    {
+      "trait_type": "Collections",
+      "value": "The KAPSEL78"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Morim"
+    },
+    {
+      "trait_type": "Gen",
+      "value": "1"
+    },
+    {
+      "trait_type": "TYPE",
+      "value": "Tribute Works"
+    },
+    {
+      "trait_type": "Upper outer",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Lower outer",
+      "value": "White"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "The Cake #44"
+    },
+    {
+      "trait_type": "Font",
+      "value": "Glow White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glow Red"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Tabaco"
+    },
+    {
+      "trait_type": "Background",
+      "value": "TheWolf Purple"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Runaway Wolf"
+    }
+  ]
+}

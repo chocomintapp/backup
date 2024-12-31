@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNqXVBTYoVq9oR4Lc2H5KCW2GidnetddsGh7Wa7nrQZiC/nft.png",
+  "nftContractAddress": "0x7739693c76ebd48436005022c65bfa7cca4172b9",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "#001 たくやテスト",
+  "description": "これはテストこれはテストこれはテスト\nこれはテストこれはテストこれはテスト\nこれはテストこれはテストこれはテスト\nこれはテストこれはテストこれはテスト\nこれはテストこれはテストこれはテスト",
+  "attributes": [
+    {
+      "value": "司法書士",
+      "trait_type": "job"
+    },
+    {
+      "value": "ダウンタウン",
+      "trait_type": "origin"
+    },
+    {
+      "value": "スケボー",
+      "trait_type": "skill"
+    },
+    {
+      "value": "nondate",
+      "trait_type": "personality"
+    }
+  ]
+}

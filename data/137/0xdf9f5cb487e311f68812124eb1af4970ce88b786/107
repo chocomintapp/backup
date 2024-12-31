@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdbP7Ctcvt8cdBZuBhLRYieDaPofTU4FJExDf4NeFuByw/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 107,
+  "chainId": "137",
+  "name": "Working Ganmichan#27",
+  "description": "がんみちゃんは、江戸時代にタイムスリップして妖術を扱えるようになった",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "sorcerer",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

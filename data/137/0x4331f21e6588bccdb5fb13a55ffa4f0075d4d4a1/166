@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRihPf4SJhUWELiQo2msDHUQ9LU5XDJXY1TXMnSz6JnDz/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 166,
+  "chainId": "137",
+  "name": "WMM #0166 ZUIKAKU 1944",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**ZUIKAKU 1944**  \nThis silhouette is Aircraft carrier Zuikaku in 1944.  \nShe was a carrier of the highest distinction that continued to support the Japanese task force while the mainline carriers were being sunk one after another.\n\nThe \"Lucky Ship,\" which had achieved numerous results since the attack on Pearl Harbor, sank off the coast of Cape Engano, showing her tremendous presence not only as an aircraft carrier, but also as a decoy. She sank off Cape Engano.\n\n**空母 瑞鶴 1944**  \n主力空母が次々と沈んで行く中、日本機動部隊を支え続けた最高殊勲空母です。\n\n真珠湾攻撃から数多の戦果を挙げた「幸運艦」は、航空母艦としてだけでなく囮としても絶大な存在感を示しつつエンガノ岬沖に沈みました。\n\nこのNFTは1944年頃の瑞鶴のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": " Country",
+      "trait_type": "Japan"
+    },
+    {
+      "value": "Aircraft carrier",
+      "trait_type": "Ship"
+    }
+  ]
+}

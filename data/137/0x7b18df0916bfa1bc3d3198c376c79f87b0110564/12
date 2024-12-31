@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWJ14cMfZCxk3uviWyudmkD9FyrU4ZNF3KXP1FtbjQaMj/nft.png",
+  "tokenId": 12,
+  "description": "This NFT is made for metaverse. \nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x7b18df0916bfa1bc3d3198c376c79f87b0110564",
+  "animationUrl": "https://ipfs.io/ipfs/QmVmTmiBcFPz2gXux6AMt5rA4DFa7Zhe6GthLTrAHLBafJ/nft.png",
+  "chainId": "137",
+  "name": "#12 GinghamCheck (Aqua)",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "GinghamCheck"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Aqua"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    }
+  ]
+}

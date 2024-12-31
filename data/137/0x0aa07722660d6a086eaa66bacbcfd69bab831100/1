@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZevx98hHF3cw6Z6xj9khHXt13eYQCHGK56Q2NWq53m9U/nft.png",
+  "nftContractAddress": "0x0aa07722660d6a086eaa66bacbcfd69bab831100",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "eagis-test-nft_Polygon_Safe_1",
+  "description": "eagis-test-nft_Polygon_Safe_1_Description",
+  "attributes": []
+}

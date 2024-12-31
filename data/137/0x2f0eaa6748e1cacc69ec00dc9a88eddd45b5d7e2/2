@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSogCiYLwvtDmyP1moXj2BmtQARQu3ftYReP6tn7xRRuD/nft.jpeg",
+  "tokenId": 2,
+  "description": "token of MIMI",
+  "nftContractAddress": "0x2f0eaa6748e1cacc69ec00dc9a88eddd45b5d7e2",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "MIMI"
+}

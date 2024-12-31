@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWmp1R4ndEBhc83Ad3C4QwggU7QzLTemjem9WzwX4knY7/nft.png",
+  "tokenId": 17,
+  "description": "What's inside Kapsel?\nKapsel contains the present, the past, and the future\n\nYou are a special one.\n",
+  "nftContractAddress": "0x4aca62f1a59e44b3cb12e432555f5e6acf3dc558",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "TheKAPSEL#17",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Brand",
+      "value": "Kapsel78Lab"
+    },
+    {
+      "trait_type": "Collections",
+      "value": "The KAPSEL78"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Morim"
+    },
+    {
+      "trait_type": "Gen",
+      "value": "1"
+    },
+    {
+      "trait_type": "TYPE",
+      "value": "Plain"
+    },
+    {
+      "trait_type": "Upper outer",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Lower outer",
+      "value": "Camouflage"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Font",
+      "value": "Red"
+    }
+  ]
+}

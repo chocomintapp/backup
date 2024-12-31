@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXKk9aXD2JHLXisnkAua1jBsXHgaMo61FEFcpWcNLHgwa/nft.jpg",
+  "tokenId": 7,
+  "description": "The god of the blockchain world. This world was born by this god.",
+  "nftContractAddress": "0x8b3279ef10f14c9ce45c0af5c191607411d559bf",
+  "animationUrl": "https://ipfs.io/ipfs/QmXKk9aXD2JHLXisnkAua1jBsXHgaMo61FEFcpWcNLHgwa/nft.jpg",
+  "chainId": "137",
+  "name": "Blockchain god",
+  "minted": "✅"
+}

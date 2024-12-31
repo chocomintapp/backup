@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPryzYi6MG2X59UjYBXaYWJmPzAJMDcXyrjxnnyD3n5pg/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "137",
+  "name": "TAKANOTSUME DAN NFT × VeryLongAnimals Dr. Leonardo",
+  "description": "A collaboration with TAKANOTSUME DAN NFT. Created by Akim.",
+  "attributes": [
+    {
+      "value": "Leonardo",
+      "trait_type": "TYPE"
+    }
+  ]
+}

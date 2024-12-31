@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZdBNQEDBVuS8f3XUzo4mcAZGqRtQQMsxYQXeSzMF1X4n/nft.gif",
+  "nftContractAddress": "0x6c621364993e5cd4c6468930d287ba76ef64f366",
+  "animationUrl": "",
+  "tokenId": 283,
+  "chainId": "137",
+  "name": "CryptoGoro #Day283",
+  "description": "CryptoGoro #Day283\n\n09/APR/2022\n\nWorld famous modern artist Mr.Goro makes his self-portrait every day. Each NFG(Non-Fungible Goro) mint only one. This project will continue until his death. Let’s collect your own Goros!!\n\n1717 days before death.",
+  "attributes": [
+    {
+      "value": "Nightmare",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Bokemon",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "Already Dead",
+      "trait_type": "VITAL"
+    },
+    {
+      "value": "Very Bad",
+      "trait_type": "FOOD SITUATION"
+    },
+    {
+      "value": "Very Bad",
+      "trait_type": "FINANCIAL SITUATION"
+    }
+  ],
+  "minted": "✅"
+}

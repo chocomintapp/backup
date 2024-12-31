@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd2vDpaid7hpNd7rYJuph59vZdThMRcCHgipRxMt3qubM/nft.png",
+  "nftContractAddress": "0x7e61ad13c51183720d50cfcffa6b10b5714af9f5",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "VeryLongEnglishAnimals #13",
+  "description": "This is a secondary production of \"VeryLongAnimals\".",
+  "attributes": [
+    {
+      "value": "Cow",
+      "trait_type": "TYPE"
+    }
+  ]
+}

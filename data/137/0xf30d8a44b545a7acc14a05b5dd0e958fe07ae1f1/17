@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYYqs2jb5W2obKiLf2f8jy2w7TNNn36qApfpK7zvwNz35/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "PPP #017",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Men’s short",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Racing suite BL",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Cap",
+      "trait_type": "Accessories"
+    }
+  ]
+}

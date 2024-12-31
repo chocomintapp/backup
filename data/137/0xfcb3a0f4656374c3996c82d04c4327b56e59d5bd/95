@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZifWqywR5DVHPpTWyr5VX8Nef88ev4Hj6qsBwwqGTjtQ/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 95,
+  "chainId": "137",
+  "name": "#0091_Niton_YGbmCBry_C",
+  "description": "0091_Niton_YGbmCBry_C",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Olivedrab",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Cerulean",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Cyan",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ],
+  "minted": "✅"
+}

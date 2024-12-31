@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUdY5XorHwRsS3b7a3GNoUg81pdS9KZSwCwGFiKH9CpmT/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 89,
+  "chainId": "137",
+  "name": "VeryLongAnimals #89",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Caterpillar",
+      "trait_type": "TYPE"
+    }
+  ]
+}

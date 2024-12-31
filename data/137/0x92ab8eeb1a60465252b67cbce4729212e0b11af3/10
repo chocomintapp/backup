@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdbvnMrkeCa2wgDrsLvhZYCm6Dm6NUs6bEVdRKiUMQx7N/nft.png",
+  "nftContractAddress": "0x92ab8eeb1a60465252b67cbce4729212e0b11af3",
+  "animationUrl": "https://ipfs.io/ipfs/QmdbvnMrkeCa2wgDrsLvhZYCm6Dm6NUs6bEVdRKiUMQx7N/nft.png",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "ANAP fanarts",
+  "description": "ANAPの二次創作作品です！",
+  "attributes": []
+}

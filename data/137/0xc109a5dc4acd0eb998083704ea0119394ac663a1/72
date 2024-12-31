@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYumQY4cUvuAasE2dnNjpgmVsziL95WhW8L2W9WqpEmqw/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 72,
+  "chainId": "137",
+  "name": "#72",
+  "description": "human",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "RACE"
+    }
+  ]
+}

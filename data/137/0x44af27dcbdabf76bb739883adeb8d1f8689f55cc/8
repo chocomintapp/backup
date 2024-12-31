@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWmh1SWGfRza74YS8ZQtVMNRwNFoontiC5oBk7XW2uHL2/nft.png",
+  "tokenId": 8,
+  "description": "",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/QmawFujB7piXsQeb1h8PNaxvoxMwzHvrx41Tf4GZGtygQ7/nft.gltf",
+  "chainId": "137",
+  "name": "KUMINOトナカイ",
+  "attributes": [
+    {
+      "trait_type": "3D",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

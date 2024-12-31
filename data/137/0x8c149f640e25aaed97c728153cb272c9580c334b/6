@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPHFxGSTn7vBx7KQnGfucetJYUq7i876xHA8TATjL6TxZ/nft.jpg",
+  "tokenId": 6,
+  "description": "コミックマーケットC99でSwallowSoftのサークルスペースにきていただいた方への記念品です。  \n他のアドレスへの移動（他者への譲渡及び販売）が確認された場合、画像や認証（今後付与される場合があれば）を無効にさせていただきます。  \nまた、これは来場を証明する為のものであり、画像の権利を付与するものではありません。  \nその為、二次利用などは禁止いたします。  ",
+  "nftContractAddress": "0x8c149f640e25aaed97c728153cb272c9580c334b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "SwallowSoftC99来場記念品",
+  "attributes": []
+}

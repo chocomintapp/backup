@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVqPxmixWBVuirTLoevHo2rBjU8bFEz8caY3cmsERm44m/nft.png",
+  "nftContractAddress": "0x778f7c88e13f18f066ac5c2738dc1eded15673a5",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "Go",
+  "description": "Ambitious One City Special Edition for dgift",
+  "attributes": [
+    {
+      "value": "SMILE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "ONI",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "SHIMENAWA",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "VISOR",
+      "trait_type": "ITEM"
+    }
+  ],
+  "minted": ""
+}

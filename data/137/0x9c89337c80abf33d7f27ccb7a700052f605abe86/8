@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc6DPgWZvJ8E1BxWeQXL7aii9qrR4tbKdUQmEJvR83h3o/nft.jpg",
+  "tokenId": 8,
+  "description": "Illustration of a shark swimming in the sea nft",
+  "nftContractAddress": "0x9c89337c80abf33d7f27ccb7a700052f605abe86",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": " shark"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbCp2wYQhm8EXXLsMtSQj8EAcYHopS4RpvhLPZjqjNT4d/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 125,
+  "chainId": "137",
+  "name": "Day57 Umitsuru's Art",
+  "description": "I want to take a day off from work to see cherry blossoms with all my might.\n\n仕事を休んで思いっきり花見がしたい。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

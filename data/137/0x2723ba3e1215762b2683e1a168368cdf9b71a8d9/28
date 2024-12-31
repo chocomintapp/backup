@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbvDygcJrZPZehruS5QHm6JXa49bsQgjC3F3vbz9xHHGc/nft.png",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "#13 受け取り拒否",
+  "description": "Yukiちゃんはサプライズに失敗しちゃったみたいです。",
+  "attributes": [
+    {
+      "value": "Japanese",
+      "trait_type": "Language"
+    }
+  ]
+}

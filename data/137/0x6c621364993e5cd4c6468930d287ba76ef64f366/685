@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUxVa59opu4rVoF3RfXtvvMYFDhMb1pBncgqVCFBDkD8q/nft.gif",
+  "nftContractAddress": "0x6c621364993e5cd4c6468930d287ba76ef64f366",
+  "animationUrl": "",
+  "tokenId": 685,
+  "chainId": "137",
+  "name": "CryptoGoro #Day685",
+  "description": "CryptoGoro #Day685\n\n16/MAY/2023\n\nWorld famous modern artist Mr.Goro makes his self-portrait every day. Each NFG (Non-Fungible Goro) mint only one. This project will continue until his death. Let’s collect your own Goros!!\n\n1315 days before death.",
+  "attributes": [
+    {
+      "value": "Already Dead",
+      "trait_type": "VITAL"
+    },
+    {
+      "value": "HarryPotterObamaSonic10Inu",
+      "trait_type": "T-SHIRT"
+    }
+  ],
+  "minted": "✅"
+}

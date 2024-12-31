@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZaDn24SCm1P1tfWb4joofHZGyQnArkBbHyGVR9AHXp8v/nft.JPG",
+  "tokenId": 1,
+  "description": "Mitake",
+  "nftContractAddress": "0x0b15a8377cfdaaa124f07d9e2cd113acb0d18b35",
+  "animationUrl": "https://ipfs.io/ipfs/QmZaDn24SCm1P1tfWb4joofHZGyQnArkBbHyGVR9AHXp8v/nft.JPG",
+  "chainId": "137",
+  "name": "DeadEndRock"
+}

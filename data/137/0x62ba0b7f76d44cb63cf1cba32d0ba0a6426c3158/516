@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRDU6HTNq5XM4cemfXEqUUPmRBmSLyChhvKew4N5G7K5n/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 516,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #516",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Kangaroo",
+      "trait_type": "TYPE"
+    }
+  ]
+}

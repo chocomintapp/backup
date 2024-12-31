@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVNPhZ18KTuPa54xHMcz6ZNAFKTWYn2dcpL2zUkSe4HQF/nft.png",
+  "tokenId": 29,
+  "description": "君もロック好きか？\n\nYou like rock 'n' roll, too?",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Rockhopper Penguin（イワトビペンギン）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Penguin"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

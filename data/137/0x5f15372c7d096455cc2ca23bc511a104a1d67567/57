@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVYJHtV6xNYoZKKiW1rh1qsBvUKuSxg1jSx1bcBjTe7fm/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmVYJHtV6xNYoZKKiW1rh1qsBvUKuSxg1jSx1bcBjTe7fm/nft.png",
+  "tokenId": 57,
+  "chainId": "137",
+  "name": "#11B💍『あずき』",
+  "description": "💍RabbitGirls Bridal bouquet💐\nRabbit Girls in shining rings and wedding dresses are coming to you.A girl who has jumped over the world line and likes simple and cute things ✨",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Bridal",
+      "trait_type": "Series"
+    },
+    {
+      "value": "Azuki",
+      "trait_type": "Character"
+    }
+  ]
+}

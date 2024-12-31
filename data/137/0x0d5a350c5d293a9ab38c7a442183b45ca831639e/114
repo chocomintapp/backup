@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcrsqjvZo1hCbTr7HeFd3rL7jiZTgYRcLnETybYpNMNpt/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 114,
+  "chainId": "137",
+  "name": "Day46 Nana's Art",
+  "description": "ママに耳かきしてもらうのが大好きです。\n（普段は暴れ回っているのに、耳かきしているときは大人しくじっと横になっています byパパ）\n\nI love having my mom scratch my ears.\n(She's usually rampaging around, but she lies still and quiet when she's earbrushing. by daddy)",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

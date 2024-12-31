@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWexPmMdLxSuGWyWq3SXHvWrfGGQizeCupf6CXurqsjAC/nft.png",
+  "tokenId": 1,
+  "description": "Dog basking in the sun ",
+  "nftContractAddress": "0x970dec166bdd7cb65c619d46d7e9b260733da781",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Happy dog",
+  "minted": "✅"
+}

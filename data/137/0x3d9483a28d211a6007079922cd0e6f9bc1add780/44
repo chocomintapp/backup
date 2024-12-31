@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWF85tQh3LRLqgTkgWdtaWGv2cX9VF6jur83zH42BEVeU/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 44,
+  "chainId": "137",
+  "name": "Neon #44",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon girl",
+      "trait_type": "character"
+    },
+    {
+      "value": "yellow hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue fighter",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "water barrel",
+      "trait_type": "hand"
+    },
+    {
+      "value": "sad",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

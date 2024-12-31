@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbZzJZTXysVkDs8s6GkKTc7Tdgiwaw5bhMNuJSpNzSBvm/nft.png",
+  "tokenId": 15,
+  "description": "",
+  "nftContractAddress": "0x43d751dea2a47690a40d0a4f197584ff7b32a06c",
+  "animationUrl": "https://ipfs.io/ipfs/QmfSxmwCFjfA59u23HdB3ojTEmDgc6CWDcj9MpE6KeM9S3/nft.glb",
+  "chainId": "137",
+  "name": "testMSBoy#1",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma7YV4rKg9kRZ8WtLMHR1hn2ZLtehvRFeZmME4EcgtB9k/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmeNowuJRNBnZmQq2FgoiKHQUHkwXpkqFMyk6U8EzS6Xkf/nft.gif",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "Kawaii Legends #010",
+  "description": "#010 Happi Kawaii\n\n\"Being aware and in the flow of life will help you experience for more bliss.\"\n\n*Here are some tidbits about this costume:\nA happi coat is a jacket worn during Japanese festivals.\n It is often worn by people who carry portable shrines, mainly at summer festivals.\n\n衣装豆知識：\nハッピは、日本の祭りの時に羽織る上着です。\n主に夏祭りで、神輿を担ぐ人が着ることが多いです。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "NEKO",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Festival",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Sakura",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Happi coat",
+      "trait_type": "Outfit"
+    }
+  ]
+}

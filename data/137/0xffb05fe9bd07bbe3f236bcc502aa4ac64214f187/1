@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcUYceAiR8fixDbZ2w3M1M9WDjjRbU5vBoJeyyQjwFdQ4/nft.png",
+  "tokenId": 1,
+  "description": "They are \"Shimaenaga\". It is a very small bird that lives in Hokkaido.This collection is drawn by a Japanese woman Mary from Hokkaido.",
+  "nftContractAddress": "0xffb05fe9bd07bbe3f236bcc502aa4ac64214f187",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Shimaenaga #1 2022 special",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Orange fruit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Cheeks",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Background",
+      "value": "2022 special - orange"
+    }
+  ],
+  "minted": ""
+}

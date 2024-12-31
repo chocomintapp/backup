@@ -1,0 +1,11 @@
+{
+  "image": "",
+  "nftContractAddress": "0x315eae1187f2b555cf9df39669bb2e618ff2b50b",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "nft's name",
+  "description": "write something",
+  "attributes": [],
+  "minted": ""
+}

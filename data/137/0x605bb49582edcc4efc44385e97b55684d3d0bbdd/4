@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbriMbd1Aa9anGkH543ayf7r3LafHLXHwTFQjKGmXpmVN/nft.jpg",
+  "nftContractAddress": "0x605bb49582edcc4efc44385e97b55684d3d0bbdd",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "My Only Girlfriend #014",
+  "description": "\"My Only Girlfriend\" is a collection of special expressions that she shows only to you. Why don't you get your own special girlfriend?\n\n\"Thank you for your hard work. Drink this and take a break.'' She brought you something warm to help you relax as you were tired from work. I also like her rough appearance.\n\n＊＊＊\n\n「My Only Girlfriend」は彼女があなただけに見せる特別な表情を切り取ったコレクションです。 あなただけの特別な彼女を手に入れてみませんか？\n\n「お疲れ様。これ飲んで休憩しなよ」仕事疲れの貴方をリラックスさせようと彼女が温かいものを持ってきてくれました。ラフな姿の彼女もいいですね。",
+  "attributes": [
+    {
+      "value": "female",
+      "trait_type": "character"
+    },
+    {
+      "value": "green",
+      "trait_type": "color"
+    }
+  ],
+  "minted": ""
+}

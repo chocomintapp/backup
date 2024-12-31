@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWJCRW3shdaoBZsH8BJqrJC9vPBuTKoewhLwNh3T8JVHr/nft.png",
+  "nftContractAddress": "0xd733b05c636f589b16191f4e4d7e26348ec64f34",
+  "animationUrl": "https://ipfs.io/ipfs/QmeXqcti6bqyGJbSbTQ2nr4RmpmhCXfMQLatfKqeS8jur7/nft.glb",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "CrysTARU Floating on Water TARU Ver",
+  "description": "CrysTARU Floating on Water TARU Ver",
+  "attributes": [
+    {
+      "value": "CrysTARU",
+      "trait_type": "TARU"
+    }
+  ]
+}

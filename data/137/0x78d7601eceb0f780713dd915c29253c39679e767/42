@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmet9HesAbMfoePBqkTp2pwVTBrvpx26ziTjzgkktgLayx/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "137",
+  "name": "#42 Memory from summer『Sweet candies』",
+  "description": "Items tightly packed with memories of the summer festival.\nYou can scoop up various things at the stalls.\nYou can even get amazing things inside!",
+  "attributes": [
+    {
+      "value": "Hug",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

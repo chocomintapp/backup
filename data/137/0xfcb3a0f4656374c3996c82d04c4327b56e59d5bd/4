@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmezDvP4E7QP38L4xE5bYzNX5fUAk7bzL4qMT78aSLhRAa/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Achromatician_Bst",
+  "description": "「アクロミシャン」ー‘POLYSTAR’の原住民です。\nブーストアイテムにて変化しています！",
+  "attributes": [
+    {
+      "value": "Aboriginal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "none",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "none",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "none",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    },
+    {
+      "value": "Acrylic",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Chain",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Afro",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Bolt",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "UU",
+      "trait_type": "Eye"
+    }
+  ]
+}

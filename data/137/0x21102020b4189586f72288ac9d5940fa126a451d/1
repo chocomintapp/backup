@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQbcYFwBcp2vGYAs3DroE8m2oas7AyV8xLfcvzq2BF2Ki/nft.jpg",
+  "nftContractAddress": "0x21102020b4189586f72288ac9d5940fa126a451d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "いえやす",
+  "description": "いいぇｙさｓｙ",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

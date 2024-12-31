@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeywbRYp4R9LzCaBxM53URuPz2giXQH6tPft552Gt8V99/nft.png",
+  "tokenId": 1,
+  "description": "Choco mint ice cream !!",
+  "nftContractAddress": "0x1cafccadf09d35d298a99465ff675faea528e38a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "choco-mint",
+  "minted": "✅"
+}

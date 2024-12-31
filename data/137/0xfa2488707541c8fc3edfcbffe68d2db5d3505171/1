@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZPqMAaSHV4A83kokFU53uzSUTzGJcCCwFzirchmabGba/nft.png",
+  "tokenId": 1,
+  "description": "OkCat",
+  "nftContractAddress": "0xfa2488707541c8fc3edfcbffe68d2db5d3505171",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "OkCat",
+  "attributes": []
+}

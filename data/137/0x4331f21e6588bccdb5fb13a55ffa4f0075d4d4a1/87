@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWc8zTvXX4AmvbfWFf5nyQmUipR4QMC1SpXsJbD5Q9kBo/nft.png",
+  "tokenId": 87,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**I-19 1941**  \nThis silhouette is submarine I-19 in 1941.\n\nIt is the third ship of the I-15 class submarine (cruiser-submarine Otsu type).\n\nTwenty submarines were deployed in the Pacific War, the largest number of submarines in the Imperial Japanese Navy.\n\nAmong the many submarines built, the I-19 had outstanding results, including the sinking of the aircraft carrier USS Wasp, the mid-war destruction of the battleship North Carolina, and the sinking of the destroyer O'Brien.\n\nThree of the six oxygen torpedoes aimed at the Wasp were hit, and the one that missed hit a battleship and a destroyer of another fleet as a stray bullet. This is said to be the greatest battle result in submarine history.\n\n**潜水艦 イ-19 1941**  \n伊十五型潜水艦（巡潜乙型）の3番艦です。  \n日本海軍潜水艦としては最多となる20隻が太平洋戦争に投入されました。\n\n数多く建造された中でもイ-19の戦果は正規空母ワスプ撃沈、戦艦ノースカロライナ中破、駆逐艦オブライエン撃沈とズバ抜けています（しかも1度の雷撃で！）\n\nワスプを狙った酸素魚雷6本のうち3本が命中、外れたものが流れ弾として別艦隊の戦艦と駆逐艦を直撃した偶然の結果ではありましたが・・・これは潜水艦史上最大の戦果とも言われます。\n\nこのNFTは1941年頃のイ-19のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0087 I-19 1941",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Submarine"
+    }
+  ]
+}

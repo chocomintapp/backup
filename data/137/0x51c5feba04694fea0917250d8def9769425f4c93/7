@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbgc2do3XbgXsxHpE8jusnWLkj37d7aBGFTbHGc6SXHPR/nft.png",
+  "nftContractAddress": "0x51c5feba04694fea0917250d8def9769425f4c93",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "VeryLongCoolGirl #007",
+  "description": "VeryLongCoolGirl delivers cool and very long girls with the concept of \"going very long my way\". The trick to enjoying life is not to be swept around and being very long. \"Let's enjoy your very long life more freely\" I put such a message in VeryLongCoolGirl.\n\nVeryLongCoolGirlは、「超長い我が道をゆく」をコンセプトにした、クールでベリーロングな女の子をお届けします。 人生を楽しむためのコツは周りに左右されないこと。ベリーロングなこと。「周りに流されずにベリーロングな自分の人生を生きよう」VeryLongCoolGirlにはそんなメッセージを込めました。",
+  "attributes": [
+    {
+      "value": "007",
+      "trait_type": "ID"
+    },
+    {
+      "value": "992x992",
+      "trait_type": "size"
+    },
+    {
+      "value": "PNG",
+      "trait_type": "format"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaPBerQT83qHu1dtLitzWD9YRUUzpEHifXGEHeNSbyCZJ/nft.jpeg",
+  "nftContractAddress": "0x884c116f191eff93d67c43b7a62be5da2c1b8a48",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #76",
+  "description": "VeryLongAnimals #76の二次創作です！",
+  "attributes": [
+    {
+      "value": "fennec",
+      "trait_type": "type"
+    }
+  ]
+}

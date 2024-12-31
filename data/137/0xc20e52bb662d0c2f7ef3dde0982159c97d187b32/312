@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaWDa2QG87VULZ4YTjCUcgAo6MTXDe3B33oQXR67YtqRv/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 312,
+  "chainId": "137",
+  "name": "#312",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Insects and rot",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#6E4F27",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Polluted nation",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gas mask/Professional specification, old model",
+      "trait_type": "Face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "Hand"
+    },
+    {
+      "value": "legs",
+      "trait_type": "Legs"
+    },
+    {
+      "value": "Details unknown",
+      "trait_type": "main damage"
+    }
+  ]
+}

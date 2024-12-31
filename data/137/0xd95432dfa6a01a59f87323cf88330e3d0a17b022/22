@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUUEFjhZ3PCUp2o8hpHBkKeB89weq6xxbDXptGQqVFBLW/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "大吉 Hinomaru Bento #22",
+  "description": "これが日本の弁当です！\n\nThis is a Japanese bento!\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "attributes": [
+    {
+      "value": "Hinomaru bento",
+      "trait_type": "special item"
+    }
+  ]
+}

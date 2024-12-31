@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf82j14bGfzGN4iEqCu1aRYCG2z4ZjU6HouFhr4GqEU8i/nft.png",
+  "nftContractAddress": "0x30c193ad3a0e04b8dc4d6e04fa685d6dabea3688",
+  "animationUrl": "",
+  "tokenId": 50,
+  "chainId": "137",
+  "name": "range_test",
+  "description": "",
+  "attributes": []
+}

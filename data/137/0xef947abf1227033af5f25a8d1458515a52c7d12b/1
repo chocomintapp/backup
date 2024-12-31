@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaUMkY8bjq4FgTmUnE118kr2EF8uXbR3uyAWUEGPpeJzA/nft.jpg",
+  "tokenId": 1,
+  "description": "test1の説明を変更してみたああああああああああああ。",
+  "nftContractAddress": "0xef947abf1227033af5f25a8d1458515a52c7d12b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test1",
+  "attributes": [
+    {
+      "trait_type": "zzz",
+      "value": "あああ"
+    },
+    {
+      "trait_type": "xxx",
+      "value": "いいい"
+    }
+  ]
+}

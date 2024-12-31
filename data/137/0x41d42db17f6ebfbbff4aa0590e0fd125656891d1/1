@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaPv5BNsX3yALcak4xHn2S88fzpNApr3psKHrfZJCGoTv/nft.jpg",
+  "tokenId": 1,
+  "description": "this is atest publishing of Phillippines real estate (test2)",
+  "nftContractAddress": "0x41d42db17f6ebfbbff4aa0590e0fd125656891d1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test publishing",
+  "minted": ""
+}

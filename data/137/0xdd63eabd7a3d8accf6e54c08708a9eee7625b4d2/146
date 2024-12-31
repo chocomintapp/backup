@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ7kM49RCSFJDrEFh6de4tmYrs8Um3hvMSyorMNecWmwD/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 146,
+  "chainId": "137",
+  "name": "LIVING MINERAL #146",
+  "description": "",
+  "attributes": [
+    {
+      "value": "lion",
+      "trait_type": "gene"
+    },
+    {
+      "value": "common",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "stone",
+      "trait_type": "material"
+    }
+  ]
+}

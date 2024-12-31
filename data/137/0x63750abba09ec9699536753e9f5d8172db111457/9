@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUET7wtToGF2n9yvuJDzdQ45rd4qcQt9SFai9yum4rQa1/nft.png",
+  "nftContractAddress": "0x63750abba09ec9699536753e9f5d8172db111457",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "PachiMon #00009",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Homebody",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Dot T2 black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Short",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "None",
+      "trait_type": "Accessory"
+    }
+  ]
+}

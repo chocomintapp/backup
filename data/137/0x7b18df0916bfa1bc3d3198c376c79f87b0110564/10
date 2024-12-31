@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaWtX7sdCu5mZRMGWbJghEf5daXPdrZT9BZsqyuBQv5ep/nft.png",
+  "tokenId": 10,
+  "description": "This NFT is made for metaverse. \nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x7b18df0916bfa1bc3d3198c376c79f87b0110564",
+  "animationUrl": "https://ipfs.io/ipfs/QmeEKCm25n8rDMreyttvzopEhgUgETNrqwvGa5wyeLSnCE/nft.png",
+  "chainId": "137",
+  "name": "#10 CheckedPattern (Black-TP)",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "CheckedPattern"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    }
+  ]
+}

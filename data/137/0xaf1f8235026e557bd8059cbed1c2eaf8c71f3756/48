@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmetzUcAahWQ7Zgqh1jNEifErT12a5KA4XJyu7hP39fd3e/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/QmetzUcAahWQ7Zgqh1jNEifErT12a5KA4XJyu7hP39fd3e/nft.gif",
+  "tokenId": 48,
+  "chainId": "137",
+  "name": "WavyLongAnimals #48",
+  "description": "ベリロン二次創作",
+  "attributes": [
+    {
+      "value": "Sea Otter",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

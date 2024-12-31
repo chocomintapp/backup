@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRkazec39moxvvjkbtMmbJBBCdGVxSycfgRNKrhbhzRif/nft.png",
+  "tokenId": 58,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**JUNYO 1945**  \nThis silhouette is battleship Iowa in 1944.\n\nIt is the second aircraft carrier of the HIYO class converted from a luxury cruise ship.\n\nDespite its many shortcomings, it survived the fierce Pacific War with as much success as a regular aircraft carrier.  \nIt is known as the first Japanese aircraft carrier to be equipped with a full-scale radar.\n\n\n**空母 隼鷹 1945**  \n豪華客船から改造された飛鷹型空母の2番艦です。\n\n欠点の多い改造空母ながらも正規空母に劣らぬ活躍で熾烈な太平洋戦争を生き抜きました。  \n日本の空母で初めて本格的なレーダーを搭載した空母として知られています。\n\nこのNFTは1944年頃のアイオワのシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0058 JUNYO 1945",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Aircraft carrier"
+    }
+  ]
+}

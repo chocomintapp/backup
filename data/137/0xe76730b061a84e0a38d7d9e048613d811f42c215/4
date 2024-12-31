@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdSBAnTES88VWGQ9AS8JSszW8Dy2xviq4wT6kMHSgej8T/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "THS #003",
+  "description": "【空】",
+  "attributes": [
+    {
+      "value": "peacock",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "goldfish",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "Hydrangea leaves",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

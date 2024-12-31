@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbsugKuV2R78oP2jygJB5EWQuSXZLDrkBZsqic9U7pCQT/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "https://ipfs.io/ipfs/QmbsugKuV2R78oP2jygJB5EWQuSXZLDrkBZsqic9U7pCQT/nft.png",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "#19 Gold Twin tails",
+  "description": "A cute short twin tail.",
+  "attributes": [
+    {
+      "value": "Hair",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Short Twin tails",
+      "trait_type": "Hair"
+    }
+  ],
+  "minted": "✅"
+}

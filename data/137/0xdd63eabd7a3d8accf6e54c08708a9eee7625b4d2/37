@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeAirmYwChK5h1pPBB2hypqevrEvGK4Ca4qD7oq5ttRvp/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "137",
+  "name": "LIVING MINERAL #37",
+  "description": "",
+  "attributes": [
+    {
+      "value": "chihuahua",
+      "trait_type": "gene"
+    },
+    {
+      "value": "common",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "stone",
+      "trait_type": "material"
+    }
+  ]
+}

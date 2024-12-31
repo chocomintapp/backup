@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcYTs4YQDDYdY99HcxW6YZykbJpfkH6TEFvYPMpZQU5Nw/nft.png",
+  "nftContractAddress": "0x15b64cfcf2e05ceb248df6b52c3c8a0aff308a4d",
+  "animationUrl": "https://ipfs.io/ipfs/QmS37f7ddtPRao4eCh1RkVMiUDP6Su6XGKdWbE9k9nhWzk/nft.jpeg",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "OKI",
+  "description": "test",
+  "attributes": []
+}

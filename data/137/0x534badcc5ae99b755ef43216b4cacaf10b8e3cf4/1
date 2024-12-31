@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTw7a1gqmVh99GroxeiopqusGYyZtn6XEvqHmFU7gSCJx/nft.png",
+  "nftContractAddress": "0x534badcc5ae99b755ef43216b4cacaf10b8e3cf4",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Yasshi's travel souvenir #1",
+  "description": "Very Long Animals Off-line Meeting.",
+  "attributes": [
+    {
+      "value": "Kyoto",
+      "trait_type": "City"
+    },
+    {
+      "value": "Japan",
+      "trait_type": "Country"
+    }
+  ]
+}

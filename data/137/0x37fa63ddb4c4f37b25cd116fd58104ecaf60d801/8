@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSQQACfrqg66NPShJfGciEKS2id9LT5iCGLqXjPMMekTb/nft.png",
+  "nftContractAddress": "0x37fa63ddb4c4f37b25cd116fd58104ecaf60d801",
+  "animationUrl": "https://ipfs.io/ipfs/QmSQQACfrqg66NPShJfGciEKS2id9LT5iCGLqXjPMMekTb/nft.png",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "kakyre meme × gee-chang",
+  "description": "This is a collaborative work with gee-chang.     \nMEME said, \"These clothes are fun just to look at!\" It was well received.      \n  \ngee-changとのコラボレーション作品です。     \nMEMEちゃんは「この服、見てるだけで楽しい！」と好評でした。     ",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQXWphCaecY5U2Q7LJaFcqyqbF79DCMMhBdFpSMUT3kn2/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 85,
+  "chainId": "137",
+  "name": "Day35 Umitsuru's Art #103",
+  "description": "春が待ち遠しい。\n\nI can't wait for spring.\n",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

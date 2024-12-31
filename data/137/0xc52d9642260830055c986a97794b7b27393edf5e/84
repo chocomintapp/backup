@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSqFSRy8jFUsFAfPB7keivaC458M6LdnHice3MueGK4w1/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 84,
+  "chainId": "137",
+  "name": "VeryLongAnimals #84",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Boar",
+      "trait_type": "TYPE"
+    }
+  ]
+}

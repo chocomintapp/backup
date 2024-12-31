@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVQk9zhvQw7h9EG2ejXNJbjYPgwjpDShs1BPGnAdZkEFA/nft.gif",
+  "tokenId": 6,
+  "description": "",
+  "nftContractAddress": "0xa38f30ee1089b44c5421d393f7986d4a8f90268e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cosmic",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Denim Bucket"
+    },
+    {
+      "trait_type": "Headphone",
+      "value": "Orange V.1"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Droid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Camo Varsity"
+    },
+    {
+      "trait_type": "Bag",
+      "value": "Black Backpack"
+    },
+    {
+      "trait_type": "Pet",
+      "value": "Monkey"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cosmic"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "VR V.1"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSnQPtweq4PDW3RmMNQyErtNmpsoAqhKGZZnjKbF615B5/nft.gif",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "",
+  "tokenId": 831,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #930",
+  "description": "Sneaker Doggy Dogg is a collection of 10,000 unique Sneaker Dogg NFTs— All Handmade unique digital collectibles living on the ETH &XTZ blockchain. ⚠️ This project is not affiliated with Larva Labs and NIKE Properties\n\nM=Model HC=Heart Collar BG=Background(N means Normal) E=Eye(N means Normal) F=Fashion(Gold chain is Normal)",
+  "attributes": [
+    {
+      "value": "sps",
+      "trait_type": "M"
+    },
+    {
+      "value": "green",
+      "trait_type": "HC"
+    },
+    {
+      "value": "vhs",
+      "trait_type": "BG"
+    },
+    {
+      "value": "vhs",
+      "trait_type": "E"
+    },
+    {
+      "value": "vhs",
+      "trait_type": "F"
+    }
+  ]
+}

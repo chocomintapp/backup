@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNUvAuafKxDETwZ7ULxaWuNrFWQ6Fc9wBVh3JbhMEotWv/nft.jpeg",
+  "tokenId": 13,
+  "description": "Red Picture Frame",
+  "nftContractAddress": "0x9a5b20e07f1826d9202abe092f8dd45f89cc583f",
+  "animationUrl": "https://ipfs.io/ipfs/Qmdd9ynJsjVgnWuo5wcWGsaKnawcKc4FtC553X63sYRVni/nft.glb",
+  "chainId": "137",
+  "name": "digital-signage-proto_003",
+  "attributes": []
+}

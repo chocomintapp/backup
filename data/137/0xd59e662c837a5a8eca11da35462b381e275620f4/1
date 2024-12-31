@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPE4CEzD7z3VnWb5Vy7KobvQUcs2keYiR5AA2h2TXNoTU/nft.mp4",
+  "tokenId": 1,
+  "description": "Collaboration with https://opensea.io/memenokurage \n\ntheme by https://opensea.io/collection/nft-zundoko-dance\n\nThis is a collaboration work with the NFT Zundoko Dance Club.\nIt was written as the theme music for the NFT Zundoko Dance Club, a project in which NFT creators brought together their characters.\n\nNFTズンドコダンス部とのコラボレーション作品です。\nNFTクリエイターさんが作ったキャラクターを持ち寄って集合したNFTズンドコダンス部という企画のテーマ曲として書き下ろしました。",
+  "nftContractAddress": "0xd59e662c837a5a8eca11da35462b381e275620f4",
+  "animationUrl": "https://ipfs.io/ipfs/QmPE4CEzD7z3VnWb5Vy7KobvQUcs2keYiR5AA2h2TXNoTU/nft.mp4",
+  "chainId": "137",
+  "name": "ZUNDOKO disco",
+  "attributes": []
+}

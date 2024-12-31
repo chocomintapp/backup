@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVyZTV2rKqwDz16mfRYNj2dfmHAya47rqGvh7MjKfxGnY/nft.PNG",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "",
+  "tokenId": 875,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #974",
+  "description": "2022/08/02 22:00\n僕は日々なるべくストレスなく生活しようと心掛けている。\nなのでTwitterなどのタイムラインを見てちょっとでもイラっとしたらその人をミュートにしている笑\n\nなので炎上してる火種を見つけるのに苦労する\n\nその火種を探すのにイライラしてしまう\n\n永久機関こんにちわ...\n\nどんな人間にもまずはリスペクトを！\nそのあとは相手の出方次第（笑）\n",
+  "attributes": [
+    {
+      "value": "aj1",
+      "trait_type": "M"
+    },
+    {
+      "value": "web2",
+      "trait_type": "book"
+    }
+  ]
+}

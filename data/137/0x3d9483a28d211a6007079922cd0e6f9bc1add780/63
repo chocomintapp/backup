@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmacFu2CQGz1xeaVG1vhos3VwnPtT9n62UNjwPA2if6jG6/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 63,
+  "chainId": "137",
+  "name": "Neon #63",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon girl",
+      "trait_type": "character"
+    },
+    {
+      "value": "pink hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue neon cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "magic wand",
+      "trait_type": "hand"
+    },
+    {
+      "value": "sad",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

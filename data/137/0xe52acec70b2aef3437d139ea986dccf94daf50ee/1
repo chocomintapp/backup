@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXPKymhCqRqBYErtQ6dmtJFHWVd3kkUC7SQf2vL2sMCdP/nft.PNG",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimals #1",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Tiger",
+      "trait_type": "TYPE"
+    }
+  ]
+}

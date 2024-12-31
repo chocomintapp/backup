@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmaz6VwxiBK3FMiwy2HhSPXCM68JAZCePM331ozwb5RsgV/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #2",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Dog",
+      "trait_type": "TYPE"
+    }
+  ]
+}

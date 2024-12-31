@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW6591RAKVWUuuuMUEs9PwDvqoLstW239j6uGGY5jTJTa/nft.png",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "",
+  "tokenId": 48,
+  "chainId": "137",
+  "name": "#48 CRYPPL - Witch Lilith of the Grotto",
+  "description": "Hello Witch Lilith of the Grotto.",
+  "attributes": [
+    {
+      "value": "6432",
+      "trait_type": "FRWC_ID"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaoFFT9N6ub9TYiF9aAu7RBL5QxQnjUsR4JtGZjkypAXd/nft.png",
+  "tokenId": 86,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SOYA 1944**  \nThis silhouette is auxiliary ship Soya in 1944.\n\nThe \"Soya\" is the most powerful lucky ship, surpassing the \"Yukikaze,\" which is famous for being a lucky ship.\n\nAlthough she was mainly used for transportation and surveying, and thus not associated with spectacular war results, Soya's luck was amazing.\n\nOriginally built on order from the Soviet Union for use in the north, the IJN purchased her just before World War II.\n\nWhen the war broke out between Japan and the U.S., Soya's luck came into play one after another.\n\n：She was attacked by enemy aircraft while surveying, but was unharmed.\n：Torpedoes hit her but failed to fire.\n：She was damaged in an air raid on Truk Island and ran aground. All hands left the ship, but the next day she spontaneously ran aground and recovered.\n：A torpedo on a hit course from an enemy submarine passed through the bottom of the ship and did no damage.\nA bomb hit the bottom of the ship and passed through the bottom of the ship without damage.\n\nThere is no shortage of episodes of good fortune.  \nIt can be said that it is quite fortunate that the slow-paced Soya survived at a maximum speed of 12 knots at the end of the war, when not only transports, but even fast destroyers were being sunk at a clip.\n\nAfter the war, Soya was used as a repatriation ship and then as a lighthouse supply ship, but in 1956 she was reborn as the Japan Coast Guard's first \"Antarctic research vessel.\n\nWith this change, she went from being a \"lucky ship\" known only to those in the know to the \"Soya\" known to all Japanese people. It is said that one of the reasons Soya was chosen over the other candidates for the Antarctic observation ship was because of her \"ship's luck.\n\nSoya\" has survived many changes in this way. Surprisingly, more than 80 years after its construction The ship is registered as a patrol vessel of the Japan Coast Guard.\n\nThe legend of the lucky ship continues to this day...\n\n**特務艦 宗谷 1944**  \nあのキングオブ幸運艦こと「雪風」をも凌ぐ最強の幸運艦がこの「宗谷」です。  \n輸送や測量に従事したため華々しい戦果とは無縁ですがその強運は異次元クラスです。\n\n元々はソ連からの発注で建造され、北方での使用を想定していましたが第二次大戦直前に日本海軍が買い上げました。  \n日米が開戦すると宗谷の強運っぷりが次々と発揮されます。\n\n・測量中に敵機から攻撃を受けるも無傷。  \n・魚雷が命中しても不発。  \n・トラック島空襲で損害を受け座礁、総員退艦するも翌日には自然に離礁して復活。  \n・敵潜水艦からの命中コースの魚雷が船底を通過して被害なし。  \n・爆弾が直撃かと思ったら増槽だった。  \n\nなどなど、幸運エピソードには事欠きません。  \n輸送艦はもちろん、俊足の駆逐艦ですらバタバタと沈められる終戦間際に最大でも12ノットという鈍足の「宗谷」が生き残った事だけでもかなりの幸運と言えますが、伝説はここで終わりません。\n\n戦後は引揚船で活躍した後、灯台補給船となっていましたが\n1956年に海上保安庁の初代「南極観測船」として生まれ変わります。これにより知る人ぞ知る「幸運艦」から日本人の誰もが知る「宗谷」になりました。  \n\n南極観測船の選定の際、他候補を退けた理由のひとつに「船運の強さ」もあったと言われます。こうして幾度となく転身し、生きながらえた「宗谷」ですが驚くべきことに建造から80年以上経った現在でも海上保安庁の巡視船として船籍があります。\n\n幸運艦伝説は今も続いています・・・\n\nこのNFTは1944年頃の宗谷のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0086 SOYA 1944",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Auxiliary ship"
+    }
+  ]
+}

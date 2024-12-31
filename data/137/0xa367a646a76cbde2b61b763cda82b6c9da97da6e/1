@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWVsUuhXtQ5RHfN9nAhduKCeLShoBgxQEPEHDavpj8ZYf/nft.png",
+  "tokenId": 1,
+  "description": "This is a voxel art speaker for displaying your parcel for CRYPTOVOXEL. You can place it on the ground or hang it on the air for party and event situation. The idea came up since I started to host a party/gallery in the metaverse and wanted a collection related to raving and partying. You will have the right to re-sale and use it in your parcels/metaverse.\nI will share the vox.file later when bought.\n\nクリプトボクセルなどのメタバース（仮想空間）で展示する用のボクセルアートスピーカーです。メタバース上で展示会やパーティーを開く人の為のアイテムですので地面に置いたり、宙に置いたりして楽しんでください。購入頂いた方はリセールも可、メタバース上で設置も可です。\nvox.fileは購入後に送ります",
+  "nftContractAddress": "0xa367a646a76cbde2b61b763cda82b6c9da97da6e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "METAVERSE SPEAKER"
+}

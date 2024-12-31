@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRXZ4pLqqEfXdyFWdVDVJ8rkV7digoaYf2yKbwG3tP8vg/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 178,
+  "chainId": "137",
+  "name": "WMM #0178 RATTE P1000",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**RATTE P1000**  \nIt is an unprecedentedly huge weapon that even the term \"super heavy tank\" does not apply to the German military plan.\n\nIt is 39 meters long and 11 meters high. It is equipped with the 28cm cannon of the Scharnhorst class battleships and weighs a whopping 1000 tons!\n\nWith a maximum armor thickness of 360 mm, it was to be equipped with specifications that would make it a \"land battleship.\n\nThis weapon, which actually had the title of a \"land cruiser,\" was cancelled at the planning stage due to the obvious limitations imposed by its weight, coupled with the worsening war situation.\n\nAmong the several plans that had been proposed, a silhouette with a 128mm tank gun in the front, two 128mm turrets of the E-100, which were also unfinished, and four 20mm quadruple anti-aircraft guns in the tail was adopted.\n\n**陸上巡洋艦 ラーテ**  \nドイツ軍が計画した超重戦車という言葉すら当てはまらない空前絶後の巨大兵器です。\n\n全長39m、全高11m。シャルンホルスト級戦艦の28センチ連装砲を搭載し、重量はなんと1000トン！\n\n最大装甲厚は360mmと、もはや「陸上戦艦」と呼ぶべきスペックを備える予定でした。\n\n実際にランドクルーザー（陸上巡洋艦）の肩書きも存在するこの兵器は、あまりの重さで用兵上の制約があるのは明白で、戦況の悪化も相まって計画段階でキャンセルされました。\n\nいくつかあった推定プランの中でも前面に128mm戦車砲を備え、尾部にこれまた未完成だったE-100の128mm砲塔を2基、20mm4連装対空砲を4基搭載したシルエットを採用。",
+  "attributes": [
+    {
+      "value": "Germany",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

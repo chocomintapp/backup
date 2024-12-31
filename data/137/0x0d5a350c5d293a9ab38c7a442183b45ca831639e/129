@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmej9fK6Mjy8856a7QkTMDfC6SCcTHfHHD1bGoy6XmhZKA/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 129,
+  "chainId": "137",
+  "name": "Day61 Umitsuru's Art",
+  "description": "カレーに入っているときの人参が一番輝いている。\n\nCarrots shine brightest when they are in curry.",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

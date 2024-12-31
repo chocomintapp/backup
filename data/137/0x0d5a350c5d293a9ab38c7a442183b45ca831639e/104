@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaKzKUtpe78DfexTQ82DiR3oJJwv4tmuSqX4ZYittrbNx/nft.png",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 104,
+  "chainId": "137",
+  "name": "Day42 Syu's Art #122",
+  "description": "パパとママが電車に乗っている絵を描きました。\n\nI painted a picture of my mom and dad on a train.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

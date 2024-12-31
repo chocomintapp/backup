@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXQgrAjt4kDAWdN8jVXPYBjxcqphgAWZc1xuj4TJNXc1p/nft.jpg",
+  "nftContractAddress": "0xd7bd8bb535f321fb3e022bc36965bb5e14804180",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "PARTNERSHIP CARD #001",
+  "description": "PARTNERSHIP CARD #001\n\n商用利用権付与番号 NPOG-MA001\n\n①本NFTはSyo_Saida（nameraka-pudding.eth）が保有するMetaani GEN #00150 #00743 #01982の商用利用権を\nOtograf(otograf.eth)へ一時的に貸与し、NFTの発行を認めることを証明したものである。\n\n②Otografがこの権利を使用する場合、発行するNFTのdescriptionに上記商用利用権付与番号を記載することで使用可能となる。\n\n③本NFTの使用は本件限りであり、再度商用利用権の貸与を受ける場合は別途Syo_Saidaへ申請しなければならない。\n\n④本NFTは記載されている商用利用権付与番号が記載されたNFTに対してのみ有効である。\n該当NFT以外の使用は認められない。\n\n⑤本商用利用権を使用し発行されたNFTを保有した場合においても\nSyo_Saidaが保有しているMetaani GENの商用利用権を得ることはできない。\n\nMetaani GEN\nhttps://opensea.io/collection/metaanigen\n\nOtograf\nhttps://opensea.io/Otograf\n\nSyo_Saida\nhttps://opensea.io/Syo_Saida",
+  "attributes": []
+}

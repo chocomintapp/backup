@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXYxH2LkYBh2VPvFpZPdsygu6pGLdapEYoL9qyZUh16yL/nft.png",
+  "tokenId": 1,
+  "description": "A panda can go anywhere. But a panda goes somewhere.\nA panda has to set its goal.",
+  "nftContractAddress": "0xf7162cc7eaa4064069cb4f9ff95524d1538ebe12",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Panda goes somewhere",
+  "attributes": [],
+  "minted": ""
+}

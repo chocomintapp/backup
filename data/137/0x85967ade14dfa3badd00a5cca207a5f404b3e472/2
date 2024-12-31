@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdKwWJY1LsYH67JyoAXoPsZq7sf7JUUaN2xx6kociQmro/nft.png",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "BasketBallBabies #2",
+  "description": "BasketBallBabies\nとら\n\nBasket Ball Babies\nTiger",
+  "attributes": [
+    {
+      "value": "Tiger",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQjm1DaJfEiq7QKye6uwNHYZMZT5Vqe1Jsg3i4QbKhxyy/nft.PNG",
+  "nftContractAddress": "0x3342456c90e6a11bfea8db0fe04a205f4e39d2fb",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "ダイヤモンドきらきらスーパーエンジェルローズたのしいクマさんそしててんし #305",
+  "description": "この子は、コリアさま\n\nだって、男か女かわからないもの\n\n一応女の子設定\n\nまつ毛生えてるから\n\nキラキラサマンサ\n\nたのしいテンシ\n\nぜんぶ合わせてスーパーエンジェルローズキラキラダイヤモンドです\n\nこの子はみんなが見ているとまぶしくてまぶしくて\n\n視力がよくなります\n\nこの世にひとりだけが胸にお花の４つの色がついています\n\n小学3年生5番目の作品なので#305 の番号をふってます\n\nDiamond Sparkling Super Angel Rose, Fun Bears, and Angel #305\n\n\nThis child is Lady Coria.\n\nI don't know if it's a boy or a girl, but it's a girl setting.\n\nShe is a delightful angel.",
+  "attributes": [
+    {
+      "value": "Colorful",
+      "trait_type": "COLOR"
+    },
+    {
+      "value": "Animal",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Angel",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Kawaii",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Bear",
+      "trait_type": "Animal Type"
+    }
+  ]
+}

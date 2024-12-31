@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXL58Ts7tgJcz5mhB8Vd1eqkSAv9QV3uHjVA9fTuTBPPE/nft.gif",
+  "tokenId": 3,
+  "description": "INARI's Special Moves #0001\nstone shot",
+  "nftContractAddress": "0x6b8935fe669bbbde9d9b2adbda63fa422d01fc4f",
+  "animationUrl": "https://ipfs.io/ipfs/QmXL58Ts7tgJcz5mhB8Vd1eqkSAv9QV3uHjVA9fTuTBPPE/nft.gif",
+  "chainId": "137",
+  "name": "ISM#0001(INARI's Special Moves )",
+  "attributes": [
+    {
+      "trait_type": "Team",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Range",
+      "value": "Long-range"
+    }
+  ]
+}

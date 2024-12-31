@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZZbDzk1qa189LsY9Ck9D4bz24mMMQEYXUobFq69U7aTK/nft.jpeg",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 164,
+  "chainId": "137",
+  "name": "LIVING MINERAL #164",
+  "description": "",
+  "attributes": [
+    {
+      "value": "pig",
+      "trait_type": "gene"
+    },
+    {
+      "value": "common",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "stone",
+      "trait_type": "material"
+    }
+  ]
+}

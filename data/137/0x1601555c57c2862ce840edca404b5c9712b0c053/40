@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNQnsoz4HbHRpc4Gx3uSVsRVBiuLp7L2XLPea6b5ssHtr/nft.png",
+  "nftContractAddress": "0x1601555c57c2862ce840edca404b5c9712b0c053",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "137",
+  "name": "DandySkull2nd#040",
+  "description": "The \"DandySkull\" series expresses the coolness of a man's slightly delinquent side with a skull. Having one of these pieces will give you a cool status. Each skull is hand-drawn and personalized with a hat, cigarette, etc.",
+  "attributes": [
+    {
+      "value": "cigarettes",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "hat",
+      "trait_type": "headgear"
+    },
+    {
+      "value": "brown",
+      "trait_type": "background"
+    },
+    {
+      "value": "sunglasses",
+      "trait_type": "eye"
+    }
+  ]
+}

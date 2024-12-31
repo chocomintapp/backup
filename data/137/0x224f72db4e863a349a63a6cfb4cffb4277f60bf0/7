@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmas9RLWrBqN6A7FV6cSbMWRCa4mZSH7MvfbCQSWXA1AbL/nft.png",
+  "tokenId": 7,
+  "description": "Hello Mystic Willow of the Brambles #9323.",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#7 CRYPPL - Mystic Willow of the Brambles #9323",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "FRWC_ID",
+      "value": "9323"
+    }
+  ]
+}

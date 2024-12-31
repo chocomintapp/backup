@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme5Ka8NkXzHGQaEwGPS7vcGzo5Jspey9Y36yXXLDxegtk/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 47,
+  "chainId": "137",
+  "name": "Day22 Nana's Art #65",
+  "description": "絵を描いてと言ってくるパパから逃げるのが楽しい。\n\nIt's fun to run away from my dad when he asks me to draw him a picture.",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

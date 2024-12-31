@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPryQV4SBugJHmjiye3yG639BCLY9M5GKjeaDatynhLpK/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 105,
+  "chainId": "137",
+  "name": "Working Ganmichan#25 ",
+  "description": "丸の内レディのがんみちゃん。今日も行きつけの焼き鳥武蔵で飲み明かす。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "OL",
+      "trait_type": "situation"
+    }
+  ]
+}

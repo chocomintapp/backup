@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXpZMJ21v6gCqFygjpUKhWHr1ZZWmp2C1Sst6BtGFdXBP/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "137",
+  "name": "THS #028",
+  "description": "【若】",
+  "attributes": [
+    {
+      "value": "eggplant flower",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "wild bird",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "deer",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYDz4G6cuYkMHhRDSi9bGubCQfmubjtt9Rq5qTYLb3Phd/nft.png",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "#5 To keep her smile.",
+  "description": "It's April Fool's Day, so I lied...",
+  "attributes": [
+    {
+      "value": "English",
+      "trait_type": "Language"
+    }
+  ],
+  "minted": "✅"
+}

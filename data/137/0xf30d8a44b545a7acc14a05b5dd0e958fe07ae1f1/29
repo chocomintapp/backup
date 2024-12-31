@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaHbqaX4CEayR2aBmgUVgmHng7MhPPH65KC8aSkArfNxK/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "137",
+  "name": "PPP #029",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gradation",
+      "trait_type": "Backgroung"
+    },
+    {
+      "value": "Women’s Long GN",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Dress WT",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Straw hat",
+      "trait_type": "Accessories"
+    }
+  ]
+}

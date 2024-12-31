@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRxGJVPosfQnB758tJT3Tia1hyQF8StbhLohpw4ydgRhj/nft.png",
+  "tokenId": 9,
+  "description": "Time is Cannabbies.\nLimited Edition of 1【NABBIE HAKAMA】",
+  "nftContractAddress": "0x777444fb026cd06f490f87a7dc9dcaacc08fd3a5",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "CANNABBIES #9",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Nabbie"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Sativa"
+    },
+    {
+      "trait_type": "FASHION",
+      "value": "Hakama"
+    }
+  ]
+}

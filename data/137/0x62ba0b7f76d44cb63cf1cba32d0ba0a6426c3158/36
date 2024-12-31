@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcn9e4wCxiLcVEZyr9eBEtiXbszkEgRiRNqWctUBb9SSe/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #36",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Dobermann",
+      "trait_type": "TYPE"
+    }
+  ]
+}

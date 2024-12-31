@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma6Z4bwr5hSYpB46KCMhuvrmPFFobL1XLbtQdXiZFWTEL/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 86,
+  "chainId": "137",
+  "name": "Day35 Nana's Art #104",
+  "description": "パパの作った卵焼きが大好き。\n\nI also love the egg rolls that my dad makes.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ]
+}

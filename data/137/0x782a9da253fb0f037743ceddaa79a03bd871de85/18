@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVX94K1E9gXDTdrTaNGNxNJchbNrTTEfKvjcNZ9VVJ5Fz/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "137",
+  "name": "VerySilentFruits#18 Peach",
+  "description": "",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Peach",
+      "trait_type": "Fruit"
+    }
+  ]
+}

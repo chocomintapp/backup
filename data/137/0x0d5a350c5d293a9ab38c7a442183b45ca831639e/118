@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTHR255fzRfmBX7KdNyPv6BXxF8W4fCqcqCn7nc8nzBi4/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 118,
+  "chainId": "137",
+  "name": "Day50 Umitsuru's Art",
+  "description": "パイナップルを食べすぎると、舌の感覚がおかしくなる。\n\nIf you eat too much pineapple, you'll lose your tongue.",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

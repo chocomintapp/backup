@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdnZ9jjSCscZvoB8xsU1mqSVEs4PpQi1QmL6KKrhrH2tE/nft.png",
+  "tokenId": 23,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #23",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Seal"
+    }
+  ],
+  "minted": "✅"
+}

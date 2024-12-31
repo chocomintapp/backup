@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXaxh8Qd61ZAvTENN6VCdPCVNmtkpEmwZ4JmpB85NL7tt/nft.jpg",
+  "nftContractAddress": "0x547abf3b0afc35391991c789969ef5fad760395b",
+  "animationUrl": "https://ipfs.io/ipfs/QmXtZUHKS2Qy18eFfQ6gvZkqQvkNmtLqFtiTtFqV434xpK/nft.jpg",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "テスト",
+  "description": "テスト　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\nテスト",
+  "attributes": [],
+  "minted": "✅"
+}

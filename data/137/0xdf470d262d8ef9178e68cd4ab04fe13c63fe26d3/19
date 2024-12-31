@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdkFf2uY3LyPpy2LEqfbhBa4azmVdvzsrNHm1idarTeDQ/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmPEtgGDMzQgPSU3zazUWEcQmLSTX5vy5zqox48hTNARTf/nft.gif",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "Kawaii Legends #019",
+  "description": "#019 Otohime Kawaii\n\"Keep the faith.\"\n\nShe is a princess of the sea and a famous fairy tale character in Japan.\nThe story goes that as she was seeing off guests leaving a banquet at an undersea castle, she handin them a box filled with a mysterious magical smoke.\n\nThis story is said to have been told in the Nara period (710-794), and Otohime wear costumes based on the formal attire of aristocratic women in the Nara period.\n\n\n彼女は竜王の娘、乙姫です。\n琴の名手の彼女は、サルの肝が好物です。\n「開けてはいけない」あの有名な箱は、この作品の中では自ら蓋が揺れています。\n箱に描かれた模様は「老松模様」…怪しいですね！\n\n彼女は竜宮伝説の起源の奈良時代・貴族女性の衣装を身にまとっています。",
+  "attributes": [
+    {
+      "value": "Water sprite",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Party",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Bubbles",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Court lady dress",
+      "trait_type": "Outfit"
+    },
+    {
+      "value": "Spray",
+      "trait_type": "Foreground"
+    }
+  ]
+}

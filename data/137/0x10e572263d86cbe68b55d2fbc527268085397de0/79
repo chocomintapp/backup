@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmecHV7BeE7RqRdvRFxDN7ytQvizpe1iZpynMYLRNAhmWw/nft.png",
+  "tokenId": 79,
+  "description": "",
+  "nftContractAddress": "0x10e572263d86cbe68b55d2fbc527268085397de0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "LAZY EMMA #0079",
+  "attributes": [
+    {
+      "trait_type": "うしろの",
+      "value": "むらさき"
+    },
+    {
+      "trait_type": "かみがた",
+      "value": "へいそ"
+    },
+    {
+      "trait_type": "めめ",
+      "value": "こまりんご"
+    },
+    {
+      "trait_type": "くち",
+      "value": "にじいろのかがやき"
+    },
+    {
+      "trait_type": "おかおの",
+      "value": "びんぞこめがね（くろ）"
+    },
+    {
+      "trait_type": "あたまの",
+      "value": "ばけっとはっと（あお）"
+    },
+    {
+      "trait_type": "おきもの",
+      "value": "さんぼんせんのじゃーじ（あお）"
+    },
+    {
+      "trait_type": "もちもの",
+      "value": "しんじゅのねっくれす"
+    },
+    {
+      "trait_type": "みぎて",
+      "value": "なし"
+    },
+    {
+      "trait_type": "ひだりて",
+      "value": "こんとろーらー（ねいびー）"
+    }
+  ]
+}

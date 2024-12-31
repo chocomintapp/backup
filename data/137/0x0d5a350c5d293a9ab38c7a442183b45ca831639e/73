@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWaLE6Aav6g4oRhJQiNesS7B1mbTZFRVMeBAWBXfWBKMu/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 73,
+  "chainId": "137",
+  "name": "Day31 Umitsuru's Art #91",
+  "description": "将棋が好きです。\n\nI like to play Shogi.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

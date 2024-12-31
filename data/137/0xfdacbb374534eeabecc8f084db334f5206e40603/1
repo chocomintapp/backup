@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfGL4cSsvWsBpMLGpR8DPVXkMxqpYSpsxmoqZpp9P4p86/nft.jpg",
+  "tokenId": 1,
+  "description": "One of the \"first three Chromatopians\".",
+  "nftContractAddress": "0xfdacbb374534eeabecc8f084db334f5206e40603",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cyan",
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Cyan"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Cyan"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Cyan"
+    }
+  ]
+}

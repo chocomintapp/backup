@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmedCByAnbX7DmNx4LiK6BCdQmwVSGvNk27Yb72Gnkpnex/nft.png",
+  "nftContractAddress": "0xbaf31e2889e0582a29bbdd6a6258e43c14d6f364",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "Alpaca Baby",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Alpaca",
+      "trait_type": "TYPE"
+    }
+  ]
+}

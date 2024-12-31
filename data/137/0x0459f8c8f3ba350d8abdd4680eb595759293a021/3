@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmahDGYBUXzFmB2EFC57p99vwD5F3rcSAEUvApnCp4rJH1/nft.png",
+  "nftContractAddress": "0x0459f8c8f3ba350d8abdd4680eb595759293a021",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Smile! Jayda",
+  "description": "Jayda is glad to be friends with you!",
+  "attributes": [
+    {
+      "value": "Jayda",
+      "trait_type": "Character"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQpKVA3hE6EMfje5D9VparXUongvfW2Dkga21N6syHYUN/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 134,
+  "chainId": "137",
+  "name": "WMM #0134 HYUGA 1942",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**HYUGA 1942**  \nThis silhouette is battleship Hyuga in 1942.\n\nIt is the second ship of the Ise class battleships.  \nAt the time of her commissioning (1918), she was a member of the \"world's strongest fleet\" along with the Fuso, Yamashiro, and Ise, all of which had 36cm guns.\n\nShe experienced two turret explosions and one ammunition magazine fire, and after turret No. 5 was removed, she finally became an aircraft battleship, which is rare in the world.\n\n**戦艦 日向 1942**  \n伊勢型戦艦の2番艦です。  \n就役した当時（1918年）は36cm砲を有する「扶桑」「山城」「伊勢」と並び「世界最強の艦隊」を構成してしました。\n\n砲塔爆発事故2回、弾薬庫火災1回を経験し、5番砲塔を撤去を経て最終的には世界でも珍しい航空戦艦となりました。\n\nこのNFTは1942年頃の日向のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Battleship",
+      "trait_type": "Ship"
+    }
+  ]
+}

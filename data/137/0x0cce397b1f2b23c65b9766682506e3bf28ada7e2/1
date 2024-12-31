@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZj9bjJS5C5dd85EcEP8A79huX6Ec2uah8mJXsakqyQLX/nft.jpg",
+  "nftContractAddress": "0x0cce397b1f2b23c65b9766682506e3bf28ada7e2",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "smile boy #15 straw hat",
+  "description": "Collect and spread a lot of smiles! only one! ～たくさんの笑顔を集めて広げよう！～\n\n「スマイルオンリープロジェクト」は 今の世の中に笑顔を広げるため笑顔の作品を作り続けています。\n\n\"Don't let the heat get to you!\"\n\n「暑さに負けるな！」😊\n\n1次、2次流通購入者にそれぞれ特典NFTあります✨✨",
+  "attributes": [
+    {
+      "value": "smile boy",
+      "trait_type": "simple"
+    },
+    {
+      "value": "straw hat",
+      "trait_type": "accessory"
+    }
+  ],
+  "minted": "✅"
+}

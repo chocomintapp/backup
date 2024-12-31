@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRZxFTXu3FLasE4AMzqouRFaBLCCSTBgNbc2maLox21nE/nft.png",
+  "tokenId": 7,
+  "description": "A typical sauce cutlet bowl is a bowl of pork cutlet topped with rice and topped with sauce.  In a full-fledged restaurant, instead of sprinkling the sauce from above, the pork cutlet may be soaked in a large amount of sauce for a short time before being put on rice.  Depending on the region, cabbage may be placed under the cutlet.",
+  "nftContractAddress": "0xafcaf44db4a79e28075111aa018295cc5a23a826",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "SOSU KATSU DON",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

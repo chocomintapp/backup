@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW7QQ3K3k2pYYifbuGJCsv6CLgKQ7mb3hryBLbyfyCu1R/nft.png",
+  "tokenId": 46,
+  "description": "Creator [jatpax](https://opensea.io/jatpax?tab=created_collections)\n\n空間をも歪ます程の力を持つ子グモ。  \n悪運も寄せ付けない。",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "大凶 #1",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "大凶"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "jatpax"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Unopened"
+    }
+  ]
+}

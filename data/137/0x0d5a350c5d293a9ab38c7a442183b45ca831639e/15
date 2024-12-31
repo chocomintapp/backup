@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVbxsKLkWrPMuotDh6XN2twFcrFVCWXxgkZKCXfBD4zTz/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "Day11 Umitsuru's Art #33",
+  "description": "絵って下手くそでも良いんだ。\n\nIt's okay to draw badly.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

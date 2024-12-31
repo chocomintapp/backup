@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSTrpxPkHJqUjiBcqX5ixSZUobJ5fRp1d5pdV7kyLQymq/nft.jpeg",
+  "nftContractAddress": "0x03f3673b42e348e4dc310b81a7446aaa3599db6e",
+  "animationUrl": "https://ipfs.io/ipfs/QmSTrpxPkHJqUjiBcqX5ixSZUobJ5fRp1d5pdV7kyLQymq/nft.jpeg",
+  "tokenId": 129,
+  "chainId": "137",
+  "name": "anemone",
+  "description": "",
+  "attributes": []
+}

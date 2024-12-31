@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSVTceHrpnAuRQWxRboYWCmpMGPocZBbinyc2GHwyi3gJ/nft.png",
+  "tokenId": 11,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SOMUA S35 Cavalry Tank**  \nA very good medium tank developed by France before World War II.\n\nIt has one of the best defenses of its generation.\nThe speed is fast, and the penetrating power of the 32 caliber 47mm gun is also high\nIt was a vehicle that was kept at a high level of balance of running, offense and defense.\nIt was later captured by the Germans and operated during the occupation.\n\n**ソミュア S35 騎兵戦車**  \n第二次大戦前にフランスが開発した\n非常に優秀な中戦車です。\n\n同世代の中戦車としてはトップクラスの防御力を備え。\n速力も早く、32口径47mm砲の貫徹力も高いもので\n走攻守のバランスが高い次元で保たれた車両でした。\n後にドイツ軍に鹵獲され占領下で運用されています。\n",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0011 SOMUA S35",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "France"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ],
+  "minted": "✅"
+}

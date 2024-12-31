@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQmoG2KTkEeBbWURisSaeQFBf6csgLVcuBnWoNuyi9PMt/nft.jpg",
+  "nftContractAddress": "0xd3678160af8af98e147a8411b97d774e175bfb37",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Black Feed",
+  "description": "Black Feed for UPA",
+  "attributes": []
+}

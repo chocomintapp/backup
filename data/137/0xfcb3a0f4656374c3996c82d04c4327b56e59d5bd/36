@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT1QyB4RuA7odG7pxQUSSp19iCHJBv5dVjQu2hUbT9x9K/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "137",
+  "name": "#0035_Deep Sky Blue",
+  "description": "#0035_Tanshiki_CcB_Deep Sky Blue",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Deep Sky Blue",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Deep Sky Blue",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Deep Sky Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ],
+  "minted": "✅"
+}

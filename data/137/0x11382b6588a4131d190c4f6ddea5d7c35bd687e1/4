@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPU5sVY9YXB5UsiH3hrgusVKp1xP5g4aTKDZfdhRWL8BN/nft.png",
+  "nftContractAddress": "0x11382b6588a4131d190c4f6ddea5d7c35bd687e1",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "V #008",
+  "description": "Moe is in a music band and plays drums.She is assertive and clear about what she wants to do.She has a lot of emotional ups and downs and is dependent.We broke up because she cheated on me…\n\nMemory:She gave me a scarf that she spent days knitting.",
+  "attributes": [
+    {
+      "value": "RAD WINPS",
+      "trait_type": "FAVORITE"
+    },
+    {
+      "value": "Drums",
+      "trait_type": "HOBBY"
+    },
+    {
+      "value": "Moe",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "Selfishness",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Singing",
+      "trait_type": "SPECIAL SKILL"
+    }
+  ]
+}

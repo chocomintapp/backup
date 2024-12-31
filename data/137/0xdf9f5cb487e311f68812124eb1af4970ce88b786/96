@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVKkJJkGn2QffSz68UML9B3gQnQY9qaudgCGE1JZoD7RS/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 96,
+  "chainId": "137",
+  "name": "NICC(neo ikkena-i! chikoku chikoku!)",
+  "description": "どうやら鬼退治に遅刻したようです。",
+  "attributes": [
+    {
+      "value": "special",
+      "trait_type": "series"
+    },
+    {
+      "value": "Onigashima",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

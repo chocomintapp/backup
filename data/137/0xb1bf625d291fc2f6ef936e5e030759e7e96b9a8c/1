@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYgqZXMM5Kn7uPw6DeQCCuLngcdUwmRLSdpAgqf1vRXT5/nft.jpeg",
+  "tokenId": 1,
+  "description": "Human + Animal = Hunimal",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "HUNIMAL #1",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Hunimal"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Bison + Human"
+    },
+    {
+      "trait_type": "FASHION",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "Ducktail/The DA"
+    },
+    {
+      "trait_type": "STYLE",
+      "value": "Teddy boy"
+    }
+  ]
+}

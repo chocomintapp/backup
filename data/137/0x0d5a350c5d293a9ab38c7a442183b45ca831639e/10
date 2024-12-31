@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNxSJjepJnCEXnnMamHyMVeCZoN6hEHUK3SjyRwWvcvJD/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "Day4 Umitsuru's Art #12",
+  "description": "絵の勉強したてなので、絵柄が不安定。\n\nI'm just learning how to draw, so my patterns are unstable.",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

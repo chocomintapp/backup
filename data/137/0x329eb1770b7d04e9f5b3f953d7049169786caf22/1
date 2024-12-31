@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmedWrAE3sThg4zLJ837TdrpHKdC9WHjUauJj8ZudtdfYG/nft.gif",
+  "tokenId": 1,
+  "description": "Delivering the beauty of strokes in calligraphy with my favorite sushi！\nIn my first piece, I will deliver it with tuna.",
+  "nftContractAddress": "0x329eb1770b7d04e9f5b3f953d7049169786caf22",
+  "animationUrl": "https://ipfs.io/ipfs/QmPejV8hYAgUEEdCHM52yU81Cd6LLytxHkXZFWKfQ6U8PW/nft.glb",
+  "chainId": "137",
+  "name": "SushiGraphy-tuna",
+  "attributes": []
+}

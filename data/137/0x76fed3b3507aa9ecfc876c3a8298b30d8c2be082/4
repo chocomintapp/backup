@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbNPNvNx53cdpwkid6sUZ1BJdxLXgDDb8sbHYka9bXFj9/nft.png",
+  "nftContractAddress": "0x76fed3b3507aa9ecfc876c3a8298b30d8c2be082",
+  "animationUrl": "https://ipfs.io/ipfs/QmQFdWmXdRBoar2HEf1x6wu2qoMTrWd8KWYgbgogqzpQny/nft.png",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "はなて笑",
+  "description": "はな？\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "黄色"
+    },
+    {
+      "value": "15",
+      "trait_type": "灰色の点"
+    },
+    {
+      "value": "1",
+      "trait_type": "緑背景"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

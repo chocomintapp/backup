@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc82Nkd5ragu5r1Fj15vBf7D8b3KxEbCPXCLjzVXhSysk/nft.jpg",
+  "tokenId": 11,
+  "description": "Bear nft playing tennis",
+  "nftContractAddress": "0x9c89337c80abf33d7f27ccb7a700052f605abe86",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "bear"
+}

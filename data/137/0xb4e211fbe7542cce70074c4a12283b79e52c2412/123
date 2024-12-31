@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaX6WRKzmuuVpwqMUoWEC6avvCsPP69JzKCg61tEQBokU/nft.png",
+  "tokenId": 123,
+  "description": "Contemporary art style foliage scroll medjed",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/QmaX6WRKzmuuVpwqMUoWEC6avvCsPP69JzKCg61tEQBokU/nft.png",
+  "chainId": "137",
+  "name": "medjed no.123/1000",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP9PQf7ksiVYkYUZsjDzZKfRFmbmXu1AxyN27UFXvwUsY/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #32",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Leopard",
+      "trait_type": "TYPE"
+    }
+  ]
+}

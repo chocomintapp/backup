@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNXQyXoGBMgHTTf4Ru9MgmQykBfLRzFX8Wy8TWZD2nijY/nft.gif",
+  "tokenId": 15,
+  "description": "",
+  "nftContractAddress": "0xa38f30ee1089b44c5421d393f7986d4a8f90268e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Vision",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Green Beanie"
+    },
+    {
+      "trait_type": "Headphone",
+      "value": "Red V.1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Robo V.1"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Astro V.1"
+    },
+    {
+      "trait_type": "Bag",
+      "value": "Black Backpack"
+    },
+    {
+      "trait_type": "Pet",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Vision"
+    }
+  ]
+}

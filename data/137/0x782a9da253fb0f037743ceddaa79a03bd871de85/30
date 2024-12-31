@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXuWtbpC18g8ZSTeNd3bYJU3pycswdVTqcKhFA5JsAtab/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "137",
+  "name": "VerySilentFruits#30 Rainbow Fig",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Fig",
+      "trait_type": "Fruit"
+    },
+    {
+      "value": "Rainbow",
+      "trait_type": "Speciality"
+    }
+  ]
+}

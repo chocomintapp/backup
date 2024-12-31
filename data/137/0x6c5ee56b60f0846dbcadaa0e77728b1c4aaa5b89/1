@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRbFm5w8dT46ZfTu7tVAEPib4NfgDy8Pp1arCB2Er7bKh/nft.png",
+  "nftContractAddress": "0x6c5ee56b60f0846dbcadaa0e77728b1c4aaa5b89",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Mintin'#002 Tiger",
+  "description": "2022 is the year of the tiger. What does a tiger taste like\n??",
+  "attributes": [
+    {
+      "value": " Tiger Graze",
+      "trait_type": "TOP"
+    },
+    {
+      "value": "Nomal",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "N/A",
+      "trait_type": "DECORATE"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "BACKGROUND"
+    }
+  ],
+  "minted": "✅"
+}

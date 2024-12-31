@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVnpeXd2a5e8v7cdbhQL5BfS37ZkmJPDgJAvdaDktQcCq/nft.png",
+  "tokenId": 11,
+  "description": "Unagi is a Japanese dish of white rice with sauce and eel kabayaki.  It is a local dish of Edo and Tokyo.  Use a heavy box as tableware.  The original eel is a food in which eel kabayaki is placed on top of rice, and then rice is added and eel kabayaki is layered.",
+  "nftContractAddress": "0xafcaf44db4a79e28075111aa018295cc5a23a826",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "UNAJU",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

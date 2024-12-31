@@ -1,0 +1,16 @@
+{
+  "image": "https://thecryptoclocks.mypinata.cloud/ipfs/QmUBD4u1tqmcwwxEAvW7rd7CsKGD9XWCi6RgAeCrro4VM7",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xe48532b64fbf3533426d469328899d5a32e71829",
+  "animationUrl": "https://thecryptoclocks.mypinata.cloud/ipfs/QmR1wkge9b4beZZA9V4ZyGBpLDXmxLADwAbkb29LDukn5n/",
+  "chainId": "137",
+  "name": "Mineseeper NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Strength",
+      "value": "5"
+    }
+  ]
+}

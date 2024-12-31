@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeuPovaf6BHumz6C2TEKFUaVs3fwUpwdHbSxC6RR5r8sw/nft.png",
+  "tokenId": 21,
+  "description": "Clock time now?",
+  "nftContractAddress": "0x810d96d3cd4b88876264c99846e214de566053cf",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "clock"
+}

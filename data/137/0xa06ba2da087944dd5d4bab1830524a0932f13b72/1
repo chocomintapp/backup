@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU3WunFhmzVu9snL9vpq3r9LG23RvWuX5RpRfDf3jQAmA/nft.png",
+  "tokenId": 1,
+  "description": "ChocoFactory Test",
+  "nftContractAddress": "0xa06ba2da087944dd5d4bab1830524a0932f13b72",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Choco Test",
+  "attributes": [],
+  "minted": "✅"
+}

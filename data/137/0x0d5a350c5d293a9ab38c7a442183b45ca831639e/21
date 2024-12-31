@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYyoTWt3nUC7B4iFckzJ8DnDMeYGMDhcTjwUrRKTeFErn/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "Day13 Umitsuru's Art #39",
+  "description": "実はフルマラソン3回完走したことがあります。\n\nIn fact, I've completed three full marathons.",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

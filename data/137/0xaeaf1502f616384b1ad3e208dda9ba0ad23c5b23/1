@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS5jEGV4gj5evumVHgJT96aBnZUCX71QgtmVDJwa9LmUL/nft.png",
+  "nftContractAddress": "0xaeaf1502f616384b1ad3e208dda9ba0ad23c5b23",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "HachiwareCat",
+  "description": "HachiwareCat",
+  "attributes": [
+    {
+      "value": "Hachiware",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUQx6mFHBH5CK6DGzFycDHwCam6nxFJkt6cv8CVvzbhMX/nft.jpg",
+  "nftContractAddress": "0x5f2e42f34d63eb91ab13974ecb6a911d57d18133",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "137",
+  "name": "Chibikko-saurus girl#12",
+  "description": "What do you want to do when you grow up?",
+  "attributes": [
+    {
+      "value": "Parasaurolophus",
+      "trait_type": "character"
+    },
+    {
+      "value": "Kind",
+      "trait_type": "personality"
+    }
+  ]
+}

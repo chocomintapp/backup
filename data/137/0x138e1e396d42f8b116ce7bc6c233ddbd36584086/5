@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNPiUVoKgPwDZauzMf54qrh5pomWQGvdY9kdWT7gNj6cs/nft.png",
+  "nftContractAddress": "0x138e1e396d42f8b116ce7bc6c233ddbd36584086",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "skateboard",
+  "description": "",
+  "attributes": []
+}

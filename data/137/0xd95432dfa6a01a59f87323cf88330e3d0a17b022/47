@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQLQPSEnTTuJqsFoK1XdxkJghVJwDsXQE66o6STzhFxnw/nft.jpg",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 47,
+  "chainId": "137",
+  "name": "大吉 Octopus ♯47",
+  "description": "そうです、あのタコです。笑\n\nThat's right, that octopus.hahaha\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープル official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection\n\n",
+  "attributes": [
+    {
+      "value": "Octopus",
+      "trait_type": "SEPECIAL ITEM"
+    }
+  ]
+}

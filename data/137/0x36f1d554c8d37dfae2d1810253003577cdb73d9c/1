@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWvNnUf6Qiu6TQ7Sv4TRZKHhpTt8qSAtYdoUkbLaTxLo3/nft.png",
+  "tokenId": 1,
+  "description": "3 Chome-33 H-cho, Yokosuka.\n\n\"Dobuita-dori\" in Yokosuka City is the first virtual city that many gamers have traveled to.\n\nThe Dobuita NFT Collection is a project to turn the entire city of Dobuita into an NFT. In the future, NFT owners will not only be able to own streetlights, vending machines, and stores on Dobuita-dori, but will also be able to participate in events for owners on the physical Dobuita-dori, and receive benefits using AR and metaverse.\n\nThis DOBUITA NFT Z001 is a pre-release item of such a collection.",
+  "nftContractAddress": "0x36f1d554c8d37dfae2d1810253003577cdb73d9c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "DOBUITA NFT Z001",
+  "attributes": []
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVT49sRJzsSWDJ7ZEd7VK6kaKcjRRyvee3tFfMASwqJ9N/nft.jpg",
+  "tokenId": 1,
+  "description": "宇宙にも虹の惑星があったよ",
+  "nftContractAddress": "0xd1bc938b04b82fc68f62fa20736e47362a2d5d4f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "The Rainbow Planet",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

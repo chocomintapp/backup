@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSQFg1fiNaKBMTz5Per3ZMzzM31QWQP2nDZ5CRGkzeD9e/nft.png",
+  "tokenId": 30,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**YUGUMO 1943**  \nThis silhouette is destroyer YUGUMO in 1943.\n\nIt is the first ship of the Yugumo type destroyer that was built 19 ships.  \nYugumo type was born as an improved version of the Kagero type. As the mainstay of the destroyer squadron continued to carry out missions in the harsh front line.\n\nYugumo\" is the name ship\nShe participated in the Battle of Midway, Operation Ke-go, and the retreat from Kiska Island.  \nIn the second Battle of Belarabella in the Solomon Islands\nShe was the ship responsible for the damage and sank under concentrated fire.  \nHowever, she also left a torpedo hit on a U.S. destroyer.\n\n**駆逐艦 夕雲 1943**  \n19隻が建造された夕雲型 駆逐艦の1番艦です。\n\n陽炎型の改良版として生まれた夕雲型は、水雷戦隊の主力として過酷な最前線で任務をこなし続けました。\n\nネームシップとなった「夕雲」はミッドウェー海戦やケ号作戦、キスカ島撤退作戦などに参加。ソロモン諸島の第二次ベララベラ海戦では被害担当艦となり集中砲火を浴び沈没しましたが米駆逐艦に魚雷を命中させる戦果を残しています。\n\nこのNFTは1943年頃の夕雲のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0030 YUGUMO 1943",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Destroyer"
+    }
+  ]
+}

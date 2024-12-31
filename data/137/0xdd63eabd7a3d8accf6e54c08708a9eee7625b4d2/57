@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeDgf2AwPWQHteHRmhkDfCaa4RMM4tAkniJDfihYYUqHT/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 57,
+  "chainId": "137",
+  "name": "LIVING MINERAL #57",
+  "description": "",
+  "attributes": [
+    {
+      "value": "fox",
+      "trait_type": "gene"
+    },
+    {
+      "value": "uncommon",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "gold",
+      "trait_type": "material"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWaPzpd63UfvL4fZ3j3nMb4iua9VKXKeZGnq3RkLr64Xo/nft.jpg",
+  "nftContractAddress": "0x2344c9240bdd5bc0feecc959bc115c11be5a2ec4",
+  "animationUrl": "https://ipfs.io/ipfs/QmWaPzpd63UfvL4fZ3j3nMb4iua9VKXKeZGnq3RkLr64Xo/nft.jpg",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Confe icon",
+  "description": "Confe Chan",
+  "attributes": [
+    {
+      "value": "Confe",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "A class",
+      "trait_type": "CLASS"
+    },
+    {
+      "value": "Universe",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

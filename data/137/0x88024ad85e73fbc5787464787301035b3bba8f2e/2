@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWXmtfMcVVUtuAasq5SA5ejG9zohhp4rW4n8W7kYBYKVn/nft.jpg",
+  "nftContractAddress": "0x88024ad85e73fbc5787464787301035b3bba8f2e",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "#50【ドクターペンタゴン】",
+  "description": "",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "1"
+    }
+  ]
+}

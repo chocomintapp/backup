@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfZnC21sHqntetmdEQTJFE12nLuXg2Ze3AnYD6ff6siTJ/nft.png",
+  "nftContractAddress": "0x63db039387f2a9379d108ba2a5527b0488fa3554",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "avax",
+  "description": "",
+  "attributes": [],
+  "minted": ""
+}

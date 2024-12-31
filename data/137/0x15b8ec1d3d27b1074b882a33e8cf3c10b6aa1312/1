@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUpVEPw8LNQzYoBJ5dVUtsVab38LWxWR1972eBLGNfBoi/nft.png",
+  "nftContractAddress": "0x15b8ec1d3d27b1074b882a33e8cf3c10b6aa1312",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "upaFeed #001",
+  "description": "cocoloto用 UPAの餌 #001",
+  "attributes": [
+    {
+      "value": "100",
+      "trait_type": "におい"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYMfeVPVHwnxvy5fwQVfonwxGeW4dgtyLyujTQ4syVex4/nft.png",
+  "tokenId": 1,
+  "description": "Geometric hamsters are Here!",
+  "nftContractAddress": "0x63566b98f06610f7863904d2e1cc9e521ad8aaea",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Geometric hamster",
+  "attributes": [
+    {
+      "trait_type": "miruimono",
+      "value": "Geometric hamsters"
+    }
+  ]
+}

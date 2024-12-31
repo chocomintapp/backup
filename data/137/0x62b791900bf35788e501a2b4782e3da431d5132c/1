@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQpx1tw85zuoo5aCsLC1U775i4AGbESgdDQoud2CYT3nW/nft.png",
+  "nftContractAddress": "0x62b791900bf35788e501a2b4782e3da431d5132c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "series 1",
+  "description": "series 1",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "series"
+    }
+  ],
+  "minted": "✅"
+}

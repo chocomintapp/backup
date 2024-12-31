@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmabNk38AuJozHrLRLn4Xr54L1hEBBfBsoU2vxDi8ddv5V/nft.png",
+  "nftContractAddress": "0x9ecdeb50d8746b96e8b263224d774fbb3adb08d5",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "YYMA #61",
+  "description": "This work is created by My own contract, and the image is stored in IPFS.",
+  "attributes": [],
+  "minted": "✅"
+}

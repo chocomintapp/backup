@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaN7zgiZXBQpNhmHVC5YP6pQjJSnNP5bM5hRHMEQw2H8d/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 498,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #498",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Cockroach",
+      "trait_type": "TYPE"
+    }
+  ]
+}

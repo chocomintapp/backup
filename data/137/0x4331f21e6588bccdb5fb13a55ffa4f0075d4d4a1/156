@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdjoqmQE1ad7VBK3ZDavkpvgghUSWB1QKWgoamQMUQ3DP/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 156,
+  "chainId": "137",
+  "name": "WMM #0156 FUBUKI 1941",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**FUBUKI 1941**  \nThis silhouette is Destroyer Fubuki in 1941.\nIt is the nameship of the FUBUKI class that shocked the world.\n\nIt is notable for its high running ability, long cruising range, and heavy armament, which instantly made all previous destroyers obsolete.\n\nThe Ayanami and Akatsuki-class destroyers were developed as the basic form of destroyers of the Imperial Japanese Navy.\n\n**駆逐艦 吹雪**  \n世界に衝撃を与えた特型駆逐艦こと吹雪型のネームシップです。\n\n特筆すべきは、それまでの駆逐艦を一瞬で時代遅れのものとした高い走破性と長大な航続距離、更には重武装です。\n\nその後の日本海軍駆逐艦の基本形として改良が加えられ、綾波型、暁型へと発展していきました。\n\nこのNFTは1941年頃の吹雪のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Destroyer",
+      "trait_type": "Ship"
+    }
+  ]
+}

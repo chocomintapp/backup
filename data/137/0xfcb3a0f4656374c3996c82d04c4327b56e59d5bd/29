@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPh7vJe33KxPfp2v7NLeTvS6peJXurZL8WXEAeGBjVcxE/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "137",
+  "name": "#0028_Niton_GC",
+  "description": "#0028_Niton_GC",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Cyan",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Medium Spring Green",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRyog9CvrVSEvxev7jUwXboAvuuAdwCznyMAoiZCNRCbF/nft.gif",
+  "tokenId": 18,
+  "description": "",
+  "nftContractAddress": "0x238312a4b25d38da55f437c35bb713f2a5924664",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Climate",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "Background",
+      "value": "Climate"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Brown Fedora"
+    },
+    {
+      "trait_type": "Headphone",
+      "value": "Red v.1"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Rx"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Predator"
+    },
+    {
+      "trait_type": "Pet",
+      "value": "Shiba"
+    },
+    {
+      "trait_type": "Bag",
+      "value": "Black Backpack"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Black Cat"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

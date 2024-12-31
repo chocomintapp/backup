@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTrvczA9AfogrfLKXG1RuWZxjLUyRKumhyixTcoGR215Z/nft.jpeg",
+  "tokenId": 2,
+  "description": "Japanese Hiragana NFT",
+  "nftContractAddress": "0xba003595bb49c31cfc2d7d197e0ddc15a324f4d6",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Noriyugi #2",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

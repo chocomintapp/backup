@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWsDrYJm7TiFVhKnnq5K6RBKqyP8jWoX1pCwuzh5qurXm/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 123,
+  "chainId": "137",
+  "name": "Ganmichan's gifs #6",
+  "description": "LFG!!!",
+  "attributes": [
+    {
+      "value": "gifs",
+      "trait_type": "series"
+    },
+    {
+      "value": "LFG",
+      "trait_type": "situation"
+    }
+  ]
+}

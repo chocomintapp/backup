@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmULmh1LbBKRqHc3wdz6VoZRioEXSXJM8xEyQ7r6ZW4Gsm/nft.png",
+  "nftContractAddress": "0x2e0edb074e522be992ae172cadf7c6a3797fbab7",
+  "animationUrl": "https://ipfs.io/ipfs/QmPNVvM5PkV4xsNh6SCk1zHfgaFRAmaPFNPrdJJsr47V8T/nft.glb",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "chillienS#3",
+  "description": "",
+  "attributes": []
+}

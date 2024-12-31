@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf8RcyRxvWzkL5G7uZyr8Z3ZJdVkBT26y27VzGGnCE9w6/nft.png",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "137",
+  "name": "#38 CRYPPL - Magus Jahid of the Tower",
+  "description": "Hello Magus Jahid of the Tower #8424",
+  "attributes": [
+    {
+      "value": "8424",
+      "trait_type": "FRWC_ID"
+    }
+  ],
+  "minted": "✅"
+}

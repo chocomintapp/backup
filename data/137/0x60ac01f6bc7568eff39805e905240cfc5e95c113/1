@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWdquN68JohNKfQdK52jgmgXA4Ee3S3bd7Hu1nvkE9135/nft.png",
+  "nftContractAddress": "0x60ac01f6bc7568eff39805e905240cfc5e95c113",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "十文字手裏剣【朱】ー神具NFT ",
+  "description": "十文字手裏剣は六刃忍者師団のリーダーである葉隠斎によって開発されたとされています。\n葉隠斎は、その優れた技術と創造力で多くの秘密兵器を開発し、六刃忍者師団の強さを支えました。\n(縅伝記-戦国之章 22幕より-)\n\n\nThe Tenmonji Shuriken, also known as the Cross Shuriken, is said to have been developed by Hayakage, the leader of the Rokuban Ninja Clan. Hayakage, renowned for his exceptional skills and creativity, was instrumental in creating numerous secret weapons that bolstered the strength of the Rokuban Ninja Clan.\n\n(From the Scroll of Hayakage - Chapter of the Warring States, Act 22)",
+  "attributes": [
+    {
+      "value": "weapon",
+      "trait_type": "Attribute"
+    },
+    {
+      "value": "10",
+      "trait_type": "Attack"
+    },
+    {
+      "value": "fire",
+      "trait_type": "Element"
+    }
+  ],
+  "minted": ""
+}

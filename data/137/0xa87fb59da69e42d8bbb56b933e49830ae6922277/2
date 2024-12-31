@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT7krAiBGvvKcpCGVe8gridv5KxXKRykFPjHT2xxtE9tb/nft.png",
+  "nftContractAddress": "0xa87fb59da69e42d8bbb56b933e49830ae6922277",
+  "animationUrl": "https://ipfs.io/ipfs/QmZ3k4EU8tXueRQMstYvgSEYVVE6whz1t6AkqR6Up42tTH/nft.gif",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "チョコミント",
+  "description": "チョコミントテスト",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

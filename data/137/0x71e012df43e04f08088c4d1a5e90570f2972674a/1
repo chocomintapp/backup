@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme1C3wT4zqhdNXLMme7AGfPDpPKWeQh8sxVa7cBBcAL6W/nft.png",
+  "tokenId": 1,
+  "description": "TEST1",
+  "nftContractAddress": "0x71e012df43e04f08088c4d1a5e90570f2972674a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "TEST1",
+  "attributes": [
+    {
+      "trait_type": "ATK",
+      "value": "12"
+    },
+    {
+      "trait_type": "DEF",
+      "value": "9"
+    },
+    {
+      "trait_type": "INT",
+      "value": "1"
+    }
+  ]
+}

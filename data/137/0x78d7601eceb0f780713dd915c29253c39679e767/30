@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRhSmgpbLPqcVVGFvsnpQuchsjsq3RSnEETrZFanL6AJS/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "137",
+  "name": "#30『Girl with star eyes』asa#39 Collaboration costume",
+  "description": "『Girl with star eyes』×『RabbitGirls』\n\nCollaboration special dress-up item 🐰 \nasa # 39 costume set.👗\nGirl who likes to make up\n\nThanks💜Twitter @acha_52",
+  "attributes": [
+    {
+      "value": "Clothes",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Collaboration",
+      "trait_type": "Special"
+    }
+  ],
+  "minted": "✅"
+}

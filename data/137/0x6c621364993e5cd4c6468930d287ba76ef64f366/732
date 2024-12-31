@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfBmUgF5FHLwhB8U4TAopzbp8Tp9m55ZvWi5b1Vra6hG5/nft.png",
+  "nftContractAddress": "0x6c621364993e5cd4c6468930d287ba76ef64f366",
+  "animationUrl": "",
+  "tokenId": 732,
+  "chainId": "137",
+  "name": "CryptoGoro #Day732",
+  "description": "CryptoGoro #Day732\n\n02/JUL/2023\n\nWorld famous modern artist Mr.Goro makes his self-portrait every day. Each NFG (Non-Fungible Goro) mint only one. This project will continue until his death. Let’s collect your own Goros!!\n\n1268 days before death.",
+  "attributes": [
+    {
+      "value": "Blue Chick",
+      "trait_type": "COMPANION"
+    }
+  ],
+  "minted": "✅"
+}

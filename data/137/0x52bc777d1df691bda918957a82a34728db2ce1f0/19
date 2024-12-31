@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaMRuAwAumCkSpZp9SAJdDTQG3BNh2u9K8FB4XnAknNyG/nft.png",
+  "tokenId": 19,
+  "description": "Calligraphy Devil #19",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #19",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Beelzebub"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Amon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Phlegethon"
+    }
+  ],
+  "minted": "✅"
+}

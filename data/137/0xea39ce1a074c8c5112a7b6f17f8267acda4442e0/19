@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVLnr866JeywJWnXGQZ69WQkzyV9J8xwgicdTC8KmkSz2/nft.png",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "TANU-KIDS #018",
+  "description": "忍に変身したTANU-KIDS\n\n忍足でそろそろと近づきます",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Ninja",
+      "trait_type": "History"
+    }
+  ]
+}

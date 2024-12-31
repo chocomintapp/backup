@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeU44FQXyG4uLxCy5meu53vKYudxrESLMZZwbsM72UeP7/nft.png",
+  "nftContractAddress": "0x3adbd53ce43b64db4921600b95c618a638e07f16",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Yakiimo",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "サツマイモ",
+      "trait_type": "MATERIAL"
+    },
+    {
+      "value": "芋",
+      "trait_type": "WORD"
+    },
+    {
+      "value": "火",
+      "trait_type": "EFFECT"
+    }
+  ]
+}

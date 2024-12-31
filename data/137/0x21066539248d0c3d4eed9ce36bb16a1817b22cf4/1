@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbosWSqq7AqPHb3k1V6u8nudjKubsu3dQUfJX4NoVK8Ad/nft.png",
+  "nftContractAddress": "0x21066539248d0c3d4eed9ce36bb16a1817b22cf4",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "XD",
+  "description": "This contract publishes and accepts collection offers well below the minimum price.\nExcluded from all benefits offered by the issuer.",
+  "attributes": [],
+  "minted": ""
+}

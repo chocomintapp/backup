@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU9z3bZiFG48vxnXwLUdabNVpw6z4MZsEh5bYkrpF9Nm1/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "PPP #012",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Men’s short GL",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Rider's jacket NV",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Sunglasses",
+      "trait_type": "Accessories"
+    }
+  ]
+}

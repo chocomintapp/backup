@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbkCaxt9rBNef8jjXgxKNL66txoeLjDFCFFcyoy3R9Ch9/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 92,
+  "chainId": "137",
+  "name": "#13 White flower hair ornament",
+  "description": "Flower hair ornament made for happiness and peace.",
+  "attributes": [
+    {
+      "value": "Hair accessories",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Accessories",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc2QpngainCgzYu3qQsJ4gsYBxTyRs2MQ46Qga1xvSwjL/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 235,
+  "chainId": "137",
+  "name": "#235",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#FFD3BC",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#004FFF",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Skull in the back alley",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull",
+      "trait_type": "face"
+    },
+    {
+      "value": "Combat readiness",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Light purple tattoo",
+      "trait_type": "special1"
+    },
+    {
+      "value": "Two hand guns",
+      "trait_type": "Accessory1"
+    }
+  ],
+  "minted": "✅"
+}

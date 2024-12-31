@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYKVwaKFZLJPW4Pbp68k13Vj2hTySe6S3teQko6yEGrYV/nft.png",
+  "tokenId": 3,
+  "description": "His name is Betty.\nHe was just born, but he immediately started looking for something.\nIt may be something you have or it may be someone else.\nUntil he finds it, he will keep searching.\nThis lonely world, the Metaverse, will always be...\n<VoxelArt version / Serial Number:#1>",
+  "nftContractAddress": "0x9a106d96cf55fa67dbec9d3fd2fb18c6a601990a",
+  "animationUrl": "https://ipfs.io/ipfs/QmeDnTujBLP2JG35DCki4yGonocRPXute8xtNbN5tm6oaP/nft.glb",
+  "chainId": "137",
+  "name": "Surprise!Betty",
+  "attributes": []
+}

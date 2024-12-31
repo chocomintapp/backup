@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVm9D21NVTeYCJZg3DTKYqGyTdvm7SjAUwdwG8gnGMzQQ/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "Day4 Nana's Art #11",
+  "description": "引き出しを開けたらママの足を挟んでしまい、怒られました。\n\nWhen I opened a drawer, I caught my mom's foot and she got angry.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ]
+}

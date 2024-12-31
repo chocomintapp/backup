@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdmfnwCk8PqcuW95WjyQMvQzBmr9yhHqBUSRjpF28XXbz/nft.jpg",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "137",
+  "name": "大吉 Gold #42",
+  "description": "これであなたもピカピカです。笑\n\nYou are now pikapika.hahaha\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープル official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection\n\n\n\n",
+  "attributes": [
+    {
+      "value": "Gold",
+      "trait_type": "Special Item"
+    }
+  ]
+}

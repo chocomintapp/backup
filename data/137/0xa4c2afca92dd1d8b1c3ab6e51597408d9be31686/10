@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYEZbpvp4mXFFCRG79URn4CR76x93EHon8AJPFAJe8Xg2/nft.png",
+  "nftContractAddress": "0xa4c2afca92dd1d8b1c3ab6e51597408d9be31686",
+  "animationUrl": "https://ipfs.io/ipfs/QmWa8rcNcJDECWou4ccBPQ82GbQninTrbdeC9SbmJiJb8J/nft.mp4",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "Movietest",
+  "description": "",
+  "attributes": []
+}

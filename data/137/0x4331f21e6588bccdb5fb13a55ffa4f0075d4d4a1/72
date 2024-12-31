@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUcPcBdcRNS5SQNxRDzgPqqWtn543iFzSgiSGomrGRk7F/nft.png",
+  "tokenId": 72,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KV-1 Ehkranami**  \nThis is a type of Soviet heavy tank KV-1 that the Germans feared as a \"monster\", with increased armor.\n\nTo the KV-1 that had outstanding defensive power even just The KV-1 had outstanding protection, but it was bolted to add a 35mm armor plate.\n\nAlthough the mobility was reduced, it was a nightmarish heavy armor for the German army at that time. From the point of view of the German army at the time, it boasted heavy armor like a nightmare.\n\n\n**KV-1E 重戦車**  \nドイツ軍が「怪物」と恐れたソ連軍重戦車KV-1に増加装甲（エクラナミ）を施したタイプです。\n\nただでさえズバ抜けた防御力を持っていたKV-1にボルト止めで35mmの装甲板を追加。  \n機動力こそ低下しましたが、当時のドイツ軍からすれば悪夢のような重装甲を誇りました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0072 KV-1 Ehkranami",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Soviet"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmezJEf3FFbDtE97WwJnxUZvJCVetJw2x3Dh1V9ZStnep9/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "137",
+  "name": "TANU-KIDS #036",
+  "description": "カフェ店員に変身したTANU-KIDS\n\n憧れのカフェのバイトに合格しました\nメニュー覚えるのが大変です",
+  "attributes": [
+    {
+      "value": "Cafe clerk",
+      "trait_type": "Occupation"
+    }
+  ],
+  "minted": "✅"
+}

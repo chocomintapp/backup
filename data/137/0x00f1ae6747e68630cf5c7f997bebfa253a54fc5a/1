@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRufYh7NtQeMhz6hMJt6NtVryxi38hmc8TG9AiWVJ23ts/nft.png",
+  "nftContractAddress": "0x00f1ae6747e68630cf5c7f997bebfa253a54fc5a",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "初詣",
+  "description": "",
+  "attributes": []
+}

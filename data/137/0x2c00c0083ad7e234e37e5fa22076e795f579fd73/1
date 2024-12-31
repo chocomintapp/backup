@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUBusTMXaKL4wWvj7Eca9ep3PSxSgMUnjXNUfv77EdurL/nft.png",
+  "tokenId": 1,
+  "description": "Pictured here is one of the \"MC series\".\nThey use their nearly inexhaustible energy to travel back and forth between the Earth and the Moon in less than 60 seconds.\nIn the timeline in which they existed, the MC series was used to tow spacecraft, and is said to have contributed greatly to lunar exploration.\n",
+  "nftContractAddress": "0x2c00c0083ad7e234e37e5fa22076e795f579fd73",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "reflection_maneuver_matic_4K"
+}

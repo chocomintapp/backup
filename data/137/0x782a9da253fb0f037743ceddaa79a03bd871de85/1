@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRBxJU9sMDs3b47NoXqD85USazeuADXBzqQhL5YrywpFp/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "VerySilentFruits#1 Apple",
+  "description": "",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Apple",
+      "trait_type": "Fruit"
+    }
+  ]
+}

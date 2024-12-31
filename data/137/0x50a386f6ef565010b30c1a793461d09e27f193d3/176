@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYKdQhzevujBQsDXCB7D5Ze4faWiAnBoCHfrmSyN4ye11/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 176,
+  "chainId": "137",
+  "name": "hakorobo #176",
+  "description": "hakorobo #176 HKVS-36",
+  "attributes": [
+    {
+      "value": "HKVS",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Leather",
+      "trait_type": "Shoes"
+    }
+  ]
+}

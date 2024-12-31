@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNcNeZRsEwDQApKGE8o6FxmqnfwtcL2Mf29bEwBiib7HZ/nft.jpg",
+  "tokenId": 7,
+  "description": "It is a Adam who is appearing in the “adam&eve”.\n\nAdam&Eveに出演中のアダムです。",
+  "nftContractAddress": "0x2ce06a926405ea888579cba661fb1b57e3a5e5ad",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "adam",
+  "attributes": []
+}

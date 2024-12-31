@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmaupi6gbpu4QLBfwJqVaM8ohUT1g2S5M9T4d3kaFoaofQ/nft.png",
+  "tokenId": 1,
+  "description": "Luke's LINE Digital Art NFT",
+  "nftContractAddress": "0x810d96d3cd4b88876264c99846e214de566053cf",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "one line"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd7d3tPfBv3yL7qdvCwQohVPwqEq2ugnrZ5Q5Jzh6rfyT/nft.jpg",
+  "tokenId": 2,
+  "description": "bbq desu",
+  "nftContractAddress": "0x28efaaf9cb09e1921fcbce9b03890fde03eca0b5",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "BBQ",
+  "attributes": []
+}

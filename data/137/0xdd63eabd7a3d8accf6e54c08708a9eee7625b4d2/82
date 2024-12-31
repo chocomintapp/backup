@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV6HPtHQU1aUzpxCLZpNRQGyAVDxcRbouRk17Fqq6DaK8/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 82,
+  "chainId": "137",
+  "name": "LIVING MINERAL #82",
+  "description": "",
+  "attributes": [
+    {
+      "value": "rhinoceros",
+      "trait_type": "gene"
+    },
+    {
+      "value": "common",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "stone",
+      "trait_type": "material"
+    }
+  ]
+}

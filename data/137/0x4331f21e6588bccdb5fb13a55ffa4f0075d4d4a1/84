@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfQyNz1w97SdzgHyV8YyT5sCUue7rAu9UVPQ2k9U3jYaH/nft.png",
+  "tokenId": 84,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**YAHAGI 1945**  \nThis silhouette is light cruiser Yahagi in 1945.\n\nIt is the third ship of the Agano class.  \nDesigned as the flagship of the torpedo squadron, it became the flagship of the second torpedo squadron after its sister ship \"Noshiro\" was sunk.\n\nShe experienced the Battle of Mariana and the Battle of Leyte, and fought hard in the Battle of Bonomisaki as the flagship of the second squadron in the Battleship Yamato's final sortie.\n\nShe was hit by 7 torpedoes and 12 bombs, too many for a light cruiser, before sinking, but her tough design and excellent damage control ensured that she did not sink.\n\n**軽巡洋艦 矢矧 1945**  \n阿賀野型の3番艦です。\n\n水雷戦隊の旗艦として設計され、姉妹艦の「能代」が戦没した後に第二水雷戦隊の旗艦になりました。\n\nマリアナ沖海戦やレイテ沖海戦を経験し、戦艦大和の最期の出撃では二水戦旗艦として坊ノ岬沖海戦で奮戦しました。\n\n沈没までに魚雷7発、爆弾12発という軽巡としてはあまりにも多い被弾をしましたが、裏をかえせばそこまでしなければ沈まなかったタフな設計と優秀なダメージコントロールだったことが伺えます。\n\nこのNFTは1945年頃の矢矧のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0084 YAHAGI 1945",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Light cruiser"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTEFc91s2hPYR2r8WdXazAUsmKSrpoLLMbmypTyYys8Kj/nft.png",
+  "tokenId": 5,
+  "description": "Sukiyaki is a Japanese dish in which meat and other ingredients are cooked by baking or boiling in a shallow iron pan.  As seasonings, soy sauce, sugar, liquor, etc., and warishitas that combine them in advance are used.",
+  "nftContractAddress": "0xafcaf44db4a79e28075111aa018295cc5a23a826",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "SUKIYAKI",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

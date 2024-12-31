@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaHLC92PTeBm8ugbyDcXJvBYXGf5E65Kjg3oMdse2nJjk/nft.png",
+  "nftContractAddress": "0x3adbd53ce43b64db4921600b95c618a638e07f16",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "SERARK",
+  "description": "FanArt  \nSERARK様(@serarkjp)3000フォロワー達成記念企画",
+  "attributes": [
+    {
+      "value": "SERARK",
+      "trait_type": "FANART"
+    }
+  ],
+  "minted": "✅"
+}

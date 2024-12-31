@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNV7G6XQ1WM5rVcwsPeinH84D3CH1bbCZfon7JfQmPhhw/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 159,
+  "chainId": "137",
+  "name": "WMM #0159 AYANAMI 1942",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**AYANAMI 1942**  \nThis silhouette is Destroyer Ayanami in 1942.  \nShe is the first ship of the Special Type II Destroyer.\n\nIt is known as the most prowess destroyer in the Imperial Japanese Navy, which attacked the enemy fleet single-handedly.\n\nIn the Third Battle of the Solomons, she rampaged against an enemy fleet of two battleships and four destroyers, sinking two enemy destroyers and destroying one destroyer. She achieved great results, sinking two enemy destroyers and destroying one destroyer.\n\n**駆逐艦 綾波 1942**  \n特型駆逐艦Ⅱ型の1番艦です。\n\n敵艦隊に単艦で殴り込んだ日本海軍で随一の武闘派駆逐艦として知られています。\n\n第三次ソロモン海戦では戦艦2隻、駆逐艦4隻の敵艦隊を相手に暴れまわり、敵駆逐艦2隻撃沈、1隻大破という大戦果を挙げました。\n\nこのNFTは1942年頃の綾波のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Destroyer",
+      "trait_type": "Ship"
+    }
+  ]
+}

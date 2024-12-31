@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma11hdrjanCwobBFDu3zskrFVfF2RyJ8tPwT6a9vHR6xE/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 92,
+  "chainId": "137",
+  "name": "Day37 Nana's Art #110",
+  "description": "朝起きたら、リンゴジュースを２杯飲まないと1日が始まりません。\n\nWhen I wake up in the morning, I have to drink two glasses of apple juice to start my day.",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

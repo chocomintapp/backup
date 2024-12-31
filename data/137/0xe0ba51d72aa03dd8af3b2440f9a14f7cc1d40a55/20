@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNPq8wS9ab1jQ5g6CmWgi6WD7vhdAgxvjjMHMM3YQbuNW/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "仙人だと思われてるえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ムヨク",
+      "trait_type": "性格"
+    },
+    {
+      "value": "マグロ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "パフェ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "正拳突き",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "イシノウエニモサンネン",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

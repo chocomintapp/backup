@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR6d6dFEnWs1J95doqKbiJnD9smF96bFxhATEH2xrrR5r/nft.png",
+  "tokenId": 1,
+  "description": "わっしょい❤️SENOの初ERC-721NFTです。",
+  "nftContractAddress": "0x3165507e18b8740728dd8cce93e2303f205103d6",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "SENOCARD TEST",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

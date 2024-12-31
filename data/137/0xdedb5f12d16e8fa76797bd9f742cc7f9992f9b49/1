@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSNXgGqeworisgyscZFTUvx2yXMDZ7NkdBYANqHvLVMTQ/nft.png",
+  "nftContractAddress": "0xdedb5f12d16e8fa76797bd9f742cc7f9992f9b49",
+  "animationUrl": "https://ipfs.io/ipfs/QmSNXgGqeworisgyscZFTUvx2yXMDZ7NkdBYANqHvLVMTQ/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "#001 TimestampGirl",
+  "description": "This is an NFT that cannot be replaced because the image file itself has already been time-stamped. True Non-Fungible\n\n0x7538742f9Fb9646fEd3CfE085593645d49a52339",
+  "attributes": [
+    {
+      "value": "The first illustration",
+      "trait_type": "TimeStampGirl"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWvQkhAcJ1tQ2sfan1H4edV9U7Rsd46o5JjV2jL7TB3wX/nft.png",
+  "tokenId": 16,
+  "description": "Limited 1/1\n\nA little sad Monstarz.\nThis Monstarz is minted by their original contract (MSZ).",
+  "nftContractAddress": "0x966b004e16302e7e0cc7d2906eed2c4eff01d670",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#0016 InTheCan",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "UnCommon"
+    }
+  ]
+}

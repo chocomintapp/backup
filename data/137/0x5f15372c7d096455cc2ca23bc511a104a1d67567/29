@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPX6pFTy74pReQ1DcSiZZKjztT4fmprMVJiafwooVGJ24/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmPX6pFTy74pReQ1DcSiZZKjztT4fmprMVJiafwooVGJ24/nft.png",
+  "tokenId": 29,
+  "chainId": "137",
+  "name": "Rabbit girl #13 『Flora』",
+  "description": "RabbitGirls #13 『Flora』\n\nShe has a graceful and slightly natural personality, a flower fairy.\n\nShe has a habit of collecting buttons.👗",
+  "attributes": [
+    {
+      "value": "Flora",
+      "trait_type": "Charactor"
+    }
+  ],
+  "minted": "✅"
+}

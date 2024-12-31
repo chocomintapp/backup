@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXg93XqJt6ejNT1DRDdWFckFHvQJkpkaBuxwVjgNBdCrz/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Day10 Syu's Art #28",
+  "description": "布団の上でパパと相撲するのが楽しい。\n\nIt's fun to wrestle with my dad on the futon.",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

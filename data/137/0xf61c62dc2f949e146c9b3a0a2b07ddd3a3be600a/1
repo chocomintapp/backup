@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma9unBaqyp5DH9zWtN8ckHPFuHrCxRWwH7EU74y9TtHNc/nft.jpeg",
+  "nftContractAddress": "0xf61c62dc2f949e146c9b3a0a2b07ddd3a3be600a",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Moca in River",
+  "description": "Moca went to azumaya river",
+  "attributes": [
+    {
+      "value": "Azumaya",
+      "trait_type": "Place"
+    }
+  ]
+}

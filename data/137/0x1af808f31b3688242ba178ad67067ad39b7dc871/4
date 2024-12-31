@@ -1,0 +1,19 @@
+{
+  "image": "",
+  "tokenId": 4,
+  "description": "4124",
+  "nftContractAddress": "0x1af808f31b3688242ba178ad67067ad39b7dc871",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "4124",
+  "attributes": [
+    {
+      "trait_type": "col",
+      "value": "red"
+    },
+    {
+      "trait_type": "iro",
+      "value": "aka"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQmdubnUsGyz7wukUNfQDCvNvJQtR4csVsCSqrJv9FFqY/nft.png",
+  "tokenId": 123,
+  "description": "ハードウェアウォレットはファッションです",
+  "nftContractAddress": "0x672f283bff920150d50dafe32ef54a4da675da59",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "HWFASHION",
+  "attributes": [],
+  "minted": "✅"
+}

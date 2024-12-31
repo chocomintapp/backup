@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUnwqDA64HqPtshTbbjdJTYKfFaEm9rMaRbSMauU6uYCg/nft.PNG",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimal #42",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Lizard",
+      "trait_type": "TYPE"
+    }
+  ]
+}

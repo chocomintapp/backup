@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbxowxRP7ZyLn43FALUypjnzxPaZET6rZGQ5X8wDWjGF4/nft.png",
+  "nftContractAddress": "0x22c8693cb141c3d2247d530d174a324214312e14",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "テスト",
+  "description": "クリプトコワーキングスペース「煙Project」の会員証NFTです。",
+  "attributes": [],
+  "minted": "✅"
+}

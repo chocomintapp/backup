@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZHyigTDMRU4EBbruzugBVnD8H1UU7MW1FDntbLk2DfKy/nft.png",
+  "tokenId": 5,
+  "description": "\"otakusan\" is a soft serve ice cream of melon.",
+  "nftContractAddress": "0xe5bef7ef6c3de48a853c76477466cbd4a839762c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sofnchosan pixel art collection #5 \"otakusan\"",
+  "attributes": [
+    {
+      "trait_type": "taste",
+      "value": "melon"
+    }
+  ]
+}

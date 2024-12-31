@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdxiwmBzGCJueazqe1AgV4Ue2rZF82mhXYeQPdnvTg8sz/nft.png",
+  "nftContractAddress": "0x43f3bf51d9f4ffac52aaf6a8b5892d2f5b44ec8b",
+  "animationUrl": "https://ipfs.io/ipfs/QmdxiwmBzGCJueazqe1AgV4Ue2rZF82mhXYeQPdnvTg8sz/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Bandage YAMIKAWA ",
+  "description": "YAMI YAMI KAWAII BANDAGE!!\nPainted by BINZOKO.",
+  "attributes": [],
+  "minted": ""
+}

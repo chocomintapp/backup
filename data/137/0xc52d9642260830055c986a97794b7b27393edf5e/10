@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdmEgEUNET7iB4SQHaisYotKhm8AecxN6N194mL7oah2a/nft.png",
+  "tokenId": 10,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #10",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Tiger"
+    }
+  ]
+}

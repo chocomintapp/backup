@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRbKYz8c8NLH5dzGSgKkuqZBN3Ui5bT39bK4ivci7CFNb/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 110,
+  "chainId": "137",
+  "name": "hakorobo #110",
+  "description": "hakorobo #110 Artists Edition HKAE-13 cryptomoko\n\noriginal work:\nhttps://hicetnunc.art/objkt/655371\n\nby:\nhttps://twitter.com/cryptomoko92",
+  "attributes": [
+    {
+      "value": "HKAE",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Shoes"
+    }
+  ]
+}

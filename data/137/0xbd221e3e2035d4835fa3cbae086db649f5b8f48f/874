@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmefaEReT3NtexHP6MBPujDP1WwanwXkGBhDnEJ692ptwT/nft.PNG",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "",
+  "tokenId": 874,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #973",
+  "description": "2022/08/01 22:10\n今のところWEB3のメタバース空間でできること。\n\n・自分のNFT作品、購入したNFTを展示する美術館\n・集まって音楽を流してクラブ・パーティー体験\n・DCLではポーカーができるっぽい（やったことない）\n\n２０２２年８月現在、他の使い方してるところはあるのかな？？\n\nSANDBOX、DLC特にDLCは世界観は好きなんやけど土地を買おうとはならないかなぁ（今のところ）\n適当に歩いてて他の参加者と普通に出会えるようなレベルになったら考える\n\nそれでも全てのＷＥＢ３空間にＧＯＲＯ教会を建てるという夢が僕にはある\n\n",
+  "attributes": [
+    {
+      "value": "aj1",
+      "trait_type": "M"
+    },
+    {
+      "value": "web3",
+      "trait_type": "book"
+    }
+  ]
+}

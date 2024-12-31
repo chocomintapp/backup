@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYqtQDjcgPPcivGJQoNYQRVVkzqFuXaD8RT7cqZUDJvot/nft.png",
+  "tokenId": 11,
+  "description": "This icon was created from a comic.",
+  "nftContractAddress": "0x54c5e0b104adb8765a54d094a7d68c1d5701de4f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#3 - 3",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Cast",
+      "value": "Veronica"
+    }
+  ]
+}

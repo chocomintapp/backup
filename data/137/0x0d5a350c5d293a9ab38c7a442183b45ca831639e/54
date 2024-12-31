@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUshAPViunqzXfXdcAS8gRybeUkoDzKg9iGLGCYhnjtVq/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 54,
+  "chainId": "137",
+  "name": "Day25 Syu's Art #72",
+  "description": "かくれんぼが好き。\n\nI like to play hide-and-seek.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

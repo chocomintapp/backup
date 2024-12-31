@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd3z2HDc3ijQyYxGF9vdHNMJbfLY8V28DVht8bPWWAv1Q/nft.jpeg",
+  "nftContractAddress": "0x7b81f5349767fedd1984956d8490b25e4e5eb45d",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "wizard",
+  "description": "Text to Image NFT from 「wizard with magma wand,Silk robe,gale bandana」　",
+  "attributes": [
+    {
+      "value": "magma wand",
+      "trait_type": "weapon"
+    },
+    {
+      "value": "Silk robe",
+      "trait_type": "defensive armament"
+    },
+    {
+      "value": "gale bandana",
+      "trait_type": "accessory"
+    }
+  ]
+}

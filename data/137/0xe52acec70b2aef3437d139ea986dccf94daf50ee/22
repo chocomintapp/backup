@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTYTay7Qd4GoGEif17iYBM6TbFBJuqwodZUQT8kWzE3LB/nft.PNG",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimals #83",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Zebra",
+      "trait_type": "TYPE"
+    }
+  ]
+}

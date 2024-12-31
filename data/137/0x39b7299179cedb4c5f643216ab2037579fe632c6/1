@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVMByQfWixW3mZTtHwnrkXUn9RVLz3wZNhZeTPbXxbQhB/nft.jpg",
+  "tokenId": 1,
+  "description": "NomoriShop1",
+  "nftContractAddress": "0x39b7299179cedb4c5f643216ab2037579fe632c6",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "NomoriShop"
+}

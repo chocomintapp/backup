@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmedagMi1andTPBzLcePrAu69PBYTpcJ3C2z9YnN4ts6dJ/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 132,
+  "chainId": "137",
+  "name": "Day64 Umitsuru's Art",
+  "description": "マスカットよりブドウ派です。\n\nI am more of a grape person than a Muscat person.",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

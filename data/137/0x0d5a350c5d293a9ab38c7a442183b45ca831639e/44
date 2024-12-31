@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZrdfbW2ytRkHq2DN7RtgJkux7adDJyY94BynPdCQzi5D/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 44,
+  "chainId": "137",
+  "name": "Day21 Nana's Art #62",
+  "description": "豆腐ハンバーグはケチャップをかけないと食べたくない。\n\nI don't want to eat tofu hamburger steak unless I put ketchup on it.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ]
+}

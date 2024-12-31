@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeqdaJeM9nUymDZDho92GhMhYCpac6vzXgSRnMLkHJAqr/nft.png",
+  "tokenId": 4,
+  "description": "わんこNFT",
+  "nftContractAddress": "0x3d944792bcecbe345249c8be8e16d026889eaab3",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "wanko2",
+  "attributes": []
+}

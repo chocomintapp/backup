@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZz17PANrgu1rBHjsDmqBmgQyxoXGBBry2q1dYFfj8ULm/nft.png",
+  "nftContractAddress": "0x6c5ee56b60f0846dbcadaa0e77728b1c4aaa5b89",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Mintin Dounuts #000",
+  "description": "",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Mint choco",
+      "trait_type": "TOP"
+    },
+    {
+      "value": "lightly baked",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "None",
+      "trait_type": "DECORATION"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

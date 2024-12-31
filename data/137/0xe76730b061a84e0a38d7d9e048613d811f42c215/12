@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSpA37kHoqRk1rb2jLppyrkwKiNcKuE3EXuh2BDam8Nfr/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "THS #010",
+  "description": "【一】",
+  "attributes": [
+    {
+      "value": "hand",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "lotus flower",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

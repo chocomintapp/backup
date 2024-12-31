@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZrAEAgQnv62MjFFfztnvaLRhFpBcFdr1vvuJacbv2kg3/nft.png",
+  "tokenId": 3,
+  "description": "Flying round metals.",
+  "nftContractAddress": "0xd2a03ac217a6b1ca465aecdf1e26ca10ac99d282",
+  "animationUrl": "https://ipfs.io/ipfs/QmZrAEAgQnv62MjFFfztnvaLRhFpBcFdr1vvuJacbv2kg3/nft.png",
+  "chainId": "137",
+  "name": "WingBalls 12 WhiteGOLD",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "UC"
+    }
+  ]
+}

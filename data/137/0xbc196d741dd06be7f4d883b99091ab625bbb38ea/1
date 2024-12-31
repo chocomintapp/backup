@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS6GrTdUvRz8NwehKnztCRYMVWgGr8j5fKQEaZYR6RGZ2/nft.jpg",
+  "nftContractAddress": "0xbc196d741dd06be7f4d883b99091ab625bbb38ea",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Shio Onigiri",
+  "description": "Japanese Salted Rice Ball",
+  "attributes": [
+    {
+      "value": "kosihikari",
+      "trait_type": "kome"
+    }
+  ]
+}

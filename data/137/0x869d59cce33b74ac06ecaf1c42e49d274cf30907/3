@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeGhwb72BBEDkcz6tYjVLLU5nAJouAT1bqhsKaNYDxt7W/nft.jpeg",
+  "nftContractAddress": "0x869d59cce33b74ac06ecaf1c42e49d274cf30907",
+  "animationUrl": "https://ipfs.io/ipfs/QmSNwQFE9VDkxbazehrhBHBBm5qm9SG1GF4t1kqbVAjhVS/nft.jpeg",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "KILLAG can’t find me",
+  "description": "Hidden",
+  "attributes": [
+    {
+      "value": "1000",
+      "trait_type": "Secrets"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUTeEyvf4VFxPgD4yunE1BeAu7m2QH6FVpQbnAZ8NZn39/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 154,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #154",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Stag Beetle",
+      "trait_type": "TYPE"
+    }
+  ]
+}

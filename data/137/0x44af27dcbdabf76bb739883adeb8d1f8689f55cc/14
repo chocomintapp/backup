@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbJy6yYLVciXk8tAT9JS96ji6m9ihQyztYGKDxvfKpTRC/nft.jpg",
+  "tokenId": 14,
+  "description": "3D Object",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/QmdGBhyxpYDk663a8ChbsRdRG6QXf185YNRGiw9DmS49hg/nft.gltf",
+  "chainId": "137",
+  "name": "ODE-04",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "3D",
+      "value": ""
+    }
+  ]
+}

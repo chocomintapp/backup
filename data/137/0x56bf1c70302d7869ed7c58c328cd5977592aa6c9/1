@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWPeK5JGkydjougJujU7oWshBkWQ6fczEfex8zzSHuDaz/nft.jfif",
+  "nftContractAddress": "0x56bf1c70302d7869ed7c58c328cd5977592aa6c9",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "TEST",
+  "description": "TESTdesu",
+  "attributes": []
+}

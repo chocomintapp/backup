@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYz7JHcqr4Fi1UduJNTNHmL568NcYjVDzVPPncgsHNgFq/nft.png",
+  "tokenId": 12,
+  "description": "Yakitori is a bite-sized piece of chicken that is stabbed on a skewer and grilled over a charcoal fire.",
+  "nftContractAddress": "0xafcaf44db4a79e28075111aa018295cc5a23a826",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "YAKITORI",
+  "attributes": []
+}

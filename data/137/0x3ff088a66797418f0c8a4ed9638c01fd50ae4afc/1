@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaFT3AzktUUyR6zd8Yv54vK68p2PXQEmCYTuMBENbkQNX/nft.png",
+  "nftContractAddress": "0x3ff088a66797418f0c8a4ed9638c01fd50ae4afc",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "ponta",
+  "description": "pointa is famous card.",
+  "attributes": [],
+  "minted": ""
+}

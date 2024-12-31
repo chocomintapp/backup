@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQcY2mexSbv1AJPboC3QjS4Z2d2FyBkbcw29eyzkZzmYB/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "VerySilentFruits#12 Lemon",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Lemon",
+      "trait_type": "Fruit"
+    }
+  ],
+  "minted": ""
+}

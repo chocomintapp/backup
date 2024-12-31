@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRyzwreVXYeoucg3jaHKL6baKN33y6pzMYvFP4tfe14ES/nft.png",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "",
+  "tokenId": 41,
+  "chainId": "137",
+  "name": "#41 CRYPPL - Cosmic Mage of the Brambles",
+  "description": "Hello Cosmic Mage of the Brambles. #6250",
+  "attributes": [
+    {
+      "value": "6250",
+      "trait_type": "FRWC_ID"
+    }
+  ],
+  "minted": "✅"
+}

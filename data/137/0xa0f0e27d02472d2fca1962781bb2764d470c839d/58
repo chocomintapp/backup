@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXbGbFySFaTtRLtPvd6zkfxG8TxEGDEWfADqFns2AsBvk/nft.png",
+  "tokenId": 58,
+  "description": "俺より古いぬいぐるみは、すべて燃やしてきた。\n\nI've burned every stuffed animal older than me.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "World's oldest stuffed animal（世界最古のぬいぐるみ）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Stuffed animal"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

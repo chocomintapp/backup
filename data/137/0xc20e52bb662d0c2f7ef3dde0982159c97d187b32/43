@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSrfnj27ngh8zo7v3MT49BJM9fgaWwdzQoZ7oBQYtdYJg/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "137",
+  "name": "#43",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Sea",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#47A592",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "International maritime signal flags",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lima",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ],
+  "minted": "✅"
+}

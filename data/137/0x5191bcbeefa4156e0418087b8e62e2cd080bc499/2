@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcANbVs4aaxSVXVWd9QjKnPNVThragFc31dUi8Tsxo3n3/nft.gif",
+  "nftContractAddress": "0x5191bcbeefa4156e0418087b8e62e2cd080bc499",
+  "animationUrl": "https://ipfs.io/ipfs/QmcANbVs4aaxSVXVWd9QjKnPNVThragFc31dUi8Tsxo3n3/nft.gif",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "LCG#0002",
+  "description": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYWk32MRUp9xapf7DVBDaML5VLqj7bBNAN62pE4iRyFj9/nft.png",
+  "tokenId": 124,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**JAGD TIGER**  \nIt is the largest tank destroyer of World War II.\n\nEquipped with the most powerful anti-tank gun, the PaK 44 (55 caliber, 128 mm), which was to be mounted on the super heavy tank Maus, it was a monster with a maximum armor of 250 mm and a weight of 75 tons.\n\nAlthough the Tiger had almost no mobility, its frontal armor protected it from all Allied fire, and its 128 mm cannon could destroy all enemy fighting vehicles at a distance of 2,000 meters.\n\n**ヤークトティーガー 重駆逐戦車**  \n第二次大戦最大の駆逐戦車です。\n\nあの超重戦車マウスに搭載予定だった最強の対戦車砲 PaK 44 （55口径128 mm）を搭載し、装甲は最大250mm、重量は75トンもあった怪物です。\n\n機動性は無きに等しい虎でしたが正面装甲は連合軍のあらゆる火砲を防ぎ、128 mm砲は距離2000mで全ての敵戦闘車輛を撃破できました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0124 JAGD TIGER",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

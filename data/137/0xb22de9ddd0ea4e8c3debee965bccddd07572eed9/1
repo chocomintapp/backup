@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeR1sWqmx2492AhxhH2uEBZeUfjYXid3exYDLxRav9cQx/nft.jpg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xb22de9ddd0ea4e8c3debee965bccddd07572eed9",
+  "animationUrl": "https://ipfs.io/ipfs/QmeR1sWqmx2492AhxhH2uEBZeUfjYXid3exYDLxRav9cQx/nft.jpg",
+  "chainId": "137",
+  "name": "music",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

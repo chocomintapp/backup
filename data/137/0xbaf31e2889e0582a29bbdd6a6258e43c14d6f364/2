@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWd5vzftfih9gBuLRSXUDEoQ8WYcxd993fKf6d4VactcJ/nft.png",
+  "nftContractAddress": "0xbaf31e2889e0582a29bbdd6a6258e43c14d6f364",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Penguin Baby",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Penguin",
+      "trait_type": "TYPE"
+    }
+  ]
+}

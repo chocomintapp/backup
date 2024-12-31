@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU6VeuqJWwkeWk6iSN3BrgBia7vm6nab4pEBW4YQhvLcG/nft.png",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 75,
+  "chainId": "137",
+  "name": "Day32 Syu's Art #93",
+  "description": "今日は爺ちゃんと婆ちゃんと1時間くらい電話しました。\n\nI called Grandma and Grandpa for about an hour today.\n\n",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://bafybeifeog5kzht7j2lbsxki4je4yz6s476uf3kf3rvrgsct3riirpudcy.ipfs.nftstorage.link/photo_2022-08-07_13-34-28.jpg",
+  "nftContractAddress": "0xd6905bc25e377050505182ef1b6a1ca5f32f251f",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "Harvesting Melon",
+  "description": "Today, I went to the community farm that I joined this March.\n\nWe planted melons in March, and it was already the time to harvest.\n\nOthers already harvested theirs, so there was only mine left in the farm.\n\nUsing the scissor that I brought, I cut the melon carefully. It was smaller than I saw in the market, but big enough to eat with my family.\n\nNow I put that in my home. It will be riped well after 2 or 3 days.\n\nCan't wait for it!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Plant",
+      "trait_type": "Style"
+    }
+  ]
+}

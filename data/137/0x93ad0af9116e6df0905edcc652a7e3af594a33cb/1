@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNh272EmFV823szUDWohJFrH4CKcCB1oQvMxWgFqXaEue/nft.png",
+  "nftContractAddress": "0x93ad0af9116e6df0905edcc652a7e3af594a33cb",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "THE MAGURO nigiri",
+  "description": "This is Maguro's nigiri.\nIt's very delicious!",
+  "attributes": []
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdf4QtErnNuaWYCQaKwEZvBW7ZEsEXnFctzSSisfuwnYe/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/Qmdf4QtErnNuaWYCQaKwEZvBW7ZEsEXnFctzSSisfuwnYe/nft.png",
+  "tokenId": 34,
+  "chainId": "137",
+  "name": "Rabbit girl #17 『菫』",
+  "description": "Rabbit girl #17 『菫』Sumire\n\nShe is the second daughter of the three sisters, a hard worker, but has a modest personality. Her hobby is to go around matcha with her sisters, and her favorite food is mitarashi-dango. 🐰",
+  "attributes": [
+    {
+      "value": "Sumire",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

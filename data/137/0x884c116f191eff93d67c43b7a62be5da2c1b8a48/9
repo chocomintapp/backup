@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV7pFHawpfJCerXRdyXtB75UF9XBgdihja4v3L56vDCpu/nft.jpeg",
+  "nftContractAddress": "0x884c116f191eff93d67c43b7a62be5da2c1b8a48",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #3",
+  "description": "VeryLongAnimals #3の二次創作です！",
+  "attributes": [
+    {
+      "value": "cat",
+      "trait_type": "type"
+    }
+  ]
+}

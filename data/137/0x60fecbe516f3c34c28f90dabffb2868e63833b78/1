@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRd7hqNrd7mGHefhD2ysTgHjfW9VbPEJ5mB9MgthySKfH/nft.jpg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x60fecbe516f3c34c28f90dabffb2868e63833b78",
+  "animationUrl": "https://ipfs.io/ipfs/QmRd7hqNrd7mGHefhD2ysTgHjfW9VbPEJ5mB9MgthySKfH/nft.jpg",
+  "chainId": "137",
+  "name": "ham001",
+  "attributes": [],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYdHdMUBWpjMoMfCL4wmx4v1Et7nPxKs5kmx5JHFkpXqz/nft.png",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "137",
+  "name": "五月晴 -Satsukibare-",
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations. \n\n川縁の公園には、この季節沢山の鯉のぼりが泳いでいます。\n\n天気の良い日には、子供連れで賑わいます。\n\nそんな五月晴れの空を気持ちよく泳ぐ鯉たち。\n\nふと足元を見ると、ねこさんがひっくり返ってる。\n\n影と戯れているようですね。",
+  "attributes": [
+    {
+      "value": "Matsue",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Paint",
+      "trait_type": "MODEL"
+    }
+  ]
+}

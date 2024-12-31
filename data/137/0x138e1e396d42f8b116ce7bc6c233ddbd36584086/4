@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbL2PY5M7t77Rda4TwzBiqNwbENqmmcxnQSHh7mnjstzC/nft.png",
+  "nftContractAddress": "0x138e1e396d42f8b116ce7bc6c233ddbd36584086",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "pool",
+  "description": "day on which it is hot",
+  "attributes": []
+}

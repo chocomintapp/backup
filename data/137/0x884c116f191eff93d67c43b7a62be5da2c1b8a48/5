@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUGDf8mG8WCzSkRxWfG3Sw6nFrnSwrzzw8iBqy9Uk1wiS/nft.jpeg",
+  "nftContractAddress": "0x884c116f191eff93d67c43b7a62be5da2c1b8a48",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #28",
+  "description": "VeryLongAnimals #28 の二次創作です！",
+  "attributes": [
+    {
+      "value": "Horse",
+      "trait_type": "type"
+    }
+  ]
+}

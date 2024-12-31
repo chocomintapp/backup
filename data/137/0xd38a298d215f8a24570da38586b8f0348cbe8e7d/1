@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdkEbHZUWiSFrUPFMnE6uiRuDuet4dGJJ28ckRXpMXpTv/nft.png",
+  "tokenId": 1,
+  "description": "DNA",
+  "nftContractAddress": "0xd38a298d215f8a24570da38586b8f0348cbe8e7d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "DNA",
+  "attributes": []
+}

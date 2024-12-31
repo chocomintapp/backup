@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaCaKVoRutKwHWc18AZGYi9MH66scuugE6gSaecR7JzaK/nft.png",
+  "nftContractAddress": "0xedda5766883fd6d11141dbae58889af2c73a34c0",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "銀のおにぎり",
+  "description": "あるアイテムを手に入れるためのかけら",
+  "attributes": []
+}

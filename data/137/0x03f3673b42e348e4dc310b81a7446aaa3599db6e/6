@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUPAm71ei7hupkaCpkiPGAQsPY6HeiKxhMg1GCcpDtLVS/nft.png",
+  "tokenId": 6,
+  "description": "",
+  "nftContractAddress": "0x03f3673b42e348e4dc310b81a7446aaa3599db6e",
+  "animationUrl": "https://ipfs.io/ipfs/QmYszNuPXs7tQavAEZU3XoHmqfz4n3S7UYve6YFnvL7ni9/nft.glb",
+  "chainId": "137",
+  "name": "mona",
+  "minted": "✅"
+}

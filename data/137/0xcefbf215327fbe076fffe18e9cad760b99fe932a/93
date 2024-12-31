@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma3cTG49qRnALJ7jRzdi5Sm6Ana4gwt19V9Vz5x1JucW7/nft.jpg",
+  "tokenId": 93,
+  "description": "93/101  \nTaken on Jul 21, 2021  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #93",
+  "attributes": [
+    {
+      "trait_type": "event",
+      "value": "summer games"
+    },
+    {
+      "trait_type": "item",
+      "value": "blue impulse"
+    }
+  ]
+}

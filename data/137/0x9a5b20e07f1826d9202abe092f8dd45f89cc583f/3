@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPkb6bvuVo3acSFVBjft36HtoRGzGxFYGACSWQhbxXCog/nft.jpg",
+  "tokenId": 3,
+  "description": "By reading the QR code with your smartphone camera and holding it over this NFT, you can view the augmented reality (AR) model. \n\n3D+AR viewing on a smartphone browser\n\nThe QR code is a link to the IPFS 3D viewer.\nhttps://gateway.pinata.cloud/ipfs/QmfAoZmqAVwTeE4gGLrnnm2NcxZ6BcZJce6zMc1rKRkYWJ/mana_ar/\n\nThe artwork for this 3D model is based on mana, the virtual currency used in Decentraland. for more information on Decentraland, please visit https://decentraland.org/",
+  "nftContractAddress": "0x9a5b20e07f1826d9202abe092f8dd45f89cc583f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "MANA AR"
+}

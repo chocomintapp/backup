@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQwJLN6QaQCTcSUFBLoZXVpLF8iCQdagCVBD1PrEMauYa/nft.png",
+  "tokenId": 8,
+  "description": "",
+  "nftContractAddress": "0x38b74860df75cc5fafbd32c24e4fc1f6ff23645f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "workingGuy",
+  "attributes": []
+}

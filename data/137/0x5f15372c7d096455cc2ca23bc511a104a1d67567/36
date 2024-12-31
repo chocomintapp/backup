@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfBmq5Wgtm8Jsq9ZLcAMckmHu9ByjTbhq3rwR4eXCwZ52/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmfBmq5Wgtm8Jsq9ZLcAMckmHu9ByjTbhq3rwR4eXCwZ52/nft.png",
+  "tokenId": 36,
+  "chainId": "137",
+  "name": "Rabbit girl #2E 『Mint』",
+  "description": "Rabbit girl #2E 『Mint』\nRabbit Girls Easter\n\nGirls with cute rabbit ears came to you. RabbitGirls is always next to you.\n\n\"Hello! I hope every day will be a wonderful day for you.\"",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Mint",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Easter",
+      "trait_type": "Series"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmavjZSnf5DS27G3FgGpCLx1zUHs9Jn7Bzu2z3zkPGkpFh/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 104,
+  "chainId": "137",
+  "name": "Working Ganmichan #24 ",
+  "description": "どんなに海が凪ようと、一たびがんみちゃんが現れると海がざわめき出す。嵐を呼ぶ女、がんみちゃん！！",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "surfer",
+      "trait_type": "situation"
+    }
+  ]
+}

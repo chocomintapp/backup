@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb6ghhdoNrvNfM9NW8JHSBAGE3NrsLp2H2QivEbQ5ovbA/nft.gif",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xa38f30ee1089b44c5421d393f7986d4a8f90268e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "AfterLife",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Background",
+      "value": "After Life"
+    }
+  ]
+}

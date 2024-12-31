@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVS5zeSnzmb7rToEVGKMWkdabR8Ny83zbc6cqDwAXzoeE/nft.jpg",
+  "tokenId": 1,
+  "description": "test",
+  "nftContractAddress": "0x6a7ca4ea3754225d8ca155aecf6c404efa1910ad",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WAKI_TWEET",
+  "minted": "✅"
+}

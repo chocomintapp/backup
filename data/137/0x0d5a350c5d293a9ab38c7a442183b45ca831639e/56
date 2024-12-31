@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmShWhGjmo52rEEvP172eLZUquaRWD7TkK27FiSB8DYeah/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 56,
+  "chainId": "137",
+  "name": "Day25 Nana's Art #74",
+  "description": "お米をばら撒いてママに怒られました。\n\nMy mom got mad at me for scattering the rice around.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf7LAi48Wnx16TpwtBr6PaMLoUHRHT25HpJ1JjYkvzddK/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 213,
+  "chainId": "137",
+  "name": "#213",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#C9EA83",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#F8FF00",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Crocodile friends",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Zeynep",
+      "trait_type": "face"
+    },
+    {
+      "value": "Crushing skill",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Double morning star",
+      "trait_type": "Accessory1"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRkohcbq1HbGCxUtuNFmb4SZxs8yTUiAgJpnCD6ZMj8Fa/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 94,
+  "chainId": "137",
+  "name": "登録者14人の配信をするえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "カワリモノ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "カップメン",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "ワカメ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "占い",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "カイヨリハジメヨ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

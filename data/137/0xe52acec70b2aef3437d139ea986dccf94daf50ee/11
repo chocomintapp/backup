@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW6H281xZfBFsEYtbbUvS5MioejxiJb3QekNP8EcvaPdY/nft.PNG",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimal #39",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Sea Cucumber",
+      "trait_type": "TYPE"
+    }
+  ]
+}

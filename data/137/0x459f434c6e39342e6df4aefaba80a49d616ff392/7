@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPSykJWH2xW5Tfd2YKby6yPjzCSvMvQ37i6qyMfjBomXi/nft.png",
+  "tokenId": 7,
+  "description": " - Episode 1 - \nOne day, Crypyans were discovered in crypto world. \nIt's shrouded mystery what they are.\nHowever, we found that each of them could have elemental traits. ",
+  "nftContractAddress": "0x459f434c6e39342e6df4aefaba80a49d616ff392",
+  "animationUrl": "https://ipfs.io/ipfs/QmdBRKcm7ry28rkkuhgU4wtCmAXKpzzQojJ446nVmwxXvK/nft.png",
+  "chainId": "137",
+  "name": "Crypyan #001-7 First edition (Fuchsia ver.)",
+  "attributes": [
+    {
+      "trait_type": "Crypyan",
+      "value": "1"
+    },
+    {
+      "trait_type": "Episode",
+      "value": "1"
+    },
+    {
+      "trait_type": "Belongings",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Crypyan",
+      "value": "Fuchsia"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Crypyan"
+    },
+    {
+      "trait_type": "Flux",
+      "value": "#1"
+    }
+  ]
+}

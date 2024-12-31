@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPSWXZetfQRCrFdduvLgJvB1F4Cfpd6EeaqS5VpeE2J9P/nft.png",
+  "nftContractAddress": "0x6ed4c9c34533e5e5e8f59d0c016e43851960f998",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "ttt",
+  "description": "ttt",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

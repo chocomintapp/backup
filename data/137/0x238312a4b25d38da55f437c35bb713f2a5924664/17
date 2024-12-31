@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYwJC8eL1s8LMREgn7SFXi57R5zngfYYqxmbmujGCi9nK/nft.gif",
+  "tokenId": 17,
+  "description": "",
+  "nftContractAddress": "0x238312a4b25d38da55f437c35bb713f2a5924664",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Underworld",
+  "attributes": [
+    {
+      "trait_type": "Attribute",
+      "value": "Orange Astro"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Underworld"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow Trans"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Headphone",
+      "value": "Yellow v.2"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Robo v.1"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Bunny"
+    }
+  ]
+}

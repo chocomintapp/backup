@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ6ta7G7MS5NkqqWXq2U7qwDMqFLc3qaWmxYP3aBv7GVW/nft.png",
+  "nftContractAddress": "0x5ba7db637d2628597010309bfb457df801058665",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Astrats #0006",
+  "description": "This work is a one-of-a-kind abstract painting generated with a mathematical and statistical approach.",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXEeQjW2SgVGbYMcgJhmJZuFYubJBUBezfVngbeiY9DxR/nft.png",
+  "tokenId": 1,
+  "description": "Created by VeryCuteSisters",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals × VeryCuteSisters",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Cat"
+    }
+  ]
+}

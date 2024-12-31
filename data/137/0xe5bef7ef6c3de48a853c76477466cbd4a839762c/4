@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNtdhbnfVnSQfSwba9VQc1LGnHngxEXhjMozdXDJFh5AP/nft.png",
+  "tokenId": 4,
+  "description": "\"currysan\" is a soft serve ice cream of lemon.",
+  "nftContractAddress": "0xe5bef7ef6c3de48a853c76477466cbd4a839762c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sofnchosan pixel art collection #4 \"currysan\"",
+  "attributes": [
+    {
+      "trait_type": "taste",
+      "value": "lemon"
+    }
+  ]
+}

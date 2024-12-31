@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbADwd7Tpd6HHh2pSNYLA1W7FYV9Eo2yb2ujGvjxoGiJ5/nft.jpg",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "137",
+  "name": "大吉 Moon #38",
+  "description": "合言葉は、『 to the Moon 』\n\nThe password is to the Moon\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープ official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection\n\n",
+  "attributes": [
+    {
+      "value": "moon",
+      "trait_type": "special item"
+    }
+  ]
+}

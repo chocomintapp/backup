@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd568GRJ3j5kVTXtS3mEJtaAou5N22Lq8nw1qKEacc5gw/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "137",
+  "name": "THS #031",
+  "description": "【槃】",
+  "attributes": [
+    {
+      "value": "peacock",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "pine tree",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "peas",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

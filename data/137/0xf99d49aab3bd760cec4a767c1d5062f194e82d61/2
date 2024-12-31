@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUCvLsMsJc2UjRN7VVw4A3y41mRzRZbSRDVkCQkJUV2hk/nft.gif",
+  "nftContractAddress": "0xf99d49aab3bd760cec4a767c1d5062f194e82d61",
+  "animationUrl": "https://ipfs.io/ipfs/QmUCvLsMsJc2UjRN7VVw4A3y41mRzRZbSRDVkCQkJUV2hk/nft.gif",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Stepan Pantera - Close the sky",
+  "description": "This project was created to support the Ukrainian military and our heroes, who risk their lives every day to protect Ukraine from the Russian aggressor. ",
+  "attributes": []
+}

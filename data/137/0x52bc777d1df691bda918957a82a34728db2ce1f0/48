@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZVvoRNnc5d5Cdpzq1tRJxPXLneCb9APDXemZZUpz61oa/nft.png",
+  "tokenId": 48,
+  "description": "Calligraphy Devil #48",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #48",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "God"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Thor"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Vassago"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gehenna"
+    }
+  ]
+}

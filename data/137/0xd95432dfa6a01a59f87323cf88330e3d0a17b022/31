@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbtP3XvPbJhDF3opNwet2F4mbrorXwys2tr6AcAQDrtGU/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "137",
+  "name": "大吉 GlucoseMan #31",
+  "description": "これであなたも有名人です。笑\n\nNow you are also a celebrity.hahaha\n\nこれはブドウちゃんの二次創作でもあります。\n\nThis is also a derivative work of Budou-chan.\n\nhttps://opensea.io/collection/cryptobudouchan\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープ official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection",
+  "attributes": [
+    {
+      "value": "Glucose Man",
+      "trait_type": "special item"
+    }
+  ]
+}

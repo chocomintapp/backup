@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRc3bbJsqDUYoiYYCSTdV4ACzRwJShxpHQzCn5zhjCBbP/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 171,
+  "chainId": "137",
+  "name": "hakorobo #171",
+  "description": "hakorobo #171 HKSP-18",
+  "attributes": [
+    {
+      "value": "HKSP",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Shoes"
+    }
+  ]
+}

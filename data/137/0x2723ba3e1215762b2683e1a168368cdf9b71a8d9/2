@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdokVB53XdhpSD53WP86Nsqx8YkzYQjg6VMtTzXkieZmR/nft.png",
+  "tokenId": 2,
+  "description": "YukiとRinaが豆まきをしようとしていると……",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#1 節分 (Japanese)",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Language",
+      "value": "Japanese"
+    }
+  ]
+}

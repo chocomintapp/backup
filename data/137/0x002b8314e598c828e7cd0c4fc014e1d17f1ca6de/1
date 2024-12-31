@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme3SKjxiWgvSx1dLFyjnSKhPd5X7ANbhWL3fwYGUuEdUa/nft.png",
+  "tokenId": 1,
+  "description": "毒ウサちゃんの物語",
+  "nftContractAddress": "0x002b8314e598c828e7cd0c4fc014e1d17f1ca6de",
+  "animationUrl": "https://ipfs.io/ipfs/Qmbr7CwX4AZ6vARaGzsqnSWM4RVjWygJiGQvMvXr7oeUst/nft.gif",
+  "chainId": "137",
+  "name": "PRS #1",
+  "attributes": []
+}

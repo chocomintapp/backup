@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNVb6jBsYbNBvpCZktmFPheDJHGTWxBqpH7LNbdpduu7b/nft.jpg",
+  "tokenId": 4,
+  "description": "ブロックチェーンの世界の神。この世界はこの神によって生まれました。",
+  "nftContractAddress": "0x8b3279ef10f14c9ce45c0af5c191607411d559bf",
+  "animationUrl": "https://ipfs.io/ipfs/QmNVb6jBsYbNBvpCZktmFPheDJHGTWxBqpH7LNbdpduu7b/nft.jpg",
+  "chainId": "137",
+  "name": "ブロックチェーンの神",
+  "minted": "✅"
+}

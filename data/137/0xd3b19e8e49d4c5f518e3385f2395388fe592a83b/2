@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTDzc5cHDEvPp66hfqPFvjpMiY1iUxYtDTQKaNFc8Z7NM/nft.png",
+  "tokenId": 2,
+  "description": "cat in the bush",
+  "nftContractAddress": "0xd3b19e8e49d4c5f518e3385f2395388fe592a83b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "BLACKCAT"
+}

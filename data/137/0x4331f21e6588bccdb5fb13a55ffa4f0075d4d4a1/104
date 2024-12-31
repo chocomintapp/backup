@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdhAszHtu5wGX6JnUUqVbhLtbTBD7RosV39mmxoqQfuqV/nft.png",
+  "tokenId": 104,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TYPE97 CHI-HA KAI**  \nThis is a firepower-enhanced version of the Type 97 Medium Tank Chi-Ha with its entire turret replaced.\n\nThe 57mm short barrel was replaced by a 47mm long barrel It has been reborn as a tank that can also handle anti-tank combat, which the front lines have been waiting for.\n\nIt was introduced from the Battle of the Philippines in 1942 It was active in the early stages of the Pacific War.\n\n\n**九七式中戦車 チハ改（新砲塔）**  \n九七式中戦車チハの砲塔を丸ごと換装した火力向上バージョンです。\n\n57mm短砲身から47mm長砲身になり、前線が待ち望んだ対戦車戦闘もこなせる戦車に生まれ変わりました。\n1942年のフィリピン攻略戦から投入され太平洋戦争の緒戦で活躍しました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0104 TYPE97 CHI-HA KAI",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

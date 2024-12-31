@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSEQXY8aq2ygxhMXjD8UZ8AtBhxbEBc6rLCtGs9br3nqB/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 758,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #758",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Deer",
+      "trait_type": "TYPE"
+    }
+  ]
+}

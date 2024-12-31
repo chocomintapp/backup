@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNiCP13BdctMQ2aDApJFQE7JNDcJ5rsW3SfDPiPBre4k1/nft.jpg",
+  "nftContractAddress": "0x744146b07155d017194eef4db45fd9588fa679e7",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "DinorennyXmarumaru",
+  "description": "ディノリンピック優勝記念NFT",
+  "attributes": [
+    {
+      "value": "ディノリンピック",
+      "trait_type": "イベント"
+    },
+    {
+      "value": "マルマル",
+      "trait_type": "優勝者"
+    }
+  ]
+}

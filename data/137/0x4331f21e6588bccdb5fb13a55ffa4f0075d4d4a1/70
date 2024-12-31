@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmScbL3EwNvgs9e6SrC8xradKz8n4XTa3rTFKvAqZwiy1u/nft.png",
+  "tokenId": 70,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SPECIAL TYPE2 Ka-mi**  \nIt is an amphibious tank that the Japanese Navy commissioned the Army Technical Headquarters to develop.\n\nIt was a modified version of the Type 95 light tank, with removable floats in the front and rear, and a thorough waterproofing process that allowed it to navigate on its own.  \nThe base is a Type 95 light tank, but screws and snorkels were added to improve the tank's ability to travel on soft ground such as sandy beaches.\n\nMany modifications required for an amphibious tank have been added, and it can be said to be different from the Type 95 light tank.  \nAlthough it was planned to be transported by submarine, it was actually deployed to the south by transport ship.  \nIt has been confirmed that it was used in Saipan and Leyte Iwo Jima.\n\n**特二式内火艇 カミ**  \n日本海軍が陸軍技術本部に開発を依頼して誕生した水陸両用戦車です。\n九五式軽戦車を改造して前後に着脱式のフロートを採用し、徹底した水密処理により自力での水上航行が可能でした。\n\nベースは九五式軽戦車ですがスクリューやシュノーケルの増設\n砂浜などの軟弱地用に後部誘導輪の接地化など、水陸両用戦車に必要とされる改造が随所に加えられており、別物とも言える車輛でした。\n\n潜水艦での輸送も予定されていましたが、実際には輸送艦で南方へ配備され、サイパンやレイテ、硫黄島での使用が確認されています。\n\n内火艇（うちびてい）という名の通り海軍内では艦艇として扱われた為、数える単位は「輌」ではなく「隻」でした。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0070 SPECIAL TYPE2 Ka-mi",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

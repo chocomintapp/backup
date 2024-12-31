@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc3YGQsuDQ3yjQwAdpN79Y5xLmpSq7WsggtRa7PpgixRM/nft.jpg",
+  "tokenId": 2,
+  "description": "名前はnoticemanです。それはあなたが何かで立ち往生しているとき、問題を抱えているとき、またはアイデアが不足しているときにあなたに気づきを与えます。",
+  "nftContractAddress": "0x8b3279ef10f14c9ce45c0af5c191607411d559bf",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc3YGQsuDQ3yjQwAdpN79Y5xLmpSq7WsggtRa7PpgixRM/nft.jpg",
+  "chainId": "137",
+  "name": "noticeman",
+  "minted": "✅"
+}

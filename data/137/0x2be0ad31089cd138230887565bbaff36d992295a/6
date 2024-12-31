@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVA3EXWwRbQ9D6WUJa3suhCojV7idVCn2YMT8oSaF7yjW/nft.jpg",
+  "nftContractAddress": "0x2be0ad31089cd138230887565bbaff36d992295a",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "old angel",
+  "description": "oldangel",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "old Angel"
+    }
+  ]
+}

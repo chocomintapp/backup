@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ3dXYKM2EkaRfh2aTnpcAUGkUMHv1CMXihGmzBWJ2BQP/nft.png",
+  "nftContractAddress": "0xbca560406d907b20b54b4f2b7b28477c3b0492ae",
+  "animationUrl": "https://ipfs.io/ipfs/QmSXhKuXt7n4gxhSU17ivnNx6uCVgXKoPeRk74rcgqoaQ8/nft.glb",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Live_Rat_Snitch911",
+  "description": "1,000 rats snitching on the blockchain. Troll the metaverse by adding a .vrm Extention to the unlockable CID Download.  CC0 Remix of 3D avatar welcome.  Replace visor texture in Unity with any NFT PFP or any jpg to change the face of the .VRM avatar.  Over 100 supported applications are accessible from the included portable license.",
+  "attributes": [],
+  "minted": ""
+}

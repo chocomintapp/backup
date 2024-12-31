@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYa6u4kUrA5AiUyjJAEXKDHbfh2PZLQMkdYe9P6P8J3t7/nft.gif",
+  "tokenId": 2,
+  "description": "Hi",
+  "nftContractAddress": "0x7524034052a0165318c13be1a3be2b5fef2981ce",
+  "animationUrl": "https://ipfs.io/ipfs/QmYa6u4kUrA5AiUyjJAEXKDHbfh2PZLQMkdYe9P6P8J3t7/nft.gif",
+  "chainId": "137",
+  "name": "Hi"
+}

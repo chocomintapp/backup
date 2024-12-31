@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU9L52y2wASGuEf6mKzjvyUzBUTnLzhN6ha4g9NaxrmC9/nft.jpg",
+  "tokenId": 2,
+  "description": "Dispersion 2 is the only one in the world",
+  "nftContractAddress": "0x30200de8d6d2b866eb0d6e723b04175faa56873d",
+  "animationUrl": "https://ipfs.io/ipfs/Qmaia1xuF2yQdKfvmfPC2TdwPsqpLL6qwXobJg71RLHvwS/nft.PNG",
+  "chainId": "137",
+  "name": "Dispersion 2",
+  "attributes": []
+}

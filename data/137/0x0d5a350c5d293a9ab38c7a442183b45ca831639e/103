@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcqgWDzJGF87PiMRRzZWnNmVRe3xs3VLu1CcAarMfDBKk/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 103,
+  "chainId": "137",
+  "name": "Day41 Umitsuru's Art #121",
+  "description": "顔を入れ替えて、元気100倍になりたい。\n\nI want to replace my face and be 100 times more energetic.",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

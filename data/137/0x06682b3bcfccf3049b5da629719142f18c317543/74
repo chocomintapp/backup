@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSmqrKStqhXcW99yNa7HC8CBE4eFYPvx395rbMaY99jWG/nft.png",
+  "nftContractAddress": "0x06682b3bcfccf3049b5da629719142f18c317543",
+  "animationUrl": "",
+  "tokenId": 74,
+  "chainId": "137",
+  "name": "DDD Punks #074",
+  "description": "DDD Punks is an addictive 10,000 NFT collection.",
+  "attributes": [
+    {
+      "value": "DDD_Orange",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "EB_Dog_Cream",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Beppinn_DB",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "DDD collar_Earth",
+      "trait_type": "EQUIPMENT"
+    },
+    {
+      "value": "Grillz_Green",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "Ivy_Purple",
+      "trait_type": "HAT"
+    }
+  ]
+}

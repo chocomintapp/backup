@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUbNs5qu4fPCdpPumpJoi4FYVkPHnrZow3Xy4d2r3XxeH/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "https://ipfs.io/ipfs/QmUbNs5qu4fPCdpPumpJoi4FYVkPHnrZow3Xy4d2r3XxeH/nft.png",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "#20 Pink Twin tails",
+  "description": "A cute short twin tail.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hair",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Short Twin tails",
+      "trait_type": "Hair"
+    }
+  ]
+}

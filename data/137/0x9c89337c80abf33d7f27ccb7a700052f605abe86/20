@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQNsp9MHFLXr93idAQsYMAVsjEQnMNKoaEk3BPKLT5x5D/nft.jpg",
+  "tokenId": 20,
+  "description": "Stone nft where lucky things happen when you own it",
+  "nftContractAddress": "0x9c89337c80abf33d7f27ccb7a700052f605abe86",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Stone of happiness"
+}

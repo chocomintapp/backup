@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX23nLb8qoL2Xmkngq2z2szGb8rrjEXdgX56Fmu1NzBfC/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 193,
+  "chainId": "137",
+  "name": "#193",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#C9EA83",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#948559",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Crocodile friends",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "William",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

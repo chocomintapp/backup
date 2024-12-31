@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP3VzXUUCtXQGk4giqsMCGHUELT7dtn2gVzFtVEJrJ6U9/nft.jpg",
+  "nftContractAddress": "0x8e60419fece086f376ada7cb71462978f0f8bcca",
+  "animationUrl": "https://ipfs.io/ipfs/QmY9LsW9hNx6jsM1nMxN1D26mqLu9ABiDZXKiS3NTPCNEk/nft.mp4",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Colorful -Genesis- / pocowAmocop",
+  "description": "The first music NFT released by Project Colorful.\n---\nColorful -Genesis- / pocowAmocop\n---\nMade in \"pocowaAmocop\" Creative team \nMusic：MASEraaaN \nArtwork：MANEY \nProduce：pocowaAmocop \n---",
+  "attributes": [
+    {
+      "value": "Genesis",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "pocowAmocop",
+      "trait_type": "ARTIST"
+    }
+  ]
+}

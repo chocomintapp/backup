@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNQUrXiUF4in2RgiNv8BYeQ4fzdbd4d5vmyGYdSbfzZT9/nft.PNG",
+  "nftContractAddress": "0x7cef91f31dddea69ea34f1dd64e132b4bfae8090",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "Midnight Chicken Alice #12",
+  "description": "This is a drawing by Alice.",
+  "attributes": []
+}

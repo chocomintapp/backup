@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSnS4cxKucaExWFBD9JAP3LoLhwbhBgcCQ82AVek3VmWd/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "VerySilentFruits#6 Grape",
+  "description": "",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Grape",
+      "trait_type": "Fruit"
+    }
+  ]
+}

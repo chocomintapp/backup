@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZcXKk5YpyZ9nVkoLr8iZKk2r4SKMCjQEdusKbXJ93E9b/nft.gif",
+  "nftContractAddress": "0xa0b5d1bff2e86bc4833c3edadb364c2f7be82f9f",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "ゴローコイン採掘機械　ホルホルくん１号",
+  "description": "ゴローコイン採掘マシン　ホルホルくん１号です。\n  \n  \n採掘能力\n\n1時間あたり292ゴロー   \n  \n7000枚／1日　× 1400日　＝　9,800,000(約1千万ゴロー)\n  \n・ヒラキッパーズ5人分の報酬1千万ゴローを1400日かけて掘り続けるぽよ。  \n・ホルホルくんはぴったり1千万ゴローを採掘し終わるまで、ゴローの死後もすこし残業します。  \n・でんち交換は不要です。  \n・たまに煮干しをあげると喜びます。  \n\n\n\n",
+  "attributes": [
+    {
+      "value": "りんご二つ分",
+      "trait_type": "身長"
+    },
+    {
+      "value": "ラーメン一杯分",
+      "trait_type": "体重"
+    }
+  ]
+}

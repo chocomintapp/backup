@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWxVRGTPS3Gv9WPVdyX7reSGxmK7UdjnurCnGt1kRHcEW/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 82,
+  "chainId": "137",
+  "name": "VeryLongAnimals #82",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Hedgehog",
+      "trait_type": "TYPE"
+    }
+  ]
+}

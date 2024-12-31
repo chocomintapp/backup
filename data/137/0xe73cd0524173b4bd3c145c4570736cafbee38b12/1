@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUNDoXKu4qruVDUbX6Nho6n2YGS7jto88GicpEquS2adY/nft.jpg",
+  "nftContractAddress": "0xe73cd0524173b4bd3c145c4570736cafbee38b12",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Manhattan Beach#001",
+  "description": "I lobe Manhattan beach",
+  "attributes": [
+    {
+      "value": "Manhattan beach",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Afternoon",
+      "trait_type": "Time "
+    },
+    {
+      "value": "Spring",
+      "trait_type": "Season"
+    }
+  ]
+}

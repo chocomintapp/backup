@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbUEmzNQFrz7eWzWM1wb5nJv3R1em9narigo2GvQppYNk/nft.gif",
+  "tokenId": 2,
+  "description": "Type01\n\nMain Collection\nhttps://opensea.io/collection/silencelab-nft",
+  "nftContractAddress": "0x943e04166f6c0df615a63f9d9021b2e29cd284c5",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#SilenceLAB_Novelty stickers",
+  "attributes": [
+    {
+      "trait_type": "Novelty",
+      "value": "Type01"
+    }
+  ],
+  "minted": ""
+}

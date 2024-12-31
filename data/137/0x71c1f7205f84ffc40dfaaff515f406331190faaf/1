@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdnovgAcJp6CGu5WekKKpNe8NmetEabSLXH4zknyvo9JQ/nft.jpeg",
+  "tokenId": 1,
+  "description": "I'm Carrot Penguin. As you can see, put a carrot and a penguin together. We hope you like or love it.",
+  "nftContractAddress": "0x71c1f7205f84ffc40dfaaff515f406331190faaf",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Carrot Penguin #1",
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Black"
+    },
+    {
+      "trait_type": "EXTRA",
+      "value": "Carrot"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "orange"
+    },
+    {
+      "trait_type": "TYPE",
+      "value": "Animal"
+    }
+  ],
+  "minted": ""
+}

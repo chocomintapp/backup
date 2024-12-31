@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVgFsgCNuvg4qiCuB4Fj4wToHQDinvDGGXPTT5QaA7wow/nft.gif",
+  "tokenId": 3,
+  "description": "TOKIMEKIの国に住む妖精であるTOKOROTEN。TOKOROTENの生態は未だに明らかではない。そんな未知の妖精であるTOKOROTENがどのように成長しどんな姿になるのか、皆さんで観察しましょう。\nTOKOROTEN is a fairy who lives in the country of TOKIMEKI. The ecology of TOKOROTEN is still unclear. Let's all observe how such an unknown fairy, TOKOROTEN, grows and looks like.",
+  "nftContractAddress": "0x78102dbc698d415487e830971278dc71d5d32069",
+  "animationUrl": "https://ipfs.io/ipfs/QmcrnyD77y3qyksRae4MMfLrusQMQGo7X78pdarrrtB2aD",
+  "chainId": "137",
+  "name": "TOKIMEKI LIFE #003 \"TOKOROTEN3\"",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Optional",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Normal"
+    }
+  ]
+}

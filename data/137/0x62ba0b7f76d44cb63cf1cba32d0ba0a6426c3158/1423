@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXWanxCCgHmJNdFpqVBradiwoyWE2FeUWK9ipx2Stdv4M/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 1423,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #1423",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Seagull",
+      "trait_type": "TYPE"
+    }
+  ]
+}

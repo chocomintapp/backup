@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTpuygYrEVo7BLYwjZeJT1fsGgQrddvr9yM6K2BxMxyB3/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 293,
+  "chainId": "137",
+  "name": "#293",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Messiah",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#61451E",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Composer",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Georg Friedrich Händel",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaZaesWLuwn7tA6zFLqnSrAo68KSfhjUeFseCUnXkrrj7/nft.png",
+  "tokenId": 2,
+  "description": "This is a Tokoroten fairy. There are many types of them, and 5610 Tokoroten live in the world of TOKIMEKI.",
+  "nftContractAddress": "0xfc52a0734808c86ed433a3e2a90c5a31e86ef1db",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "TOKOROTEN #0002 \"ALPHATOKORO2\"",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "ALPHA"
+    },
+    {
+      "trait_type": "Optional",
+      "value": "None"
+    }
+  ]
+}

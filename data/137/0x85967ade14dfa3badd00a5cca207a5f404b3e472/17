@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUKDbxG83VytjcvWE1v7jV3UdnpyUFMEEor2aqLrpuV64/nft.jpg",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "VeryLongAnimalsEveryday",
+  "description": "【毎日ベリロン】\n【VeryLongAnimalsEveryday】\nNo.2\n「ベリーロングな世界へ」\n\"to the very long world\"",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "No."
+    }
+  ]
+}

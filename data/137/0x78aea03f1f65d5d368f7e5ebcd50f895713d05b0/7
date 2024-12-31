@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc7zdV1iv4eATXryWaktPfzCfuW4VHvz9cKaYWhUGrV1t/nft.jpg",
+  "nftContractAddress": "0x78aea03f1f65d5d368f7e5ebcd50f895713d05b0",
+  "animationUrl": "https://ipfs.io/ipfs/QmbTmDAnrkjmgE5t3ye6nuk8JbrAfsaAtR9okGN6yJCpP1/nft.mp3",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "モンミverチキン高野",
+  "description": "モンミverチキン高野",
+  "attributes": [],
+  "minted": ""
+}

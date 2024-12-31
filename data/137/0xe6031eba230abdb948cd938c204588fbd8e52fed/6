@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSUcmBifJgXTn4EbvBKobwL8k4mCLPj1L69p3uRogMgcW/nft.png",
+  "nftContractAddress": "0xe6031eba230abdb948cd938c204588fbd8e52fed",
+  "animationUrl": "https://marimogateway.mypinata.cloud/ipfs/QmaLHXFPsjvHjjLZ943e29tfj5wKjtUVsRAjoTjQRwXN2S/",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "MetaverStake_test",
+  "description": "MetaverStake_test",
+  "attributes": []
+}

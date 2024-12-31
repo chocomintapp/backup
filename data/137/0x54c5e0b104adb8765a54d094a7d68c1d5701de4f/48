@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUo9RKSMYtFXgp1H5SsTfXp5XWr3wMxzj6kiJo8BqGjAE/nft.png",
+  "nftContractAddress": "0x54c5e0b104adb8765a54d094a7d68c1d5701de4f",
+  "animationUrl": "",
+  "tokenId": 48,
+  "chainId": "137",
+  "name": "#11 - 4",
+  "description": "This icon was created from a comic.",
+  "attributes": [
+    {
+      "value": "Diana",
+      "trait_type": "Cast"
+    }
+  ],
+  "minted": "✅"
+}

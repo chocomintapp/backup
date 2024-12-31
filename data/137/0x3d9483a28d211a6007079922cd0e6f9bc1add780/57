@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYtFdEpcydjaRNp15RwDso1noSXYaK6nc4KL7MVKXTBR9/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 57,
+  "chainId": "137",
+  "name": "Neon #57",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon girl",
+      "trait_type": "character"
+    },
+    {
+      "value": "pink hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "yellow cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "samuraiX",
+      "trait_type": "hand"
+    },
+    {
+      "value": "red botle",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

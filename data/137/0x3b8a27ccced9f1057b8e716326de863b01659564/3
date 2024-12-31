@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWwBM5mhdnaVVELaRd8kSvRQFH6t6efFJcEDQWDWhKWSf/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #3",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Cat",
+      "trait_type": "TYPE"
+    }
+  ]
+}

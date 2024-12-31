@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdHU1iCXjDU363oxmCZYN4iBUsgtTQKP2mhj8c9pZNRGZ/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "137",
+  "name": "#16",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Twilight",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#37230B",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Frankenstein's monster",
+      "trait_type": "face"
+    },
+    {
+      "value": "Ready for battle",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ],
+  "minted": "✅"
+}

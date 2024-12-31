@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaWg3fUCWgwZNAdrfQeZRzdFkX85vLynzdG5GXG24Ud98/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "137",
+  "name": "Ganmichan's wanko #15",
+  "description": "",
+  "attributes": [
+    {
+      "value": "wanko",
+      "trait_type": "series"
+    },
+    {
+      "value": "Chihuahua",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

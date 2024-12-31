@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXDpvdLUnrnPRCnNy6q3K3Tu6LgL5i9RXgyLvs8B1NPi9/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 54,
+  "chainId": "137",
+  "name": "Neon #54",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon girl",
+      "trait_type": "character"
+    },
+    {
+      "value": "yellow hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue neon cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "guitar",
+      "trait_type": "hand"
+    },
+    {
+      "value": "smile",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

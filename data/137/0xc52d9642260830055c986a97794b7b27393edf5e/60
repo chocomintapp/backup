@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmct8HWBKXtSDN8fE2y34Ut28DsbbtyHiz9m6W9MdaqcHH/nft.png",
+  "tokenId": 60,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #60",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Alpaca"
+    }
+  ]
+}

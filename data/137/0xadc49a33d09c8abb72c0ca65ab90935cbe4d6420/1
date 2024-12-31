@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRNZ4NHag9jFmwcdfRr85gVRHitnRQYcB8dHtXdU2uEuU/nft.png",
+  "nftContractAddress": "0xadc49a33d09c8abb72c0ca65ab90935cbe4d6420",
+  "animationUrl": "https://ipfs.io/ipfs/QmRNZ4NHag9jFmwcdfRr85gVRHitnRQYcB8dHtXdU2uEuU/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "First Torso",
+  "description": "My first mint NFT",
+  "attributes": [
+    {
+      "value": "tenden",
+      "trait_type": "creator"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcfYnizk1Qtx56ToBVy8PyPFjuMuAgYY76QPxW4yf2FVC/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "137",
+  "name": "HUNIMAL #40",
+  "description": "Human + Animal = Hunimal",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Wolf + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "50s",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Tight tousled curls",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Pop",
+      "trait_type": "STYLE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQgQxfcZy1CfyArnDnN9bZdSEnaGRwC4FcRd3ucHTBW5K/nft.png",
+  "nftContractAddress": "0x46d9aef53a19a1391cd1ed8174c82c97a69ce8ae",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "saku",
+  "description": "testsa",
+  "attributes": [
+    {
+      "value": "50",
+      "trait_type": "aaa"
+    }
+  ]
+}

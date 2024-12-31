@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUVwDAzLSfWFzyKwHN5j6sG82ohUhGmwMnNFHpRzG2wrT/nft.png",
+  "tokenId": 1,
+  "description": "RIKA Test NFT",
+  "nftContractAddress": "0x54d94149f9bd6e6605e36f13136d6a73384f1b6a",
+  "animationUrl": "https://ipfs.io/ipfs/QmUVwDAzLSfWFzyKwHN5j6sG82ohUhGmwMnNFHpRzG2wrT/nft.png",
+  "chainId": "137",
+  "name": "RIKA",
+  "attributes": []
+}

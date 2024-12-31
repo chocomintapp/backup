@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYw48Vha47GMWbWbhpCZGE3bL8bQvvVsKxpiFMHgSPyCE/nft.png",
+  "tokenId": 71,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TYPE1 Ho-ni1**  \nIt is a self-propelled gun with a Type 97 medium tank body mounted with a Type 90 75mm field gun, and was developed with anti-tank combat in mind.\n\nIt was one of the few Japanese combat vehicles that could penetrate the frontal armor of the M4 Sherman.\n\nDue to its late appearance, it was not produced in large numbers, but it was active in the Philippines and other battles.\n\n**一式砲戦車 ホニⅠ**  \n九七式中戦車の車体に九〇式75mm野砲を搭載した自走砲です。\n\n対戦車戦闘を念頭に開発され、M4シャーマンの正面装甲を\n貫徹できる数少ない日本軍戦闘車輛でした。\n\n登場の時期が遅かった為に製産数は多くありませんでしたが\nフィリピン戦などで活躍しました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0071 TYPE1 Ho-ni1",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

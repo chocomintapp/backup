@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPaG3nc4LddqRXrs2SW9VCVTBv1fxcAj4fPuZ6VgkvAd8/nft.jpg",
+  "nftContractAddress": "0xd4f6e24e1db263269bef6502900768b9ecae0c36",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "CRUNK_AREA_0012",
+  "description": "Trustee/Roppongi Brigade/First Regional Armed Self-Government Organization                                                                                                                                       \nEvery character in the CRUNK AREA has a role to play, and everyone is hero.                           ",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Rare",
+      "trait_type": "Rarity"
+    }
+  ]
+}

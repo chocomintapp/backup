@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVSqhvoyqpUF29SUH8ogfinoqDGvWTU3iMVW1isgxm7o3/nft.png",
+  "tokenId": 23,
+  "description": "",
+  "nftContractAddress": "0xda302bc91cad1af9afcd40cff238d59424d6ba11",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "S-PEN CONUSI #022",
+  "attributes": [
+    {
+      "trait_type": "trait",
+      "value": "GEN-0"
+    }
+  ],
+  "minted": "✅"
+}

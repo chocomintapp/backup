@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeHfLCGXVG7fmuQ7YKdVhSjVtJ3GzuDxwf9LmwbrzWyhA/nft.png",
+  "nftContractAddress": "0x0aa71cd06e77788ec1c1f737df487d608fac5327",
+  "animationUrl": "https://ipfs.io/ipfs/QmeHfLCGXVG7fmuQ7YKdVhSjVtJ3GzuDxwf9LmwbrzWyhA/nft.png",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Sweet Girl #002",
+  "description": "She's a girl with many sides. Every day she enjoys being different than she was yesterday!",
+  "attributes": [
+    {
+      "value": "Sweet",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Bunches",
+      "trait_type": "HAIRSTYLE"
+    },
+    {
+      "value": "Long",
+      "trait_type": "HAIRSTYLE"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "HAIR COLOR"
+    },
+    {
+      "value": "Violet",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Ice blue",
+      "trait_type": "LIPS"
+    },
+    {
+      "value": "Dress",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "Gothic",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "Cat Plush",
+      "trait_type": "ACCESSORY"
+    },
+    {
+      "value": "Ribbon",
+      "trait_type": "HAIR ORNAMENT"
+    },
+    {
+      "value": "Black",
+      "trait_type": "EYESHADOW"
+    }
+  ]
+}

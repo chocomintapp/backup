@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY9zm2s7JsodzaWkTsQZS1ARJz1m9n9MZD6oDStWq6enz/nft.png",
+  "tokenId": 1,
+  "description": "Special Art Work",
+  "nftContractAddress": "0x6de825c57e3c5aa2deabb9827ef25776a3ab04e0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "GG #1",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

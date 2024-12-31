@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWzBwX8HcFFz1buGdh6q3Lx4pZEK2e1iBNihTRvLV9J14/nft.png",
+  "nftContractAddress": "0xaeaf1502f616384b1ad3e208dda9ba0ad23c5b23",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "ハチワレキャット",
+  "description": "ハチワレ猫",
+  "attributes": [
+    {
+      "value": "白黒",
+      "trait_type": "カラー"
+    },
+    {
+      "value": "ハチワレ",
+      "trait_type": "タイプ"
+    }
+  ]
+}

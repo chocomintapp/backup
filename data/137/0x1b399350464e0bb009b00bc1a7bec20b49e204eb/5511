@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZnEcKt478c2bNeQ2TwwPc69ff9UoXiFWKhNR8SpTFPA5/nft.png",
+  "nftContractAddress": "0x1b399350464e0bb009b00bc1a7bec20b49e204eb",
+  "animationUrl": "",
+  "tokenId": 5511,
+  "chainId": "137",
+  "name": "Samurai Assemble #5511",
+  "description": "Hijikata Toshizo.\nHe is the second-in-command of the Shinsengumi and known as \"Oni; horribly strong like a demon\". His swordsmanship is Shizen Rishinryu and his favorite sword is Izumi-no-Kami Kanesada.",
+  "attributes": [
+    {
+      "value": "Shinsen-gumi",
+      "trait_type": "JOB"
+    },
+    {
+      "value": "Celebrity",
+      "trait_type": "Personage"
+    },
+    {
+      "value": "N/A",
+      "trait_type": "Face Decoration"
+    },
+    {
+      "value": "Famous Katana",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "Izumi-no-Kami Kanesada",
+      "trait_type": "Effect of the weapon"
+    },
+    {
+      "value": "Makoto-Gold",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Hachimaki",
+      "trait_type": "Head Decoration"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Wolf",
+      "trait_type": "Hair Style"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdhLn5qE11jfEVTgazMtUUEuSimGtYt7WfwSHbbEj1ySE/nft.gif",
+  "nftContractAddress": "0x7447b0d43ac521320371a5472dc3d1d4bfab4095",
+  "animationUrl": "https://ipfs.io/ipfs/QmdhLn5qE11jfEVTgazMtUUEuSimGtYt7WfwSHbbEj1ySE/nft.gif",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "DJLongAnimals #1",
+  "description": "Let's party!!!!!!\nベリロン二次創作 \ncreated by のび太",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "penguin"
+    }
+  ]
+}

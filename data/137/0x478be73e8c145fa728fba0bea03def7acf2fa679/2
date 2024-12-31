@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfWyUvuJi8n2ACmCpZTGaDLxFFX8zgry485fMT9PYYtzc/nft.png",
+  "tokenId": 2,
+  "description": "This is black cross for 3D avatar. However, it's a joke.\nI made this NFT because I felt like it.\n\nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x478be73e8c145fa728fba0bea03def7acf2fa679",
+  "animationUrl": "https://ipfs.io/ipfs/QmSW5zHZFyGwXsTA2zisF4aQ6v5Bn7Po63dP4grswscReL/nft.png",
+  "chainId": "137",
+  "name": "Black cross",
+  "attributes": [
+    {
+      "trait_type": "Crypyan",
+      "value": "0"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    }
+  ]
+}

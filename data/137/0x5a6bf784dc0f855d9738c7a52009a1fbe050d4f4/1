@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSrDvAzarzmsCHQbXJ7AY3qREhrqMHt3gRiej3o5mqZnA/nft.png",
+  "nftContractAddress": "0x5a6bf784dc0f855d9738c7a52009a1fbe050d4f4",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "mandala of vines #1",
+  "description": "This work is a mandala design of vines.\nVine seems to mean eternity and mandala means truth.\nResolution 1280 x 1280\nFile type PNG",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

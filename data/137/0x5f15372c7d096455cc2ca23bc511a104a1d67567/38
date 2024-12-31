@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW6o73BWjJsE6aPZwAaQeUjqoj6wRZpgKDsysfRmqAtAJ/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmW6o73BWjJsE6aPZwAaQeUjqoj6wRZpgKDsysfRmqAtAJ/nft.png",
+  "tokenId": 38,
+  "chainId": "137",
+  "name": "Rabbit girl #8E 『ClyingGirl』",
+  "description": "Rabbit girl #8E 『ClyingGirl』\nRabbit Girls Easter\n\nGirls with cute rabbit ears came to you. RabbitGirls is always next to you.\n\n\"Hello! I hope every day will be a wonderful day for you.\"",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "ClyingGirl",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "Easter",
+      "trait_type": "Series"
+    }
+  ]
+}

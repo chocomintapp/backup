@@ -1,0 +1,63 @@
+{
+  "image": "https://ipfs.io/ipfs/QmadXVgmMDLDuFsvNAX8tiaYWvKCqjiRxKwSnREMtfi9yi/nft.jpeg",
+  "nftContractAddress": "0x869d59cce33b74ac06ecaf1c42e49d274cf30907",
+  "animationUrl": "https://ipfs.io/ipfs/QmfSsqoUgQX9eeHria4VzxJy8TPBuSr2twSyVk4pe5faSA/nft.jpeg",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Momma G",
+  "description": "Momma G ready for action",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

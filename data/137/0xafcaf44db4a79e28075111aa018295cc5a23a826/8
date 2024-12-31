@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUEuM6vvgTFTA8dW88s9fKBiGubJizvfmd6VZ926Ae9Yp/nft.png",
+  "tokenId": 8,
+  "description": "Tempura on top of kake soba.  Often it is shrimp tempura",
+  "nftContractAddress": "0xafcaf44db4a79e28075111aa018295cc5a23a826",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "TEMPURA SOBA",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

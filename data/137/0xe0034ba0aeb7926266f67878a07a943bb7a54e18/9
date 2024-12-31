@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNkGmGSmoBssEKVg4ZWtVpTs5mznJrMeVP3vPXY1Fhbvp/nft.jpg",
+  "tokenId": 9,
+  "description": "",
+  "nftContractAddress": "0xe0034ba0aeb7926266f67878a07a943bb7a54e18",
+  "animationUrl": "ipfs://QmSjkFBqyvEVrMMCPmq4K7oSF1QdMdmR15VBDpF4ieSJk1",
+  "chainId": "137",
+  "name": "Genesis-9",
+  "attributes": [
+    {
+      "trait_type": "Edition",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Gaussian_v1"
+    }
+  ],
+  "minted": ""
+}

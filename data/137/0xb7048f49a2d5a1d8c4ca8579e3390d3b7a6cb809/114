@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfMJPbbRBQXxhuEQoneDSmZVLBm3Rxe1ZDx712y7wM9yk/nft.png",
+  "nftContractAddress": "0xb7048f49a2d5a1d8c4ca8579e3390d3b7a6cb809",
+  "animationUrl": "",
+  "tokenId": 114,
+  "chainId": "137",
+  "name": "Pocket Rabbit #114",
+  "description": "Polygon chain Genetive NFT Collection with a total of 2525 girls. Aiming for RabbitGirls, customize them to cute girls with dress-ups and decorations. Occasionally, we will vote for popularity on the official website and generate the highest rarity Rabbit Girls with a total of 50 people.  ",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Moon Skyblue",
+      "trait_type": "Back ground"
+    },
+    {
+      "value": "Black Pattun Short",
+      "trait_type": "Back hair"
+    },
+    {
+      "value": "Rabbit Black",
+      "trait_type": "Hug"
+    },
+    {
+      "value": "Parker Black",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Black Migi",
+      "trait_type": "Bangs"
+    },
+    {
+      "value": "Wink Suspended Black",
+      "trait_type": "Eye"
+    },
+    {
+      "value": "Like",
+      "trait_type": "Emotion"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbcLzdsnmEAGtkvxQbNjHtzd7eANF1EDDuwJBtJA7odn5/nft.png",
+  "nftContractAddress": "0xc101a3685be26c91dd9b41778addb085af6820f1",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "nuts",
+  "description": "Drowning in flesh.\n肉に溺れている。\n\nThe creatures that live in the seaside luck o city. They live with sin on their backs. The deeper the sin, the more they can dive into the sea.\n\nseaside luck o city（シーサイドラッコシティ）に住む生き物たち。彼らは罪を背負って生きている。罪が深ければ深いほど、彼らは海に深く潜れる。",
+  "attributes": [
+    {
+      "value": "Mars",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "60",
+      "trait_type": "Gluttony"
+    },
+    {
+      "value": "30",
+      "trait_type": "Lust"
+    },
+    {
+      "value": "10",
+      "trait_type": "Envy"
+    }
+  ]
+}

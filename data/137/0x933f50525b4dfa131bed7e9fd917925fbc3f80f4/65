@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVpuc7zJsAxCc1jDGstkUmptd74sa6dCDdoSC8d4KnJN5/nft.png",
+  "tokenId": 65,
+  "description": "SamuraiZooの第二弾！   『CatDinosaurRangers』   恐竜キグルミ猫侍のコレクションです。   詳しくはHPへGO！   https://nft.sugarbeatstyle.com/   ===   SamuraiZoo's second installment!   \"CatDinosaurRangers\".   This is a collection of dinosaur wear cat samurai.   Go to the website for more information!   https://nft.sugarbeatstyle.com/  ",
+  "nftContractAddress": "0x933f50525b4dfa131bed7e9fd917925fbc3f80f4",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "CatDinosaurRangers  #065",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Dinasour",
+      "value": "k03b"
+    },
+    {
+      "trait_type": "cat",
+      "value": "n05"
+    },
+    {
+      "trait_type": "face",
+      "value": "h11"
+    },
+    {
+      "trait_type": "eye",
+      "value": "e20"
+    },
+    {
+      "trait_type": "weapon",
+      "value": "w05"
+    },
+    {
+      "trait_type": "background",
+      "value": "bn02"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "00"
+    }
+  ]
+}

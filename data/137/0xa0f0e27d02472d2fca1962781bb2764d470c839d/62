@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd31AuXyWK31rWTAmuHPG1AA5pkLQncV9aJJmoR1haq2k/nft.png",
+  "tokenId": 62,
+  "description": "おお、紙よ。オオカミだけに…言うてる場合か。\n\nOh, God. I'm out of toilet paper.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Wolf in the bathroom",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Wolf"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

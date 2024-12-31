@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT8XFJjUrHKXxdUvNkCWD1Qd7BaCNDwGLQhWuFwouFcKe/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 67,
+  "chainId": "137",
+  "name": "#67",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#F6F1C3",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#37DF33",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "UMA",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Bigfoot",
+      "trait_type": "face"
+    },
+    {
+      "value": "Hairy",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Bigfoot",
+      "trait_type": "special1"
+    }
+  ]
+}

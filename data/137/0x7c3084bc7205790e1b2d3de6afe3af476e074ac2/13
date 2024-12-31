@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf1yGDaiEydGZcJ7c3QF9aG5utoazWqVdjvfYrKYzNFjJ/nft.png",
+  "tokenId": 13,
+  "description": "Name:Satoshi Nakamoto\nSeasoning:味の素",
+  "nftContractAddress": "0x7c3084bc7205790e1b2d3de6afe3af476e074ac2",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "サトシ味の素"
+}

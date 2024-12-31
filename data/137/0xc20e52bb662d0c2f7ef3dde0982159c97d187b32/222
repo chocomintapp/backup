@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYhx4LY13b13tiX984LGSt9jWvrp9oFxH9NfDfmCdqhhv/nft.gif",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 222,
+  "chainId": "137",
+  "name": "#222",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#333268",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#F8FF00",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Crocodile friends",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Zeynep",
+      "trait_type": "face"
+    },
+    {
+      "value": "Cyber suit",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Cyber suit",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Cyber body",
+      "trait_type": "special1"
+    },
+    {
+      "value": "Flight ability",
+      "trait_type": "special2"
+    },
+    {
+      "value": "Cyber suit",
+      "trait_type": "Accessory1"
+    }
+  ],
+  "minted": "✅"
+}

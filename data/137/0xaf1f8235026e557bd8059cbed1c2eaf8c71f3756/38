@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf5ke1ygTTuDugJEjNuGSbuyprQ8JSqikvwUy5N7uSRAe/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/Qmf5ke1ygTTuDugJEjNuGSbuyprQ8JSqikvwUy5N7uSRAe/nft.gif",
+  "tokenId": 38,
+  "chainId": "137",
+  "name": "WavyLongAnimals #38",
+  "description": "ベリロン二次創作",
+  "attributes": [
+    {
+      "value": "Earthworm",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

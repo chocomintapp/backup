@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNN63VihaxELSK4GqtSs6iwVYjMb4dsx5soVpanii2yws/nft.jpg",
+  "nftContractAddress": "0x212790eab041c25f65ff3183f0ab9472ffcc3b72",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "137",
+  "name": "PI #31",
+  "description": "The theme of this project is a relaxing space that sways between real and virtual.\nPixel data digitally collaged based on a photograph was reflected on an irregularly swaying plane to create a polygonal image.\nShooting the irregularities of virtual waves ensures the originality of each image.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Dunhuang",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Sand",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Balloon",
+      "trait_type": "Accessory"
+    }
+  ]
+}

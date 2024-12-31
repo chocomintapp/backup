@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUi3hg391DztgLtYNZhAXjLcevCTbyJDAerfisf8SyG4N/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Ganmichan the origin #4",
+  "description": "energy charge girl #4",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "origin",
+      "trait_type": "series"
+    },
+    {
+      "value": "power",
+      "trait_type": "situation"
+    }
+  ]
+}

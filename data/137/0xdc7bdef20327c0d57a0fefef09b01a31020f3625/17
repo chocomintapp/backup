@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdUoKvNff6UFdU67EZdNnQr9zXv2bBm2pVv9PTT4PGEvB/nft.gif",
+  "tokenId": 17,
+  "description": "He is a pampered Neko and loves his owner.",
+  "nftContractAddress": "0xdc7bdef20327c0d57a0fefef09b01a31020f3625",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tiga",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

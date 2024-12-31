@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV98ejDSxh6sQsBmPkBvXf7xzhUA7wTk5jQkFGrWpEcCD/nft.png",
+  "nftContractAddress": "0x0ed584f956237cd686d709058e6a2af576dcb598",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "【第2話】しろねことぶた",
+  "description": "ベビロン(どうぶつのあかちゃん)があそんでるひとコマまんが",
+  "attributes": [
+    {
+      "value": "しろねこ",
+      "trait_type": "どうぶつ"
+    },
+    {
+      "value": "ぶた",
+      "trait_type": "どうぶつ"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRrYGqwoF6Kaz7V9PnxTwdGXGSeeF8XUFBK1f3761bUY8/nft.gif",
+  "nftContractAddress": "0xf4bda3c904ca98ee4ec23a60fb217cfb86f22668",
+  "animationUrl": "https://ipfs.io/ipfs/QmTBW8FcHinZwRzD5BLEFccrvey6EykBvDgAwD1ZM7iB6j/nft.glb",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "PolyVision #8",
+  "description": "PolygonLow assistant robot.",
+  "attributes": [
+    {
+      "value": "Sauna",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Tetris brown",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "Feet"
+    }
+  ]
+}

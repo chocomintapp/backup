@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZWYrLTJBriu8kWgTysrbkRJ5LXzAYSaPd5W87CFnACKs/nft.png",
+  "nftContractAddress": "0xd7151e5a95eda22f37993c4e862ab581befed1dd",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "#008 Tim DOT Wizard",
+  "description": "Tim's magic is to make everyone happy!",
+  "attributes": [
+    {
+      "value": "Crypto",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Wizard",
+      "trait_type": "JOB"
+    }
+  ]
+}

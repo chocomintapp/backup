@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcVGUjkAaE8dR4wgUYRWruQw9p6a59LF7y6tvcKsQGywo/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmcVGUjkAaE8dR4wgUYRWruQw9p6a59LF7y6tvcKsQGywo/nft.mp4",
+  "tokenId": 939,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1039",
+  "description": "月一開催のゴジャフェス\n日々アップデートを繰り返す\n音質命のメタバースライブ\nクラスターの環境よくなる",
+  "attributes": [
+    {
+      "value": "Bike Air Zoom Generation",
+      "trait_type": "M"
+    },
+    {
+      "value": "Bpluto",
+      "trait_type": "押韻職人"
+    },
+    {
+      "value": "2023",
+      "trait_type": "DAY"
+    }
+  ]
+}

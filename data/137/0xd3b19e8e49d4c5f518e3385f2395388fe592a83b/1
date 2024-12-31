@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNX3NeA4buZvz1QtNtdCStfdbefQzsJY3yhjjVNGLHzBR/nft.png",
+  "tokenId": 1,
+  "description": "chihuahua",
+  "nftContractAddress": "0xd3b19e8e49d4c5f518e3385f2395388fe592a83b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "DOG"
+}

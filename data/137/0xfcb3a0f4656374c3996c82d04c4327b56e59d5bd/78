@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeZ6MDqKAdeEGGpWMr4rJu3NKUJXfzij8GDKChFgF5oAa/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 78,
+  "chainId": "137",
+  "name": "#0074_Niton_CBWMRW_BK_Bst",
+  "description": "0074_Niton_CBWMRW_BK_Bst\n\nブーストアイテムにて変化しています！",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Columbia Blue",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Carnation Pink",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    },
+    {
+      "value": "Acrylic",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "none",
+      "trait_type": "Eye"
+    }
+  ]
+}

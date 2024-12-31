@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNwnbMNd839aAZA9yaF7pozdr8w44vvakrhLr61B3FA3C/nft.jpeg",
+  "tokenId": 1,
+  "description": "Japanese whisky",
+  "nftContractAddress": "0x2cfddd367c8035f2e6fc76323a77c1771610942c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "YAMAZAKI"
+}

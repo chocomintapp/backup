@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma4oKF4ypjKdmUyiX2psvw2xSuFkCqrNjLfMenEg6Bj1r/nft.png",
+  "nftContractAddress": "0x3925f2592e21e8168c0813a7a0fb47a2bea05ef6",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "Polly [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nPolly\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR PETIT]",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Close",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "White",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Halo",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Monochrome",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Division",
+      "trait_type": "SPELL"
+    },
+    {
+      "value": "PETIT",
+      "trait_type": "LOM ELIXIR"
+    }
+  ],
+  "minted": "✅"
+}

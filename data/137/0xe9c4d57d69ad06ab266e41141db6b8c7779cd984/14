@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQHcoMHqutzJvAJKJKuGRcz7dAMajbsc9PEiit3F4koh6/nft.jpeg",
+  "tokenId": 14,
+  "description": "My favorite item.\nThis is the RW I bought for the first time 25 years ago. ",
+  "nftContractAddress": "0xe9c4d57d69ad06ab266e41141db6b8c7779cd984",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Fav #000 RW_clr",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR5vA6JPEj71iG7wu3reo47ziW2hhW1fWZQD14Z3vK9Vj/nft.png",
+  "tokenId": 2,
+  "description": "Laser Eye",
+  "nftContractAddress": "0x0a6becae06ab47661b22767444d1d4e47c4907bb",
+  "animationUrl": "https://ipfs.io/ipfs/QmR5vA6JPEj71iG7wu3reo47ziW2hhW1fWZQD14Z3vK9Vj/nft.png",
+  "chainId": "137",
+  "name": "MA-LUCIAN#2",
+  "attributes": []
+}

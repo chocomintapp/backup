@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc6URfgvW53v72C6PAcZHazBHeju6h37Emk2s4vqfQhgX/nft.PNG",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimal #7",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Panda",
+      "trait_type": "TYPE"
+    }
+  ]
+}

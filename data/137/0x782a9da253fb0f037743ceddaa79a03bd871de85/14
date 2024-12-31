@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSd7jsCFNmaABXCZTfEUueXZcLEZW5ygv8xqpkmM6vacB/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "VerySilentFruits#14 Banana",
+  "description": "",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Banana",
+      "trait_type": "Fruit"
+    }
+  ]
+}

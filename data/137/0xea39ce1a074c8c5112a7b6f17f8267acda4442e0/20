@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPhPxRtcgUbreakeRrVy3h4bvm1NeMwsWZWqctYdMjpiK/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "TANU-KIDS #019",
+  "description": "バイカーに変身したTANU-KIDS\n\nバイクを愛して止まないたぬき\n愛車と共に今日もどこかへ走り出します",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Biker",
+      "trait_type": "Hobby"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXxNeUzmpQNt9h2LCau4L8ibivuMKREUFj1GAzJJHWHp9/nft.png",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "#7 あなのなかにいる",
+  "description": "METAKAWAII x CryptoMaids コラボ記念エピソード",
+  "attributes": [
+    {
+      "value": "Japanese",
+      "trait_type": "Language"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNa1LPwDF99SmYNGUyu6fF29mzeGUEmJ3pfHRCoihYQTC/nft.png",
+  "tokenId": 1,
+  "description": "First(test) NFT",
+  "nftContractAddress": "0xaa5dd84f68d636cadd0219ea1862bdbc4b8eba9d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Stella"
+}

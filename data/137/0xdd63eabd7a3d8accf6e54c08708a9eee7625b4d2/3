@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbmVgKvfWVF3zmWkHbDj62R1rSnGHSaPoKA3PzuAbwGTP/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "LIVING MINERAL #3",
+  "description": "",
+  "attributes": [
+    {
+      "value": "ape",
+      "trait_type": "gene"
+    },
+    {
+      "value": "uncommon",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "gold",
+      "trait_type": "material"
+    }
+  ]
+}

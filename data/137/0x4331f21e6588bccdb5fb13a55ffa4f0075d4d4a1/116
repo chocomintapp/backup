@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb5pcfQjskuVnrxwyQLFxKZcPWNgXCF7JUUhHcAg7j1Hb/nft.png",
+  "tokenId": 116,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KINUGASA 1940**  \nThis silhouette is heavy cruiser Kinugasa in 1940.\n\nThe second of the Aoba class heavy cruisers, she was the first ship equipped with a catapult in the Imperial Japanese Navy.\n\nIn the Battle of Savo Island, she fought a solitary battle while the \"Aoba\" and \"Furutaka\" were hit and burned, and fought off the light and heavy cruisers of the U.S. Navy.\n\n**重巡洋艦 衣笠 1940**  \n青葉型重巡の2番艦で日本海軍初のカタパルト装備艦です。\n\nサボ島沖海戦では「青葉」「古鷹」が被弾炎上する中、孤軍奮闘して米軽巡（大破）同じく重巡（小破）を撃退しています。\n\nこのNFTは1940年頃の衣笠のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0116 KINUGASA 1940",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Heavy cruiser"
+    }
+  ]
+}

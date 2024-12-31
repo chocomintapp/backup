@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZqxF5a4pemb5HadARk6CEY8gAb3fj2hZYagwfThoz1KY/nft.jpg",
+  "nftContractAddress": "0x958d290c88558f0f5a4fdb111650396e9b358982",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "xxx",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Smile",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Black",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

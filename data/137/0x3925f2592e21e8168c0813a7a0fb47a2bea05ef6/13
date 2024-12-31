@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcxo1ZR461iUjeeMYu6aLX7WGhicFkpgbi7Y38xsMu4T4/nft.png",
+  "nftContractAddress": "0x3925f2592e21e8168c0813a7a0fb47a2bea05ef6",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "Liku [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nLiku\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR PETIT]",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Close",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Black",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Beret",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Puple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "PETIT",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

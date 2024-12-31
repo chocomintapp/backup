@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXnx78KotHSAnu1xtBpU5SvNNadZB9ghCC3QTjHf7NDMD/nft.png",
+  "nftContractAddress": "0x85147cdc02a716059740b445d2403f8bd420e3a8",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Point (0, 0) [April 14, 2022 at 20:00]",
+  "description": "",
+  "attributes": [
+    {
+      "value": "0",
+      "trait_type": "longitude"
+    },
+    {
+      "value": "0",
+      "trait_type": "latitude"
+    },
+    {
+      "value": "2022",
+      "trait_type": "year"
+    },
+    {
+      "value": "April 14",
+      "trait_type": "date"
+    },
+    {
+      "value": "20:00",
+      "trait_type": "time"
+    }
+  ]
+}

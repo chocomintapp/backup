@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbu1oJCFAYt9f1QW2uceNXDt3MSTzF9LWcfTywdcbijn3/nft.jpeg",
+  "tokenId": 23,
+  "description": "Calligraphy Devil #23",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #23",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Vapula"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Qemuel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lust"
+    }
+  ],
+  "minted": ""
+}

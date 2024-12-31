@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYh545d4TjJnWGoCmFAwUjtri6Hc59mHeWEwH6iRXBZYT/nft.png",
+  "tokenId": 1,
+  "description": "2021年11月に開催されたRobotos二次創作コンテストに応募した作品です。組み立てられそうなかんじにしてみました。\n\nThis is a work that I submitted to the Robotos Secondary Creation Contest held in November 2021. Try to assemble it.",
+  "nftContractAddress": "0x6f0ec3d8199a85dcff89b7151845f61c5227a2be",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Robopet #4775 plastic model??",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Robopets"
+    }
+  ]
+}

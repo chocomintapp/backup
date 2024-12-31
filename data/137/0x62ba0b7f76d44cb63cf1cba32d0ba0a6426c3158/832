@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcKQY8ajpxh2yGxC7PMLx2Rp1CamXjFuesxHWZzGpZWfp/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 832,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #832",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Red Panda",
+      "trait_type": "TYPE"
+    }
+  ]
+}

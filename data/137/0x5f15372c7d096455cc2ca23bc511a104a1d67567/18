@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeibPzMDxemyxoYMVZHmbdncKwffXBPFmLHAwQY7zQ7M1/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmeibPzMDxemyxoYMVZHmbdncKwffXBPFmLHAwQY7zQ7M1/nft.png",
+  "tokenId": 18,
+  "chainId": "137",
+  "name": "Rabbit girl #12 『Cosplayer girl』",
+  "description": "Rabbit girl #12『Cosplayer girl』\n\nRabbit Girls will bring happiness to you. Did something bad happen? Or did you have something happy about? It's okay, I'll always be by your side. Please laugh. Your smile is a treasure. Let's move on together!",
+  "attributes": [
+    {
+      "value": "CosplayerGirl",
+      "trait_type": "Character"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

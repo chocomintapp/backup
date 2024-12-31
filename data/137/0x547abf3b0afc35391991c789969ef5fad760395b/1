@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeSq2ugTmGELC7RjCUW8kBxpjHM3ZqY5abyHBvJHKP7qk/nft.jpg",
+  "nftContractAddress": "0x547abf3b0afc35391991c789969ef5fad760395b",
+  "animationUrl": "https://ipfs.io/ipfs/QmVBns73jEk7B9gGGW3u9JqTQCXkqQpXg81eGDuCGEY7yF/nft.jpg",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "テスト",
+  "description": "独コンのテスト１",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

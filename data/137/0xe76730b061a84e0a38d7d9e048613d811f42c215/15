@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPcETwRxYGzF1Phhq9Z3B2htduBZjNtv11SZGq4LoeSWm/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "THS #012",
+  "description": "【涅】",
+  "attributes": [
+    {
+      "value": "peacock feather",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "turtle",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

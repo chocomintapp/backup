@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcEco7ZuD94wsDn5GzjEPLoHpN7AFgp8Ho1awj1oPNosT/nft.png",
+  "tokenId": 55,
+  "description": "肉は火をよく通さないとお腹痛くなるよ。\n\nMeat should be well cooked or you'll get a stomach ache.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Mammoth of Meat Grill Master（肉焼名人のマンモス）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Mammoth"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

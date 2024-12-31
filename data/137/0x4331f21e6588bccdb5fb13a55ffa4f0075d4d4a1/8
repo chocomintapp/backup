@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbM2hGy1osoeShLSFnXHrbqAWv9CJRvcbGJzKYuGUFYvi/nft.png",
+  "tokenId": 8,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**Fw190 D-9**  \nThis aircraft is an improved version of the Fw190A, which was very active on the Western Front.\nThe engine was changed from air-cooled to liquid-cooled (Jumo 213), and succeeded in improving the high-altitude performance, which was a weak point.\nIt was planned to be a bridge to the Ta152 that would appear later.\nAs a mass-produced aircraft that was deployed in large numbers, it was the last and strongest fighter of the Luftwaffe.\nIt was the strongest fighter in the Luftwaffe's history, and was capable of competing with the P-51 and Tempest.\nNicknamed \"Dora the Long-Nosed\"\n\n**Fw190 D-9**  \n西部戦線で猛威を振るったFw190A型の発展型です。\nエンジンを空冷から液冷（Jumo213）に変更して\n弱点だった高高度性能の改善に成功しました。\n\n後に登場するTa152までのつなぎの予定でしたが\n多数配備された量産機としてはドイツ空軍最期にして\n最強の戦闘機であり、宿敵P-51やテンペストと互角に闘える機体でした。\n愛称はLANGNASEN-DORA（ドイツ語で長っ鼻のドーラ）でした。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0008 Fw190 D-9",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Fighter"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZYyMRNm9SwxSmoXNx4LxJNpnY8mAEAD182dx3xfH1f1u/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #128 May.9",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n5月9日\n\n部長はこの日、遠く離れた場所にいる、誰かの声を聞くことができる耳を手に入れました。…といっても、これは試作品。部長の部署ではかつて、このヘッドフォン型の新しい耳を開発していました。聴くことができるのは、\"契約\"によって定義された、この耳の「元の持ち主」の声だけ。盗聴などに使われないように、話者が許可した会話だけを聴くことができるように設計されていました。\n\n製品化には至りませんでしたが、概念として興味があった部長は、この試作品を大切に残していたのです。連日連夜、実験と改良を繰り返した日々が懐かしくなった部長は、久しぶりに「機械の耳」を装着してみることにしました。当然、何も聞こえてくるはずはないのですが…ボソボソと話す声が聞こえてきました。\n\n「……世界には、存在はするが、見たり触れたりすることができないものがある。例えば、宇宙の起源 \"はじまり\"。\"はじまり\" は、見ることも触れることもできないが、存在はする…」\n\nこの試作品の元の持ち主の声でしょうか？そうであるとするならば、一体誰の声なのか…？気になって仕方がない部長なのでした。\n\n-----------\n\nMay 9.\n\nOn this day, he got an ear that can hear someone, far away, in a distant place. ...but this is a prototype. His department used to develop these new headphone-type ears. The only voice that can be heard is that of the \"original owner\" of these ears, as defined by the \"contract\". It was designed to allow the user to listen only to conversations authorized by the speaker, so as not to be used for eavesdropping.\n\nAlthough it was never commercialized, he was intrigued by the concept and kept the prototype. He missed the days of experimentation and improvement day after day, night after night, and decided to try on the \"mechanical ears\" for the first time in a long while. Naturally, he could not hear anything, but... he heard a voice whispering.\n\nHe said, \"There are things in the ...... world that exist but cannot be seen or touched. For example, the origin of the universe, \"The Beginning.\" The \"Beginning\" cannot be seen or touched, but it exists...\"\n\nIs this the voice of the original owner of this prototype? If so, whose voice is it? He was curious.",
+  "attributes": [
+    {
+      "value": "Black & Red",
+      "trait_type": "Cap"
+    },
+    {
+      "value": "barefoot",
+      "trait_type": "FOOT"
+    },
+    {
+      "value": "Mechanical Ear",
+      "trait_type": "HEADPHONE"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Jacket"
+    },
+    {
+      "value": "Red",
+      "trait_type": "SHORT PANTS"
+    },
+    {
+      "value": "Grey",
+      "trait_type": "T-SHIRT"
+    }
+  ]
+}

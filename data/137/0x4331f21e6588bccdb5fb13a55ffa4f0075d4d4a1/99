@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf7upGhoAkfKGRFTc9wujv6zgcqNv1LcdJYheNTQPZxEg/nft.png",
+  "tokenId": 99,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**T34-85**  \nIt is a reinforced version of the masterpiece medium tank \"T34-76\".\n\nThe T34-76 was superior to tanks of the same period in attack, defense, mobility, and productivity, but when German heavy tanks (such as the Tiger I) appeared on the front lines, it became clear that the 76mm gun was no match for them.\n\nTherefore, the turret was enlarged and a more powerful 85mm gun was mounted on this tank.\n\nThe larger turret can accommodate three men, one more than before, allowing the tank commander to concentrate on command and improving the combat environment.\n\nTogether with the T34-76, a tremendous number of 57,000 tanks were produced, and some countries continued to operate the tank for more than half a century after the war.\n\n**T34-85 中戦車**  \n祖国を救った傑作中戦車「T34-76」の強化型です。\n\nT34－76は攻撃・防御・機動力・生産性、全てにおいて同時期の戦車に比べ優れていましたが、ドイツ重戦車（ティーガーⅠ）が戦線に登場すると76mm砲では歯が立たない事が判明してしまいます。\n\nそこで砲塔を巨大化し、より強力な85mm砲を搭載したのが\n本車輌となります。  \n大型化した砲塔には従来より1人多い3人を配置でき、戦車長が指揮に専念できるなど、戦闘環境も改善しました。\n\nT34-76と合わせて57000輌という途方も無い数が生産され\n戦後半世紀以上も運用し続けた国があるなど、伝説の車輌として兵器史にその名を刻んでいます。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0099 T34-85",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Soviet"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

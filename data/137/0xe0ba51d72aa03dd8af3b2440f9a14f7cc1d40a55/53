@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRMP4s4PAZf48gqUvrjkHH1rBC1fbwXkg6piPjNUyYhMU/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 53,
+  "chainId": "137",
+  "name": "きっちり割り勘するえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "コマカイ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "トリカワ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "モチ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "FX",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "カネノキレメガエンノキレメ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

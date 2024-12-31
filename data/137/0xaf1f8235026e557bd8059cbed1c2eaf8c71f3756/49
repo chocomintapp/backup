@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRDAxGv7NDvBYGtgLK82RV2ECAMctK3G42U1nnZn693b8/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/QmRDAxGv7NDvBYGtgLK82RV2ECAMctK3G42U1nnZn693b8/nft.gif",
+  "tokenId": 49,
+  "chainId": "137",
+  "name": "WavyLongAnimals #49",
+  "description": "ベリロン二次創作",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Dolphin",
+      "trait_type": "TYPE"
+    }
+  ]
+}

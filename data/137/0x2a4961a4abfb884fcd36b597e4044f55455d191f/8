@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZLFU8hTphQsHfaEKfoGMqey3nkHJW6M5aff4a9SqSL1g/nft.png",
+  "nftContractAddress": "0x2a4961a4abfb884fcd36b597e4044f55455d191f",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "NoisyLongAnimals #8",
+  "description": "Secondary works of VeryLongAnimals",
+  "attributes": [
+    {
+      "value": "Squid",
+      "trait_type": "TYPE"
+    }
+  ]
+}

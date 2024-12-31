@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeKPckMbxz2WLCk1uFk2erjqf9XA8xsJFQ2an1Ltd8hGX/nft.png",
+  "tokenId": 39,
+  "description": "ちこうよれ。\n\nCome to me.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cat（MikeTono　ミケ殿)",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

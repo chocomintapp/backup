@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW97ELwfq1o7VdLXDHCKyh9GZH91p9vbb7tBsGmrfmi13/nft.png",
+  "tokenId": 3,
+  "description": "ただのどうぶつたち。Just Animals.",
+  "nftContractAddress": "0x308170c1d33b766482f32382b57639009d4a40f8",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Ordinary Mouse #1",
+  "attributes": []
+}

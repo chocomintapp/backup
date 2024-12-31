@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdoHakimmdZT2oQvxd7nVfKrKodY6AKQrBWvxv8Mr78mD/nft.png",
+  "tokenId": 48,
+  "description": "お忍びでイルカショー見にきた。\n\nI snuck out to see the dolphin show.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Beluga Whale（シロイルカ）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Beluga Whale"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

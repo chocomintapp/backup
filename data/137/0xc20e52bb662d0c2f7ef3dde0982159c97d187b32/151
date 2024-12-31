@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma3CMStPeohSbPX9VWJcxigoqiyvQPG2Ra9U4YuDr536Z/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 151,
+  "chainId": "137",
+  "name": "#151",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#835C9F",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#CEF8D3",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Blue baseball cap boy",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "\"Concentrate ...\"",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

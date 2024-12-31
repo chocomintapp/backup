@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdy2cCfUZYJXvxz6yqvJ2Y64WgS1sP8fiZ6BRhnaZ1hng/nft.png",
+  "tokenId": 2,
+  "description": "ssss",
+  "nftContractAddress": "0xbf3c37719d4398d94ba7ba2d5839f7163e270270",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test2",
+  "attributes": [
+    {
+      "trait_type": "trait",
+      "value": "va"
+    }
+  ]
+}

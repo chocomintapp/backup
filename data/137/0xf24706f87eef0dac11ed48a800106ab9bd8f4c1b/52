@@ -1,0 +1,60 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY1VZFkYiYH1iTE8fs7c9mo8UPqTWCmvenMQ4i8h4o616/nft.PNG",
+  "tokenId": 52,
+  "description": "Crypto Easy Cats(クリプトイージーキャッツ)はおっとりしたドット絵の猫のコレクションです。Polygonチェーンの独自コントラクトで再Mintしました。様々なPropertiesを用意しており、コレクション性があるネコちゃんになっています。同じネコちゃんはいません！それぞれが個性を持った可愛いネコちゃんたち。「難しいことは忘れて気楽にNFTに触れてほしい！」という思いで製作しています。飼っているだけで心穏やかになるネコちゃんを見ていきませんか？\n\n\"Crypto Easy Cats\" is a collection of pixel \"easy\" cats and became one of the inspirations for the ERC-721 standard on Polygon. Each cat is one-of-a-kind and 100% owned by you. Take it \"easy\"!",
+  "nftContractAddress": "0xf24706f87eef0dac11ed48a800106ab9bd8f4c1b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Easy Cats #52",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "independence"
+    },
+    {
+      "trait_type": "type",
+      "value": "tortoiseshell"
+    },
+    {
+      "trait_type": "fur",
+      "value": "black"
+    },
+    {
+      "trait_type": "tabby",
+      "value": "brown"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "orange"
+    },
+    {
+      "trait_type": "ears",
+      "value": "skin color"
+    },
+    {
+      "trait_type": "nose",
+      "value": "pink"
+    },
+    {
+      "trait_type": "head",
+      "value": "none"
+    },
+    {
+      "trait_type": "neck",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "none"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdXVoBsApVf8TTo4xAnQSEXNCmeVSXrynnPh1TWKtxf6e/nft.PNG",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "",
+  "tokenId": 860,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #959",
+  "description": "2022/07/19/21:11\n\n今日はいつもよくしてくれてるPARDEYさんとWEB3空間でミーティングしたYO!\n近い将来WEB3の空間で沢山のゴロリアンが楽しめるスポットを制作してくれるみたいだYO!\nGORO教会が様々なメタバースに建てられていく未来を想像しながら乾杯！！！！！！！！！！！！",
+  "attributes": [
+    {
+      "value": "INSTAPUMP FURY 95",
+      "trait_type": "M"
+    },
+    {
+      "value": "newday",
+      "trait_type": "HC"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTFXVhz3LL2abpDzkcED2SvfogsYcEJpALXbmNjaZjw77/nft.jpg",
+  "tokenId": 18,
+  "description": "Bear NFT surfing in the sea",
+  "nftContractAddress": "0x9c89337c80abf33d7f27ccb7a700052f605abe86",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "bear"
+}

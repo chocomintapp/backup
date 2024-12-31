@@ -1,0 +1,16 @@
+{
+  "image": "https://bafybeigqbkvz6yljpvrvkcp3kiiwrgvqshryxq3x7jm3yxgmpmfvunpfte.ipfs.nftstorage.link/7.png",
+  "nftContractAddress": "0xd6905bc25e377050505182ef1b6a1ca5f32f251f",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "Living in the present is beautiful",
+  "description": "Today I met my art teacher by chance. We ate early dinner at the restaurant.  He, the restaurant owner and I had a lot of talk.  One of the topic we had was the owner’s son.  Facing a big exam, the son was stressed a lot. He was already imagining the failure he might get after the exam.  I hope he stops overthinking. He’s a good guy, and his life is too precious already to worry about the future.  Thinking about the future is ambitious,  but living in the present is beautiful.",
+  "attributes": [
+    {
+      "value": "Plants",
+      "trait_type": "Style"
+    }
+  ],
+  "minted": "✅"
+}

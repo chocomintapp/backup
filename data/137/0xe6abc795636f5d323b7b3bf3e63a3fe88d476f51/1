@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRibBuRNwKhpD566GxhFTbHBrajbUWPbJWbN9cgx7KHLB/nft.png",
+  "nftContractAddress": "0xe6abc795636f5d323b7b3bf3e63a3fe88d476f51",
+  "animationUrl": "https://ipfs.io/ipfs/QmfWZRrAaXgipqcbpKTwQy4pSoNyzDcGbDiSHLua52Ldkb/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "E-kan",
+  "description": "This is E.",
+  "attributes": [
+    {
+      "value": "mix",
+      "trait_type": "voice"
+    }
+  ]
+}

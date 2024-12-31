@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWCd3skF3afVKewZVyk6MnCJLUj5V8bSq56kZqBscihMb/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "LIVING MINERAL #9",
+  "description": "",
+  "attributes": [
+    {
+      "value": "ape",
+      "trait_type": "gene"
+    },
+    {
+      "value": "common",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "stone",
+      "trait_type": "material"
+    }
+  ]
+}

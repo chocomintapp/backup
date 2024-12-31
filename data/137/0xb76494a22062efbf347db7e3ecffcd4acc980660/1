@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbGenKDcmwcTvcfaigNYnCFDoeUFBhWSeZDE7FdHvgDhu/nft.png",
+  "nftContractAddress": "0xb76494a22062efbf347db7e3ecffcd4acc980660",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Smile Avery",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Avery",
+      "trait_type": "Character"
+    }
+  ]
+}

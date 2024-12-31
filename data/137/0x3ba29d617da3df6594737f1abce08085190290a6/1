@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdj7CbPVK5KtQ5XF2A2yA2UKY8RihWj5Xs7dmKMYcLfvr/nft.png",
+  "nftContractAddress": "0x3ba29d617da3df6594737f1abce08085190290a6",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "ZANBUYOU2023 -sponsor-",
+  "description": "古事記projectの舞台「演劇版斬舞踊」でスポンサードして下さった方の記念NFTです。本当にありがとうございました！",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

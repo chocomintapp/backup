@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcY5Ain4gJGBnYrvY4hG7X64UmpsTx3faX1Fs1aDfKqh6/nft.jpg",
+  "tokenId": 4,
+  "description": "By reading the QR code with your smartphone camera and holding it over this NFT, you can view the augmented reality (AR) model. \n\n3D+AR display on a smartphone browser\n\nThe QR code is a link to the IPFS 3D viewer.\nhttps://gateway.pinata.cloud/ipfs/QmQMVaUhnQT64M2ZzHCAKePK6pDyRK6DyDAQgqftFKDCmZ/polygon_mana_ar/\n\nThe artwork for this 3D model is based on Decentraland's Polygon version of mana, a virtual currency. for more information about Decentraland, please visit https://decentraland.org/",
+  "nftContractAddress": "0x9a5b20e07f1826d9202abe092f8dd45f89cc583f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Polygon MANA AR"
+}

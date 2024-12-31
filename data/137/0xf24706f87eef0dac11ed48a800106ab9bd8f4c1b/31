@@ -1,0 +1,60 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVoEjMk8GT9xwN9R4ejmRx7ZDieytEyREoNSjSMsLkSvn/nft.PNG",
+  "tokenId": 31,
+  "description": "\"Crypto Easy Cats\" is a collection of pixel \"easy\" cats. Each cat is one-of-a-kind and 100% owned by you. Take it \"easy\"!\n\nCrypto Easy Cats(クリプトイージーキャッツ)はおっとりしたドット絵の猫のコレクションです。ネコちゃんたちは一点物です。難しいことは忘れて、気楽にNFTに触れてほしい！という思いで製作しています。飼っているだけで心穏やかになるネコちゃんを見ていきませんか？",
+  "nftContractAddress": "0xf24706f87eef0dac11ed48a800106ab9bd8f4c1b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Easy Cats #31",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green tea"
+    },
+    {
+      "trait_type": "type",
+      "value": "silver tabby"
+    },
+    {
+      "trait_type": "fur",
+      "value": "silver"
+    },
+    {
+      "trait_type": "tabby",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "light green"
+    },
+    {
+      "trait_type": "ears",
+      "value": "light gray"
+    },
+    {
+      "trait_type": "nose",
+      "value": "brown"
+    },
+    {
+      "trait_type": "head",
+      "value": "none"
+    },
+    {
+      "trait_type": "neck",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "none"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    }
+  ],
+  "minted": "✅"
+}

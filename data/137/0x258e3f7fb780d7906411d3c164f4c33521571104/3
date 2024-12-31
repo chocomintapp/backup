@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZvjHDvtT7Fhpi2LaKQsNwZ4vBvqqWPVS5pg2UVf2yT7H/nft.png",
+  "nftContractAddress": "0x258e3f7fb780d7906411d3c164f4c33521571104",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "VeryLongDinosaurs #3",
+  "description": "Dinosaurs that have lived for a very long time since long ago.",
+  "attributes": [
+    {
+      "value": "Tyrannosaurus",
+      "trait_type": "Dinosaurs"
+    },
+    {
+      "value": "Grass",
+      "trait_type": "TYPE"
+    }
+  ]
+}

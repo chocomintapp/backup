@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme9TUuU8fr3CX8kzkRC8V8guZnsN2f3QmeZpnWPY24zZD/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "Day12 Nana's Art #35",
+  "description": "公園に行ったら滑り台は20回くらい滑らないと気が済みません。\n\nWhen I go to the park, I have to go down the slide about 20 times to feel better.",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

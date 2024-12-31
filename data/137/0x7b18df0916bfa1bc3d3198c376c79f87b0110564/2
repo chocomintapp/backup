@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPY89ahwfLZA6x5SHt9gzGbU2Na3v4TrD6QPHmwyGgS5U/nft.png",
+  "tokenId": 2,
+  "description": "This NFT is made for metaverse. \nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x7b18df0916bfa1bc3d3198c376c79f87b0110564",
+  "animationUrl": "https://ipfs.io/ipfs/QmWZ9Axk92ZPShPB5uGY8bapwpujWMse3rJuQWRpwwKexK/nft.png",
+  "chainId": "137",
+  "name": "#2 Yinyang Lattice Pattern (TP-White)",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "Lattice"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Pattern"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    }
+  ]
+}

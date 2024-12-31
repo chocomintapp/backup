@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdJMQ2DgvoM2UEQj16rydAdY8Z97aWiJBLa6SyyEfGuKL/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 59,
+  "chainId": "137",
+  "name": "最後の一撃を繰り出すえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "シュジンコウ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ニク",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "キャベツ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "冒険",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "イチゲキヒッサツ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

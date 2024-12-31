@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf2WAvhUSKsafmBpEmdusHny7YSSMMXMvwW4DGEcY1XbH/nft.png",
+  "nftContractAddress": "0x23eeb2192735b0dd7116e9332da17b6d83dae081",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "罵尻ロマ子様 × VeryLongAnimalBabies #1",
+  "description": "罵尻ロマ子様のファンアート作品",
+  "attributes": [
+    {
+      "value": "罵尻ロマ子様",
+      "trait_type": "Fan art"
+    }
+  ]
+}

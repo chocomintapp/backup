@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVx2p6ZRyvKS5Pam9Qm9N7nb3KEvz9CvJ8ScLBrQ1jkyz/nft.JPG",
+  "nftContractAddress": "0x4ea1de9b6e60809cb54c1b9a1b45f55751283f9e",
+  "animationUrl": "https://ipfs.io/ipfs/QmdeeRNZ3C3oWZv1kKnACtM6gPkt4T2uwA9pMuWH6nKNA4/nft.GIF",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Nagi",
+  "description": "",
+  "attributes": []
+}

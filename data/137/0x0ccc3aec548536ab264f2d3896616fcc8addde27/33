@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdinPmE8VfEqBz7PoDu8sCijTGQRGirJA4YVeHvgLYPWw/nft.png",
+  "tokenId": 33,
+  "description": "Special ediiton NFT for those who supported DAOLaunch during dApp Staking",
+  "nftContractAddress": "0x0ccc3aec548536ab264f2d3896616fcc8addde27",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "DAOPunks with Shiden Gold Coin #33",
+  "attributes": [],
+  "minted": "✅"
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUZyZsPcGJ3V3jK4WdC5AZiAErUNQoi6fENMDFpDytWWo/nft.png",
+  "nftContractAddress": "0x597091a4f61ef6e23162742c0112de87a529aefa",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "mido",
+  "description": "",
+  "attributes": [],
+  "minted": ""
+}

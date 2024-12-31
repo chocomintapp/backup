@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXqT8VDDPYq4m3bf7PC8f8w3ZzBppwUuWhPF93Kzv2Tyj/nft.png",
+  "tokenId": 14,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TYPE3 Chi-nu**  \nEnhanced armament of the Type 1 medium tank.\nIt was developed to compete with the M4 Sherman of the US Army.\n\nAs a result, the Type 3 medium tank was defeated without experiencing actual combat.\nOne of them is still on display at the Japan Ground Self-Defense Force Weapons School in Tsuchiura.\n\n**三式中戦車 チヌ**  \n終戦時に配備されていた最強の日本軍戦車です。\n米軍のM4シャーマンに対抗するべく一式中戦車の武装を強化し開発されました。\n\n結果的に実戦を経験する事無く敗戦を迎えた三式中戦車は\n2輌を残し解体され、その内の1輌は土浦の陸上自衛隊武器学校に\n現在も展示されています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0014 TYPE3 Chi-nu",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ],
+  "minted": "✅"
+}

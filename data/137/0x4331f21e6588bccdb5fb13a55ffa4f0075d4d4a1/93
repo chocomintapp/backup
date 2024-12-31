@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQLzUrauA7fRkaGNwHGuVNTxABz8mCHzFVr8ad4zbDzTY/nft.png",
+  "tokenId": 93,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**ZERO model 32**  \nThis is the first significant modification to the Zero fighter model 21.\n\nThe engine was replaced with the more powerful Sakae Niichi type, and the wingtips were boldly trimmed off. While this improved speed, dive and rollover performance, it also shortened the range due to the reduction of the fuel tanks.\n\nAmong the many Zero fighters in the series, this model has the most distinctive wing shape and is the most easily distinguished.\n\nThe fact that it could not handle operations that required a long range Although it was only produced in small numbers, it can be said to be an aircraft with a large presence.\n\n**零式艦上戦闘機 三二型**  \n零戦21型にはじめて大幅な改修を加えた機体です。  \nエンジンをより高出力（2速過給機付き）の栄ニ一型に換装し\n翼端を大胆に切り落としました。\n\nこれにより速度や急降下・横転性能などが向上した反面、燃料タンクの減少により航続距離が短くなりました。\n\n数ある零戦シリーズの中でも翼の形状が特徴的で、最も判別のしやすい型となっています。零戦とは別の機体と認識した連合国軍は、新たに「Hamp」というコードネームを付けています。\n\n長大な航続距離を必要とする作戦には対応出来なかったことから\n少数の生産に止まりましたが、存在感の大きな機体と言えます。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0093 ZERO model 32",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Fighter"
+    }
+  ]
+}

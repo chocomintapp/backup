@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbmq6ZSK2Mq7DM1G9rx68fn6wHRbYKgkp952cjLmBHwxA/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 66,
+  "chainId": "137",
+  "name": "#66",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#F6F1C3",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#8F0000",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "UMA",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Mothman",
+      "trait_type": "face"
+    },
+    {
+      "value": "None",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Antennae",
+      "trait_type": "special1"
+    },
+    {
+      "value": "Wings",
+      "trait_type": "special2"
+    }
+  ]
+}

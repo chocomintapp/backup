@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYm5U8pi2cYy5N9Cn9sMrpt69W2UqwqFo3b6wjWiUntTQ/nft.gif",
+  "tokenId": 24,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.\n\nゆーら、ゆーら。\nゆーら、ゆーら。\n彼女が興味津々に覗き込む境内には、何があるんでしょう？",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "御参り　-Omairi-",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Ohyamashiro Jinjya"
+    },
+    {
+      "trait_type": "MODEL",
+      "value": "DOUGA"
+    }
+  ]
+}

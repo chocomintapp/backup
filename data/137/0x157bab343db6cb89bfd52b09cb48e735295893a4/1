@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNVRwgsisW36sirjfyNpuZPdA9rx5ygAWsgUaNacGEe8v/nft.png",
+  "nftContractAddress": "0x157bab343db6cb89bfd52b09cb48e735295893a4",
+  "animationUrl": "https://ipfs.io/ipfs/QmWNF1pfheNJWZVhLqsAopw7tHTgqDQAnTAnJZDVcL9R7H/nft.glb",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "ANONYMOUS",
+  "description": "test",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

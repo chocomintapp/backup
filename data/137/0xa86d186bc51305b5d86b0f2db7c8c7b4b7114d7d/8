@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZE4wPLt8mjKPVb7AddGvuc392ZuWXezFW1hjxUfPr2ZJ/nft.gif",
+  "tokenId": 8,
+  "description": "testtest",
+  "nftContractAddress": "0xa86d186bc51305b5d86b0f2db7c8c7b4b7114d7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmTjsUkTkoGDNeKYipqZmVoUJX8SkJyJ2xKM8B7WeEYear/nft.mp4",
+  "chainId": "137",
+  "name": "test",
+  "attributes": [
+    {
+      "trait_type": "headgear",
+      "value": "crown"
+    },
+    {
+      "trait_type": "body",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eye",
+      "value": "red 1%"
+    }
+  ]
+}

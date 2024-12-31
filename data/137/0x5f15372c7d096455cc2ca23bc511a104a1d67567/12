@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSApYo3fak1dGvi6sbsAw45Vi36zctqDVU5Ms4d3SfEMg/nft.gif",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmSApYo3fak1dGvi6sbsAw45Vi36zctqDVU5Ms4d3SfEMg/nft.gif",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "Rabbit girl #8 『ClyingGirl』",
+  "description": "Rabbit girl #8『ClyingGirl』\n\nRabbit Girls will bring happiness to you. Did something bad happen? Or did you have something happy about? It's okay, I'll always be by your side. Please laugh. Your smile is a treasure. Let's move on together!",
+  "attributes": [
+    {
+      "value": "ClyingGirl",
+      "trait_type": "Character"
+    },
+    {
+      "value": "GIF",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

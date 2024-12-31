@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTKBJmtE5R7NfgBNLxUpvvUcPr1iGFz8kBXxTezubZ7Yh/nft.png",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmXRwgExS2U9MieHqsykx4RfiUeektALhytMDWuDRPaPag/nft.glb",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "Chickbit #19",
+  "description": "",
+  "attributes": [
+    {
+      "value": "common",
+      "trait_type": "rarity"
+    }
+  ]
+}

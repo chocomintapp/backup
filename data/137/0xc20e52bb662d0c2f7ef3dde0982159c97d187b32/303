@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdW9ZoXivBdbSH1eN2itpvmMud88ST7XuSpEi4TbrkMWJ/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 303,
+  "chainId": "137",
+  "name": "#303",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#818181",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#C1C900",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Polluted nation",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Half face gas mask/Dual filter",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Poison gas",
+      "trait_type": "main damage"
+    }
+  ]
+}

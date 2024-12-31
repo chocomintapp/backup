@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZtHEiieJTw9F2x8KuP8v6bvQ74iFd8J6tCfDnCgBLwTn/nft.png",
+  "tokenId": 52,
+  "description": "Calligraphy Devil #52",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #52",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Purah"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Decarabia"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Wrath"
+    }
+  ]
+}

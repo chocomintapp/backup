@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeW1bK7yPUDeEpMKpwRf8oYAqNFns9symXaY4Pr79P7cE/nft.png",
+  "nftContractAddress": "0x7385708ad33302aa8e29355d23a2ca7706a72e53",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "Cute Bear",
+  "description": "Big bear in sweet room.",
+  "attributes": [],
+  "minted": ""
+}

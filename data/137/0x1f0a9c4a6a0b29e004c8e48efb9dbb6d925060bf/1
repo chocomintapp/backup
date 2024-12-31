@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZNWzmafr6qc7RJYzmLX2D5QU121K1yMwa4q1Vwd51uWR/nft.jpeg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x1f0a9c4a6a0b29e004c8e48efb9dbb6d925060bf",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Noriyugi Test",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

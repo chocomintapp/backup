@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSEnX3LB5RDzcJqWcPC5xW9SHXworLHM3f2zRcQMpavcQ/nft.jpg",
+  "nftContractAddress": "0x884c116f191eff93d67c43b7a62be5da2c1b8a48",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #89",
+  "description": "VeryLongAnimals #89の二次創作です！",
+  "attributes": [
+    {
+      "value": "Caterpillar",
+      "trait_type": "type"
+    }
+  ]
+}

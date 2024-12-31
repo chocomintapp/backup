@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXwpmyD6xBS2CCojFzTuVzFGhbgoES7BHJvpef6BLqK68/nft.png",
+  "nftContractAddress": "0xa293547ee7dfa4e5715d80ddf58cb240143d6b6d",
+  "animationUrl": "https://ipfs.io/ipfs/QmWNF1pfheNJWZVhLqsAopw7tHTgqDQAnTAnJZDVcL9R7H/nft.glb",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "ANONYMOUS YE",
+  "description": "",
+  "attributes": [],
+  "minted": ""
+}

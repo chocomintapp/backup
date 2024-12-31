@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma8WnBLcmsaHVghy7smMPPdgurD57yEJdUsqJaCQJNVxt/nft.png",
+  "tokenId": 1,
+  "description": "daolaunchのロゴ",
+  "nftContractAddress": "0x4e669290c5208a4f185c3e14a09901f755383977",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "daologo",
+  "attributes": [],
+  "minted": ""
+}

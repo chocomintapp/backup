@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUvM4Yx8TCAjMxrq43XEHDMjd1y6poVejLj8BXDtMRnNx/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 232,
+  "chainId": "137",
+  "name": "#232",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#FFD3BC",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#494949",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Skull in the back alley",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

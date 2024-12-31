@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbLgV7rPkwMdCbkw72apwH14X9SskqbfbABimgxFgyPBe/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmbLgV7rPkwMdCbkw72apwH14X9SskqbfbABimgxFgyPBe/nft.gif",
+  "tokenId": 83,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #83",
+  "description": "ベビロン二次創作",
+  "attributes": [
+    {
+      "value": "Zebra",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

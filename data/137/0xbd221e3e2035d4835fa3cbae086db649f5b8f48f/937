@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSPMsY6tbiSEy7JZL5Jm4ugmjrrdGESML3Wjxf1c5Noco/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmSPMsY6tbiSEy7JZL5Jm4ugmjrrdGESML3Wjxf1c5Noco/nft.mp4",
+  "tokenId": 937,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1037",
+  "description": "すぐに到達をする高天原\nその時はゴロリアン　一緒だから\nだらだら　ふらふら日々ＭＡＫＥマネー\nボアードエイプでダラダラビルＹＯＯＯ！",
+  "attributes": [
+    {
+      "value": "Bike Air Zoom Generation",
+      "trait_type": "M"
+    },
+    {
+      "value": "Bputo",
+      "trait_type": "押韻職人"
+    },
+    {
+      "value": "2023",
+      "trait_type": "DAY"
+    }
+  ]
+}

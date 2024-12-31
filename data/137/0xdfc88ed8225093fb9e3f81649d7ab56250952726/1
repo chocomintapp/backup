@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTckY4KeAFTjN81BDv8xDeehtWV6woQnXXicKqxEKmyiM/nft.jpeg",
+  "tokenId": 1,
+  "description": "kuso",
+  "nftContractAddress": "0xdfc88ed8225093fb9e3f81649d7ab56250952726",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "scam_kusoyaro",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "SCAM"
+    },
+    {
+      "trait_type": "Optional",
+      "value": "MEGANE"
+    },
+    {
+      "trait_type": "Optional",
+      "value": "PUMA"
+    }
+  ]
+}

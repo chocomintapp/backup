@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdG1NivpEQ8ubSVSk1tevN8qCPE8YCywPUJu5BFfzThQZ/nft.png",
+  "tokenId": 13,
+  "description": "Tuna is the most popular ingredient in sushi. Tuna can be divided into two types, lean tuna and fatty tuna, and fatty tuna is especially popular. A piece of natural tuna (from Japan) can cost over 2,000 yen.\n~ in store limited\n\n鮨と言えばマグロ。マグロは赤身とトロに分かれるが、とりわけトロは人気が高い。天然の本マグロ（国産）のトロは一貫2000円以上の高級品である。\n~来店記念版",
+  "nftContractAddress": "0xa1faf1d1c20e3dad2d2342959ed72bfd5deff7ca",
+  "animationUrl": "https://ipfs.io/ipfs/Qmet8pfxq13kWnS2Tcu2esc4K34npFKhTGXiV4qQ1fAmMU/nft.mp4",
+  "chainId": "137",
+  "name": "トロ - Toro【Fatty Tuna】- in store limited"
+}

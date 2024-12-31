@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYZ11dGKskkVieDaGWdno2kW5P634txsTjEPX8qBR3osa/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmdQ7AXh3yjrfb6k5R4NeLiTikTEwcWFEQdGrDwe42NCKc/nft.glb",
+  "chainId": "137",
+  "name": "Chickbit #1",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "uncommon"
+    }
+  ]
+}

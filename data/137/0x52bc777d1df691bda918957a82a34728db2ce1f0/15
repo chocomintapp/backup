@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ8US5tnHypCoxXjAt9i9WexFrN253f8fkCiqJpRn12JA/nft.jpeg",
+  "tokenId": 15,
+  "description": "Calligraphy Devil #15",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #15",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "God"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Odin"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Morax"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sloth"
+    }
+  ],
+  "minted": "✅"
+}

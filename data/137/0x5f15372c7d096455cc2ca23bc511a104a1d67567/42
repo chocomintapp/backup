@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmddz6ZRpvNdcaeo1ERZNHpfU5r5U1Ltd2GWfkqGCf81yK/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/Qmddz6ZRpvNdcaeo1ERZNHpfU5r5U1Ltd2GWfkqGCf81yK/nft.png",
+  "tokenId": 42,
+  "chainId": "137",
+  "name": "Rabbit girl #20 『Lycoris』",
+  "description": "Rabbit girl #20 『Lycoris』\n\nFlora's power to give magical flowers gave birth to a flower witch.\n\nLycoris wishes to be reunited with his close friends. She looks mysterious and beautiful, but sometimes poison is mixed in her words. She always cherishes gifts from her best friend.",
+  "attributes": [
+    {
+      "value": "Lycoris",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "Flower",
+      "trait_type": "Series"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSxj35vG7SKxwr1hAdiXgqjFmh67Y7CvoU73rXgwKGEt9/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "ANIM × VeryLongAnimals",
+  "description": "The collaboration with [ANIM](https://www.anim.jp/), the NFT project from Japan. Created by VLAB and [AkimuneKawa](https://opensea.io/AkimuneKawa).",
+  "attributes": [
+    {
+      "value": "ANIM Cat",
+      "trait_type": "TYPE"
+    }
+  ]
+}

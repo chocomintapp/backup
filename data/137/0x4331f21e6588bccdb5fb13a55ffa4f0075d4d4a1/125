@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma31HocNR8Aj39uqpvZ4UwA9ixooyUCgBSUK99T4o8ma2/nft.png",
+  "tokenId": 125,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**NASHORN**  \nIt is the vehicle that reigns supreme in open-top anti-tank self-propelled artillery.\n\nIts defense was a maximum of 30 mm, the front of the fighting compartment was as thin as 10 mm, and it did not even have a roof.\n\nHowever, it was equipped with the 88mm PaK 43/1, which had unusually high offensive power and could destroy all Allied tanks.\n\nAlthough it was an extreme weapon with extremely high offensive power and no defensive power, it played an active role in the Eastern Front where visibility was open.\n\n**ナースホルン 対戦車自走砲**  \nオープントップ式対戦車自走砲の頂点に君臨する車輛です。\n\n防御力は最大30mm、戦闘室前面は10mmという薄さで屋根すらありませんでしたが、攻撃力は異常な程高い88mm PaK 43/1を搭載し、全ての連合軍戦車を撃破可能でした。\n\n攻撃力100、防御力0の大胆な兵器でしたが、視界の開けた東部戦線で活躍しました。\n",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0125 NASHORN",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

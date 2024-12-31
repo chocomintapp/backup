@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb1MvZtjDUet21xDXoW1qJdAs55bgdZ4WKzbBTqVxf8TL/nft.png",
+  "tokenId": 1,
+  "description": "teeest",
+  "nftContractAddress": "0x1279f5f2bfa58a513bf6631fe9a2f7bb9b04d676",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Test"
+}

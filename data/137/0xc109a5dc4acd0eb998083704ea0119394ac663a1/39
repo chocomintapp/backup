@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU8f4uh853d7NTnEyFG2cpqJ9ZyA2TZLArAWYf2nGMqCM/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "137",
+  "name": "#39",
+  "description": "skull",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Skull",
+      "trait_type": "RACE"
+    }
+  ]
+}

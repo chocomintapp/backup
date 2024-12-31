@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV6G6JyU24oBD8PYyuf3xyBsaQUjBs4BNvQMNn5Y2gWcC/nft.png",
+  "tokenId": 21,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**GRAF ZEPPELIN 1942**  \nThis is an unfinished aircraft carrier that was being built by the German Navy.  \nWhile referring to the Imperial Japanese Navy's Akagi and British aircraft carriers, it also incorporated new innovations typical of the German military, such as the practical use of catapults.\n\nThe completion rate reached 90%, but due to the worsening of the war situation In 1943, it was officially decided to stop the construction.  \nAfter that, the ship was moored along the Baltic coast.\nShe was sunk by the Germans who feared that the Soviet Union would take her away from them.\n\n**空母グラーフ・ツェッペリン**  \nドイツ海軍が建造していた幻の正規空母です。日本海軍の「赤城」や英空母を参考にしつつもカタパルトの実用化など、ドイツ軍らしい新機軸を盛り込んでいました。\n\n戦線の拡大で長期間建造が中断されたりと、戦局に翻弄されつつも完成率90%までこぎつけましたが、1943年に建造の中止が正式に決定されました。\n\nその後はバルト海沿岸に係留されていましたが侵攻して来たソ連軍の接収を恐れ自沈しました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0021 GRAF ZEPPELIN 1942",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Aircraft carrier"
+    }
+  ],
+  "minted": "✅"
+}

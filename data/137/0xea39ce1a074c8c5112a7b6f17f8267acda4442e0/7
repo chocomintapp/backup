@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma8aEsrXUnLiZapYUjKdV6BgJkCjPyFJvFsQMeb46djoJ/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "TANU-KIDS #006",
+  "description": "Rapperに変身したTANU-KIDS\n\nカリスマラッパー目指して頑張ります\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Rapper",
+      "trait_type": "Sports"
+    }
+  ]
+}

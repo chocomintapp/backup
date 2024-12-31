@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWvvZpb884wrKbTsepaywsukQXJmV7ze3HY4iqodxWHPo/nft.png",
+  "nftContractAddress": "0x93ba33ad976f52427b631dfd2ce81ff269041adc",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Hiyoko AI",
+  "description": "pfp collection of near realistic images created by AI",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "1 of 1"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV4vs8cvK9ZEkLqXU3an7iw5ctJYpMGB7XY2pvnkLdcv3/nft.jpg",
+  "nftContractAddress": "0x15423960cfd2c1c0c38c6b962738d537306bcb6d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Gateway",
+  "description": "-",
+  "attributes": []
+}

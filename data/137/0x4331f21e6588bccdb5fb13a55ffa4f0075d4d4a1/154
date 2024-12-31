@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaUMCqXFA6H3Z9qaZW9LhjbZVwEqdLmsPuTWLXCPqiUwB/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 154,
+  "chainId": "137",
+  "name": "WMM #0154 FURUTAKA 1934",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**FURUTAKA 1934**  \nThis silhouette is Heavy cruiser Furutaka in 1934.  \nIt is the first of the Furutaka class heavy cruisers.\n\nIt was built with the concept of a cruiser superior to the 5500-ton Sendai class cruiser.\n\nShe surprised the powers that be by having six 20cm guns mounted on her 8,000-ton hull, taking advantage of the know-how gained from the experimental ship Yubari.\n\nAfter a major refit, she took up the challenge of the Pacific War, and in the First Battle of the Solomons, she sank (jointly) four enemy heavy cruisers, a great feat for such an old ship.\n\nIn the Battle of Savo Island that started accidentally She sank as a shield of the flagship \"Aoba\" which was heavily damaged.\n\n**重巡洋艦 古鷹 1934**  \n古鷹型重巡洋艦の1番艦です。  \n5500トン型の川内型巡洋艦を凌駕する巡洋艦をコンセプトに建造されました。\n\n実験艦「夕張」のノウハウを随所に生かし、8000トン級の船体に20cm砲を6門も搭載した事で列強諸国を驚かせ、結果的に「重巡洋艦」というカテゴリーが生まれました。\n\n大改装の後に太平洋戦争に挑み、第一次ソロモン海戦では敵重巡洋艦4隻を撃沈（共同）するという、老齢艦とは思えない大活躍をしています。\n\n偶発的に始まったサボ島沖海戦で大破した旗艦「青葉」の盾となって沈みました。\n\nこのNFTは1934年頃の古鷹のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Heavy cruiser",
+      "trait_type": "Ship"
+    }
+  ]
+}

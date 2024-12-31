@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWjRdekggUd3ozKbA7LHuhRUK8pxxdhUfFiMXPAZdyAXq/nft.png",
+  "nftContractAddress": "0x63750abba09ec9699536753e9f5d8172db111457",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "PachiMon #00026",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Venom",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Mad",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spot",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Earring",
+      "trait_type": "Accessory"
+    }
+  ]
+}

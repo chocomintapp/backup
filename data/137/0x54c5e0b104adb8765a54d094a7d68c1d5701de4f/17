@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaMW1gGZbE2t7mhDU6UEw7qQEajHKDx3gY1h7P81rxH41/nft.png",
+  "nftContractAddress": "0x54c5e0b104adb8765a54d094a7d68c1d5701de4f",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "#5 - 1",
+  "description": "This icon was created from a comic.",
+  "attributes": [
+    {
+      "value": "Cattleya",
+      "trait_type": "Cast"
+    },
+    {
+      "value": "5",
+      "trait_type": "ComicID"
+    }
+  ],
+  "minted": "✅"
+}

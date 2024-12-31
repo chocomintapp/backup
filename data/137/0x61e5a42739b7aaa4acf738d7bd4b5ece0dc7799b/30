@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaSPaiZ53SCGRPpuqopbfmMAvBWbq2LcfTrNq4X9xEyPK/nft.png",
+  "tokenId": 30,
+  "description": "Creator [CATHATS](https://opensea.io/CATHATS?tab=created_collections)\n\nおみくじの結果は \"大吉\" でした！  \n未来永劫いいことあるでしょう！",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "大吉 #6",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "大吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "CATHATS"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

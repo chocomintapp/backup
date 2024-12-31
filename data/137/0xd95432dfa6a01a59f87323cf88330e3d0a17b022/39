@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUDCPMNEwP4zm9is39JfJqGRvWDP4a12EHLZokNiTJkmN/nft.jpg",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "137",
+  "name": "大吉 UP #39",
+  "description": "彼はいつも\"上”を目指しています。そのため”上”をかぶっています。 \n\nHe is always aiming \"up\". That's why he wears the \"top\".\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープ official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection\n\n\n",
+  "attributes": [
+    {
+      "value": "up",
+      "trait_type": "specilal item"
+    }
+  ]
+}

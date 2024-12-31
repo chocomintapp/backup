@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeA1jpugewB7MjEcvoXZXkfAZxdmKeS61KKWN3PjXGLuz/nft.png",
+  "tokenId": 7,
+  "description": "\"americansan\" is a soft serve ice cream of blue hawaii.",
+  "nftContractAddress": "0xe5bef7ef6c3de48a853c76477466cbd4a839762c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sofnchosan pixel art collection #7 \"americansan\"",
+  "attributes": [
+    {
+      "trait_type": "taste",
+      "value": "blue hawaii"
+    }
+  ]
+}

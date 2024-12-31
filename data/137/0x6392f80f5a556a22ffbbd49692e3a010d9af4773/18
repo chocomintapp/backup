@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc4BMVrQ28afKWYZhrEM6iNuTyWrD61K7Dq9apKKHrDfw/nft.png",
+  "tokenId": 18,
+  "description": "ColorCircle(CC) visualizes the concept of \"Circular Diversity\", and contains a strong wish for respect of diversity through color harmony.\n\nThis CC's name is \"Crypyan Cycle\" which is an anime frame of \"Swim in The Crypto World\". \n\nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x6392f80f5a556a22ffbbd49692e3a010d9af4773",
+  "animationUrl": "https://ipfs.io/ipfs/QmRKLzpuhJLaLezBvjTPP1dZ5ZwHP6NXgvrm7XAxPfV1Yi/nft.png",
+  "chainId": "137",
+  "name": "CC #4-7 \"Crypyan Cycle\"",
+  "attributes": [
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "CC"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "Crypyan",
+      "value": "4"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYzKgtc8BmrBtLxDGegkouKwS7mWJpadAS6jxr8afKw2Z/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 77,
+  "chainId": "137",
+  "name": "VeryLongAnimals #77",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Buzzard",
+      "trait_type": "TYPE"
+    }
+  ]
+}

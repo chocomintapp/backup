@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWWFB7ZeqeLJ8Zv6aPWRW1d1MKwAoN1hNApScJJrS9NgN/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "137",
+  "name": "#29",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#68C36E",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#391559",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "12 ecliptical constellations",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Capricornus",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ],
+  "minted": "✅"
+}

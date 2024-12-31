@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQkqLRJri1zZr8TRmfYpQE9Qj83PDjtD5NbDmHpoUuskm/nft.jpg",
+  "tokenId": 14,
+  "description": "カキフライにしたけりゃ俺を倒してみな\n\nYou want fried oysters, you're gonna have to beat me.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Fighting Oysters",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Oyster"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

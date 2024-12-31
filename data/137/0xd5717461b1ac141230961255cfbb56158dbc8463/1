@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbazszv7XMVoBnBgNQmf6PiS1wgXhUDmjgN3TwCRzBc49/nft.png",
+  "tokenId": 1,
+  "description": "dotto",
+  "nftContractAddress": "0xd5717461b1ac141230961255cfbb56158dbc8463",
+  "animationUrl": "https://ipfs.io/ipfs/QmSAS7qR42jQiESeYv8NkSSrxWG3oNQK3NA8EFXW6KsMgX/nft.gltf",
+  "chainId": "137",
+  "name": "mutoma+",
+  "attributes": [
+    {
+      "trait_type": "3D",
+      "value": "0.01"
+    }
+  ]
+}

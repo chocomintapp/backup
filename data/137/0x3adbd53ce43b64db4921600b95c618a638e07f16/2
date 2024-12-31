@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmckLpjrY7ebeScu261mu6oxFvig58kK2Lri57Sm2RBpue/nft.png",
+  "nftContractAddress": "0x3adbd53ce43b64db4921600b95c618a638e07f16",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Pumpkin",
+  "description": "",
+  "attributes": [
+    {
+      "value": "パンプキン",
+      "trait_type": "MATERIAL"
+    },
+    {
+      "value": "コウモリ",
+      "trait_type": "PET"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaiopZ2PWy5YBB9bfWNBsAGcLLezyoLPPm5yaCMjfjz4B/nft.png",
+  "nftContractAddress": "0xb650c2df74b9f0794dce25dc02b616d6f6f7fea7",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "\"SchemeRetina #02\" Benefit",
+  "description": "\"SchemeRetina #02\" BONUS SD character\nhttps://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/93311512414702182597853723530675228629417325497732934377649546966347584372737/",
+  "attributes": [
+    {
+      "value": "Limited",
+      "trait_type": "RARITY"
+    }
+  ]
+}

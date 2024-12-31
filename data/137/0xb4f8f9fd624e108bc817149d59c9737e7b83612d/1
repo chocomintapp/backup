@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYWZJwbHmM7Af2eRT8XUz4wuaG6BCZVrTxwAaHerHaoxp/nft.JPG",
+  "nftContractAddress": "0xb4f8f9fd624e108bc817149d59c9737e7b83612d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "SAKE 1",
+  "description": "A Cup of Sake in Japan",
+  "attributes": []
+}

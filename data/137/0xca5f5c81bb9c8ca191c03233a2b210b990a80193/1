@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPtL2GwBxEJoBPJvnFy5wdfwnEwnESNS4kidirwJBQ1cp/nft.jpeg",
+  "nftContractAddress": "0xca5f5c81bb9c8ca191c03233a2b210b990a80193",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #28 -Ryo Kamata Ver.-",
+  "description": "VeryLongAnimals #28の二次創作LooseVeryLongAnimals #28のWeb3 support  Ver. です！\n提供先 Ryo Kamata さん",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "horse",
+      "trait_type": "type"
+    }
+  ]
+}

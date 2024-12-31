@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXkeTe4pEGBaGcjL2fRfzn59Gyqq2CmvbPe6aPesBjoWf/nft.png",
+  "nftContractAddress": "0xb0cda73c36260744dbb84a7e1afc8d4c816b353e",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "VeryPongAnimals #b49",
+  "description": "It all started with \"PONG\".",
+  "attributes": [
+    {
+      "value": "Dolphin",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Baby",
+      "trait_type": "Series"
+    }
+  ]
+}

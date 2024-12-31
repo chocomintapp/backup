@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTUYreTe3H4phGaWzWnPdT7CcVMcnkPS6LQc5Zr5FZf3p/nft.png",
+  "tokenId": 15,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n4月1日\n\n昨日届いた「ねじねじドーナツに選ばれたあなたへ」という件名のメールの差出人は、3月に熱戦を繰り広げたあのMr.Oでした。彼は、部長よりも前にねじねじドーナツとの日々を経験したことがあり、部長が思うには…この世界でのドーナツにまつわる法則や役割を熟知している数少ない人物なのでした。今週末にMr.Oと会って話をする約束をとりつけた部長。今日は、4月の新しいスタートに合わせて、新しいメガネに変えてみることにしました。メガネが変われば、見える世界も少しだけ変わるのかもしれない…と、自分の周りで起きている不思議な出来事に真正面から向き合おうと覚悟を決めた部長なのでした。\n\nApril 1\n\nThe sender of the e-mail I received yesterday with the subject line \"To the person who was chosen by Screwy Donut\" was that Mr.O who had a heated battle with Screwy Donut back in March. He was one of the few people in this world who knew the laws and roles of donuts. He made an appointment to meet and talk with Mr. O this weekend. Today, he decided to try on a new pair of glasses to coincide with the new start of April. He was ready to face the strange events that were happening around him head on, thinking that if his glasses changed, maybe the world he could see would change a little.",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #090 Apr.1",
+  "attributes": [
+    {
+      "trait_type": "CAP",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "CLASSIC GRASSES",
+      "value": "甘輪眼鏡店"
+    },
+    {
+      "trait_type": "HOODIE",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "MASK",
+      "value": "Green"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Black"
+    }
+  ]
+}

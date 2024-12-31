@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTgZjLpKfACwkcocyNptUQbzKGfAG1DDsqsSvZckuwPn7/nft.png",
+  "tokenId": 8,
+  "description": "こう見えて恥ずかしがり屋なんだ。\n\nI'm shy in spite of my appearance.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Unassuming Gorilla",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Gorilla"
+    }
+  ]
+}

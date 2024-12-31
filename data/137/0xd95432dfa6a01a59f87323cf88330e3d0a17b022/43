@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdDJLqxpzXq7dgR2kezTT5nCTAxRvsjfEa9HGNPu9AGvG/nft.jpg",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "137",
+  "name": "大吉 Umeboshi #43",
+  "description": "梅干しだよ〜ん。笑\n\nIt's Umeboshi.hahaha\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープル official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection\n\n\n\n",
+  "attributes": [
+    {
+      "value": "Umeboshi",
+      "trait_type": "Special Item"
+    }
+  ]
+}

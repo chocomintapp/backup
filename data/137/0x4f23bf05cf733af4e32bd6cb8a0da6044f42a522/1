@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZzaC8vdFxiPTDqwHEwisH82FBRs3zcHJNK6c9EEUeXoH/nft.jpg",
+  "nftContractAddress": "0x4f23bf05cf733af4e32bd6cb8a0da6044f42a522",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "The Girl With The Pearl Earring",
+  "description": "The Girl With The Pearl Earring by Johannes Vermeer",
+  "attributes": []
+}

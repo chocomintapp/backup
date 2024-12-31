@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVqzqkAyaS5PTnhWTkkTNoUT5B4rfeyX6723ESVn11wGy/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 50,
+  "chainId": "137",
+  "name": "#0048_Bright Turquoise",
+  "description": "#0048_Tanshiki_GCc_Bright Turquoise",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Bright Turquoise",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Bright Turquoise",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Bright Turquoise",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ],
+  "minted": "✅"
+}

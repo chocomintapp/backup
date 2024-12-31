@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeoWS7kdA35MDf2W7fAMDfgLSRsEGtms6kv5RLT9orX2j/nft.png",
+  "nftContractAddress": "0xcf283077dc54458ea22edb5b12c6516b8258364b",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "Seep [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nSeep\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR EVO]",
+  "attributes": [
+    {
+      "value": "Fairy",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "White",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Close",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Black",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Horn",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Cosmos",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "EVO",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

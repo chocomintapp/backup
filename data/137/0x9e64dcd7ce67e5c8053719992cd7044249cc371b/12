@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme9KP3D8zYbmDySpqieDusQfxRJJef8z7DHJGBxrozQYF/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "PancakePay × VeryLongAnimals",
+  "description": "The collaboration with PancakePay. Created by VLAB and AkimuneKawa.",
+  "attributes": [
+    {
+      "value": "Pancake Cat",
+      "trait_type": "TYPE"
+    }
+  ]
+}

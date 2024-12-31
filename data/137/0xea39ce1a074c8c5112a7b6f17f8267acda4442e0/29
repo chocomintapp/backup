@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWN1pkLNqJc15PWYDok2GnoDTbsUsEnWGxhEWkkHbfK3A/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "137",
+  "name": "TANU-KIDS #028",
+  "description": "料理人に変身したTANU-KIDS \n\n大好きなお肉と果物を使って料理します",
+  "attributes": [
+    {
+      "value": "Cock",
+      "trait_type": "Occupation"
+    }
+  ],
+  "minted": "✅"
+}

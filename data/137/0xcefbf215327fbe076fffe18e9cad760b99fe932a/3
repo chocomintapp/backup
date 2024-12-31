@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNo6MGXaUtR3HYHTpLDRqfCdTS3HudeHnYdmPP8ZrgG6g/nft.jpg",
+  "tokenId": 3,
+  "description": "3/101  \nTaken on Dec 11, 2011  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #3",
+  "attributes": [
+    {
+      "trait_type": "weather",
+      "value": "clear"
+    }
+  ],
+  "minted": "✅"
+}

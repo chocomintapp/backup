@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWu9wXUGyHZp9NCkJh1gc8NUoRj3tTNpf3QfZa26gRG7o/nft.png",
+  "tokenId": 53,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #53",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Sea Urchin"
+    }
+  ]
+}

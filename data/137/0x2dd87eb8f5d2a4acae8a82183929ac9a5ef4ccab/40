@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfAfWwK9Wgr7XNDGpercxVACrHdL6zHA3T15J49K2EQgv/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #155 June.5",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n6月5日\n\n部長の異動先は「トークン開発室」という新設の部署でした。その部署では、不思議な石からランダムに生成される「木の実トークン」の開発とトークンの有効な使用方法を社会インフラとして実装することを目的としていました。\n\n部署のメンバーへの挨拶を済ませて、前任者からの引き継ぎを終えた、その夜のこと。部長は、異動を労うパーティへと参加しています。主催者は「狐」と名乗る人物であり、かつて部長に「X-Potion」という薬を送り届け、「機械の耳」を開発した人物と同じ名前でした。これは…偶然なのか？と不思議に思う部長でしたが、このパーティでようやく対面できることを、心待ちにしていたのです。\n\nパーティが始まって早々に「主催者の挨拶」により乾杯…となるところ、壇上のテーブルにはスピーカーに繋がれたレコードプレイヤーだけが置かれています。レコードはクルクルと回りはじめ、「部長、ようこそお越しくださいました。主催者の狐と申します。」という音声が、マイクから流れています。\n\n狐博士は、一体どこに…？部長は、彼の姿形が机の上のレコードであることを、まだ知る由もありません。「ハートの女王」というワインを堪能する部長なのでした。\n\n\n--------\n\nJune 5\n\nHe was transferred to a newly established department called the \"Token Development Office. The department's objective was to develop \"nut tokens,\" randomly generated from mysterious stones, and to implement effective usage of the tokens as social infrastructure.\n\nIt was that night when he had finished greeting the members of his department and taking over from his predecessor. He attends a party to celebrate the transfer. The host of the party was a person calling himself \"Fox,\" the same name as the person who once sent him a drug called \"X-Potion\" and developed \"machine ears. Is this... a coincidence? He wondered, but he was looking forward to finally meeting him at this party.\n\nAs the party was about to begin with a toast by the organizer, there was only a record player connected to a speaker on the table above the stage. The record player began to spin around and around, and then he said, \"Mr. Director, welcome to the party. I am the organizer, Mr. Fox. The microphone is blaring, \"My name is Dr. Fox, the organizer of this event.",
+  "attributes": [
+    {
+      "value": "Barefoot",
+      "trait_type": "FOOT"
+    },
+    {
+      "value": "Black",
+      "trait_type": "HOODIE"
+    },
+    {
+      "value": "Wine glass from queen of hearts",
+      "trait_type": "ITEM1"
+    },
+    {
+      "value": "Phonograph record",
+      "trait_type": "ITEM2"
+    },
+    {
+      "value": "Black",
+      "trait_type": "NEWSBOY CAP"
+    },
+    {
+      "value": "White",
+      "trait_type": "SHORT PANTS"
+    },
+    {
+      "value": "White",
+      "trait_type": "T-SHIRT"
+    }
+  ]
+}

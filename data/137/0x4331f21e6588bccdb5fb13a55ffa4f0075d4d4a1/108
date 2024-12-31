@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdxju6obDSdy4TUS7wcPH5JTfEhfWF4gQarz2Wx1rm1VV/nft.png",
+  "tokenId": 108,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**FIREFLY**  \nThe American-born Sherman V (M4A1) is equipped with an excellent British-made 17-pound anti-tank gun, which greatly improved its offensive capability.\n\nAs one of the few tanks that could compete with the Tiger I, it was active after the Normandy landings. Its defensive capability itself remained the same as that of the Sherman.\n\nTiger I of Michael Wittmann, the king of tank destroyers. It is also known for burying the\n\n**シャーマンVC ファイアフライ**  \nアメリカ産まれのシャーマンV（M4A1）にイギリス製の優秀な17ポンド対戦車砲を搭載し、攻撃力が格段に向上した車輛です。\n\nティーガーIに対抗できる数少ない戦車として、ノルマンディー上陸作戦以降活躍しました。防御力そのものはシャーマンのままでした。\n\n戦車撃破王ミハエル・ヴィットマンのティーガーIを葬った事でも知られています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0108 FIREFLY",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "UK"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSVafaEeW2ZTnRVf48f3cHzXFA6QKoLXvzUkSnDmMdV4X/nft.png",
+  "tokenId": 30,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.\nIn particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.\n\n\nここは、国宝神魂神社。\n\nその神魂神社の入り口の鳥居の下にゴロリと横になるねこが1匹。\n\nとても気持ち良さそうに寝ています。",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "昼寝 -Hirune-",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Kamos Jinjya"
+    },
+    {
+      "trait_type": "Model",
+      "value": "SENBYO"
+    }
+  ]
+}

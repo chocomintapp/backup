@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ29k8BnYFZLKaGHD9e48SwhnuNHCGqHMD9HYDXrwuiaT/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "PPP #028",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Backgroung"
+    },
+    {
+      "value": "Mullet GY",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Suit GY",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Earrings RD",
+      "trait_type": "Accessories"
+    }
+  ]
+}

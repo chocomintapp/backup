@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbZNzaSngYuWvhcKEAEjD3CNVtYwpE7s6Exfnta1oDyii/nft.png",
+  "tokenId": 56,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**FUSO 1944**  \nThis silhouette is battleship FUSO in 1944.\n\nIt was the first Super Dreadnoughts battleship in the Imperial Japanese Navy.\n\nIn the Pacific War, it was not treated as a main ship due to its slow speed and lack of defense, but at the time of its completion, it boasted the world's largest and highest class of attack power and speed.\n\nAfter the refit, the tower-like bridge (50m high!) is very impressive and has many core fans.\n\n**戦艦 扶桑 1944**  \n日本初の超ド級戦艦です。\n太平洋戦争では鈍足・防御力不足で二線級の扱いを受けていましたが、完成当時は世界最大かつ最高クラスの攻撃力とスピードを誇っていました。\n\n改装後の塔のような艦橋（全高50m！）が非常に印象的でコアなファンが多い艦です。\n\nこのNFTは1944年頃の扶桑のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0056 FUSO 1944",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Battleship"
+    }
+  ]
+}

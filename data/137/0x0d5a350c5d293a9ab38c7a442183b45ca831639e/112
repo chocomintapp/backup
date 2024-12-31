@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPHD3181wxveY8fa3qsbPqpcqQSsBGgQiCmqhskkmSDqQ/nft.png",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 112,
+  "chainId": "137",
+  "name": "Day46 Umitsuru's Art",
+  "description": "毎朝、必ずバナナを食べてます。バナナを食べないと、私の１日は始まりません。\n\nI always eat a banana every morning. My day doesn't start without a banana.",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

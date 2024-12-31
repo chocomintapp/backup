@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRRty5gZS5XPEQz2qu1ykTeVYDM7kD5gGN6dDsGJtd35W/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "FUELHASH × VeryLongAnimals",
+  "description": "The collaboration with FUELHASH Inc. Proceeds from this NFT primary sale will be used for donations to support humanitarian aid and shelter dogs in Ukraine. Created by [AkimuneKawa](https://opensea.io/AkimuneKawa).",
+  "attributes": [
+    {
+      "value": "Dog",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Ranmaru",
+      "trait_type": "NAME"
+    }
+  ]
+}

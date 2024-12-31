@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVHargfAA3mskvjFSZ7mj1kvXesw1DEhkVE2yVvypQsy3/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 1398,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #1398",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Sloth",
+      "trait_type": "TYPE"
+    }
+  ]
+}

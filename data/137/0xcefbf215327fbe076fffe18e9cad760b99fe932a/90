@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT5DN5krdHgxJ8ANUWfjpaZhFZ37QRccgZAnVYQKbWB4Y/nft.jpg",
+  "tokenId": 90,
+  "description": "90/101  \nTaken on May 28, 2021  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #90",
+  "attributes": [
+    {
+      "trait_type": "weather",
+      "value": "sunset"
+    }
+  ]
+}

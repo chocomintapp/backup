@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYWJbYa7f5B5bMTweHWq7Cmy5QZQJy5nUqSriKNHz6k9M/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x2bf753699cc5b3b02f58f177530249da99dd6cc2",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Showcase",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

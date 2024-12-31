@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZWU3qH3feMd4y2GT3CPUUoUd2XR8665WgEw9jWjjeUhn/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 62,
+  "chainId": "137",
+  "name": "アメリカかぶれのえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "フランク",
+      "trait_type": "性格"
+    },
+    {
+      "value": "チェリーパイ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "ナットウ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "アイスホッケー",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "イエスウィーキャン",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

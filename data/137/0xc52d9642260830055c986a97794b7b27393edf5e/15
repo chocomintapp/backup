@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdhT7bVvi2quw3Kf2x6p5UMdSYpdnwjTVeUZdqcR39o4x/nft.png",
+  "tokenId": 15,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #15",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Parrot"
+    }
+  ]
+}

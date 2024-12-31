@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbNbpm8oj2v3s26MeJSntA7fjQ3YEjSqujy6KDsp28e3x/nft.png",
+  "nftContractAddress": "0x157bab343db6cb89bfd52b09cb48e735295893a4",
+  "animationUrl": "https://ipfs.io/ipfs/Qme8kkFiFcZbr83eZizXNPuAV9PyCEAZgPKSNwmKhGDqB4/nft.glb",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "DEVIL",
+  "description": "test",
+  "attributes": []
+}

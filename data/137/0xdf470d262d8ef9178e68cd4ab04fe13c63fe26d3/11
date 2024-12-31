@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYv99q2tWhMngSJMavcVNAAfj6qBwdMb8WZqrxjcqmrcJ/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmSqYsGJvymYGKBg8Q5btzTp52L7zbGLTfaMJxKh9SAPtN/nft.gif",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "Kawaii Legends #011",
+  "description": "#011 Nekomusume Kawaii\n\n*Here are some tidbits about this costume:\nThis is a dress combined with a retro shirt. It is an homage to an old Japanese manga character called \"Neko Musume(Cat girl monster)\".\n\n衣装豆知識：\nレトロなシャツとワンピースの組み合わせ。\n日本で妖怪を描いた最初のマンガのキャラクター「猫娘」へのオマージュです。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "NEKO",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Ordinary",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Wisteria",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Casual clothes",
+      "trait_type": "Outfit"
+    },
+    {
+      "value": "Fireflies",
+      "trait_type": "Foreground"
+    }
+  ]
+}

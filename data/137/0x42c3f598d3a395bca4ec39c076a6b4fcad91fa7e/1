@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRUSJ46FEiQDhgdcVAUftxmSExmep6RVhrEvXeERqJzCo/nft.png",
+  "nftContractAddress": "0x42c3f598d3a395bca4ec39c076a6b4fcad91fa7e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "V #001",
+  "description": "",
+  "attributes": [
+    {
+      "value": "caho",
+      "trait_type": "Name"
+    },
+    {
+      "value": "moody",
+      "trait_type": "Personality"
+    },
+    {
+      "value": "dog",
+      "trait_type": "Favorite"
+    },
+    {
+      "value": "playing the piano",
+      "trait_type": "Hobby"
+    },
+    {
+      "value": "Special Skill",
+      "trait_type": "Strong Point"
+    }
+  ]
+}

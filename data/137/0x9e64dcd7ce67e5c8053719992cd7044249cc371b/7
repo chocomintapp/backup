@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR9hZbGKjg1jvxk54zFL1d6YgqhtEXZ412jfhwPhds9U8/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "NYC × VeryLongAnimals",
+  "description": "The collaboration with NYC. It was created when founder Akim was excited in NFT.NYC 2022. Created by [AkimuneKawa](https://opensea.io/AkimuneKawa).",
+  "attributes": [
+    {
+      "value": "Newyoker",
+      "trait_type": "TYPE"
+    }
+  ]
+}

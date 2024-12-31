@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYdfjcue7mEva194WJguBwCFtsfcUZ5P3D9ykShvA3qJp/nft.gif",
+  "tokenId": 9,
+  "description": "",
+  "nftContractAddress": "0xa38f30ee1089b44c5421d393f7986d4a8f90268e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Galaxy",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Green Basic"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Black Cat"
+    },
+    {
+      "trait_type": "Headphone",
+      "value": "Red V.1"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Gum",
+      "value": "Pink Bubble Gum"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Old school Varsity"
+    },
+    {
+      "trait_type": "Bag",
+      "value": "Black Backpack"
+    },
+    {
+      "trait_type": "Pet",
+      "value": "Robo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    }
+  ]
+}

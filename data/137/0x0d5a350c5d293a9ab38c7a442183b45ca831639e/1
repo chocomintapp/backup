@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXSsfnabrJzy3FdHTcvgjAmPCYvYw1kMCz1D9vvXuPZ8y/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Day9 Syu's Art #25",
+  "description": "おでこの赤いものはツノです。\n\nThe red thing on the forehead is a horn.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

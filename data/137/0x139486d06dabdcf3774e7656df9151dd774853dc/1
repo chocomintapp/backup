@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTjKcrB8mu6nQcn5DNGnz2aQ3YyQujJ1sNKLaKSuY2pJj/nft.PNG",
+  "nftContractAddress": "0x139486d06dabdcf3774e7656df9151dd774853dc",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "oinarisan",
+  "description": "Inarizushi",
+  "attributes": []
+}

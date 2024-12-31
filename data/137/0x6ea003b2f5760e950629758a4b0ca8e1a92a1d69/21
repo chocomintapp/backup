@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeQPQYZzuWMRKiryPvSMA9A4v4n6fMEZGSjhZntnGeEi6/nft.png",
+  "tokenId": 21,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.\nIn particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.\n\n小春日和の中、女の子と友達の猫たちは、川沿いの桜並木を散歩しています。\n\n気持ちよさそうに歩く彼女たち。\n女の子は、いろんなところが気になるのか、あっちへこっちへ。\n\nねこたちは、危なくないように彼女を先導しながら、彼女に歩調を併せて歩いてますよ。",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "境内　-Keidai-",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Kumano Taisha"
+    },
+    {
+      "trait_type": "Model",
+      "value": "SENBYO"
+    }
+  ]
+}

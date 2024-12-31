@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme7KL47CK6XyYBUqE5NpQUAAQTsyQ6d3CcmWyeoEQamey/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 45,
+  "chainId": "137",
+  "name": "TANU-KIDS #044",
+  "description": "ピンクレンジャーに変身したTANU-KIDS\n\nピンクはみんなの憧れ",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hero",
+      "trait_type": "Occupation"
+    }
+  ]
+}

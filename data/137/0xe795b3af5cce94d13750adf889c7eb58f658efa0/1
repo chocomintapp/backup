@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSCyPBShT7TFyxwqAFfCSRP1QVzhQbreqq1DPMcZxQ7x3/nft.png",
+  "tokenId": 1,
+  "description": "God In The Brain #01  \nI am sure that each person sees it in a different way.  \nWhat does it look like to you?  ",
+  "nftContractAddress": "0xe795b3af5cce94d13750adf889c7eb58f658efa0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "God In The Brain #01",
+  "attributes": [
+    {
+      "trait_type": "COLOR",
+      "value": "Red"
+    }
+  ]
+}

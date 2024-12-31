@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWP9n8CbSBD4GRMw7p5D2Gs65eJc9SzYY2DdtAiLzQo7P/nft.jpg",
+  "nftContractAddress": "0x5f2e42f34d63eb91ab13974ecb6a911d57d18133",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "Chibikko-saurus girl#09",
+  "description": "What do you want to do when you grow up?",
+  "attributes": [
+    {
+      "value": "Triceratops",
+      "trait_type": "character"
+    },
+    {
+      "value": "Quiet",
+      "trait_type": "personality"
+    }
+  ]
+}

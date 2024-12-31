@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTbgsWCMrB5XVqCotvJrK9zj42U9o3nPcicgk7QKyQAc2/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "#22",
+  "description": "monster",
+  "attributes": [
+    {
+      "value": "Monster",
+      "trait_type": "RACE"
+    }
+  ]
+}

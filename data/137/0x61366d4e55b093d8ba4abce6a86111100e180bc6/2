@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXW3pmFpkD26ejEggyggUxgpaG8P4spekEVUJZptbZ7ZR/nft.jpg",
+  "nftContractAddress": "0x61366d4e55b093d8ba4abce6a86111100e180bc6",
+  "animationUrl": "https://ipfs.io/ipfs/QmdFtRHvtjjSASzkd51Ec3eAqfLPnXiPnJpizrp5E6Bvq2/nft.mp4",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Toothpaste Monster byG",
+  "description": "20191231_George",
+  "attributes": [],
+  "minted": ""
+}

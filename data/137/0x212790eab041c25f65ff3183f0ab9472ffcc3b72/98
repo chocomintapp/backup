@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcN3qLCy1ZY7eCMTD9Aw7DNNr3EHJs3s2DccGCE48pte6/nft.jpg",
+  "nftContractAddress": "0x212790eab041c25f65ff3183f0ab9472ffcc3b72",
+  "animationUrl": "",
+  "tokenId": 98,
+  "chainId": "137",
+  "name": "PI #98",
+  "description": "The theme of this project is a relaxing space that sways between real and virtual.\nPixel data digitally collaged based on a photograph was reflected on an irregularly swaying plane to create a polygonal image.\nShooting the irregularities of virtual waves ensures the originality of each image.",
+  "attributes": [
+    {
+      "value": "Factory",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Violet",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Soul Mutilation",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbauzVpEj11SLWskoPytKXndYPoDdke1YQjPoZTeYYYEJ/nft.png",
+  "tokenId": 16,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**StuG III Ausf.G**  \nAn infantry ally at all times!\nHas a very high combat power among such StuG III series\nIt is the G type that was very active as a tank killer.\n\nThe StuG III took on everything from pillboxes to tanks in an effort to eliminate the infantry threat.\n\n**Ⅲ号突撃砲 G型**  \nどんな時でも歩兵の味方！\nそんなIII号突撃砲シリーズの中でも非常に高い戦闘力を持ち\n戦車キラーとして大活躍したG型です。\n\n歩兵の脅威を取り除くべく、トーチカから戦車まで\nあらゆる敵を相手にしました。\n日本では「サントツ」の愛称でも親しまれています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0016 StuG III Ausf.G",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

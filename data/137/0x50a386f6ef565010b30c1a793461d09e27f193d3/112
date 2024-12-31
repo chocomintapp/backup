@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRKVZPd2E4vK7XouwKLTMq1kri4Sof4cWUAVCn4ucUsG8/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 112,
+  "chainId": "137",
+  "name": "hakorobo #112",
+  "description": "hakorobo #112 Artists Edition HKAE-15 Vusiuz\n\noriginal work:\nhttps://objkt.com/asset/KT1RwFLK5q9Vcbo7nurovMwD6pYMvE47ggbf/18\n\nby:\nhttps://twitter.com/Vusiuz",
+  "attributes": [
+    {
+      "value": "HKAE",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Shoes"
+    }
+  ]
+}

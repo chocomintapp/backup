@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZkbuUTKhHjWFnV7gRTpDhaqb3nGRuyfzhszD1phuqHWr/nft.png",
+  "nftContractAddress": "0xeade14ecd5c1f2025e7ecb0c6c78a91c9c5686bc",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "tecchan profile",
+  "description": "tecchan's CryptoPunks like profile picture",
+  "attributes": []
+}

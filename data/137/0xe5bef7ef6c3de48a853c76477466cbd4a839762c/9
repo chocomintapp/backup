@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYsr14RQdKrKT8B7icTZmc1567W9YPNXcqKRBzKoKyMkv/nft.png",
+  "tokenId": 9,
+  "description": "\"babysan\" is a soft serve ice cream of peach.",
+  "nftContractAddress": "0xe5bef7ef6c3de48a853c76477466cbd4a839762c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sofnchosan pixel art collection #9 \"babysan\"",
+  "attributes": [
+    {
+      "trait_type": "taste",
+      "value": "peach"
+    }
+  ]
+}

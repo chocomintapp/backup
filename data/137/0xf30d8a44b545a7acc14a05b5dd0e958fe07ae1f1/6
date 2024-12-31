@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVe9YagDHTwB38ByUXox8JRUer96LKgc2aTJHAJRaxEj3/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "PPP #006",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Cooper",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Bung up GY",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Bulletproof vest",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Cigarette",
+      "trait_type": "Accessories"
+    }
+  ]
+}

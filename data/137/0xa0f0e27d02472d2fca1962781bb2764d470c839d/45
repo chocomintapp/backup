@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWHdQoEwgwF24E8LFakFdP2TxTwGpH2xPcpHwekM5z4DB/nft.png",
+  "tokenId": 45,
+  "description": "宇宙服みたいでしょ。\n\nIt's like a space suit.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cat（Gagarin　ガガーリン）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

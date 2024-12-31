@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY4PRspWxPxijjyjvQEMMPZsLU3kALwb1CuJk9QM5Aepw/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #19",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Turtle",
+      "trait_type": "Type"
+    }
+  ]
+}

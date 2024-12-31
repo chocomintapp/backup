@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYaxQsFu7Cm7PvEynWY6hUYiuRGxv4yNECoKySycfExvq/nft.jpg",
+  "tokenId": 10,
+  "description": "If your smartphone supports AR Quick Look on iPhone or ARCore on Android, you can scan the NFT QR code with your camera and place the augmented reality model without markers.\n\n3D+AR viewing in a smartphone browser Here is a link to the IPFS 3D viewer.\nhttps://gateway.pinata.cloud/ipfs/QmZhkh7zS2u958W1dXJHVxusc45WuF8EVS28cFNhu5WbPt/bridget_ar/",
+  "nftContractAddress": "0x9a5b20e07f1826d9202abe092f8dd45f89cc583f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Bridget Markerless AR"
+}

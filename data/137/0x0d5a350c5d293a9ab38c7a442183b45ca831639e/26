@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme58HbLoyEcqhdSgjdHQFifXuDd2Nffg5RzUDG5XFiCNZ/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "Day15 Nana's Art #44",
+  "description": "初のドット絵です。もちろんパパを描いています。\n\nThis is my first dot drawing. I drew my dad, of course.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ]
+}

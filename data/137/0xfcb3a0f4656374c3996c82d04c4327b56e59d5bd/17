@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYf1t4o3jSD4RPqycvfV9RkPyAubPs513uANJ5XsFn2ud/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "#0016_Niton_MRBM",
+  "description": "#0016_Niton_MRBM",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Hollywood Cerise",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Magenta",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

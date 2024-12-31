@@ -1,0 +1,19 @@
+{
+  "image": "",
+  "tokenId": 5,
+  "description": "",
+  "nftContractAddress": "0x1af808f31b3688242ba178ad67067ad39b7dc871",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#001",
+  "attributes": [
+    {
+      "trait_type": "1",
+      "value": "1"
+    },
+    {
+      "trait_type": "1",
+      "value": "1"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmap5K1gQmKfhsWS6pjCmym3zSdwWAYv1ymQFQogND5R7u/nft.jpg",
+  "nftContractAddress": "0x066f93516cbe6d648aba011f595608551ebc2d57",
+  "animationUrl": "https://ipfs.io/ipfs/QmTC3CQBvfiubCKxYccWqMjFBsXm3Nvq6VYzAzaAhHiczu/nft.glb",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "#003 VR food NFT bolognese Pasta 3DCG VR food",
+  "description": "bolognese Pasta ボロネーゼパスタ\n頂点数1000以下に抑えました\n\n頂点978\n面1525\n三角面1525\n\nテクスチャ1枚、写真3枚でも可能\nlow poly Optimization photogrammetry",
+  "attributes": [
+    {
+      "value": "Low Poly",
+      "trait_type": "photogrammetry"
+    }
+  ]
+}

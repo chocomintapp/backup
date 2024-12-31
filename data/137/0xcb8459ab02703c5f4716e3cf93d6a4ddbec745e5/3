@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPozZcXfQiY5doqayNuLdAzYppq2dLrc8fPwbjrZa3dST/nft.jpeg",
+  "tokenId": 3,
+  "description": "Just a human",
+  "nftContractAddress": "0xcb8459ab02703c5f4716e3cf93d6a4ddbec745e5",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "human",
+  "attributes": []
+}

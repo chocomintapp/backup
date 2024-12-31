@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU1dY7cDxNoeK3xYhyK6AfU48LLjRNJAxq1HgM3vraYtE/nft.png",
+  "nftContractAddress": "0xacb3eb4ed5ed232aac5148663654cc3bcf13e1d9",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "20220218 - Fun / CM",
+  "description": "There is no \"failure\". Never forget to have \"fun\".  \n「失敗」はない。「楽しい 」を忘れない。  \nCreated by Notsu @notsunao70  \nWith Chocofactory",
+  "attributes": [
+    {
+      "value": "20220218 - Fun",
+      "trait_type": "Series"
+    },
+    {
+      "value": "notsunao70",
+      "trait_type": "Artist"
+    }
+  ]
+}

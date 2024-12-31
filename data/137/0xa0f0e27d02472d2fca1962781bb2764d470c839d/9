@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmacxsZYSXkD8LxV3KnJR6BE5r9iRWsgMCMjwEUancAsxH/nft.jpg",
+  "tokenId": 9,
+  "description": "氷の中に今日のおかずが入ってます。\n\nToday's side dish is in the ice.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Seal with an ice lunch",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Seal"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

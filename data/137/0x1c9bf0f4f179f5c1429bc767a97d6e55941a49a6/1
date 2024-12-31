@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNzBpJLvdr7TLzW7181Ypcb8kc1duDUJrGuCFZvTZ2DJW/nft.jpeg",
+  "tokenId": 1,
+  "description": "テスト",
+  "nftContractAddress": "0x1c9bf0f4f179f5c1429bc767a97d6e55941a49a6",
+  "animationUrl": "https://ipfs.io/ipfs/QmQcWouXBeTjp47TMHo91WNPTytYFgUG2HrxsDuyySYiiY/nft.mp3",
+  "chainId": "137",
+  "name": "sample",
+  "attributes": [
+    {
+      "trait_type": "音楽",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

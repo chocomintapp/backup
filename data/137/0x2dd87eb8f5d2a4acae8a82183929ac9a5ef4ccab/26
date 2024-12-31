@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNmqXoVjjAR7yuRLAvsGFNHzdt1sm7W4ewbSoEsUqYkx3/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #031 Feb.1",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n2月1日\n\n昨日の商店街のイベントは大盛況。ドーナツと人柄のせいか、顔丸出しの着ぐるみでも、部長は子ども達にも大人気です。今日はお昼ご飯の後で、駅前に新しくできた「さくらんぼカフェ」にやってきました。さくらんぼをモチーフにしたスイーツが大人気！ということで、部長が大好きなテレビ東京の取材が来たとか、来なかったとか。大きさに困惑しながらも、お店イチオシの巨大さくらんぼ団子「錯乱」を買って帰る、部長なのでした。\n\n\n------------\n\n\nFeb 1\n\n\nYesterday's shopping mall event was a great success. Perhaps because of his donuts and personality, he is very popular with the children, even in his full face costume. Today, after lunch he came to the newly opened \"Cherry Cafe\" in front of the station. Sweets featuring cherries are very popular! So I heard that TV Tokyo, his favorite TV station, came to interview him or not. He was bewildered by the size of the dumpling, but bought a giant cherry dumpling, \"Deran\", which is the store's best seller.",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "CAP"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "HOODIE"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "PANTS"
+    },
+    {
+      "value": "White",
+      "trait_type": "T-SHIRT"
+    },
+    {
+      "value": "3個入",
+      "trait_type": "さくらんぼ巨団子"
+    }
+  ]
+}

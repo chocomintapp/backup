@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZLYP8rS2KfrCq8BhnYrwMtsZLpvT9bLyc7iuxULj1zuh/nft.png",
+  "nftContractAddress": "0x792cb876c8ca36d0092176687a43e20c619bed68",
+  "animationUrl": "https://ipfs.io/ipfs/Qmbpj8J1gaQvH2FeTdDCLe5fcq3d6WyMkQ96nhFXdMDuph/nft.glb",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Goldfish Festival in Aomori",
+  "description": "Works participating in the \"Japan NFT-ization Project\"\n\"Goldfish Nebuta\" displayed at the most famous \"Nebuta Festival\" in Aomori\nThis goldfish Nebuta is known as a good-luck charm that brings happiness.",
+  "attributes": []
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeAbFqJosxHwcu2pqUquNqynoEvRXh7k1rYyGbaXrmTLs/nft.png",
+  "tokenId": 9,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n2月2日\n\nたまには仕事の話でも。「ねじねじドーナツ部長」のチームは現在、次世代のドーナツ「ドーナツ2.0」を開発中。社内でも極秘プロジェクトとして扱われており、機密情報を狙うスパイが多いとの噂が流れています。今日はリモートワークを抜け出し、社員のごく一部しか存在を知らない「サテライトオフィス」に出かける予定なのですが…玄関を出た所には、非電源式のクラシカルな罠が仕掛けてありました。足を取られてしまった部長の背後に、恐ろしい捕獲器が迫ります。万事休す…と声を上げそうになった時、「あ、ごめんごめん」と奥さんが顔を出しました。罠を仕掛けたのはスパイではなく、明日の節分のためにと、卵の代わりに豆を産む鳥「マメナンデス」を捕まえるためのトラップでした。\n\nFeb 2\n\nLet's talk about work once in a while. His team is currently developing the next generation of donuts, Donut 2.0. It is treated as a top-secret project within the company, and there are rumors that many spies are after confidential information. He plans to leave his remote work today to go to a \"satellite office\" that only a small percentage of employees know exists... but when he walks out the front door, he finds a classic, non-powered trap. He has been caught flat-footed and the dreaded captor looms behind him. Just as he was about to shout, \"All is not well...\", his wife came out, \"Oh, sorry, sorry\". It was not a spy who had set the trap, but a trap to catch \"mame-nandes,\" a bird that lays beans instead of eggs, for tomorrow's Setsubun holiday.\n",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #032 Feb.2",
+  "attributes": [
+    {
+      "trait_type": "JERSEY BOTTOM",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "JERSEY TOP",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "White"
+    },
+    {
+      "trait_type": "TRAP",
+      "value": "For Bird \"Mamenandesu\""
+    }
+  ]
+}

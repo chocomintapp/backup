@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme7tbznZTPqHi1Ezwgc2T4cicwGBeci1FMciwqDVDp1eW/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 41,
+  "chainId": "137",
+  "name": "HUNIMAL #41",
+  "description": "Human + Animal = Hunimal",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Matcha green",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Seal lion + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "90s",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Short hair",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Classical",
+      "trait_type": "STYLE"
+    }
+  ]
+}

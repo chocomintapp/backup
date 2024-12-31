@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ7srC6i7dge6DbhSsvjRtNsA5CDoseP231ZQwTJY3Xmt/nft.jpg",
+  "nftContractAddress": "0xce9036ad9234119a64a916f32254e178790aef23",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "Pro Golemer Certificates 初段 @hawaiisana2",
+  "description": "This NFT proves @hawaiisana2 is a pro-golemer first dan!",
+  "attributes": [
+    {
+      "value": "初段",
+      "trait_type": "初段"
+    }
+  ]
+}

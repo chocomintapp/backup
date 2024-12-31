@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc3cuha91MovEpqetm2RkamV7eJJFBnJTcGJ5ukZmT5qh/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "137",
+  "name": "愛されるより愛したいえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ロマンチスト",
+      "trait_type": "性格"
+    },
+    {
+      "value": "クッキー",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "シバヅケ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "ボードゲーム",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "イチイセンシン",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

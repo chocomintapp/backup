@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdJqgKiKZhRn2epAoajVxrayJESYq2wbwkv1cjBwTjapR/nft.png",
+  "tokenId": 41,
+  "description": "お腹がはち切れそうなのに、まだ食べちゃう。\n\nMy stomach feels like it's going to burst, but I still eat.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cat（Cya-Syu　チャーシュー）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

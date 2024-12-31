@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY5ro7R2R7eoA3846WBkEyjBdDGbMmKJYHw92XHcYNKNk/nft.jpeg",
+  "tokenId": 15,
+  "description": "My favorite item.\nThis is the RW I bought for the first time 25 years ago. ",
+  "nftContractAddress": "0xe9c4d57d69ad06ab266e41141db6b8c7779cd984",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Fav #000 RW_mono",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

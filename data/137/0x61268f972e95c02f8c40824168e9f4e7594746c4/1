@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNsjUfNwfYsvkdUwzETr7yWZKsyHbAZKyuZxF2v7t9Yuv/nft.jpg",
+  "tokenId": 1,
+  "description": "宇宙と同時に産まれた宇宙飛行士。\n真っ暗な世界で彼が見たモノとは。",
+  "nftContractAddress": "0x61268f972e95c02f8c40824168e9f4e7594746c4",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Astronaut #1",
+  "attributes": []
+}

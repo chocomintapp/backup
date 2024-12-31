@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP1jUNquPHPRZKDkFSCJX68TD6f7XiH9ySfPkPuJoXzjT/nft.png",
+  "nftContractAddress": "0x3e846bff520d1928465d3216053df4acf8b4a343",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "IVLS Naha × VeryLongAnimalBabies",
+  "description": "IVLS記念コラボベビロン",
+  "attributes": [
+    {
+      "value": "Okinawan Guardian Lion",
+      "trait_type": "TYPE"
+    }
+  ]
+}

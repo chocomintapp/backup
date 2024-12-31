@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV7K591sTsvF48GnjMiuQaNVepswVqdzX4bwXGpQ2Npfq/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "137",
+  "name": "TANU-KIDS #041",
+  "description": "宇宙飛行士に変身したTANU-KIDS\n\nTANUKI１号で宇宙へGO\n地球は青かった",
+  "attributes": [
+    {
+      "value": "Astronaut",
+      "trait_type": "Occupation"
+    }
+  ],
+  "minted": "✅"
+}

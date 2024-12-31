@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPjW2yUPDYXprfbeW7B3oxZGVRzQoq9Rmg1LGcXqPXSg4/nft.png",
+  "tokenId": 10,
+  "description": "This is sample",
+  "nftContractAddress": "0x7a57c2693d486d2f9156c1d22557ff25c725ed2f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "mchsample01",
+  "attributes": [
+    {
+      "trait_type": "sex",
+      "value": "all"
+    }
+  ]
+}

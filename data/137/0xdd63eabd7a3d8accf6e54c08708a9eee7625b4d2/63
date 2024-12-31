@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcto9r8vwPm93Xcpz4eAbfaB3GCaeAyCBnyihHGQxqoYh/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 63,
+  "chainId": "137",
+  "name": "LIVING MINERAL #63",
+  "description": "",
+  "attributes": [
+    {
+      "value": "fox",
+      "trait_type": "gene"
+    },
+    {
+      "value": "common",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "stone",
+      "trait_type": "material"
+    }
+  ]
+}

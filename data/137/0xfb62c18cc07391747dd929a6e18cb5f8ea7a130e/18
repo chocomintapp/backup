@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW2xh2E6w5UKqsYbGpy7dJM3WGEJZ1DZ6hx1HDASzs2B7/nft.png",
+  "tokenId": 18,
+  "description": "選手特別限定アイコンNFTをプレゼントします。\nTwitter等のSNSでのアイコンにぴったりです。\n是非お気に入りの選手の好きなポーズのアイコンをご購入ください。\n\n購入後特別LINEにご招待させていただきご案内させていただきます。またアスティーダフェス参加チケットもプレゼントさせていただきます。\nアスティーダＮＦＴを合計2枚以上お持ちの方は選手との座談会参加権の獲得もできます。\n\nThis is a Player Special Icon NFT.\nThese icons are perfect for use on SNS, like Twitter, etc.\nPlease purchase the icon of your favorite player doing a special pose.\n\nAfter purchase, you will be invited to a special LINE where we will let you know the next steps. You will also receive a ticket to the Asteeda Festival.\nThose who own 2 or more Asteeda NFTs will be allowed to join the roundtable discussion with the athletes.",
+  "nftContractAddress": "0xfb62c18cc07391747dd929a6e18cb5f8ea7a130e",
+  "animationUrl": "https://ipfs.io/ipfs/QmW2xh2E6w5UKqsYbGpy7dJM3WGEJZ1DZ6hx1HDASzs2B7/nft.png",
+  "chainId": "137",
+  "name": "ウォン選手と砂浜アイコン",
+  "attributes": [
+    {
+      "trait_type": "Asteeda",
+      "value": "アスティーダ"
+    },
+    {
+      "trait_type": "Wong Chunting",
+      "value": "ウォン チュンティン"
+    },
+    {
+      "trait_type": "sandy beach",
+      "value": "砂浜"
+    }
+  ]
+}

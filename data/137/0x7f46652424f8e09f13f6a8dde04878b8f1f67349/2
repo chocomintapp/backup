@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRnCrVGTP64d18mwKV89CstrRSdSxHgi3E8j8pS7Ttpu1/nft.png",
+  "tokenId": 2,
+  "description": "kamatomoさんとのランドバトルで初めて勝利を収めた記念\nこのためにエクステ「アスタロス」と「へし切長谷部」を仕入れました。\n\n▼URL\nhttps://www.mycryptoheroes.net/ja/battles/226349266",
+  "nftContractAddress": "0x7f46652424f8e09f13f6a8dde04878b8f1f67349",
+  "animationUrl": "https://ipfs.io/ipfs/QmcGdu8YTfEhrE5afp7FcXkUMgHrJH3pyVrP3ctKmiV6rQ/nft.mp4",
+  "chainId": "137",
+  "name": "My Awesome Battle! vs kamatomo-san"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZDmPWorJALhBqbqFTxNU4iqCo1zYURJMbqqfDcniYo2Z/nft.png",
+  "nftContractAddress": "0x8995bd38c2012c04a4e7dd6f3ed61b29b1c43aa2",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Legendary Extension Collector",
+  "description": "Collect 10 Legendary Extension",
+  "attributes": [
+    {
+      "value": "Gold",
+      "trait_type": "Rarity"
+    },
+    {
+      "value": "MyCryptoHeroes",
+      "trait_type": "Game"
+    }
+  ]
+}

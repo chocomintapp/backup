@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQf4Dty52n6uqdeDkrc3sN1bZAH69Rt9RA3XtHMcpHCB2/nft.gif",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "",
+  "tokenId": 388,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg#487",
+  "description": "This SDD is SP editoin.\n\napril 8 2022",
+  "attributes": [
+    {
+      "value": "amax95",
+      "trait_type": "M"
+    },
+    {
+      "value": "yellow",
+      "trait_type": "HC"
+    },
+    {
+      "value": "n",
+      "trait_type": "BG"
+    },
+    {
+      "value": "n",
+      "trait_type": "E"
+    },
+    {
+      "value": "n",
+      "trait_type": "F"
+    }
+  ]
+}

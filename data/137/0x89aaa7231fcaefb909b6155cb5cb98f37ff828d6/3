@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNQhfvWArfmwLxKAR84FUqZeZ6R9tCSus8A3D39FdDiHo/nft.png",
+  "tokenId": 3,
+  "description": "あひるのエアドロップ",
+  "nftContractAddress": "0x89aaa7231fcaefb909b6155cb5cb98f37ff828d6",
+  "animationUrl": "https://ipfs.io/ipfs/QmNQhfvWArfmwLxKAR84FUqZeZ6R9tCSus8A3D39FdDiHo/nft.png",
+  "chainId": "137",
+  "name": "あひる 002"
+}

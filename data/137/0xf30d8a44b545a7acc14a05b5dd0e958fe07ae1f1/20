@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU3Ewrv4bDWfrgQiZxubeDM5rzJuDHh9YqgqzzjBTDQ8Z/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "PPP #020",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Sauvage GL",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Dress BK",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Accessories"
+    }
+  ]
+}

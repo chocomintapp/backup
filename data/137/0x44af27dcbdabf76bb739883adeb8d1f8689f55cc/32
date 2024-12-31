@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYZeYwa38kKPxBid1ig9JrL7fb2bAmrLNv7rgR8SsDjJA/nft.PNG",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/QmZTd2oNZ8ep5ikpqd16BntmpH9BGtHXCk1obzGS7Y4g2c/nft.glb",
+  "tokenId": 32,
+  "chainId": "137",
+  "name": "マクシモス",
+  "description": "",
+  "attributes": [
+    {
+      "value": "0.002",
+      "trait_type": "3D"
+    }
+  ]
+}

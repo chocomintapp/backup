@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVUJFVDnRNy1bGg4MZmX2hVmFrBbPf6g8SbaLT1cYzJZP/nft.png",
+  "tokenId": 10,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.\nIn particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "三毛さん　-ちょんまげリーダーさん-",
+  "attributes": [
+    {
+      "trait_type": "LOCATION",
+      "value": "neko hige house"
+    },
+    {
+      "trait_type": "MODEL",
+      "value": "SENBYO"
+    }
+  ]
+}

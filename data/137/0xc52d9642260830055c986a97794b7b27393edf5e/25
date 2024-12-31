@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaSYWTpjfTArGzjXw1ytzhgpV3YEpeKE6CcxhqYHaPHzz/nft.png",
+  "tokenId": 25,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #25",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Octopus"
+    }
+  ],
+  "minted": "✅"
+}

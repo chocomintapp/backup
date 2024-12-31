@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX2k2PLYcrHu161AdtNmw8oxhdbywzoekjjfVhxALWuKe/nft.jpg",
+  "tokenId": 1,
+  "description": "A shy girl taking a peace pose at sunset",
+  "nftContractAddress": "0x9a67e8d5a11882bf07754b7e9df769c444c570b8",
+  "animationUrl": "https://ipfs.io/ipfs/QmX2k2PLYcrHu161AdtNmw8oxhdbywzoekjjfVhxALWuKe/nft.jpg",
+  "chainId": "137",
+  "name": "NEKO GIRL Peace",
+  "attributes": [
+    {
+      "trait_type": "Cuteness",
+      "value": "900"
+    },
+    {
+      "trait_type": "Shyness",
+      "value": "1000"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "800"
+    }
+  ]
+}

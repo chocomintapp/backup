@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV7QF3iH3Ng5AP3UjeHVZZ29W7Fhj113pJ61YxbJbKJjQ/nft.png",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0x2d594c4d9041651147d0c9958b1f9977f88dcc09",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "NFT COMIC sample2",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

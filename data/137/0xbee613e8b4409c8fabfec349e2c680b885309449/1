@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbzsW5f5LHTmgyFxgJMK6eoZE4z3YFueGu8yD6kE1NgUm/nft.png",
+  "nftContractAddress": "0xbee613e8b4409c8fabfec349e2c680b885309449",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "sample NFT",
+  "description": "this sample NFT by Chocofactory",
+  "attributes": [],
+  "minted": "✅"
+}

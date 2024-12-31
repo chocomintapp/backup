@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPZDPUT1KNLJy9pwrFJMDfUi9YPqeuEZTXR9n8xseHcCj/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "137",
+  "name": "TANU-KIDS #034",
+  "description": "ETHに変身したTANU-KIDS\n\n変身？仮装？",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Event"
+    }
+  ]
+}

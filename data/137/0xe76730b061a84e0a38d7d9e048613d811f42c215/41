@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXZ3TbQrKfhZp2fMp8r9raFN8EwNJXxqYjcS7GC4xmA6h/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 41,
+  "chainId": "137",
+  "name": "THS #033",
+  "description": "【如】",
+  "attributes": [
+    {
+      "value": "cow",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "deer horn",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

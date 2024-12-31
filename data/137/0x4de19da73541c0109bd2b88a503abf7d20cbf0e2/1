@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRThMk1eebhbwdG4E5ehRni3uAuMgTt5dXvwxEdDG4XcF/nft.jpg",
+  "tokenId": 1,
+  "description": "Vitalik Butterin",
+  "nftContractAddress": "0x4de19da73541c0109bd2b88a503abf7d20cbf0e2",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Vitalik",
+  "minted": ""
+}

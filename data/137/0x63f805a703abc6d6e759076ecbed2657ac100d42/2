@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZHa2tkwBSBAh8BYBkGZscF35xBFYScRryoRHM4pJZCjQ/nft.jpg",
+  "tokenId": 2,
+  "description": "東京",
+  "nftContractAddress": "0x63f805a703abc6d6e759076ecbed2657ac100d42",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "東京",
+  "attributes": [],
+  "minted": "✅"
+}

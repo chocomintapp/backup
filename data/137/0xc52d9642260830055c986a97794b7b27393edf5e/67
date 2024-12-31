@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTtfJFNzLspfpE9yt3S8npLUxAp8m6j15SeFPcWbwiK5d/nft.png",
+  "tokenId": 67,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #67",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Stork"
+    }
+  ]
+}

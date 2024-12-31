@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXULh5xj8X2K7yfhDRhS8t8vcYVSmsaGLU2m7aLdCJMLL/nft.jpeg",
+  "nftContractAddress": "0x884c116f191eff93d67c43b7a62be5da2c1b8a48",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #17",
+  "description": "VeryLongAnimals #17の二次創作です！",
+  "attributes": [
+    {
+      "value": "Chick",
+      "trait_type": "type"
+    }
+  ]
+}

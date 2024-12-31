@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcNst6Jkv24if4pDQoh9kWvnHKEjBQEk2wvjgJFoRQsaw/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "大吉 Cabbage Mask #11",
+  "description": "レタスではありません。笑\n\nNot in lettuce.hahaha\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "attributes": [
+    {
+      "value": "cabbage mask",
+      "trait_type": "special item"
+    }
+  ],
+  "minted": ""
+}

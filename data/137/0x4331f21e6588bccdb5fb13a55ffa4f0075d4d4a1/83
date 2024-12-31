@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVBHuKKsRJ7H66bZ7mj8s4pFeJSj2q7LqJmyH48wGTtPy/nft.png",
+  "tokenId": 83,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**ATAGO 1939**  \nThis silhouette is heavy cruiser Atago in 1939.\n\nIt is the second ship of the Takao class with high fleet command capability.\n\nWhile achieving battle results in the southern campaign It participated in the Battle of Midway and the Battle of Solomon.\n\nShe was the flagship of the 2nd Fleet, which became the main force in the final decisive battle of the Allied Fleet, Operation Sho ichi-go.\n\n**重巡洋艦 愛宕 1939**  \n高い艦隊指揮能力を持った高雄型の2番艦です。\n\n南方攻略戦で戦果をあげつつミッドウェー攻略戦やソロモン海戦などに参加しました。  \n連合艦隊最後の決戦である捷一号作戦で主力となった第二艦隊の旗艦を務めました。\n\nこのNFTは1939年頃の愛宕のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0083 ATAGO 1939",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Heavy cruiser"
+    }
+  ]
+}

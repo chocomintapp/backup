@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPtBqveA3sLakwcPH3GZjfKPR7xqS5sHJLKjT3gYG5bnD/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 70,
+  "chainId": "137",
+  "name": "TANU-KIDS #069",
+  "description": "兵士に変身したTANU-KIDS\n\nたぬきの国を守ります",
+  "attributes": [
+    {
+      "value": "Soldier",
+      "trait_type": "Occupation"
+    }
+  ],
+  "minted": ""
+}

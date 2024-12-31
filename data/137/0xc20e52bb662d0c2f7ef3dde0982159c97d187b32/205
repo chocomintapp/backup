@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme9mAwRk5XuruDBwJ6SANk7Y3Hh3YQvwqTdejNJwMoJKd/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 205,
+  "chainId": "137",
+  "name": "#205",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#C9EA83",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#5C1313",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Crocodile friends",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Albin",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Suspicious smile",
+      "trait_type": "special1"
+    },
+    {
+      "value": "Crystal ball",
+      "trait_type": "Accessory1"
+    }
+  ]
+}

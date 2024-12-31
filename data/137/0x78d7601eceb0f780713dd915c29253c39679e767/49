@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUCP9tF4FXVnb8arNCb4vKScDdqv3LC6cfZQfJvYCZ3hm/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 49,
+  "chainId": "137",
+  "name": "#49 Yukata black",
+  "description": "Yukata full of memories of summer vacation.",
+  "attributes": [
+    {
+      "value": "Clothes",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Yukata",
+      "trait_type": "Clothes"
+    }
+  ],
+  "minted": "✅"
+}

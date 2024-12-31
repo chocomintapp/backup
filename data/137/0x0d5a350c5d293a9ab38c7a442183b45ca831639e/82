@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma2zZrsk1FqGMPzdgpa8dESq9px9KkevXqwrtroNuaALi/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 82,
+  "chainId": "137",
+  "name": "Day34 Umitsuru's Art #100",
+  "description": "宇宙に行きたいと一度も思ったことはない。\n\nI've never wanted to go to space.",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

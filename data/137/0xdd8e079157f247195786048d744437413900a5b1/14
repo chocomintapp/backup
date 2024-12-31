@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeAi7zYHezoppG9cPfkHwmRv2rCS127MNVL2VMrivT8yz/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmeAi7zYHezoppG9cPfkHwmRv2rCS127MNVL2VMrivT8yz/nft.gif",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #14",
+  "description": "ベビロン二次創作",
+  "attributes": [
+    {
+      "value": "Gorilla",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

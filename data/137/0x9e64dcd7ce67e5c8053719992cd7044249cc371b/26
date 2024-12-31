@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRCDgRjHGc41dphcZdEEqjUUwbq4sDmECFCjnTiyeVw17/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "bitFlyer × VeryLongAnimals #4",
+  "description": "A collaboration with bitFlyer, the biggest crypto exchange company in Japan. Created by VLAB.",
+  "attributes": [
+    {
+      "value": "VeryRichWhale",
+      "trait_type": "TYPE"
+    }
+  ]
+}

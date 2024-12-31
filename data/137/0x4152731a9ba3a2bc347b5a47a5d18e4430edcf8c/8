@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTHehzJNUcBQSvP3q5VyBpMvhxiwUVPTP9QbNp8u3xjQL/nft.png",
+  "tokenId": 8,
+  "description": "Name:Otto von Bismarck\nSeasoning:wasabi",
+  "nftContractAddress": "0x4152731a9ba3a2bc347b5a47a5d18e4430edcf8c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Wasabismarck"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmanae5V9qq2zNaMq8turn8vxAGwUUPzhjkCbY8reKz9pM/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 559,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #559",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Lemur",
+      "trait_type": "TYPE"
+    }
+  ]
+}

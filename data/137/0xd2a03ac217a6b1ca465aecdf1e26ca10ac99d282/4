@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXCy799CC5kh9mMrhVfAYYXYwSzRUN5SV9dtN5X2TF673/nft.png",
+  "tokenId": 4,
+  "description": "Flying round metals.",
+  "nftContractAddress": "0xd2a03ac217a6b1ca465aecdf1e26ca10ac99d282",
+  "animationUrl": "https://ipfs.io/ipfs/QmXCy799CC5kh9mMrhVfAYYXYwSzRUN5SV9dtN5X2TF673/nft.png",
+  "chainId": "137",
+  "name": "WingBalls 13 FireCAT",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "UC"
+    }
+  ]
+}

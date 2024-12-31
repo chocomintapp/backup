@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYTDsKideEKw9NgeFfyH8wkH5YGL7RCa9afzhFYeotUw9/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 132,
+  "chainId": "137",
+  "name": "WMM #0132 YUKIKAZE 1945",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**YUKIKAZE 1945**  \nThis silhouette is destroyer Yukikaze in 1945.  \nThis destroyer is famous as the luckiest ship in the Imperial Japanese Navy.\n\nShe combined the strongest \"luck\" and \"ability\" to always return to port, no matter how dangerous the voyage or how many battles she lost.\n\nShe is even called \"the miracle destroyer.\n\nUnlike the battleships that were preserved, destroyers were always overworked in the harsh frontline.\n\nOf the 19 Kagero class destroyers, only one, Yukikaze, survived until after the war.\n\n**駆逐艦 雪風 1945**  \n日本海軍一の幸運艦として有名な駆逐艦です。\n\nどんな危険な航海でも、どんな負け戦でも、沖縄特攻の際も常に港に帰って来た最強の「運」と「実力」を兼ね備え「奇跡の駆逐艦」とさえ言われました。\n\n温存された戦艦と違い、常に過酷な前線で酷使された駆逐艦。  \n陽炎型駆逐艦19隻のうち、戦後まで生き残ったのは雪風ただ1隻でした。\n\nこのNFTは1945年頃の雪風のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Destroyer",
+      "trait_type": "Ship"
+    }
+  ]
+}

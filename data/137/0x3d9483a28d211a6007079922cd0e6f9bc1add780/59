@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZeSmUwGi4CmAcZEMkDFBmxPdYSK7ffJQqzYihABXYa8x/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 59,
+  "chainId": "137",
+  "name": "Neon #59",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "yellow neon hat",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue c loth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "none",
+      "trait_type": "hand"
+    },
+    {
+      "value": "late",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

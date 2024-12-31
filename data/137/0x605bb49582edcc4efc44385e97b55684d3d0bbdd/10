@@ -1,0 +1,19 @@
+{
+  "image": "",
+  "nftContractAddress": "0x605bb49582edcc4efc44385e97b55684d3d0bbdd",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "My Only Girlfriend #020",
+  "description": "My Only Girlfriend\" is a collection that captures the special look she gives only to you. Why not get your own special girlfriend?\n\nDon't tell anyone,\" she said with a mischievous laugh. The expression on her face is kind of cute, and you can't help but stare at her all the time.\n\n＊＊＊\n\n「My Only Girlfriend」は彼女があなただけに見せる特別な表情を切り取ったコレクションです。 あなただけの特別な彼女を手に入れてみませんか？\n\n「内緒だよーだ」彼女はいたずらに笑いながらあっかんべーをしました。その表情が何だかかわいらしく、ずっと見つめちゃいますね。",
+  "attributes": [
+    {
+      "value": "female",
+      "trait_type": "character"
+    },
+    {
+      "value": "purple",
+      "trait_type": "color"
+    }
+  ]
+}

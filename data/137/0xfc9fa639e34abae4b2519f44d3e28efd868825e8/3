@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTwtmcDuKM9MFv4aegPCEuCsM4Cykp1FM61PYEBJ5vBXR/nft.png",
+  "nftContractAddress": "0xfc9fa639e34abae4b2519f44d3e28efd868825e8",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies Z #3",
+  "description": "Baby's growth potential is unlimited.",
+  "attributes": [
+    {
+      "value": "Frog",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

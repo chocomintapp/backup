@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWfN4MyhJvzLSzNTXe8ojKnza4HWrFZCK7f4LaHCVq4EJ/nft.jpeg",
+  "tokenId": 49,
+  "description": "Calligraphy Devil #49",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #49",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Uzza"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Amy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Envy"
+    }
+  ]
+}

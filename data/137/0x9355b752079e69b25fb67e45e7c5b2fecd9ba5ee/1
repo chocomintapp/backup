@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVbt33y858uMWdrcZgonqTGB6rd7U9BHFKs42rA2xYZcT/nft.jpg",
+  "tokenId": 1,
+  "description": "It is a caricature made with AI.\nAIで作った似顔絵です。",
+  "nftContractAddress": "0x9355b752079e69b25fb67e45e7c5b2fecd9ba5ee",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "caricature made with AI"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX3jjyRVVJCecynSTZLgj95bSrcgwverzwNo5wpHWH1bH/nft.jpeg",
+  "nftContractAddress": "0x65fc32ab2716f98df78007c7cb3b4ad8dea99188",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "NIKO24 #1",
+  "description": "Such a ramen shop is not liked. What kind of ramen shop?\n\nこんなラーメン屋は嫌だ。どんなラーメン屋？",
+  "attributes": [
+    {
+      "value": "GORO×NTP on Oct 3, 2022",
+      "trait_type": "Date"
+    }
+  ]
+}

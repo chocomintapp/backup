@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVuw2qJmuiNidDCfa8SS3t24ZK4eYVo3xb4oMqA1uUhwq/nft.png",
+  "tokenId": 13,
+  "description": "Horse mackerel is a widely distributed fish in Japan. It is in season in the summer, when the fat is at its peak, but it is available in all seasons. It goes well with ginger.\n\nアジは日本では広く流通する魚。旬は脂の乗る夏であるが、オールシーズンで流通する。生姜と相性が良い",
+  "nftContractAddress": "0x0722bb43a4ce0c10a73fe30781b98d9e64adc28c",
+  "animationUrl": "https://ipfs.io/ipfs/Qma338XERjuXJiRW4BSsWuQxzmqUeoLkwpY29STWpr9E4V/nft.mp4",
+  "chainId": "137",
+  "name": "鯵 - Aji【Horse Mackerel】"
+}

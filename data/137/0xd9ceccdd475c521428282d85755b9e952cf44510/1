@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNkJmiGoJi7yvYEZm9SXwkv9kZ1PzRWkwqTrst7wcR15p/nft.mp4",
+  "nftContractAddress": "0xd9ceccdd475c521428282d85755b9e952cf44510",
+  "animationUrl": "https://ipfs.io/ipfs/QmR4N5PG1xT2XZJPTmmAEDUWxiFyjwfz7LRftDc3EqJPKU/nft.mp4",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "【MUSIC NFT】UP GIRL - Kraken",
+  "description": "How did this song come about?\n I was somehow wandering around social networking sites when I came across this picture project, \"UP GIRL\" .\nhttps://opensea.io/collection/up-girl\n\n They depict very attractive women.\nIt is difficult to put art into words.\nThe overall coloring, the pose, the color of the text\nwere the per-effects for me.\nI bought UP GIRL while I was thinking about it.\n\nA few days after I bought it, I looked at it and thought, \"This art is very fashionable.\nMusic played in my head！\n\n　I immediately sent an email to the creator of UP GIRL and said\n\"Please let me put music on it! I asked him.\nThe creator of UP GIRL readily agreed.\n(I know you must have wondered what I was talking about, since I had no particular achievements at the time.)\n\nI do feel that it is pointless to make music from nothing.\nEvery piece of music has a story.\nThe music on this NFT can only come from this picture.\nI am enjoying it immensely.\nI am having so much fun connecting with artists who were previously invisible to me because of NFT.\nI enjoy connecting!!",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "UP GIRL",
+      "trait_type": "picture"
+    },
+    {
+      "value": "Female",
+      "trait_type": "Song"
+    },
+    {
+      "value": "ELECTORO",
+      "trait_type": "MUSIC"
+    },
+    {
+      "value": "Sexy",
+      "trait_type": "Music Image"
+    }
+  ]
+}

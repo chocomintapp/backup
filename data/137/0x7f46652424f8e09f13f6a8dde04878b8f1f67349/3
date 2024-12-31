@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ9N2pckPYb5SLdxwbRwPECFvsp28Vf9yfR5tQSr6TwWD/nft.mp4",
+  "nftContractAddress": "0x7f46652424f8e09f13f6a8dde04878b8f1f67349",
+  "animationUrl": "https://ipfs.io/ipfs/QmZ9N2pckPYb5SLdxwbRwPECFvsp28Vf9yfR5tQSr6TwWD/nft.mp4",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "NFT_Pass_Green",
+  "description": "",
+  "attributes": []
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVJBMWu5iygektdjFF7dNEzARL2HZpyJ6xngUdLGbMghE/nft.png",
+  "nftContractAddress": "0xd7151e5a95eda22f37993c4e862ab581befed1dd",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "#000 Tim Prototype",
+  "description": "Tim's prototype NFT.\nI will draw various Tims from now on!",
+  "attributes": [
+    {
+      "value": "None",
+      "trait_type": "Category"
+    },
+    {
+      "value": "None",
+      "trait_type": "Job"
+    }
+  ],
+  "minted": "✅"
+}

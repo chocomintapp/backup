@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfXDiPGCBBktzrzr3Vyyvm1ZQADf55vUMoEvXXgxE1QRN/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "Working Ganmichan #2",
+  "description": "Ganmichan's rice planting #2",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "rice planting",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

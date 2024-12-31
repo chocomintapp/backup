@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSTFqaL4sdsUMf72FN6AjNyzEYiiJMJRrCQy27zQz8sQ3/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 47,
+  "chainId": "137",
+  "name": "#0044_Niton_RYBM",
+  "description": "#0044_Niton_RYBM",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Hollywood Cerise",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

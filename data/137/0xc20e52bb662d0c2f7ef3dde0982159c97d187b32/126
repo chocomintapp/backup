@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdNCb1h4VUF8UfrPuf2bYYSUn5jPWpCoCeBGvvsUJYeSn/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 126,
+  "chainId": "137",
+  "name": "#126",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#9CE2E4",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#6D6B59",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Food",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Kitsune udon",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ],
+  "minted": "✅"
+}

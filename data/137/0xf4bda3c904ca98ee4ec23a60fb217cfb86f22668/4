@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR9J6QsqtNTHjxk1CYJBgg4FrQrTn8NWAymzM5XN9rEpE/nft.gif",
+  "nftContractAddress": "0xf4bda3c904ca98ee4ec23a60fb217cfb86f22668",
+  "animationUrl": "https://ipfs.io/ipfs/QmcakMmPBEQu6t8PH4DB3pcDXzb5FLptmgPB92zHB8dUf6/nft.glb",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "PolyVision #4",
+  "description": "PolygonLow assistant robot.",
+  "attributes": [
+    {
+      "value": "Guestroom",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Camouflage",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Feet"
+    }
+  ]
+}

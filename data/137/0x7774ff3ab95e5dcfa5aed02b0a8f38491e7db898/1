@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeqDc6GAhRu5dTDc6eU2zen5h5AvEBrw1cS5mi675rNbh/nft.jpg",
+  "nftContractAddress": "0x7774ff3ab95e5dcfa5aed02b0a8f38491e7db898",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Monkey 1",
+  "description": "Monkey 1",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "Creation"
+    }
+  ]
+}

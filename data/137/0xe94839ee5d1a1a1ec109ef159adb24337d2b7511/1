@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmetDkJAfWzBsWMT8AQr2UHH8gR3RbNQoozjADb7F38VhX/nft.jpg",
+  "nftContractAddress": "0xe94839ee5d1a1a1ec109ef159adb24337d2b7511",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Megami-Lake",
+  "description": "@Nagano#001",
+  "attributes": [
+    {
+      "value": "Megami Lake",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Autumn",
+      "trait_type": "Season"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWk3icMrdadVwgEsF9FGWLPA8SAtYRoxCdafPS1YCSa1V/nft.JPG",
+  "nftContractAddress": "0x7aa1188e341c5c1256f127e364cd98feffc4b1f2",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "GO",
+  "description": "テスト",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSArtZgKv8xnnCT4AANpaDjzFBeXTdePvARM9LhZkhHyk/nft.png",
+  "tokenId": 16,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n2月3日\n\n節分で鬼役を務める、ツッコミどころ満載の「ねじねじドーナツ部長」です。どこから引っ張り出してきたのか、着けているのは般若の面。撒いている豆は、ピスタチオです。元々は、普通のどこにでもある節分だったのですが、何度か家族会議を重ねるうちに、今の姿になりました。ピスタチオを巻き終わったあとは、恒例の年の数だけ、ピスタチオを食べるという行事が待っています。撒く方よりも、後で食べる方が楽しみな部長なのでした。\n\nFeb 3\n\nThis is the \"Nejitsu Donut Department Manager\" who plays the role of an ogre in the Setsubun Festival, and who is full of lucky guesses. Where did he pull it from? He is wearing a Hannya mask. The beans he is scattering are pistachios. Originally, it was just an ordinary Setsubun event, but after several family meetings, it became what it is today. After the pistachios are rolled, the customary number of pistachios for the year awaits. He is more looking forward to eating them later than scattering them.",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #033 Feb.3",
+  "attributes": [
+    {
+      "trait_type": "SWEAT",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "WILD SHORTS",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "般若の面",
+      "value": "EDO ERA"
+    }
+  ]
+}

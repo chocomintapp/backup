@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRnC8fvsWc1FFrHSZayFjpbWrqyW7XozAqFH37K6uRiot/nft.png",
+  "tokenId": 1,
+  "description": "TEST Desc",
+  "nftContractAddress": "0x37388852201dd79e595e58a08040fd4f8c2747c9",
+  "animationUrl": "https://ipfs.io/ipfs/QmRnC8fvsWc1FFrHSZayFjpbWrqyW7XozAqFH37K6uRiot/nft.png",
+  "chainId": "137",
+  "name": "TEST01",
+  "attributes": [
+    {
+      "trait_type": "color",
+      "value": "white"
+    }
+  ]
+}

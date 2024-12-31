@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaPJsaTNXdGRT9W5XvY4s1LPV8GLaHgQfFYGDjW2iMRZv/nft.png",
+  "tokenId": 4,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #4",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Chicken"
+    }
+  ],
+  "minted": "✅"
+}

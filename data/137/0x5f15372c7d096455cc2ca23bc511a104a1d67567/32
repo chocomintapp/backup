@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmduvcgrgNpXQ1ThcPeKDQ8QBH1JdLxyRJF3EWTDsRMigq/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmduvcgrgNpXQ1ThcPeKDQ8QBH1JdLxyRJF3EWTDsRMigq/nft.png",
+  "tokenId": 32,
+  "chainId": "137",
+  "name": "Rabbit girl #💙『Mei』",
+  "description": "Rabbit Girl #💙『Mei』 \n🍭yum yum Gyaru🍩\n\nShe is Mei-chan from KawaiiGyaru. Her favorite things are ice cream, hamburgers, and donuts. 🍩🍴 Today, I got a roll ice cream from the popular restaurant \"Rabbit Icecream\" and was very satisfied.🐰\n\nCawaiiGyaru!!✖️RabbitGirls\n\n🐰💞@Cawaii_Cawaii00",
+  "attributes": [
+    {
+      "value": "Mei",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "Collaboration",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Fanart",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Illustration",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPnveFQARQtfBNh2d7MBWvKh3URtd132Z5ZZSVNeNTyng/nft.gif",
+  "nftContractAddress": "0xc101a3685be26c91dd9b41778addb085af6820f1",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "imo",
+  "description": "？？？？？？\n\nThe creatures that live in the seaside luck o city. They live with sin on their backs. The deeper the sin, the more they can dive into the sea.\n\nseaside luck o city（シーサイドラッコシティ）に住む生き物たち。彼らは罪を背負って生きている。罪が深ければ深いほど、彼らは海に深く潜れる。\n",
+  "attributes": [
+    {
+      "value": "Saturn",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "60",
+      "trait_type": "Greed"
+    },
+    {
+      "value": "30",
+      "trait_type": "Lust"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wrath"
+    }
+  ]
+}

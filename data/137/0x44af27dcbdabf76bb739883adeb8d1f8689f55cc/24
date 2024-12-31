@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSDcKVTiCKHuH89Wjc9hgq6qf5WEMqjNAuro9nmcJ9BZ9/nft.png",
+  "tokenId": 24,
+  "description": "3Dobject",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/Qmd1DaqXnKxc4t5kjjGwfKWH5oTiQJqwApQ9B13ZUZ2Y9x/nft.gltf",
+  "chainId": "137",
+  "name": "HS-913TN",
+  "attributes": [
+    {
+      "trait_type": "3D",
+      "value": ""
+    }
+  ]
+}

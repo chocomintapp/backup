@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR1PUDBZS7EtahosvQ7g7zDJeVSJMiC4z2NurnapDYx1h/nft.png",
+  "tokenId": 2,
+  "description": "The name of this character is \"NFTeruko\".",
+  "nftContractAddress": "0xe443798faf87b9f7f70432c2dff23048519ae2c6",
+  "animationUrl": "https://ipfs.io/ipfs/QmR1PUDBZS7EtahosvQ7g7zDJeVSJMiC4z2NurnapDYx1h/nft.png",
+  "chainId": "137",
+  "name": "NFTeruko[Orange version]"
+}

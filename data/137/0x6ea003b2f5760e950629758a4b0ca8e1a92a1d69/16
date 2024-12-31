@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd43x15a23p4UyZXyw2SRzadWt65NPJka3ev2Er6AQ952/nft.png",
+  "tokenId": 16,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.\nIn particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.\n\nそこは神社の鳥居につながる朱色の橋の上。\n\nまだ雪の残る季節、神社の方から歩いてきたねこさんが、後ろを振り返ってます。\n\n何か忘れ物でもしたのかな？",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "降臨　-Kourin-",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Takahi Jinjya"
+    },
+    {
+      "trait_type": "Model",
+      "value": "SENBYO"
+    }
+  ]
+}

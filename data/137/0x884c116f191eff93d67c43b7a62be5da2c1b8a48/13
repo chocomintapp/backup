@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbbyDFCuigDQDjiTkUoe1zMird2aMFceQFnbmg9L3RjSv/nft.jpeg",
+  "nftContractAddress": "0x884c116f191eff93d67c43b7a62be5da2c1b8a48",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #61",
+  "description": "VeryLongAnimals #61の二次創作です！",
+  "attributes": [
+    {
+      "value": "crocodile",
+      "trait_type": "type"
+    }
+  ]
+}

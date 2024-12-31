@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma8PEw7LkfaDXXuo8cx86cgcCtojdzTDBDSzqSuaGNQGH/nft.jpg",
+  "tokenId": 3,
+  "description": "tesut",
+  "nftContractAddress": "0x3165507e18b8740728dd8cce93e2303f205103d6",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

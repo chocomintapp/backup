@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWTXMDirbwTDW5VND7JrpAQtHVVAtkjuViBtqD5YFEx8C/nft.png",
+  "tokenId": 3,
+  "description": "A collaboration with [Yuki Ota](https://en.wikipedia.org/wiki/Yuki_Ota), a fencer who won a gold medal at the World Championships and a silver medal at the Olympics. Created by [AkimuneKawa](https://opensea.io/AkimuneKawa).",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals × Yuki Ota",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Fencer"
+    }
+  ]
+}

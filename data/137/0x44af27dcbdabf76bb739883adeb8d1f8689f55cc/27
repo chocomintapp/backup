@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbjEA27XYwX1dhMzHibSjuSbbf6psSNmGk6GHpskxm13t/nft.PNG",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/Qmdrq8YavbEPkpwnVLgP9Ux9CWmBque5RVCTgV6uiZwtAU/nft.glb",
+  "tokenId": 27,
+  "chainId": "137",
+  "name": " SCREW",
+  "description": "3D Object",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "3D"
+    }
+  ]
+}

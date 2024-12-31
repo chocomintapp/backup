@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNx3bU8oPfbGPDUZ9QFzHCEhCUHbWxpyURTNmQeJHU2Tc/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "137",
+  "name": "VerySilentFruits#29 Raspberry",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Raspberry",
+      "trait_type": "Fruit"
+    }
+  ]
+}

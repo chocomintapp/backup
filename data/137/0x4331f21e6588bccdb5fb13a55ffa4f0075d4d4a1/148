@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ534yZKB8dqrJmr9UsdxyDtPvYGeRSV9iU77bkQWYepE/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 148,
+  "chainId": "137",
+  "name": "WMM #0148 M26 PERSHING",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**M26 PERSHING**  \nThis heavy tank was created as a trump card for the U.S. Army, which was struggling against the Tiger I and Panther. It was introduced by the U.S. Army at the end of World War II.\n\nAlthough its engine output remained that of a medium tank, its armor and firepower greatly surpassed that of the M4 Sherman, and it was truly the heavy tank that the front lines had been waiting for.\n\nAlthough it was introduced late, in 1945, and thus saw limited action in World War II, it was later used in the Korean War, where it outclassed the T34-85 and was the first heavy tank to be used by the U.S. Army in World War II. It proved to be an excellent vehicle.\n\n**M26 パーシング重戦車**  \nティーガーⅠやパンターに苦戦していた米陸軍の切り札として誕生した重戦車です。第二次大戦終盤にアメリカ軍が投入しました。\n\nエンジン出力こそ中戦車のままでしたが、装甲と火力はM4シャーマンを大きく上回り、まさに前線が待ち望んだ重戦車でした。\n\n登場したのが1945年と遅かったことから第二次大戦での活躍は限定的となりましたが、その後に勃発した朝鮮戦争ではT34-85を圧倒し、優秀な車輌であることを証明しました。",
+  "attributes": [
+    {
+      "value": "USA",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

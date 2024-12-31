@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmab4fpD7e17swL1UiuXrKxH8Nu4UGD1m5Y9FGtw7fotBk/nft.jpg",
+  "nftContractAddress": "0x212790eab041c25f65ff3183f0ab9472ffcc3b72",
+  "animationUrl": "",
+  "tokenId": 95,
+  "chainId": "137",
+  "name": "PI #95",
+  "description": "The theme of this project is a relaxing space that sways between real and virtual.\nPixel data digitally collaged based on a photograph was reflected on an irregularly swaying plane to create a polygonal image.\nShooting the irregularities of virtual waves ensures the originality of each image.",
+  "attributes": [
+    {
+      "value": "Mont Saint-Michel",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Noble Red",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Broken Heart Mutilation",
+      "trait_type": "Accessory"
+    }
+  ],
+  "minted": "✅"
+}

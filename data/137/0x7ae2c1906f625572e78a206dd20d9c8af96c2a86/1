@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVHE1xpfERzapAVTnvZdk95STndyd7CL8Y8oB8PVZ7GUx/nft.png",
+  "nftContractAddress": "0x7ae2c1906f625572e78a206dd20d9c8af96c2a86",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Holy Mackerel",
+  "description": "常備できるタイプの愛です",
+  "attributes": []
+}

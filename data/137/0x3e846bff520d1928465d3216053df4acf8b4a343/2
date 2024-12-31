@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWV4mypR9FhaUre34XeUdhSBSgo4u5H4ULkwKdiucGSTa/nft.png",
+  "nftContractAddress": "0x3e846bff520d1928465d3216053df4acf8b4a343",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "FUELHASH × VeryLongAnimalBabies #2",
+  "description": "The collaboration with FUELHASH Inc. Proceeds from this NFT primary sale will be used for donations to support humanitarian aid and shelter dogs in Ukraine. Created by VeryLongAnimalBabies",
+  "attributes": [
+    {
+      "value": "Siberian husky",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "Dog",
+      "trait_type": "TYPE"
+    }
+  ]
+}

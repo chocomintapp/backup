@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmeh2J22XUwBxHXqLqgpyRtteQiEZqQQDviBdY9gfWmWVA/nft.png",
+  "nftContractAddress": "0x643432bea9ac22a393a3583ca1ac17e4aa8c625c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "",
+  "description": "Pixel Heroes GAME【Battle Heroes】で使用可能なモンスターNFT",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

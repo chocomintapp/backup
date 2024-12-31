@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR9F3mWLk92daUa4Lf9fUkFrf9dk5MjfmUNCPtUSntFj1/nft.png",
+  "tokenId": 28,
+  "description": "Creator [mirakuru-momoka](https://opensea.io/mirakuru.eth?tab=created_collections)\n\nパパロンからとびっきりの大吉とみらくるパワーをあなたへお届けします！",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "大吉 #5",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "大吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "mirakuru-momoka"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Unopened"
+    }
+  ]
+}

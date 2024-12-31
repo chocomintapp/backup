@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbytbAUi1NYWvnQtzqGCtWSrg14HHx4bFtsgxYZwyN91A/nft.png",
+  "tokenId": 96,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TYPE5 model1 Otsu**  \nIt was a very capable fighter aircraft deployed by the Japanese Army at the end of the Pacific War.\n\nThe 59th squadron, which operated this aircraft, even said that it was \"equal to the P-51, no problem with the F6F, and a sitting duck with the F4U.\n\nIt was originally manufactured as a Type 3 fighter (Hien).  \nThe Type 5 fighter replaced the water-cooled engine, which had many malfunctions and required a lot of work, with a highly reliable air-cooled engine (Ha 112).\n\nFlight performance other than maximum speed was greatly improved, and practicality was dramatically enhanced.  \nThe Type 5 was able to compete with high-performance U.S. aircraft in the final stages of the war.  \nIt can be said that it is one of the few fighter planes.\n\n\n**五式戦闘機 1型乙**  \n太平洋戦争末期に日本陸軍が投入した非常に優秀な戦闘機です。\n本機を運用した飛行第59戦隊では「P-51となら対等、F6Fなら問題無し、F4Uならカモ」とさえ言われました。\n\nもともとは三式戦闘機（飛燕）として製造された機体ですが、不調が多く、なにかと手のかかる水冷エンジンだったため、軽量で信頼性の高い空冷エンジン（ハ112）に換装した結果、最高速度以外の飛行性能は大幅に改善され、実用性が格段に向上しました。\n\n五式戦は終戦間際に高性能な米軍機と互角の空戦を繰り広げた\n数少ない戦闘機と言えます。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0096 TYPE5 model1 Otsu",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Fighter"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWpNmQufP1rRdoUQDDmC8gbKgSyXbXcXw2ggpVchipKtB/nft.png",
+  "tokenId": 7,
+  "description": "３D Object",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/QmNb9e3AvJPuUTZbXqVmbx1e4jf2i4EHUraCSvPdYLHugg/nft.gltf",
+  "chainId": "137",
+  "name": "GUN",
+  "attributes": [
+    {
+      "trait_type": "3D",
+      "value": "0.005"
+    }
+  ]
+}

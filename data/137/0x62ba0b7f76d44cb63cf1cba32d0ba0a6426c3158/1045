@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRKssHFyHzrhsairCLb3eHN1Xzca8sjMFaw1XTrBFy6qJ/nft.gif",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 1045,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #1045",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Hercules Beetle",
+      "trait_type": "TYPE"
+    }
+  ]
+}

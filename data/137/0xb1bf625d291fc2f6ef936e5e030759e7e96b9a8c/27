@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVyyZcj6pWnSd8EVJtqihxZJHPYqSvtdKEZ3eXGw8GhGL/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "137",
+  "name": "HUNIMAL #27",
+  "description": "Human + Animal = Hunimal",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Fluorescent Pink",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Tosa Dog + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "1980s Italian Mafia Style",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Slick Back",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Mafia",
+      "trait_type": "STYLE"
+    }
+  ]
+}

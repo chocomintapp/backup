@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTKqSkWhPZaNY37pEH1pd3pNEaJRN48Jn6nSp5DuVyWHi/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmTKqSkWhPZaNY37pEH1pd3pNEaJRN48Jn6nSp5DuVyWHi/nft.gif",
+  "tokenId": 38,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #38",
+  "description": "ベビロン二次創作",
+  "attributes": [
+    {
+      "value": "Earthworm",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

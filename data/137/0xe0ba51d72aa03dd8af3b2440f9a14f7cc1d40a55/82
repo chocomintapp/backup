@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV2zkgrwc2RxRJPqzoZJkdoLa2RmVv8EFNBpftMpgrSSo/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 82,
+  "chainId": "137",
+  "name": "ただ描きたい絵があったえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ピュア",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ユーリンチー",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "イカノシオカラ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "絵描き",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "ヒトハテデハナクノウデエヲカク",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

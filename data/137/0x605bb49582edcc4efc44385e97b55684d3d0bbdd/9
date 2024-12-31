@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUPTg1FKY52U7MoDVG9GRFALrbnFcjqWbpXPrso9u3Hzg/nft.jpg",
+  "nftContractAddress": "0x605bb49582edcc4efc44385e97b55684d3d0bbdd",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "My Only Girlfriend #019",
+  "description": "\"My Only Girlfriend\" is a collection of special expressions that she shows only to you. Why don't you get your own special girlfriend?\n★This is a special version exhibited at NFT Kohaku 2023!\nYour hand is visible.\n\n\"Aha, it's ticklish.\" I pinched her cheek and she laughed as if it was tickling. I want to protect this smile of hers.\n\n＊＊＊\n\n「My Only Girlfriend」は彼女があなただけに見せる特別な表情を切り取ったコレクションです。 あなただけの特別な彼女を手に入れてみませんか？\n★こちらはNFT紅白2023に出品した特別仕様！\n「貴方」の手が映っていますね。\n\n「あはは、くすぐったいよ」彼女の頬をつん、と押してみると、彼女はくすぐったそうに笑いました。彼女のこの笑顔、守ってあげたいですね。",
+  "attributes": [
+    {
+      "value": "female",
+      "trait_type": "character"
+    },
+    {
+      "value": "red",
+      "trait_type": "color"
+    }
+  ]
+}

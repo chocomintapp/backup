@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSaugVVnx27p7CweD1eHAt5cY1Srd7QgLQdjvKaKq67eV/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmSaugVVnx27p7CweD1eHAt5cY1Srd7QgLQdjvKaKq67eV/nft.mp4",
+  "tokenId": 903,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1003",
+  "description": "盛り上がりに欠ける音楽NFT\n風穴あけるからまかせときー",
+  "attributes": [
+    {
+      "value": "aj2",
+      "trait_type": "M"
+    },
+    {
+      "value": "Bプルート",
+      "trait_type": "押韻職人"
+    },
+    {
+      "value": "禅",
+      "trait_type": "BG"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://gateway.pinata.cloud/ipfs/QmdGGqJinruLWrXdaNPQcAtMHh7FNYHbo8izTPxgx5g8HZ",
+  "tokenId": 2,
+  "description": "このNFTはプログラミングにより生成されています\n画像をクリック 又は タップすると新たな模様が生成されます\n\nClick or tap this NFT canvas to draw a purple soul",
+  "nftContractAddress": "0x00f3e61b48f97f001fefd952fa86e3d7eb65c5a6",
+  "animationUrl": "https://gateway.pinata.cloud/ipfs/QmWW3TmpZPdymhZcyC6SjCPwPpFNgwL6HZCzxWqHMsMDbp/",
+  "chainId": "137",
+  "name": "#2 Generative Art",
+  "attributes": [],
+  "minted": "✅"
+}

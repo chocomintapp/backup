@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPMZnn6AXqnw9uHpyb72nqxAXSgS2119pEZ1sxqDPU1zc/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 103,
+  "chainId": "137",
+  "name": "Working Ganmichan #23 ",
+  "description": "令和の歌姫ことがんみょん、もといがんみちゃんは、その類稀な歌声でスターダムに駆け上がった。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "Singer-songwriter",
+      "trait_type": "situation"
+    }
+  ]
+}

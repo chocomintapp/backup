@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfC8JHW9bmNYfR128H7RkhMJ13LiFLNDoDEetRHLsaYeA/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmfC8JHW9bmNYfR128H7RkhMJ13LiFLNDoDEetRHLsaYeA/nft.mp4",
+  "tokenId": 916,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1015",
+  "description": "メタバース大喜利大会\nメタバースの敷居を下げたい",
+  "attributes": [
+    {
+      "value": "aj6",
+      "trait_type": "M"
+    },
+    {
+      "value": "Ｂプルート",
+      "trait_type": "押韻職人"
+    },
+    {
+      "value": "禅",
+      "trait_type": "BG"
+    }
+  ]
+}

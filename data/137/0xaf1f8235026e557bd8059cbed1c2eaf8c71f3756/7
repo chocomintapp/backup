@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc7inWSFWnh2Pm2dwjjMaL7ibyk4sBbWMpD1aL9zBUfSs/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc7inWSFWnh2Pm2dwjjMaL7ibyk4sBbWMpD1aL9zBUfSs/nft.gif",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "WavyLongAnimals #7",
+  "description": "ベリロン二次創作",
+  "attributes": [
+    {
+      "value": "Panda",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYgiWuYXuDNRoSm9FEy2CRGDkTcQEvucCSAfvLi4WB2v4/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 102,
+  "chainId": "137",
+  "name": "Working Ganmichan #22",
+  "description": "がんみちゃんは超頑固なラーメン屋の大将です。\n「帰れバカヤロウ！！」とお客さんを怒鳴り散らかすが、お客さんは内心喜んでいる。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "ganko",
+      "trait_type": "situation"
+    }
+  ]
+}

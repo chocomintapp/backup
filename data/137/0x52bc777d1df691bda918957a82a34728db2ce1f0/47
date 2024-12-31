@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbK87JTu23t8Au2ft6bT6xtj1gJJRmfJUvhZmXhbkoJfn/nft.jpeg",
+  "tokenId": 47,
+  "description": "Calligraphy Devil #47",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #47",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "God"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Thor"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Vassago"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lethe"
+    }
+  ]
+}

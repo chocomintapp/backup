@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUQ5LQ4eKS2rf3qvLroCfPcnoAeK5EGg5mY1mHtNszgx2/nft.png",
+  "tokenId": 12,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "宍道湖　-Shinjiko-",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Lake Shinji"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Paint"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

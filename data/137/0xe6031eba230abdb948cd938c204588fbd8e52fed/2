@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmURemFTho3m7GivXFmqPggrY1zTgLJkYZMJrqsiVd4rea/nft.mp4",
+  "tokenId": 2,
+  "description": "red wave",
+  "nftContractAddress": "0xe6031eba230abdb948cd938c204588fbd8e52fed",
+  "animationUrl": "https://ipfs.io/ipfs/QmTh5kCS8CfvibsS9efGxcd4ForfGtmDqgocgfZbpcEF6e/nft.mp3",
+  "chainId": "137",
+  "name": "red wave",
+  "minted": "✅"
+}

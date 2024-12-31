@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYYVh5feDsh4SpuXoUXuMr7L6QUPCpZf9Ga39J93X6wcC/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 59,
+  "chainId": "137",
+  "name": "#59 Braided up style white",
+  "description": "Cute hairstyles that look good with yukata.",
+  "attributes": [
+    {
+      "value": "Hair",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Braided up style",
+      "trait_type": "Hair"
+    }
+  ],
+  "minted": "✅"
+}

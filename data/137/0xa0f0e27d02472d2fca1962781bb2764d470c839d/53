@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYeiY5kwtqfDVpYDx86FamLzM2KUTLe6ZoUoJEGRtaTBu/nft.png",
+  "tokenId": 53,
+  "description": "恐竜界の王様です。\n\nI am the king of the dinosaur world.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tyrannosaurus（ティラノサウルス）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Dinosaur"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

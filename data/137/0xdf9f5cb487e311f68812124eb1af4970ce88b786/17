@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRAH3o6prkn8Qtu96pcvHDY2nhAMWTF8xVqNusTgHhiQz/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "Working Ganmichan #9",
+  "description": "Ganmichan's rammer #3",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "rammer",
+      "trait_type": "situation"
+    }
+  ]
+}

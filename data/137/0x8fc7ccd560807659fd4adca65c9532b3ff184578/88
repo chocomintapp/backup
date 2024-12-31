@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWgZkVjRcX6RXnmMTkNk5JUhEmanLoyhsk1uw5fnjo47d/nft.png",
+  "nftContractAddress": "0x8fc7ccd560807659fd4adca65c9532b3ff184578",
+  "animationUrl": "",
+  "tokenId": 88,
+  "chainId": "137",
+  "name": "web3search Membership #88",
+  "description": "",
+  "attributes": [
+    {
+      "value": "88",
+      "trait_type": "No"
+    }
+  ],
+  "minted": "✅"
+}

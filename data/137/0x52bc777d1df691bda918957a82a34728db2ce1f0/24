@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTRtU24nrP2e24eVmh2WJjv9im1bWY4z9b4RftBex23rE/nft.jpeg",
+  "tokenId": 24,
+  "description": "Calligraphy Devil #24",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #24",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Vapula"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Qemuel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Greed"
+    }
+  ]
+}

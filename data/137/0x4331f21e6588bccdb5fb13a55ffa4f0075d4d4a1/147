@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ5mNiF5Aeoc9bHXyrjD8325FqoUMcasxwoMyPU3uZVjM/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 147,
+  "chainId": "137",
+  "name": "WMM #0147 SU-76M",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SU-76M**  \nIt is a light self-propelled artillery gun with excellent firepower developed by the Soviet Union. It is an improved version of the SU-76, which had many drive system problems.\n\nThe 76.2mm ZiS-3sh assault gun mounted on this self-propelled artillery gun was so excellent that it was feared by German soldiers, who called it \"latsch (scraping) bam (firing sound)\" because of the firing sound after impact.\n\nIt was an open-top vehicle with a maximum armor of only 25 mm, and its defensive capabilities were poor, but it was a valuable vehicle that could perform a wide range of tasks, from anti-tank combat with armor-piercing rounds to infantry support with grenades.\n\nThe fact that it was produced in numbers as high as 14,000 shows that it was a highly effective weapon on the battlefield.\nIt is a light self-propelled artillery gun with excellent firepower developed by the Soviet Union. It is an improved version of the SU-76, which had many drive system problems.\n\n**SU-76M 軽自走砲**  \nソ連が開発した火力に優れた軽自走砲で、駆動系のトラブルが多かったSU-76の改良版です。\n\nこの自走砲の搭載していた76.2mmのZiS-3sh突撃砲が非常に優秀で、着弾後に発射音が聞こえることからドイツ兵からは「ラッチュ（擦過音）・バム（発射音）」と呼ばれ恐れられました。\n\nオープントップで最大装甲25mmと防御力は貧弱でしたが、徹甲弾による対戦車戦闘から榴弾での歩兵支援まで幅広くこなせる貴重な車輌として歩兵からの支持は絶大でした。\n\n生産数がT-34に次ぐ14000輌にも上る事からも戦場での有効性が高い兵器だったことが分かります。",
+  "attributes": [
+    {
+      "value": "Soviet",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUFwQwj761T7qQ22ijJiADP6dmioftvy5gogKLzfDPBrU/nft.png",
+  "nftContractAddress": "0x97decb9b926385f7eb76a56b5ab44d57d4c01f3f",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "trnthd02",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SMILE",
+      "trait_type": "DIMENSION"
+    }
+  ]
+}

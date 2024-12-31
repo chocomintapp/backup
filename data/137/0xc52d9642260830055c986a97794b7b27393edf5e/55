@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY1vrLL5nEqaNviUv7ZhZ26pQZ17ur6t6uyN36d1ST4UC/nft.png",
+  "tokenId": 55,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #55",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Euglena"
+    }
+  ],
+  "minted": "✅"
+}

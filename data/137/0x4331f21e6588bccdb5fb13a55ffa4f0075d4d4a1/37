@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbNyNpjHJJZv4NBnSMFv2xABfdS4reoBCGmWmmi3S17vR/nft.png",
+  "tokenId": 37,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SHUSUI**  \nBased on a part of the \"Me163 Comete\" drawings obtained from Germany.  \nIt is a rocket interceptor fighter that was jointly developed by the Japanese Army and Navy.\n\nThe plan was to use a liquid rocket engine mounted on a small fuselage to achieve a maximum speed of 800 km/h and climb to an altitude of 10,000 meters in just three minutes to intercept B-29s.\nHowever, the war came to an end while it was still in the prototype stage.  \nThe fact that it took only about a year to complete a test flight based on incomplete blueprints is highly appreciated.\n\nIt is also important to note that it was a rare aircraft that was jointly developed by the Japanese Army and Navy.\n\n**局地戦闘機 試製 秋水**  \nドイツから入手したMe163（コメート）の図面の一部を元に日本陸海軍が共同で開発していたロケット局地戦闘機です。  \n小型の機体に搭載した液体ロケットエンジンで最高速度800km\n高度1万メートルまでわずか3分で上昇しB-29を迎撃する予定でした。\n\n試作段階で終戦を迎えましたが、未知のテクノロジーに対して不完全な設計図を元に1年ほどで試験飛行までたどり着いた技術者の執念は並々ならぬものがあります。  \n珍しく陸海軍が共同で開発した機体なのもポイントです。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0037 SHUSUI",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Fighter"
+    }
+  ],
+  "minted": "✅"
+}

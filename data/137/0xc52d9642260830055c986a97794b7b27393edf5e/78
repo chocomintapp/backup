@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYrqMXXGmkGpMQHW8e6iu7Mwvjkha2a99AcvobZbKPYAV/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 78,
+  "chainId": "137",
+  "name": "VeryLongAnimals #78",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Axolotl",
+      "trait_type": "TYPE"
+    }
+  ]
+}

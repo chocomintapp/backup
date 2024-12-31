@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeV3WEw8or9fWZGY1qq8SGuY4wmLpoGArGEWjQqNtUm3w/nft.jpg",
+  "nftContractAddress": "0x9a89c71e926a607b9724096a5f01ff2c15ad8d08",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "#7",
+  "description": "This is LOM world, which only creators can open special door key.\n",
+  "attributes": [
+    {
+      "value": "GOLD",
+      "trait_type": "KEY COLOR"
+    },
+    {
+      "value": "Blue Purple",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

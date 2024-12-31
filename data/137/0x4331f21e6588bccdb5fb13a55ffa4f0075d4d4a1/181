@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbupvkPJSk12iE77M4CqL8s5tJ187dp8cdeZh3HASQs3J/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 181,
+  "chainId": "137",
+  "name": "WMM #0181 T-26",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**T-26**  \nIt was the best-selling light tank developed by the Soviet Union before the war.\n\nIt was an excellent and well-balanced design for its time in 1933, and its performance became known to the world by defeating the hostile Tank I and L3 light tanks in the Spanish Civil War.\n\nImprovements were made after the 1933 model, and it was used in the Winter War with the Finnish Army, the Nomonhan Incident with the Japanese Army, the invasion of Poland, and the German-Soviet War. It played an active role in historical scenes from the invasion of Poland to the beginning of the war between Germany and the Soviet Union.\n\n**T-26軽戦車**  \nソ連が戦前に開発した軽戦車のベストセラーです。\n\n1933年当時としてはバランスの良い優秀な設計で、スペイン内戦では敵対するI号戦車やL3軽戦車を撃破し、その性能を世に知らしめました。\n\n1933年型の後も改良が加えられ、フィンランド軍との冬戦争や日本軍とのノモンハン事件、ポーランド侵攻から独ソ戦緒戦までと歴史的な場面で活躍しました。",
+  "attributes": [
+    {
+      "value": "Soviet",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

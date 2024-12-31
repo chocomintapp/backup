@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma2UTeALgjuMu7vdAhe2qzBeMYU7sMKgyykMKEz658C4j/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #25",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Octopus",
+      "trait_type": "TYPE"
+    }
+  ]
+}

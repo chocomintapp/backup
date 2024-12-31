@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW24ugqc8WnujZZpFfZ4YH65N1m7qbKUDQpBBFfc5SKzf/nft.png",
+  "nftContractAddress": "0xb56e49b6428c85c77df4a936162509962caed661",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "Sauerkraut",
+  "description": "A delicatese made from harvested cabbage",
+  "attributes": []
+}

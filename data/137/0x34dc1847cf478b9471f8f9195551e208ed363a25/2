@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTCXFyh4Lv4KxzXrr7bWYeq3cERr9p7UYmeyzq93vucVn/nft.png",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0x34dc1847cf478b9471f8f9195551e208ed363a25",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Mono",
+  "attributes": []
+}

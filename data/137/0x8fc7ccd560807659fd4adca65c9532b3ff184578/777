@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQYXp6iExGW2ANaWUQdBLCixHPdKk3KVXRjjER94KHq8z/nft.png",
+  "nftContractAddress": "0x8fc7ccd560807659fd4adca65c9532b3ff184578",
+  "animationUrl": "",
+  "tokenId": 777,
+  "chainId": "137",
+  "name": "web3search Membership #777",
+  "description": "",
+  "attributes": [
+    {
+      "value": "777",
+      "trait_type": "No"
+    }
+  ]
+}

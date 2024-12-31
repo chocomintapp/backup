@@ -1,0 +1,64 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZo5oYgjRh45CrKy3eF7sTS7eskE2Jr3sSTdAXkkwvML3/nft.png",
+  "tokenId": 76,
+  "description": "PFPs_Polygon.  \nWhat's inside Kapsel?  \nKapsel contains the present, the past, and the future.",
+  "nftContractAddress": "0x4aca62f1a59e44b3cb12e432555f5e6acf3dc558",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "TheKAPSEL#76",
+  "attributes": [
+    {
+      "trait_type": "Brand",
+      "value": "Kapsel78Lab"
+    },
+    {
+      "trait_type": "Collections",
+      "value": "The KAPSEL78"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Morim"
+    },
+    {
+      "trait_type": "Gen",
+      "value": "1"
+    },
+    {
+      "trait_type": "TYPE",
+      "value": "Icon"
+    },
+    {
+      "trait_type": "Upper outer",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Lower outer",
+      "value": "Skin tone"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Unicorn Green"
+    },
+    {
+      "trait_type": "Font",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Unicorn Green"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Circle White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Outside Circle Unicorn Green"
+    }
+  ],
+  "minted": "✅"
+}

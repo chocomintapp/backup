@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSLkWEfjbBruozB4RjYtZ1DeunS6iKLp8Sa4uBeKxsiTB/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmSLkWEfjbBruozB4RjYtZ1DeunS6iKLp8Sa4uBeKxsiTB/nft.gif",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #10",
+  "description": "ベビロン二次創作",
+  "attributes": [
+    {
+      "value": "Tiger",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

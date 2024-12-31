@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdrEuvM5tkT9wwuqsSpsv85q6cShjAA1zdtmACqa5C1x6/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 151,
+  "chainId": "137",
+  "name": "WMM #0151 TYPE1 Chi-he",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TYPE1 Chi-he**  \nIt is a medium tank further improved from the Type 97 Medium Tank Kai (new turret Chi-Ha).\n\nIt has the same offensive power as the new turret Chi-Ha, 47mm 48 caliber, but its defensive power has been doubled, and its engine output has been greatly increased to improve mobility.\n\nTogether with the Type 3 Medium Tank (Chinu), it was one of the weapons preserved for the decisive battle on the mainland.\n\n**一式中戦車 チヘ**  \n九七式中戦車改（新砲塔チハ）を更に改良した中戦車です。\n\n攻撃力こそ新砲塔チハと同じ47mm 48口径ですが、防御力は倍になり、エンジン出力も大幅に増え機動性が向上しました。\n\n三式中戦車（チヌ）と共に本土決戦用に温存された兵器のひとつです。\n",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma1kbjEn3oHgL6dJZo1K714QHy9wsSFKrQgAR1GRYk5xu/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 81,
+  "chainId": "137",
+  "name": "VeryLongAnimals #81",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Capybara",
+      "trait_type": "TYPE"
+    }
+  ]
+}

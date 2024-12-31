@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRrxVFjkVCRG8TA11ihpsJGjQhQjA4Rtovs3oEtvammVe/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmRrxVFjkVCRG8TA11ihpsJGjQhQjA4Rtovs3oEtvammVe/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "2022 Valentine's Day girl",
+  "description": "Today is Valentine's Day!\n Who will get chocolate? \nOr should I eat it myself? \nHave a nice day. ‪‪",
+  "attributes": [
+    {
+      "value": "Mint",
+      "trait_type": "Character"
+    }
+  ],
+  "minted": "✅"
+}

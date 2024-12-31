@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSrUhzathmbaJ1JAHfLyvHNYkMNWuyyKazw24v6ygjfxh/nft.png",
+  "nftContractAddress": "0x2539a9f65f0a3ae9c372c20220f8be406a57fcc5",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "RanmaruNFT #test",
+  "description": "aaaa",
+  "attributes": []
+}

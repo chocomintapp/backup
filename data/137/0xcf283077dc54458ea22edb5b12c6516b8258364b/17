@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVzRKp1m6LENa5o5yf8JGJK9HN8vWMPCBzY3Nm6GdN6nv/nft.png",
+  "nftContractAddress": "0xcf283077dc54458ea22edb5b12c6516b8258364b",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "Pink [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nPink\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR EVO]",
+  "attributes": [
+    {
+      "value": "Devil",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Pink White",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Green",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Flame Sewat",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Devil's Wing",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Pink Flame",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "EVO",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

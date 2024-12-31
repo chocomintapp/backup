@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYHvtkwmzDnz3uMJsz33TfBHJjArQhToEEWuArUrU6jaV/nft.png",
+  "tokenId": 1,
+  "description": "3DCG Illustration",
+  "nftContractAddress": "0x4b6131126b594306a75fa2fea2fe7f403c92d442",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Sirius"
+}

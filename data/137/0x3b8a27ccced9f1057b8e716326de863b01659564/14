@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQcSbbaihwSBzULi2SLu7wNahhJLcHCqHhDiGcJy5btef/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #14",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Gorilla",
+      "trait_type": "Type"
+    }
+  ]
+}

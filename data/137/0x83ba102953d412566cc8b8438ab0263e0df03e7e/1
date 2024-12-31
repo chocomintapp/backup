@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmajKWZrJaxEhw4AqiQ1VuxVDutsVreSUAt1beHBLaWkH6/nft.png",
+  "tokenId": 1,
+  "description": "Sub Parade! The 2nd project of \"Meta Parade!\" [https://opensea.io/collection/meta-parade](https://opensea.io/collection/meta-parade)  Meta Parade! is a project looking to create the world's largest Community-driven virtual talent agency! With 9999 NFTs which work as membership cards in joining the agency.",
+  "nftContractAddress": "0x83ba102953d412566cc8b8438ab0263e0df03e7e",
+  "animationUrl": "https://ipfs.io/ipfs/QmTt6iBqHXnSzV5MSkL686HG3sL24bJA7Hg3EgQuTHhDUP/nft.mp4",
+  "chainId": "137",
+  "name": "Sub Parade! #XXXA",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fantasy"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Space",
+      "value": "Pink and Light blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mint Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crimson"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sticking Plaster "
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Bright Green T-shirt"
+    }
+  ]
+}

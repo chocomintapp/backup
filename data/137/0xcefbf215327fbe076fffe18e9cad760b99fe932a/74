@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVFJUYTZgnpvy2MaiHcqKCoAJPfQm1hwD7QPWdri5NqwV/nft.jpg",
+  "tokenId": 74,
+  "description": "74/101  \nTaken on Apr 21, 2018  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #74",
+  "attributes": [
+    {
+      "trait_type": "weather",
+      "value": "clear"
+    }
+  ]
+}

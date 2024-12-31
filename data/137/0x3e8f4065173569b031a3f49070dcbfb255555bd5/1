@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXw3xTbsns7nMLK9Kdraty6T9R46x7jQY6Gss4gm6K3HE/nft.JPG",
+  "tokenId": 1,
+  "description": "image NFT",
+  "nftContractAddress": "0x3e8f4065173569b031a3f49070dcbfb255555bd5",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "No.1 tamuken-image",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRn2wZPq2SYamjQg2S3QTPKfvW1ByuZm1ZC96tigbDK57/nft.png",
+  "tokenId": 137,
+  "description": "Contemporary art style Mummy Medjed",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/QmRn2wZPq2SYamjQg2S3QTPKfvW1ByuZm1ZC96tigbDK57/nft.png",
+  "chainId": "137",
+  "name": "medjed no.137/1000",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Night"
+    }
+  ],
+  "minted": "✅"
+}

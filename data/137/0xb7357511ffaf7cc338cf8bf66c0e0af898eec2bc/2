@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYQSMBqSf4qLAY1nsSpLAao7LLbXDqXDBp6V3Hn9RgXS3/nft.png",
+  "nftContractAddress": "0xb7357511ffaf7cc338cf8bf66c0e0af898eec2bc",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "dead-copy#2",
+  "description": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Tigar"
+    }
+  ]
+}

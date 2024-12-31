@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdQiH78vXt4Y6GQyRWUv3dYoaZddwmhwTs9yXYDTP8aFZ/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "137",
+  "name": "#31『Girl with star eyes』×『RabbitGirls』 Makeup pouch",
+  "description": "Special Collaboration Dress up item.\nMakeup pouch\n\nThanks💜Twitter @acha_52",
+  "attributes": [
+    {
+      "value": "Hug",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Collaboration",
+      "trait_type": "Special"
+    }
+  ],
+  "minted": "✅"
+}

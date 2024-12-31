@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQHFJBFkpHz6YRRYLh4UeMw5SK1DrYJbKxZAEcbYhiHPs/nft.jpeg",
+  "tokenId": 1,
+  "description": "kappa is japan monster",
+  "nftContractAddress": "0xe97bd69b82536e5a1dea7f565c2a96d042f8e318",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "kappa",
+  "attributes": [],
+  "minted": ""
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTuTCAqTCnBPShGnBeShhHZqj8SPNFPjhy97KdgEDv7eW/nft.jpg",
+  "nftContractAddress": "0x442c375ff3d172ac168007f3d9943f2eb75e19f6",
+  "animationUrl": "https://ipfs.io/ipfs/QmPAAdKjAEfFV6m2MBVHdHVZ1Z7fprnoSwbqt3aECjbmCQ/nft.mp3",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Amanaki～天泣～",
+  "description": "This song is inspired by the phenomenon of rain falling on a sunny day.\n\nPurchasers can download the full mp3 version and use it for any purpose to help your creativity, commercial use, and of course listening.\nhttps://lock.chocomint.app/locks/9d98abb0-6566-4f7f-a3d4-92af60c1bc8d\n\nCC0 License.\n\nHave a happy music life!\n\nArtist : YOSHIE",
+  "attributes": [
+    {
+      "value": "YOSHIE",
+      "trait_type": "Artist"
+    },
+    {
+      "value": "CC0",
+      "trait_type": "License"
+    }
+  ]
+}

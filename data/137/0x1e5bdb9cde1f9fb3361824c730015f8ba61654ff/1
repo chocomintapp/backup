@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTC4uqiYZQMnWeBvnAwJAdpdwcdSLXFxSbrhR7LWyFe5p/nft.jpg",
+  "tokenId": 1,
+  "description": "サムネイルは静止画です",
+  "nftContractAddress": "0x1e5bdb9cde1f9fb3361824c730015f8ba61654ff",
+  "animationUrl": "https://ipfs.io/ipfs/QmaxBsgqJ9kJmH8Ggufe6T48E9FrnT3ZNsosU2VMC12mDg/nft.mp4",
+  "chainId": "137",
+  "name": "画像＋動画",
+  "minted": "✅"
+}

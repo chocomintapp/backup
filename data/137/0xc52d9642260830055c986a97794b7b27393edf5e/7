@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma468JCZqE1URho9ihzCHo5zkYn2Y15VSSWan7aUwsMys/nft.png",
+  "tokenId": 7,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #7",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Panda"
+    }
+  ],
+  "minted": "✅"
+}

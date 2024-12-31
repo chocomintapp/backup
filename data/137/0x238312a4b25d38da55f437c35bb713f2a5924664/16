@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQKwvFQdsNmEMsjWWwSuGj5f3V26DRYXrkUrzwpFBnGsm/nft.gif",
+  "tokenId": 16,
+  "description": "",
+  "nftContractAddress": "0x238312a4b25d38da55f437c35bb713f2a5924664",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Reflection",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "Background",
+      "value": "Reflection"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Green Beanie"
+    },
+    {
+      "trait_type": "Headphone",
+      "value": "Yellow v.2"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Oculus"
+    },
+    {
+      "trait_type": "Pet",
+      "value": "Bunny"
+    },
+    {
+      "trait_type": "Bag",
+      "value": "Black Backpack"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Bunny"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

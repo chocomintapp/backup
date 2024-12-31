@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPRgYcgXFDpM5FfvoFTRKW7MDkTN4j2L8HBbiR1yepo7S/nft.png",
+  "tokenId": 1,
+  "description": "Created by AkimuneKawa",
+  "nftContractAddress": "0x1a780b72e8f25a1194063b4046f8aced469ed6e6",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #0",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Penguin"
+    }
+  ]
+}

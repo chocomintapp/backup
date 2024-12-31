@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ8NnRvRsCatLXgi2Y76rmYX2BaqEnePz7EEAS2Mv7kgr/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #112 Apr.23",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n4月23日\n\n木曜日。自分にとって必要だと思う「言葉」は、いちばん手に馴染む測量野帳へ、お気に入りの万年筆で書き留めるようにしている部長です。その日は、何気なくページをめくりながら、過去に記録した言葉を眺めていました。いつ書いたのか、何を思って書いたのか、今となっては思い出せないものもたくさんあります。野帳の最初の方に、その言葉は書いてありました。『私たちの魂が何処から来て、何処に向かうのか…そんなことを分からずして、怖くはないか？』…どこで聞いたのか、全く思い出すことができません。休憩が終わり、そっと野帳を閉じる部長なのでした。\n\n-------------------\n\nApril 23\n\nThursday. He writes down the \"words\" he thinks are necessary for him with his favorite fountain pen in his notebook, which is the most comfortable one for him. On that day, he casually flipped through the pages and looked at the words he had recorded in the past. Many of them he cannot even remember now when he wrote them or what he was thinking. At the beginning of the notebook, the words were written. 'Where do our souls come from and where are they going... without knowing such things, are we not afraid?' ...He can't quite recall where he heard it. After the break, he quietly closes his notebook.",
+  "attributes": [
+    {
+      "value": "測量野帳",
+      "trait_type": "MEMO"
+    },
+    {
+      "value": "White Grey",
+      "trait_type": "PANTS"
+    },
+    {
+      "value": "Web Style Blue",
+      "trait_type": "SHIRT"
+    },
+    {
+      "value": "Special",
+      "trait_type": "TIE"
+    },
+    {
+      "value": "White",
+      "trait_type": "TIE PIN"
+    },
+    {
+      "value": "White",
+      "trait_type": "VNECK-SHIRT"
+    }
+  ]
+}

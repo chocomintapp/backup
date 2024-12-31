@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZgfQavBFAdUKECSbBEkfcsRKsErWG9AqModXUMkAid25/nft.png",
+  "tokenId": 18,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n1月29日\n\n昨日の知財関連の打ち合わせも無事に終わり、社運をかけた一大プロジェクト「昆虫用ドーナツ」の特許取得が見えてきた「ねじねじドーナツ部長」です。商品リリースまで秘密裏に進めなくてはいけないため、まだまだ安心はできませんが、最難関をクリアしたこともあってちょっとした達成感すらあります。頭の中をいつか観た「アルマゲドン」の主題歌が繰り返し駆け巡ります。つい先程、近所のマーケットで買ってきた季節外れのカブトムシに、昆虫用ドーナツをプレゼントする部長なのでした。\n\nJan 29\n\nThe IP-related meeting yesterday went off without a hitch, and we are now in sight of obtaining a patent for the \"Donut for Insects,\" a major project that is the company's destiny, \"Screw Screw Donut Manager. He even has a little sense of accomplishment as he has cleared the most difficult hurdle, although he still cannot rest assured as he has to proceed in secrecy until the product release. The theme song of \"Armageddon,\" which he saw sometime ago, runs through his head repeatedly. Just a few days ago, he was presenting an insect doughnut to an out-of-season beetle he bought at a local market.",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #028 Jan.29",
+  "attributes": [
+    {
+      "trait_type": "BOOTS",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "INNERSUIT",
+      "value": "Others"
+    },
+    {
+      "trait_type": "SPACESUIT",
+      "value": "Others"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Black"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX2ru2JyQV5TVdpotyWiVYzGZYFZaywCreH8tRytYSrUV/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "137",
+  "name": "#30",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#D8D9F1",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#00608D",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "12 ecliptical constellations",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Aquarius",
+      "trait_type": "face"
+    },
+    {
+      "value": "lift",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Water Jar",
+      "trait_type": "Accessory1"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcgkzDKPSDRHNiaT9zwvs9uFVPvbGST1mrCgguFtiVsJt/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 185,
+  "chainId": "137",
+  "name": "hakorobo #185",
+  "description": "hakorobo #185 HKVS-45",
+  "attributes": [
+    {
+      "value": "HKVS",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Leather",
+      "trait_type": "Shoes"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbdRPakTYAtydtgTNWgLwg6xUG5ESfNhEWqxLsyZxxLfQ/nft.gif",
+  "nftContractAddress": "0xb56e49b6428c85c77df4a936162509962caed661",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "Pirate Flag",
+  "description": "A beautiful flag crafted at Sunflower Land using wood and SFL",
+  "attributes": []
+}

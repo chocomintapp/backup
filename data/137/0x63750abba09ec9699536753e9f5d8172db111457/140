@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbgNgzXu2j745ouLa1NRQGQKHQXMcH66Kkk7dnb1MY8bN/nft.png",
+  "nftContractAddress": "0x63750abba09ec9699536753e9f5d8172db111457",
+  "animationUrl": "",
+  "tokenId": 140,
+  "chainId": "137",
+  "name": "PachiMon #00140",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Human T2",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Glasses",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Zipper",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Earring",
+      "trait_type": "Accessory"
+    }
+  ]
+}

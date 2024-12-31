@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUa3uNKMk1MB6F6YdPzdA3SfA45vffZyo4B6qYmUEmGNZ/nft.png",
+  "tokenId": 2,
+  "description": "A cute, puffy fairy.\nSweets are her favorite food.\nLimited to 100 pieces, 1/1.",
+  "nftContractAddress": "0xcac8aded9c5096ba359dc2939708cdaa1b6ae2bc",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cryptosnack #002",
+  "attributes": [
+    {
+      "trait_type": "Snack",
+      "value": "Fluffycandy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    }
+  ]
+}

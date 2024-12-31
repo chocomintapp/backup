@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWQeu7QCMpivLFueXHcBbCwj3GRboQWxmL8it6jRoWSyR/nft.png",
+  "nftContractAddress": "0x979756897565bda543a953c1d6616c37632109d5",
+  "animationUrl": "",
+  "tokenId": 52,
+  "chainId": "137",
+  "name": "Ticket to the void No.52",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Wisteria",
+      "trait_type": "MOM"
+    }
+  ]
+}

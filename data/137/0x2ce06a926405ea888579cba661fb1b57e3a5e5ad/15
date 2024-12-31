@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS74tqSm6NVreTwkw2SFUfXsRfceUMLSujEEkysnDKDTq/nft.jpg",
+  "tokenId": 15,
+  "description": "It is a Casper who is appearing in the \"Adoration of the Magi\".\nIt is a symbol of death, which is the future suffering.\n\n“東方三博士の礼拝”に出演中のカスパールです。\n将来の受難である死の象徴です。",
+  "nftContractAddress": "0x2ce06a926405ea888579cba661fb1b57e3a5e5ad",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Casper",
+  "attributes": []
+}

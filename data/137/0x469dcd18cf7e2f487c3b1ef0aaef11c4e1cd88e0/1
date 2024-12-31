@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdweWrW2TbLARfaD2j3xiDFm2kBgBTeU96fhyqaBsVoAi/nft.gif",
+  "tokenId": 1,
+  "description": "BUZZMASK®︎#001",
+  "nftContractAddress": "0x469dcd18cf7e2f487c3b1ef0aaef11c4e1cd88e0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "BUZZMASK®︎#001",
+  "attributes": [
+    {
+      "trait_type": "Animation",
+      "value": "5"
+    },
+    {
+      "trait_type": "Colors",
+      "value": "5"
+    },
+    {
+      "trait_type": "BUZZMASK®︎Logo",
+      "value": "5"
+    },
+    {
+      "trait_type": "Upsetters®︎ Logo",
+      "value": "0"
+    }
+  ],
+  "minted": "✅"
+}

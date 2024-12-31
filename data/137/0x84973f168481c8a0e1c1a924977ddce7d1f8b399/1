@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP13azEFqSses498NapcdrGu2WErcNZsA8mRGehqYNgH9/nft.png",
+  "nftContractAddress": "0x84973f168481c8a0e1c1a924977ddce7d1f8b399",
+  "animationUrl": "https://ipfs.io/ipfs/QmP13azEFqSses498NapcdrGu2WErcNZsA8mRGehqYNgH9/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "test-agashi",
+  "description": "test",
+  "attributes": [],
+  "minted": ""
+}

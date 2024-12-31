@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaRizNVCmmoe94UB8mPjHYCtEnFZupEZJhJFU5LKmVmrt/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #117 Apr.28",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n4月28日\n\n頭の上に、ふさふさとしたものが戻ってきて以来、部長には「好きになった数字」があります。それは…「23」です。下4桁が「2323」という電話番号を見ると、小躍りしたくなるくらい、嬉しい気持ちになります。部長は、昨日メールを頂いた「総帥」という役職の方と、会う約束をしたようです。取引先の代表権者が変わることで、これまで通りの取引やアライアンスに「待った」がかかるのは、よくあること。そうならないように、いやこれまで以上に強固なアライアンスを締結するチャンスとばかりに、躍起になる部長なのでした。\n\nApril 28\n\nEver since the bushy thing came back on top of his head, the director has had a number that he has \"fallen in love\" with. It is... \"23. When he sees a phone number with the last four digits \"2323\", he feels so happy that he wants to do a little leap. The general manager has made an appointment to meet with the \"general manager\" whose position I received an e-mail yesterday. It is not uncommon for a change in a business partner's representative authority to \"wait\" for business and alliances to continue as before. The general manager is eager to avoid such a situation, or rather, he is eager to take this opportunity to conclude an even stronger alliance than before.",
+  "attributes": [
+    {
+      "value": "For Music 1996 model",
+      "trait_type": "EARPHONES"
+    },
+    {
+      "value": "Mad Blue",
+      "trait_type": "JEANS"
+    },
+    {
+      "value": "Black",
+      "trait_type": "KNIT CAP"
+    },
+    {
+      "value": "White",
+      "trait_type": "T-SHIRT"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "ZIP HOODIE"
+    }
+  ]
+}

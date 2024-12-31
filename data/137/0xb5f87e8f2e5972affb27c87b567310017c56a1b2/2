@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeG4iyXvppP83sDUifCaUmPbwh7EuHbCJRSzpY9czGtGu/nft.jpg",
+  "tokenId": 2,
+  "description": "sky",
+  "nftContractAddress": "0xb5f87e8f2e5972affb27c87b567310017c56a1b2",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sky",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

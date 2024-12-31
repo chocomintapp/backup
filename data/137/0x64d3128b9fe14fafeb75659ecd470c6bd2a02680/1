@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZKcLMPcuqJdocfsEkAqWnoWR33T9QNuQ4ThfjqmLmjQ2/nft.png",
+  "nftContractAddress": "0x64d3128b9fe14fafeb75659ecd470c6bd2a02680",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "test1",
+  "description": "A dog guitarist",
+  "attributes": []
+}

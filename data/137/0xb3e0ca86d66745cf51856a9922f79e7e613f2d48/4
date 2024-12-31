@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPCdKN1jiUhTQJTj5rjWyPPReoY61ZVeiCfmwVJoxPZ7e/nft.jpg",
+  "nftContractAddress": "0xb3e0ca86d66745cf51856a9922f79e7e613f2d48",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "VeryCoolAnimals #004",
+  "description": "VeryLongAnimals✕CoolGirlの二次創作です。",
+  "attributes": [
+    {
+      "value": "Chicken",
+      "trait_type": "type"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZen4sowPdy79JYLE4oRziqW55hdA14LbWvQPbioiiWmV/nft.png",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "#9 The enigmatic Suzuki-san.",
+  "description": "Suzuki-san is a less talk member of admin.\nHer entity is shrouded in mystery...",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "English",
+      "trait_type": "Language"
+    }
+  ]
+}

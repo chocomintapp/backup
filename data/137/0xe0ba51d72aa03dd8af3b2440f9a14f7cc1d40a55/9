@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQbXiSYk3t4B9DDZmQum51cwZYFkLoGtSMwzDFD3NbN97/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "コーヒー豆の違いがわかるえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "コリショウ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "チョコ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "ウド",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "料理",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "チャクガンタイキョク",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

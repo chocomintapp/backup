@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeemVc6VHL8xa2yELtLooL2qriBH5ovgJLURd66ipdDf4/nft.png",
+  "nftContractAddress": "0x63b4111e04eed8e27d51bb83f44c2a098768d019",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "02",
+  "description": "",
+  "attributes": [
+    {
+      "value": "purple",
+      "trait_type": "background"
+    },
+    {
+      "value": "crow",
+      "trait_type": "animal"
+    },
+    {
+      "value": "melon",
+      "trait_type": "fruit"
+    },
+    {
+      "value": "thunderstorm",
+      "trait_type": "weather"
+    }
+  ]
+}

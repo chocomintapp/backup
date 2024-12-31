@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVJXuezZ19Wa2dTULcRg6sc5AsnZAo7m4sVGpP9NN2mMn/nft.png",
+  "nftContractAddress": "0x2d177d489cec11a9a5717a1503748ed2b1cdce73",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "FIRSTPENGUINSLLC_NFT",
+  "description": "ファーストペングイン合同会社の初代イメージです",
+  "attributes": []
+}

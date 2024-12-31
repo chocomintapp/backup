@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcSvRGDyAxAGpNB5MyWJth48VZkGMYv5GuumY9g4AB3n1/nft.png",
+  "tokenId": 60,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TAKAO 1932**  \nThis silhouette is heavy cruiser TAKAO in 1932.\n\nIt is a heavy cruiser with a rarely seen huge bridge and a presence that overwhelms the viewer.\n\nThe large bridge, which resembles a Japanese castle, was the result of the flagship's enhanced facilities and battle command capabilities.\n\nAfter the start of the war, it ran across the ocean with firepower second only to battleships and speed comparable to destroyers, and participated in many historical operations.\n\n**重巡洋艦 高雄 1932**  \n稀に見る巨大な艦橋を持ち見る者を圧倒する存在感がある重巡洋艦です。\n\nさながら戦国時代の城郭をも思わせる大きな艦橋は旗艦としての設備や戦闘指揮能力などの充実を目指した結果でした。  \n開戦後は戦艦に次ぐ火力と駆逐艦に匹敵する速力で大海原を縦横無尽に駆け巡り歴史的な作戦に数多く参加しました。\n\nこのNFTは1932年頃の高雄のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0060 TAKAO 1932",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Heavy cruiser"
+    }
+  ],
+  "minted": "✅"
+}

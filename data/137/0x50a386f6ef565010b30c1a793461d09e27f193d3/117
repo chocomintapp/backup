@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZPfUobqRiQiZvwFsTTKDHVcnLpmGgvmvFSiYYx8e9GhS/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 117,
+  "chainId": "137",
+  "name": "hakorobo #117",
+  "description": "hakorobo #117 Artists Edition HKAE-20 acanel\n\noriginal works:\n\nhttps://teia.art/objkt/269265\n\nhttps://teia.art/objkt/286892\n\nhttps://teia.art/objkt/407753\n\nhttps://teia.art/objkt/498720\n\n\nby:\nhttps://twitter.com/acanelNFT",
+  "attributes": [
+    {
+      "value": "HKAE",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Shoes"
+    }
+  ]
+}

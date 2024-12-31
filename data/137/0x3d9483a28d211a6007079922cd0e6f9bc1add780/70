@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYAGFD1Tv7PF6JZbjeCfN8wFXDo6zq9H1UAPPEUaq6yHD/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 70,
+  "chainId": "137",
+  "name": "Neon #70",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon girl",
+      "trait_type": "character"
+    },
+    {
+      "value": "pink hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "yellow-blue cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "flag fighter",
+      "trait_type": "hand"
+    },
+    {
+      "value": "mocking",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

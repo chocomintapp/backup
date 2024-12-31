@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW1nVTSMRGiqiagTBVzenv1qob5GjejCjvbW8bi8M3Lh7/nft.png",
+  "tokenId": 31,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.\nIn particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.\n\n麗らかな陽気の中、女の子とねこたちは、川沿いの桜並木を散歩しています。\n\n気持ちよさそうに歩く彼女たち。\n女の子は、いろいろと周りのものが気になるのか、あっちへこっちへ。\n\nねこたちは、危なくないように彼女を先導しながら、彼女に歩調を併せて歩いてますよ。",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "散歩 -Sanpo-",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Matsue"
+    },
+    {
+      "trait_type": "MODEL",
+      "value": "SENBYO"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeN6sA3vCiWEWMXQS6wrwb2TzehfSHYsG7nQBbRBY47ND/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "137",
+  "name": "Ganmichan's wanko #9",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "wanko",
+      "trait_type": "series"
+    },
+    {
+      "value": "maltese",
+      "trait_type": "situation"
+    }
+  ]
+}

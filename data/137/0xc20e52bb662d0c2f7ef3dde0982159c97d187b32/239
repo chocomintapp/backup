@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfDaxWUUGy7jVZBLMnFQNiNhMugcdaMhpikJhaZCpEd2K/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 239,
+  "chainId": "137",
+  "name": "#239",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#FFD3BC",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#9F00FF",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Skull in the back alley",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Maroon tattoos",
+      "trait_type": "special1"
+    },
+    {
+      "value": "Sniper rifle",
+      "trait_type": "Accessory1"
+    }
+  ]
+}

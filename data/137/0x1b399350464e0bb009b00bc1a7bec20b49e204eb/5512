@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbzQxn4SKXj3rV2AuYTzbBBqdXtrY4PH1jQcYsGzcaLci/nft.png",
+  "nftContractAddress": "0x1b399350464e0bb009b00bc1a7bec20b49e204eb",
+  "animationUrl": "",
+  "tokenId": 5512,
+  "chainId": "137",
+  "name": "Samurai Assemble #5512",
+  "description": "Kondo Isami.\nHe is the head of the Shinsengumi. He serves as the fourth generation soke of Shizen Rishinryu. His sword is Nagasone Kotetsu.",
+  "attributes": [
+    {
+      "value": "Shinsen-gumi",
+      "trait_type": "JOB"
+    },
+    {
+      "value": "Celebrity",
+      "trait_type": "Personage"
+    },
+    {
+      "value": "N/A",
+      "trait_type": "Face Decoration"
+    },
+    {
+      "value": "Famous Katana",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "Nagasone Kotetsu",
+      "trait_type": "Effect of the weapon"
+    },
+    {
+      "value": "Makoto-Gold",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Hachimaki",
+      "trait_type": "Head Decoration"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Rough mage",
+      "trait_type": "Hair Style"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTZ4CJv45EAFuBXdvh7C67gsXKqkCxmEkyKUbqKSnruL3/nft.png",
+  "tokenId": 5,
+  "description": "Shiden Silver Coin",
+  "nftContractAddress": "0xeb84b7f33326bc0bdf4e3a62c8d7639a40fa16f9",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Shiden Silver Coin",
+  "attributes": [],
+  "minted": "✅"
+}

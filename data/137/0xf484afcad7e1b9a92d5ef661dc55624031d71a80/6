@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPhDG97yitXoPGPHsttqX6oGzc8Xz9wnxpQ2kcYZHiKtG/nft.jpg",
+  "tokenId": 6,
+  "description": "This is my original work cute rabbit",
+  "nftContractAddress": "0xf484afcad7e1b9a92d5ef661dc55624031d71a80",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "rabbit"
+}

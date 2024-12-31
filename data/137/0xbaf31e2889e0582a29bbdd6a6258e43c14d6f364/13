@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXxB9CTqPayR65aypDnfvvqyrVoJ8LBrD5ccN3rBuDwtH/nft.png",
+  "nftContractAddress": "0xbaf31e2889e0582a29bbdd6a6258e43c14d6f364",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "Lion Baby",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Lion",
+      "trait_type": "TYPE"
+    }
+  ]
+}

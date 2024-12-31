@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVtvnte42A5EhfKU6JgrhxGqp9EwyLuJT5xdEkoGzfST3/nft.jpg",
+  "nftContractAddress": "0x4ba08a42a0321f6a7bb32ea379addaa2ff6e308c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "super protein",
+  "description": "Whey Isolate",
+  "attributes": [
+    {
+      "value": "100",
+      "trait_type": "MAX"
+    },
+    {
+      "value": "Rare",
+      "trait_type": "Tier"
+    }
+  ]
+}

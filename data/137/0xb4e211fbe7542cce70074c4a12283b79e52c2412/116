@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPeug32m3kEZcA3tCJS8aVjFmLNe8HqGKxgtz3e737ovE/nft.png",
+  "tokenId": 116,
+  "description": "Contemporary art style Fried Shrimp medjed",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/QmPeug32m3kEZcA3tCJS8aVjFmLNe8HqGKxgtz3e737ovE/nft.png",
+  "chainId": "137",
+  "name": "medjed no.116/1000",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

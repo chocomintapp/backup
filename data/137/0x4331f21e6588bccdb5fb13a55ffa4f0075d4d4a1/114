@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNpcXCSZbqcRAVvYonMuBZh9rMMrVezdFgZZ9VUR2rTQx/nft.png",
+  "tokenId": 114,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**HIRYU 1944**  \nThis silhouette is aircraft carrier Hiryu in 1941.\n\nLike the Akagi, Hiryu is a medium-size aircraft carrier with a bridge in the center of the port side, a rarity in the world.\n\nShe fought a solitary battle at the Battle of Midway, where she suffered a crushing defeat, and achieved numerous feats of valor, including the destruction of the U.S. aircraft carrier USS Yorktown.\n\nAlthough a medium-sized aircraft carrier, it is said to be \"the most valiant Japanese aircraft carrier in the Pacific War.\n\n**空母 飛龍 1941**  \n「赤城」と共に「左舷中央艦橋」という、世界的にも珍しい場所に艦橋を持った個性的な中型空母です。\n\n大敗を喫したミッドウェー海戦で孤軍奮闘し、米空母ヨークタウンを大破させるなど数々の武勲を挙げました。\n\n中型空母ながらも「太平洋戦争で最も勇戦した日本空母」と言われています。\n\nこのNFTは1941年頃の飛龍のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0114 HIRYU 1941",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Aircraft carrier"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmceVgaJgnUfcvpimUD2bxCks5k2G6pfHWtvy6KN8GtDQS/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmceVgaJgnUfcvpimUD2bxCks5k2G6pfHWtvy6KN8GtDQS/nft.png",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "RabbitGirl #1 『Tsuki』🐰",
+  "description": "RabbitGirl #1 『Tsuki』🐰\n\nElegant and pretty girl with the image of a shining moon. The trademark is clear blue eyes and a white dress.",
+  "attributes": [
+    {
+      "value": "Tsuki",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Illustration",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

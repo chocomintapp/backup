@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmciGetvESmQXuqaL9fJmgCNmyPWpr2eoYsB5ZmoJyRkvq/nft.jpg",
+  "tokenId": 1,
+  "description": "This is the breeder SERARK of \"Cat Trailer House\".\nWe are looking for people who will become owners.\n\n「Cat Trailer House」のブリーダーSERARK(セラーク)です。\n里親になってくれる方を募集しています。\n\n■KEN (Switzerland)\n見た目はちょっと怖そうだけどのんびり屋さんです。長めのボルト型アクセサリーがお気に入り。なかなかサイズが合わないため外れやすいです。頭にぴったりのボルトを探してくれる里親さんを探しています。",
+  "nftContractAddress": "0x7d300d78e9f0aae69ab01f5d7cacfc4a342215d1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "CAT#019 (KEN)",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

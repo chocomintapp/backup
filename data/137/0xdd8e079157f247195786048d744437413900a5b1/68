@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcJiYPuMP9Wa5AzDcoYw778Bkvi5q81ykm9buxhjK3dNq/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmcJiYPuMP9Wa5AzDcoYw778Bkvi5q81ykm9buxhjK3dNq/nft.gif",
+  "tokenId": 68,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #68",
+  "description": "ベビロン二次創作",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Ray",
+      "trait_type": "TYPE"
+    }
+  ]
+}

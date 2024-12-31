@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSN5Ezef3N79R9YW4QvePDe1mPpHXDjorhZp6pTGcTtjr/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 64,
+  "chainId": "137",
+  "name": "#64",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#F6F1C3",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#04BDC1",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "UMA",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Nessie",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

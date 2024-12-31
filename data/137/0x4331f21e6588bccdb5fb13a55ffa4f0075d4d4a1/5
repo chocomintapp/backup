@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdPwPpzpQ9LdP9NipWSfV2PGSJC1somsrxN2NNhGzjBeE/nft.png",
+  "tokenId": 5,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**ZUIUN model 11**  \nThis is a reconnaissance aircraft of the Imperial Japanese Navy, which is said to be the best seaplane throughout World War II.\nIt was a versatile aircraft that could carry two 20mm machine guns, a 13mm machine gun, and even a 250kg bomb.\n\nIt was the first seaplane in history to adopt air combat flaps and dive brakes, and fought hard as a multi-role aircraft that could handle everything from combat to dive bombing.\n\n**瑞雲 11型**  \n第二次世界大戦を通じて最高の水上機と称される日本海軍の偵察機です。\n\n偵察機とありますが、実際には20mm機関砲2門に13mm旋回機銃\nさらには250kg爆弾まで搭載可能な万能機でした。\n水上機としては史上初の空戦フラップやダイブブレーキを採用し\n格闘戦から急降下爆撃までこなすマルチロール機として奮戦しました。\n登場時期が遅く、すでに水上機の活躍の場は限られている戦況でしたがそんな中でも一定の戦果をあげています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0005 ZUIUN model 11",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Seaplane"
+    }
+  ]
+}

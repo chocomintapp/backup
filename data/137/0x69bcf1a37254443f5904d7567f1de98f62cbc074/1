@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWA6QKzFNfyzxB9d15CygkaqqugdtcPQP2AapU2X3qss2/nft.png",
+  "nftContractAddress": "0x69bcf1a37254443f5904d7567f1de98f62cbc074",
+  "animationUrl": "https://ipfs.io/ipfs/QmVxicjok92w6WLRWVzyEwr8yaYzJuPTzFpFCgZVDNrTje/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "HARAKIRI",
+  "description": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

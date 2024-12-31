@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeLNP9w6SmMNMf6coq4crBbTQz6n2ufmGWhyggLMhBUGS/nft.png",
+  "tokenId": 1,
+  "description": "このNFTは公式から購入した場合、それぞれに対応したWAXのNFTを受け取るが可能です。\nただし締め切る場合があるので注意して下さい。\n\nWAXのNFTを受け取る方法については、こちらを御覧ください。\nhttps://the-neko-returns.pigboat.jp/211/\n\nFactoryはThe Neko Returnsにおいて特別なNFTです。\n15日毎に猫缶を一つ受け取ることが出来ます。\n\n\n注意点\n猫缶の配布は永続するわけではありません。使用しているサービスが使用できなくなるなど、続けていくことが困難になった場合は中止する場合があるます。\nFactoryを一つのWAXwalletに複数所有している場合でも、猫缶は一つしか受け取ることが出来ません。",
+  "nftContractAddress": "0xdc7bdef20327c0d57a0fefef09b01a31020f3625",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Factory #16",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

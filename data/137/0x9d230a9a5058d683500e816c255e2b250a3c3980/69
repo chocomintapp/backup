@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYuJdnDJavE8ttnkZtcgz73UPs3n9LDPXwLGCU5iBtRFH/nft.png",
+  "tokenId": 69,
+  "description": "This is a Super Piccell membership card NFT.",
+  "nftContractAddress": "0x9d230a9a5058d683500e816c255e2b250a3c3980",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Membership Card #69",
+  "attributes": [
+    {
+      "trait_type": "level",
+      "value": "bronze"
+    }
+  ]
+}

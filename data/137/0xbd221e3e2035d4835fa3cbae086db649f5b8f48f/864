@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdheu67ZrDb2StuLzuyYWChzsUy5QuzAYX2MvH5SiNyA9/nft.PNG",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "",
+  "tokenId": 864,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #963",
+  "description": "2022/07/22 21:13\n\nISEKAI BATTLEのテストネットに参加。\nBCGって初めてするから貴重な体験。\nゲームしながら家族を養いたい。\n\nゲームしながら家族を養いたい。\n\nゲームしながら家族を養いたい。",
+  "attributes": [
+    {
+      "value": "ADIDAS CRAZY 97 EQT \"DUNK CONTEST\"",
+      "trait_type": "M"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZxuukKjHycT7G18hGf9xU9qFq3UHfkPfe2fSs47RzmAt/nft.PNG",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimal #45",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Mouse",
+      "trait_type": "TYPE"
+    }
+  ]
+}

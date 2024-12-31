@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYCX2nrN7CJJqMTMgXBSBWKLoxfDB4hDordjMpsWU8RxU/nft.gif",
+  "nftContractAddress": "0x299b2615d4e5477e102d7b8a8519d3e99bb582c4",
+  "animationUrl": "https://ipfs.io/ipfs/QmYCX2nrN7CJJqMTMgXBSBWKLoxfDB4hDordjMpsWU8RxU/nft.gif",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "WavyLongAnimals x HOT FACE",
+  "description": "WavyLongAnimals and HOT FACE collaboration NFT.\n\nhttps://twitter.com/wavylonganimals https://twitter.com/KimonoNinja_NFT",
+  "attributes": [
+    {
+      "value": "Face",
+      "trait_type": "TYPE"
+    }
+  ]
+}

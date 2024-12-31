@@ -1,0 +1,15 @@
+{
+  "image": "",
+  "nftContractAddress": "0xb6768a69a09da00768614c0e07bcad35ac7a33f2",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Lilia",
+  "description": "",
+  "attributes": [
+    {
+      "value": "https://arweave.net/x81YTcRVwCN6uf_zO6HsKBJ0ajlWHnLo8SnUbWJjpdI/lilia_watercolor.avif",
+      "trait_type": "image"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTPJAAcGenkmQ5ogjcL9nJ2XdsVQvQobgtUt5UHcE6JwQ/nft.png",
+  "tokenId": 2,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #2",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dog"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWjNGxGEcjG8PfUF9kabVi7yqYPyNi36pGtsEPJqo5c6u/nft.jpg",
+  "nftContractAddress": "0x0a29ac6ca5c017e7f78dfd353657ce5aff072c55",
+  "animationUrl": "",
+  "tokenId": 180,
+  "chainId": "137",
+  "name": "Mokomoko Golem ＃180 mold = 12",
+  "description": "The fungus attached to machines used for extraterrestrial exploration in the past spread to the earth , and they began to move by extending their mycelium into the earth's soil and building their bodies. Therefore, there is a great deal of individual variation in their appearance. The fluffy texture is derived from the spores of the fungus.",
+  "attributes": [
+    {
+      "value": "mold = 12",
+      "trait_type": "mold = 12"
+    }
+  ]
+}

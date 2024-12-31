@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRFVKpnTJxaMs26PkGE4jQJDS74anZghQM7DWgDvQF2rN/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 161,
+  "chainId": "137",
+  "name": "WMM #0161 I-401",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**I-401**  \nIt is the second submarine of the I400 class.\nWith a total length of 122 meters, it was not only the world's largest submarine at the time, but also the largest conventional-powered submarine, a record that would not be broken for more than 60 years after the war.\n\nAlthough already out of action at the time of its completion, the concept of striking enemy key bases from the air after covert action was carried over to the SSBN (ballistic missile nuclear submarine).\n\n\n**潜水艦 イ-401**  \n伊四百型潜水艦の2番艦です。  \n特殊攻撃機「晴嵐」を三機搭載する巨体は全長122mにも及び、当時世界最大はもちろん、通常動力型潜水艦としては戦後60年以上も記録が塗り替えられる事がありませんでした。\n\n完成時には既に活躍の場はありませんでしたが、隠密行動の後に敵重要拠点に空から打撃を与えるというコンセプトはSSBN（弾道ミサイル原子力潜水艦）へと受け継がれたと言えます。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Submarine",
+      "trait_type": "Ship"
+    }
+  ]
+}

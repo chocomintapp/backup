@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYmnSvTtSQgYmMSRoN48wAu5pz3osDcaiwVbLVA3mvaP1/nft.png",
+  "tokenId": 82,
+  "description": "Creator [Maneki_Mi_Neko](https://opensea.io/Maneki_Mi_Neko?tab=created_collections)\n\nおみくじ美ねこ　吉の巻",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "吉 #6",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Maneki_Mi_Neko"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

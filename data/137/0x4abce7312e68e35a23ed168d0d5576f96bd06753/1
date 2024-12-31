@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUmUwALjcvCdSrsQVwCJjd9Xroery2tefeVDckaNFBnTU/nft.png",
+  "tokenId": 1,
+  "description": "はじめまして。Chocomintです。",
+  "nftContractAddress": "0x4abce7312e68e35a23ed168d0d5576f96bd06753",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Chocomint"
+}

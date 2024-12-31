@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc1qQnT5n4jd3hZU1Ye8yxRNVPGarYeAriuanuWmucgn5/nft.JPEG",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "137",
+  "name": "VerySilentFruits#36 Cranberry",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Cranberry",
+      "trait_type": "Fruit"
+    }
+  ]
+}

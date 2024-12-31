@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeVqtcw2egTKAEL5PAWimbzC8FACXW5egs4Nw6V2KJJwr/nft.png",
+  "tokenId": 1,
+  "description": "A corner of the garden,24*24*24 voxel art",
+  "nftContractAddress": "0xc93e73a6aa64acf689a5d1a1f8491a2c67bbd48a",
+  "animationUrl": "https://ipfs.io/ipfs/QmdEDE1migsb4r1aoNWEdsefy8xivQkoK7XR8uvuNjZ8bm/nft.mp4",
+  "chainId": "137",
+  "name": "CryptoMiniGarden#1",
+  "minted": "✅"
+}

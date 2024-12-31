@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNsRN6gFCYDr98g11PSTcoLB7BKpk49NfzhKaRzg8e3sh/nft.jpg",
+  "nftContractAddress": "0x4398629f4831746adee41c4198eb9b98e2c335b2",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Discover WORLD ORDER",
+  "description": "Record of my life \n1st \nPolygon",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

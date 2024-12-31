@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdnDc4iDcywdPKf5Vg2ufTL3moXrgcEc5B6QhkaN2wnZw/nft.png",
+  "tokenId": 9,
+  "description": "One of my first MINTs.If you have this NFT. you will have good luck!It comes only to those who have it.Kapsel contains the present, the past, and the future.You are a special one.",
+  "nftContractAddress": "0x4aca62f1a59e44b3cb12e432555f5e6acf3dc558",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "TheKAPSEL#9",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Brand",
+      "value": "Kapsel78Lab"
+    },
+    {
+      "trait_type": "Collections",
+      "value": "The KAPSEL78"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Morim"
+    },
+    {
+      "trait_type": "Gen",
+      "value": "1"
+    },
+    {
+      "trait_type": "TYPE",
+      "value": "Plain"
+    },
+    {
+      "trait_type": "Upper outer",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Lower outer",
+      "value": "Pink Wavy"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Font",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Name",
+      "value": "The sweet one"
+    }
+  ]
+}

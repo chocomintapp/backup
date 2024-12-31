@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVmoJ9eWJY58KhacBrMgy5aGtr2san74nZHNgnPHp1wXB/nft.png",
+  "nftContractAddress": "0xcf283077dc54458ea22edb5b12c6516b8258364b",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "Woo [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nWoo\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR EVO]",
+  "attributes": [
+    {
+      "value": "Princess",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Water",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Water Dress",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Pearl Necklace",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "EVO",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

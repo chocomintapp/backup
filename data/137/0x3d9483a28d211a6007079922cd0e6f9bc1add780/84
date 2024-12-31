@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVbdGUKoYUg4pW7CyzmDTPfPyuDzPWhJu3jucg1nznmiK/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 84,
+  "chainId": "137",
+  "name": "Neon #84",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon girl",
+      "trait_type": "character"
+    },
+    {
+      "value": "green bandana",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "water barrel",
+      "trait_type": "hand"
+    },
+    {
+      "value": "smoking",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

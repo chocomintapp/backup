@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYQjAyCZYWj2g3eBghAiKRSFmho9Zv8z7nD4CMCcLmZe2/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 91,
+  "chainId": "137",
+  "name": "朝にランニングするえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ユカイ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ビスケット",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "コンブ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "ランニング",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "サンポススンデニホサガル",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

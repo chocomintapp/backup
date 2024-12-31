@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS66AeCUGzbEpP9rAKmgQBHRFLJQFdPsVYSN63fx7s4Bw/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "137",
+  "name": "#27",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#A98545",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#C7D100",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "12 ecliptical constellations",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Scorpio",
+      "trait_type": "face"
+    },
+    {
+      "value": "Claw",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Poison tail",
+      "trait_type": "special1"
+    }
+  ]
+}

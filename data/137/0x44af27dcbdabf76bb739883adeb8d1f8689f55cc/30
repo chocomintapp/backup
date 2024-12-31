@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP4Sy9kq5CsJKaJji8NNG9koHBH3UUet1See3kqyRiAAc/nft.jpg",
+  "tokenId": 30,
+  "description": "",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/QmRTtJYzZMU35vUGTteEdKjFhTvBBGVjFe2aMB4jGcrEZZ/nft.glb",
+  "chainId": "137",
+  "name": "container",
+  "attributes": [
+    {
+      "trait_type": "3D",
+      "value": "0.002"
+    }
+  ]
+}

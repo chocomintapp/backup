@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfGmnv2jAGqEpigXrNERoiU5ibqFgzQZ8c5C2Titi2nW4/nft.png",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "Basket Ball Babies #9",
+  "description": "バブボール\nBasket Ball Babies\nくま\nBear",
+  "attributes": [
+    {
+      "value": "Bear",
+      "trait_type": "TYPE"
+    }
+  ]
+}

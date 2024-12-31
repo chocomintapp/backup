@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZmX24MQMP7QhMnwkmaH86ZE2wgybX4TXSxFyH3ohVUV4/nft.png",
+  "nftContractAddress": "0xa65ff154ba9b952a33130d4789bbf1e03badf6ec",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "137",
+  "name": "fox",
+  "description": "",
+  "attributes": []
+}

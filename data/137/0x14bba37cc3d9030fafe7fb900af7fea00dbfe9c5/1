@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPDfoRwhfTn9RciUcbdUcJKXUQRYRV8JQTQvbXqwZonGE/nft.png",
+  "nftContractAddress": "0x14bba37cc3d9030fafe7fb900af7fea00dbfe9c5",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "test",
+  "description": "TEST vivid girl",
+  "attributes": []
+}

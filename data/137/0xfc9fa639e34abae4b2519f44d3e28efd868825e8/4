@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRUtp7krVobET3osgsNM5TbKWfEsbsqC3JBW874g7YEHV/nft.png",
+  "nftContractAddress": "0xfc9fa639e34abae4b2519f44d3e28efd868825e8",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies Z #4",
+  "description": "Baby's growth potential is unlimited.",
+  "attributes": [
+    {
+      "value": "Amoeba",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

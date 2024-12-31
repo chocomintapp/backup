@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbHkzdSoXQWeywynmYx3xosUNiD4jVGGB83XsTYXjautq/nft.png",
+  "tokenId": 1,
+  "description": "つまちゃん良い風吹いてます。",
+  "nftContractAddress": "0x925a7f8ea17aab49738fe3c1dc1487d216fd8622",
+  "animationUrl": "https://ipfs.io/ipfs/QmWT5wsQMq1oqQ3MU4LuBrpDCjBXkxUocbQpfSB4taN4TN/nft.gif",
+  "chainId": "137",
+  "name": "Tuma-Chan",
+  "minted": ""
+}

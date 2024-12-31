@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYFbUQMZ9mWChbKWuPZNV68yXcq65qwiWqarNW5AryWii/nft.png",
+  "nftContractAddress": "0xf1032c9829062d168d2f6a5ccfc662e8e0c58565",
+  "animationUrl": "https://ipfs.io/ipfs/QmYFbUQMZ9mWChbKWuPZNV68yXcq65qwiWqarNW5AryWii/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "1",
+  "description": "1",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

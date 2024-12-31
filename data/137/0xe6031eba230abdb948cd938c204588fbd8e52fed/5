@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ7e4JtSuWTWA7Yd6z17npXxVTqFvveDiBaS5eP3SPrWy/nft.png",
+  "nftContractAddress": "0xe6031eba230abdb948cd938c204588fbd8e52fed",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "IndustrialRevolution_still",
+  "description": "IndustrialRevolution_still image This collection is collaboration artwork with modular artist GALCID Industrial Revolution / marimosphere x galcid + HisashiSaito Sprit the original movie into 26 still images.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

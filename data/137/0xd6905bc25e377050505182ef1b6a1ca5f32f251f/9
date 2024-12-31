@@ -1,0 +1,16 @@
+{
+  "image": "https://bafybeibjatvhoxaf6n3lb3ozvizpfe5g6vnruv43wgho3h7p57euqkzicy.ipfs.nftstorage.link/10.png",
+  "nftContractAddress": "0xd6905bc25e377050505182ef1b6a1ca5f32f251f",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "Friendly Hoverfly Yanghwa",
+  "description": "Introducing Yanghwa, the friendly hoverfly!  I told you that I will name her very soon.  She’s also an employee of my flower shop. She will take care of the flowers.  I’m sure that everyone will like Yanghwa!",
+  "attributes": [
+    {
+      "value": "Hoverfly",
+      "trait_type": "Style"
+    }
+  ],
+  "minted": "✅"
+}

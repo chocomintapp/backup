@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXRevdEFf48JHAhESfj9fCfaseevD7n71RRg6DdPKhYMe/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 53,
+  "chainId": "137",
+  "name": "Ganmichan's wanko #22-1",
+  "description": "",
+  "attributes": [
+    {
+      "value": "wanko",
+      "trait_type": "series"
+    },
+    {
+      "value": "???",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

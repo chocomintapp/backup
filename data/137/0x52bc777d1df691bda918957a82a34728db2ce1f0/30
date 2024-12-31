@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb6dTVPRTS7Xm7r4XUzf91rUd6BYgYh5caQxSQq1Ujtb1/nft.jpeg",
+  "tokenId": 30,
+  "description": "Calligraphy Devil #30",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #30",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Abaddon"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Ose"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Malebolge"
+    }
+  ],
+  "minted": ""
+}

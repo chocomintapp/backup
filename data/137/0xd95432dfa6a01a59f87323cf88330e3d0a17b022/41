@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUEBXg2oVf1xeB4eCK3odiawTkqDVEdvm57Zr3BG1TnVa/nft.jpg",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 41,
+  "chainId": "137",
+  "name": "大吉 Kabuki #41",
+  "description": "これであなたもかぶき者です。笑\n\nYou are now a Kabukimono.hahaha\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープル official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection\n\n\n\n",
+  "attributes": [
+    {
+      "value": "Kabuki",
+      "trait_type": "Special Item"
+    }
+  ]
+}

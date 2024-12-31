@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ6jWtp6YZgXn5G2KvKk7QEePbmdkQXwEAK7xuhH4xQKE/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "Day7 Syu's Art #19",
+  "description": "色を塗り始めました。最近絵を描くのが楽しいです。\n\nI started to paint the colors. I've been enjoying painting lately.",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

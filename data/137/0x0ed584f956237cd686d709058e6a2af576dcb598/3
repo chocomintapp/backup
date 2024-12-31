@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUPKm3pE8NV2LRLE18R66xwu91SYPhKrVEH4mp9a7XCKB/nft.png",
+  "nftContractAddress": "0x0ed584f956237cd686d709058e6a2af576dcb598",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "【第3話】しろねことたこ",
+  "description": "ベビロン(どうぶつのあかちゃん)があそんでるひとコマまんが",
+  "attributes": [
+    {
+      "value": "しろねこ",
+      "trait_type": "どうぶつ"
+    },
+    {
+      "value": "たこ",
+      "trait_type": "どうぶつ"
+    }
+  ]
+}

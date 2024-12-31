@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme7jcyuT1F3AJvW5WqWwimeiN7xtqb1sTn7U3a1aY9PmG/nft.png",
+  "nftContractAddress": "0x4449176be7ec6aae01e03bcb53abf264f2c1a814",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "A coffee bean #2",
+  "description": "License: CC-SA\nAuthor: @keu_kei; shin/=fungible",
+  "attributes": [
+    {
+      "value": "#FFDB14",
+      "trait_type": "background"
+    },
+    {
+      "value": "#FF5700",
+      "trait_type": "bean"
+    }
+  ]
+}

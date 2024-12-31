@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRUPuNguyDUAr89savNB9gvWb2nUwAmtQRReJ7kvjnrTE/nft.png",
+  "tokenId": 1,
+  "description": "Badge of eyeCU",
+  "nftContractAddress": "0xd766a297fe0a83f587bb0463a0d4412eec54a8fe",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "eyeCU_TEST_Badge"
+}

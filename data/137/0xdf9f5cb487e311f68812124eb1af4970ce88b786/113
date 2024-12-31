@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXCGYFPoRm6vPVtPg2dmRenEfCiQuBMcEZakuNnynb6kn/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 113,
+  "chainId": "137",
+  "name": "Ganmichan's snap #5",
+  "description": "がんみちゃんの何気ない日常",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "snap",
+      "trait_type": "series"
+    },
+    {
+      "value": "Koshien",
+      "trait_type": "situation"
+    }
+  ]
+}

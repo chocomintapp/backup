@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmenxjNTKecWyVo4Xt73SNWVxdndmuBgdHpewstkcpfFA6/nft.jpg",
+  "nftContractAddress": "0xdfc23c2408b3f643365555c1d046b172126cd228",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "俺、御朱印 #001",
+  "description": "オリジナルの俺、御朱印です",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

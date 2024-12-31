@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWPrAoaYeeLy8p9nYZrhbquw6hvDfxqi6h3ay1Vk2fcTU/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "Day16 Syu's Art #46",
+  "description": "パパは優しいです。\n\nDad is kind.",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

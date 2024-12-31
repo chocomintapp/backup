@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRsGXhNY6WTXFv5SfbiKqRVcTcWAEvcMQMNZ68VotdBC8/nft.png",
+  "nftContractAddress": "0xb95ec6c2f9ba3eee6c7f73d02a6ec015860df2f4",
+  "animationUrl": "",
+  "tokenId": 88,
+  "chainId": "137",
+  "name": "PKC  #088",
+  "description": "Pixel Kappa is a collection of 1000 kappa NFTs inspired by Japanese monster called YOKAI.\nEach piece is a unique Pixel art with a collection of more than 130+ traits.",
+  "attributes": [
+    {
+      "value": "PurplegradationBG",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "AKAONI",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "StadiumJKpink",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "AKAONImouth",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Pirate",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Eyepatch",
+      "trait_type": "ITEM"
+    }
+  ],
+  "minted": "✅"
+}

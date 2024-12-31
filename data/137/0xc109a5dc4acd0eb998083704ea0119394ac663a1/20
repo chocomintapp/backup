@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYh9WCUpZdadegPFepNZCRS2mFU368SQJ8815ntPhV7ot/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "#20",
+  "description": "pencil",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Pencil",
+      "trait_type": "RACE"
+    }
+  ]
+}

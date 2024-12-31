@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWYppxqQNnGD62ppUPk3gK5MW5YeRRRNjivBebLtdvR4g/nft.mp4",
+  "tokenId": 1,
+  "description": "Mini garden 1",
+  "nftContractAddress": "0x3399d16212875a8dc2bd249ae60784c3dbbb10a9",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "MiniGarden1"
+}

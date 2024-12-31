@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfVvmpdaiFaHks1EzTUT9yjwRR5XdXxm9cwFfpe3eAGX9/nft.png",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "tokenId": 68,
+  "chainId": "137",
+  "name": "Calligraphy Devil #68",
+  "description": "Calligraphy Devil #68",
+  "attributes": [
+    {
+      "value": "Devil",
+      "trait_type": "Spieces"
+    },
+    {
+      "value": "Morax",
+      "trait_type": "Entity"
+    },
+    {
+      "value": "Andrealphus",
+      "trait_type": "Shadow"
+    },
+    {
+      "value": "Sloth",
+      "trait_type": "Background"
+    }
+  ]
+}

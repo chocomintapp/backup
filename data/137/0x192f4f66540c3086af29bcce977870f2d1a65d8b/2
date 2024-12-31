@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP84jxzJpUmtpRj6qY8Lmrt4bseUSxw4xsrqfEPcRkooD/nft.jpg",
+  "tokenId": 2,
+  "description": "テスト２",
+  "nftContractAddress": "0x192f4f66540c3086af29bcce977870f2d1a65d8b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "kiki2",
+  "minted": "✅"
+}

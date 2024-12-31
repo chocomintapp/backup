@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPzLsWKaTQKeC7Etp88bC9WbNnFzsBQCBacq3M2BsRwvE/nft.png",
+  "nftContractAddress": "0x9cabe85905b53fe6a60ae8a98d27959794e14b84",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "purple girl",
+  "description": "purple girl",
+  "attributes": []
+}

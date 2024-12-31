@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmampgVVQtu15f5DYCz3FCFwwrbeP4ygCqifAWvXLE93aP/nft.gif",
+  "nftContractAddress": "0x10e572263d86cbe68b55d2fbc527268085397de0",
+  "animationUrl": "",
+  "tokenId": 150,
+  "chainId": "137",
+  "name": "LAZY EMMA #0150 × THE CRAZY BEARS",
+  "description": "【CRAZY BEARS x JPN CREATORS 】\n\nThis is a collaboration between Crazy Bears.\nIt is Crazy Bears and EMMA destroying the city.\nThis is a one-of-a-kind piece available only at Giveaway.",
+  "attributes": [
+    {
+      "value": "くれべあがはかいしたまち",
+      "trait_type": "うしろの"
+    },
+    {
+      "value": "おだんごくれべあ",
+      "trait_type": "かみがた"
+    },
+    {
+      "value": "くれべあびーむ",
+      "trait_type": "めめ"
+    },
+    {
+      "value": "くれべあよだれぐち",
+      "trait_type": "くち"
+    },
+    {
+      "value": "くれべあてかり",
+      "trait_type": "おかおの"
+    },
+    {
+      "value": "てんしのわっか",
+      "trait_type": "あたまの"
+    },
+    {
+      "value": "ぽりす（みずいろ）",
+      "trait_type": "おきもの"
+    },
+    {
+      "value": "かたのりえま",
+      "trait_type": "もちもの"
+    },
+    {
+      "value": "なし",
+      "trait_type": "みぎて"
+    },
+    {
+      "value": "まほうのすてっき（みずいろ）",
+      "trait_type": "ひだりて"
+    },
+    {
+      "value": "あり",
+      "trait_type": "むーぶ"
+    }
+  ]
+}

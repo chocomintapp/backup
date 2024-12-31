@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ8XGoNtsmsorCaZGQAt8yca3B4uZ9kvZE4AD1skNyNFh/nft.png",
+  "nftContractAddress": "0x844402a4e03e1bf366906f787dabe7b3de0bf498",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "137",
+  "name": "ArkMates#037",
+  "description": "Ark Mates is a collection inspired by Noah's Ark. Various creatures gradually join the group.",
+  "attributes": [
+    {
+      "value": "hippo",
+      "trait_type": "Character"
+    }
+  ]
+}

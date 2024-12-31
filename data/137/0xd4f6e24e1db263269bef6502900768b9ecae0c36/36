@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb7STfQwNX1EPPdyWyKQ4oHNnH6gxAWuDAmy4DujTgvkZ/nft.jpg",
+  "nftContractAddress": "0xd4f6e24e1db263269bef6502900768b9ecae0c36",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "137",
+  "name": "CRUNK_AREA_0036",
+  "description": "Contractor/The Steel Guardians/Private Military Company                                 \nEvery character in the CRUNK AREA has a role to play, and everyone is hero.",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Normal",
+      "trait_type": "Rarity"
+    }
+  ]
+}

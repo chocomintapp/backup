@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWWCmNjvmPV5BTPaRRwF3xzEzea7s1on3fsHMTidpX2WQ/nft.gif",
+  "nftContractAddress": "0x1ac14c03fa75992855248cff09841fb982e79904",
+  "animationUrl": "https://ipfs.io/ipfs/QmWWCmNjvmPV5BTPaRRwF3xzEzea7s1on3fsHMTidpX2WQ/nft.gif",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "WavyMetaHeroes #8",
+  "description": "Created by Konipu",
+  "attributes": [
+    {
+      "value": "メタバース大学責任者",
+      "trait_type": "TYPE"
+    }
+  ]
+}

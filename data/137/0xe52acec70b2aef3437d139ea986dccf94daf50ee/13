@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbmvgUb2Hvuz8P27Mo4Lq7zQbvpRMXynUqVMnnpjh4jyj/nft.PNG",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimal #23",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Seal",
+      "trait_type": "TYPE"
+    }
+  ]
+}

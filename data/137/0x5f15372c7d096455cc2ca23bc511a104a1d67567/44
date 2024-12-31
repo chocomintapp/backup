@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbVKd1oMNosJznc6cLeyCR6taQKARUJaeTHCGNQcbWzW4/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmbVKd1oMNosJznc6cLeyCR6taQKARUJaeTHCGNQcbWzW4/nft.png",
+  "tokenId": 44,
+  "chainId": "137",
+  "name": "Rabbit girl #22 『Dotted bridal veil』",
+  "description": "Rabbit girl #22 『Dotted bridal veil』\n\nFlora's power to give magical flowers gave birth to a flower witch.\n\nA girl who wished for people's happiness.\n\nBoth she and her surroundings are always wrapped in happiness and they keep smiling.",
+  "attributes": [
+    {
+      "value": "Dotted bridal veil",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "Flower",
+      "trait_type": "Series"
+    }
+  ],
+  "minted": "✅"
+}

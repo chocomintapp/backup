@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSDgUo4pCaphrrriFXNd489Q74JixSfvhEhHvDm2bJqxE/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "137",
+  "name": "HUNIMAL #23",
+  "description": "Human + Animal = Hunimal",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Fluorescent Pink",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Tosa Dog + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Naked",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Slick Back",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Mafia",
+      "trait_type": "STYLE"
+    }
+  ]
+}

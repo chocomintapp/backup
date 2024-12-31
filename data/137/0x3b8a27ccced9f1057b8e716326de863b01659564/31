@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUKGu9GptxLQg7ajBNMrCdjvnGdkCB5jhRJrmgmsMboJx/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #31",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Otter",
+      "trait_type": "TYPE"
+    }
+  ]
+}

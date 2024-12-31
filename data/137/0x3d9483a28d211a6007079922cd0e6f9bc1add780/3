@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYJe34ptAWaA5DK3ig7umN6i5KhBLV8biexDi6zenQanb/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Neon #3",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "green bandana",
+      "trait_type": "hair"
+    },
+    {
+      "value": "dj cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "samuraiX",
+      "trait_type": "hand"
+    },
+    {
+      "value": "green grass",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

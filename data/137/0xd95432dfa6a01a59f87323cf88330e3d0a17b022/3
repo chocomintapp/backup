@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPkSUdQtYe8MruoiRt7KZwWD3R8ya4bDZvqSG7WB9ArLs/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "大吉 Surprised eyes #03",
+  "description": "大吉とピンポン球で。笑\n\nWith Daikichi and ping-pong balls.hahaha\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "attributes": [
+    {
+      "value": "ping-pong balls",
+      "trait_type": "special  item"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeGLysqiazkF5rMMABZUCZUxDwkbKC7eyLbGyCKzn4uuy/nft.png",
+  "tokenId": 4,
+  "description": "What if Robopets is a plastic model??",
+  "nftContractAddress": "0x6f0ec3d8199a85dcff89b7151845f61c5227a2be",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Robopet #6623 plastic model??",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Robopets"
+    }
+  ]
+}

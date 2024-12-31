@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdZgU2TTYbwSmByWbBvTFw8UQXey6NH2bDifyLj1DCzcs/nft.png",
+  "tokenId": 98,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**YB-40 Gunship**  \nIt is an air-to-air gunship developed to protect a bomber formation from enemy fighters.\n\nBased on the B-17F, it was fitted with gun turrets and 16 12.7mm machine guns.\n\nIt was a truly spectacular machine designed exclusively for barrage, but it was not as effective as expected. The increase in weight due to the heavy armament reduced cruising speed, forcing bomber formations to fly at reduced speeds, which in turn increased danger.  \nIt is a romantic aircraft with a powerful appearance.\n\n**YB-40 ガンシップ**  \n敵戦闘機から爆撃機編隊を守る用心棒として開発された空対空のガンシップです。\n\nB-17Fをベースにガンターレットを追加し16丁もの12.7mm機銃を搭載しました。\n\nまさに圧巻の弾幕専用機でしたが、思ったほどの効果はなく重武装ゆえの重量増加により巡航速度が低下、爆撃機編隊がスピードを落として飛行しなければならなくなり、逆に危険が増大すると判断されて姿を消しました。  \n見た目の迫力はバツグンのロマン機体です。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0098 YB-40 Gunship",
+  "attributes": [
+    {
+      "trait_type": "Airplane",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Bomber"
+    }
+  ]
+}

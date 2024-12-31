@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbbANiwCbaH1DSrxPswbwM1KFiKL59t99QUabsLDFE51Q/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 53,
+  "chainId": "137",
+  "name": "#0051_Niton_MCcB",
+  "description": "#0051_Niton_MCcB",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Magenta",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Deep Sky Blue",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Chartreuse",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

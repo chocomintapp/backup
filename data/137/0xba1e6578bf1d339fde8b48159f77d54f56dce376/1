@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfXtA1Dh3GtdDjpc8uU5GLYmiyBXBbS7CvWEMnR2QuBVQ/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xba1e6578bf1d339fde8b48159f77d54f56dce376",
+  "animationUrl": "https://ipfs.io/ipfs/QmfXtA1Dh3GtdDjpc8uU5GLYmiyBXBbS7CvWEMnR2QuBVQ/nft.png",
+  "chainId": "137",
+  "name": "BURICCO #001",
+  "attributes": []
+}

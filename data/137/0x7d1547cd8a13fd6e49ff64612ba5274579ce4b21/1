@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV6abLcEKWENRVKskYEwa3xXNdX3hKjxkKw3DGvfvz3vQ/nft.jpg",
+  "nftContractAddress": "0x7d1547cd8a13fd6e49ff64612ba5274579ce4b21",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Sample",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "Color"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

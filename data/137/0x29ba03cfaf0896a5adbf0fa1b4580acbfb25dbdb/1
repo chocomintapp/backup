@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX1iGspWkEtfmogvg2ZdjfbVAN1WvznHuoCf6G9gJL6RY/nft.png",
+  "nftContractAddress": "0x29ba03cfaf0896a5adbf0fa1b4580acbfb25dbdb",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "XNFT",
+  "description": "NFT by XFI",
+  "attributes": []
+}

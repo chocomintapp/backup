@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQKvLDPMmAgKb6fCDXBfQCo4RuvTwsDteWTDeAYU8f8ec/nft.jpeg",
+  "nftContractAddress": "0x00b4fd1222352a93a58576611b367931a87ec339",
+  "animationUrl": "",
+  "tokenId": 51,
+  "chainId": "137",
+  "name": "Pee's native",
+  "description": "WL ticket",
+  "attributes": [],
+  "minted": ""
+}

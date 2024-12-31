@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRVbHBU9wyZbZKFgb7fDiX9mBwZPnpADyZkxMtpdFE6zj/nft.jpg",
+  "tokenId": 49,
+  "description": "49/101  \nTaken on Feb 27, 2016  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #49",
+  "attributes": [
+    {
+      "trait_type": "weather",
+      "value": "ship"
+    }
+  ]
+}

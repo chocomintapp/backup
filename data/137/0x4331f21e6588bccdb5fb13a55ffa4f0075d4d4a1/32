@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXwSY3UFhEupkhQeJB7HDMcZTwmCs57tFSuRThtXmt5SS/nft.png",
+  "tokenId": 32,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**AKISHIMO 1943**  \nThis silhouette is destroyer AKISHIMO in 1943.\n\nIt is the 18th ship of the \"Yugumo\" type destroyer.\nIn the Battle of Leyte, she rescued 600 survivors of the sunken \"Maya\" and escorted the badly damaged \"Myoko\".\nShe also rescued the crew of the sunken \"Noshiro\", and performed other unspectacular but steady activities.\n\nAt the time of the Manila Bay air raid, \"AKISHIMO\" had already been damaged and was moored at the pier.\nAlthough she bravely engaged in anti-aircraft combat, she was hit by three direct hits and capsized.\n\n**駆逐艦 秋霜 1943年**  \n夕雲型 駆逐艦の18番艦です。\n\nレイテ沖海戦では轟沈した「摩耶」の生存者600名を救助し、被雷した「妙高」の護衛をしたかと思えば、またもや被雷沈没した「能代」の乗員を救助するなど、派手さはないものの大きな活躍をしました。\n\nマニラ湾空襲の際にすでに損傷していた秋霜は桟橋に係留されており、果敢に対空戦闘を行いましたが直撃弾を3発浴びて転覆着底しました。\n\nこのNFTは1943年頃の秋霜のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0032 AKISHIMO 1943",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Destroyer"
+    }
+  ]
+}

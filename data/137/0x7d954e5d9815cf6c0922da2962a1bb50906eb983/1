@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmReukWZwT7piUVF6a9drHKm69hqeVcMm4C86GFv6D2nyW/nft.png",
+  "tokenId": 1,
+  "description": "Congratulations! This is the passport for AdventureDAO, the world’s first DAO for travelers and explorers.",
+  "nftContractAddress": "0x7d954e5d9815cf6c0922da2962a1bb50906eb983",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "AdventurePassport",
+  "attributes": []
+}

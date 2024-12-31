@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWnW1KU1QrSdCJMJNyu7Pc6pqA2bQbqHaahzVjHvj3Qbo/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 62,
+  "chainId": "137",
+  "name": "#62",
+  "description": "angel",
+  "attributes": [
+    {
+      "value": "Angel",
+      "trait_type": "RACE"
+    }
+  ]
+}

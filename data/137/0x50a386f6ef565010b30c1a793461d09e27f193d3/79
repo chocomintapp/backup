@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZcnkK7q4C3uTpBMTf7YZWM2pF5qAUcY4K3q3K1i1QFSe/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 79,
+  "chainId": "137",
+  "name": "hakorobo #79",
+  "description": "hakorobo #79 Artists Edition HKAE-01 nonnbe\n\noriginal work:\nhttps://hicetnunc.art/objkt/219609\n\nby:\nhttps://twitter.com/pL1RylVZ82Uf8uC",
+  "attributes": [
+    {
+      "value": "HKAE",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Shoes"
+    }
+  ]
+}

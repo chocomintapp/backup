@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUAoF5CsU3EdK9F1N3xjMT4qZoW5v8VJ5DoZgFn1y1KFn/nft.gif",
+  "nftContractAddress": "0xfb90bca4937c4f56194bcfb17b636de184863754",
+  "animationUrl": "https://ipfs.io/ipfs/QmUAoF5CsU3EdK9F1N3xjMT4qZoW5v8VJ5DoZgFn1y1KFn/nft.gif",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "",
+  "description": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

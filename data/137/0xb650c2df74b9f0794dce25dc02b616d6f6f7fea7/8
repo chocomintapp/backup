@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcxpcf2grf8rHBSn5iQBjoGGdkdo2czfMLuASpt2u3jyp/nft.png",
+  "nftContractAddress": "0xb650c2df74b9f0794dce25dc02b616d6f6f7fea7",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "Silent and companion",
+  "description": "寡黙ちゃん \"SchemeScala #03\" BONUS SD character",
+  "attributes": [
+    {
+      "value": "Limited",
+      "trait_type": "RARITY"
+    }
+  ]
+}

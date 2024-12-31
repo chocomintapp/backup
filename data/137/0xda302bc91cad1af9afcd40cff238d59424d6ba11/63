@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPDqnuJj5PbStqtcCaSbRJLZ6SszcSGsusb5Pa8ouJqFP/nft.png",
+  "tokenId": 63,
+  "description": "",
+  "nftContractAddress": "0xda302bc91cad1af9afcd40cff238d59424d6ba11",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "SUSHI CONUSI E #062",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TRAIT",
+      "value": "GEN-0"
+    }
+  ]
+}

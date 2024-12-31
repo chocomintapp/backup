@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVCVbZEAjVnz116x9RkEYQUR5SNFyeDCed9Yxz9GhJiKg/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 50,
+  "chainId": "137",
+  "name": "TANU-KIDS #049",
+  "description": "だるまに変身したTANU-KIDS\n\n幸せをよぶ福だるま",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Daruma",
+      "trait_type": "History"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNRqtGn3RSL67U6aDio7qmro69W2ZLgh3aB3hLSfU4j8x/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 72,
+  "chainId": "137",
+  "name": "Day31 Syu's Art #90",
+  "description": "最近、ドラゴンボールを観てます。\n\nI've been watching Dragon Ball lately.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

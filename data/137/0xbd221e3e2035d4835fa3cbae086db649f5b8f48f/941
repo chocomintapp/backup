@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXzbPQ7XszfQjBGSY4xd2ELPPGQEj9QjRRB79xVpa5QY1/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmXzbPQ7XszfQjBGSY4xd2ELPPGQEj9QjRRB79xVpa5QY1/nft.mp4",
+  "tokenId": 941,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1041",
+  "description": "六角形のプロフィール\nにするためだけにブルー登録\nios から手続き\n多めに支払うことになる\n",
+  "attributes": [
+    {
+      "value": "Bike Air Zoom Generation",
+      "trait_type": "M"
+    },
+    {
+      "value": "Bpluto",
+      "trait_type": "押韻職人"
+    },
+    {
+      "value": "2023",
+      "trait_type": "DAY"
+    }
+  ]
+}

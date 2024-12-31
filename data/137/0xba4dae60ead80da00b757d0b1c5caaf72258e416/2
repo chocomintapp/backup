@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXcSBatY2f3wyKU1w7GoAX4JeR28JYQ4mGPYfNEtGxus2/nft.PNG",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0xba4dae60ead80da00b757d0b1c5caaf72258e416",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Ume",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Kimono"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sky blue"
+    },
+    {
+      "trait_type": "Hair accessory",
+      "value": "Red flower"
+    },
+    {
+      "trait_type": "Hiragana",
+      "value": "Ume"
+    }
+  ]
+}

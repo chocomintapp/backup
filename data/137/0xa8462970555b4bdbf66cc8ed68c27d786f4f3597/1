@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb3urbQRu7xagc9SiDEYURXhmcbVM7eqYRNhMTGowDAA3/nft.jpeg",
+  "nftContractAddress": "0xa8462970555b4bdbf66cc8ed68c27d786f4f3597",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Tetsui Profile Picture",
+  "description": "Just a profile picture, but NFT.",
+  "attributes": []
+}

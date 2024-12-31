@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma62Y5pD4Voegyne4aTM127PP1bTtR7oM9gSaWzXU665Y/nft.png",
+  "nftContractAddress": "0xcf283077dc54458ea22edb5b12c6516b8258364b",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "137",
+  "name": "Ranka [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nRanka\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR EVO]",
+  "attributes": [
+    {
+      "value": "Fallen Angel",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Green",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Green",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Green",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Horn",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "EVO",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

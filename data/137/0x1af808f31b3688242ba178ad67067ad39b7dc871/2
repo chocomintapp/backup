@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb6bebSQ3UH8Sw4kRqr7db8JyNWxwVKPTqtf1tz5K6PJD/nft.png",
+  "tokenId": 2,
+  "description": "usagi",
+  "nftContractAddress": "0x1af808f31b3688242ba178ad67067ad39b7dc871",
+  "animationUrl": "https://ipfs.io/ipfs/Qmb6bebSQ3UH8Sw4kRqr7db8JyNWxwVKPTqtf1tz5K6PJD/nft.png",
+  "chainId": "137",
+  "name": "usagi",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

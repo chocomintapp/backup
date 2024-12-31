@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZXvfMaS5rLczgy9u76J9Nd34LbnvN79fhYo2cpg26aMN/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #30",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Sheep",
+      "trait_type": "TYPE"
+    }
+  ]
+}

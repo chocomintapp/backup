@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPmxm6yLBmKcWdVYV6Hm4e6HLD7paEc9nRJBoZ2YXwYUK/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "TANU-KIDS #005",
+  "description": "スケーターに変身したTANU-KIDS\n高難度トリックを決めれるように頑張ります\n\n日本のスケートを盛り上げよう!!",
+  "attributes": [
+    {
+      "value": "Skater",
+      "trait_type": "Sports"
+    }
+  ],
+  "minted": "✅"
+}

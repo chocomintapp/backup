@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRVx7fnb2o2qFksfdcAcNhL9jvK2qDabKe6Q6UWZYAT3R/nft.png",
+  "tokenId": 45,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #45",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Mouse"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYwjZHzaChxQH9AmGCFiBeoUgcNjhULC6ohczohAponWn/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 165,
+  "chainId": "137",
+  "name": "WMM #0165 SHOUKAKU 1941",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SHOUKAKU 1941**  \nThis silhouette is Aircraft carrier Shoukaku in 1941.  \nIt is a large regular aircraft carrier completed four months before the outbreak of the Pacific War.\n\nThe \"Shohaku,\" which can be said to be the sum total of Japanese aircraft carriers, acted together with the \"Zuikaku,\" a ship of the same type, and continued to support the Japanese task force even after the loss of the four main carriers in the Battle of Midway.\n\n**空母 翔鶴 1941**  \n太平洋戦争開戦4ヶ月前に完成した大型正規空母です。\n\n日本空母の総決算とも言える「翔鶴」は同型艦「瑞鶴」とともに行動し、ミッドウェー海戦で主力4空母を失った後も日本機動部隊を支え続けました。\n\nこのNFTは1941年頃の翔鶴のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Aircraft carrier",
+      "trait_type": "Ship"
+    }
+  ]
+}

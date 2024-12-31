@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPB8bTzmL8UdgCt3QjrjwmBWkEKd2KW3zqvVkkUWkQ8wP/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "137",
+  "name": "Day12 Syu's Art #34",
+  "description": "昨日のパパの作品みたいに描きました。\n\nI drew it like my dad's work yesterday.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

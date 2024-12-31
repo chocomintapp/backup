@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeoJzDHDA4js7pCavfaVYBfq9M78X7uv1rSeRMih9XcQR/nft.png",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "137",
+  "name": "TANU-KIDS #015",
+  "description": "キャンパーに変身したTANU-KIDS\n\n焚き火をしながらchillします",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Camp",
+      "trait_type": "Hobby"
+    }
+  ]
+}

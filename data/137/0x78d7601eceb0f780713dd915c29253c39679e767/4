@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNNVXd6og3ZVDn3J7mMvvHxRahegpcaApjWQ64WZHReCj/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "#4 Black Dress(Black lace)",
+  "description": "💐Thanks💐\n\n🐰Air drop by MakeRabbit.com🎁",
+  "attributes": [
+    {
+      "value": "Clothes",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Dress",
+      "trait_type": "Clothes"
+    }
+  ],
+  "minted": "✅"
+}

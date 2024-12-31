@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVhZSEp6aTvvUfWzeiU3cQMg5JUsmr9EKUiTeTgYhFWT5/nft.jpg",
+  "nftContractAddress": "0xd4f6e24e1db263269bef6502900768b9ecae0c36",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "137",
+  "name": "CRUNK_AREA_0032",
+  "description": "Soldier-Squad 1/Hell‘s Walker/Gangs                                                               \nEvery character in the CRUNK AREA has a role to play, and everyone is hero.",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Normal",
+      "trait_type": "Rarity"
+    }
+  ]
+}

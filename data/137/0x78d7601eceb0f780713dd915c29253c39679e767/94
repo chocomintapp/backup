@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmadxGgdeuDjtHp7WSF8arANcuW3Jm71nbjfNeXMxcL5mB/nft.jpeg",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 94,
+  "chainId": "137",
+  "name": "#25『Girl with star eyes』asa#35 Collaboration hair & face",
+  "description": "『Girl with star eyes』×『RabbitGirls』 Special collaboration\n\nCollaboration special dress-up item 🐰 asa # 35 hair, eyes, facial expression set 💄 She is a girl who likes to read novels.\n\nThanks💜Twitter @acha_52",
+  "attributes": [
+    {
+      "value": "Hair",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Collaboration",
+      "trait_type": "Special"
+    }
+  ],
+  "minted": "✅"
+}

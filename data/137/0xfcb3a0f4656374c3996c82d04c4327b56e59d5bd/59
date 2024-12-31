@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUK6K2XuWw3b8kJH5s8gMctfTrN6rjXSzmVMcmj8w8SQh/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 59,
+  "chainId": "137",
+  "name": "#0057_Navy Blue",
+  "description": "#0057Tanshiki_CBb_NavyBlue",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Navy Blue",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Navy Blue",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Navy Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

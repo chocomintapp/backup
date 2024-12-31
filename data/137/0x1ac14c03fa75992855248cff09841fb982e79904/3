@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbhaGAHQpvWcQ8HqFtTrTdF31QqHsM2p1w9xYeYMb8Pky/nft.gif",
+  "nftContractAddress": "0x1ac14c03fa75992855248cff09841fb982e79904",
+  "animationUrl": "https://ipfs.io/ipfs/QmbhaGAHQpvWcQ8HqFtTrTdF31QqHsM2p1w9xYeYMb8Pky/nft.gif",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "WavyMetaHeroes #3",
+  "description": "Created by Konipu",
+  "attributes": [
+    {
+      "value": "CIO",
+      "trait_type": "TYPE"
+    }
+  ]
+}

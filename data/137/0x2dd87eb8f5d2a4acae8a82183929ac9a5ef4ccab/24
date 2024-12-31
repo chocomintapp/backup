@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYEHCTLf3j6NJefkDzWEnipjKqse6YoWNZAc9dT2vR35f/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #109 Apr.20",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n4月20日\n\n昨日、狐と名乗る人物からの贈り物によって、部長は透明になってしまいました。部長が透明になったのを見計らってなのか、街には偽物の部長が続々と現れるようになりました。偽物である彼らには、何か特別な制約があるらしく…。同時刻に複数人が姿を現すことはなく、また部長の評価を下げるような行為は一切しないという行動原理を持っているようです。イカツイ見た目をしたこの部長も、イカツイのは見た目だけ。道を聞けば、一緒に見送ってくれるなど、親切心の塊のような性格なのでした。ところで、肝心の透明になってしまった部長はどこへ行ってしまったのでしょうか。無事でいるのでしょうか。\n\n\n--------------\n\n\nApril 20\n\nYesterday, a gift from someone claiming to be a fox caused the department head to become invisible. Perhaps taking advantage of his invisibility, fake department heads began to appear one after another in the city. It seems that there are some special restrictions on them being fake.... They seem to have a principle of behavior that no more than one person can appear at the same time, and that they will not do anything to lower the reputation of the department head. This crazy-looking department head is also crazy-looking, but only in appearance. If you ask him for directions, he will see you off together. By the way, where did the manager who became invisible go? Is he safe and sound?",
+  "attributes": [
+    {
+      "value": "Special",
+      "trait_type": "CLASSIC GRASSES"
+    },
+    {
+      "value": "Dummy",
+      "trait_type": "DATA"
+    },
+    {
+      "value": "Fake Black",
+      "trait_type": "HOODIE"
+    },
+    {
+      "value": "Grey",
+      "trait_type": "MASK"
+    },
+    {
+      "value": "Fake Black",
+      "trait_type": "PANTS"
+    },
+    {
+      "value": "Fake Black",
+      "trait_type": "T-SHIRT"
+    }
+  ]
+}

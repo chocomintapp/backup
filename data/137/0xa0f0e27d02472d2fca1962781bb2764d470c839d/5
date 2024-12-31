@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeAexgEJ23TDG7hGLW3qogktzFb5S4KN8PnBGj6wJQixi/nft.jpg",
+  "tokenId": 5,
+  "description": "こらからダンスパーティーに行くの\n\nI'm going to a dance party.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "French Bulldog",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Dog"
+    }
+  ]
+}

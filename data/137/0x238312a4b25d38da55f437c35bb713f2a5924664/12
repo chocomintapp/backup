@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPM21DznTPzWbbvq4u6uPUz7o9rYTUoFUz6He2JnDakux/nft.gif",
+  "tokenId": 12,
+  "description": "",
+  "nftContractAddress": "0x238312a4b25d38da55f437c35bb713f2a5924664",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "NightDay",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "Background",
+      "value": "Night Day"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Catwoman"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Orange Bubble Gum"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Catwoman"
+    },
+    {
+      "trait_type": "Pet",
+      "value": "Black Cat"
+    },
+    {
+      "trait_type": "Bag",
+      "value": "Black Backpack"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Black Cat"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWR9vtkbNpAtnhCTFHpJPxxebhZD5N7vRwuktyw2BEb3N/nft.jpg",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "137",
+  "name": "VeryLongAnimalsEveryday",
+  "description": "【毎日ベリロン】\n【VeryLongAnimalsEveryday】\nNo.8\n「力を合わせてより長く」\n\"Let's get longer with cooperation \"",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "No."
+    }
+  ]
+}

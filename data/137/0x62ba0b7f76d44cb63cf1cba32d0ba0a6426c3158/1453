@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbXyRtwXLLswwN5h4nbFzAgnTQexa3qXHKEiL7ht8uqkm/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 1453,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #1453",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Amoeba",
+      "trait_type": "TYPE"
+    }
+  ]
+}

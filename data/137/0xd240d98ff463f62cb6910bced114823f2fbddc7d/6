@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma38C9agRFiuC6Ly7E24yd9MxmQzjnb2CwmvdK1bY36N2/nft.png",
+  "tokenId": 6,
+  "description": "",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmbsCxyNAuTxsBTuJ6nLzSQT1wz9Kzn3qiyPWyezQdG387/nft.glb",
+  "chainId": "137",
+  "name": "Chickbit #6",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "uncommon"
+    }
+  ]
+}

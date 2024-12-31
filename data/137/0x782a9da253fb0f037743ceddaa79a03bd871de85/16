@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmexLYm7KxKqYfUWhqz8j79nGi66WpzGn3DYqz7yxzJFy9/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "137",
+  "name": "VerySilentFruits#16 Coconut",
+  "description": "",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Coconut",
+      "trait_type": "Fruit"
+    }
+  ]
+}

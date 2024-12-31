@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdVKMkavQT6GDe6Xfai3F6NKzp2VyQfASdtxq9M7WcUZB/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "137",
+  "name": "THS #022",
+  "description": "【恐】",
+  "attributes": [
+    {
+      "value": "crane",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "eggplant flower",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

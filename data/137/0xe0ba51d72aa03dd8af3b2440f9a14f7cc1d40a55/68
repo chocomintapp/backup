@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaxL6vjc7EWmKY2mwFegvH9ZboXZtSQshUWwuoWaevdJq/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 68,
+  "chainId": "137",
+  "name": "夢に生きるえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "カリスマ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "カステラ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "キャビア",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "路上弾き語りライブ",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "フトクミジカク",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

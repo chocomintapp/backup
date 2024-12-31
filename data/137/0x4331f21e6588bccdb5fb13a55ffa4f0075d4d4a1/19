@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf4aVf6J5oueWkFJndTdW4kwRnBfqrmc2xy15YCm832RY/nft.png",
+  "tokenId": 19,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**M3 Lee medium tank**  \nThis is an American-made medium tank used in World War II.\nIt has a 75mm gun mounted on the body and a 37mm turret on top of it.  \nIn addition, the cupola with a 7.62mm machine gun on top of it\nIt has a unique silhouette like a father and son turtle.\nIt was provided to Britain and the Soviet Union, and was active in the middle of the war.\n\n**M3 リー中戦車**  \n第二次大戦で使用されたアメリカ製中戦車です。  \n75mm砲を車体に搭載し、その上に37mm砲塔さらにその上に7.62mm機関銃搭載のキューポラという親子亀のようなユニークなシルエットです。  \nイギリスやソ連に供与されて大戦中盤に活躍しました。\n",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0019 M3 Lee",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ],
+  "minted": "✅"
+}

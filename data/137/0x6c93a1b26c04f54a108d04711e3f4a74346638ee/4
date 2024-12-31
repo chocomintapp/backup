@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPboGT4kZsoyi8QrmnFoh3RSDad9HPbPBbApn46AsusoC/nft.png",
+  "tokenId": 4,
+  "description": "Test.\nThis is Cryptosnack.\nAll 1/1",
+  "nftContractAddress": "0x6c93a1b26c04f54a108d04711e3f4a74346638ee",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cryptosnack",
+  "attributes": [
+    {
+      "trait_type": "Snack",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue"
+    }
+  ]
+}

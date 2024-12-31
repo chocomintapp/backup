@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXoBmMGWyweBXRjrQTUbpqC5fJHr3d7ece8ing5iv7MKJ/nft.png",
+  "tokenId": 37,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #37",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Slug"
+    }
+  ],
+  "minted": "✅"
+}

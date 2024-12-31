@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWqmM7soLDF8QaKqPye4P1BxzMCnCMuAKr4g4N7Md4iiE/nft.jpg",
+  "tokenId": 16,
+  "description": "争いは嫌いよ\n\nI hate fighting.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Pacifist Lion",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Lion"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

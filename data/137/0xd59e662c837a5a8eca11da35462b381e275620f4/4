@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWvsUmhBQVLbCStcGr85sfVWBkGUzwHHWp9fv8ApBgETw/nft.mp4",
+  "tokenId": 4,
+  "description": "Collaboration with https://opensea.io/miruta\n\ntheme by https://opensea.io/collection/miruta\n\nJust as a seed germinates and blooms in many colors, so too will your talent awaken and bloom.\n\nThis music is covered by the Creative Commons Zero (CC0) license.\nUse this music for free for commercial and noncommercial purposes.\n Giving credit to  is not required but appreciated.\n You can edit and adapt this music as you like.\n\n種が発芽して色とりどりの花を咲かせるように才もまた目覚め花を咲かせるだろう\n\nこの曲は、クリエイティブ・コモンズ・ゼロ（CC0）ライセンスで保護されています。\nこの曲は、商用・非商用に関わらず、無料でご利用いただけます。\n クレジット表記は必須ではありませんが、よろしくお願いします。\n この曲は自由に編集・組み込みすることができます。",
+  "nftContractAddress": "0xd59e662c837a5a8eca11da35462b381e275620f4",
+  "animationUrl": "https://ipfs.io/ipfs/QmWvsUmhBQVLbCStcGr85sfVWBkGUzwHHWp9fv8ApBgETw/nft.mp4",
+  "chainId": "137",
+  "name": "germination",
+  "attributes": []
+}

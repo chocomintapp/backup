@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRQyjxYELtjRJ2bmGv7vZecLY6eq9FXi2RPsk8TvAaw8u/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "137",
+  "name": "HUNIMAL #18",
+  "description": "Human + Animal = Hunimal",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Fluorescent Yellow",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Beluga Whale + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "60s",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Updos",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "1960s",
+      "trait_type": "STYLE"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW3R6bTjNAKtfhSnxCoeKaSY7HPYwwUwhqUarB4NcNEvP/nft.png",
+  "tokenId": 1,
+  "description": "エヌエフティ",
+  "nftContractAddress": "0x2f32f6d323316f6b52c1a0860ba9bf2d550c3176",
+  "animationUrl": "https://ipfs.io/ipfs/QmSHa3tJt74QnpiKqQVWBG9ewPFd378qKFZ2p2uJZccykd/nft.mp3",
+  "chainId": "137",
+  "name": "えぬえふてぃ",
+  "minted": "✅"
+}

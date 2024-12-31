@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPsPyLaWsuvRA8tgyXc15NZ1wMRnHK7HEddRJXxX6CvVd/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #38",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Earthworm",
+      "trait_type": "TYPE"
+    }
+  ]
+}

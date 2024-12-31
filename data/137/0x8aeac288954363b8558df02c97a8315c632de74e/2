@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXKvPtpumXDVaaP79D1Ni47Ncg6ZNf7dbxPUi7x84ryJq/nft.gif",
+  "nftContractAddress": "0x8aeac288954363b8558df02c97a8315c632de74e",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Very Long Chameleon",
+  "description": "",
+  "attributes": [],
+  "minted": ""
+}

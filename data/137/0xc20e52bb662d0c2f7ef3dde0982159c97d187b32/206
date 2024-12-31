@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfNwt2x5odM9no9DzD4x7Yd5xLJjLvPwYMKChLusS4xve/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 206,
+  "chainId": "137",
+  "name": "#206",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#C9EA83",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#F59F49",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Crocodile friends",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Oliver",
+      "trait_type": "face"
+    },
+    {
+      "value": "Itto ryu",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Katana",
+      "trait_type": "Accessory1"
+    }
+  ]
+}

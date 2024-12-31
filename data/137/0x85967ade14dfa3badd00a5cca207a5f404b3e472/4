@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbCUnBtfvVuyN5LFFeoMJ5BkhCknHtB4ct3VgZ1d1meoe/nft.png",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "BasketBallBabies #4",
+  "description": "Basket Ball Babies \nしろねこ\n\nBasket Ball Babies \nWhite Cat",
+  "attributes": [
+    {
+      "value": "White Cat",
+      "trait_type": "TYPE"
+    }
+  ]
+}

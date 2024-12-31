@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdTBqee47Z9pJdHVxbwus3qxKDihJ1R341QXhGxoVxRNC/nft.PNG",
+  "tokenId": 2,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n2月25日\n\n待ちに待ったドーナツ博覧会当日…。「森のくまさん」企画は大盛況の後に閉幕し、準備した新商品も飛ぶように売れていました。そんなこともあって、いつもより少しだけテンションが高く、打ち上げに参加している部長です。キラキラのダンスコスチュームに着替えて、アフロの被り物まで準備する力の入れよう。「レッツ！ダンス！」と、器用なステップで嬉しさを全身で表現しています。美味しいお酒の手助けもあって、ちょっとだけ青春時代の遊び歩いた、あの頃を思い出している部長なのでした。\n\nFeb 25\n\nThe day of the long-awaited donut expo.... The \"Bear in the Forest\" project closed after a great success, and the new products we had prepared sold like hotcakes. Because of this, he was a little more excited than usual to attend the launch. He put in a lot of effort to change into a sparkling dance costume and even prepared an afro headdress. He said, \"Let's! Dance!\" and expressed his happiness with his whole body in dexterous steps. With the help of the delicious sake, he was reminiscing a bit about those days of his youth, when he used to play around.",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #055 Feb.25",
+  "attributes": [
+    {
+      "trait_type": "BOMBER HEAD",
+      "value": "NAKAZAWA"
+    },
+    {
+      "trait_type": "DANCE JACKET",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Red"
+    }
+  ]
+}

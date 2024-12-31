@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ4C7FvSW8WMWqfQBf3Yt8t6QEcvUWudGHUVmBh2Cvovj/nft.png",
+  "nftContractAddress": "0x67f87a6e28a3492b7ff96b3450f7b70e3393677e",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "VeryPoliticalLongAnimals #067",
+  "description": "Governor of Niigata Prefecture",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Stork",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Bronze",
+      "trait_type": "Grade"
+    }
+  ]
+}

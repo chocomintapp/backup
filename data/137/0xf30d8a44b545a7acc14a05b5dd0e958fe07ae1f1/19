@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY7bjXdJU1C2HLuBbEbB5bbiT53nhkdmQ44Pd16FJGCeE/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "PPP #019",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Gradation BL",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Knit PK",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Accessories"
+    }
+  ]
+}

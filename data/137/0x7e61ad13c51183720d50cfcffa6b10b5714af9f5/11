@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcjyFQRX7K3UU9zaJyLRyiNvi1PoTMrDEocTjJHNq9LEv/nft.png",
+  "nftContractAddress": "0x7e61ad13c51183720d50cfcffa6b10b5714af9f5",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "VeryLongEnglishAnimals #11",
+  "description": "This is a secondary production of \"VeryLongAnimals\".",
+  "attributes": [
+    {
+      "value": "Mole",
+      "trait_type": "TYPE"
+    }
+  ]
+}

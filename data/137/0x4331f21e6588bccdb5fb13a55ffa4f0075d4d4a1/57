@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPBrwNZkETzWZyF1eDjxnZ5SYVt4H2EC5ag8k8nHGfrL2/nft.png",
+  "tokenId": 57,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**PRINZ EUGEN 1945**  \nThis silhouette is heavy cruiser PRINZ EUGEN in 1945.\n\nThis is the third ship of the Admiral Hipper class heavy cruiser.\n\nShe participated in Operation Rhine with the battleship Bismarck. After the Zwiebels campaign, she was active in Norway and the Baltic Sea in the latter half of the war.\n\nAlthough it was damaged from time to time It is a lucky ship that survived until the end of the war in the overwhelmingly unfavorable war situation.\n\nAfter the war, like the Nagato, it was used as a target ship for hydrogen bomb tests.\n\n**重巡洋艦 プリンツオイゲン 1945**  \nアドミラルヒッパー級重巡洋艦の3番艦です。\n戦艦ビスマルクと共にライン演習作戦に参加しツェベルス作戦を経て大戦後半はノルウェーやバルト海で活躍しました。\n\nその時々で損傷を受けつつも圧倒的に不利な戦況の中、終戦まで生き残った幸運艦です。\n\n戦後は長門と同じく水爆実験の標的艦として使用されています。\n\nこのNFTは1945年頃のプリンツオイゲンのシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0057 PRINZ EUGEN 1945",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Heavy cruiser"
+    }
+  ]
+}

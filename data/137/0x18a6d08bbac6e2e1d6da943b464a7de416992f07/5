@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW2TVjvjpK6HzWeFPUaCiiHRRyZa2QkhZMEeaSm2rMw7X/nft.mp4",
+  "tokenId": 5,
+  "description": "TOKIMEKI RECORD is a Japanese NFT specialized music label.  We will provide the BGM of Metaverse in a project in which various Japanese artists participate.",
+  "nftContractAddress": "0x18a6d08bbac6e2e1d6da943b464a7de416992f07",
+  "animationUrl": "https://ipfs.io/ipfs/QmW2TVjvjpK6HzWeFPUaCiiHRRyZa2QkhZMEeaSm2rMw7X/nft.mp4",
+  "chainId": "137",
+  "name": "TOKIMEKI RECORD #0005 \"GETTING COLDER\"",
+  "attributes": [
+    {
+      "trait_type": "GENRE",
+      "value": "Chillhop"
+    },
+    {
+      "trait_type": "GENRE",
+      "value": "Trap"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Alpha"
+    }
+  ]
+}

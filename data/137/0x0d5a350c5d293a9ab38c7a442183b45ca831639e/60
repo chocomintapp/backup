@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfTA5UXir5Fyn44jK1CEpN8fXHFtMjXwZgA9nfRM1cJmY/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 60,
+  "chainId": "137",
+  "name": "Day27 Syu's Art #78",
+  "description": "アナログ時計の読み方を勉強中です。\n\nI am learning how to read an analog clock.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

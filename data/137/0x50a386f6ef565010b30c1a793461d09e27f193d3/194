@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR4a6hW6LW4H5WBdyFEoU3AcGk1Xc4jzesxXwzBf7yE55/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 194,
+  "chainId": "137",
+  "name": "hakorobo #194",
+  "description": "hakorobo #194 HKS-19",
+  "attributes": [
+    {
+      "value": "HKS",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Leather",
+      "trait_type": "Shoes"
+    }
+  ]
+}

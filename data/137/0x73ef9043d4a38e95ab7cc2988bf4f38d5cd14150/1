@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNiaEQVYATDbPtRzWLuL9Y3i9Dq2yYpz89iz44S4CeReZ/nft.jpg",
+  "tokenId": 1,
+  "description": "30",
+  "nftContractAddress": "0x73ef9043d4a38e95ab7cc2988bf4f38d5cd14150",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Marci",
+  "attributes": [
+    {
+      "trait_type": "1",
+      "value": "0.9"
+    },
+    {
+      "trait_type": "2",
+      "value": "5.5"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeuF5KkgjaFhvH2pEpr5sYEYPBXDKZWUcrXw2Yj2FqX5Y/nft.png",
+  "tokenId": 6,
+  "description": " - Episode 1 - \nOne day, Crypyans were discovered in crypto world. \nIt's shrouded mystery what they are.\nHowever, we found that each of them could have elemental traits. ",
+  "nftContractAddress": "0x459f434c6e39342e6df4aefaba80a49d616ff392",
+  "animationUrl": "https://ipfs.io/ipfs/QmRbGvf2tJUmBmc8eL7ACpCiWuiqPsj2GBpi571ujwFH2d/nft.png",
+  "chainId": "137",
+  "name": "Crypyan #001-6 First edition (Aqua ver.)",
+  "attributes": [
+    {
+      "trait_type": "Crypyan",
+      "value": "1"
+    },
+    {
+      "trait_type": "Episode",
+      "value": "1"
+    },
+    {
+      "trait_type": "Belongings",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Aqua"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Crypyan"
+    }
+  ]
+}

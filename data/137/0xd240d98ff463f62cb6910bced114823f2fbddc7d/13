@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSxsUtDM31wrCVGSXKZCdVirc5cgh9fWFsZUC5AW5V9io/nft.png",
+  "tokenId": 13,
+  "description": "",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmNQBr5cvbfPHoMh2YFauQX4824kPdVyPzMNos4uvS8WUV/nft.glb",
+  "chainId": "137",
+  "name": "Chickbit #13",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "common"
+    }
+  ]
+}

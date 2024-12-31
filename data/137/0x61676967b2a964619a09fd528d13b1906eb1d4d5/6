@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUMJ3GcYbuEpPN5fbTpZAmdn2nMdLWyPcQsmq3B9zEDm9/nft.png",
+  "nftContractAddress": "0x61676967b2a964619a09fd528d13b1906eb1d4d5",
+  "animationUrl": "https://ipfs.io/ipfs/QmXzxbHm4xUxdq5gxDJjaVEQE2X9XujavHnETkQ45Rsjjf/nft.glb",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "test108",
+  "description": "test3D",
+  "attributes": []
+}

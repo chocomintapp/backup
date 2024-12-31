@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVUSbYaLZAhGzk9jgaEDmSrePjwPk5LqQe2ZtqhT9WnL8/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmVUSbYaLZAhGzk9jgaEDmSrePjwPk5LqQe2ZtqhT9WnL8/nft.gif",
+  "tokenId": 24,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #24",
+  "description": "ベビロン二次創作",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Shrimp",
+      "trait_type": "TYPE"
+    }
+  ]
+}

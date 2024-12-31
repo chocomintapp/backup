@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWSG8etirMb6XWaziGwCwxfBfQ7PzifLEsbvUXaRAdxcm/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "大吉 Angel #15",
+  "description": "NFT天国へようこそ。笑\n\nWelcome to NFT Heaven.hahaha\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "attributes": [
+    {
+      "value": "Angel ring",
+      "trait_type": "special item"
+    }
+  ]
+}

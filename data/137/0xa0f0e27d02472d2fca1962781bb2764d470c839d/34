@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfA2dTSEKmhCoJQ1tqbuxnB8sUGMTwMbYoQuxNDxfbL9J/nft.png",
+  "tokenId": 34,
+  "description": "そろそろメガネが必要かな\n\nI think I'm going to need glasses soon.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cat doing an eye test（視力検査をしているネコ）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

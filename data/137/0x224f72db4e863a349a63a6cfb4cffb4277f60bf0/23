@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS52AjbHotLpoY4zytEsPAk8zmsAJdNevveGrgySfz5si/nft.png",
+  "tokenId": 23,
+  "description": "Hello Ghost Eater Trollin of the Fey  #1246.",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#23 CRYPPL - Ghost Eater Trollin of the Fey #1246",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "FRWC_ID",
+      "value": " 1246"
+    }
+  ]
+}

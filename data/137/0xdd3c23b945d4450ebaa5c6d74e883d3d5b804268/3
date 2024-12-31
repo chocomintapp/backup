@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR6Qb8NcaJRjvB25jp4JhK2cL18MgdAPfdmHP72YpFLs9/nft.jpg",
+  "nftContractAddress": "0xdd3c23b945d4450ebaa5c6d74e883d3d5b804268",
+  "animationUrl": "https://ipfs.io/ipfs/QmeUSg8Ash3cvHQ96eAiVtzRyueQGi1WeQ4TBMzn78ubaR/nft.url",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "NFTGAME FollowGAME",
+  "description": "NFTGAME FollowGAME",
+  "attributes": []
+}

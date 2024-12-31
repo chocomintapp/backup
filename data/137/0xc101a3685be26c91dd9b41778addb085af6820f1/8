@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVwQteFq94ru8tyJ7k5AbMsTGmoEeCY97GmrbZsaSc5Ra/nft.png",
+  "tokenId": 8,
+  "description": "He got a taste of sin and drowned himself in guilt.\n罪の味を知って罪悪感に自ら溺れたラッコ。\n\nThe creatures that live in the seaside luck o city. They live with sin on their backs. The deeper the sin, the more they can dive into the sea.\n\nseaside luck o city（シーサイドラッコシティ）に住む生き物たち。彼らは罪を背負って生きている。罪が深ければ深いほど、彼らは海に深く潜れる。",
+  "nftContractAddress": "0xc101a3685be26c91dd9b41778addb085af6820f1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "apa",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Jupiter"
+    },
+    {
+      "trait_type": "Sloth",
+      "value": "40"
+    },
+    {
+      "trait_type": "Gluttony",
+      "value": "30"
+    },
+    {
+      "trait_type": "Lust",
+      "value": "30"
+    }
+  ]
+}

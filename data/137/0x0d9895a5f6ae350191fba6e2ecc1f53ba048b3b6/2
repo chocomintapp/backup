@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaPv5BNsX3yALcak4xHn2S88fzpNApr3psKHrfZJCGoTv/nft.jpg",
+  "tokenId": 2,
+  "description": "original drawing",
+  "nftContractAddress": "0x0d9895a5f6ae350191fba6e2ecc1f53ba048b3b6",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "chimneyboy"
+}

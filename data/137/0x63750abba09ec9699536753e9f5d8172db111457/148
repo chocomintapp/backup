@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUrV9ebcXQkwrAbnbn7STcUftnsaHSVrKcv77fpfanNzM/nft.png",
+  "nftContractAddress": "0x63750abba09ec9699536753e9f5d8172db111457",
+  "animationUrl": "",
+  "tokenId": 148,
+  "chainId": "137",
+  "name": "PachiMon #00148",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Gray",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Algae T2",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Dot T3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Long red",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "None",
+      "trait_type": "Accessory"
+    }
+  ]
+}

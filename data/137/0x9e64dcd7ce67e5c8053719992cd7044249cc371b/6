@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaZQKDyb4Ft7jAfasBi8knVmyngabSBgzYNi56vJC7DPy/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "IVS Naha × VeryLongAnimals",
+  "description": "このNFT作品は、IVS×GASHO2.0とのコラボ販売となります。\n\nNFTの一次落札者には、GASHO2.0にて制作した現物作品を請求する権利が付属します。\n落札後、商品の受け取りを希望する方はこちらのフォームから必要事項の記入をお願いします。\nhttps://forms.gle/RVuTJ3rMFZ8kfjq4A\n\nThis NFT is a collaborative sales project between IVS and GASHO2.0.\n\nThe winning auction bidder will also come with the right to own the actual NFT produced by GASHO2.0. \nPlease fill out the form to receive your item after purchase.\n\nAuction begins Wednesday, July 7 at 12:00p.m. (JST)",
+  "attributes": [
+    {
+      "value": "Okinawan Guardian Lion",
+      "trait_type": "TYPE"
+    }
+  ]
+}

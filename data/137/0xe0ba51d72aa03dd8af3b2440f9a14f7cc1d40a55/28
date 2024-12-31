@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTCEDzLvuQc2RvuQddPbtRpbuhDmpvwdPQekpjhcCozAJ/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "茶柱が立って微笑むえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ノホホン",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ドラヤキ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "マカロン",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "散歩",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "カホウハネテマテ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

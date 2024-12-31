@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUsUhagReJwZzQKkpKH1B7GyMDQHe7LRZmDt8VaTwDuHE/nft.png",
+  "tokenId": 26,
+  "description": "肉に夢中になってたら穴に落ちた\n\nI was so engrossed in the meat that I fell into a hole.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Dog in a Hole",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Dog"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

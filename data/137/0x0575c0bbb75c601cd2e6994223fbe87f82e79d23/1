@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmabeP2yhoD6nUkJTX5JFSsWc7QwQAAPyx3M58QneV1wQP/nft.jpg",
+  "tokenId": 1,
+  "description": "Ritou #1",
+  "nftContractAddress": "0x0575c0bbb75c601cd2e6994223fbe87f82e79d23",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#1",
+  "attributes": [
+    {
+      "trait_type": "time",
+      "value": "morning"
+    },
+    {
+      "trait_type": "weather",
+      "value": "the sun"
+    }
+  ]
+}

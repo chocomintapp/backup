@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNYJ4Ej6Cr2UUGk231AvCPRtWwtdaCvoiVTqdcNyurx4q/nft.jpg",
+  "tokenId": 1,
+  "description": "image of Tabisako",
+  "nftContractAddress": "0x30adcf644af6cb0e70234227426357001fcdf08d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "TabisakoImg",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

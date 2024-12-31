@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSQMKrBZxjcWzVx3CbbKAf3Z8sJm3Gff73y59XpScQa3j/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "リーダーになりたいえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "セイジツ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ウニ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "メカブ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "将棋",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "ナセバナル",
+      "trait_type": "座右の銘"
+    }
+  ],
+  "minted": "✅"
+}

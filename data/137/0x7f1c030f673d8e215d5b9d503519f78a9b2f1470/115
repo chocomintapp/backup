@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdyTQ9sKQvcXRZjgSauLBcivzRhZ3y4N9obNc2uYMLQFo/nft.jpg",
+  "nftContractAddress": "0x7f1c030f673d8e215d5b9d503519f78a9b2f1470",
+  "animationUrl": "",
+  "tokenId": 115,
+  "chainId": "137",
+  "name": "Twilight Nup Frog #1",
+  "description": "The frog, a symbol of growth, will give you the opportunity to change to something new.",
+  "attributes": [
+    {
+      "value": "Twilight",
+      "trait_type": "Attribution"
+    },
+    {
+      "value": "Nup",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "East",
+      "trait_type": "Birth"
+    },
+    {
+      "value": "Young",
+      "trait_type": "Age"
+    }
+  ]
+}

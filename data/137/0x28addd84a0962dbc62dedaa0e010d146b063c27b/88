@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVNyyAv2rjU5CzAjcLB52aaX4T7VhZZ99r89UTSXYbGqk/nft.png",
+  "nftContractAddress": "0x28addd84a0962dbc62dedaa0e010d146b063c27b",
+  "animationUrl": "",
+  "tokenId": 88,
+  "chainId": "137",
+  "name": "#88",
+  "description": "A collection of icons produced by Nonnbe.",
+  "attributes": []
+}

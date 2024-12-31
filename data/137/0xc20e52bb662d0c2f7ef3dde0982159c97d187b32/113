@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTa6Ss7L8h4kzChymSEYD4XDkTpxVeFDVrZvUGwJrxY3j/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 113,
+  "chainId": "137",
+  "name": "#113",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#9CE2E4",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#2845B0",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Food",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ramen",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ],
+  "minted": "✅"
+}

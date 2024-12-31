@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPHfhs2kUkA6vWBvfXPVgWGKctez6Fh1q8smGL82JBwNm/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "#12 Skyblue flower hair ornament",
+  "description": "Flower hair ornament made for happiness and peace.",
+  "attributes": [
+    {
+      "value": "Accessories",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Hair accessories",
+      "trait_type": "Accessories"
+    }
+  ],
+  "minted": "✅"
+}

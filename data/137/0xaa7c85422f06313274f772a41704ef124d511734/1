@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma8QoEpHCsdu4Y6YUKfawYhGZyDbPwcUVD6A6NpgwYtpZ/nft.png",
+  "tokenId": 1,
+  "description": "snowman",
+  "nftContractAddress": "0xaa7c85422f06313274f772a41704ef124d511734",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "picture"
+}

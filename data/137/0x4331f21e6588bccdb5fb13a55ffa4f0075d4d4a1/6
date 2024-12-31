@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPVkDsw6Y1z83CsaH6zzfincrmQpUMuJb5QmpqGtJGVqL/nft.png",
+  "tokenId": 6,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TYPE97 model 3**  \nAn excellent attack aircraft that greatly improved the striking power of the Imperial Japanese Navy.\nIt was indispensable to the rapid advance of the Japanese task force in the early stages of the war, including the attack on Pearl Harbor.\nDue to the delay in the development of its successor, the Tenzan, it continued to be used until the end of the war.\nAfter the end of the war, she continued to fight hard against the Soviet Army in the Battle of Shimomori Island.\nThis aircraft, which experienced the first battle (the attack on Pearl Harbor) to the last battle It can be said that this aircraft, which experienced from the very first battle (the attack on Pearl Harbor) to the last battle, is a representative aircraft of the Navy as well as the Zero fighter.\n\n**九七式艦上攻撃機 3型**  \n日本海軍の打撃力が格段に向上することになった優秀な攻撃機です。\n全金属製モノコック構造や油圧式引き込み主脚など\n先進的な設計が随所に見られた一号機（一一型）を更に改良したのが本機となります。\n真珠湾攻撃をはじめとする日本機動部隊の緒戦の快進撃には欠かせない存在であり\nズバ抜けて優秀だった九一式航空魚雷を武器に華々しい活躍をしました。\n後継機の天山の開発が遅れた為に終戦まで使い続けられ\n終戦後も占守島の戦いでソ連軍を相手に奮闘しました。\n一番最初の戦闘（真珠湾攻撃）から最後の戦闘まで経験した本機は零戦と同じく海軍を代表する機体と言えます。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0006 TYPE97 model 3",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Attacker"
+    }
+  ],
+  "minted": "✅"
+}

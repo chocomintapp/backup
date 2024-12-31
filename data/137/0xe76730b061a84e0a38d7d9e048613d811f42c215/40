@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUK2m14E65JKYkLxPCPRPNaFsfpigcvr4uBgnGEUvy8tm/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "137",
+  "name": "THS #032",
+  "description": "【減】",
+  "attributes": [
+    {
+      "value": "peacock feather",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "goldfish",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "snake",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

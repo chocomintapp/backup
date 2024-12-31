@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf4mY8trnLLHnP4KRkxsX8UGREgMea8EXBSt7ougfKcZf/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 153,
+  "chainId": "137",
+  "name": "WMM #0153 TONE 1938",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TONE 1938**  \nThis silhouette is Heavy cruiser Tone in 1938.  \nIt is a unique aircraft cruiser with eight 20cm guns all centrally located in the front and six waterborne reconnaissance aircraft in the rear.\n\nAs the eye of the fleet, it demonstrated its high search-and-destroy capability in many important operations including the attack on Pearl Harbor. She demonstrated her high search-and-destroy capability in many important operations including the attack on Pearl Harbor as the eye of the fleet.\n\nHer sister ships, Chikuma and Tone, were also the last heavy cruisers completed by the Imperial Japanese Navy.\n\n**重巡洋艦 利根 1938**  \n20cm砲8門を全て前部に集中配置し、後部には水上偵察機6機を搭載した異色の航空巡洋艦です。\n\n艦隊の目として真珠湾攻撃をはじめとする数々の重要な作戦で高い索敵能力を発揮しました。\n\n姉妹艦の「筑摩」と利根は日本海軍が完成させた最後の重巡洋艦でもあります。\n\nこのNFTは1938年頃の利根のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Heavy cruiser",
+      "trait_type": "Ship"
+    }
+  ]
+}

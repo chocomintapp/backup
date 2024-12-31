@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPgShHyaihDL8BAkNp1jJio9PPdnvtf8jjywseLVgjein/nft.png",
+  "tokenId": 109,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KAWAKAZE 1942**  \nThis silhouette is Destroyer Kawakaze in 1942.\n\nThis is the 9th ship of the Shiratsuyu class destroyers.  \nIt is also called \"modified Shiratsuyu type\" because it is improved from the conventional Shiratsuyu type.\n\nIn the Battle of Surabaya, she sank several enemy ships jointly with her colleagues, and in the offensive and defensive battles on the island of Gadarkanal, she made 26 raids.\n\nIn the Lunga port, she engaged three U.S. destroyers by herself and destroyed one of them. It can be said that she is one of the most successful ships of the Shiratsuyu class.\n\nFinally, she was struck by lightning during the night battle of Bella Bay and met a spectacular end.\n\n**駆逐艦 江風 1942**  \n白露型 駆逐艦の9番艦です。  \n従来の白露型に改良を加えていることから「改白露型」とも呼ばれます。\n\nスラバヤ沖海戦では僚艦と共同で敵艦を複数撃沈し、ガダルカナル島での攻防戦では26回も突入、ルンガ泊地では単艦で米駆逐艦3隻と交戦し1隻を撃破しており、白露型の中でもかなりの武勲艦と言えます。\n\n最終的にはベラ湾夜戦で雷撃を受け壮絶な最期を遂げました。\n\nこのNFTは1942年頃の江風のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0109 KAWAKAZE 1942",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Destroyer"
+    }
+  ]
+}

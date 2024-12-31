@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT7FFpLU4bHeGKRoGb6AL7B1ZvTLrM6T528dYDwvqB6rC/nft.png",
+  "nftContractAddress": "0x47d9509a232d9f8561177effd3c39b36af038ec4",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "ふ",
+  "description": "これは「めらがな」の一つです。\n日本語の「ふ」を表しています。",
+  "attributes": []
+}

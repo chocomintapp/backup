@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPa95s6Yek4V5tWpzCKtZbJ3ieDjxy2K1aRJvkgoX5rqC/nft.gif",
+  "tokenId": 14,
+  "description": "",
+  "nftContractAddress": "0x238312a4b25d38da55f437c35bb713f2a5924664",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "SuperStar",
+  "attributes": [
+    {
+      "trait_type": "Attribute",
+      "value": "Red Wing"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Super Star"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Trans"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "Headphone",
+      "value": "Yellow v.2"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Orange Bubble Gum"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Red Cat"
+    }
+  ]
+}

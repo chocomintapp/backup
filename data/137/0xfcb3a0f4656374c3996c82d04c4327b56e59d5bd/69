@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcBDabvjxJtLeTiLtessqziZ3y5rcnf5T2b4GWUQGwwZP/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 69,
+  "chainId": "137",
+  "name": "#0066_Niton_RYCcB",
+  "description": "#0066_Niton_RYCcB",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Deep Sky Blue",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

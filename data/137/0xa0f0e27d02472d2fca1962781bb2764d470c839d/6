@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfCKDM1537Ab6nt658N55sYXJ53i14DLFfc34iH1Zix6F/nft.png",
+  "tokenId": 6,
+  "description": "ファッションで着ているだけだからね\n\nI'm just wearing it for fashion, you know.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cat Knight",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    }
+  ]
+}

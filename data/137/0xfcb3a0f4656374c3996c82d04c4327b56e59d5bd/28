@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbwgyF9nvurbLgWyUGzWLqhYCbhhcq4aZE8jPUuJF27ny/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "#0027_Niton_BMY",
+  "description": "#0027_Niton_BMY",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Razzmatazz",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaPYHmpWYkn56VETfrRmpj5aRwaVEYCTPmrPFG78ci9cr/nft.gif",
+  "nftContractAddress": "0x60b810054331b7ff0e7a1fa374815a65e4204a35",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "ToySneaker #22",
+  "description": "TRS is a toy NFT created by creator Toko.\nThe toys seem to have decided to stop walking on their own feet and let the shoes exercise them.",
+  "attributes": [
+    {
+      "value": "Unreveal",
+      "trait_type": "Sneaker Type"
+    },
+    {
+      "value": "Unreveal",
+      "trait_type": "Toy Driver"
+    },
+    {
+      "value": "One",
+      "trait_type": "Season"
+    }
+  ]
+}

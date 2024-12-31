@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ82i2Qj4ixMUMBLRXMGTi5LT2v3KbJaQcgZBbEb6yBHW/nft.png",
+  "nftContractAddress": "0xcf283077dc54458ea22edb5b12c6516b8258364b",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "Gerry [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nGerry\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR EVO]",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Navy",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "EVO",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

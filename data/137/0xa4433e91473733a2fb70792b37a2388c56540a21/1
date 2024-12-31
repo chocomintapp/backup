@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfA3E8b7XPB43cjpDYKNZ1YA1L9V87oXFDHsM8kt5Jmid/nft.png",
+  "tokenId": 1,
+  "description": "Noodle: Konjiki shio ramen \nRestaurant: Menya Sou Takadanobaba honten\nAddress: 1-4-21 Takadanobaba, Shinjuku-ku, Tokyo-to \n169-0075 Japan\nSNS：https://twitter.com/menyasou1",
+  "nftContractAddress": "0xa4433e91473733a2fb70792b37a2388c56540a21",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "金色塩らぁめん・麺屋宗 高田馬場本店",
+  "attributes": []
+}

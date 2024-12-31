@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmegupss4te6G8wpWzqqnXEByJ6Aoa5srJXw8p2G6bu9iA/nft.png",
+  "tokenId": 81,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**HIYO 1942**  \nThis silhouette is aircraft carrier Hiyo in 1942.\n\nShe is the second ship of the JUNYO class.  \nOriginally under construction as a cargo and passenger ship named Izumo Maru, it was acquired by the Japanese Navy and converted into an aircraft carrier.\n\nDespite being a converted merchant carrier, she boasted a huge body, with a deck, aircraft capacity, and drainage capacity that exceeded that of a regular aircraft carrier, but her speed was slow at 25.5 knots, and she still retained the characteristics of a converted merchant carrier.\n\nShe was torpedoed and sunk during the Battle of the Marianas, which she and her sister ship, the Hayabusa, fought together.\n\n**空母 飛鷹 1942**  \n隼鷹型の2番艦です。  \n元は日本郵船が貨客船として建造中だった出雲丸を日本海軍が買収し空母に改造しました。\n\n商船改造空母でありながら巨体を誇り、甲板や搭載量、排水量などは正規空母を上回るほどの大きさでしたが、速力は25.5ノットと遅く、商船改造空母らしさも残っていました。\n\n姉妹艦「隼鷹」と共に出撃したマリアナ沖海戦で雷撃を受け失われました。\n\nこのNFTは1942年頃の飛鷹のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0081 HIYO 1942",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Aircraft carrier"
+    }
+  ]
+}

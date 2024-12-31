@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcyxUZPMpFXegcGs3sKqiN2McALfnHGMSVsDFwfN2uKuz/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmcyxUZPMpFXegcGs3sKqiN2McALfnHGMSVsDFwfN2uKuz/nft.png",
+  "tokenId": 46,
+  "chainId": "137",
+  "name": "Rabbit girl #3🍓 『Pink opal』",
+  "description": "Rabbit girl #3🍓 『Pink opal』\n\nShe works hard every day. The weekend reward is her favorite strawberry tart.🍓💓",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "PinkOpal",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "🍓",
+      "trait_type": "Series"
+    }
+  ]
+}

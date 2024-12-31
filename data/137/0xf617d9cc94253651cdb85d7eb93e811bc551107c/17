@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNNoYFe3HRjziA24NoZMyeUKhtmD1LQfRyVABAxS6o4Aa/nft.gif",
+  "nftContractAddress": "0xf617d9cc94253651cdb85d7eb93e811bc551107c",
+  "animationUrl": "https://ipfs.io/ipfs/QmNNoYFe3HRjziA24NoZMyeUKhtmD1LQfRyVABAxS6o4Aa/nft.gif",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "VLG017_Fox",
+  "description": "レトロゲーム風筐体にベリロンのキャラクターを入れ込みました。\nアンロックコンテンツのアップルウォッチ用48x48PNGファイルについては\nTwitter:@inariheroes_nftまでご連絡ください。\n※本プロジェクトはVeryLongAnimalのコンセプトを受け継いだプロジェクトです。\n\nRetro game style enclosure with \"VeryLongAnimals\" characters.\nFor 48x48 PNG files for the Apple Watch with unlockable content, please contact  @inariheroes_nft.(Twitter)\n*This project is a continuation of the VeryLongAnimal concept.\n",
+  "attributes": [
+    {
+      "value": "White",
+      "trait_type": "Body Color"
+    },
+    {
+      "value": "Battle",
+      "trait_type": "Action"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Type"
+    },
+    {
+      "value": "INARIHeroes",
+      "trait_type": "Collaboration"
+    }
+  ]
+}

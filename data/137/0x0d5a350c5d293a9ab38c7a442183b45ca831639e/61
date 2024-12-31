@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPpi4VU46ZhNK4YwiYa2iHSaQWuRSUEiYbRaKkVKnX8aR/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 61,
+  "chainId": "137",
+  "name": "Day27 Umitsuru's Art #79",
+  "description": "少し前まで、こんなふうに階段を登っていく感覚で生きていました。\n\nUntil a while ago, I lived with the feeling of climbing stairs like this.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

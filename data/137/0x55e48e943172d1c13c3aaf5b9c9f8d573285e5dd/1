@@ -1,0 +1,15 @@
+{
+  "image": "",
+  "nftContractAddress": "0x55e48e943172d1c13c3aaf5b9c9f8d573285e5dd",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "CHOBATS",
+  "description": "correct horse battery staple - CHOBATS",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "CHOBATS"
+    }
+  ]
+}

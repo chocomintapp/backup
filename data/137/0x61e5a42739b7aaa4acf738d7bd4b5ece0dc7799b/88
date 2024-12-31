@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWkEU3sfqWdBfc2QcTTwiPJeRHRc1VK2QE7xB2PmqTEwy/nft.jpeg",
+  "tokenId": 88,
+  "description": "Creator [MiMi kitten](https://twitter.com/MiMi_kittenn)",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "大吉 #24",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "大吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "MiMi kitten"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

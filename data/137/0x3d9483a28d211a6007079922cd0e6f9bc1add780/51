@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbinY3Y7tqRqB7LZMRuPKQhnXxJxqsQHMmJkQm9w9hqRp/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 51,
+  "chainId": "137",
+  "name": "Neon #51",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon girl",
+      "trait_type": "character"
+    },
+    {
+      "value": "pink hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "yellow fighter",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "katana",
+      "trait_type": "hand"
+    },
+    {
+      "value": "mocking",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

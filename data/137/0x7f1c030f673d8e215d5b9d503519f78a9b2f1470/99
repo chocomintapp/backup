@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaLHot6xjGao1QtijdktpYAyuMFZtGeHxAMNURUR1TS5B/nft.jpg",
+  "nftContractAddress": "0x7f1c030f673d8e215d5b9d503519f78a9b2f1470",
+  "animationUrl": "",
+  "tokenId": 99,
+  "chainId": "137",
+  "name": "Twilight Nup Rabbit #2",
+  "description": "The rabbit, a symbol of curiosity, will give you the opportunity to start something new.",
+  "attributes": [
+    {
+      "value": "Twilight",
+      "trait_type": "Attribution"
+    },
+    {
+      "value": "Nup",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "East",
+      "trait_type": "Birth"
+    },
+    {
+      "value": "Baby",
+      "trait_type": "Age"
+    },
+    {
+      "value": "Creator",
+      "trait_type": "Class"
+    }
+  ]
+}

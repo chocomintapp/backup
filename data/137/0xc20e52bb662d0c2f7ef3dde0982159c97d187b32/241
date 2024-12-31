@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSgpkFLyfV1fBsZ2JenU2SBFTBwT4z1sGpJuBtbg62iP5/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 241,
+  "chainId": "137",
+  "name": "#241",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#FFD3BC",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#00ECFF",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Skull in the back alley",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull",
+      "trait_type": "face"
+    },
+    {
+      "value": "Combat readiness",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Yellow tattoo",
+      "trait_type": "special1"
+    },
+    {
+      "value": "Grenade launcher",
+      "trait_type": "Accessory1"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSh4EbHdedc4LSKCCqqveN6dyTsSVU1JJYfV3G4nooAVd/nft.png",
+  "nftContractAddress": "0x138e1e396d42f8b116ce7bc6c233ddbd36584086",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "rock-et",
+  "description": "Beyond the Atmosphere",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

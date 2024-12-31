@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmds23i8gotCU3uoQiTdPFvZ7xpDRpo7FG7q8mUebvr4e3/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 187,
+  "chainId": "137",
+  "name": "#187",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Different world",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "Fear",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Elemental jewels",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Dark jewel",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "The power of darkness",
+      "trait_type": "special1"
+    },
+    {
+      "value": "Devil's horn",
+      "trait_type": "Accessory1"
+    },
+    {
+      "value": "Devil's wings",
+      "trait_type": "Accessory2"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcKYUiCb5t3KuvV233L2SRgKpZPkdyZLBQtXdUXNETGEd/nft.png",
+  "tokenId": 28,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KAGERO 1943**  \nThis silhouette is destroyer KAGERO in 1943.\n\nIt is the first ship of the KAGERO type destroyer that had the highest performance in the Japanese Navy when the Pacific War began.\n\nIt was a destroyer that was developed for the purpose of taking the lead in the fleet battle between Japan and the United States, but it was engaged in escort missions and transport operations, taking advantage of its high performance.\n\n**駆逐艦 陽炎 1943**  \n開戦時に最新鋭かつ主力だった陽炎型駆逐艦の1番艦です。\n日米艦隊決戦において先陣を切る目的で開発された艦隊型駆逐艦でしたが高い性能を生かし護衛任務や輸送作戦等に従事しました。\n\nこのNFTは1943年頃の駆逐艦 陽炎のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0028 KAGERO 1943",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Destroyer"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR2QFLyVrU5qrw8NHPDdVeuoFEcprNHECEtmBDxX9D3hF/nft.jpeg",
+  "tokenId": 2,
+  "description": "Calligraphy Devil #2",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #2",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "The Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Satan"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Azazel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sloth"
+    }
+  ],
+  "minted": "✅"
+}

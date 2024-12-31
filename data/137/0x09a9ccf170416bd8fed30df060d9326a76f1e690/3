@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQyJf6HN7PKaXCE4gyFVEhAR1KpXLDQX3tj4ssz3UeSxJ/nft.jpg",
+  "tokenId": 3,
+  "description": "the complexity of the green version",
+  "nftContractAddress": "0x09a9ccf170416bd8fed30df060d9326a76f1e690",
+  "animationUrl": "https://ipfs.io/ipfs/QmTptXctn16YW9CeYHyGM5o8TzaFNNK81oobNHBq6KNeB4/nft.mov",
+  "chainId": "137",
+  "name": "Green",
+  "minted": "✅"
+}

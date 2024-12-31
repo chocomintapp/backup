@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcJe2Zs4V92EGzQHYsB4fNbji5AW7EJg8eeMom8q51cqp/nft.png",
+  "nftContractAddress": "0xc101a3685be26c91dd9b41778addb085af6820f1",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "sheppe",
+  "description": "Cut the fur and wear it.\n毛皮を刈って着るラッコ。\n\nThe creatures that live in the seaside luck o city. They live with sin on their backs. The deeper the sin, the more they can dive into the sea.\n\nseaside luck o city（シーサイドラッコシティ）に住む生き物たち。彼らは罪を背負って生きている。罪が深ければ深いほど、彼らは海に深く潜れる。\n",
+  "attributes": [
+    {
+      "value": "Saturn",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "80",
+      "trait_type": "Greed"
+    },
+    {
+      "value": "10",
+      "trait_type": "Envy"
+    },
+    {
+      "value": "10",
+      "trait_type": "Sloth"
+    }
+  ]
+}

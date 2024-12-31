@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcUXhJEi6BKvLmZYa4b2h34sfL2YmMchfaNE9H7oL2zJb/nft.jpg",
+  "tokenId": 3,
+  "description": "This is the character \"Goyamera\" born in the Twitter space!",
+  "nftContractAddress": "0x34afed96192999c7fb115bf1ce9a337c4b92c7bc",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Gojyamera",
+  "attributes": [
+    {
+      "trait_type": "rice",
+      "value": "koshihikari"
+    },
+    {
+      "trait_type": "grain",
+      "value": "13"
+    },
+    {
+      "trait_type": "gojyauma",
+      "value": "100"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXEmHhTJeZUXfP1nkSbUreXGxCEPs1UYySWTaXMHbPkcA/nft.png",
+  "tokenId": 49,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**HETZER**  \nThis tank destroyer is based on the Czech 38(t) light tank.\nIt was used by the Germans in the second half of World War II.\n\nAlthough it had a narrow interior and poor visibility, it was very active despite its small size with a powerful 48 caliber 75mm gun mounted on a small chassis. It was also a highly productive vehicle. The machine gun depicted in the silhouette is a remote-controlled type.\n\n**ヘッツァー 軽駆逐戦車**  \nチェコの38（t）軽戦車の流れを汲む駆逐戦車です。  \n大戦後半にドイツ軍が投入しました。  \n\n居住性や視界の悪さもなんのその、小さな車体に強力な48口径75mm砲を搭載して、小粒ながらに大活躍しました。生産性が非常に高い車輛でもありました。\n\nシルエットの機銃はリモコン式なのもポイントです。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0049 HETZER",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ],
+  "minted": "✅"
+}

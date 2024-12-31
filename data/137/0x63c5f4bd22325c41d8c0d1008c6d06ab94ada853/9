@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPdwHyA5wDAxJ2xdgXM9iEkTvG28oarKnfFNVMvaHmmao/nft.jpg",
+  "nftContractAddress": "0x63c5f4bd22325c41d8c0d1008c6d06ab94ada853",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "Karuishi#2018009",
+  "description": "This pumice was collected near Sakurajima Volcano in Kagoshima Prefecture, Japan. We make products using pumice stone produced by volcanoes as a symbol of our living with volcanoes. This digital collection is a collection of the original pumice stones used in the product.",
+  "attributes": [
+    {
+      "value": "White",
+      "trait_type": "Color "
+    },
+    {
+      "value": "Oval",
+      "trait_type": "Shape"
+    },
+    {
+      "value": "Sakurajima",
+      "trait_type": "Origin"
+    },
+    {
+      "value": "2018",
+      "trait_type": "Year"
+    }
+  ]
+}

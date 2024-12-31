@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPozZcXfQiY5doqayNuLdAzYppq2dLrc8fPwbjrZa3dST/nft.jpeg",
+  "tokenId": 3,
+  "description": "he is people",
+  "nftContractAddress": "0xe97bd69b82536e5a1dea7f565c2a96d042f8e318",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "people",
+  "attributes": [],
+  "minted": ""
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma3j5LUYa483mJbn4PfSHDNXvjBbDDCn34eXxx8TpAbEq/nft.png",
+  "tokenId": 1,
+  "description": "64*64 Pixel Art of Hokusai 「文昌星図」",
+  "nftContractAddress": "0x7f46652424f8e09f13f6a8dde04878b8f1f67349",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "PixelHOKUSAI"
+}

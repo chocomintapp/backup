@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme7T54y5C6f1LpZBaU7f9RJt1Z7rxWNZmhHDmeLEmwUQC/nft.jpeg",
+  "nftContractAddress": "0xca5f5c81bb9c8ca191c03233a2b210b990a80193",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #3 -ばじるたけるが止まらない Ver.-",
+  "description": "VeryLongAnimals #3の二次創作LooseVeryLongAnimals #3のWeb3 support  Ver. です！\n提供先 ばじるたけるが止まらない さん",
+  "attributes": [
+    {
+      "value": "cat",
+      "trait_type": "type"
+    }
+  ],
+  "minted": ""
+}

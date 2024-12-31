@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbNPNvNx53cdpwkid6sUZ1BJdxLXgDDb8sbHYka9bXFj9/nft.png",
+  "nftContractAddress": "0x76fed3b3507aa9ecfc876c3a8298b30d8c2be082",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "ab",
+  "description": "？%",
+  "attributes": [
+    {
+      "value": "98% wakame",
+      "trait_type": "atgj"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRoVCEVeg3mcBjRmpoePXsRYnA35qb6ahWfvffdVvJWAQ/nft.png",
+  "nftContractAddress": "0x9f60ec7563352d2faf097b80719f975a7083974d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "tteesstt",
+  "description": "kkkkkk",
+  "attributes": [
+    {
+      "value": "アイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオアイウエオ",
+      "trait_type": "job"
+    },
+    {
+      "value": "testtesttesttes",
+      "trait_type": "origin"
+    }
+  ]
+}

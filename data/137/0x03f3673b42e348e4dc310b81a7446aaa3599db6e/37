@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfWGukJ2bg4FkR7cPUkoi159AhW4gj5NJpfAMuhqtZmnr/nft.PNG",
+  "tokenId": 37,
+  "description": "",
+  "nftContractAddress": "0x03f3673b42e348e4dc310b81a7446aaa3599db6e",
+  "animationUrl": "https://ipfs.io/ipfs/QmXo8tDYw442rxkGQdxxAcC4wLdXfemH54k76HySMbZ6SC/nft.glb",
+  "chainId": "137",
+  "name": "3Dまるくじ"
+}

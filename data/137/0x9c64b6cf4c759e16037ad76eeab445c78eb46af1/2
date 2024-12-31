@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSx8rKHQyTrPqxZP6wUJop3Wv1pboDzfsk9KAri2wPMVv/nft.png",
+  "tokenId": 2,
+  "description": "Zero Model 21: \nThe Zero Fighter\nThis is a fighter plane of the Imperial Japanese Navy.\nThe Model 21 was the first mass-produced Zero fighter, and is a masterpiece representing Japan. It was very good at dogfights.\n\n零式艦上戦闘機21型：\n世界を震撼させた傑作戦闘機の初期型です。\n太平洋戦争初期には伝説レベルの無双状態でした。\n二一型は空母搭載を前提に大量生産された初の零戦で\n驚異的な格闘性能と航続距離、20mm機銃からなる大火力を誇りました。",
+  "nftContractAddress": "0x9c64b6cf4c759e16037ad76eeab445c78eb46af1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0002 ZERO model21",
+  "attributes": []
+}

@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVWknEXhNWf9xWwhq8rwbU9mXJXrFoi72icHrbkBWJjjy/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "#0005_Red",
+  "description": "#0005_Red\n「始まりの六人」のうちの一人であるRedです。\nOne of the \"Six of the Beginning\"-Red.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "Six of the Beginning",
+      "trait_type": "Feature"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX4anHLuPeaHCdv5Cm5mxawujoJdjHm8JCXYR9PMWmXtz/nft.png",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "137",
+  "name": "#39  CRYPPL - Clairvoyant Nadeem of the Palms",
+  "description": "Hello Clairvoyant Nadeem of the Palms.",
+  "attributes": [
+    {
+      "value": "1728",
+      "trait_type": "FRWC_ID "
+    }
+  ],
+  "minted": "✅"
+}

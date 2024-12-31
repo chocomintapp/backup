@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY79ko9nNYcoayfeUBJmGH8GTZ7WFopAavRcsCS2Sbq7s/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 57,
+  "chainId": "137",
+  "name": "#57 Braided up style pink",
+  "description": "Cute hairstyles that look good with yukata.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hair",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Braided up style",
+      "trait_type": "Hair"
+    }
+  ]
+}

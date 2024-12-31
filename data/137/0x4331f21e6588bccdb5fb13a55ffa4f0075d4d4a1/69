@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSn33rDDG2rEcsRvA8JW6UxobwZC6SynrwWGBHo2fxfib/nft.png",
+  "tokenId": 69,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**STURMTIGER**  \nIt is a monster that fires rockets with a diameter of 38cm and a weight of 350kg.\n\nOriginally designed for naval use, the huge 38cm mortar could not be mounted on an ordinary tank, so the body of the TIGER I was used.\n\nAlthough only a few were produced (12 to 18 units)  \nIts immense destructive power and high defensive capability gave the Allied forces a crushing blow.\n\n**シュトルムティーガー 38cm突撃臼砲**  \n直径38cm、重さ350kgのロケット弾を発射する怪物です。\n\nもともと海軍用に設計された巨大な38cm臼砲は、並の戦車には搭載出来ない為、ティーガーIの車体を使用する事になりました。\n\n生産数はごくわずかですが（12～18輌）その絶大な破壊力と高い防御力で連合軍に痛撃を与えました。\n",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0069 STURMTIGER",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

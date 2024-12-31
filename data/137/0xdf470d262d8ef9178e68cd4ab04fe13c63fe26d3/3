@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfCP2hhXwd5VA4TTewtNzyGARuwdrRN73Ah2HhaUT86vk/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmQM449Z2my1zu1a6H6AXpgdLUcv3C28dYQUh42Rqck5Jk/nft.gif",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Kawaii Legends #003",
+  "description": "#003 Shiromuku Kawaii\n\"The Love we give and the Love we receive bring abundant happiness.\"\n\n\n*Here are some tidbits about this costume: \nThis white kimono \"Shiromuku\" worn by brides at weddings.\nAlso this white hat is called \"Tsuno-kakushi\", which means \"To hide horns of your inner devil\" in Japanese.\nIt means \"patience is necessary for the couple to have a happy married life.”\n\nSo,this Kawaii Legendary #003 is an Japanese ancient daemon, but her horn is hidden and she looks like a just human.\n\n衣装豆知識：\n和装結婚式の衣装、白無垢です。ベールにあたる角隠しは「心の鬼の角を隠して家庭円満に」という願いが込められています。#003ちゃんも鬼キャラクターですが、この角隠しのために人間の女性のように見えます。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "ONI",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Celebrate",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Sakura",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Wedding kimono",
+      "trait_type": "Outfit"
+    }
+  ]
+}

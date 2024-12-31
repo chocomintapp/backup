@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRSEyvH6KgkeBpKRz6gfhLSC8bpR2pGQCigTnKxQea5td/nft.png",
+  "tokenId": 2,
+  "description": "Test NFT Non-Fungible Token Original contract",
+  "nftContractAddress": "0xefb1e517c0cbb52c6a927706f5104384d26d59cb",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Test NFT Non-Fungible Token",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

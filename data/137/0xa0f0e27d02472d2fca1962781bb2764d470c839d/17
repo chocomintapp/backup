@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaMhehHZrdRNJL1BarGfhvrcS8v1gu46KaYHHBEF1fe2h/nft.png",
+  "tokenId": 17,
+  "description": "テーブルマナーってのを教えてやるよ。\n\nI'll teach you something called table manners.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Chameleon with a knife and fork",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Chameleon"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

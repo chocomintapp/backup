@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRWHf3BhhkLjQpwkaiNmCH6iPokQLm7dgZ5LS3nTBaj3d/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "TANU-KIDS #013",
+  "description": "ムエタイ選手に変身したTANU-KIDS\n\n試合は苦手ですが\nワイクルーは得意です",
+  "attributes": [
+    {
+      "value": "Muay Thai",
+      "trait_type": "Sports"
+    }
+  ],
+  "minted": "✅"
+}

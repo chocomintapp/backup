@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZZMmSGajZgSvCTw6pYkuzW3UHBU8u6Yc2SqfJyztLCLU/nft.png",
+  "tokenId": 29,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**MAKINAMI 1942**  \nThis silhouette is destroyer MAKINAMI in 1942.\n\nThis is the fifth ship of the Yugumo class destroyers.  \nParticipated in the bombardment of the Henderson base.In the night battle off Lunga occurred during the transport mission,against the raid of the U.S. fleet.  \nTogether with her companions, she made a counterattack.\n\nIn the battle, the Japanese lost the destroyer Takanami, but sank a U.S. heavy cruiser and heavily damaged three others.\n\nLike other destroyers, she was busy escorting convoys and fighting anti-aircraft battles, but on her return from the second transport mission to Buka Island in 1943, she was struck by a U.S. destroyer off Cape St. George and sank. The ship sank.\n\n**駆逐艦 巻波 1942**  \n夕雲型 駆逐艦の5番艦です。\n\nヘンダーソン基地砲撃のに参加し鼠輸送中に発生したルンガ沖夜戦では、米艦隊の急襲に対して僚艦と共に猛烈な反撃を行い、日本側は駆逐艦 高波を損失するも米重巡1隻撃沈、3隻大破という大戦果を挙げています。\n\n他の駆逐艦と同じく、度重なる輸送任務をこなしつつ輸送船団の護衛や対空戦闘などに奔走しましたが1943年のブカ島への第二次輸送作戦の帰途にセントジョージ岬沖で米駆逐艦の雷撃を受けて沈没しました。\n\nこのNFTは1942年頃の巻波のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0029 MAKINAMI 1942",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Destroyer"
+    }
+  ],
+  "minted": "✅"
+}

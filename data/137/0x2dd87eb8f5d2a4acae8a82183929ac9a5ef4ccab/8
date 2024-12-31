@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma6YQfkD8h3U9KCqeNqMB3vHJKA2C8e9GJvb6ith3DwvR/nft.png",
+  "tokenId": 8,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n2月7日\n\n昨晩のクラブへの潜入捜査は、失敗に終わってしまいました。完璧な変装も、むき出しのドーナツの前では全く意味を成さないことを痛感した部長です。捜査対象のある人物から、「あれ？部長…その格好どうしたんですか？（笑）」と、声を掛けられてしまいました。昨日の失敗から気持ちを切り替えて…今日は、家族でショッピングにやってきました。駅前に新しくオープンした「ソフトクリーム 2.0」というお店が気になった部長。何でも「新しい時代のソフトクリームを提供するショップ」というのがコンセプトのお店らしく、到底持ち運びができないサイズの巨大なソフトクリームがイチオシとのこと。新しいもの好きな部長は、早速オーダー。案の定、ひっくり返して、残念な結果になってしまう駅前での出来事なのでした。\n\nFeb 7\n\nHis attempt to infiltrate the club last night was unsuccessful. He learned the hard way that a perfect disguise means absolutely nothing in front of a bare doughnut. One of the people he was investigating said to him, \"Huh? Sir...what happened to your outfit? (Laughter),\" he said to me. After yesterday's debacle, he changed his mind...he came here today to go shopping with his family. He was curious about a newly opened store in front of the station called \"Soft Ice Cream 2.0. According to the store, its concept is \"a store offering soft-serve ice cream for a new era,\" and its signature item is a giant soft-serve ice cream that is too big to carry around. Being a lover of new things, he ordered it immediately. Sure enough, it was a disappointing experience in front of the station, as he ended up tipping it over.",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #037 Feb.7",
+  "attributes": [
+    {
+      "trait_type": "HOODIE",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "JEANS",
+      "value": "Natural"
+    },
+    {
+      "trait_type": "SOFT SERVE ICE CREAM",
+      "value": "XLLLL Size"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "White"
+    }
+  ]
+}

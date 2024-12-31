@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXK2it4CUYeVvKkLagVi86mHQRbA4Y1ddfbudqfpxUT8e/nft.png",
+  "nftContractAddress": "0x4600f09d69dd435a2bee86c7dfbd7ac3d2a34b5d",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Glitchsnap",
+  "description": "特典です",
+  "attributes": []
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNtz6ncmT2efxdLvyp3e422BmZxiF3JsSAppL4hFvb4nC/nft.jpg",
+  "tokenId": 11,
+  "description": "It is a Virgin Mary who is appearing in the \"Annunciation\".\n受胎告知に出演中の聖母マリアです。",
+  "nftContractAddress": "0x2ce06a926405ea888579cba661fb1b57e3a5e5ad",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Virgin Mary",
+  "attributes": []
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPc56fjiE4i5Lw24Mdgf6rv2Q3pJbZqHQfApaXB9TacuT/nft.png",
+  "nftContractAddress": "0x37fa63ddb4c4f37b25cd116fd58104ecaf60d801",
+  "animationUrl": "https://ipfs.io/ipfs/QmPc56fjiE4i5Lw24Mdgf6rv2Q3pJbZqHQfApaXB9TacuT/nft.png",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "A Moment in Everyday Life -kakure shunn 隠　瞬-",
+  "description": "Recently, I have been wondering where to put the books and games I bought.     \nI thought about selling them, but MEME and my mother tell me to keep them because I might want to play them.     \n...... Well, it may indeed be a waste.     \nI guess it is the same all over the world that rooms get untidy in this way.     \n\n最近、買った本やゲームの置き場所に悩むようになりました。     \n売ってしまおうとも思ったのですが、MEMEや母が「やりたくなるかもしれないからとっておいて」と言います。     \n……まぁ、確かにもったいないかもしれません。     \nこうして部屋が片付かなくなっていくのは、世界共通ですかね。     ",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

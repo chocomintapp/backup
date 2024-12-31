@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcyMXM2rHqJDSgUKPKE1xguoB455qjuoCM9YfZ5t7xpJZ/nft.jpg",
+  "tokenId": 10,
+  "description": "It is a Gabriel who is appearing in the \"Annunciation\".\n受胎告知に出演中のガブリエルです。",
+  "nftContractAddress": "0x2ce06a926405ea888579cba661fb1b57e3a5e5ad",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Gabriel",
+  "attributes": []
+}

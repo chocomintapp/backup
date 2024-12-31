@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRhEPrmkLskxj3EM4VGQkEukjeutMuUk4yY1uNMhUmnsz/nft.png",
+  "tokenId": 101,
+  "description": "Contemporary art style vampire medjed 2",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/QmRhEPrmkLskxj3EM4VGQkEukjeutMuUk4yY1uNMhUmnsz/nft.png",
+  "chainId": "137",
+  "name": "medjed no.101/1000",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

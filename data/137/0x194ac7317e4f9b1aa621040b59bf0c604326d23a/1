@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbPjYCPVPrp9kqBrJp19SwhdERxfbbuim2JEuHs2Rq2vj/nft.png",
+  "tokenId": 1,
+  "description": "A7X fan have created a voxel version of the Deathbats Club bats.",
+  "nftContractAddress": "0x194ac7317e4f9b1aa621040b59bf0c604326d23a",
+  "animationUrl": "https://ipfs.io/ipfs/QmWww9S7Hk1XrNfk5dsMrNhr3PtSqkKjQZyZ5h3uULY1AN/nft.glb",
+  "chainId": "137",
+  "name": "VoxelBat #1111",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

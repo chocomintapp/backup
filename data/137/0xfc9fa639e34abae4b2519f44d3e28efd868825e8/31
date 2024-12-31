@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXTKMssKKgoTsjUCJrVv3hLn7eqjqwp7ctpTUUTjvKq6X/nft.png",
+  "nftContractAddress": "0xfc9fa639e34abae4b2519f44d3e28efd868825e8",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies Z #31",
+  "description": "Baby's growth potential is unlimited.",
+  "attributes": [
+    {
+      "value": "Beluga",
+      "trait_type": "TYPE"
+    }
+  ]
+}

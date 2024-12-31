@@ -1,0 +1,11 @@
+{
+  "image": "",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x31fe79e7784444c6ba34cd75427b603426370ea2",
+  "animationUrl": "https://ipfs.io/ipfs/QmeApeVUrEXGRxadtNhwUqw8foMpjcmRWwhunE2AK9q79W/nft.html",
+  "chainId": "137",
+  "name": "gear",
+  "attributes": [],
+  "minted": ""
+}

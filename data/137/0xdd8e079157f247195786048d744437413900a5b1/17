@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP12b7Aoe6Jpdr2BSsKvpBUyeUxJK5Xx1oLju12tJtfVb/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmP12b7Aoe6Jpdr2BSsKvpBUyeUxJK5Xx1oLju12tJtfVb/nft.gif",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #17",
+  "description": "ベビロン二次創作",
+  "attributes": [
+    {
+      "value": "??",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

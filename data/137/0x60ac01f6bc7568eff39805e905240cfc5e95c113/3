@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR4bp99xarCU8XnXMQSBo4d6TXZzWpF9mkHjqzk9di3cY/nft.png",
+  "nftContractAddress": "0x60ac01f6bc7568eff39805e905240cfc5e95c113",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "妖刀ー雷切　",
+  "description": "妖刀「雷切」は、神秘的な力を秘めた刀であり、その存在は恐怖と畏怖をもたらします。丹寺おどの相方、三峯みつ（みみねみつ）は雷切が山岳地帯に埋もれているとの情報を入手します。\n\n三峯みつは、剣術において非凡な才能を持つ若き剣士です。彼女はある日、雷切の伝説を耳にし、その力に魅了されます。\nみつは、雷切を手に入れるため、その真実を探る旅に出ます。彼女は伝説の山岳地帯を探索し、古い書物や古代の文献を調査しながら、雷切の謎を解き明かそうと努力します。",
+  "attributes": [
+    {
+      "value": "Weapon",
+      "trait_type": "Attribute"
+    },
+    {
+      "value": "10",
+      "trait_type": "Attack"
+    },
+    {
+      "value": " Thunder",
+      "trait_type": "Element"
+    }
+  ]
+}

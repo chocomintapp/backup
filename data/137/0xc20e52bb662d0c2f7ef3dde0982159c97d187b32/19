@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX3mXwf5SEuzuQVjdyubdHwDYVphmsjF18QKGn4K1sQ5z/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "#19",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Ritual night",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#510F67",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Witch",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Magic broom",
+      "trait_type": "Accessory1"
+    },
+    {
+      "value": "Magic hat",
+      "trait_type": "Accessory2"
+    }
+  ]
+}

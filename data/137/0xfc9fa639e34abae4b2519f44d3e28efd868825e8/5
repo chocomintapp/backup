@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTTRJMXY3EcrA3A2AvrH9UYBxWgfix1XafYnzojbuR8Ee/nft.png",
+  "nftContractAddress": "0xfc9fa639e34abae4b2519f44d3e28efd868825e8",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies Z #5",
+  "description": "Baby's growth potential is unlimited.",
+  "attributes": [
+    {
+      "value": "Mackerel",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

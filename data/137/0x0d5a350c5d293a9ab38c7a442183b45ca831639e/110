@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRoP9W7jgJAiXLDBjDY92fu4SnaqEXh9gXAFXA54kNGm8/nft.png",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 110,
+  "chainId": "137",
+  "name": "Day45 Syu's Art",
+  "description": "パパは最近NFTに夢中で、遊んでくれる時間が少なくなった。\n\nDad has been so into NFT lately that he doesn't have much time to play with me.",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "",
+  "nftContractAddress": "0xa8d23a39c15658526201bf1ea8c1ecce1404d27f",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Test",
+  "description": "19 August 2023\nCity Pop TOKYO First Offline Community Event in TOKYO hosted by CPT Travelers.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

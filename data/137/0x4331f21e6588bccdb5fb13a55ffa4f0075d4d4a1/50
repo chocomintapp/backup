@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbiUD4EzkDANqvwDjGUc2wk2ppujttoyAKgoYPtEb87ke/nft.png",
+  "tokenId": 50,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**M3 Stuart**  \nIt is a very excellent light tank developed by the United States.\n\nAlthough it was a light tank, it was superior to the Type 97 medium tank of the Japanese army in all aspects of running, offense, and defense. In particular, the heavy armor that does not look like a light tank up to 51mm I suffered the Japanese tank corps.\n\nThe Japanese army, which highly evaluated the performance of M3 light tanks, captured this vehicle in the Philippines and deployed it in the Imphal campaign.\n\n**M3 軽戦車 スチュアート**  \nアメリカが開発した非常に優秀な軽戦車です。\n\n軽戦車ながら走攻守、全てにおいて九七式中戦車を上回っており、特に最大51mmという軽戦車らしからぬ重装甲は日本軍戦車隊を苦しめました。\n\nM3軽戦車の性能を高く評価した日本軍はフィリピンで鹵獲した本車輛を部隊運用し、インパール作戦などに投入しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0050 M3 Stuart",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

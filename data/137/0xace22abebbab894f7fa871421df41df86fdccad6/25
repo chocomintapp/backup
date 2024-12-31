@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPtGEr2Vqg8cU8GUxmm53DF2r7FBEXqXduWbKh6bbrcLr/nft.jpg",
+  "nftContractAddress": "0xace22abebbab894f7fa871421df41df86fdccad6",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "137",
+  "name": "Camera",
+  "description": "CamCam",
+  "attributes": [
+    {
+      "value": "human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

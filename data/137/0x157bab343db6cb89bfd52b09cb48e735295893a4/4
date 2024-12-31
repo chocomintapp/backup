@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXntbMUmS1adedAfjByi87nu24ETegn57ZR7N3EyS8K4T/nft.png",
+  "nftContractAddress": "0x157bab343db6cb89bfd52b09cb48e735295893a4",
+  "animationUrl": "https://ipfs.io/ipfs/QmeB3nhJwKqzmX82SzQgrH6k4tv7GHoW3PHghBg9eQ2Hdf/nft.glb",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "GOGGLE TYPE N",
+  "description": "test",
+  "attributes": [],
+  "minted": "✅"
+}

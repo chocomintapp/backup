@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfN7ANjCD57edv59CdCZoV8XsiAse8G9pnof9q1mUVYWF/nft.JPEG",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "137",
+  "name": "VerySilentFruits#43 Granadilla",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Granadilla",
+      "trait_type": "Fruit"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQMWvdULM7wQouF2Rth22jqrzMNkWiben9WWGPSnw2m69/nft.png",
+  "tokenId": 1,
+  "description": "テストだよ",
+  "nftContractAddress": "0x6e29661652353cbc43ccec9e0cb1e972a0152e25",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "yoheitest",
+  "attributes": []
+}

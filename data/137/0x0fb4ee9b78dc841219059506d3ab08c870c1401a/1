@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVB3voqDF2YVPUaiTNtnRX1atKZbMBWbCcYvzRDguvdyD/nft.png",
+  "nftContractAddress": "0x0fb4ee9b78dc841219059506d3ab08c870c1401a",
+  "animationUrl": "https://ipfs.io/ipfs/QmVB3voqDF2YVPUaiTNtnRX1atKZbMBWbCcYvzRDguvdyD/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "くるくるくじ1",
+  "description": "",
+  "attributes": []
+}

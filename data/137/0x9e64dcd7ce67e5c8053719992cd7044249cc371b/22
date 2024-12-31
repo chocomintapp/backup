@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVnDWYn4hRDPoYieQqPD1h94WkHfmHn8TxmLAzLDAtK7w/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "HeartBreakStartUp × VeryLongAnimals",
+  "description": "A collaboration with \"100話で心折れるスタートアップ\", the manga about a startup that breaks their heart after the 100th episode. Created by VLAB.",
+  "attributes": [
+    {
+      "value": "Heart Breaking CEO",
+      "trait_type": "TYPE"
+    }
+  ]
+}

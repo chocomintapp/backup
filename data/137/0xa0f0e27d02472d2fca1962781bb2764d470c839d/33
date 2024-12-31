@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeHYwMoeQiRqYjKpa7tfnH3xjYCfJ2gwWdbt3hRpvCaK9/nft.png",
+  "tokenId": 33,
+  "description": "冬でも全裸でヘッチャラ\n\nIt's easy to get naked in winter.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Polar bear（シロクマ）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Polar bear"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSoVoXsgkS1DmvwpTTA5PeEa1tfBRahobjqZVQDgQVJhF/nft.png",
+  "nftContractAddress": "0xa0a9b0cf211a455db91bcb40991f2c7dccfab347",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Ink'z Monster Special Pass",
+  "description": "Ink'z Monster Special Pass",
+  "attributes": [
+    {
+      "value": "Special",
+      "trait_type": ""
+    }
+  ],
+  "minted": ""
+}

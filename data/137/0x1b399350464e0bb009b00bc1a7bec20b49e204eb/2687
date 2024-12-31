@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSEQ8X3xw87SRCrL2Hm9u5QkvLMff5ErANyF9Zi4aWGxx/nft.png",
+  "nftContractAddress": "0x1b399350464e0bb009b00bc1a7bec20b49e204eb",
+  "animationUrl": "",
+  "tokenId": 2687,
+  "chainId": "137",
+  "name": "Samurai Assemble #2687",
+  "description": "He is a proud Japanese Samurai. Samurai serve their lord and pledge allegiance to them. They train their minds, skills, and bodies, and master the marcial arts to protect their lord. They will surely protect you as their lord. There are 5,555 samurais in this Samurai Assemble Collection. You might find super rare characters who are called \"the most powerful samurai in history,\" or someone who are resemble to you or your family and friends. ;-) Please create your favorite group of samurai!\n",
+  "attributes": [
+    {
+      "value": "Bushi",
+      "trait_type": "JOB"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Personage"
+    },
+    {
+      "value": "N/A",
+      "trait_type": "Face Decoration"
+    },
+    {
+      "value": "Katana",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "Sharpened",
+      "trait_type": "Effect of the weapon"
+    },
+    {
+      "value": "Japanese",
+      "trait_type": "Background"
+    },
+    {
+      "value": "N/A",
+      "trait_type": "Head Decoration"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Chonmage",
+      "trait_type": "Hair Style"
+    }
+  ]
+}

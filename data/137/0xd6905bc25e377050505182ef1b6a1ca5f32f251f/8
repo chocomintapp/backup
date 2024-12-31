@@ -1,0 +1,16 @@
+{
+  "image": "https://bafybeigrh47amq6hgcmanvpsuaic3vodne4fbai5k6bf22bg4jltaa3w5m.ipfs.nftstorage.link/9.png",
+  "nftContractAddress": "0xd6905bc25e377050505182ef1b6a1ca5f32f251f",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "Deliver a bonsai",
+  "description": "Yuki and I went to a temple to deliver a bonsai.  It was so heavy, so it took longer than I expected.  The head monk gave us a glass of orange juice when we took a break.  He said that there was an old giant tree in this temple, but in last summer it died because of fire.  Since the head monk lived this temple from his childhood, the tree was like his playground.  I told him that this bonsai will not grow that big, but it will give you the another kind of relaxing.  I still remember his smile.  After everything, Yuki directly went to her home, and I got back to the shop.  Because I found that hoverfly was sleeping on the shoulder.  I decided to name this kid as soon as possible.",
+  "attributes": [
+    {
+      "value": "Bonsai",
+      "trait_type": "Style"
+    }
+  ],
+  "minted": "✅"
+}

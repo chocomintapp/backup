@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeAXt5TLS4PGTf6W3ubVgx7qN7BWsAfZWCvwWw1YRePU5/nft.png",
+  "nftContractAddress": "0x066f93516cbe6d648aba011f595608551ebc2d57",
+  "animationUrl": "https://ipfs.io/ipfs/QmSC5fZwyxzY3R5XSsdLjr7jG7RygrDzdb8mTRQ9HK8npc/nft.glb",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "#001 3DCG VR food NFT sushi お寿司 鮨 low poly Optimization photogrammetry  howdyNFT suisaiNFT vrfoodnft",
+  "description": "japanese dish sushi 3DCG\nlow-poly Optimization photogrammetry\nローポリゴンお寿司 鮨\n\nゲームエンジンのユーザーマニュアルによるとポリゴン数はモバイルデバイスでは、メッシュあたり300から1500ポリゴン\nデスクトッププラットフォームでは1500 から4000ぐらいが理想的と書かれています\n\n今回投稿したのは写真1枚～5枚程度でも\nできる599頂点、三角面754ポリゴンの最適化ローポリフォトグラメトリお寿司です\nどこまで削減できるか試してみました\n\n数十万ポリゴンから頂点数削減やリトポロジーを繰り返し1000ポリゴン以下になると角が無くなり形が崩れてきます\nここまで削減すると、寿司程度なら人力で長方形を組み合わせてフルスクラッチしたほうが楽ではありませんが美しいものが出来上がります　\n\n数百万、数十万ポリゴンからでも4000ポリゴン程度までの削減ならも目立つ破綻は少なく小物であれば十分フォトリアルで実用可能です　手直しの労力が小さく大きな成果で圧倒的に楽です\n\n3万2000ポリゴン、7万ポリゴンなどの自主規制がなくなっても数千万ポリゴン、数億。数十億ポリゴンなどはマシンに負担がかかります\n\n一部の最新のゲームエンジンでは数十億ポリゴン以上が実用化されましたがそれでも2万ポリゴンや1万ポリゴン以下までダイエットするのが望ましいです　省エネ最適化の技術が衰えるのは勿体ないです\n\n個人的な意見、感想です\n\nCopyright 2021~ howdyNFT suisaiNFT vrfoodnft\n\nlit.link/howdynft\nlit.link/suisaiNFT\nlinktr.ee/howdynft\nlinktr.ee/suisaiNFT\ntwitter.com/howdynft\ntwitter.com/suisainft\nrarible.com/howdynft\nopensea.io/suisaiNFT\nopensea.io/collection/vrfoodnft\nopensea.io/collection/suisainft-collection\n\nvrfoodnft_suisaiNFT_howdyNFT_0x4B607b5e4617237cE46c88b73685db0bC37546C8",
+  "attributes": [
+    {
+      "value": "low Poly",
+      "trait_type": "photogrammetry"
+    }
+  ]
+}

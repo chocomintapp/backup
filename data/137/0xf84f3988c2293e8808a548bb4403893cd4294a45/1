@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbZkWB6SichirFEmUEZkt9DqkkBDH23Hz16D6QKc4Kas6/nft.png",
+  "tokenId": 1,
+  "description": "CryptoNinja #006 In Pixel art style. created by monako2dx.",
+  "nftContractAddress": "0xf84f3988c2293e8808a548bb4403893cd4294a45",
+  "animationUrl": "https://ipfs.io/ipfs/QmTvXZaWz2nsPHNNWw6RWdwGppf2sppQ2euNiC1S3nRZBJ/nft.gif",
+  "chainId": "137",
+  "name": "Crypto Ninja Pixeled #006",
+  "attributes": [],
+  "minted": ""
+}

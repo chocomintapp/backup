@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmURpGdMNjRQsD6kzA2CYY8tSPodzN117eCSzCtZV8GWCu/nft.png",
+  "nftContractAddress": "0x2f6abfed0fcd30ab9988de866cf29a675a3486e8",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "にほんごです",
+  "description": "にほんごのせつめいぶんです\n正しく反映されているか確認\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "いける？",
+      "trait_type": "にほんご"
+    },
+    {
+      "value": "バリュー",
+      "trait_type": "キー"
+    }
+  ]
+}

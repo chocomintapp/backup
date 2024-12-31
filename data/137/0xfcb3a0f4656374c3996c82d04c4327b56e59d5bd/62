@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVpmUMBUrxp9kkweR6Dn1Zz8aqrzTazWoAZxVrHDRK5K5/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 62,
+  "chainId": "137",
+  "name": "#0059_Niton_CWMRBK_RBK",
+  "description": "#0059_Niton_CWMRBK_RBK",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Deep Sky Blue",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Razzmatazz",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Tangerine Yellow",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

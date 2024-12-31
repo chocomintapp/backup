@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfGuCMM5ezKRcF1e2jEDAD7iNAbmwpvx9PiGuadAzW2Wd/nft.jpeg",
+  "nftContractAddress": "0xca5f5c81bb9c8ca191c03233a2b210b990a80193",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #13 -tama Ver.-",
+  "description": "VeryLongAnimals #13の二次創作LooseVeryLongAnimals #13のWeb3 support  Ver. です！\n提供先 tama さん",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Cow",
+      "trait_type": "Type"
+    }
+  ]
+}

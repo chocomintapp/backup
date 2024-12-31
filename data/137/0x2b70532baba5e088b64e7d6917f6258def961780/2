@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdRYRxkSFEd6RnBgtsmAGh31eo1XzpXv3x4tVX3h2gEHs/nft.jpg",
+  "nftContractAddress": "0x2b70532baba5e088b64e7d6917f6258def961780",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies EDP #58",
+  "description": "VeryLongAnimalBabies #58 をイメージした香りです。",
+  "attributes": [
+    {
+      "value": "Woody",
+      "trait_type": "Last note "
+    },
+    {
+      "value": "Citrus",
+      "trait_type": "Middle note"
+    },
+    {
+      "value": "Marine",
+      "trait_type": "Top note"
+    }
+  ]
+}

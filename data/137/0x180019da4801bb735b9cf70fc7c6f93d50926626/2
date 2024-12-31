@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTY9zHSE21P2Tsg1HTNVmVmzE9JGJXENvi9tCaBxq3qjP/nft.png",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0x180019da4801bb735b9cf70fc7c6f93d50926626",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test direct mint ",
+  "attributes": [],
+  "minted": ""
+}

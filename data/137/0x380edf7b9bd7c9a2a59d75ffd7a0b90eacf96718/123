@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSwsqERAyziScJJhU2zPMoTJ6deGP8XtHH2CrMUre7dsG/nft.png",
+  "nftContractAddress": "0x380edf7b9bd7c9a2a59d75ffd7a0b90eacf96718",
+  "animationUrl": "",
+  "tokenId": 123,
+  "chainId": "137",
+  "name": "MOP #123",
+  "description": "",
+  "attributes": [],
+  "minted": ""
+}

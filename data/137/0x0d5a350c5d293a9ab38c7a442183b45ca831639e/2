@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdpN4WLCxcHdcyfveQf3RpG4yUi1tNY7H1YAtihN75cV1/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Day9 Nana's Art #26",
+  "description": "Apple pencilのペン先を舐めるので、よくペンが反応しない。\n\nI lick the nib of my Apple pencil so often that the pen does not respond.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPR57x3wPhbjBH1SHCc73ZAwg3VsyjF2nk3dWATnNPt9C/nft.png",
+  "nftContractAddress": "0x8508671d133ddd325eee846ac4120bdf1a40aae5",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Majisupe 20th Anniversary🌈🌈",
+  "description": "コチラのNFTは2022年11月5日(土)に\n行われたマジスペ 20回記念として\n作成したNFTです。\nGiveaway おひとり様用です✨\n\n#マジスペメンバー\n#らすめ様\nhttps://twitter.com/rasume_luv\n\n#TURIKAWA大先生\nhttps://twitter.com/nezumi_tokaino\n\n#まっつん様\nhttps://twitter.com/mattsun_anime\n\n#とりちゃん様\nhttps://twitter.com/threehairsbirds\n\n#やぶちゃん様\nhttps://twitter.com/yabuch_\n\nThis NFT will be held on \nNovember 5, 2022\nAs the 20th anniversary of the magispe\nThis NFT was created!",
+  "attributes": [
+    {
+      "value": "Majisupe",
+      "trait_type": "Twitter space"
+    },
+    {
+      "value": "20th",
+      "trait_type": "Number of times"
+    },
+    {
+      "value": "Rasume🌙✨",
+      "trait_type": "Member1"
+    },
+    {
+      "value": "Turikawa🚃",
+      "trait_type": "Member2"
+    },
+    {
+      "value": "Tori🦢",
+      "trait_type": "Member3"
+    },
+    {
+      "value": "Mattsun🐻",
+      "trait_type": "Member4"
+    },
+    {
+      "value": "Yabu🐟",
+      "trait_type": "Member5"
+    },
+    {
+      "value": "Rainbow🌈",
+      "trait_type": "Version"
+    }
+  ],
+  "minted": "✅"
+}

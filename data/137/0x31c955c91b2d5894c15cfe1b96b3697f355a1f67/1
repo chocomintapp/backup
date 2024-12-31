@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTkwxqf2bcy2WPBwiZv7M3EgPca9P5bzWn4djWNH96ctP/nft.jpg",
+  "nftContractAddress": "0x31c955c91b2d5894c15cfe1b96b3697f355a1f67",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "DGB1",
+  "description": "Japanese Dragon",
+  "attributes": []
+}

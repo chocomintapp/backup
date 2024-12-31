@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSsKoura2v6woWbdBKQKGZX1X8LHRZ5h7E84cWnPB7Qqp/nft.png",
+  "tokenId": 29,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.\nIn particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.\n\nある日の夕暮れ、ねこが家路を急ぎます。\n尻尾を立ててご機嫌に\n\nおうちへ帰ろう。\n今日もよく遊んだなぁ。\n早くおうちに帰ってごはん食べようっと。\nみんな帰っているかなぁ。",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "家路 -Ieji-",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Matsue"
+    },
+    {
+      "trait_type": "Model",
+      "value": "SENBYO"
+    }
+  ]
+}

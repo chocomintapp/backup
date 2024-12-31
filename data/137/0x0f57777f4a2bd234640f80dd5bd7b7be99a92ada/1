@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP7rnnv6DoxNpQm9th2Dkqkvd8px82euox2ZpfChWU5Zv/nft.jpeg",
+  "nftContractAddress": "0x0f57777f4a2bd234640f80dd5bd7b7be99a92ada",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "SkiNinja",
+  "description": "Award to the most elevation skied by our Epic ski pass members.",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "15000",
+      "trait_type": "Elevation"
+    }
+  ]
+}

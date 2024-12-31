@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbkAjyN9fykexyxus1mKS6aH34gVNmqeKw7VZPFd54dQj/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "137",
+  "name": "THS #030",
+  "description": "【尽】",
+  "attributes": [
+    {
+      "value": "hawk",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "goldfish",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "shadow",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWwk8XjfQoDdxF2ao2Q8xG7snaT6ETJg4gkVxhuRzPyUj/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 117,
+  "chainId": "137",
+  "name": "#0112_Niton_CBBKYBK_W",
+  "description": "#0112_Niton_CBBKYBK_W",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Cobalt",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Olive",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ],
+  "minted": "✅"
+}

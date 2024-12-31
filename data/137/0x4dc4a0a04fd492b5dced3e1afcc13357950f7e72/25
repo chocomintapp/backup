@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPWoxXBAhgitevrgCoX5zkrsyZiaaWyGo8cR4abkXo1Ji/nft.png",
+  "nftContractAddress": "0x4dc4a0a04fd492b5dced3e1afcc13357950f7e72",
+  "animationUrl": "https://ipfs.io/ipfs/QmZtyL1yY11rUyah9dwGBpK139Pp7zyDhMmvMufPrBP9jW/nft.glb",
+  "tokenId": 25,
+  "chainId": "137",
+  "name": "MSBoy3D typeA [MetaTokyo Limited Edition]",
+  "description": "MoonshotBoy3D typeA [MetaTokyo Limited Edition]",
+  "attributes": [],
+  "minted": "✅"
+}

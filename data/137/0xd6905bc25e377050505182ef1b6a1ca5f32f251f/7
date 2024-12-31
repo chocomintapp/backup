@@ -1,0 +1,16 @@
+{
+  "image": "https://bafybeiavz6eqkrmpxkbozzvjolvmootx6gjblhuasak3qvb3zsnq6rgkki.ipfs.nftstorage.link/8.png",
+  "nftContractAddress": "0xd6905bc25e377050505182ef1b6a1ca5f32f251f",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "Today was a resting day",
+  "description": "Today was a resting day.  I gave Yuki and hoverfly a vacation.  Me and my partner stayed at the park all day long.  We ate lunch, had a trash talk, deep talk, and shared our heart.  For a long time in my whole life, I finally thought that I am enjoying my life.  Although I know it is just a temporary feeling.  But that’s okay. I am happy right now, and living in the present is beautiful.  Today was a nice day.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Style"
+    }
+  ]
+}

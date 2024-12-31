@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdCWbsswDAZkVkbunWVUwTvK4zG7o499nkTPzMYCsh2xu/nft.png",
+  "tokenId": 141,
+  "description": "Contemporary art style Festival mejed",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/QmdCWbsswDAZkVkbunWVUwTvK4zG7o499nkTPzMYCsh2xu/nft.png",
+  "chainId": "137",
+  "name": "medjed no.141/1000",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRrQbqzGKcbMfeiVcJpMpWba8ZKsWCm9mjAbFyWY57iuU/nft.jpg",
+  "tokenId": 3,
+  "description": "This is an original work I made, a delicious candy",
+  "nftContractAddress": "0xf484afcad7e1b9a92d5ef661dc55624031d71a80",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "candy"
+}

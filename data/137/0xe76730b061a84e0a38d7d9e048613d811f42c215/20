@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSNPy5mLudMf415c7Wws8NaZAz1MVKttsN4d5jAhgFmpG/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "THS #016",
+  "description": "【上】",
+  "attributes": [
+    {
+      "value": "hand",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

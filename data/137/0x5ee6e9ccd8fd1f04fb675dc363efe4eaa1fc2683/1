@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXgt8qaeA2JoUEKbEWQ7mGXjYUvBS7yMj2xC2AJGWGpTs/nft.jpg",
+  "nftContractAddress": "0x5ee6e9ccd8fd1f04fb675dc363efe4eaa1fc2683",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "あるふ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

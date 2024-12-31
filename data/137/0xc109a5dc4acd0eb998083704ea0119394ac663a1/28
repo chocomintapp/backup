@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaiKKbDjjvCYn13LWhbTDrdKiEcW51jXXRKNVRUVT7ZJ7/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "#28",
+  "description": "onigiri",
+  "attributes": [
+    {
+      "value": "Onigiri",
+      "trait_type": "RACE"
+    }
+  ]
+}

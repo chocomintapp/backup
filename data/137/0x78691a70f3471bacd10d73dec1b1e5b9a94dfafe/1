@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeyVFuBUU5Anhy6ZWERZLkQVG8uSTh6rxN1zAyyF8uruC/nft.jpeg",
+  "nftContractAddress": "0x78691a70f3471bacd10d73dec1b1e5b9a94dfafe",
+  "animationUrl": "https://ipfs.io/ipfs/QmTCb6n36EYfzhhHxAk14tV55Apkcnfq87nMPrvYad1GR6/nft.jpeg",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Pocota",
+  "description": "",
+  "attributes": [
+    {
+      "value": "0.01",
+      "trait_type": ""
+    }
+  ]
+}

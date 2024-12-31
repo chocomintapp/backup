@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZTLESUcK5TwDg3gozGfEtfQYakxpD9ti6fCJ2DCEdSJD/nft.png",
+  "tokenId": 3,
+  "description": "This icon was created from a comic.",
+  "nftContractAddress": "0x54c5e0b104adb8765a54d094a7d68c1d5701de4f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#1 - 3",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Cast",
+      "value": "Rina"
+    },
+    {
+      "trait_type": "ComicID",
+      "value": "1"
+    }
+  ]
+}

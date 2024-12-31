@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPdsHZNDbctB3aVUWm2GVNk526noufT1LjkfgpXVBjg1q/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmPdsHZNDbctB3aVUWm2GVNk526noufT1LjkfgpXVBjg1q/nft.gif",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #21",
+  "description": "ベビロン二次創作",
+  "attributes": [
+    {
+      "value": "Koala",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

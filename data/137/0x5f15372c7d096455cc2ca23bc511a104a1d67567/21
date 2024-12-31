@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXsjEF6oN3dYiY7jeUQkqy13p9dobbwafuh9bFkDJGDW9/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmXsjEF6oN3dYiY7jeUQkqy13p9dobbwafuh9bFkDJGDW9/nft.png",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "Rabbit girl #3S 『Pink opal』",
+  "description": "Rabbit girl #3S 『Pink opal』\n\nI love sweet and sour strawberry tarts.\nMy partner in the same soft tennis club as the moon.\nLeave the back to me!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "PinkOpal",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "School",
+      "trait_type": "Series"
+    }
+  ]
+}

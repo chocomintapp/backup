@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZpXbaWhywc7JeDCEBVg1zBpJWEpiZ9AEAR9HHeMncpnN/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 98,
+  "chainId": "137",
+  "name": "Day39 Nana's Art #116",
+  "description": "自分で顔に保湿クリームを塗ります。\n\nI can put moisturizing cream on my face myself.",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

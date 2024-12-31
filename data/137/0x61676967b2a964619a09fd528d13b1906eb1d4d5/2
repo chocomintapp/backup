@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcWXr3hP7QEmU53tZRT9dJtP3n1qzhqNYHdFYL3EErXzP/nft.png",
+  "tokenId": 2,
+  "description": "tst",
+  "nftContractAddress": "0x61676967b2a964619a09fd528d13b1906eb1d4d5",
+  "animationUrl": "https://ipfs.io/ipfs/QmU7kogRcB46baNUDKSYiZVQDF4XP3VVNvM6yZTuv1iCK8/nft.mp4",
+  "chainId": "137",
+  "name": "tst",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "ANIMAL",
+      "value": "CAT"
+    },
+    {
+      "trait_type": "KEY TYPE",
+      "value": "LOGO"
+    },
+    {
+      "trait_type": "LANGUAGE",
+      "value": "ENG"
+    },
+    {
+      "trait_type": "ACTION",
+      "value": "PUSH"
+    },
+    {
+      "trait_type": "ITEM",
+      "value": "FINGER"
+    },
+    {
+      "trait_type": "ACCE",
+      "value": "NONE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUhZ21RNC4A49L52YGZExV6TXsijqbydVMmS66YUXzX5m/nft.png",
+  "nftContractAddress": "0xd85df320a4fbce2f01770ccbfee3e2e8112d5513",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "YA00001",
+  "description": "<YOKAI ACADEMY Student ID /学生証>\n本アカデミーの生徒または生徒候補であることを証明するものです。\nまた、関連するNFTの保有数に合わせてカードの色が変わり、今後のさまざまな特典を受けることができます。\nThis is to certify that you are a student or prospective student of the Academy.\nThe card will also change color according to the number of associated NFTs held and will be eligible for various future benefits.",
+  "attributes": [
+    {
+      "value": "00001",
+      "trait_type": "Number"
+    },
+    {
+      "value": "20220929",
+      "trait_type": "Date"
+    }
+  ]
+}

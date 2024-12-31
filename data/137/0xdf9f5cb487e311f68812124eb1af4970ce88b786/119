@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSuUX6851u3hZ9fzdNAYc5totvsBC1V52rmjWaH1cU7sP/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 119,
+  "chainId": "137",
+  "name": "Ganmichan's gifs #1",
+  "description": "gm!",
+  "attributes": [
+    {
+      "value": "gifs",
+      "trait_type": "series"
+    },
+    {
+      "value": "gm",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXvyQAzE7kK63S7pTL1ZfLV8haNrgoaw62yVaCLe8rxef/nft.png",
+  "tokenId": 55,
+  "description": "Calligraphy Devil #55",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #55",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Marchosias"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Astaroth"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Hades"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYb5bXGrh2WAEycipMy5U93M8r7Wo3JtjX6Xvc3PSv4Zz/nft.png",
+  "tokenId": 2,
+  "description": "koko",
+  "nftContractAddress": "0x1d55d3ee2a073b912107f7d0f1585edfe5ed68c3",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "koko"
+}

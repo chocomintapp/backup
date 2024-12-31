@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmerugtH3Wdkd6piT4jmcPWRSzuAHF8uU3ouYbMkLHffL2/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 139,
+  "chainId": "137",
+  "name": "WMM #0139 JINTSU 1931",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**JINTSU 1931**  \nThis silhouette is light cruiser Jintsu in 1931.  \n\nIt is the second ship of the Kawauchi class, a 5500-ton class light cruiser.\n\nShe overcame an unfortunate prewar accident (the Mihogaseki Incident) and performed remarkably well after the war began.\n\nShe served as the flagship of the 2nd Destroyer Squadron, which gathered the best of the best, for a long time and participated in many famous naval battles.\n\nIn the Battle of Colombangala, her last battle, she illuminated the enemy fleet with her searchlight and provided strong support to her allies, but was hit by numerous shells.  \nEven after the ship was badly damaged and more than half of her hull was sunk, turret No. 1 on the bow was not silenced.\nThe battle continued for more than two hours.\n\nThe U.S. forces also praised the ship for its valiant fight.\n\nIt has a characteristic silhouette with a double-curved bow and the ejector of the \"Kinu\" relocated to the bow.\n\n**軽巡洋艦 神通 1931**  \n5500トン級軽巡「川内型」の2番艦です。\n\n戦前の不幸な事故（美保ヶ関事件）を乗り越え、開戦後には目覚ましい活躍をした艦です。  \n最精鋭が集まる「華の二水戦」の旗艦を長らく務め、名だたる海戦に参加しました。\n\n最後の戦いとなったコロンバンガラ島沖海戦では敵艦隊に探照灯を照射し、味方へ強力な援護をしつつも多数被弾。大破炎上し船体が半分以上沈んだ後も艦首の1番砲塔は沈黙せず。2時間以上も戦闘を継続しました。  \n米軍からも賞賛の声が上がったほどの敢闘艦です。\n\nダブルカーブドバウと「鬼怒」の射出機を艦首に移設した特徴あるシルエットです。\n\nこのNFTは1931年頃の神通のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Light cruiser",
+      "trait_type": "Ship"
+    }
+  ]
+}

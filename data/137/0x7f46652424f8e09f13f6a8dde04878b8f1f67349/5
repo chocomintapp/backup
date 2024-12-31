@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQBUADc3t788QjiGkVsnWqQxcY9Dx8MzHvtHmYQZUnPbS/nft.mp4",
+  "nftContractAddress": "0x7f46652424f8e09f13f6a8dde04878b8f1f67349",
+  "animationUrl": "https://ipfs.io/ipfs/QmQBUADc3t788QjiGkVsnWqQxcY9Dx8MzHvtHmYQZUnPbS/nft.mp4",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "NFT_Pass_silver",
+  "description": "",
+  "attributes": []
+}

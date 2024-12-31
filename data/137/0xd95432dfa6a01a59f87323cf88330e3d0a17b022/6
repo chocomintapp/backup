@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmStuG2rqih7EUJX9fLsp3gDoXU73uzBN11fXWJoecYVNd/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "大吉 Stocking #06",
+  "description": "大吉にストッキングを被せてみました。笑\n\nDaikichi put on stockings.hahaha\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "stocking",
+      "trait_type": "special item"
+    }
+  ]
+}

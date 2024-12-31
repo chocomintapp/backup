@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPiAj8kCTXqFhXbWGvi12sjAxEQgV5z8eBZZRk5KSDj8t/nft.jpg",
+  "tokenId": 8,
+  "description": "Creator [seno_iine](https://opensea.io/seno_iine?tab=created_collections)",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "大吉 #2",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "大吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "seno_iine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

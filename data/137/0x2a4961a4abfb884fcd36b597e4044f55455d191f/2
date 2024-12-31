@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW9NQindT5DkTiXe4QWyWyF3KSKc9CUAdk6j4f7xkM4A3/nft.png",
+  "nftContractAddress": "0x2a4961a4abfb884fcd36b597e4044f55455d191f",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "NoisyLongAnimals #2",
+  "description": "Secondary works of VeryLongAnimals",
+  "attributes": [
+    {
+      "value": "Dog",
+      "trait_type": "TYPE"
+    }
+  ]
+}

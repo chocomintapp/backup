@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSKDViWEbnEpmw6zh9pGk4K2Yvivw9VjArwLRNDebwAra/nft.jpg",
+  "nftContractAddress": "0xb205710c256dec263a0bdb48b5279412651b9a2c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "権三さん",
+  "description": "Gon-zo-san came out of the egg with great vigor. Without even changing his color. But apparently, Gonzo does not like eggs. \"I need to take a shower as soon as possible!\"",
+  "attributes": [
+    {
+      "value": "CAT",
+      "trait_type": "ANIMAL"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

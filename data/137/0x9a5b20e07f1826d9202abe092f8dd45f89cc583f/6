@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbGvEvbV6GVuA48tyRDQ7YockjXiRGQh8YSzrxh4bQtWy/nft.jpg",
+  "tokenId": 6,
+  "description": "By reading the QR code with your smartphone camera and holding it over this NFT, you can view the augmented reality (AR) model. \n\n3D+AR display on a smartphone browser\n\nThe QR code is a link to the IPFS 3D viewer.\nhttps://gateway.pinata.cloud/ipfs/QmP4doUC4c5tESJcfcmPRx1PPBQaDAFHmDWeVqHY2EnVtU/near_ar/\n\nThe artwork for this 3D model is inspired by the NEAR Protocol (NEAR) logo.\nFor more information about the NEAR Protocol, please visit https://near.org/",
+  "nftContractAddress": "0x9a5b20e07f1826d9202abe092f8dd45f89cc583f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "NEAR AR"
+}

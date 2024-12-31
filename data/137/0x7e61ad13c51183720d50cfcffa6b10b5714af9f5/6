@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeYwLYEzCASFivnM3A1NMj1UNkLmiVjQZyzsqE67kkizr/nft.png",
+  "nftContractAddress": "0x7e61ad13c51183720d50cfcffa6b10b5714af9f5",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "VeryLongEnglishAnimals #6",
+  "description": "This is a secondary production of \"VeryLongAnimals\".",
+  "attributes": [
+    {
+      "value": "Pig",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

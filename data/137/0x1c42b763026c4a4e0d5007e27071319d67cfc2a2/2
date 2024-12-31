@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWYgDaZ8UcVKPrLzAHZiMMLB3rqbpFqsf9G7CgFNFLv9g/nft.jpg",
+  "nftContractAddress": "0x1c42b763026c4a4e0d5007e27071319d67cfc2a2",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "milk tea's cute girls collection #34",
+  "description": "Preparing to have a good day",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTji3aqThV5fGmkm83U9ufkTp6KihKFbWct9dhBNSr8aF/nft.png",
+  "tokenId": 102,
+  "description": "Contemporary art style ghost medjed",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/QmTji3aqThV5fGmkm83U9ufkTp6KihKFbWct9dhBNSr8aF/nft.png",
+  "chainId": "137",
+  "name": "medjed no.102/1000",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

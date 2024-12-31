@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcp8baxCzScAULK1mkDryKxkbPJ4CCk4jdYwScB4Jyzgu/nft.jpg",
+  "nftContractAddress": "0x212790eab041c25f65ff3183f0ab9472ffcc3b72",
+  "animationUrl": "",
+  "tokenId": 56,
+  "chainId": "137",
+  "name": "PI #56",
+  "description": "The theme of this project is a relaxing space that sways between real and virtual.Pixel data digitally collaged based on a photograph was reflected on an irregularly swaying plane to create a polygonal image.Shooting the irregularities of virtual waves ensures the originality of each image.",
+  "attributes": [
+    {
+      "value": "Amusement Park",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Moon",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Airplane",
+      "trait_type": "Accessory"
+    }
+  ],
+  "minted": "✅"
+}

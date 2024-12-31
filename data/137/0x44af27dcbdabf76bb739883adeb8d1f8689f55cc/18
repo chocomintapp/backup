@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWtUf5BRwqnPDHTRZyvGFzbWPVzxP9G7Yr1wTZihtHXN3/nft.png",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/Qmdrq8YavbEPkpwnVLgP9Ux9CWmBque5RVCTgV6uiZwtAU/nft.glb",
+  "tokenId": 18,
+  "chainId": "137",
+  "name": "しりふき神",
+  "description": "3D object",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "3D"
+    }
+  ]
+}

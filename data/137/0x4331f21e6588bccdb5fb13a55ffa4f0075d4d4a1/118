@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma5eKcLmvYapgXsHjKnE2cjadCeQHzZjqwqWns5kRB8Cy/nft.png",
+  "tokenId": 118,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**OI 1941**  \nThis silhouette is light cruiser Oi in 1941.\n\nIt is the fourth ship of the 5500-ton class light cruiser \"Kuma class\".\n\nJust before the outbreak of war, she underwent a refit together with \"Kitakami\" and was reborn as a heavy torpedo ship with enormous firepower of 40 torpedoes with 10 quadruple torpedo tubes (equivalent to the firepower of 5 destroyers).\n\nOI\" is the shortest ship name in the world in Roman characters.\n\n\n**重雷装艦 大井 1941**  \n5500トン級軽巡「球磨型」の4番艦です。\n\n開戦直前に「北上」と共に改装を受け、4連装魚雷発射管10基40門（駆逐艦5隻分に匹敵）という膨大な火力を搭載した重雷装艦に生まれ変わりました。\n\n「OI」はローマ字表記で世界一短い艦名です。\n\nこのNFTは1941年頃の大井のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0118 OI 1941",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Light cruiser"
+    }
+  ]
+}

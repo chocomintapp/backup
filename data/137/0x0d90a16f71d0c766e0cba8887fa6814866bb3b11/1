@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSdcqCpisYNEd1rHnrfi931ork89KtdYigWttYcieMHZ4/nft.png",
+  "tokenId": 1,
+  "description": "仮想通貨のPAC Protocolをノリで擬人化した非公式キャラです。  \nVRM確認用  \nhttps://hub.vroid.com/characters/5030663270994158910/models/576070636963094189\n  \nこのモデルにはメディアキットのロゴが含まれております。\nその為、PAC Protocolの公式のブランドガイドラインに従った上でご利用ください。\nhttps://pacprotocol.com/pdf/pacprotocol-brand-guide.pdf",
+  "nftContractAddress": "0x0d90a16f71d0c766e0cba8887fa6814866bb3b11",
+  "animationUrl": "https://ipfs.io/ipfs/QmXhLZShZKm8JAfbwnqGHPBsGwBF5i7QvAmpQ7VsjzcJmk/nft.glb",
+  "chainId": "137",
+  "name": "PPChan",
+  "attributes": [],
+  "minted": "✅"
+}

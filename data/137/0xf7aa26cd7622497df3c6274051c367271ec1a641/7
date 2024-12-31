@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXZWHmdN8hsSECx8nqn6JeqkKq6wRhYpbFjFYfmzeTd6z/nft.png",
+  "nftContractAddress": "0xf7aa26cd7622497df3c6274051c367271ec1a641",
+  "animationUrl": "https://ipfs.io/ipfs/QmXZWHmdN8hsSECx8nqn6JeqkKq6wRhYpbFjFYfmzeTd6z/nft.png",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "feed",
+  "description": "feed",
+  "attributes": []
+}

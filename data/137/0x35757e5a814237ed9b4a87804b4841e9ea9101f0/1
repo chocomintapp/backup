@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVjUi3ievGyzma3Fvyf1oHmyVrkn67gV8W5jJ1g76t6fd/nft.png",
+  "tokenId": 1,
+  "description": "Genesisです",
+  "nftContractAddress": "0x35757e5a814237ed9b4a87804b4841e9ea9101f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "SelfiaGenesis_test",
+  "attributes": []
+}

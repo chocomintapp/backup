@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRdf6SYAqMVsKN2eKVsKv914q3er5Joym1Z3paUKczAYY/nft.png",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "#4 ネオの日常",
+  "description": "ネオは1人でこっそり、何をしているのでしょう？\n",
+  "attributes": [
+    {
+      "value": "Japanese",
+      "trait_type": "Language"
+    }
+  ],
+  "minted": "✅"
+}

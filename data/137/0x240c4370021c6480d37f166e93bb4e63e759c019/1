@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTRhdcaUzF8hKYc5SSnxaUEWCzwtcniM4VH9oroAmDC7X/nft.jpg",
+  "tokenId": 1,
+  "description": "Sea JP",
+  "nftContractAddress": "0x240c4370021c6480d37f166e93bb4e63e759c019",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Sea JP #3",
+  "attributes": [
+    {
+      "trait_type": "time",
+      "value": "sunset"
+    },
+    {
+      "trait_type": "weather",
+      "value": "fine"
+    }
+  ]
+}

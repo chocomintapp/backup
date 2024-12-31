@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVkVLS7ytY5UQKqk6yTGtjV4U7pyVsruJG2EHGX78fg3M/nft.jpeg",
+  "tokenId": 6,
+  "description": " My favorite item.\nChanged sole color.",
+  "nftContractAddress": "0xe9c4d57d69ad06ab266e41141db6b8c7779cd984",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Fav #002 RW_dot"
+}

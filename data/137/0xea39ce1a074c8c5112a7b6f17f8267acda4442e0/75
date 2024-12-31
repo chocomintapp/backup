@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQdsDBaUx668RPvJcB1UZco1Rqp5oXtycfd675UGTWLR7/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 75,
+  "chainId": "137",
+  "name": "TANU-KIDS #074",
+  "description": "西瓜に変身したTANU-KIDS\n\n暑い夏は西瓜で水分補給",
+  "attributes": [
+    {
+      "value": "Watermelon",
+      "trait_type": "Food"
+    }
+  ]
+}

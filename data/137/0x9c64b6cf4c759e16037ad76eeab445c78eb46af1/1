@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmafMXc3kGSdnpNPAZcA2QKb8mHUvaZnukPUCy1vJPs6Nz/nft.png",
+  "tokenId": 1,
+  "description": "Me163 Comete: Captain Wolfgang Späte's bright red aircraft.\nThe only rocket fighter in the world.\nIt was used by the German Luftwaffe during World War II.\nThis NFT is a rare ace pilot's aircraft, the only one in Season 1.\n\nMe163コメート：ヴォルフガングシュペーテ大尉の真っ赤な機体です。\n世界で唯一実戦配備されたロケット戦闘機で\n第二次大戦中のドイツ空軍で使用されました。\nシーズン1に1枚だけ存在するエース機NFTです。",
+  "nftContractAddress": "0x9c64b6cf4c759e16037ad76eeab445c78eb46af1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0001 Me163 Wolfgang Späte",
+  "attributes": []
+}

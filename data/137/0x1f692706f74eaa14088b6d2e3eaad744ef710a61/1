@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPHqAzVteAtEHvw2GjJx6zDBMuCuBdWkNPxkfwUQZ7RrQ/nft.png",
+  "nftContractAddress": "0x1f692706f74eaa14088b6d2e3eaad744ef710a61",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "schizo",
+  "description": "outsider artwork perchieving from schizophrenia",
+  "attributes": []
+}

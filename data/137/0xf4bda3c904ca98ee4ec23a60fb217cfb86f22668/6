@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSwmN4YXZrbacd7tVXeRM7RXLqdCJUyrx1mFB36KNUUta/nft.gif",
+  "nftContractAddress": "0xf4bda3c904ca98ee4ec23a60fb217cfb86f22668",
+  "animationUrl": "https://ipfs.io/ipfs/QmNX3rCiSxBPr5P4WEnmgxY1zK4Mi6pbXQCMSaFrap86cE/nft.glb",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "PolyVision #6",
+  "description": "PolygonLow assistant robot.",
+  "attributes": [
+    {
+      "value": "Studio",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Tetris Gray",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "Feet"
+    }
+  ]
+}

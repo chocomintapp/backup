@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme5PCmmvmzYPJqmLPGc4NjrcznMRThVqTizn9eT1YMf97/nft.jpg",
+  "tokenId": 1,
+  "description": "これはテストです。",
+  "nftContractAddress": "0x8fa592bc98770ac7c5acce5a97ade4b399b13bbe",
+  "animationUrl": "https://ipfs.io/ipfs/QmQhw91MKSBk91fauHx8eqdgxDE4YL7SMMqENWi1Kqu7Fg/nft.mp3",
+  "chainId": "137",
+  "name": "Castle Test",
+  "minted": "✅"
+}

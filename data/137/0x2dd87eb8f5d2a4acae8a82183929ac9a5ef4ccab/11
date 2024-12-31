@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmamdGgqqDS7eHQ6GY81fq62Lr6MKm4hYhm5CDhpaVVJjL/nft.png",
+  "tokenId": 11,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n4月13日\n\n今日は午後から重要な会議があるため、朝の早いうちから臨戦体制の部長です。自分の好きな音楽をお気に入りのヘッドホンで聞きながら、書類作成に励んでいます。そもそも会社では、会議や打ち合わせ嫌いで知られる部長。無駄な会議や打ち合わせに参加させることは、世界で一番の罪だと思っているのです。プレイリストに入っている「藤井ファブリック」「the 枕s」「酸男」「真心兄弟」「竹原ピスタチオ」などを延々と流しながら、会議に臨む部長なのでした。\n\nApril 13\n\nHe has an important meeting this afternoon, so he's been on the warpath since early in the morning. I'm listening to my favorite music with my favorite headphones while I work on my paperwork. In the company, he is known for his aversion to meetings and conferences. He thinks it's the biggest sin in the world to make people attend unnecessary meetings and conferences. He would go to meetings with a playlist that included \"Fujii Fabric,\" \"the MAKURA,\" \"SUPPAI Man,\" \"MAGOKORO KYO-DAI,\" and \"Takehara Pistachio\" playing endlessly.",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #102 Apr.13",
+  "attributes": [
+    {
+      "trait_type": "CLASSIC GRASSES",
+      "value": "Special"
+    },
+    {
+      "trait_type": "ENVIRONMENT",
+      "value": "War Preparation"
+    },
+    {
+      "trait_type": "HEADPHONE",
+      "value": "SoundBeatBox"
+    },
+    {
+      "trait_type": "HOODIE",
+      "value": "Splash Camouflage"
+    },
+    {
+      "trait_type": "KNIT CAP",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "MASK",
+      "value": "Green"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Black"
+    }
+  ]
+}

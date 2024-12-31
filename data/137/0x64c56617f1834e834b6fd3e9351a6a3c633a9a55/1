@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTm3b7XbKVbCKaGw6LH5rmVxj4Wyo8wcpE8CCxb8181uE/nft.jpeg",
+  "tokenId": 1,
+  "description": "Fantastic image.",
+  "nftContractAddress": "0x64c56617f1834e834b6fd3e9351a6a3c633a9a55",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Neon 1"
+}

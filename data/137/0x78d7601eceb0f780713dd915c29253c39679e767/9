@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRMyhYdoWQhBVDDCwg9pAdxqhvWPMMz1tV8gaUbHyKEoH/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "https://ipfs.io/ipfs/QmRMyhYdoWQhBVDDCwg9pAdxqhvWPMMz1tV8gaUbHyKEoH/nft.png",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "#9 Navy Dress",
+  "description": "A gorgeous dress made with gratitude.",
+  "attributes": [
+    {
+      "value": "Dress",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Clothes",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

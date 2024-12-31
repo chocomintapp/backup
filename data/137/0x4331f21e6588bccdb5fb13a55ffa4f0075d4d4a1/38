@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRvsYnrMKK4FwQZCGySpedGukHGoM4HnByuhr7aCVMNgx/nft.png",
+  "tokenId": 38,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SAIUN**  \nIt was the fastest carrier reconnaissance aircraft among the Japanese military aircraft deployed in the war.\n\nIn a post-war test conducted by the U.S. military, it achieved a speed of 694.5 km/h, surprising all concerned.  \nIt was used not only for patrol missions, but also for difficult missions such as forced reconnaissance and confirmation of battle results by taking advantage of its speed.\n\nThe telegram, \"No Grumman can catch up with me,\" when it overcame the pursuit of an F6F is famous.\n\n**艦上偵察機 彩雲**  \n実戦配備された日本軍航空機の中で最速を誇った艦上偵察機です。  \n戦後アメリカ軍のテストで694.5km/hを叩き出し関係者を驚かせました。\n\n哨戒任務はもちろん、速力を生かして強行偵察や戦果確認など難度の高い任務にも使用されました。  \nF6Fの追撃を振り切った際の「我ニ追イツクグラマン無シ」の電文は有名です。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0038 SAIUN",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Reconnaissance"
+    }
+  ]
+}

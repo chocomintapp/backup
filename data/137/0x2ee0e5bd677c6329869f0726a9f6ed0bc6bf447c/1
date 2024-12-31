@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbzRmiKoiBBJBbHEnSWhyz5ETK3mGMb7eJkCXrdaWqVVu/nft.png",
+  "tokenId": 1,
+  "description": "Kawaii Contract first item.Kawaiiが独自のコントラクトで初めてmintした作品です。",
+  "nftContractAddress": "0x2ee0e5bd677c6329869f0726a9f6ed0bc6bf447c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#First",
+  "attributes": [],
+  "minted": ""
+}

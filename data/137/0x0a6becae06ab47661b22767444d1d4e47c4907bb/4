@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQBdBKXHdN1CD3XvLUNEam97aRXeeCN2NiDSny1REH8ox/nft.png",
+  "tokenId": 4,
+  "description": "This is a collaboration NFT for the opening of LFG, the largest crypto community in Japan.",
+  "nftContractAddress": "0x0a6becae06ab47661b22767444d1d4e47c4907bb",
+  "animationUrl": "https://ipfs.io/ipfs/QmQBdBKXHdN1CD3XvLUNEam97aRXeeCN2NiDSny1REH8ox/nft.png",
+  "chainId": "137",
+  "name": "LFG Opening Celebration",
+  "attributes": []
+}

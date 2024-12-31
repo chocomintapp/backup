@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYens69mWY8U81DsMJL44v5R7v5RQSWmPMUfoNJDCboo5/nft.gif",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmYens69mWY8U81DsMJL44v5R7v5RQSWmPMUfoNJDCboo5/nft.gif",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "Rabbit girl #5 『Sakura』",
+  "description": "Rabbit girl #5『Sakura』桜\n\nRabbit Girls will bring happiness to you. Did something bad happen? Or did you have something happy about? It's okay, I'll always be by your side. Please laugh. Your smile is a treasure. Let's move on together!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Sakura",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "GIF",
+      "trait_type": "Type"
+    }
+  ]
+}

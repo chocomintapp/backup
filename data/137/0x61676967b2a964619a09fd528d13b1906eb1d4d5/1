@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXz3v7swC1sWn5oqn7TfFUPPP5euVod94rEKPhXf86HhV/nft.png",
+  "tokenId": 1,
+  "description": "- test\n- test\ntest",
+  "nftContractAddress": "0x61676967b2a964619a09fd528d13b1906eb1d4d5",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test1_2",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "common",
+      "value": "90%"
+    }
+  ]
+}

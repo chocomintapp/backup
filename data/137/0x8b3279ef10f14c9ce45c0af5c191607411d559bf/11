@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaEJi1CgkUQU9pdjThLn3YbLdUwbtWGyQWR3ML4GKyJwU/nft.jpg",
+  "tokenId": 11,
+  "description": "Cute chick",
+  "nftContractAddress": "0x8b3279ef10f14c9ce45c0af5c191607411d559bf",
+  "animationUrl": "https://ipfs.io/ipfs/QmaEJi1CgkUQU9pdjThLn3YbLdUwbtWGyQWR3ML4GKyJwU/nft.jpg",
+  "chainId": "137",
+  "name": "Cute chick",
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS1U2cBQ2uqba9eQfp5iahaHX974cBUkC6qgAmhUykkS2/nft.mov",
+  "nftContractAddress": "0x4fb9d82646d8e1fde3e18e0aed5af27a404b5e18",
+  "animationUrl": "https://ipfs.io/ipfs/QmS1U2cBQ2uqba9eQfp5iahaHX974cBUkC6qgAmhUykkS2/nft.mov",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "Fashion Contest Prize GensokishiCFes1st",
+  "description": "Fashion Contest Prize for player-sponsered events GensokishiCFes1st .",
+  "attributes": []
+}

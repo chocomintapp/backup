@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYe3xxemHqY1JYRuqDhk52hv27nmZaxpUHQUzCqEnCLQ5/nft.png",
+  "nftContractAddress": "0x3adbd53ce43b64db4921600b95c618a638e07f16",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "KIZUNAMaid",
+  "description": "FanArt  \nKIZUNA(@kizunamoe) x CryptoMaids(@CryptoMaids)  \n  \n＃KIZUNA_Maid",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "KIZUNA",
+      "trait_type": "FANART"
+    },
+    {
+      "value": "CryptoMaids",
+      "trait_type": "FANART"
+    }
+  ]
+}

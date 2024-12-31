@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbjesdQoNuPf757oBFKH2Rt58d8ZEtkV5mVEuKk4498Hy/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmbjesdQoNuPf757oBFKH2Rt58d8ZEtkV5mVEuKk4498Hy/nft.png",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "Rabbit girl #8S 『ClyingGirl』",
+  "description": "Rabbit girl #8S 『ClyingGirl』\n\nShe is a childhood friend with MoonStone. She is a kind girl who cries quickly, whether she is happy or sad. She is always with Mint at school.\n\nHer hobbies are FPS, and her favorite things are AWM and 8x scope. And a suppressor.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "ClyingGirl",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "School",
+      "trait_type": "Series"
+    }
+  ]
+}

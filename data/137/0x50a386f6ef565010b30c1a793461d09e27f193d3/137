@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRh5JqfrpcbEghsT95zegaLNgczh4WMG1UTTZFkpHcegb/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 137,
+  "chainId": "137",
+  "name": "hakorobo #137",
+  "description": "hakorobo #137 Artists Edition HKAE-23 Pattern Cats\n\noriginal work:\nhttps://opensea.io/collection/patterncats\n\nby:\nhttps://www.instagram.com/turbo1019/",
+  "attributes": [
+    {
+      "value": "HKAE",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Shoes"
+    }
+  ]
+}

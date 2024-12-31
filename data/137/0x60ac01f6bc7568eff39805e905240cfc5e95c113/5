@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNSngBPbyax9FNp89sEQgzaSdQYpwncMrcZFmTck7w4pR/nft.png",
+  "nftContractAddress": "0x60ac01f6bc7568eff39805e905240cfc5e95c113",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "三峯みつー妖刀を探して",
+  "description": "\nみつは、雷切を手に入れるため、その真実を探る旅に出る。彼女は伝説の山岳地帯を探索し、古い書物や古代の文献を調査しながら、雷切の謎を解き明かそうとする。\n\n彼女の向かう先には一体何が待ち受けるのか・・・。",
+  "attributes": [
+    {
+      "value": "Knight",
+      "trait_type": "Attribute"
+    },
+    {
+      "value": "23",
+      "trait_type": "Attack"
+    },
+    {
+      "value": "18",
+      "trait_type": "Defence"
+    },
+    {
+      "value": "Wave",
+      "trait_type": "Element"
+    }
+  ],
+  "minted": ""
+}

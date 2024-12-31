@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT5yMvaWpDeJWBTkRP9AiQMTtG8xnGErbJLyfjwC6GH6q/nft.png",
+  "tokenId": 107,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**M4 SHERMAN**  \nIt was the main tank of the U.S. Army in World War II.\n\nIn order to increase production efficiency, the M4 medium tank series adopted a parallel production system with many manufacturers, so the development of each model took place almost simultaneously.\n\nSince this tank does not have \"A1\" or \"A2\" in its model name, it is often thought to be the first model, but it was the fifth in the series to be completed.\n\nThe features of this model include welded armor on the front of the body, and the engine is an air-cooled star-shaped 9-cylinder for aircraft.\n\n**M4シャーマン中戦車**  \n第二次大戦におけるアメリカ軍の主力戦車です。\n\nM4中戦車シリーズは生産効率を高めるために、多数のメーカーによる並行生産方式が採用されたため、ほぼ同時に各型の開発が行われました。\n\n本車輌は型式に「A1」や「A2」などが付かないため、最初のモデルに思われがちですが、シリーズの中では5番目に完成しました。\n\n特徴としては車体前面の装甲が溶接構造で、エンジンは航空機用の空冷星形9気筒となっています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0107 M4 SHERMAN",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUVhivLKibH4AinfeP9bGDwvs4bGMMTrCbptCC9oJP4nS/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 72,
+  "chainId": "137",
+  "name": "VeryLongAnimals #72",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Globefish",
+      "trait_type": "TYPE"
+    }
+  ]
+}

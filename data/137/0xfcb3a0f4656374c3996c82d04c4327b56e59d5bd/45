@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbJL8g2BJsppdxydm9dtKgLhrLjutx1QPofrRf19Mmsii/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 45,
+  "chainId": "137",
+  "name": "#42.5_Medium Carmine_Bst",
+  "description": "#42.5_Medium Carmine_Bst\nネットの海をさまよい風化しながらも、何とかたどり着き、自力で進化した珍しいクロマトピアン",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Medium Carmine",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Medium Carmine",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Medium Carmine",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "Lost",
+      "trait_type": "Feature"
+    },
+    {
+      "value": "Rust",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Line light",
+      "trait_type": "Boost"
+    }
+  ],
+  "minted": "✅"
+}

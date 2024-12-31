@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX676JbDCcEpd6NkUbGNhUA3vyDEuC9BY1PBdGUbkSHWe/nft.png",
+  "tokenId": 23,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**MIKASA 1894**  \nThis silhouette is MIKASA in 1894.\n\nMikasa was a battleship that served as the flagship of the Japanese Allied Fleet in the Russo-Japanese War.   \nIt was commanded by General Heihachiro Togo and defeated the Russian Pacific Fleet in the Battle of the Yellow Sea.  \nIt also fought hard against Russia's Baltic Fleet, which was said to be the strongest in the world at the time.  \nIt is a famous battleship that led the Japanese Navy to victory.\n\n**戦艦 三笠 1894**  \n日露戦争で連合艦隊旗艦を務めた戦艦です。  \n東郷平八郎大将指揮の下、ロシア太平洋艦隊を黄海海戦で叩き、当時世界最強と謳われていたロシアのバルチック艦隊を相手に奮闘、連合艦隊を圧倒的勝利へと導いた殊勲艦です。\n\n第二次大戦後に武装解除で一部解体されましたが、その後復元され、現在もその勇姿を横須賀で見る事が出来ます。\n\nこのNFTは1894年の黄海海戦時の三笠のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0023 MIKASA 1894",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Battleship"
+    }
+  ],
+  "minted": "✅"
+}

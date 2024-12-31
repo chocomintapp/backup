@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRRwhrNXx4XpxZxNuRwwGnK6y23f4o1NQkC9oVuBe9RvR/nft.png",
+  "tokenId": 2,
+  "description": "#AnimeLoot 3733&3370 HEIBON&ANITA    Charactor Collection   #3733 ser.NO2/10 HEIBON",
+  "nftContractAddress": "0x96eecc41f781669c5746f04f7543d4dad85b0c55",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "AnimeLoot#3733 ser.NO2/10 HEIBON",
+  "attributes": [
+    {
+      "trait_type": "種族",
+      "value": "Human"
+    },
+    {
+      "trait_type": "性別",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "出身",
+      "value": "High Class"
+    },
+    {
+      "trait_type": "性格",
+      "value": "Frivolous"
+    }
+  ]
+}

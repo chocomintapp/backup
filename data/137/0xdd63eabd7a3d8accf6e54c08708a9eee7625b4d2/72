@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdFKqFa8pnBXPdVkzxabfoE6k73HGMqS78Xz9YNDLr3Nm/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 72,
+  "chainId": "137",
+  "name": "LIVING MINERAL #72",
+  "description": "",
+  "attributes": [
+    {
+      "value": "deer",
+      "trait_type": "gene"
+    },
+    {
+      "value": "common",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "stone",
+      "trait_type": "material"
+    }
+  ]
+}

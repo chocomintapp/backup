@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYza1koFfxQSnmGdPdp3RWkifShtQyy4UMgBw5D85XsGg/nft.png",
+  "tokenId": 28,
+  "description": "3D object",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/QmTeP4HP22eXzPa1eVMyvpPHefTbzAnn1PonP3k1gmcixo/nft.gltf",
+  "chainId": "137",
+  "name": "HansØster",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "0.1"
+    }
+  ]
+}

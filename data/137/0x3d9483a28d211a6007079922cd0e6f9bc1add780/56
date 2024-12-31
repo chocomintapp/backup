@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYBaXEU9GEqp7kecH6Tkg88vmAqMoXwkkK7nW6wceyKmT/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 56,
+  "chainId": "137",
+  "name": "Neon #56",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "yellow hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "yellow sweater",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "dark-blue gloves",
+      "trait_type": "hand"
+    },
+    {
+      "value": "yellow mask",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "yellow",
+      "trait_type": "skin"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdgaN6jT4mqPudprfG5xYoLNyzMGFNxsq6cmVXWpYL9uF/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "Neon #12",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "blue hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "red fighter",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "katana",
+      "trait_type": "hand"
+    },
+    {
+      "value": "late",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "yellow",
+      "trait_type": "skin"
+    }
+  ]
+}

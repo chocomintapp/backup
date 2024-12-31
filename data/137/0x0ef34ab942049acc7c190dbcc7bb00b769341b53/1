@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQhzodku1g71qewZkL8hnK2i8fyDujD7o6VkC7Xtfe4Hp/nft.jpg",
+  "tokenId": 1,
+  "description": "TAKAMA",
+  "nftContractAddress": "0x0ef34ab942049acc7c190dbcc7bb00b769341b53",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "TestNFT",
+  "attributes": []
+}

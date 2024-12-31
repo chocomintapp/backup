@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQjCprmM3wXQz8fv3wdTH4HpmvcQB8BnvXjdQeg3JRbNe/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 332,
+  "chainId": "137",
+  "name": "#332",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Inside the cyber building",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#FF3BCD",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Piyopiyo Chicks",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Atsuge",
+      "trait_type": "Face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "Hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Legs"
+    }
+  ]
+}

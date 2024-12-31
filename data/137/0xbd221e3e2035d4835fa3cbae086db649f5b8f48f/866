@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS7KrNA58ejpCQey7TobtmKhbXTyoFjX62aK8zSna2fNY/nft.PNG",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "",
+  "tokenId": 866,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #965",
+  "description": "2022/07/24 21:55\n\n昨夜はDCLで江戸レナちゃんのDJイベントに参加してきた。\n\nみんなでテキーラ乾杯こそはできないが久しぶりにクラブを感じることができ貴重な夜になった。\n\nハイスペックPCとメタマスクを持ってないと現状、参加することができない為かなり参加ハードルは高いが、いつの日かスマホだけで気軽に参加できるようになるといいなぁぁ",
+  "attributes": [
+    {
+      "value": "シュプリーム × ナイキ SB ズーム ブレーザー ミッド ブラック",
+      "trait_type": "M"
+    }
+  ]
+}

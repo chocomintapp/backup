@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma3e2S7GCmknZ8iHGCUvEvwexKZysXxBdp2vqVtSpC4Wu/nft.png",
+  "tokenId": 1,
+  "description": "The Five Elements of Magatamas (FEM) visualizes the universe by magatamas. The universe consists of the five elements of wood, fire, earth, metal, and water.\n\nThis FEM's name is \"Oringin\". \n FEM#000e0FC#0FCeF00#F00eFFF#FFFe000+cFF0+e76\n 【NOT FOR SALE】\n\nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x6392f80f5a556a22ffbbd49692e3a010d9af4773",
+  "animationUrl": "https://ipfs.io/ipfs/QmccoQmwRjNt7frF815Xx6HDM5nepttqDEkdYvoK1wfeWw/nft.png",
+  "chainId": "137",
+  "name": "FEM \"Oringin\"",
+  "attributes": [
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "NOT FOR SALE"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "FEM"
+    },
+    {
+      "trait_type": "Crypyan",
+      "value": "4"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Origin"
+    }
+  ],
+  "minted": "✅"
+}

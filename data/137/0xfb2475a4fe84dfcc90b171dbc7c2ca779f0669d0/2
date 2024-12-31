@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbrCpHEKErsE8PNfNozdYY9drTYVPbjtuAejA7Z9126vc/nft.png",
+  "tokenId": 2,
+  "description": "t2",
+  "nftContractAddress": "0xfb2475a4fe84dfcc90b171dbc7c2ca779f0669d0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "t2",
+  "attributes": []
+}

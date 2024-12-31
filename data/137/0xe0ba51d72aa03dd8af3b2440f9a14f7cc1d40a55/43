@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPY121azDcWdWw4ne3KhspgkMzoMdLcS99zvH6LkEFKcX/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "137",
+  "name": "よく職務質問をされるえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "イクジナシ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "カラアゲ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "フキノトウ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "ブランド巡り",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "セイシンセイイ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

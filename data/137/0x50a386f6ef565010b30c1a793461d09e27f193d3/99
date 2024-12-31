@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTTgeEHr6Zv4XHz96JXt1bre33qRc1orkwU8tY7eLWQiY/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 99,
+  "chainId": "137",
+  "name": "hakorobo #99",
+  "description": "hakorobo #99 Artists Edition HKAE-09 Mama Ocon\n\noriginal work:\nhttps://hicetnunc.art/objkt/489348\n\nby:\nhttps://twitter.com/mamaocon_",
+  "attributes": [
+    {
+      "value": "HKAE",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Shoes"
+    }
+  ]
+}

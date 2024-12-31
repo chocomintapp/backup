@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeS1WgmQQUScu6wwz1ydBEvcQB4jwAGmeoPcJziPwb1dV/nft.jpg",
+  "tokenId": 2,
+  "description": "the complexity of the red version",
+  "nftContractAddress": "0x09a9ccf170416bd8fed30df060d9326a76f1e690",
+  "animationUrl": "https://ipfs.io/ipfs/QmZUVnYKbfm74NVwkAJFo2tEyeJCTEeoJmvA99LscwYhVC/nft.mov",
+  "chainId": "137",
+  "name": "Red",
+  "minted": "✅"
+}

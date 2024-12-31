@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcqvd1qvYuK96nZCdzBtmvqziV2CLVXepEziGsLTiMYEN/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "137",
+  "name": "THS #020",
+  "description": "【豹】",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "leopard",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "born",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "internal organ",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

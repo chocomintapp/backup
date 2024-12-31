@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVGxP8G6MxhC9ZRLcFp8uC6p1pqWsiD97cwWHZ7DdZaMQ/nft.JPEG",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 49,
+  "chainId": "137",
+  "name": "VerySilentFruits#49 Persimmon",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Persimmon",
+      "trait_type": "Fruit"
+    }
+  ]
+}

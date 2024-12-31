@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfXiy5H8nxzqm6y6iy2H1tzuixbAoUXmiTBQVE3iLVqG8/nft.png",
+  "tokenId": 8,
+  "description": "",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmYPUzcLbmf8mdEiMwwvUVo2VELtQJtufwyUSDqHFcM7it/nft.glb",
+  "chainId": "137",
+  "name": "Chickbit #8",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "uncommon"
+    }
+  ]
+}

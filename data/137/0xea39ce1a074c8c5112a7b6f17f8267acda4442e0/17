@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR7Eyfta6GU8Dxb2CjGdvaUrX11ZMhoNcxkkyh744hyjJ/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "TANU-KIDS #016",
+  "description": "武将に変身したTANU-KIDS\n\n戦いは苦手ですが派手な兜が大好きです",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Warlord",
+      "trait_type": "History"
+    }
+  ]
+}

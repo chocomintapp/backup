@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcxGVc8LovS2tqRoaD1kiE62mSdNRT8146JmD3vDDF7oW/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "https://ipfs.io/ipfs/QmcxGVc8LovS2tqRoaD1kiE62mSdNRT8146JmD3vDDF7oW/nft.png",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "#17 Black Twin tails",
+  "description": "A cute short twin tail.",
+  "attributes": [
+    {
+      "value": "Hair",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Short Twin tails",
+      "trait_type": "Hair"
+    }
+  ],
+  "minted": "✅"
+}

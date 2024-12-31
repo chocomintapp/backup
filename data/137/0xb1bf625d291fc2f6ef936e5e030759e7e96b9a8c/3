@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaNhr7gr1ErzYNpQhm7Kqfsr7aBM6Q8uZpb2sZh4gQyP7/nft.jpeg",
+  "tokenId": 3,
+  "description": "Human + Animal = Hunimal",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "HUNIMAL #3",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Hunimal"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Blueish green"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Boston Terrier + Human"
+    },
+    {
+      "trait_type": "FASHION",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "Slick back"
+    },
+    {
+      "trait_type": "STYLE",
+      "value": "Biker"
+    }
+  ],
+  "minted": "✅"
+}

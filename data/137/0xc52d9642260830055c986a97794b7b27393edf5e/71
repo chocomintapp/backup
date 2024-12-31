@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma3WFXFS6apVYU3qVtRjy2DZJpWmMKwvvYUFmfb6MEprd/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 71,
+  "chainId": "137",
+  "name": "VeryLongAnimals #71",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Goat",
+      "trait_type": "TYPE"
+    }
+  ]
+}

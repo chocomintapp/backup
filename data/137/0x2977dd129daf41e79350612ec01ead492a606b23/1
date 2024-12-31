@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXkp6PfaNs1BU4wDfB7x9xQxJHzheWa3ApYy3Hj58iWxf/nft.jpg",
+  "nftContractAddress": "0x2977dd129daf41e79350612ec01ead492a606b23",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Flowverse Logo",
+  "description": "Flowverse Logo",
+  "attributes": []
+}

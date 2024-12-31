@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSsZqavmCkD2NmXXk6K4aTjg39Y7tmhhfJrVYou2FeNsT/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "大吉 Chart Predictor #19",
+  "description": "これでチャートが予想できます。笑\n\nNow you can predict the chart.hahaha\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "attributes": [
+    {
+      "value": "Chart predictor",
+      "trait_type": "special item"
+    }
+  ]
+}

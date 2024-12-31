@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbtFNy5S8yNWmYToZke6xwQRi5Vx4143eEREWcuKWLzXX/nft.jpg",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "137",
+  "name": "#0039_Blaze Orange",
+  "description": "#0039_Tanshiki_RrY_Blaze Orange",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Blaze Orange",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Blaze Orange",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Blaze Orange",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

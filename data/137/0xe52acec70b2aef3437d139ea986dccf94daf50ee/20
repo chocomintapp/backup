@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmezbBXqt84AkmvNMktoN1mecA3dXfHxkP6thMENTL7EWy/nft.png",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimal #27",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Platypus",
+      "trait_type": "TYPE"
+    }
+  ]
+}

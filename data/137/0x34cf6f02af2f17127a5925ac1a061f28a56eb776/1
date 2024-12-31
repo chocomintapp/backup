@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma7SbTn6rZtV8uy1hzk9ewGUu735smJb1Mc6YYxFgLQ4X/nft.jpg",
+  "tokenId": 1,
+  "description": "こんにちはNFT",
+  "nftContractAddress": "0x34cf6f02af2f17127a5925ac1a061f28a56eb776",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "HelloNFT"
+}

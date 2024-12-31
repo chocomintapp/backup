@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdvUQgeXBjGT7Xx5Wyb4ghTTHhcjybfFZH71RSAo2Scru/nft.png",
+  "tokenId": 36,
+  "description": "Limited 1/1\n\nA little sad Monstarz.\nThis Monstarz is minted by their original contract (MSZ).",
+  "nftContractAddress": "0x966b004e16302e7e0cc7d2906eed2c4eff01d670",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#0036 Flash",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "UnCommon"
+    }
+  ]
+}

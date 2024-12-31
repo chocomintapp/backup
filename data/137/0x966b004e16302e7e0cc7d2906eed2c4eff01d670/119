@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQxsJw5LoqPQN4DmLh98XTJoRVj4zrih3KwZUe5PLepQZ/nft.png",
+  "nftContractAddress": "0x966b004e16302e7e0cc7d2906eed2c4eff01d670",
+  "animationUrl": "",
+  "tokenId": 119,
+  "chainId": "137",
+  "name": "#0119 Sabrosa",
+  "description": "Limited 1/1\n\nA little sad Monstarz. This Monstarz is minted by their original contract (MSZ).",
+  "attributes": [
+    {
+      "value": "UnCommon",
+      "trait_type": "Rarity"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXep4yXZDGfdKTtaHVxnmaZdSYeNCRb5WUf6wmhBbfLHa/nft.png",
+  "tokenId": 1,
+  "description": "brand new nft",
+  "nftContractAddress": "0x6633e1adedb2f5bf12dd49898b2b7592f21b997a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test NFT",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "1/5"
+    }
+  ]
+}

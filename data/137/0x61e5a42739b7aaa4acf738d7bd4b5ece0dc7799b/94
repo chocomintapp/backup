@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbijDwTFBVmj35bGvGCGYW4aXwWj3SdVQnnHGxi7EwZE2/nft.gif",
+  "tokenId": 94,
+  "description": "Creator [GOZEN](https://opensea.io/GOZEN?tab=created_collections)\n\nぼくはNIWA EELSの2022おみくじでちん  \nきっと今年もいい年になりまちんよ  \n\nhttps://oncyber.io/niwaeels  \nhttps://opensea.io/collection/niwa-eels  ",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "中吉 #5",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "中吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "GOZEN"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Unopened"
+    }
+  ]
+}

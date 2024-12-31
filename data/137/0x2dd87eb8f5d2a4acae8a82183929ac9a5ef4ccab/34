@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYmALvoxUfwqeinisgB3rAByeD8wbsiuxtRG4wAa6C4Dv/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #059 Mar.1",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n3月1日\n\n日曜日。久しぶりに家族みんなで、外で朝食を食べることになりました。やってきたのは、駅前に新しくできた「もちこみカフェ」という、コーヒー、パン、ケーキと…何でも持ち込みがOKの異色のカフェ＆レストランです。部長は、隣のお店で買った「ストロベリーチョコレート」のドーナツを食べようと、嬉しそうに戻ってきたのですが…このお店で唯一持ち込みが禁止されていたのが、ドーナツだったのです。店員さんに聞いても、「ドーナツだけは…申し訳ありません」と返ってくるばかり。どうしてドーナツだけ…と、肩を落とす部長なのでした。\n\n---------\n\nMar 1\n\nSunday. He decided to have breakfast outside with his family for the first time in a while. He came to a new \"Mochikomi Cafe\" in front of the station, a unique cafe and restaurant where you can bring in coffee, bread, cakes and... everything. He happily returned to eat a \"Strawberry Chocolate\" donuts  he had bought at a neighboring store...but the only thing this store prohibited him from bringing in was donuts. When he asked the waitress, she just replied, \"Only donuts...sorry about that. He was disappointed and wondered why only donuts....",
+  "attributes": [
+    {
+      "value": "Strawberry chocolate",
+      "trait_type": "DONUTS"
+    },
+    {
+      "value": "Mad Blue",
+      "trait_type": "JEANS"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "KNIT CAP"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "NYLON JACKET"
+    },
+    {
+      "value": "Camouflage",
+      "trait_type": "SHIRT"
+    },
+    {
+      "value": "Black",
+      "trait_type": "T-SHIRT"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWLpsbe9oqquwdcUvJRKVJuMvekocGNz9QUcL1tKY5Nk4/nft.jpg",
+  "nftContractAddress": "0xb3e0ca86d66745cf51856a9922f79e7e613f2d48",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "VeryCoolAnimals #002",
+  "description": "VeryLongAnimals✕CoolGirlの二次創作です。",
+  "attributes": [
+    {
+      "value": "dog",
+      "trait_type": "type"
+    }
+  ]
+}

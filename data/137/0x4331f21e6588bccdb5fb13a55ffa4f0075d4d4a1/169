@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbk3w4mivpLtkuGpSF7xgTAd6zYTLGqJACMNMwgxQSwnf/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 169,
+  "chainId": "137",
+  "name": "WMM #0169 ASHIGARA 1945",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**ASHIGARA 1945**  \nThis silhouette is Heavy cruiser Ashigara in 1945.  \nShe is the third ship of the Myoko class.\n\nIt is famous for the episode in which it was compared to a \"starving wolf\" at the coronation ceremony of King George VI.\n\nThe irony was that the ship's design and comfortability had been sacrificed in pursuit of its capabilities as a warship, but it later sank British heavy cruisers and destroyers with its heavy armament.\n\nLike her sister ship \"Haguro It continued to struggle tenaciously from the beginning of the war to the end of the war.\n\n**重巡洋艦 足柄 1945**  \n妙高型の3番艦です。\n\nジョージ6世戴冠記念の観艦式で「餓えた狼」に例えられたエピソードが有名です。\n\n軍艦としての能力を突き詰めた結果、居住性やデザイン性が犠牲になっている事への皮肉でしたが、後に持ち前の重武装で英重巡や駆逐艦を撃沈しています。\n\n姉妹艦の「羽黒」と同じく開戦から終戦間際までしぶとく奮闘し続けました。\n\nこのNFTは1945年頃の足柄のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Heavy cruiser",
+      "trait_type": "Ship"
+    }
+  ]
+}

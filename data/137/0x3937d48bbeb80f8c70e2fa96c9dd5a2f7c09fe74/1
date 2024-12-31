@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV96yyCcGRHtBmioGade6k5sd5HzNw7wUmpEwiUnNKEj5/nft.jpeg",
+  "nftContractAddress": "0x3937d48bbeb80f8c70e2fa96c9dd5a2f7c09fe74",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "tst1",
+  "description": "",
+  "attributes": []
+}

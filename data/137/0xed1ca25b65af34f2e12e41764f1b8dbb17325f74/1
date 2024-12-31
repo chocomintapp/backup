@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVshum26dNJWm52BJANzfAn35exmcd7GpSZw5zF98AzMK/nft.png",
+  "tokenId": 1,
+  "description": "Is she a Titan? No, she's a stuntman. This is a movie set. 彼女は巨人？いいえ彼女はスタントマン。ここは映画のセットなのだ！",
+  "nftContractAddress": "0xed1ca25b65af34f2e12e41764f1b8dbb17325f74",
+  "animationUrl": "https://ipfs.io/ipfs/QmVshum26dNJWm52BJANzfAn35exmcd7GpSZw5zF98AzMK/nft.png",
+  "chainId": "137",
+  "name": "#33",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

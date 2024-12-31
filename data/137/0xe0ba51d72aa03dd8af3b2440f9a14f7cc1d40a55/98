@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUgfb2vN1JGnsFztksKFRcMoBewMwEWPgwpKLc781fboQ/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 98,
+  "chainId": "137",
+  "name": "お気に入りのジーンズが入らなくなったえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ナマケモノ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ハンバーガー",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "トウニュウ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "パフェ巡り",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "メノマエノシアワセヲダイジニ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

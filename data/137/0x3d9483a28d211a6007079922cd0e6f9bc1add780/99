@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXC4NfQqDEBHEjpVKCGW5KiDiCd3RAVCcCLL5E5KEuS7e/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 99,
+  "chainId": "137",
+  "name": "Neon #99",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "yellow hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "dark-blue neon botle",
+      "trait_type": "hand"
+    },
+    {
+      "value": "mocking",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

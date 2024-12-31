@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ3hE3hH96Xmrbn6V8iB5Q2ZqCLc741RV2An9d9Npw97S/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "Working Ganmichan #4",
+  "description": "Ganmichan's welding work #1",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "welder",
+      "trait_type": "situation"
+    }
+  ]
+}

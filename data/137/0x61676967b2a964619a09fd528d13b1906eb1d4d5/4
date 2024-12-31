@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbv7kwZnYSsHmdnodEpAfhhXAD2zYYR2QR5kzpGbdLyDB/nft.png",
+  "tokenId": 4,
+  "description": "- てすと",
+  "nftContractAddress": "0x61676967b2a964619a09fd528d13b1906eb1d4d5",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "KEYCAT #2",
+  "attributes": [
+    {
+      "trait_type": "KEY TYPE",
+      "value": "LOGO"
+    },
+    {
+      "trait_type": "ANIMAL",
+      "value": "CAT"
+    },
+    {
+      "trait_type": "ACTION",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "ITEM",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "ACCE",
+      "value": "NONE"
+    }
+  ]
+}

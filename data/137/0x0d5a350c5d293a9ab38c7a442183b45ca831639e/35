@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfFZADuKFEmjYhjQs3ii4HVap2Zf2a59pjiUV52smG8EB/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "137",
+  "name": "Day18 Nana's Art #53",
+  "description": "カレーライスが好き。多少辛くても平気。\n\nI like curry and rice.I don't mind if it's a little spicy.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ]
+}

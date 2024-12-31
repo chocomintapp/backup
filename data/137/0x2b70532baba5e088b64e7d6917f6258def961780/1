@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcw3BqmVA9JwRekFHQW6XewnHNqJTo4Yd54GWQ98TRyyW/nft.jpg",
+  "nftContractAddress": "0x2b70532baba5e088b64e7d6917f6258def961780",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies EDP #16",
+  "description": "VeryLongAnimalBabies #16 をイメージした香りです。",
+  "attributes": [
+    {
+      "value": "Woody",
+      "trait_type": "Last note"
+    },
+    {
+      "value": "Citrus",
+      "trait_type": "Middle note"
+    },
+    {
+      "value": "Marine",
+      "trait_type": "Top note"
+    }
+  ]
+}

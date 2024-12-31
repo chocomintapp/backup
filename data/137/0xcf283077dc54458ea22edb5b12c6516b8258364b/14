@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRSMi1kDx6YC8FENoQQQeVVjD9c3XAvkLi8bMrmVhQ87E/nft.png",
+  "nftContractAddress": "0xcf283077dc54458ea22edb5b12c6516b8258364b",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "Meyer [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nMeyer\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR EVO]",
+  "attributes": [
+    {
+      "value": "Angel",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Twinkle",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "White Parker",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Ribbon",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Distorted Gradation",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "EVO",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

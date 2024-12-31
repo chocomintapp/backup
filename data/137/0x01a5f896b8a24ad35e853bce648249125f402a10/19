@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVuFuQcr5Q9sKAnmnwA5VUWNCuTNZVYAPSrc9VejAxvCA/nft.png",
+  "tokenId": 19,
+  "description": "Rare SUSHI TOP SHOT \"Kohada” (Ginza Watari membership ticket NFT) \n\nGinza Watari distribute  Rare SUSHI TOP SHOT to those who made a payment using $sushi at a physical store before May 22 2021.\n\nPlanning to offer special privileges at the store to holders of rare SUSHI TOP SHOT. We plan to implement a variety of services using blockchain in the future. \n\n\nレア「SUSHI TOP SHOT」（銀座渡利会員券NFT）\n\n銀座渡利では5月22日以前に実店舗で「$sushi」で決済を行なった方に対してレア「SUSHI TOP SHOT」を配布いたします。\n\nレア「SUSHI TOP SHOT」の保有者には店舗での優待特典などを企画しています。今後、ブロックチェーンを活用したさまざまなサービスを実装する予定です。\n",
+  "nftContractAddress": "0x01a5f896b8a24ad35e853bce648249125f402a10",
+  "animationUrl": "https://ipfs.io/ipfs/QmQhm5j2i3L5Q22ob45mdZvMVMcXoRoAZSvDYzCjLBJgk3/nft.mp4",
+  "chainId": "137",
+  "name": "SUSHI TOP SHOT Rare _Kohada"
+}

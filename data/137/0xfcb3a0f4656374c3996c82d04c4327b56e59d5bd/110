@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd4Xb36f3xFTXCNR1sMkjpWQSnoqqhrVpH3fCGt1onSev/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 110,
+  "chainId": "137",
+  "name": "#0105_Niotn_GCCBKYG_CcR",
+  "description": "#0105_Niton_GCCBKYG_CcR",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Malachite Green",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Spring Bud",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Blue Chill",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

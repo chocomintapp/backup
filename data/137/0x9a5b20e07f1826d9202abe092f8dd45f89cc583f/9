@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVrxfQSjLC7hV4GjjKAY8FnobbVfJu3viBNdvZrtnhDcc/nft.png",
+  "tokenId": 9,
+  "description": "If your smartphone supports AR Quick Look on iPhone or ARCore on Android, you can scan the NFT QR code with your camera and place the augmented reality model without markers.\n\nThis work was inspired by the logo of AAVE.\n\n3D+AR viewing in a smartphone browser Here is a link to the IPFS 3D viewer.\nhttps://gateway.pinata.cloud/ipfs/QmaHnr3SEcdCSTMD1eBKxFBReyPNLWwQiuCeSwdTZdwEhn/aave_ar/",
+  "nftContractAddress": "0x9a5b20e07f1826d9202abe092f8dd45f89cc583f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "AAVE Markerless AR"
+}

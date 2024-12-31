@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPKzKhBFSmBn9rq6UHhUMQhXJE4ZhsyePLnbRRcBmQGKN/nft.png",
+  "nftContractAddress": "0xcfc122552eeb00b4cd34dfd8a594227fa94e7018",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "#1",
+  "description": "",
+  "attributes": [
+    {
+      "value": "RED",
+      "trait_type": "BackGround"
+    },
+    {
+      "value": "Katana",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "HAIR COLOR"
+    }
+  ]
+}

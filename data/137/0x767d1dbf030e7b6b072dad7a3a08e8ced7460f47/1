@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXE6TonE4To9hgBdMeLmR28v7gjTyJSiHcM64ig7tLLdg/nft.jpg",
+  "nftContractAddress": "0x767d1dbf030e7b6b072dad7a3a08e8ced7460f47",
+  "animationUrl": "https://ipfs.io/ipfs/QmfNj2dNABENjtk3seaPFHESWhucN3DEfNwrkGXKHpnjoB/nft.gif",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Bunzy",
+  "description": "Hotdog",
+  "attributes": [
+    {
+      "value": "true",
+      "trait_type": "old?"
+    }
+  ],
+  "minted": ""
+}

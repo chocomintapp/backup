@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZCZr5AALaZeRqjYsBzGUKZiunEyF8NyPtL19rJCjKhvH/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "THS #023",
+  "description": "【故】",
+  "attributes": [
+    {
+      "value": "dragon",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "comb",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "chicken feet",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

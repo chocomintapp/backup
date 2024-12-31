@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRh7NMDuXMPZHbZCQMR7XeqFRfoAkCza6RZ4bswC2BP6h/nft.png",
+  "tokenId": 69,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #69",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Kangaroo"
+    }
+  ]
+}

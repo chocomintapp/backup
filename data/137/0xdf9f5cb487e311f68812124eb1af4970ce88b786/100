@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmREys4nkrm18hiWSA6jASDtCmGwysAqjoEFw9GNUxHNJb/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 100,
+  "chainId": "137",
+  "name": "Ganmichan in the Garden of Eden",
+  "description": "独自コントラクトでの作品は今回で１００作品になります。\nいつも応援有難うございます。",
+  "attributes": [
+    {
+      "value": "special",
+      "trait_type": "series"
+    },
+    {
+      "value": "Eden",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

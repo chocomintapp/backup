@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaiR8R9URq2mhoLGRz7qFJRJP3t5UTp33gaovFHCPoxFu/nft.png",
+  "tokenId": 1,
+  "description": "Restaurant video",
+  "nftContractAddress": "0xd9911729e95097db33d9ea11e4e15470faeedbd7",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "KOMA P",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

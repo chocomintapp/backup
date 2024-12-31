@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSyytF7smgk2WVHPMPEpAQumdb2Rh8UEHcmVtafAdKYc5/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 76,
+  "chainId": "137",
+  "name": "100均コスメで乗り切るえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "キヨウ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "パエリア",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "アンミツ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "ボウリング",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "ヤスモノヲヤスクミセナイ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

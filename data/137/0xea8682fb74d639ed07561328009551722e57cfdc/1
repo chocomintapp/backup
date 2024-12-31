@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWk5NTHdUd3XtpUMCNizN7E66Ubn8XykXZdtADDHP7gAk/nft.png",
+  "nftContractAddress": "0xea8682fb74d639ed07561328009551722e57cfdc",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Castle Kuma",
+  "description": "Castle Kuma is small but imposing.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Castle KUma",
+      "trait_type": "castle"
+    }
+  ]
+}

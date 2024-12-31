@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSVFSG4HUryE5AFrZbrwJotjviFUj3DuNfRidREDb4KPE/nft.png",
+  "tokenId": 6,
+  "description": "ヴェロニカは高飛車なのは、お姉ちゃんのせい？？",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#3 ふたりはふたご",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Language",
+      "value": "Japanese"
+    }
+  ]
+}

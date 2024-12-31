@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSpFhV4LJJifwUiZn1jdFwbadWtZMbCCrqkZZByduFznp/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 57,
+  "chainId": "137",
+  "name": "#57",
+  "description": "fire",
+  "attributes": [
+    {
+      "value": "Fire",
+      "trait_type": "RACE"
+    }
+  ]
+}

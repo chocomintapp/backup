@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRVJ3Ep8TCBGxBxwJg4RHP6gQgEXHkkQEn6xFTCRroode/nft.jpg",
+  "tokenId": 1,
+  "description": "a picture of my favorite cat.",
+  "nftContractAddress": "0xe653807692f6a68a833947e3e6f8574acb771b43",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "catphoto"
+}

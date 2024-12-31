@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmekUDVXjnAWtb7mZn4aDGnHW7EnXxrp37Smy4RWhDkx2v/nft.png",
+  "tokenId": 6,
+  "description": "Time is Cannabbies.\nLimited Edition of 1【CANNA REGGAE】",
+  "nftContractAddress": "0x777444fb026cd06f490f87a7dc9dcaacc08fd3a5",
+  "animationUrl": "https://ipfs.io/ipfs/QmekUDVXjnAWtb7mZn4aDGnHW7EnXxrp37Smy4RWhDkx2v/nft.png",
+  "chainId": "137",
+  "name": "CANNABBIES #6",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Canna "
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Indica"
+    },
+    {
+      "trait_type": "FASHION",
+      "value": "Reggae"
+    }
+  ]
+}

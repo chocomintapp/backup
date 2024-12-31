@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdnZ5srD14Jn9grrDKRBZB6fC227sVhStrzehwWPiZeEj/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "137",
+  "name": "大吉 Smoker #35",
+  "description": "これであなたも大吉依存症です。笑\n\nNow you are also Daikichi addicted.hahaha\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープ official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection",
+  "attributes": [
+    {
+      "value": "tobacco",
+      "trait_type": "special item"
+    }
+  ]
+}

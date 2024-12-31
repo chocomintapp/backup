@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRD9U31qc4bX5ZPxz2ExykkYm16rep5MUWrbfPpRyh4K5/nft.png",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "BasketBallBabies",
+  "description": "ばぶばぶべいびー\nはむすたー\n\nBasket Ball Babies\nhamster\n\nI am the most of baby !",
+  "attributes": [
+    {
+      "value": "0.01",
+      "trait_type": "type:hamster"
+    }
+  ]
+}

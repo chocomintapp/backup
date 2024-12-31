@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWeTPBvR793RR6vWKb8AWU7kk7b7CKWf1AkNwuiCoPa2T/nft.png",
+  "nftContractAddress": "0x3925f2592e21e8168c0813a7a0fb47a2bea05ef6",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": " Tart [Mode: Transforming]",
+  "description": "\nLOM BABY [Phase: MOM] \nTart\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR PETIT]",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Eyeball",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "PETIT",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

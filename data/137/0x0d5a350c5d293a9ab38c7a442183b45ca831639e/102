@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQNzMnau6KatYa5m5PbGorPwJ1eJUF9Lz5Lc76McKA6eM/nft.png",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 102,
+  "chainId": "137",
+  "name": "Day41 Syu's Art #120",
+  "description": "昨日、保育園で転んで口周りを擦りむいてしまいました。\n\nYesterday, I fell down at daycare and scraped my mouth area.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

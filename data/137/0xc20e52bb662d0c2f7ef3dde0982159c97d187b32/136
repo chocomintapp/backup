@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme1bUSxQPjn2TyTABMU5q7tygo73Uz8wAZqKCiTFbQiGB/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 136,
+  "chainId": "137",
+  "name": "#136",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Ripe lime",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#A752D6",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Lips",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chatter",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

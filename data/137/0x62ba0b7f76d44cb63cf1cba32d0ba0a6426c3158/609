@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTC9T8pVQK6FcijTH7ogZWeNrjiHFQ1xiALtEjzHDJtUE/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 609,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #609",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Alpaca",
+      "trait_type": "TYPE"
+    }
+  ]
+}

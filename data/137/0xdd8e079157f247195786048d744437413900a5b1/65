@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfDeKmV6XFgy2Y7iPkd6ZL48NKeCrfbH9PH5xieUxX95W/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmfDeKmV6XFgy2Y7iPkd6ZL48NKeCrfbH9PH5xieUxX95W/nft.gif",
+  "tokenId": 65,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #65",
+  "description": "ベビロン二次創作",
+  "attributes": [
+    {
+      "value": "White Cat",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

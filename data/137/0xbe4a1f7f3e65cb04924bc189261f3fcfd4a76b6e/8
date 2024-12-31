@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWVsTgpPs45eEGc9ZXJJHhA6bv8aQaqMdBrDmtykJDcRu/nft.gif",
+  "tokenId": 8,
+  "description": "Moving Noun 7",
+  "nftContractAddress": "0xbe4a1f7f3e65cb04924bc189261f3fcfd4a76b6e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "GIF Noun 7",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Warm"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grayscale-8"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pizza-bling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mirror"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square-grey-light"
+    }
+  ]
+}

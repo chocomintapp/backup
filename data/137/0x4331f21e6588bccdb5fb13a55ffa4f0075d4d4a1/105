@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcBDsyzPHkPhESJRVzxmzaWz32DrSWPVyXrvEsG29aPGR/nft.png",
+  "tokenId": 105,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KUROGANE 4WD**  \nIt was Japan's first practical four-wheel drive vehicle.\n\nAlthough its official name was \"Type 95 Small Passenger Car,\" it was nicknamed \"Kurogane Yonki\" or \"Daruma.\n\nTaking advantage of its small size and light weight, it demonstrated high off-road driving performance, and was very active at the front line in reconnaissance and missionary work.\n\nBecause it was an excellent vehicle, many derivatives were made.\nThis silhouette is an early model, a three-seater roadster.\n\n**くろがね四起（九五式小型乗用車）**  \n国産初の実用四輪駆動車です。\n\n制式名は「九五式小型乗用車」でしたが「くろがね四起」や「達磨」の愛称で親しまれました。\n\n小型軽量を生かして高い路外走破性能を発揮し、前線では偵察や伝令で大活躍しました。  \n優秀な車輛だった為、多くの派生型が作られました。\nこのシルエットは初期型である3人乗りのロードスターです。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0105 KUROGANE 4WD",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Armored vehicle"
+    }
+  ]
+}

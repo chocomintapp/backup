@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZz6VhdN6FuGnwDTRyNGQ7AeNtAhhnfRUaAjpiyJoYY8A/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmZz6VhdN6FuGnwDTRyNGQ7AeNtAhhnfRUaAjpiyJoYY8A/nft.mp4",
+  "tokenId": 899,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1005",
+  "description": "早く出てきてAIラッパー\nイケメン枠で入れたいメンバー",
+  "attributes": [
+    {
+      "value": "AI",
+      "trait_type": "M"
+    },
+    {
+      "value": "Ｂプルート",
+      "trait_type": "押韻職人"
+    }
+  ]
+}

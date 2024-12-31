@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeFhhfgV3TUvme4KyGTMgxCUS9q4fC5GzQ77WVRpZNzLz/nft.png",
+  "nftContractAddress": "0x778f7c88e13f18f066ac5c2738dc1eded15673a5",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Shirayuki",
+  "description": "Ambitious One City Special Edition for dgift",
+  "attributes": [
+    {
+      "value": "NATURAL",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "KIMONO",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "SAMURAI SWORD",
+      "trait_type": "ITEM"
+    }
+  ],
+  "minted": ""
+}

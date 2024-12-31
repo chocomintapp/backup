@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQRTBQiMt7DBgUyzqChLAuA6djGf9uKMNAKHMDBBCKAD3/nft.GIF",
+  "tokenId": 1,
+  "description": "THE FIRST TEST",
+  "nftContractAddress": "0x65f00372bbe5654557c6a4cb1f436ef8485c98d9",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "TEST",
+  "minted": "✅"
+}

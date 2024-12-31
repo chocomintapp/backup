@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT9npdxiHuj8h84TQjsrfmybYWgRMrSugB8kL1S54kYgR/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmaS1KVxw5stqtpurHQfUcL7TpaCiWXNPnLejXMdXwyVbw/nft.gif",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "Kawaii Legends #015",
+  "description": "#015 Welcoming cat Kawaii\n\n\"Wealth is come your way!\"\n\n\n*Here are some tidbits about this costume: \nThis is a gorgeous kimono with long sleeves called \"Furisode\".\nKimonos for unmarried women are made with specially long sleeves. It is a remnant of a past era when people expressed their affection by waving their sleeves.\nThe sleeves of married women's kimono are shorter.\n\nThe hairstyle with two rings tied on top of the head is called \"Zujo-nikei,\" or \"two hairs on top of the head,\" which was popular during the Nara period (A.D. 710-794).\nEven today, in some regions, shrine maidens wear this hairstyle at shrine festivals.\n\n*The characters in #015 and #016 are sisters.\nTheir pose is derived from the Japanese motif of \"Welcoming cats\" that bring good luck.\n\n\n衣装についての豆知識：\n振り袖は未婚女性のための着物です。\n未婚女性の袖が長いのは、過去、婚前の男女が直接言葉を交わすことが難しかった時代に袖を振ることで愛の告白をしていた名残です。\n（このため既婚女性の袖は短いそうです）\n\n彼女たちの髪の毛を頭上で2つに結っているスタイルは頭上二髻(ずじょうにけい)と呼ばれるもので、奈良時代に大陸から伝わり流行しました。現代でも神社のお祭りなどで巫女がこのヘアスタイルにする地域も残っています。\n\n\nなお、#015ちゃんと#016ちゃんは福を招く姉妹です。\nしっかりもののお姉ちゃん#015ちゃん、甘えんぼ妹ちゃんの#016ちゃん。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "NEKOmata",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Party",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Wisteria",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Furisode kimono",
+      "trait_type": "Outfit"
+    },
+    {
+      "value": "Gold coin",
+      "trait_type": "Foreground"
+    }
+  ]
+}

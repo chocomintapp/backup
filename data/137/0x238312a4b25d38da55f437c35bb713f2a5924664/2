@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNuu5DhNumokdy5Gt6Q7sKEUWWery7ngEt72B1qAkftdr/nft.gif",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0x238312a4b25d38da55f437c35bb713f2a5924664",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Aurora",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Brown Bucket "
+    },
+    {
+      "trait_type": "Headphone",
+      "value": "Red v.1"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Face Shield"
+    },
+    {
+      "trait_type": "Pet",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Bag",
+      "value": "Black Backpack"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Bunny"
+    }
+  ]
+}

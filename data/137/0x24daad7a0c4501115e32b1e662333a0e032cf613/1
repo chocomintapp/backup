@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPYuRcAwy7eKxvduMjJF8gzW56U6RkpbxC4ZJH33yAvoS/nft.jpg",
+  "nftContractAddress": "0x24daad7a0c4501115e32b1e662333a0e032cf613",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Mona Lisa",
+  "description": "Mona Lisa by Leonardo da Vinci",
+  "attributes": []
+}

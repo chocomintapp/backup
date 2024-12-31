@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTaVnpRLJiUQr3F9oGP66oaf2pMFXwTmz2eUr66WCokuh/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 50,
+  "chainId": "137",
+  "name": "Day23 Umitsuru's Art #68",
+  "description": "絵が上手く描けるようになったら、どんなに素晴らしいだろう。\n\nHow wonderful it would be to be able to draw well.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

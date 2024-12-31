@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXz58gztxvpruScia4Gqh5A4UiHy1ztiMSi8HyND7Hjxo/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmXz58gztxvpruScia4Gqh5A4UiHy1ztiMSi8HyND7Hjxo/nft.mp4",
+  "tokenId": 934,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1034",
+  "description": "新年あけましておめでとう\nストローで飲むストロングゼロ\nweb2.5でしばらく活動\nお茶の間にリーチさせるGORO",
+  "attributes": [
+    {
+      "value": "Bike Air Zoom Generation",
+      "trait_type": "M"
+    },
+    {
+      "value": "Bpluto",
+      "trait_type": "押韻職人"
+    }
+  ]
+}

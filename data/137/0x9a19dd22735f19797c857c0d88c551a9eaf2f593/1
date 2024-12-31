@@ -1,0 +1,9 @@
+{
+  "image": "",
+  "tokenId": 1,
+  "description": "great description",
+  "nftContractAddress": "0x9a19dd22735f19797c857c0d88c551a9eaf2f593",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Hello World"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ85mwBB2iKdVMLSFHCHqy91g2wQAESgKybZsfnGdP2MG/nft.png",
+  "tokenId": 32,
+  "description": "仰向けになると、針が自分に刺さって気持ちいい\n\nWhen I lay on my back, it felt good to have the needle stick into me.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Hedgehog（ハリネズミ）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Hedgehog"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX8QsGX2RdCn9kMbnesyEfwCxchbrugvZvqStw6tfUHa1/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x7141a615d8891eb5a62c7904a1eb71e56039110e",
+  "animationUrl": "https://ipfs.io/ipfs/QmcSfbrWvRzGjjN9zvceDDtPrJ8qNueC5Zadx9YAop2s58/nft.mp4",
+  "chainId": "137",
+  "name": "Summer Memory",
+  "attributes": []
+}

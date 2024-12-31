@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXSp69d3VUjuWgEexd5AQNDiSeTdF3xbMF6eUg5u3iv9z/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 76,
+  "chainId": "137",
+  "name": "Day32 Umitsuru's Art #94",
+  "description": "透明人間になりたいって、昔思ってた。\n\nI used to think that I wanted to be invisible.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

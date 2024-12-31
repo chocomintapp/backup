@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc7v7mgmfxK6mRJz1FLWTooJwtpsezhaqDmsi2XnyouVD/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "137",
+  "name": "Day18 Syu's Art #52",
+  "description": "パパの絵よりも描きたい絵があるんだけど・・・\n\nThere's a painting I'd rather do than my dad's...",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUKxNZz5To1yzKUST7RyHqqCbXekaHP7spSUTxRp16ExG/nft.png",
+  "tokenId": 1,
+  "description": "ぬいぐるみ供養ドットコム公式ロゴ画像",
+  "nftContractAddress": "0x6daeb0128cbae02844d638349ec4ab7ad61f1a6b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "nuigurumi-kuyo-logo",
+  "attributes": []
+}

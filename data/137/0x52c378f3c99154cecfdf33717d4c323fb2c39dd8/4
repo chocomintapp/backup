@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdMfqpXbdaEeeYmJG6yvAG9eUjShUoy4ybbjE9Mn9u6LP/nft.jpg",
+  "nftContractAddress": "0x52c378f3c99154cecfdf33717d4c323fb2c39dd8",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "#004",
+  "description": "My collection contains 369 numbers that manifest the truth of the universe. I have drawn a glowing cross in the symbol of microorganisms with a prayer that the vibrations of this 369 will spread throughout the world.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Yes",
+      "trait_type": "369"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "KATAKAMUNA"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "CROSS"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "MICROORGANISMS"
+    }
+  ]
+}

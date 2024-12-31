@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTtNKbp7ZA4E6vY3rWpj9eVpioNPMhVuBed3WNFsySTyi/nft.png",
+  "tokenId": 1,
+  "description": "vrm確認用  \nhttps://hub.vroid.com/characters/8257164765950486153/models/1602925710552949219  \n",
+  "nftContractAddress": "0xb1906f67a9b72689b3d3dee200b8de2659f798f2",
+  "animationUrl": "https://ipfs.io/ipfs/QmSCdNBJB5mVziTrw7rh2cgWWHCETJuvbXCRBgciq7giJf/nft.glb",
+  "chainId": "137",
+  "name": "Lily_Leotard_ver",
+  "attributes": [
+    {
+      "trait_type": "VRMConvert",
+      "value": "true"
+    },
+    {
+      "trait_type": "LocalUse",
+      "value": "true"
+    }
+  ]
+}

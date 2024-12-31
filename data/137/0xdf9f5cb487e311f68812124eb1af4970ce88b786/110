@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeyeA32nh1CJQFFKDWDsYSSEJD5yyn2S6fasQ69JZBEdY/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 110,
+  "chainId": "137",
+  "name": "Ganmichan's snap #2",
+  "description": "がんみちゃんの何気ない日常",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "snap",
+      "trait_type": "series"
+    },
+    {
+      "value": "Wcdonalds",
+      "trait_type": "situation"
+    }
+  ]
+}

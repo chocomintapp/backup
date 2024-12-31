@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPBGr6MevGfn8ZkxSFaVffDiX5z3495bPGHziSrH8vpqK/nft.png",
+  "tokenId": 40,
+  "description": "Calligraphy Devil #40",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #40",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Gusion"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Amon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Hades"
+    }
+  ]
+}

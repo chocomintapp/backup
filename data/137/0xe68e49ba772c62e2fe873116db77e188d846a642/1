@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZWs8pRKL5PMXbXMzebGj98LdKt7aexeN8SKbEdRA16rN/nft.jpg",
+  "nftContractAddress": "0xe68e49ba772c62e2fe873116db77e188d846a642",
+  "animationUrl": "https://ipfs.io/ipfs/QmamFbs5MkPtusu9GEoPEPEeAAnLWoBQJQ4xKCMt8D5Ldx/nft.JPG",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Crypto Cooking Club",
+  "description": "Welcome to the wonderful world of \"Crypto Cooking Club\"! A unique collection born from gourmet imagination. It's a pop culture, next-generation multimedia franchise model that enjoys food culture through great storytelling, fun experiences, and innovative technology powered by Web3. In the paradise of food culture, imagination is limitless and adventure awaits. Welcome to the world of food feasts.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": ""
+}

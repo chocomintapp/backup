@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTCa1K1Pri5yy4qKzU7rBbq29mNQDLH5Wjz9MzBTPVmMb/nft.png",
+  "tokenId": 1,
+  "description": "Stoned Leaf Ownership",
+  "nftContractAddress": "0x7441e6efc8a2cad9812d00e2c53656f4525a31a5",
+  "animationUrl": "https://ipfs.io/ipfs/QmfSdbXWJgp1NXwU5wG1dLBmRx8M1VPsKcZ991aX7rJw5y/nft.GIF",
+  "chainId": "137",
+  "name": "Leaf #1",
+  "attributes": [],
+  "minted": ""
+}

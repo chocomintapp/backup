@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYTmHnpCVWS4gAcCxjdsCSNGJS7PmF9PdLujxjqEeTBrw/nft.gif",
+  "nftContractAddress": "0x6c621364993e5cd4c6468930d287ba76ef64f366",
+  "animationUrl": "",
+  "tokenId": 384,
+  "chainId": "137",
+  "name": "CryptoGoro #Day384",
+  "description": "CryptoGoro #Day384\n\n19/JUL/2022\n\nWorld famous modern artist Mr.Goro makes his self-portrait every day. Each NFG (Non-Fungible Goro) mint only one. This project will continue until his death. Let’s collect your own Goros!!\n\n1616 days before death.\n\nSpecial art work for Mr.Drew.",
+  "attributes": [
+    {
+      "value": "Albuquerque",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "GOD",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "Super Good",
+      "trait_type": "VITAL"
+    },
+    {
+      "value": "World Heritage",
+      "trait_type": "RARITY"
+    },
+    {
+      "value": "Writer",
+      "trait_type": "JOB"
+    }
+  ],
+  "minted": "✅"
+}

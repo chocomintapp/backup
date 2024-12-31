@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWxxXsNErttZ8H5uQ6DSF6AX29QB1D1wWUxbpAFoA2w5X/nft.gif",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 320,
+  "chainId": "137",
+  "name": "#320",
+  "description": "",
+  "attributes": [
+    {
+      "value": "in the grass",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#DEA3A3",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Piyopiyo Chicks",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Suyasuya",
+      "trait_type": "Face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "Hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Legs"
+    }
+  ]
+}

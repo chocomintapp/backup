@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRCsm3y6HSbTqPGz2A5Qdc1yot1b7dCQFNop8r9bkgHRG/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 203,
+  "chainId": "137",
+  "name": "#203",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#C9EA83",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#2FEFFF",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Crocodile friends",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ryu",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Dragon beard",
+      "trait_type": "Accessory1"
+    },
+    {
+      "value": "Dragon horn",
+      "trait_type": "Accessory2"
+    },
+    {
+      "value": "Dragon tail",
+      "trait_type": "Accessory3"
+    }
+  ],
+  "minted": "✅"
+}

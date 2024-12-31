@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT2onDTjYqE3zjkqH6sAeygC2fpJFZBFoj5LYkrAwRSX8/nft.png",
+  "tokenId": 1,
+  "description": "awake",
+  "nftContractAddress": "0xe6031eba230abdb948cd938c204588fbd8e52fed",
+  "animationUrl": "https://ipfs.io/ipfs/QmTh5kCS8CfvibsS9efGxcd4ForfGtmDqgocgfZbpcEF6e/nft.mp3",
+  "chainId": "137",
+  "name": "awake",
+  "minted": "✅"
+}

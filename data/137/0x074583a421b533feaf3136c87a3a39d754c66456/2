@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPAgU5rqz5VHrVMo1GisoKok9MQ3RhFyXae4ytsrV3UiB/nft.jpeg",
+  "tokenId": 2,
+  "description": "ART Movie2",
+  "nftContractAddress": "0x074583a421b533feaf3136c87a3a39d754c66456",
+  "animationUrl": "https://ipfs.io/ipfs/QmNq1St8Zgpt9ecrRkPu99R1tmorqH9UEMAEnnTaiuBGPJ/nft.MOV",
+  "chainId": "137",
+  "name": "ART Movie2"
+}

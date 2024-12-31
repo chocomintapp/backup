@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeckCgJtcH9BsF8y772GySUzjFjm7EFqeuHYAwBvaQJLv/nft.png",
+  "tokenId": 17,
+  "description": "They are \"Shimaenaga\". It is a very small bird that lives in Hokkaido. This collection is drawn by a Japanese woman Mary from Hokkaido.",
+  "nftContractAddress": "0xffb05fe9bd07bbe3f236bcc502aa4ac64214f187",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Shimaenaga #17",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Cheeks",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hurt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Band-aid"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Light blue"
+    }
+  ]
+}

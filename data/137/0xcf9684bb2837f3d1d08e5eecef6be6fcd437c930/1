@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbrUTaYTXaNFHwNgXR13xoYKWfVaQPQMD548d99zapsWL/nft.jpg",
+  "tokenId": 1,
+  "description": "This art depicts the Sun, the Rider Tarot. The artist's name is Satomi.",
+  "nftContractAddress": "0xcf9684bb2837f3d1d08e5eecef6be6fcd437c930",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sun",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWx6hn4iJ5oNmJiuWSMmc8e6pReAdg2f9hF5EKpt5sFQs/nft.png",
+  "tokenId": 1,
+  "description": "visual-trial000",
+  "nftContractAddress": "0x96cf1ba90777f1bde34d8a89a51a682a04809076",
+  "animationUrl": "https://ipfs.io/ipfs/QmWx6hn4iJ5oNmJiuWSMmc8e6pReAdg2f9hF5EKpt5sFQs/nft.png",
+  "chainId": "137",
+  "name": "visual-trial000",
+  "attributes": []
+}

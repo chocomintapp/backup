@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPsANQz9eEnVdtmuwRgmNLNM73iYhpgj2iC3mVBQqBhVe/nft.png",
+  "tokenId": 7,
+  "description": "This NFT is made for metaverse. \nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x7b18df0916bfa1bc3d3198c376c79f87b0110564",
+  "animationUrl": "https://ipfs.io/ipfs/QmY3kFfMpZwW1wkhcoVw988yRA7zqyvApNaDGrWQ9QEBXZ/nft.png",
+  "chainId": "137",
+  "name": "#7 Houndstooth (TP-White)",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "Houndstooth"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Pattern"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ3KXQ182gfB6n3XbhpTubnonY9AziM9qM6hVCCC1CeYL/nft.png",
+  "tokenId": 4,
+  "description": "ss",
+  "nftContractAddress": "0xbf3c37719d4398d94ba7ba2d5839f7163e270270",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "mainnet",
+  "attributes": [
+    {
+      "trait_type": "sss",
+      "value": "ssssssssssss"
+    }
+  ]
+}

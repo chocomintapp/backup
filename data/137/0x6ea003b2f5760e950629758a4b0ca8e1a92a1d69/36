@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdjN81Whb3wtb2KednCvJGrmKW7VFukuXvL35hF6Nev66/nft.gif",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "137",
+  "name": "稲荷詣 -Inarimoude-",
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.\n\n\nここは、松江にある出世稲荷。\n\nなにやら、手水舎の前に二匹の猫が。\n\n尻尾をふりふりしています。\n\n手を清め、これから稲荷様にお参りするのかな？",
+  "attributes": [
+    {
+      "value": "Shusseinarijinjya",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Paint",
+      "trait_type": "MODEL"
+    }
+  ]
+}

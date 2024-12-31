@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbwMgg2TsvDPJJaL834RD15X3S8WY1FH2fkuYW43nsbqP/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "大吉 Rainbow Glasses #17",
+  "description": "これで7つの世界が見えます。笑\n\nNow you can see 7 worlds.hahaha\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "attributes": [
+    {
+      "value": "Rainbow Glasses",
+      "trait_type": "special item"
+    }
+  ]
+}

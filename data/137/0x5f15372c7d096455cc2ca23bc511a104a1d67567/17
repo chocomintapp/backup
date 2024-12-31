@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeB11Szx3Ms9vpmAZZboJaRKhr5Eg8tA4R33aRaVWNg65/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmeB11Szx3Ms9vpmAZZboJaRKhr5Eg8tA4R33aRaVWNg65/nft.png",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "Rabbit girl #11 『あずき』",
+  "description": "Rabbit girl #11『あずき』\n\nRabbit Girls will bring happiness to you. Did something bad happen? Or did you have something happy about? It's okay, I'll always be by your side. Please laugh. Your smile is a treasure. Let's move on together!",
+  "attributes": [
+    {
+      "value": "Azuki",
+      "trait_type": "Character"
+    }
+  ],
+  "minted": "✅"
+}

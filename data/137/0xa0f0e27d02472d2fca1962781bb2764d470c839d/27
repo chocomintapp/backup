@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbq1NunYCWfPH4TeHfK1XqWMfzf5pMq7juS6S5FCGg6ao/nft.png",
+  "tokenId": 27,
+  "description": "人気すぎて街を出歩けないのよね\n\nI'm too popular to go out on the town, you know.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Platypus",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Platypus"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

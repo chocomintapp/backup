@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeXm2EzqUH3WGS3FLAY5n5GtVwoYsV8HEFHcPAZ75TQjf/nft.PNG",
+  "nftContractAddress": "0xdef0150d8a87f1c66de248c2e45d22131f158d51",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "VeryLongPlants #02",
+  "description": "もっと長くなれる",
+  "attributes": [
+    {
+      "value": "Young Bamboo",
+      "trait_type": "Type"
+    }
+  ]
+}

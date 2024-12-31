@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdUtseWrNKP1vpENKZYierKzUu6TaVED7tzFQg9YsMDxn/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 94,
+  "chainId": "137",
+  "name": "#0090_Niton_BbyCcBW_YyG",
+  "description": "0090_Niton_BbyCcBW_YyG",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Slate Blue",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Baby Blue",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Electric Lime",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ],
+  "minted": "✅"
+}

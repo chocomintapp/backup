@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbegav1YBH7DuWcjMusw2wnP8VWpSFAZZMYFy7TKNkAV5/nft.png",
+  "tokenId": 5,
+  "description": "３D",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/QmPgefiHewVxyBQ18N17gsz35myFLhzfuVmCPKeyxMdW49/nft.gltf",
+  "chainId": "137",
+  "name": "BooK",
+  "attributes": [
+    {
+      "trait_type": "3D",
+      "value": "0.001"
+    }
+  ]
+}

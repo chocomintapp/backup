@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRwy5kUEB61UCKzQXwAP4kzdwDhLjLcryoP5rJfTfNJGv/nft.png",
+  "nftContractAddress": "0x51a54ab081e66ca2f548517032023208368b9ad8",
+  "animationUrl": "https://ipfs.io/ipfs/QmYwYrG9PKqVNfu7mnk4sAK5xJPKiX4Cvt84B4FSdaA6pG/nft.glb",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "test2",
+  "description": "test2",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    }
+  ]
+}

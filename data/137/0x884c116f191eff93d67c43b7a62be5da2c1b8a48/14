@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb4PQ9qNTKkEwDVaPch3Tv95dbuonictKnDdjRWwp6wY3/nft.jpeg",
+  "nftContractAddress": "0x884c116f191eff93d67c43b7a62be5da2c1b8a48",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #88",
+  "description": "VeryLongAnimals #88の二次創作です！",
+  "attributes": [
+    {
+      "value": "Shark",
+      "trait_type": "type"
+    }
+  ]
+}

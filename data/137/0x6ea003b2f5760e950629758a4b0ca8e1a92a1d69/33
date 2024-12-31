@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbMAVnzaSxCZmDeBRNu3j5zBfkGNBtxX86wNMoH8JGibG/nft.png",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "137",
+  "name": "薄暮 -Hakubo-",
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations. In particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.\n\nここは宍道湖のほとり。\n\n夕暮れ時に散歩をする人で賑わっています。\n\nふと目をやると、こがねいろのねこが一匹。\n\n足を止め、綺麗な夕陽に見惚れていますね。",
+  "attributes": [
+    {
+      "value": "Lake Shinji",
+      "trait_type": "Location"
+    },
+    {
+      "value": "SENBYO",
+      "trait_type": "MODEL"
+    }
+  ]
+}

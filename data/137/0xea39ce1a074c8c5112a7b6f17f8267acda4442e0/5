@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNaniusZJi2jFojYemXSWqq5JsmDJqYzM13qsb4P8RHRB/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "TANI-KIDS #004",
+  "description": "アメフト選手に返信したTANU-KIDS\n\nタッチダウンを狙って走ります\n短足ですが、すばしっこいです\n\nアメフト選手を夢見る子供の力になります\n",
+  "attributes": [
+    {
+      "value": "American football",
+      "trait_type": "Sports"
+    }
+  ],
+  "minted": "✅"
+}

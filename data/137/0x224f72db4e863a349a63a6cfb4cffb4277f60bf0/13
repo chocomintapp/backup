@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVPssuc7cTPmT5snLExMhXJsUfhWwC9itmkbh1LkVkhGm/nft.png",
+  "tokenId": 13,
+  "description": "Hello, Man with tactical-wear glasses and middle perm.",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#13 CRYPPL - Man with tactical-wear glasses and middle perm.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ]
+}

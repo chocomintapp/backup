@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme34WknB8yBoy9hf7nKNbtJrDTwAfWvW863MDYBMisamC/nft.jpg",
+  "nftContractAddress": "0xb2921657d2caff909580bdee30eccee38c617cf5",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "CollectionNo. A000",
+  "description": "CollectionNo. A000　\n　　　　　　　　　　　　　　　　　　　\nName: 収集人　　\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Date: 04.04.2022　\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Memo: 0 Followers\n",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

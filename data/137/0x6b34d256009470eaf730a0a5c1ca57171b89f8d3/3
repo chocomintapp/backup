@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXZo41dVoY5XxY2QoPTf3PkFfnKUaKb5Emn8NuSdfK4bd/nft.jpg",
+  "tokenId": 3,
+  "description": "",
+  "nftContractAddress": "0x6b34d256009470eaf730a0a5c1ca57171b89f8d3",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "OCN",
+  "attributes": [
+    {
+      "trait_type": "length",
+      "value": "short"
+    },
+    {
+      "trait_type": "color",
+      "value": "yellow"
+    }
+  ],
+  "minted": ""
+}

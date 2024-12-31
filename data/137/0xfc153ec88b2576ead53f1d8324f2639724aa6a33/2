@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfHnTYgctDuR1YNp8G3y6Jwe4nx1SSeSq8uAsJRdL4K5d/nft.png",
+  "tokenId": 2,
+  "description": "焔の九尾アイコン　cyptoNinja",
+  "nftContractAddress": "0xfc153ec88b2576ead53f1d8324f2639724aa6a33",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "焔の九尾アイコン　cyptoNinja",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

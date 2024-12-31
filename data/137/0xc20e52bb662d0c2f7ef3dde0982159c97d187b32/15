@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbmYa6pA4C4gfWvBEdwD1B5xeRhBpzHsaYq76ZJZ9KvYW/nft.gif",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "#15",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Moonlit night",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#131010",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Vampire",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "bat",
+      "trait_type": "special1"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUcVHcLVv1ffZQMgvyB7dhgZMCLS92nK6aUBtNREUQJSd/nft.png",
+  "tokenId": 65,
+  "description": "Limited 1/1\n\nA little sad Monstarz.\nThis Monstarz is minted by their original contract (MSZ).\n\nThis is fan art of \"Treasure Crocodiles\", by \"Monstarz\".",
+  "nftContractAddress": "0x966b004e16302e7e0cc7d2906eed2c4eff01d670",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#0065 FishBait×Prof.Crypton",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "UnCommon"
+    }
+  ]
+}

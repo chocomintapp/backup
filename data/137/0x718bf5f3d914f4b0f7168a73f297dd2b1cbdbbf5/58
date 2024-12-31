@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZJxGf2pXch1Fs7oeqPBYG2k5UbivA9Lxt2nGEwTopj2m/nft.png",
+  "tokenId": 58,
+  "description": "A girl in the image of Pegasus",
+  "nftContractAddress": "0x718bf5f3d914f4b0f7168a73f297dd2b1cbdbbf5",
+  "animationUrl": "https://ipfs.io/ipfs/QmZJxGf2pXch1Fs7oeqPBYG2k5UbivA9Lxt2nGEwTopj2m/nft.png",
+  "chainId": "137",
+  "name": "Pegasus #58",
+  "attributes": []
+}

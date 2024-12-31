@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYCopyHJatoiAYA4T8JzfWJFBpuRjhkZvhzpSPgJsHQhq/nft.jpg",
+  "nftContractAddress": "0x5c74038a4eb322a599e08e15986c3866af9d3848",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "otameshi1",
+  "description": "",
+  "attributes": [
+    {
+      "value": "aaa",
+      "trait_type": "a"
+    },
+    {
+      "value": "bbb",
+      "trait_type": "b"
+    }
+  ]
+}

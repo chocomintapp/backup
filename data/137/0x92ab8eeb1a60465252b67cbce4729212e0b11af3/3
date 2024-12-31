@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWFRCvWrp7UgmB5LFRHM5ACNLmLuq1wgATpsnohjKn8pP/nft.jpg",
+  "tokenId": 3,
+  "description": "MIX001",
+  "nftContractAddress": "0x92ab8eeb1a60465252b67cbce4729212e0b11af3",
+  "animationUrl": "https://ipfs.io/ipfs/QmS8ah4ixTkoh5rTrPC6f9quTYpgLCPhZZLGhkELUv26qs/nft.glb",
+  "chainId": "137",
+  "name": "CUBE #POTTERY PRESS",
+  "minted": "✅"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWQDkiCXJg4rW6aPhvhDTVFTM6Zkd6xYdPiDiaoEFCgzP/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 69,
+  "chainId": "137",
+  "name": "Day30 Syu's Art #87",
+  "description": "パパは力持ちでヒーローみたい。\n\nMy dad is a powerful man and a hero.",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZKHg4Q5WjVWzp4PSaAFWASvQ4EfHofuWRRLKn5Xc32dp/nft.png",
+  "nftContractAddress": "0xb0cda73c36260744dbb84a7e1afc8d4c816b353e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "VeryPongAnimals #000",
+  "description": "It all started with \"PONG\".",
+  "attributes": [
+    {
+      "value": "Dog",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXxuR3JGSggHk3fvsmxHnamkmtng94VYfa34DbtMwuCni/nft.png",
+  "nftContractAddress": "0x4600f09d69dd435a2bee86c7dfbd7ac3d2a34b5d",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "GlitchSnap",
+  "description": "グリロン特典です",
+  "attributes": []
+}

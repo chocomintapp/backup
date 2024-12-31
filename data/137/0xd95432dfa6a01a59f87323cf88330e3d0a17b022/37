@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ2CsDuuDs4XKUq6wcmHCWgUjUYkXFoVMEswLJxna97Ge/nft.jpg",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "137",
+  "name": "大吉 Sun #37",
+  "description": "あなたの太陽になりたい\n\nI want to be your sun\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープ official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection",
+  "attributes": [
+    {
+      "value": "sun",
+      "trait_type": "special item"
+    }
+  ]
+}

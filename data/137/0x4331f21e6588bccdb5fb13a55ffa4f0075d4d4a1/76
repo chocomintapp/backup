@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSev93SRnja6bedVKJ7CiTcLRmCMUW3kQ79JDc7vsBNmC/nft.png",
+  "tokenId": 76,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**CRUSADER Mk.II**  \nIt is an agile cruise tank that amazed the Germans on the North African front.  \nII, an improved version of the Mk. I, was more reliable and had a maximum armor of 49mm.\n\nII was more reliable, and its maximum armor was increased to 49mm. The Crusader was almost equal in performance to the German Tank III, and served well as a support for the British tank corps until sufficient forces were in place.\n\nThis silhouette is an early production Mk. II equipped with a machine gun tower.\n\n**クルセーダー巡航戦車 Mk.II**  \n北アフリカ戦線でドイツ軍を驚嘆させた俊足の巡航戦車です。\n\nMk.I を改良したMk.IIは信頼性も向上し、最大装甲も49mmにまで増加しました。ドイツ軍のIII号戦車とほぼ互角の性能を持ったクルセーダーは十分な戦力が整うまでの間、英軍戦車隊の支えとして役目を果たしました。\n\n機関銃塔を装備したMk.II（前期生産型）のシルエットになります。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0076 CRUSADER Mk.II",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "UK"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

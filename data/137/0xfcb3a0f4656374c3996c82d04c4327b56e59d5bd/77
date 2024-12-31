@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXoSmMyC1bQYfgX4mcqyJ7Gg4NLL1DkwKYR4icFX1VgVy/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 77,
+  "chainId": "137",
+  "name": "#0073_Niton_YRBK_RRYBK_Bst",
+  "description": "0073_Niton_YRBK_RRYBK_Bst\nブーストアイテムにて変化しています！",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Dark Red",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Raw Umber",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    },
+    {
+      "value": "Metallic",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Afro",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Heart",
+      "trait_type": "Eye"
+    }
+  ]
+}

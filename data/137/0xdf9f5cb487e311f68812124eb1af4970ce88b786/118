@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSoRzh8bwTBNrsnxFKGke9VLYbuxjen64s83pgK1wfna1/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 118,
+  "chainId": "137",
+  "name": "Working Ganmichan #29",
+  "description": "一見可憐に見えるが、バッサバッサと斬りまくる！！痛快アクション、がんみちゃん！！",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "samurai",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

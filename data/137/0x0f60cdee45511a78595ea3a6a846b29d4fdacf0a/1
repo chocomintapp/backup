@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdM8pTYjbCh5Aj6pdUGamqySY7g2arJ5nnPeFRQ7gKYkE/nft.jpg",
+  "tokenId": 1,
+  "description": "独自コントラクトのテストです",
+  "nftContractAddress": "0x0f60cdee45511a78595ea3a6a846b29d4fdacf0a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "独コン テス太",
+  "attributes": [
+    {
+      "trait_type": "power",
+      "value": "5"
+    },
+    {
+      "trait_type": "balance",
+      "value": "4"
+    },
+    {
+      "trait_type": "beauty",
+      "value": "8"
+    }
+  ],
+  "minted": ""
+}

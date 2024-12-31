@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQEvfod7kB9uBEq5Zpqt5Zja6x9ngC3nGtQSHe4Pr3jnZ/nft.png",
+  "nftContractAddress": "0x63750abba09ec9699536753e9f5d8172db111457",
+  "animationUrl": "",
+  "tokenId": 105,
+  "chainId": "137",
+  "name": "PachiMon #00105",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Transparent",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Mad",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Octopus",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "None",
+      "trait_type": "Accessory"
+    }
+  ]
+}

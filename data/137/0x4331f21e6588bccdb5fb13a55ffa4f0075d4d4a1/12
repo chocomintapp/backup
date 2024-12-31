@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeLXrLp8iu4zoYEoT2RQh8CvWDa7sdvfvbCydH1THxZw6/nft.png",
+  "tokenId": 12,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KV-2 Heavy Tank**  \nThe KV-2 is a Soviet heavy tank with a 152mm howitzer mounted on a huge turret that can be described as unbalanced.\nThe Germans called it the \"Gigant\" and feared it.\n\nIt was extremely powerful in breaking through fortified positions, which was its original purpose.\nSince it was a giant over three meters high, it was affectionately called \"Dreadnought\" (land battleship) by the Soviet soldiers. \n\n**KV-2 重戦車**  \nアンバランスとも言える巨大な砲塔に152mm榴弾砲を搭載し\nドイツ兵がギガント（巨人）と呼び恐れたソ連の重戦車です。\n\n本来の目的である要塞陣地突破には絶大な威力を発揮しました。\n高さ3mを優に越える巨体からソ連兵の間では\n親しみを込めて「ドレッドノート」（陸上戦艦）と呼ばれていました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0012 KV-2",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Soviet"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ],
+  "minted": "✅"
+}

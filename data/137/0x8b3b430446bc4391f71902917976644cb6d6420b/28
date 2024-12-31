@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYFR7ft1W9rji8F14kRu1XeiEBATJpPYZAZAMHquYSiyE/nft.PNG",
+  "nftContractAddress": "0x8b3b430446bc4391f71902917976644cb6d6420b",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "KC #28",
+  "description": "kitonaart collection\n\nKC #28\n\nhttps://x.com/kitona0223/status/1714759499721150650\n\n© 2023 kitona0223",
+  "attributes": [
+    {
+      "value": "張文甘龍",
+      "trait_type": "Name"
+    }
+  ],
+  "minted": "✅"
+}

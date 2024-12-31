@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYseCdrHrqGSRx5LuDooy9QFAh1ypfKz1VStqffshckYk/nft.jpeg",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "#9 CRYPPL - Magus Devon of the Quantum Downs #6001",
+  "description": "Hello Magus Devon of the Quantum Downs.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "6001",
+      "trait_type": "FRWC_ID"
+    }
+  ]
+}

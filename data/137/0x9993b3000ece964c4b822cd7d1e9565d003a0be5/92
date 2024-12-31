@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVo8J7Ym812Sif78ScBSX3cM8LspXrUU4bZKcVAH4NipH/nft.jpg",
+  "nftContractAddress": "0x9993b3000ece964c4b822cd7d1e9565d003a0be5",
+  "animationUrl": "",
+  "tokenId": 92,
+  "chainId": "137",
+  "name": "Skull neo punks #0092",
+  "description": "Just skull. A collection of 1,000 skull punks that take us back to metaverse.\nNone of the skin, all of the value. 💀💀💀\n",
+  "attributes": [
+    {
+      "value": "WHITE",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "EAGLE bl",
+      "trait_type": "MASK"
+    },
+    {
+      "value": "DOWN VEST",
+      "trait_type": "CLOTHES"
+    }
+  ]
+}

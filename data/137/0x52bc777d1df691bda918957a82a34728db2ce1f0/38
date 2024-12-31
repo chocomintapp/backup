@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYGpWVdiLvoWv4rM2aQ7tqTktqKxWLE8nGyvqrv6ztUw7/nft.png",
+  "tokenId": 38,
+  "description": "Calligraphy Devil #38",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #38",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Glasyalabolas"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Behemoth"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Wrath"
+    }
+  ]
+}

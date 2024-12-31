@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVEiUEvPmD3pc42tvPpRArvjqgwkakKRKcmTWJNVFWyHJ/nft.png",
+  "tokenId": 117,
+  "description": "Contemporary art style Float medjed",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/QmVEiUEvPmD3pc42tvPpRArvjqgwkakKRKcmTWJNVFWyHJ/nft.png",
+  "chainId": "137",
+  "name": "medjed no.117/1000",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

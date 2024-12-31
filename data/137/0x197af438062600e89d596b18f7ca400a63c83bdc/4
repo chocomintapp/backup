@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmReRubeej5bSWPfxJjDz2RSMpcRmpy6SqQ6E8dJb42e6D/nft.png",
+  "tokenId": 4,
+  "description": "Crypto Tamago twitter 500 followers記念\n\nhttps://twitter.com/Crypto_Tamago\nhttps://opensea.io/collection/cryptotamagonft",
+  "nftContractAddress": "0x197af438062600e89d596b18f7ca400a63c83bdc",
+  "animationUrl": "https://ipfs.io/ipfs/QmWc3idi7DbpUVHWGdoKNfAAxp2TRLxA2vktWiq79iaJdB/nft.gif",
+  "chainId": "137",
+  "name": "Crypto Tamago x Itadakimasu Man collab",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

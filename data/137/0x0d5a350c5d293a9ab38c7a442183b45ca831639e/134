@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZAFbfYx4eTUB1a4bUiMAadfXfs39ksQ8X5ASya7YNjgg/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 134,
+  "chainId": "137",
+  "name": "Day66 Umitsuru's Art",
+  "description": "紳士でありたい。\n\nI want to be a gentleman.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

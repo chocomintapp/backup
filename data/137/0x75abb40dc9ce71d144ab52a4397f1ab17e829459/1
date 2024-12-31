@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfJJ69JTtXUqSHKACKFFjQuxGwbzyD5RZj9oPP8mos55M/nft.gif",
+  "nftContractAddress": "0x75abb40dc9ce71d144ab52a4397f1ab17e829459",
+  "animationUrl": "https://ipfs.io/ipfs/QmfJJ69JTtXUqSHKACKFFjQuxGwbzyD5RZj9oPP8mos55M/nft.gif",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "ウサパラくん",
+  "description": "パラ！",
+  "attributes": [],
+  "minted": "✅"
+}

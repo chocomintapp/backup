@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVUeZjm71gjuYVy8TSzLVE8mPMgoAaSBNnxZySEzD9DHp/nft.jpg",
+  "tokenId": 2,
+  "description": "Karin♡｜#000 is an original work of Karin♡",
+  "nftContractAddress": "0xdce0cfca093352eb277c55cfdddf7431bf24df6a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Karin♡｜#000",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Original"
+    }
+  ]
+}

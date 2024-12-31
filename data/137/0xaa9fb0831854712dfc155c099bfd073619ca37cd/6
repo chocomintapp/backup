@@ -1,0 +1,56 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXuwFpetNMzneYktqmGu4Kgt1QnBYJMMuatjgKWoU21tW/nft.jpeg",
+  "nftContractAddress": "0xaa9fb0831854712dfc155c099bfd073619ca37cd",
+  "animationUrl": "https://ipfs.io/ipfs/QmdEQuW9T6godhXwAxSq4HqhGDF8iaM1CArUveYMmuDQuL/nft.mp4",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "MILLIN-11",
+  "description": "NUMERO 11 DE 27",
+  "attributes": [
+    {
+      "value": "FONDO",
+      "trait_type": "BLANCO "
+    },
+    {
+      "value": "LUNAR",
+      "trait_type": "ROJO "
+    },
+    {
+      "value": "CABELLO",
+      "trait_type": "NEGRO"
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "CAFE"
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "TOMATE "
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "ANARAJADO "
+    },
+    {
+      "value": "PIEL ",
+      "trait_type": "PIEL "
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "AMARILLO"
+    },
+    {
+      "value": "RASGO ",
+      "trait_type": "ROJO OSCURO "
+    },
+    {
+      "value": "3D ",
+      "trait_type": "3D "
+    },
+    {
+      "value": "MORADO",
+      "trait_type": "MORADO"
+    }
+  ],
+  "minted": ""
+}

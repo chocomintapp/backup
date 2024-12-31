@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSyQCEGfjR3kxEw7xmCB3cZdehGsNC3cZbGe6m2zMNwr8/nft.png",
+  "tokenId": 1,
+  "description": "I made a cute character",
+  "nftContractAddress": "0x8b53f0b7b5295576e62ee1bd2084c5199456570f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Poping Iceman"
+}

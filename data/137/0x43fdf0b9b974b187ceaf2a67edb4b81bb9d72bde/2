@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNjmyGuBmaTcfExz4ZtvU1u9dpafWSg3Y1ho4GwEamMQ9/nft.jpeg",
+  "tokenId": 2,
+  "description": "New world",
+  "nftContractAddress": "0x43fdf0b9b974b187ceaf2a67edb4b81bb9d72bde",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "New world"
+}

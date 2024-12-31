@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRskqjKjhWJ8wRoCNWFQxUYvePk7ki8cQYVx8kTJTL5Lx/nft.png",
+  "nftContractAddress": "0x2a4961a4abfb884fcd36b597e4044f55455d191f",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "NoisyLongAnimals #14",
+  "description": "Secondary works of VeryLongAnimals",
+  "attributes": [
+    {
+      "value": "Gorilla",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPndYJGu8BUFVLRhMS6MPBDHXDtKQwEP9mxFofFLNKX9a/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 96,
+  "chainId": "137",
+  "name": "Day39 Syu's Art #114",
+  "description": "パパの大雑把なところが好きじゃないです。\n\nI don't like my dad's sketchiness.",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

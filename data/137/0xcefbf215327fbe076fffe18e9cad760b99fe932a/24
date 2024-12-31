@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfS9aRoUyLgxtcMaA9npBnkC9fZR6NhKw9HQEm33dGQt4/nft.jpg",
+  "tokenId": 24,
+  "description": "24/101  \nTaken on Feb 3, 2013  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #24",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "item",
+      "value": "ship"
+    }
+  ]
+}

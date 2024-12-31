@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmduX49XhTG6jLGSeo1JM7HaUX6LSrtbJ59bFSkFDHzSmz/nft.jpeg",
+  "tokenId": 1,
+  "description": "The sky Rabbit",
+  "nftContractAddress": "0x2c335e25c3f3faeb27b648fab3c1647b9bf3dce1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Rabbit"
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXKwBfA4Sq5igkHoXMWoL7xbJaaZJrSWRY3bv2xFe6WvV/nft.png",
+  "tokenId": 61,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #61",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Crocodile"
+    }
+  ],
+  "minted": "✅"
+}

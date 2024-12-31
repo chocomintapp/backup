@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaNj5pmkZ42o1W8mMtrUEoPLa7jhAUfYZ34ZmhAuoYdkY/nft.jpg",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "VeryLongAnimalsEveryday",
+  "description": "【毎日ベリロン】\n【VeryLongAnimalsEveryday】\nNo.6\n「積み重ねが君を長くする」\n\"Accumulation makes you longer \"",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "No."
+    }
+  ]
+}

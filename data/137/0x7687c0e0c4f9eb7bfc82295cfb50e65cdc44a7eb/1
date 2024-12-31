@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb5Ufjg1Hs6TvFd2SStCRhjCH16xv864XtgUBcQXYs9uA/nft.jpg",
+  "tokenId": 1,
+  "description": "Apple, it is red and delicious.",
+  "nftContractAddress": "0x7687c0e0c4f9eb7bfc82295cfb50e65cdc44a7eb",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Apple",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

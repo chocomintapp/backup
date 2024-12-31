@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXZN72szg4av4M3vKVG8rd3LfnwEA6sz3659SezZ19aLw/nft.png",
+  "tokenId": 13,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #13",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Cow"
+    }
+  ]
+}

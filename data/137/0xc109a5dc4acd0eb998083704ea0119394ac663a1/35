@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV9v3z1JPdk2x69m14mw3dppZhjAMPZBKxPfFxsUuc5o4/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "137",
+  "name": "#35",
+  "description": "frog",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Frog",
+      "trait_type": "RACE"
+    }
+  ]
+}

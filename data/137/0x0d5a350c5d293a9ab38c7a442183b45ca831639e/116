@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUX9xfiRqBAuTMXi7noqrE3EScVKNKoBr8bs45wf1Jb8X/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 116,
+  "chainId": "137",
+  "name": "Day48 Umitsuru's Art",
+  "description": "最近、トマト食べてないな。\n\nI haven't eaten tomatoes lately.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

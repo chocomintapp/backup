@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcCdhpYjV6MTWRBu3TdyhA2CQHZvBVXdmXRo96RJxt2DS/nft.png",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 105,
+  "chainId": "137",
+  "name": "Day42 Umitsuru's Art #123",
+  "description": "果物シリーズ始めました。\n\nI have started a fruit series.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

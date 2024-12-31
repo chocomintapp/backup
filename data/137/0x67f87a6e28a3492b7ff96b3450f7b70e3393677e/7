@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYfq8bieYmE1kUHxWbd2pzvMHn9iZgmxLHHVfzF4Frg5J/nft.png",
+  "nftContractAddress": "0x67f87a6e28a3492b7ff96b3450f7b70e3393677e",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "VeryPoliticalLongAnimals #057",
+  "description": "Minister of Land, Infrastructure and Transport",
+  "attributes": [
+    {
+      "value": "Hippo",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Grade"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSqaKSoRLKM3RXLZqYoXw9s2GuhQTFLL9k53RRUe6ZB4x/nft.jpg",
+  "tokenId": 1,
+  "description": "LRYUの作品HHHへ飛びます。\n#音ドラッグ",
+  "nftContractAddress": "0x7c65d37f7155054f22b348dd3cbaa0e6eb94bf0d",
+  "animationUrl": "https://ipfs.io/ipfs/QmZ1gtNx6oBiEzHY2UrLJPd3fTvwJcQYu1vXauDEmNg2ZQ/nft.mp4",
+  "chainId": "137",
+  "name": "HHH",
+  "minted": "✅"
+}

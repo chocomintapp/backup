@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRheUpMU2SAxehVjrtjLVR9CWLAf9sj32zR7KhRiywaqb/nft.jpg",
+  "nftContractAddress": "0xd4f6e24e1db263269bef6502900768b9ecae0c36",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "CRUNK_AREA_0002",
+  "description": "Capo-Squad 1/Hell‘s Walker/Gangs                                                                    \nEvery character in the CRUNK AREA has a role to play, and everyone is hero.",
+  "attributes": [
+    {
+      "value": "Super Rare",
+      "trait_type": "Rarity"
+    }
+  ],
+  "minted": "✅"
+}

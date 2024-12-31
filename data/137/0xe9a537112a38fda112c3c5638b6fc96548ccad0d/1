@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSpfXWFuYH31UmFTc8Xkx6w26aZ7EmPyFdgmY3o4j1WR9/nft.png",
+  "tokenId": 1,
+  "description": "[national dogs_sidegirl] series, anthropomorphic illustrations of Shiba Inus native to Japan.",
+  "nftContractAddress": "0xe9a537112a38fda112c3c5638b6fc96548ccad0d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "national dogs_Shibainu",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

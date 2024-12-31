@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWSLuezrzQFaP617XEpahZL34aco5orU3np5QFYFxowSG/nft.png",
+  "tokenId": 2,
+  "description": "Hello BITCONUSI.",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#2 CRYPPL - BITCONUSI",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

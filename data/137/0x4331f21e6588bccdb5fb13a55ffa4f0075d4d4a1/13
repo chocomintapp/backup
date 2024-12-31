@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmddgdkMBDwqSDdq8hyh1DZdECjMkbk8XzZw8S3gRh1i32/nft.png",
+  "tokenId": 13,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TYPE97 Chi-ha**  \nThis is a medium tank with an impressive bowl-shaped antenna.\nIt was the main tank of Japan in the Pacific War.\n\nCompared to the main tanks of Europe and America, it was ineffective in both attack and defense.\nIt played an active role in supporting the infantry.\n\nAfter the war, modified vehicles for the purpose of obstacle removal were used by the police.\nIt is the most familiar tank to Japanese people.\n\n**九七式中戦車 チハ**  \n短砲身の57mm戦車砲と\n鉢巻アンテナが印象的な九七式中戦車チハです\n太平洋戦争における日本の主力戦車でした。\n\n列強の主力戦車に比べると攻撃/防御力ともに非力でしたが\n歩兵支援戦車として活躍をしました。\n\n戦後には障害物撤去を目的とした改造車輛が警察で使用されており\n日本人にとってはもっとも馴染み深い戦車かもしれません。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0013 TYPE97 Chi-ha",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

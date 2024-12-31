@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ9nh86zcxhMTjM1ymrfLQHhWPfuU8eYdtvuFNRmDyP7v/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 118,
+  "chainId": "137",
+  "name": "#0113_Niton_CBCW_RW",
+  "description": "#0113_Niton_CBCW_RW",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Blaze Orange",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Dodger Blue",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Electric Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ],
+  "minted": "✅"
+}

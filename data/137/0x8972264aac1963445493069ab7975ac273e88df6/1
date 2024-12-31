@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZn8XacVJwaX2qVhFNmmu7uErzuVjf3mFv1hjiswDkSDC/nft.gif",
+  "tokenId": 1,
+  "description": "Great Magic Ethereum!!!",
+  "nftContractAddress": "0x8972264aac1963445493069ab7975ac273e88df6",
+  "animationUrl": "https://ipfs.io/ipfs/QmZn8XacVJwaX2qVhFNmmu7uErzuVjf3mFv1hjiswDkSDC/nft.gif",
+  "chainId": "137",
+  "name": "Wallet-Man #01",
+  "attributes": [
+    {
+      "trait_type": "race",
+      "value": "animal"
+    },
+    {
+      "trait_type": "item",
+      "value": "Bitcoin Balloons"
+    },
+    {
+      "trait_type": "item",
+      "value": "ETH Shield"
+    }
+  ]
+}

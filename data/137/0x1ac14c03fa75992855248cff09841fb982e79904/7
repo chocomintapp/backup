@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXrTn9GvGvR4VxXiX2vABNTv6XHJqUrM41RwBL5L8dojF/nft.gif",
+  "nftContractAddress": "0x1ac14c03fa75992855248cff09841fb982e79904",
+  "animationUrl": "https://ipfs.io/ipfs/QmXrTn9GvGvR4VxXiX2vABNTv6XHJqUrM41RwBL5L8dojF/nft.gif",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "WavyMetaHeroes #7",
+  "description": "Created by Konipu",
+  "attributes": [
+    {
+      "value": "NFTify事業部責任者",
+      "trait_type": "TYPE"
+    }
+  ]
+}

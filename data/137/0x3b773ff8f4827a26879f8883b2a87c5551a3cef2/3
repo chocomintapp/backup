@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWEKD1VjbJCx6547BDTGEufC3hALHkLHCxx7P6qnJjMf8/nft.jpg",
+  "nftContractAddress": "0x3b773ff8f4827a26879f8883b2a87c5551a3cef2",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "OTSTEST3",
+  "description": "descfripto",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "2022",
+      "trait_type": "year"
+    }
+  ]
+}

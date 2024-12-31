@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPb3R6Nip7MJoEWGsbbjLxqeEfjSSYJPWU2hMPZaQ2owq/nft.jpg",
+  "tokenId": 1,
+  "description": "Taken at East Timor",
+  "nftContractAddress": "0x2168560d818a2e207bad924fdb98f2ec0622ff5f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Say Cheese",
+  "attributes": []
+}

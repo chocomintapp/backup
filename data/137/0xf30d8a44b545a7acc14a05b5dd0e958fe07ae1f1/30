@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmanbchJwJsRc8AvRxZyxfFvqk1Rcezz9u8KfhEQs6eSi9/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "137",
+  "name": "PPP #030",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gradation",
+      "trait_type": "Backgroung"
+    },
+    {
+      "value": "Twin tail GL",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Women’s Baseball uniform RD",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Baseball cap RD",
+      "trait_type": "Accessories"
+    }
+  ]
+}

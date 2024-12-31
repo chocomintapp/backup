@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYbzGxdWyCZf3KAvn6QVXqSxaXFR1RzZAnurh3jFoEB7u/nft.png",
+  "tokenId": 59,
+  "description": "なぜ箱に入るかって？　そこに箱があるからだ。\n\nWhy do I have to go in the box?　Because that's where the box is.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Trunkfish（ハコフグ）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Fish"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

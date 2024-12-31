@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUhwDp3zcWz3pLs9vd7pUPh11ePQNnSyZejc96gsMZWS3/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 176,
+  "chainId": "137",
+  "name": "WMM #0176 TYPE97 Te-ke",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TYPE97 Te-ke**  \nThe Type 94 Light Armored Vehicle (TK vehicle), which proved the ease of use of bean tanks\nIt was developed as a developmental type.\n\nAlthough it was larger than the Type 94, its performance was improved in all aspects, including running, offensive, and defensive, due in part to its increased power output.\n\nIn World War II, the bean tank did not have many opportunities to play an active role in the rapidly evolving development of tanks, but it supported a rapid advance at the beginning of the war with its own mobility.\n\nIt was also the last armored light vehicle developed by the Japanese Army.\n\n**九七式軽装甲車 テケ**  \n豆戦車の使い勝手の良さを証明した九四式軽装甲車（TK車）の\n発展型として開発されました。\n\n九四式に比べて大型化しましたが、出力の向上もあり走・攻・守、全ての面で性能が向上しました。\n\n第二次大戦においては、急激に進化する戦車開発の中で、豆戦車の活躍の場は多くはありませんでしたが、持ち前の機動力で開戦時の快進撃を支えました。\n\n日本陸軍が最後に開発した装軌式軽装甲車でもあります。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

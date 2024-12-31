@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaZ2ASoCFM2vQEpQ3VGWW7RinwPf5ZdkjFkxUgX7UvAkU/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/QmaZ2ASoCFM2vQEpQ3VGWW7RinwPf5ZdkjFkxUgX7UvAkU/nft.gif",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "WavyLongAnimals #1",
+  "description": "ベリロン二次創作",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Penguin",
+      "trait_type": "TYPE"
+    }
+  ]
+}

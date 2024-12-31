@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbU7zsMR93bdMhjNFUcHofAP2aPL2kMYDPuuTm4SsqgoM/nft.jpg",
+  "tokenId": 1,
+  "description": "test dayo",
+  "nftContractAddress": "0x65ef7295a8cb2c9e0e43fd8223f9f43e91452985",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "marimo_usagi",
+  "minted": "✅"
+}

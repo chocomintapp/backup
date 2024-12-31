@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQqxFd2FdNz6ejnAemcbp1ucRh3y1W6XjiMNd9LB25gPq/nft.png",
+  "nftContractAddress": "0x54c5e0b104adb8765a54d094a7d68c1d5701de4f",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "137",
+  "name": "#8-2 - 3",
+  "description": "This icon was created from a comic.",
+  "attributes": [
+    {
+      "value": "Khloe",
+      "trait_type": "Cast"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXvQ718KD4nJpb85T1Dq3XzDNGahAbdw73hVKNMhsY6o8/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 51,
+  "chainId": "137",
+  "name": "Day24 Syu's Art #69",
+  "description": "パパより絵が上手い自信がある。\n\nI'm confident that I can draw better than my dad.",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

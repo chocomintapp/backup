@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXAYrX3meT56eYqrPP99JfVWtbXE8e8w2CbyhtmaJN6CY/nft.png",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "#7 In the Hole.",
+  "description": "METAKAWAII x CryptoMaids Collaboration Commemorative Episode",
+  "attributes": [
+    {
+      "value": "English",
+      "trait_type": "Language"
+    }
+  ],
+  "minted": "✅"
+}

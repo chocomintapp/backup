@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeBPoZbd8LZ4cT26t2m46SeWbY3ha9vuXSw6sWiA52JDc/nft.png",
+  "nftContractAddress": "0xe6abc795636f5d323b7b3bf3e63a3fe88d476f51",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "D・モルガナ",
+  "description": "テスト用D",
+  "attributes": [
+    {
+      "value": "スケィス",
+      "trait_type": "R:X"
+    }
+  ]
+}

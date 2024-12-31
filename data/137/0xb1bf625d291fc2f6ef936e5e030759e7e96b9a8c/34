@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNj5zyr7ghksRDrqEeWHHoD28u9NknzGhSMFm9QHoxwZV/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "137",
+  "name": "HUNIMAL #34",
+  "description": "Human + Animal = Hunimal",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Rabbit + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Naked",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Updos",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Easy listening",
+      "trait_type": "STYLE"
+    }
+  ]
+}

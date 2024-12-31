@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVHtv1SMCxQvTcmmErj4iqm8WJ9hAK51bHMVpfmeDpAER/nft.png",
+  "nftContractAddress": "0x63750abba09ec9699536753e9f5d8172db111457",
+  "animationUrl": "",
+  "tokenId": 134,
+  "chainId": "137",
+  "name": "PachiMon #00134",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Hump",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Dot T1 red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Cap",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Earring",
+      "trait_type": "Accessory"
+    }
+  ]
+}

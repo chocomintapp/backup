@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQXAP27WN8N5T5khuqRAWzvjwZCGtRnSbiHH8enVNkMQC/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 243,
+  "chainId": "137",
+  "name": "#243",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#FFD3BC",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#FFFFFF",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Skull in the back alley",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull",
+      "trait_type": "face"
+    },
+    {
+      "value": "Combat readiness",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Fedora hat",
+      "trait_type": "Accessory1"
+    },
+    {
+      "value": "Cigar",
+      "trait_type": "Accessory2"
+    },
+    {
+      "value": "Custom-made gun",
+      "trait_type": "Accessory3"
+    }
+  ]
+}

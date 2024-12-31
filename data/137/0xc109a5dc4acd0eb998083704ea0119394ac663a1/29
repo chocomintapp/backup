@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRZNPZF3TPpJu4S8j3eNT2uSLW1fkAqYUoTagKhAJvUG6/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "137",
+  "name": "#29",
+  "description": "magnet",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Magnet",
+      "trait_type": "RACE"
+    }
+  ]
+}

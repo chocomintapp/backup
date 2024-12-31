@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT9jY6zTxX7JpPRBq36pNwBe7czRZ911o9Zpqq1RhSPtK/nft.png",
+  "tokenId": 6,
+  "description": "This NFT is made for metaverse. \nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x7b18df0916bfa1bc3d3198c376c79f87b0110564",
+  "animationUrl": "https://ipfs.io/ipfs/QmagL9Hf8VsDgPpcMFCKcic2MXjZJRXKxcG1CzMu8hRhhq/nft.png",
+  "chainId": "137",
+  "name": "#6 Yinyang Tentacles Pattern (Black-TP)",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "Tentacles"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Pattern"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    }
+  ]
+}

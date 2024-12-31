@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYU1DLLEda6GaZT2yXnzreWN4AXsjBV99PZgU7vP3Xnkw/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 93,
+  "chainId": "137",
+  "name": "VeryLongAnimals #93",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Beaver",
+      "trait_type": "TYPE"
+    }
+  ]
+}

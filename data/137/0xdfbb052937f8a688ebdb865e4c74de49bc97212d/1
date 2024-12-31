@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV8ffw2ufDBByZzehhNZQSUFKNBALB2HwdUDF3cLMP2ZN/nft.jpg",
+  "nftContractAddress": "0xdfbb052937f8a688ebdb865e4c74de49bc97212d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "namie",
+  "description": "carbon emission",
+  "attributes": []
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRoE3xmBeZYaVSey7qEDqg4N8B466t874c9BkCntJ2yk1/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 48,
+  "chainId": "137",
+  "name": "何かが足りないえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "フチュウイ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "モツニ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "ポップコーン",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "ジグソーパズル",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "スギタルハオヨバザルガゴトシ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

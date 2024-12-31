@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVYNdmbRjxReRBFWBhbhakZZYjcD5bEjE6NmPAa6VaXQD/nft.png",
+  "tokenId": 31,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**HAYANAMI 1943**  \nThis silhouette is Destroyer HAYANAMI in 1943.\n\nThis is the twelfth ship of the Yugumo class destroyers.\n\"Hayanami\" is the word for \"violently lapping waves.  \nIt is the only ship name for both the Japanese military and the Self-Defense Forces.\n\nIt was active in escorting the main ship and ran around the front line. She survived two air raids on Rabaul, but in her final battle with the American submarine Harder, she was hit by two torpedoes and sank.\n\n**駆逐艦 早波 1943**  \n夕雲型 駆逐艦の12番艦です。\n\n「早波」は「激しく打ち寄せる波」を表す言葉で、日本軍・自衛隊通じて唯一の艦名です。\n\n主力艦の護衛に活躍し最前線を駆け回り、2度のラバウル空襲をも生き残りましたが最期は米潜水艦ハーダーとの一騎打ちに破れ、魚雷2本が命中、轟沈しました。\n\nこのNFTは1943年頃の早波のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0031 HAYANAMI 1943",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Destroyer"
+    }
+  ]
+}

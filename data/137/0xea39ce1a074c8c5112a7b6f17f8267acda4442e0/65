@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUHyfv81vL3SdtBADYjeBaA1v2j1aZ2RH7dtrQnTprSNo/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 65,
+  "chainId": "137",
+  "name": "TANU-KIDS #64",
+  "description": "仙人に変身したTANU-KIDS\n\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hermit",
+      "trait_type": "History"
+    }
+  ]
+}

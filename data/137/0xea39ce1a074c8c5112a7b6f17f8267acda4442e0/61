@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbzUtr4W7SexnPGFchSkA9UxLTc3s9dhimh4qxcC4Hr3Z/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 61,
+  "chainId": "137",
+  "name": "TANU-KIDS #060",
+  "description": "犬に変身したTANU-KIDS\n\n垂れ耳がチャームポイント",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Dog",
+      "trait_type": "Animal"
+    }
+  ]
+}

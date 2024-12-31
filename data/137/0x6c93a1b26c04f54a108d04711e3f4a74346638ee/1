@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdQpWSQYZ2RF57wYhz5oqVQ8MSMT5qBPCWJcKNxJPZ4sm/nft.png",
+  "tokenId": 1,
+  "description": "Test Uproad.\nThis is the beginning of the history of Cryptosmoke_JP.",
+  "nftContractAddress": "0x6c93a1b26c04f54a108d04711e3f4a74346638ee",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cryptosmoke_JP Symbol",
+  "attributes": [
+    {
+      "trait_type": "Introduce",
+      "value": "SmokerJP"
+    }
+  ]
+}

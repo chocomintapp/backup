@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUw4GPQtmAFkH3TVNd8iRyRs21c11GzjKm4ZbUfokiN4Q/nft.png",
+  "nftContractAddress": "0x3561e84a5a2d65a980c2d32a00d1b064ea640660",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "1周年記念NFT",
+  "description": "１周年の記念を込めて、三峯みつは皆さんに感謝の気持ちを伝える。\n「応援してくれて、ありがとうございます。」\n\n\nTo commemorate the first anniversary, Mitsumine Mitsumine would like to express his gratitude to everyone:\n\n\"Thank you all for your support throughout this journey. Your encouragement has meant the world to me.\"",
+  "attributes": [
+    {
+      "value": "Wave",
+      "trait_type": "Attribute"
+    }
+  ]
+}

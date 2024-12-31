@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma1RodXNBhBLBkxnjHk6aMmLBpQoXWf7KquCVZorue5mT/nft.jpeg",
+  "tokenId": 1,
+  "description": "Old XP image.",
+  "nftContractAddress": "0x3ed2bef5ab19f842dc2524f5f2ab1f20d6c4fa3c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Kusa #1",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUTLGZEib3QDNXxXqf32zm1CojPVbwprAu5xzkyT5Rh6K/nft.png",
+  "tokenId": 5,
+  "description": "The name of this spook is Crazy Pumpkin. Crazy and fun lovable pumpkin.▼▼▼クレイジーパンプキン、狂って楽しい愛すべきカボチャ。\n",
+  "nftContractAddress": "0x1e8c0f27e044a3432ddd88605c087bb34ff62b7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmUTLGZEib3QDNXxXqf32zm1CojPVbwprAu5xzkyT5Rh6K/nft.png",
+  "chainId": "137",
+  "name": "Trick or Token",
+  "attributes": []
+}

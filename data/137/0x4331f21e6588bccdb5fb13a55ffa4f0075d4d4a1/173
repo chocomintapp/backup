@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVYp4Z4wUkTbphE43Ubpjwh1U46zriQ5jSpmoqHdtgbAu/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 173,
+  "chainId": "137",
+  "name": "WMM #0173 M24 CHAFFEE",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**M24 CHAFFEE**  \nThis light tank is the successor to the M3/M5 Light Tank Stuart.\n\nAlthough the Stuart was originally designed with excellent balance, the 37mm gun was seriously lacking in firepower, so this tank was designed with the assumption that it would be equipped with a 75mm gun.\n\nAs a result, the weight was increased by about 3 tons, but in addition to the mobility typical of a light tank, the Stuart became an extremely superior weapon with amazing firepower. It was used in the Korean War and Vietnam War after World War II.\n\nIt is also unusually heavy for a U.S. tank. It is also characterized by the use of torsion bars in the undercarriage, which is unusual for a U.S. tank.\n\nTranslated with www.DeepL.com/Translator (free version)\n\n\n**M24 チャーフィー 軽戦車**  \nM3/M5軽戦車スチュアートの後継にあたる軽戦車です。\n\nもともと優秀なバランス設計だったスチュアートですが、37mm砲の火力不足が深刻だったことから、本車輌では75mm砲搭載を前提として設計されました。\n\n結果的に重量は3トン程度増加しましたが、軽戦車らしい機動力に加え、驚異的な火力を持つ非常に優秀な兵器となり、第二次大戦後も朝鮮戦争やベトナム戦争で使用されています。\n\nアメリカ軍戦車にしては珍しく足回りにトーションバーを採用しているのも特徴です。",
+  "attributes": [
+    {
+      "value": "USA",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

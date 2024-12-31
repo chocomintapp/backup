@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTqj8EnH3VZhkSKntJS74wwi9ax3wT6YRhFsF5E7AoKNi/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 81,
+  "chainId": "137",
+  "name": "Day34 Syu's Art #99",
+  "description": "いろんなペン先を試してみるのが楽しい。\n\nIt's fun to try out different nibs.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

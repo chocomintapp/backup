@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeWsuijV1uyCsycppsUMDYcDBe93v3LDwYQ6oTjUQA5dK/nft.png",
+  "tokenId": 44,
+  "description": "今日もダルいぜ。\n\nI'm tired again today.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cat（Yankee　ヤンキー）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

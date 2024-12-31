@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRhr11Ax1YGJXveS7Jr3GvgKsxxZnXVw5wBuKZEpPCDAh/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 254,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #254",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Dolphin",
+      "trait_type": "TYPE"
+    }
+  ]
+}

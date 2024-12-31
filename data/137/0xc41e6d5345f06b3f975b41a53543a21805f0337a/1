@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVkKqWrYQSAefNC83qM1y3QjHA9kmZgjHt1TcjRE8dNz6/nft.mp4",
+  "nftContractAddress": "0xc41e6d5345f06b3f975b41a53543a21805f0337a",
+  "animationUrl": "https://ipfs.io/ipfs/QmVkKqWrYQSAefNC83qM1y3QjHA9kmZgjHt1TcjRE8dNz6/nft.mp4",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Kenkura Frends 2023",
+  "description": "けんくらのお友達のしるし",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

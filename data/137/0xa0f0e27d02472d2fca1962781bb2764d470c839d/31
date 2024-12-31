@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYsiZKnZjs1bL1ERkRegNa4fFJSgup7rt3SqoLf68JWJB/nft.png",
+  "tokenId": 31,
+  "description": "クチバシが重くて肩が凝る。\n\nMy beak is heavy and my shoulders are stiff.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Shoebill（ハシビロコウ）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Shoebill"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

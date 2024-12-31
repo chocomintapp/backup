@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVSea8iGnSoW87he3w7KJj4sAHnB6hG42fjfcdn35jVyG/nft.png",
+  "tokenId": 1,
+  "description": "てすとニャ",
+  "nftContractAddress": "0x5c5402a87f98da1cf4d5826eac09732d41e78461",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "RibbonCatsTest #1",
+  "attributes": []
+}

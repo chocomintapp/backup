@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWH8SkTTUL9C4Pps1Sr5AtPDS7zJjMSLE49QhKBmdr4ry/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 69,
+  "chainId": "137",
+  "name": "TANU-KIDS ＃068",
+  "description": "アヌビスに変身したTANU-KIDS\n\n",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Anubis",
+      "trait_type": "History"
+    }
+  ]
+}

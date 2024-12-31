@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNvmx1fsGGJMuXWK5Sa3yVRZDv8hSdTyJqJh2VZhjGxtf/nft.png",
+  "nftContractAddress": "0x2ac9b933b7fbea9b999f23c1f9ec5dd1fd649b4f",
+  "animationUrl": "https://ipfs.io/ipfs/QmNvmx1fsGGJMuXWK5Sa3yVRZDv8hSdTyJqJh2VZhjGxtf/nft.png",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "第3回GORO MEME CONTEST GODトロフィー",
+  "description": "第3回GORO MEME CONTEST GODトロフィー\n\n優勝者　Jizo\n@jizo_ts",
+  "attributes": [
+    {
+      "value": "Jizo @jizo_ts",
+      "trait_type": "優勝者"
+    }
+  ]
+}

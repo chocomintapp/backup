@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdWFAb96F2JWn6Si27tPcGBRDbar4M8iS8nZRaLhMud47/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "137",
+  "name": "大吉 Clothespin #30",
+  "description": "今日は洗濯バサミを使うのに最適な日です。笑\n\nToday is the perfect day to grab a clothespin.hahaha\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープ official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection",
+  "attributes": [
+    {
+      "value": "Clothespin",
+      "trait_type": "special item"
+    }
+  ]
+}

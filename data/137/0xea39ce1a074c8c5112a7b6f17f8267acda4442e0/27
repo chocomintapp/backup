@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYhZpZWBYYCLX6bcA3nATjJEajMYfDNKtjhNYVJnVzmMA/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "137",
+  "name": "TANU-KIDS #26",
+  "description": "青ジャージを着たTANU-KIDS \n\n変身でなくただジャージを着ただけ",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Jersey",
+      "trait_type": "Cloehes"
+    }
+  ]
+}

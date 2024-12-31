@@ -1,0 +1,60 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWmi2EEra5SdFR6ndtfMJL43vFyUV4SNbnycT2j6YB7xz/nft.png",
+  "nftContractAddress": "0x65530e6f8d0bf469f1be6a2d00c3019e37c28e8d",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "137",
+  "name": "Drago #20078",
+  "description": "League of Kingdoms DRAGO",
+  "attributes": [
+    {
+      "value": "20078",
+      "trait_type": "ID"
+    },
+    {
+      "value": " Dark",
+      "trait_type": "HORN"
+    },
+    {
+      "value": " Dark",
+      "trait_type": "EYE"
+    },
+    {
+      "value": " Dark",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": " Dark",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Aqua",
+      "trait_type": "WING"
+    },
+    {
+      "value": "Dark",
+      "trait_type": "LEG"
+    },
+    {
+      "value": "Aqua ",
+      "trait_type": "TAIL"
+    },
+    {
+      "value": "0",
+      "trait_type": "FUSION"
+    },
+    {
+      "value": "0 ",
+      "trait_type": "BREED COUNTS"
+    },
+    {
+      "value": "0 ",
+      "trait_type": "GENESIS "
+    },
+    {
+      "value": "0 ",
+      "trait_type": "LEGENDARY"
+    }
+  ],
+  "minted": "✅"
+}

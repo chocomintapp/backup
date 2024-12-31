@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVNYXqxPe5HDafvApurU3fxieaefxJuXMcXV5TTBMy9KA/nft.png",
+  "tokenId": 5,
+  "description": "From China, we have the Pekinese. \nThe Pekinese is sometimes referred to as \"the dog that doesn't look like a dog, the dog that looks like a cat,\" and it seems to be a dog with a rather capricious personality, not really suitable for beginners.\nHowever, if you build a solid relationship of trust with them, they are obedient dogs that will obey their master.\n\n中国からはペキニーズ。 \nペキニーズは「犬らしくない犬、猫のような犬」と言われることもあり、かなり気まぐれな性格の犬のようで、初心者にはあまり向かない犬のようです。\nでもしっかり信頼関係を築いていれば、主従関係を守る素直なわんちゃんです。",
+  "nftContractAddress": "0x39b11312aaa7cb76aa7e0b3df4d9dc518d58d992",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "national dog’s_Pekinese",
+  "attributes": []
+}

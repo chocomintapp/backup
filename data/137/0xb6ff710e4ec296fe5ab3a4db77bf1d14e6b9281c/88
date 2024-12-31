@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmawo7UJiQw19NYZbJf3iA2xAFLMJdwnbGYKwsE7KU4QU4/nft.png",
+  "nftContractAddress": "0xb6ff710e4ec296fe5ab3a4db77bf1d14e6b9281c",
+  "animationUrl": "",
+  "tokenId": 88,
+  "chainId": "137",
+  "name": "#88",
+  "description": "daddy #88",
+  "attributes": [
+    {
+      "value": "#19,#88",
+      "trait_type": "sibling"
+    }
+  ]
+}

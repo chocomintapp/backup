@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRgZpTDfbycugMkebAiBvTxkZ1Mi5UyVRRjNH8uc7ew8f/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 207,
+  "chainId": "137",
+  "name": "#207",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#C9EA83",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#0044FF",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Crocodile friends",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Lucas",
+      "trait_type": "face"
+    },
+    {
+      "value": "Defensive posture",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Lance",
+      "trait_type": "Accessory1"
+    },
+    {
+      "value": "Holy red stone shield",
+      "trait_type": "Accessory2"
+    }
+  ]
+}

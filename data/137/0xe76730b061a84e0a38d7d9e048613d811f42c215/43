@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXS5bHn4tA88bwWgHi2AFUAmHa73ADrLpcT5PAEkJa8g4/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "137",
+  "name": "THS #035",
+  "description": "【声】",
+  "attributes": [
+    {
+      "value": "goldfish",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "water plant",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

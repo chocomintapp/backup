@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmex9tVjPevtV7cXFtVo45oXC7FitH2qTaRwHR1wf3sh7X/nft.JPEG",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "137",
+  "name": "VerySilentFruits#33 Pomegranate",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Pomegranate",
+      "trait_type": "Fruit"
+    }
+  ]
+}

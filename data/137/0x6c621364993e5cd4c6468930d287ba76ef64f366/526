@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRbnxoccH4Cyv39gMVbij1itbFMPyk4xwhJaCKYPLXU9U/nft.gif",
+  "nftContractAddress": "0x6c621364993e5cd4c6468930d287ba76ef64f366",
+  "animationUrl": "",
+  "tokenId": 526,
+  "chainId": "137",
+  "name": "CryptoGoro #Day526",
+  "description": "CryptoGoro #Day526\n\n08/DEC/2022\n\nWorld famous modern artist Mr.Goro makes his self-portrait every day. Each NFG (Non-Fungible Goro) mint only one. This project will continue until his death. Let’s collect your own Goros!!\n\n1474 days before death.\n\nDedicated for #DIGITOMA2022",
+  "attributes": [
+    {
+      "value": "Heaven",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "World Heritage",
+      "trait_type": "RARITY"
+    },
+    {
+      "value": "Goroist",
+      "trait_type": "JOB"
+    }
+  ],
+  "minted": "✅"
+}

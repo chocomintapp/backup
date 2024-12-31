@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPCGqvW7bb7MuzNDTDSBfqx3gsxWwxTiV7mGwLqmHkbdU/nft.jpg",
+  "tokenId": 1,
+  "description": "Language is the identity of a country or culture. Emoji has given birth to modern communication in the world. KIKI focuses on the Japanese identity \"Kanji\". This is a project to create new communication by arranging and modernizing the design of \"Kanji\" that has been loved for a long time and embodies culture.",
+  "nftContractAddress": "0x350aabfcc62932f96c77bda3ddd9f2cc5300e79c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Kanji",
+  "attributes": []
+}

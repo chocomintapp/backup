@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSMTr8fGpP5Gu3f6k7ZRbohQs9GuFjzktQLwLSmvuFjnK/nft.png",
+  "tokenId": 3,
+  "description": "Sub Parade! The 2nd project of \"Meta Parade!\" [https://opensea.io/collection/meta-parade](https://opensea.io/collection/meta-parade)  Meta Parade! is a project looking to create the world's largest Community-driven virtual talent agency! With 9999 NFTs which work as membership cards in joining the agency.",
+  "nftContractAddress": "0x83ba102953d412566cc8b8438ab0263e0df03e7e",
+  "animationUrl": "https://ipfs.io/ipfs/QmSCc5ksRikxsqzcuFbbZpXtywa7yy6QvsG9U99jfoSmA8/nft.mp4",
+  "chainId": "137",
+  "name": "修正中",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "School Festival"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Space",
+      "value": "Orange And Yellow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink Pigtails"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Orion"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Apron Dress"
+    }
+  ]
+}

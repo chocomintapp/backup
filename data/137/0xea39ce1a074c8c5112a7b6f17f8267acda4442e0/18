@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRVpN4bV3aN4Xi7ZETxY4PgkW4a9EhNgJPBQsVMpgjM5P/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "137",
+  "name": "TANU-KIDS #017",
+  "description": "忍に変身したTANU-KIDS\n\n諜報活動がんばってます\n足は遅いですが耳は良いです",
+  "attributes": [
+    {
+      "value": "Ninja",
+      "trait_type": "History"
+    }
+  ],
+  "minted": "✅"
+}

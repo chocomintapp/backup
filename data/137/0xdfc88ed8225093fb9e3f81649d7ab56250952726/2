@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdypTgUUMdme6pkaHmEZFabgPJnfKWMx2qJkBtF2BwcZo/nft.png",
+  "tokenId": 2,
+  "description": "test",
+  "nftContractAddress": "0xdfc88ed8225093fb9e3f81649d7ab56250952726",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "kagi"
+    }
+  ]
+}

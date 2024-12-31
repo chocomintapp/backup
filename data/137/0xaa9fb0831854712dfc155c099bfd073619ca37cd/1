@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT5aoFjmnvSBiraE4KqRuY7FqT1Pv9Uk5uwSdE4EqFuBj/nft.jpeg",
+  "nftContractAddress": "0xaa9fb0831854712dfc155c099bfd073619ca37cd",
+  "animationUrl": "https://ipfs.io/ipfs/QmdB1XrJKahGorQ7rabf3DUnux4vXNBTwP926ZFHpwHjqB/nft.mp4",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "MILLIN-1",
+  "description": "COMO ES EL PRIMERO ESTE TIENE MAS RECOMPESA QUE OTROS",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "FONDO ",
+      "trait_type": "BLANCO "
+    },
+    {
+      "value": "OJOS",
+      "trait_type": "ROJO "
+    },
+    {
+      "value": "MOLDE Y LETRA ",
+      "trait_type": "NEGRO"
+    },
+    {
+      "value": "RASGOS ",
+      "trait_type": "CAFE"
+    },
+    {
+      "value": "RASGOS ",
+      "trait_type": "TOMATE "
+    },
+    {
+      "value": "RASGOS",
+      "trait_type": "ANARAJADO "
+    },
+    {
+      "value": "PIEL",
+      "trait_type": "PIEL "
+    },
+    {
+      "value": "BOCA .",
+      "trait_type": "AMARILLO"
+    },
+    {
+      "value": "RASGOS Y BOCA ",
+      "trait_type": "ROJO OSCURO "
+    }
+  ]
+}

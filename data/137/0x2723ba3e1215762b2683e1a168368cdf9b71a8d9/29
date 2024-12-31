@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPzGJoaDLGrKcpDBMYawEstTWRW9hKjDGVNQCLYMZ1Th7/nft.png",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "137",
+  "name": "#14 Just the right amount of power.",
+  "description": "Cyborgs shouldn't go all out, you know.",
+  "attributes": [
+    {
+      "value": "English",
+      "trait_type": "Language"
+    }
+  ]
+}

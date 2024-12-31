@@ -1,0 +1,56 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcRFEQDP1mpnjn7EDF3d3XYk69gDH7fAx5j1M2LvaAxkP/nft.jpeg",
+  "nftContractAddress": "0xaa9fb0831854712dfc155c099bfd073619ca37cd",
+  "animationUrl": "https://ipfs.io/ipfs/QmZ2rWUm9zJF3DXgFBp4XHtBxBJLQ1AJ2sybgLLjdVMXYA/nft.mp4",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "SOLO ARTE ",
+  "description": "SOLO ES ARTE ",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "FONDO",
+      "trait_type": "BLANCO "
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "ROJO "
+    },
+    {
+      "value": "CABELLO",
+      "trait_type": "NEGRO"
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "CAFE"
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "TOMATE "
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "ANARAJADO "
+    },
+    {
+      "value": "PIEL ",
+      "trait_type": "PIEL "
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "AMARILLO"
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "ROJO OSCURO "
+    },
+    {
+      "value": "ABS",
+      "trait_type": "3D "
+    },
+    {
+      "value": "MORADO",
+      "trait_type": "MORADO"
+    }
+  ]
+}

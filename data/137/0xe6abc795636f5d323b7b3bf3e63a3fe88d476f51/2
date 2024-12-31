@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRibBuRNwKhpD566GxhFTbHBrajbUWPbJWbN9cgx7KHLB/nft.png",
+  "nftContractAddress": "0xe6abc795636f5d323b7b3bf3e63a3fe88d476f51",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "E-kan2",
+  "description": "this is E kan 2.",
+  "attributes": []
+}

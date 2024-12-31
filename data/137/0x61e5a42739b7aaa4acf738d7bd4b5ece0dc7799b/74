@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYLXrwZrRo4jVXakgyDo2mFZPUXwomY6hyy3KD6eg9cG6/nft.png",
+  "tokenId": 74,
+  "description": "Creator [shimohurisuzume](https://opensea.io/shimohurisuzume.eth?tab=created_collections)\n\nこれは大吉程度で良いのでしょうか？  \nいえ、爆盛り運気アップトリプル大吉の柴犬ちゃんです。  \n文字数の関係で省略しています。  \n新年も元気いっぱいすごしましょう！！！",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "大吉 #20",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "大吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "shimohurisuzume"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

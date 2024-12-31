@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSAjnizouuwY311WYkGR3Ug49mBEKjhbn5MXQoMQvn7EY/nft.png",
+  "nftContractAddress": "0xd7151e5a95eda22f37993c4e862ab581befed1dd",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "#009 JPYC Astronaut",
+  "description": "Tim wants to be an astronaut because he likes the Space Brothers (Uchu-Kyodai).",
+  "attributes": [
+    {
+      "value": "Crypto",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Astronaut",
+      "trait_type": "JOB"
+    }
+  ]
+}

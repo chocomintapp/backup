@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYiW8Z8nJPjSdQfgo8Vccb9swf4aPfN4yUyUR2dvQWHe1/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 108,
+  "chainId": "137",
+  "name": "#108",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Cold midnight",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#4D2F33",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Eyeball(monster)",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Large light blue iris",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ],
+  "minted": "✅"
+}

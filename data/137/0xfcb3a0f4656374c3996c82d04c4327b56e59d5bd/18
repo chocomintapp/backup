@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPjmPa3SoudJ8Jh13X5GrGJRj5nGPFzAhc58YL3C6g9F8/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "137",
+  "name": "#0017_Niton_MGC",
+  "description": "#0017_Niton_MGC",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Magenta",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Medium Spring Green",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Dodger Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

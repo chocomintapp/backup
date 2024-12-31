@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR6Qb8NcaJRjvB25jp4JhK2cL18MgdAPfdmHP72YpFLs9/nft.jpg",
+  "nftContractAddress": "0xdd3c23b945d4450ebaa5c6d74e883d3d5b804268",
+  "animationUrl": "https://ipfs.io/ipfs/QmdvAbAYMQc5Qu5RnzpuqXdCdvJkc4yAFnFQQ8nkuwduMN/nft.html",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "NFTGAME 2",
+  "description": "NFTGAME 2",
+  "attributes": []
+}

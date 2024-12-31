@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd24ka2U4wMcSZHQ1ekd66outJHEcu5to2KrsTaHCKeuS/nft.png",
+  "tokenId": 11,
+  "description": "",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmUWrczZEijrjxVppCwQpQ4xEQpsV4bwwF5xMpE9tCsRLp/nft.glb",
+  "chainId": "137",
+  "name": "Chickbit #11",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "uncommon"
+    }
+  ]
+}

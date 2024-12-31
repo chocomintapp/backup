@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPr3u6V8bmStbHeFewHAQ5MMghvix2Y1rhNN9vvUTeFad/nft.png",
+  "tokenId": 80,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**AKAGI 1941**  \nThis silhouette is aircraft carrier Akagi in 1941.\nIt is a giant aircraft carrier representing Japan with an overall length of 260 meters.\n\nShe was converted from a battle cruiser to an aircraft carrier during her construction, and served as the flagship of the 1st Air Fleet from the beginning of the Pacific War.\n\nShe led the successful attack on Pearl Harbor and played a major role in the southern campaign.\nShe was a mainstay of the Japanese task force until she was lost in the Battle of Midway.\n\nThe aircraft carrier Graf Zeppelin (unfinished) was built by Germany. It is said that the drawings of Akagi were used as a reference.\n\n**空母 赤城 1941**  \n全長260mの日本を代表する巨大空母です。  \n建造途中に巡洋戦艦から空母に転身した経歴を持ち、太平洋戦争開戦時から第一航空艦隊の旗艦を務めました。\n\n真珠湾攻撃を成功に導き、南方作戦支援でも破竹の快進撃を演出\nミッドウェー海戦で失われるまで日本機動部隊の大黒柱的存在でした。\n\nドイツ帝国が建造していた空母グラーフ・ツェッペリン（未完）はこの赤城の図面を参考にしていたとも言われます。\n\nこのNFTは1941年頃の赤城のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0080 AKAGI 1941",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Aircraft carrier"
+    }
+  ]
+}

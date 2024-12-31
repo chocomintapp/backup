@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRANXsC1JxvptNfHdNQteTfrKd1gasVrS2N5GssDALrLT/nft.png",
+  "nftContractAddress": "0x884c116f191eff93d67c43b7a62be5da2c1b8a48",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #26",
+  "description": "VeryLongAnimals #26の二次創作です！",
+  "attributes": [
+    {
+      "value": "owl",
+      "trait_type": "type"
+    }
+  ]
+}

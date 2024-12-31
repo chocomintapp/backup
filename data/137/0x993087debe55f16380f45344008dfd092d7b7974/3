@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbYuGKW6LXJME4n2fZ5wwuvskeo959rvDZqnt7fNvoYaa/nft.png",
+  "nftContractAddress": "0x993087debe55f16380f45344008dfd092d7b7974",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "お手伝い券",
+  "description": "GuuGuuさんのお手伝い券です。この券をGuuGuuさんに渡すと、GuuGuuさんが10分お手伝いしてくれます。",
+  "attributes": []
+}

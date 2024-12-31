@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTQeaeQkZhEipuYvc7NbWgmD6FWc4aLDwtruUN4m9qewW/nft.jpg",
+  "tokenId": 2,
+  "description": "Data Vis with the World Map light mode version",
+  "nftContractAddress": "0x26de49065e0ebe89dad6037364c8205a209489f9",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "LightMode",
+  "minted": ""
+}

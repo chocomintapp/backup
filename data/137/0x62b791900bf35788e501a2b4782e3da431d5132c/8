@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTEVGCJURTiYUHF7sdUhezHRdtEJgRuvfiCpTCVtLPBxq/nft.png",
+  "nftContractAddress": "0x62b791900bf35788e501a2b4782e3da431d5132c",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "Series 8 - long image",
+  "description": "long image",
+  "attributes": []
+}

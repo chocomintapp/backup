@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRhY2sbD78yAfE7qgmy8hfzMJkVFkZwH7Lrhd8xPV2Ax4/nft.png",
+  "tokenId": 27,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #27",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Platypus"
+    }
+  ],
+  "minted": "✅"
+}

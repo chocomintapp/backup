@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVmNxruxRJ38GdPc43NpKQLqrfUauYp1xhrnw3DTxomRr/nft.png",
+  "tokenId": 1,
+  "description": "暗号資産の呼称としてデジタルコインが選ばれました。",
+  "nftContractAddress": "0x85848b197ef045e4cf2453702c63ff0d1daec5c8",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "degitalcoin"
+}

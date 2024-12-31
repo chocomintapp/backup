@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbtSFa4MwNFATVKowSUDR5KHKKshFFr39PSHGhWnsN8Dy/nft.png",
+  "tokenId": 7,
+  "description": "僕を怒らせたらダメだよ\n\nDon't make me angry.\n（In Japan, there is a saying that if a giant catfish in the ground gets angry, the ground will shake.）",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Catfish",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Catfish"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcUZ4Vqswj1u2s9yDZdL5GqBPL4zXcAtj7KgGNfxMDAo9/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "https://ipfs.io/ipfs/QmcUZ4Vqswj1u2s9yDZdL5GqBPL4zXcAtj7KgGNfxMDAo9/nft.png",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "#7 Pearl Dress(Pink lace)",
+  "description": "💐Thanks💐\n\n🐰Air drop by MakeRabbit.com🎁",
+  "attributes": [
+    {
+      "value": "Clothes",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Dress",
+      "trait_type": "Clothes"
+    }
+  ],
+  "minted": "✅"
+}

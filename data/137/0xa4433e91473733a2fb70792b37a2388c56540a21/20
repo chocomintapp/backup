@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUNHw5beYsErDwRQWeYtmroZWpj66LiT2HC3YydgYf7Y2/nft.png",
+  "nftContractAddress": "0xa4433e91473733a2fb70792b37a2388c56540a21",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "中華そば・ドラゴンラーメン",
+  "description": "Noodle: Chukasoba\nRestaurant: Dragon Noodle's\nAddress: 968-1 Horigome,\nShimotsuma-shi, Ibaraki-ken 304-0033\nJapan\nSNS：https://twitter.com/dragon_noodles\n",
+  "attributes": []
+}

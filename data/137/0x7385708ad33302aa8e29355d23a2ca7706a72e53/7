@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPgYqMCVADfemnpCbz6gwQPzrxJEU7JURLHoyushJHRyD/nft.png",
+  "nftContractAddress": "0x7385708ad33302aa8e29355d23a2ca7706a72e53",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "Owl at night",
+  "description": "Owl with tiny rabbit.",
+  "attributes": [],
+  "minted": "✅"
+}

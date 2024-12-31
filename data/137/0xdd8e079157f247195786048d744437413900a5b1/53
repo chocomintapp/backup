@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeEZPb8T4X5extXS9VQy4PZvirAZDmDmF9FCC5w4R2End/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmeEZPb8T4X5extXS9VQy4PZvirAZDmDmF9FCC5w4R2End/nft.gif",
+  "tokenId": 53,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #53",
+  "description": "ベビロン二次創作",
+  "attributes": [
+    {
+      "value": "Sea Urchin",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

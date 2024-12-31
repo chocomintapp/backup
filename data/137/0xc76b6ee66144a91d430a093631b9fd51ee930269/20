@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRNfePe7C59tkSYetkbFuMEh1GLCoJREWhxztQvgQ6KAy/nft.png",
+  "nftContractAddress": "0xc76b6ee66144a91d430a093631b9fd51ee930269",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "VeryLongPressAnimals #20",
+  "description": "LET'S MAKE IT LONGER AND PRESS IT!!!!",
+  "attributes": [
+    {
+      "value": "Crow",
+      "trait_type": "Type"
+    }
+  ]
+}

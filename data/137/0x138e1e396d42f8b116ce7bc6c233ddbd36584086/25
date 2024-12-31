@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf1siPbcXzZ9KY3WQj2XaVn8vT8ufqDm9P8eAYhjzKkz6/nft.gif",
+  "nftContractAddress": "0x138e1e396d42f8b116ce7bc6c233ddbd36584086",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "137",
+  "name": "neko",
+  "description": "stand",
+  "attributes": []
+}

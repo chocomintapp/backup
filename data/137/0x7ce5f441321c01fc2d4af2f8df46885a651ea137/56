@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbhjMegLjp4B9FNd9Zasfa4V2sdCJyZTTGYv6SadKG5tW/nft.png",
+  "nftContractAddress": "0x7ce5f441321c01fc2d4af2f8df46885a651ea137",
+  "animationUrl": "",
+  "tokenId": 56,
+  "chainId": "137",
+  "name": "corocoroFACE_10041",
+  "description": "quesera-vana_Tier4",
+  "attributes": [
+    {
+      "value": "Tier4",
+      "trait_type": "quesera-vana"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRUddNoERK2vER2YAPsEBBERbCt1J1WJtNhj9ci5EE5pm/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "TANU-KIDS #009",
+  "description": "自衛隊員に変身したTANU-KIDS\n空軍に所属していますが、高所恐怖症です\n\nNO WAR",
+  "attributes": [
+    {
+      "value": "Air Force",
+      "trait_type": "Military"
+    }
+  ],
+  "minted": "✅"
+}

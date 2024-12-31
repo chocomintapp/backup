@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUDMGtSJiSk7oPRdSz4Vw4qcApj6Y7Ce6H8jfjvpzqxbf/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #6",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Pig",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ1Zfto3do8KT6NUBgmVQzm3VPr1PVGNWdfPKMSkV4Hqq/nft.JPEG",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "VerySilentFruits#26 Lychee",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Lychee",
+      "trait_type": "Fruit"
+    }
+  ]
+}

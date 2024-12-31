@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeFFEjCaSoHVJCic5J1NFP3RM5cShfi2r2GHHPyGEeFDu/nft.jpg",
+  "tokenId": 3,
+  "description": "Things that make you forget everything",
+  "nftContractAddress": "0xbf13616b698aad60287317345b59fa19c9212519",
+  "animationUrl": "https://ipfs.io/ipfs/QmTRkNQb7fUrNuCAQRCrVGF85E4N6yvHQo2E3he6JLKbHZ/nft.mp4",
+  "chainId": "137",
+  "name": "Soda"
+}

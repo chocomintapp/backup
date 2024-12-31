@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTt1Yw2zTgH2zXqE18JHwHFUXyEgZ2cx8giTqqSktHzfV/nft.png",
+  "tokenId": 103,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**PANZER 38(t)**  \nIt is a masterpiece light tank produced in Czechoslovakia.\n\nAs Czechoslovakia was annexed by Germany shortly after its completion, it was mass-produced as a German tank and played an active role in the Blitzkrieg in the early stages of the war.\n\nContrary to its old appearance with conspicuous rivets, it was an excellent light tank with a good combination of running, offensive, and defensive capabilities.\n\n\n**38(t)軽戦車**  \nチェコスロバキアが生んだ傑作軽戦車です。\n\n完成直後に同国がドイツに併合された事により、ドイツ軍戦車として量産され緒戦の電撃戦で活躍しました。\n\nリベットの目立つ古めかしい外見とは逆に、走・攻・守、三拍子揃った優秀な軽戦車でした。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0103 PANZER 38(t)",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYi1tiWaxgXktQgbnQPVKtL1dTmoBg4ZuLeWUTj86megJ/nft.JPG",
+  "tokenId": 2,
+  "description": "This is my First NFT",
+  "nftContractAddress": "0x6578782f88e7cca685f7cd2605dd1e9f6caaca70",
+  "animationUrl": "https://ipfs.io/ipfs/QmUfKTRKNsc8Hqnn9tBt9m12dQXx3tPDGjLzAXXrd7nY9X/nft.mp3",
+  "chainId": "137",
+  "name": "What?"
+}

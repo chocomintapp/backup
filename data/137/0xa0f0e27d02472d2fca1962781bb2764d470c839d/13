@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWctpxfPtQCGsHdHMSe5N21Y5tUaoTYdhh1NKjFp3jGpa/nft.jpg",
+  "tokenId": 13,
+  "description": "じっとしてたら腐っちゃう\n\nIf I stay here, I'll rot.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Moving Apple",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Apple"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

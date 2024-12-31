@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdKDccaAxHnW6FFx8tkVZecQ1nAvzCGyQmMC7qqBEpXuE/nft.png",
+  "tokenId": 35,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**ZERO Model22**  \nSince the Type 32 had a short cruising range This Type 22 was hastily produced.\n\nThe basic design is the same as Type 32, but The main wings were returned to the same length and shape as the Type 21. As a result of increasing the fuel tank in the wing, the cruising range was recovered.\n\nAs a result, it became a very similar appearance to the Type 21, but The engine with two-speed supercharger (Sakae Type 21) as well as the Type 32. The Type 99 20mm machine gun, which was adopted in the Type Kou. The role as a bridge to the Type 52 will be the definitive version of the Zero fighter\nIt became the aircraft that played a role as a bridge to the Type 52, the definitive version of the Zero fighter.\n\n**零式艦上戦闘機 22型**  \n航続距離が短くなってしまった三二型に変わって急遽生産されたのがこの二二型です。\n\n基本設計は三二型と変わりませんが、主翼を二一型と同じ長さと形状に戻し翼内燃料タンクを増やした結果航続距離を回復。  \n結果的に二一型に酷似した容姿となりましたが、三二型と同じく2速過給器付きのエンジン（栄二一型）と甲型で採用された九九式二号20mm機銃など、零戦の決定版となる五二型への橋渡し的役割を担った機体となりました。\n",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0035 ZERO model 22",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Fighter"
+    }
+  ],
+  "minted": "✅"
+}

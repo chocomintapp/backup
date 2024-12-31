@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRt9mTDrjqB9Gto4ZxjTamTDLybZMPUy57S18yNWbWXPQ/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "137",
+  "name": "#0037_Han Purple",
+  "description": "#0037_Tanshiki_BbM_Han Purple",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Han Purple",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Han Purple",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Han Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

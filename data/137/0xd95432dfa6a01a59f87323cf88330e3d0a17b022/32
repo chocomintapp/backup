@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRBQvfWGcxqMQzkPu7mei1BM1cieZZX6jcviJvPHSixr8/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "137",
+  "name": "大吉 Rainbow Shower #32",
+  "description": "これであなたも虹色の人生です。笑\n\nNow you too have a rainbow-colored life.hahaha\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープ official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection",
+  "attributes": [
+    {
+      "value": "Rainbow Shower",
+      "trait_type": "special item"
+    }
+  ]
+}

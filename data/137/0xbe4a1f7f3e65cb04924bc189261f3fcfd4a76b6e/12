@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVNqoaZ8y1Prv4CPcC1H3NRigGA36XwkuiFNhaFR8LJAr/nft.gif",
+  "tokenId": 12,
+  "description": "Moving Noun 11",
+  "nftContractAddress": "0xbe4a1f7f3e65cb04924bc189261f3fcfd4a76b6e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "GIF Noun 11",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Warm"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Peachy-a"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Checker-RGB"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cash-register"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square-pink-purple-multi"
+    }
+  ]
+}

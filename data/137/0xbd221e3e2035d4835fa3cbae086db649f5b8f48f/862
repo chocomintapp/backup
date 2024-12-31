@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdyyAXkmE9mZp3f44Ns7JsUba6LLHGoiWMKTaq7w6vK78/nft.PNG",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "",
+  "tokenId": 862,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #961",
+  "description": "2022/07/20 21:38\n\n昨日VIP SDDホルダーの皆さんに1匹づつ独自コントラクトSDDをサプライズエアドロップをした。\n喜びの声を多数いただいた。\n根っからの芸人気質というかお調子者というか僕のしたことで誰かが喜んでくれたらそれだけで幸せを感じる。\n\n遠い未来「えっ！？お前BプルートのNFT持ってたの！？最高にHIPHOPじゃん！」ってなるようなNFTコレクションに「SNEAKER DOGGY DOGG」をしていきたい。\n\n皆さんいつもありがとうございます。",
+  "attributes": [
+    {
+      "value": "ナイキ エアジョーダン 1 ロー \"ボルドー\"",
+      "trait_type": "M"
+    }
+  ]
+}

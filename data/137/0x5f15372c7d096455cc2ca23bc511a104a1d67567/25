@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXhcUxRwPoVuk5ebKmJ7bfLJZKFfGWojS1H6ifMs92QUM/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmXhcUxRwPoVuk5ebKmJ7bfLJZKFfGWojS1H6ifMs92QUM/nft.png",
+  "tokenId": 25,
+  "chainId": "137",
+  "name": "Rabbit girl #7S 『MoonStone』",
+  "description": "Rabbit girl #7S 『MoonStone』\n\nShe is a childhood friend of CryingGirl and often goes to and from school together. She has a caring personality, but she got too much chocolate from a lot of girls on Valentine's Day, so it became a food I didn't like.",
+  "attributes": [
+    {
+      "value": "MoonStone",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "School",
+      "trait_type": "Series"
+    }
+  ],
+  "minted": "✅"
+}

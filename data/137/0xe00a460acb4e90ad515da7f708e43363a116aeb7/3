@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSVm89c8ksV1HfK5SZkQGrYhp2LJBKrVRydC5E1Se9Qca/nft.png",
+  "nftContractAddress": "0xe00a460acb4e90ad515da7f708e43363a116aeb7",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "music #3",
+  "description": "High tension piyoko\n\nハイテンションなぴよこ",
+  "attributes": [
+    {
+      "value": "neon color",
+      "trait_type": "background"
+    },
+    {
+      "value": "headphone",
+      "trait_type": "item"
+    }
+  ]
+}

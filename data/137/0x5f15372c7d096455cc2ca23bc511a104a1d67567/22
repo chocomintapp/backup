@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNUnsHBxYrJ79ZvWHt7Bfu4JDfnFQ73mqhvzHHhzmDhro/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmNUnsHBxYrJ79ZvWHt7Bfu4JDfnFQ73mqhvzHHhzmDhro/nft.png",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "Rabbit girl #4S 『Yoru』",
+  "description": "Rabbit girl #4S 『Yoru』\n\nShe belongs to the archery club and is the twin sister of the moon.\n\nShe likes to go to the beach with her sisters every summer vacation. Her favorite marine sport is jet skiing.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Yoru",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "School",
+      "trait_type": "Series"
+    }
+  ]
+}

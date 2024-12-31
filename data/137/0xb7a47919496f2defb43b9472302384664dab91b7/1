@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVZxKALxJtQCGYJtYy5HB9Vm5CSSPMMx2toDUG8NU43CU/nft.png",
+  "tokenId": 1,
+  "description": "Scientific name : Balaenoptera musculus",
+  "nftContractAddress": "0xb7a47919496f2defb43b9472302384664dab91b7",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Blue Whale",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Area",
+      "value": "Ocean"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Mammalia"
+    }
+  ]
+}

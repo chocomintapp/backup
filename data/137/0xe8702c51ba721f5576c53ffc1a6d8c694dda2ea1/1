@@ -1,0 +1,15 @@
+{
+  "image": "",
+  "nftContractAddress": "0xe8702c51ba721f5576c53ffc1a6d8c694dda2ea1",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Cards #01",
+  "description": "",
+  "attributes": [
+    {
+      "value": "ace of spades",
+      "trait_type": "card"
+    }
+  ]
+}

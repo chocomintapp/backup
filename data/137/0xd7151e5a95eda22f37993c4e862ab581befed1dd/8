@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPKdeoqn1jPFRbMQ1vAJZ5KJMA5z1oxrVk1pjorXPaeLL/nft.png",
+  "nftContractAddress": "0xd7151e5a95eda22f37993c4e862ab581befed1dd",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "#006 Tim Polygon Hunter!",
+  "description": "Tim protects Polygon for the sake of peace.\nThe Polygon will grow and spread its wings in the future.",
+  "attributes": [
+    {
+      "value": "Crypto",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Hunter",
+      "trait_type": "JOB"
+    }
+  ]
+}

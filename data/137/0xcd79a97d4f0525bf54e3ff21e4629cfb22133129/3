@@ -1,0 +1,15 @@
+{
+  "image": "",
+  "nftContractAddress": "0xcd79a97d4f0525bf54e3ff21e4629cfb22133129",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Aqsa",
+  "description": "asafe",
+  "attributes": [
+    {
+      "value": "b",
+      "trait_type": "a"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPTcjL1qwGBYUG4mt4XxE8GhnpPv8JQ9g7RPbz2PnVeP1/nft.jpg",
+  "nftContractAddress": "0x626e1290bc0b2e62a73b7db5a8c0b1ac7320d7ae",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "A015_CoolGirl040-Funart",
+  "description": "",
+  "attributes": [
+    {
+      "value": "4",
+      "trait_type": "Speed"
+    },
+    {
+      "value": "3",
+      "trait_type": "Power"
+    },
+    {
+      "value": "3",
+      "trait_type": "Potential"
+    }
+  ]
+}

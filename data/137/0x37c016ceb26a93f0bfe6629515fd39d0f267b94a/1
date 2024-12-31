@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRMVVeyahrc7CejEHtNZbjoTQ8T2aMFET4LHP3qQ9Hk7K/nft.png",
+  "tokenId": 1,
+  "description": "The sky doge",
+  "nftContractAddress": "0x37c016ceb26a93f0bfe6629515fd39d0f267b94a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "The sky doge"
+}

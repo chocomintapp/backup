@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXPoSvHd5msm7stpfTXUyrY7MMoJQxvqVFg6HC3d4WbQD/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 199,
+  "chainId": "137",
+  "name": "#199",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#C9EA83",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#F100F3",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Crocodile friends",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gustav",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Japanese pompadour wig",
+      "trait_type": "Accessory1"
+    }
+  ]
+}

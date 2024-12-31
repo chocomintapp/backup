@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf4W3DfrgdoMR8cXqUVtzhtMNNrronfCh71aXXDw71vi4/nft.jpeg",
+  "tokenId": 104,
+  "description": "2021年10月10日に発行された、番組オリジナルロゴのNFTアート第2弾です。公式番組リスナーである証として所有者限定音源の提供や、イベントご招待等も用意します。",
+  "nftContractAddress": "0x22f3ace388d59bf92d35e1796ef2ecc0c8c392eb",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "令和サバイバル大学踠学部公式ロゴ【赤】",
+  "attributes": [
+    {
+      "trait_type": "business",
+      "value": "red"
+    }
+  ]
+}

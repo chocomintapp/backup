@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNpaGQvarApbRwTmLxANRAjGgd28NtmfXn1y9F4hHJ4Kp/nft.png",
+  "tokenId": 18,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**Carlo Veloce33 Serie II**  \nThis is a small tank produced in large numbers by Italy.\nIt was a development of the British Garden Lloyd small tank.\nIt was equipped with two 8 mm heavy machine guns.\nIn terms of numbers, it was the main Italian tank at the start of the war.\n\nIt had average performance for a small tank at the time, but\nIt was already in a situation where it could not play an active role in the front line.\nIt was mainly used for security and reconnaissance.\n\nThe name Carlo Veloce means \"fast tank\".\nThe official name was later changed to L3/33.\n\n**カルロ・ヴェローチェ CV33 セリエII**  \nイタリアが大量生産した豆戦車です。イギリスのガーデン・ロイド豆戦車の発展型で8 mm重機関銃を2挺装備していました。数の上では開戦時のイタリア主力戦車です。\n\n当時の豆戦車としては平均的な性能でしたが、既に前線では豆戦車が活躍できる状況では無く主に警備や偵察等に使用されました。\n\nカルロ・ヴェローチェとは「快速戦車」を意味しており、後にこの制式名称はL3/33に変更されています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0018 CV33 SerieII",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Italy"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

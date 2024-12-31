@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc2MMHh8dQrFqNZnxs4JUipzcCScrrUsbPaa9knWfabgM/nft.png",
+  "nftContractAddress": "0xfc9fa639e34abae4b2519f44d3e28efd868825e8",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies Z #11",
+  "description": "Baby's growth potential is unlimited.",
+  "attributes": [
+    {
+      "value": "Siberian Husky",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

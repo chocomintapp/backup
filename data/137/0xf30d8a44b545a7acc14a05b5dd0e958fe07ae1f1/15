@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXamRrsid9MDhfyqKQ6Vp4CxqP47Qqc83Ws4W8x57QAdW/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "PPP #015",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Twin tail PK",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sailor school uniform",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Accessories"
+    }
+  ]
+}

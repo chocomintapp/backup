@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfKN8gQgQcQkMoksg68UfUGyndBSzxLZxx6JsL9PwFYEq/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 114,
+  "chainId": "137",
+  "name": "hakorobo #114",
+  "description": "hakorobo #114 Artists Edition HKAE-17 HIBALIXX\n\noriginal work:\nhttps://teia.art/objkt/587561\n\nby:\nhttps://twitter.com/hibarixart",
+  "attributes": [
+    {
+      "value": "HKAE",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Shoes"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVwBxBuamog9jwQeAqHBZj9TCiNoii53xdNodnKXkeCTP/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "137",
+  "name": "まだ見ぬ景色を追い求めるえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "コウキシンオウセイ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ギュウドン",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "ピザ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "撮り鉄",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "ヤジウマコンジョウ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

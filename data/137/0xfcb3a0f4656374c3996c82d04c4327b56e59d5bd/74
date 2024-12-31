@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPN2qHS3dwmrKuUuLoBUGkzUaMk8CsrzJjra8E6CYC1RB/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 74,
+  "chainId": "137",
+  "name": "#0070_Collaboration_Kyupitton&ToneToneStudio",
+  "description": "0070_Collaboration_Kyupitton&ToneToneStudio\n\n「Kyupitton」と「ToneToneStudio」とコラボしたポリちゃんです！",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Collaboration",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Kyupitton",
+      "trait_type": "Collection"
+    },
+    {
+      "value": "ToneToneStudio",
+      "trait_type": "Collection"
+    }
+  ]
+}

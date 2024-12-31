@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXDYPZEY3t9sn1SHLYoMZ7QiDrAqRP4CgeTHBFP2QCsoY/nft.jpeg",
+  "nftContractAddress": "0xca5f5c81bb9c8ca191c03233a2b210b990a80193",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #17 -Jun Takase Ver.-",
+  "description": "VeryLongAnimals #17の二次創作LooseVeryLongAnimals #17のWeb3 support  Ver. です！\n提供先 Jun Takase さん",
+  "attributes": [
+    {
+      "value": "chick",
+      "trait_type": "type"
+    }
+  ],
+  "minted": ""
+}

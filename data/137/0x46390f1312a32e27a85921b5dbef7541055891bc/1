@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdBh6r7mWFLNkZvbt58LjySYcx7W3fHsMGjtBqtJncSLJ/nft.png",
+  "tokenId": 1,
+  "description": "MCH market date ticket",
+  "nftContractAddress": "0x46390f1312a32e27a85921b5dbef7541055891bc",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "OyajiDate"
+}

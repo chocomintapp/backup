@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaQUv9bzD6DPTx4Q96ufkuJAf5eNHkZTKBynrSfgkTYfG/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmeF36bD2d5cCtikaL5MQNKBkpcNUmSRwL17Jir9Ja9Mrf/nft.gif",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "Kawaii Legends #013",
+  "description": "#013 Sailor Kawaii 2\n\n\"You don't want to mess with me.\"\n\n*Here are some tidbits about this costume:\nIt is said that the uniforms were first made for Japanese schoolgirls, inspired by the uniforms of the U.S. Navy.\nToday, it is one of the most common uniforms for female students in Japan.\nThe sailor uniform, navy blue and long-sleeved, is the dress of the winter months.\n\n衣装豆知識：\nセーラー服。アメリカ海軍の制服にヒントを得て、日本の女子学生のために作られたのが始まりです。現代では女子学生の一般的な制服のひとつです。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "NEKO",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Ordinary",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Wisteria",
+      "trait_type": "Background"
+    },
+    {
+      "value": "School uniform",
+      "trait_type": "Outfit"
+    },
+    {
+      "value": "Fireflies",
+      "trait_type": "Foreground"
+    }
+  ]
+}

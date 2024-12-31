@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeuXmzngh9uiofiktZJwvNEdaNq5sWGWfhncXFUJqHyUF/nft.png",
+  "tokenId": 26,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**ISUZU 1945**  \nThis silhouette is light cruiser ISUZU in 1945.\n\nShe is the second ship of the 5500 ton light cruiser Nagara class.  \nIt served as the flagship of the destroyer squadron, and in the latter half of World War II, it became the cornerstone of fleet air defense with its powerful hedgehog-like anti-aircraft armament.\n\nThe successive captains of the ship include Isoroku Yamamoto and Tamon Yamaguchi. It is also famous for its excellent commanders.\n\n**軽巡洋艦 五十鈴 1945**  \n5500トン型軽巡「長良型」の2番艦です。  \n水雷戦隊の旗艦として活躍し、大戦後半にはハリネズミのような\n強力な対空兵装により艦隊防空の要となりました。\n\n歴代艦長には山本五十六や山口多聞など優秀な指揮官が名を連ねている事でも有名です。\n\nこのNFTは1945年頃の五十鈴のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0026 ISUZU 1945",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Light cruiser"
+    }
+  ],
+  "minted": "✅"
+}

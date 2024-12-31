@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRggjqv3nAkviPwcNXVgb67Rv5fP1Rdv5A48FLiAJE9Tr/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "#0001_Cyan",
+  "description": "#0001_Cyan\n「始祖の三人」のうちの一人であるシアンです。\nOne of the \"Founder's Three Chromatopians\"-Cyan.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Cyan",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Cyan",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Cyan",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "Founder's Three",
+      "trait_type": "Feature"
+    }
+  ]
+}

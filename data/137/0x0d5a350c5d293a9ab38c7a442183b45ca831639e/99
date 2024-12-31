@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVufA3yEpk4B8sxkrtMozeAcDX1yi2yTvKwdVy8RKZg4p/nft.png",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 99,
+  "chainId": "137",
+  "name": "Day40 Syu's Art #117",
+  "description": "パパは世界一、足が速いです。\n\nMy dad is the fastest man in the world.",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeHW3ezMTGCYfZZk1eo3dNMo8GbDnt7ranLoicr8Kuobm/nft.PNG",
+  "tokenId": 47,
+  "description": "",
+  "nftContractAddress": "0xf75b0c0f9d6b6f88c617c8cc7b9ec3e8a32b3333",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "UNI Oval Cat",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV5VvivwUseZNSVagW3ghJgk1m5ZuGfjL4eEgoWanQJgE/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 145,
+  "chainId": "137",
+  "name": "WMM #0145 FLAK 36",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**FLAK 36**  \nIt is a masterpiece of German anti-aircraft artillery.\n\nIts exceptional performance was legendary not only in air combat, but also in ground combat.\n\nIt was known for its distinctive firing sound, and its high-pitched roar was greatly feared by Allied soldiers and is said to have boosted their morale.\n\n**FLAK 36 対空砲**  \nドイツが誇る対空砲の最高傑作です。  \nその類い稀なる性能は対空戦闘のみならず地上戦でも伝説的な活躍をしました。\n\n88mm砲は特徴的な発射音で知られ、そのかん高い咆哮を連合軍兵士は大いに恐れ、味方兵士の士気を上げたと言われます。\n",
+  "attributes": [
+    {
+      "value": "Germany",
+      "trait_type": " Country"
+    },
+    {
+      "value": "",
+      "trait_type": "Artillery"
+    }
+  ]
+}

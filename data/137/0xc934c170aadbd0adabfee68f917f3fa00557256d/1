@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPPHizWBc6n3YRfWUh624BSnWS1SMbuqtYmDj1S41Y2bF/nft.jpg",
+  "nftContractAddress": "0xc934c170aadbd0adabfee68f917f3fa00557256d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Maiko_1",
+  "description": "",
+  "attributes": [
+    {
+      "value": "100",
+      "trait_type": "CUTE"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "HAIR"
+    }
+  ]
+}

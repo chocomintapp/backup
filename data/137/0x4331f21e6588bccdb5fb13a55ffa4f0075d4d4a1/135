@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcy8ZyoKvC3cxrMtuPniSFS2Jur8VyU5kAr4AFWADBnRT/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 135,
+  "chainId": "137",
+  "name": "WMM #0135 ISE 1945",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**ISE 1945**  \nThis silhouette is battleship carrier Ise in 1945.  \nAlthough born as a battleship It was the world's first aircraft battleship to undergo a major refit.\n\nIse is both a battleship and an aircraft carrier capable of carrying 22 aircraft. Together with its sister ship Hyuga, it has a unique silhouette like no other.\n\n**航空戦艦 伊勢 1945**  \n戦艦として生まれながらも大改装によって世界初の航空戦艦となった艦です。\n\n戦艦でありながら22機の艦載機を搭載できる航空母艦でもある伊勢は姉妹艦「日向」と共に他に類を見ないユニークなシルエットになっています。\n\nこのNFTは1945年頃の伊勢のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Battleship",
+      "trait_type": "Ship"
+    }
+  ]
+}

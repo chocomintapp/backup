@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT9JfRHWHVErbeZcTAuxryGYgnNjbJx2cdekN53mnQ6C8/nft.png",
+  "tokenId": 1,
+  "description": "Japanese Specter \"Red Demon\n日本の妖怪「赤鬼」",
+  "nftContractAddress": "0xaa22791e34ed63ce5b91465b549ae73e8df605e3",
+  "animationUrl": "https://ipfs.io/ipfs/QmWw8YKERNXGEegh6YwWS44BHxgEXgPBG4v11fEbW9TXEK/nft.glb",
+  "chainId": "137",
+  "name": "Mono Daruma ＃1（赤鬼）",
+  "attributes": [
+    {
+      "trait_type": "妖怪",
+      "value": "赤鬼"
+    }
+  ]
+}

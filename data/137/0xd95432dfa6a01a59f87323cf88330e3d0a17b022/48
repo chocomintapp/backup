@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSgqVFVmMonLGzeEFPmsvFpTTuCXCJAdyao9PCS87iTD3/nft.jpg",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 48,
+  "chainId": "137",
+  "name": "大吉 Mahjong Tile ♯48",
+  "description": "彼は麻雀を愛しています。笑\n\n He loves mahjong.hahaha\n\nそのため麻雀牌を被っているのです。笑\n\nThat is why he wears mahjong tiles.hahaha\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープル official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection",
+  "attributes": [
+    {
+      "value": "Mahjong Player",
+      "trait_type": "SPECIAL ITEM"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYYKEqTCTCMPmWgfSgyQ5zzBdyPj77nh43uX73orTLu79/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 94,
+  "chainId": "137",
+  "name": "hakorobo #94",
+  "description": "hakorobo #94 Artists Edition HKAE-07 Mr. Bon\n\noriginal work:\nhttps://hicetnunc.art/objkt/471009\n\nby:\nhttps://twitter.com/BonMasterNFT",
+  "attributes": [
+    {
+      "value": "HKAE",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Shoes"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT3yYdpTX4T8oSVAfeXozMVVdBH6LNkuFvZidhWJhbr1A/nft.png",
+  "nftContractAddress": "0xfc9fa639e34abae4b2519f44d3e28efd868825e8",
+  "animationUrl": "https://ipfs.io/ipfs/QmT3yYdpTX4T8oSVAfeXozMVVdBH6LNkuFvZidhWJhbr1A/nft.png",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies Z #7",
+  "description": "Baby's growth potential is unlimited.",
+  "attributes": [
+    {
+      "value": "Toy Poodle",
+      "trait_type": "TYPE"
+    }
+  ]
+}

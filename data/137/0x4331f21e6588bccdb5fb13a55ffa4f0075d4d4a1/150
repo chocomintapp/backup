@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPA9YptfnWVY86svXjKVoRCxds6dQDzXKRUQSNkFf2Gww/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 150,
+  "chainId": "137",
+  "name": "WMM #0150 CENTURION Mk.I",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**CENTURION Mk.I**  \nIt is a high-performance next-generation medium tank introduced by the British at the end of World War II.\n\nThe British Army, which was tired of the excessive heavy armor of German tanks, began development of this tank in 1943.\n\nIt was completed during World War II, but was not ready in time for actual combat due to Germany's surrender.\n\nAlthough it did not play an active role in the war, it was a solid design with advanced elements, and it was highly expandable, making it a representative of the first generation of postwar tanks. It reigned for a long time as a masterpiece tank.\n\n**センチュリオン Mk.I**  \n第二次大戦終盤にイギリスが投入した高性能な次世代中戦車です。\n\nドイツ戦車の過剰なまでの重装甲・重武装に手を焼いた英軍が1943年から開発を開始。第二次大戦中に完成しましたが、ドイツの降伏により実戦には間に合いませんでした。\n\n大戦中の活躍こそ逃しましたが、先進的な要素を導入しつつ手堅い設計でまとめ高い拡張性も確保した事で、戦後第1世代戦車を代表する傑作戦車として長らく君臨しました。",
+  "attributes": [
+    {
+      "value": "UK",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

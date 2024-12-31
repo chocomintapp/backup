@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbWkYWDENsvbLVCY9nGSK7UGuNXcS6S7me76XkqS68UBW/nft.jpeg",
+  "tokenId": 4,
+  "description": "走った方が早い。\n\nIt's faster to run.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Running bird",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Bird"
+    }
+  ]
+}

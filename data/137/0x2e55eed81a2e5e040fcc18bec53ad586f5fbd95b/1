@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQjQLbjwNXo3EQm9xeVsW7a18j4V2bKYsxbhyyji2UFDf/nft.png",
+  "nftContractAddress": "0x2e55eed81a2e5e040fcc18bec53ad586f5fbd95b",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "test_ai_image_cats",
+  "description": "test_ai_image_cat",
+  "attributes": [
+    {
+      "value": "2023-12-31",
+      "trait_type": "end_date"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeUye27Z297ZqhVUJmD3T3Cg5QYb3R2waYWkySXJDCttx/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 67,
+  "chainId": "137",
+  "name": "Day29 Umitsuru's Art #85",
+  "description": "流れるように生きていきたい。\n\nI want to live my life as if it were flowing.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

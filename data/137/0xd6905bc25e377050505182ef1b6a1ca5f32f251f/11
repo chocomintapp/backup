@@ -1,0 +1,16 @@
+{
+  "image": "https://bafybeigpgcr5auevmdybrz6pegkbzjvx5vmlnu5yn3wiz2qnuqivz5pvve.ipfs.nftstorage.link/photo_2022-07-29_19-30-20.jpg",
+  "nftContractAddress": "0xd6905bc25e377050505182ef1b6a1ca5f32f251f",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "When you face the hard day",
+  "description": "Today was a hard day for Yuki.\n\nShe said that she's fine, but I knew that she's upset. \n\nI packed some candies and cookies for her. When she finished today's work, I gave them to her, saying don't be afraid to make mistakes. \n\nEven if we try our best, we can't help making mistakes, because we are all human.\n\nYuki didn't say anything. She just took the candies and went to her home.\n\nShe might look cold, but she's kind, more than anybody else.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Style"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVDS5FqGK9NYSpG5NiyFc9ZY1hjQmmFFVsEshJQRXeKiY/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 85,
+  "chainId": "137",
+  "name": "運だけで生きてきたえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "キョウウン",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ラッキョウ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "カマボコ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "パチンコ",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "ウンモジツリョクノウチ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

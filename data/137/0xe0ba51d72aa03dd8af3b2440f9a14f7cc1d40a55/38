@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZKQsDrKtCECxr9LaCAN2ftUrti29VuVNyaPPAAuKum8g/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "137",
+  "name": "アドレナリンが出まくってるえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "カッパツ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "パフェ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "キムチ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "サバゲー",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "トキハカネナリ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

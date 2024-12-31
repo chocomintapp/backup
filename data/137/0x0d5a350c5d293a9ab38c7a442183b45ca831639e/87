@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYRggsJGj84z8ebSoyZj5WMDyQ4mdydr1qoy5LmW9Sw9V/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 87,
+  "chainId": "137",
+  "name": "Day36 Syu's Art #105",
+  "description": "３月からようやく保育園が再開するぞ。\n\nThe nursery will finally reopen in March.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

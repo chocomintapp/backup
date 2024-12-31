@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXBdPPhfvjd3VR7keXk9tfnPcsZzRHyYMK78fnf8s6N8V/nft.png",
+  "tokenId": 47,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**WIRBELWIND**  \nThe German army was losing control of the air at the end of World War II.\n\nIt is an anti-aircraft tank that was remodeled from the Panzer IV that was deployed. It has a silhouette that is particularly impressive among the many anti-aircraft tanks with its four 20mm machine guns and uniquely shaped turret.  \nWIRBELWIND means \"whirlwind\" in German.\n\n\n**ヴィルべルヴィント 対空戦車**  \n大戦終盤に制空権を失いつつあったドイツ軍が投入したIV号戦車を改造した対空戦車です。\n\n4連装20mm機関砲と独特の形をした砲塔で、数ある対空戦車の中でも特別に印象深いシルエットとなっています。  \nWIRBELWINDはドイツ語で「つむじ風」を意味します。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0047 WIRBELWIND",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Anti aircraft tank"
+    }
+  ],
+  "minted": "✅"
+}

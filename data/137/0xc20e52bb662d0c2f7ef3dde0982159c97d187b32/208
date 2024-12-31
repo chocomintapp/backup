@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYpieirmJ6aDPR4dRxx6FR7AWq8NCNgYCUQuqtn8t8tkR/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 208,
+  "chainId": "137",
+  "name": "#208",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#C9EA83",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#F100F3",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Crocodile friends",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gustav",
+      "trait_type": "face"
+    },
+    {
+      "value": "Fighting posture",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Assassin's knife",
+      "trait_type": "Accessory1"
+    }
+  ],
+  "minted": "✅"
+}

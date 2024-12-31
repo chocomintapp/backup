@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ3kP8ztSnPAMNC4KAUs1aMT2BgPWrCD6gn1Fib9fQB7F/nft.png",
+  "tokenId": 5,
+  "description": "This is sample",
+  "nftContractAddress": "0x7a57c2693d486d2f9156c1d22557ff25c725ed2f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "mycry01",
+  "attributes": [
+    {
+      "trait_type": "sex",
+      "value": "all"
+    }
+  ]
+}

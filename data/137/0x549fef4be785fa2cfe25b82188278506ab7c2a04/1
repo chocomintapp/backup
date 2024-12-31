@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX4SGF9ZtGMpotnVugmNaEnQenCkdAGWBM4njwcnNVLkW/nft.jpg",
+  "tokenId": 1,
+  "description": "TokyoDreamSity.\nIt is the work of the famous photographer.",
+  "nftContractAddress": "0x549fef4be785fa2cfe25b82188278506ab7c2a04",
+  "animationUrl": "https://ipfs.io/ipfs/QmZzqJVWfVzg9uTjDjG4HP7sX71dGs4A2LzENUgm5dSsQo/nft.MOV",
+  "chainId": "137",
+  "name": "TokyoDreamSity",
+  "minted": ""
+}

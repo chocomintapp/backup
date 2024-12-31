@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWkH2Z3dkTEHa7srLQVriNgvqFUykFiYPPfZLz2Zo3tjB/nft.png",
+  "tokenId": 1,
+  "description": "ただのどうぶつたち。Just Animals.",
+  "nftContractAddress": "0x2d55c77d8adaf99f09d848c896c8220b08ed6a20",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Ordinary Hamster #1",
+  "attributes": [],
+  "minted": ""
+}

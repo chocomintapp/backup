@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmeetgmzy3JG3x25CWjV42tqg1UVamJMmdhojyVy52ZqUr/nft.png",
+  "nftContractAddress": "0xb56e49b6428c85c77df4a936162509962caed661",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "Radish Seed",
+  "description": "Radish Seed\nA seed used to grow radishes.\n\nYou can buy radish seeds in game at the market.\n\nSupply\nUnlimited\n\nLink",
+  "attributes": [
+    {
+      "value": "Resource",
+      "trait_type": "PURPOSE"
+    }
+  ]
+}

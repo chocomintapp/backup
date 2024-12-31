@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVgAk7SfWFk9jQS8EMFqQyuCEyE759M7dGNYihY89ZBVd/nft.png",
+  "nftContractAddress": "0x966b004e16302e7e0cc7d2906eed2c4eff01d670",
+  "animationUrl": "",
+  "tokenId": 125,
+  "chainId": "137",
+  "name": "#0125 Yakub",
+  "description": "Limited 1/1\n\nA little sad Monstarz. This Monstarz is minted by their original contract (MSZ).",
+  "attributes": [
+    {
+      "value": "UnCommon",
+      "trait_type": "Rarity"
+    }
+  ]
+}

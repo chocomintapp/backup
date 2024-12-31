@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQZwrnB2Jhr6UmN3R9PhEYoiJ7q5XGZVbMRPL87RPWQho/nft.png",
+  "tokenId": 17,
+  "description": "",
+  "nftContractAddress": "0x38b74860df75cc5fafbd32c24e4fc1f6ff23645f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sword",
+  "attributes": []
+}

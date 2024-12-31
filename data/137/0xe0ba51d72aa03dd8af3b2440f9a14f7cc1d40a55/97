@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcTd2uvaqvi3zkDwqpqUiDinH9JHVTgn3erKKdjcLBq1b/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 97,
+  "chainId": "137",
+  "name": "定期券を落としちゃったえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "アセリガチ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "アサリ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "トウモロコシ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "サップ",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "フクスイボンニカエラズ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

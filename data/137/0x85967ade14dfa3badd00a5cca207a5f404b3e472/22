@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU19NyPJ4CqYcnBBLPbMmqyMJCmf2SxnNUpZBGyiu28Bx/nft.jpg",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "VeryLongAnimalsEveryday",
+  "description": "【毎日ベリロン】\n【VeryLongAnimalsEveryday】\nNo.7\n「ベリーロングにならないか」\n\"Why don't you become very long ?\"",
+  "attributes": [
+    {
+      "value": "7",
+      "trait_type": "No."
+    }
+  ]
+}

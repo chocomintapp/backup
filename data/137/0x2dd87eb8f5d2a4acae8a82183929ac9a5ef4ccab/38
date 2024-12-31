@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcHcFfy9bdt6mjAyE14ywbM8HGjUE5PEsGRkTJ6pz5pqK/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #131 May.12",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n5月12日\n\n部長が、まだ子供の頃のこと。近所の裕福な子の家には、見たこともない\"外国の香りがする犬\"がいました。なんでも「血統書付き」の犬だということで、毛並みも綺麗でツヤツヤとしていました。「血統書付きだなんて言わなくても、あの犬が綺麗で可愛いことに変わりはないのに…」と、いつも部長はそう思っていました。\n\n先日部長が盗み出した開発資料によると、「機械の耳」とは、保有者の情報をオンチェーンで全て記録しており、直近の保有者がいかなる距離にあろうとも特定し、声を届けるというものでした。「機械の耳」が誰の手を渡って、部長の所までやってきたのか、全てがオンチェーンに記録されているので、先日聞いた声の主を特定するのは、開発に関する全ての情報を持つ部長にとっては、簡単なことでした。\n\nしかし、今まで誰の手を渡ってやってきたのか…履歴を辿ることよりも、どこの誰かも分からない話者が、いつ聞いているとも分からない未知の相手に対して語りかけているという事実。つまり、見えないチェーンによって繋がれているこの関係性こそが尊いのであって、それが誰なのかは、どうでもいいことのように思えたのです。これはまさに、部長が幼い頃に感じた「血統書」の違和感そのものでした。\n\n小さな頃に遊んだ電子部品の１つ、コンデンサを眺めながら、そんなことを考えている部長なのでした。\n\n\n------------\n\n\nMay 12.\n\nIt was when he was still a child. At the home of a wealthy neighborhood boy, there was a dog with a foreign scent that I had never seen before. It was a \"pedigreed\" dog, and its fur was beautiful and shiny. He always thought to himself, \"Even if they didn't say it was pedigreed, the dog would still be beautiful and cute...\" The other day, according to the development material stolen by the manager, the dog had been sold to the owner.\n\nAccording to the development documents he stole the other day, the \"machine ear\" records all the information of its owner on-chain, and it identifies the most recent owner at any distance and delivers his/her voice. Since everything about who the \"machine ears\" had passed through to get to him was recorded on-chain, identifying the owner of the voice he had just heard was a piece of cake for the general manager, who had all the information about the development.\n\nBut who has it been coming through who's hands so far...it's not so much about tracing the history, but the fact that the speaker, who doesn't even know where he is, is speaking to an unknown person who doesn't even know when he is listening. In other words, this relationship, connected by an invisible chain, is what is precious, and it seemed to him that it did not matter who it was. This was exactly the discomfort of \"pedigree\" that he had felt as a child.\n\nHe was thinking about this while looking at a capacitor, one of the electronic components he had played with as a small child.\n",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "CAP"
+    },
+    {
+      "value": "Barefoot",
+      "trait_type": "FOOT"
+    },
+    {
+      "value": "Condenser",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "SHORT PANTS"
+    },
+    {
+      "value": "White",
+      "trait_type": "T-SHIRT"
+    },
+    {
+      "value": "Camouflage",
+      "trait_type": "ZIP HOODIE"
+    }
+  ]
+}

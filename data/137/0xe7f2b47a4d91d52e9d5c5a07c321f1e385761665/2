@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeFUSietfhAcP9ovkHc2KouvYavr2gAnz4wuWTwbk4Bxc/nft.png",
+  "nftContractAddress": "0xe7f2b47a4d91d52e9d5c5a07c321f1e385761665",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Her Eye’s Realm - 2 ",
+  "description": "A captivating art piece, Her Eye’s Realm - 2. One of two amulets, limited and respectively unique. ",
+  "attributes": [
+    {
+      "value": "Protection ",
+      "trait_type": "Style"
+    },
+    {
+      "value": "4000",
+      "trait_type": "Pixels"
+    },
+    {
+      "value": "1",
+      "trait_type": "Availability "
+    },
+    {
+      "value": "Evil Eye ",
+      "trait_type": "Subject"
+    },
+    {
+      "value": "Amulet",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

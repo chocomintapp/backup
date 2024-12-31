@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYp3212NwNB3d63sNw1dQ9nS4eNuj3RdSRWuLP48Nnpv4/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "#0004_Blue",
+  "description": "#0004_Blue\n「始まりの六人」のうちの一人であるBlueです。\nOne of the \"Six of the Beginning\"-Blue.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "Six of the Beginning",
+      "trait_type": "Feature"
+    }
+  ]
+}

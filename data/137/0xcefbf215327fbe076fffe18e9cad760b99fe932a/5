@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXQyvuTLFUTfnDWuiKiuy14STE9PFvQXLfjvEoM2GcCAJ/nft.jpg",
+  "tokenId": 5,
+  "description": "5/101  \nTaken on Jan 24, 2012  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #5",
+  "attributes": [
+    {
+      "trait_type": "weather",
+      "value": "snow"
+    }
+  ],
+  "minted": "✅"
+}

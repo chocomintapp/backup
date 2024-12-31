@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRkeB1xXXEvcYiWjnyHJK5KDyfzPWcShFbuneE5DM1SFH/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "HUNIMAL #7",
+  "description": "Human + Animal = Hunimal",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Bison + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Teddy Boy",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Regent/The DA",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Teddy Boy",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

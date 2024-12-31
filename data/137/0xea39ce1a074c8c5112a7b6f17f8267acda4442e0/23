@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmctpsU7GeDhwy2jkxrFUbCzrZMcyyx5FSRhhBxtFZUPX1/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "137",
+  "name": "TANU-KIDS #022",
+  "description": "スパイに変身したTANU-KIDS\n\n右手に水鉄砲を持ってなりきっている",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "SPY",
+      "trait_type": "Occupation"
+    }
+  ]
+}

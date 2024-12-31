@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmShGtYw7kPymbF8dwucA43aC6modpftDeAvjRpHqZkQD8/nft.jpeg",
+  "nftContractAddress": "0x7b81f5349767fedd1984956d8490b25e4e5eb45d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "hero",
+  "description": "Text to Image NFT from 「hero with Legendary Sword,steel shield,gold ring」　",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Legendary Sword",
+      "trait_type": "weapon"
+    },
+    {
+      "value": "steel shield",
+      "trait_type": "defensive armament"
+    },
+    {
+      "value": "gold ring",
+      "trait_type": "accessory"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWXxXXZZBSkoBKdyXfLyB2B3n4v54Diq5t2xydc2V8GWB/nft.png",
+  "tokenId": 52,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**CROMWELL Mk.IV**  \nThis is the Mk.VIII cruise tank operated by the British Army.\n\nThe Mk. IV, powered by a Mietia engine, had a maximum speed of 64 km/h, which was the fastest class of speed typical of a cruise tank. The main gun is also 75mm, the maximum armor is 76mm, very well-balanced design, and it was an excellent vehicle with few breakdowns.\n\nIt was a masterpiece tank that the British Army finally acquired at the end of the war.\n\n**クロムウェル巡航戦車　Mk.IV**  \nイギリス軍が運用した巡航戦車Mk.VIIIです。\n\nミーティアエンジンを搭載したこのMk.IVは\n最大速度64kmと巡航戦車の名に恥じない最速クラスの快速でした。  \n主砲も75mm、最大装甲は76mmと非常にバランスの良い\n設計で、故障も少ない優秀な車輌でした。  \n大戦終盤にやっと英陸軍が手に入れた傑作戦車と言えます。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0052 CROMWELL Mk.IV",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "UK"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

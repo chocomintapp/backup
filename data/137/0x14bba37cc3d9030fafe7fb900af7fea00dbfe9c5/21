@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRaAT2KERA7cg1jA2kCRKSYG42E5SjCAGmnYrRYAne4gz/nft.jpg",
+  "nftContractAddress": "0x14bba37cc3d9030fafe7fb900af7fea00dbfe9c5",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "Blue Dragon",
+  "description": "Yoko's original character",
+  "attributes": []
+}

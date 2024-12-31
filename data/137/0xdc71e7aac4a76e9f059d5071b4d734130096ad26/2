@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUyWAcWMmh8brCCkxqeSEJmqMnWuP2TZ6dnL9cCVujqYY/nft.PNG",
+  "nftContractAddress": "0xdc71e7aac4a76e9f059d5071b4d734130096ad26",
+  "animationUrl": "https://ipfs.io/ipfs/QmU2mwXMTZCMSbHFkPv63SmCGkgn49D34ZrJBmFAiAnfHm/nft.gif",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "PIXEL FRIENDS SELECTION",
+  "description": "自分のサイトに設置したゲーム、PIXEL FRIENDS SELECTIONのOP動画になります。\nサイバーな世界を意識したドット絵にしました。\nThis is the OP video for the game PIXEL FRIENDS SELECTION, which I have set up on my website.\nI made the dots with a cyber world in mind.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

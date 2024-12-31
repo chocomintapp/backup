@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVeuYurQ34uua35pF82v97dEKFLfcH1tS1BZiAynzCxpP/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "TANU-KIDS #008",
+  "description": "自衛隊員に変身したTANU-KIDS\n海軍に所属してカレー作りを頑張っています\n\nNO WAR",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Navy",
+      "trait_type": "Military"
+    }
+  ]
+}

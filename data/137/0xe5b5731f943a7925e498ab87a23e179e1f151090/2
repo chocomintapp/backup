@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXbzBrfDfuaFF4ZTxXckFki9qrkV7g8tdaYPhCqF4XSLL/nft.png",
+  "nftContractAddress": "0xe5b5731f943a7925e498ab87a23e179e1f151090",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "hiragana_a_2",
+  "description": "hiragana",
+  "attributes": []
+}

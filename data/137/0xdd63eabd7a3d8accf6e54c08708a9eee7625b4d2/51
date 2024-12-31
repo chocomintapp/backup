@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbkeXQiuzEhcthK7TH8Egh5g6XNNiehPsGac4GpH4S9QC/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 51,
+  "chainId": "137",
+  "name": "LIVING MINERAL #51",
+  "description": "",
+  "attributes": [
+    {
+      "value": "horse",
+      "trait_type": "gene"
+    },
+    {
+      "value": "common",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "stone",
+      "trait_type": "material"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXG33FxLcxaxWwE2udNzZ4WaHVmYjm9w3UrLhggV3DNbo/nft.jpg",
+  "nftContractAddress": "0x91c59097abb040e46f26039d4a365d618a6aea9e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Shokoku",
+  "description": "BK",
+  "attributes": []
+}

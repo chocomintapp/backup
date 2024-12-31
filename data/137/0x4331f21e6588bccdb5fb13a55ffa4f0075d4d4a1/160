@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWehEvwCUrQT7EuWFiX9FSuCB1jHh7s2rnynkeaRS3HSF/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 160,
+  "chainId": "137",
+  "name": "WMM #0160 I-400",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**I-400**  \nWith an overall length of 122 meters and a drainage capacity of 6,560 tons, it is an unprecedentedly large submarine aircraft carrier comparable to a light cruiser.\n\nIt was the world's largest submarine throughout World War II and even carried a special attack aircraft (Seiran).\n\nIt was built with the intention of destroying the East Coast of the United States and the Panama Canal, taking advantage of its astonishing range that enabled it to circumnavigate the globe without making a port call.\n\nAlthough the war ended and the submarine was unable to perform spectacularly, it can be said that it left a strong impact as a secret weapon.\n\n**潜水艦 イ-400**  \n全長122m、排水量6560トン（水中）という、駆逐艦はおろか軽巡洋艦に匹敵する前代未聞の巨大潜水空母です。\n\n第二次大戦を通じて世界最大の潜水艦であるばかりか特殊攻撃機（晴嵐）まで搭載。無寄港で地球を1周半できる驚異的な航続距離を生かしアメリカ東海岸やパナマ運河の破壊までも視野に入れて建造されました。\n\n終戦により華々しい活躍は出来ませんでしたが、これぞ秘密兵器といった強烈なインパクトを残した潜水艦と言えるでしょう。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Submarine",
+      "trait_type": "Ship"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV6bQz63p1VjtqeSAYnvJzLkUSowKUsJVLrJUa1z7an4L/nft.png",
+  "nftContractAddress": "0x47d9509a232d9f8561177effd3c39b36af038ec4",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "あ",
+  "description": "これは「めらがな」の一つです。\n日本語の「あ」を表しています。",
+  "attributes": []
+}

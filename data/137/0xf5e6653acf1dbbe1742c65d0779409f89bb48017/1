@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmciGetvESmQXuqaL9fJmgCNmyPWpr2eoYsB5ZmoJyRkvq/nft.jpg",
+  "tokenId": 1,
+  "description": "test1",
+  "nftContractAddress": "0xf5e6653acf1dbbe1742c65d0779409f89bb48017",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "KEN",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Green"
+    }
+  ],
+  "minted": "✅"
+}

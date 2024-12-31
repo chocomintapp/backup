@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaHojyqqBhHcCjmdA8942FKzsaJZvgvDuVnbbRzeFL5tX/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "137",
+  "name": "#40 Memory from summer『Saturn』",
+  "description": "Items tightly packed with memories of the summer festival.\nYou can scoop up various things at the stalls.\nYou can even get amazing things inside!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hug",
+      "trait_type": "Type"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

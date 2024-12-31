@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfVPJ8mHDDs3BBAq6QGwEQbyrtkKjF8x33navH8Uk9MdB/nft.png",
+  "tokenId": 1,
+  "description": "TwitterのHeader画像用サイズ\nSize for Twitter Header image\n\n#001 \"Zombie\" Osiris Yoshimura\n#010 \"Jiangshi\" Necro Iijima\n#013 \"Mummy\" Narmer Ohnishi\n#019 \"Demon\" Pazuzu Kishigami\n#026 \"Shoggoth\" Tekelili Ueda\n#029 \"Vrtra\" Jannu Kondo",
+  "nftContractAddress": "0x18b619d3ad0af2fe1500af82bfb1765596db21d4",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#001 \"Darkness\" Header 1500*500",
+  "attributes": []
+}

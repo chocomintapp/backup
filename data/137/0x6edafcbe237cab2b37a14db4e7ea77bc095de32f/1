@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYi5fYCTSNtACJZxdrjFKxh1NVbFby8uHc96hLWhFNzwq/nft.png",
+  "tokenId": 1,
+  "description": "やばいちゃんです",
+  "nftContractAddress": "0x6edafcbe237cab2b37a14db4e7ea77bc095de32f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "yabai"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUzNaUcwVpWXbYDkhMmLhU8iV44uhhwWrEzRfAnKytYdc/nft.png",
+  "tokenId": 43,
+  "description": "コタツが好きだから日本にとどまってます。\n\nI like kotatsu, so I stay in Japan.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cat（Cotatsu　コタツ）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

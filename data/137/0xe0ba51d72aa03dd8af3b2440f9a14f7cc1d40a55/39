@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWBeC7g3vFqnLtRBsfDEduyDzryEQFCiDCoPKwGXquTX6/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "137",
+  "name": "社長に媚びへつらうえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "タイコモチ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ヤキニク",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "パイナップル",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "YouTube鑑賞",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "ナガイモノニハマカレロ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

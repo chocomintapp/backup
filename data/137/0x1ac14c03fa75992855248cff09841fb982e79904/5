@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdVsbXGcZidAdH6o5ipwTuVGeRH5zyoib8FDW69ywX2Pp/nft.gif",
+  "nftContractAddress": "0x1ac14c03fa75992855248cff09841fb982e79904",
+  "animationUrl": "https://ipfs.io/ipfs/QmdVsbXGcZidAdH6o5ipwTuVGeRH5zyoib8FDW69ywX2Pp/nft.gif",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "WavyMetaHeroes #5",
+  "description": "Created by Konipu",
+  "attributes": [
+    {
+      "value": "CDO",
+      "trait_type": "TYPE"
+    }
+  ]
+}

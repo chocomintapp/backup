@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUZunedbkh1LiyFjL6GHz2UHRwSe1mRWDkrMyV6A1rG8N/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 85,
+  "chainId": "137",
+  "name": "hakorobo #85",
+  "description": "hakorobo #85 Artists Edition HKAE-03 B Pluto\n\noriginal work:\nhttps://hicetnunc.art/objkt/203430\n\nby:\nhttps://twitter.com/plutoplutosawai",
+  "attributes": [
+    {
+      "value": "HKAE",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Shoes"
+    }
+  ]
+}

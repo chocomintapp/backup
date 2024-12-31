@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSiLkkPBM9827xH76Wn8XCJYJq69kbuaz4eBFt7oVgZbX/nft.jpg",
+  "nftContractAddress": "0x8824857373aa4eec4e08d50141ea21f31f1e6d16",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "food",
+  "description": "",
+  "attributes": []
+}

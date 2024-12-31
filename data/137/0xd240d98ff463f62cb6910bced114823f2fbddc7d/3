@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfKKAZtBx9kxMFDokSPx7xTELT5hZqCjMST3T9DT7gX6m/nft.png",
+  "tokenId": 3,
+  "description": "",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmR4Bjpcv52mJApzwafTLWMicsgzqCiYjH67AU9CmUTrjM/nft.glb",
+  "chainId": "137",
+  "name": "Chickbit #3",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "uncommon"
+    }
+  ]
+}

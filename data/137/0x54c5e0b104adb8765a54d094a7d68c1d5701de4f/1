@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQYpCSzksJwQR7BGCWxmmQSWCKUSrgtV9L7QhgpeVqw1x/nft.png",
+  "tokenId": 1,
+  "description": "This icon was created from a comic.",
+  "nftContractAddress": "0x54c5e0b104adb8765a54d094a7d68c1d5701de4f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#1 - 1",
+  "attributes": [
+    {
+      "trait_type": "Cast",
+      "value": "Yuki"
+    },
+    {
+      "trait_type": "ComicID",
+      "value": "1"
+    }
+  ],
+  "minted": "✅"
+}

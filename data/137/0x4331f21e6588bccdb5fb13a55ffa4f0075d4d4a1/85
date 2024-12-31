@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWZYMFuLqUZUjbMXPyVwRC6ehFvwh3RsVY31bWkabsWfb/nft.png",
+  "tokenId": 85,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**OYODO 1944**  \nThis silhouette is light cruiser Oyodo in 1944.\n\nThe last flagship of the Imperial Navy's Allied Fleet, it is also the largest and most powerful light cruiser of all time.\n\nHer anti-aircraft combat capability was especially noteworthy.\nWith six 15.5cm triple cannons, eight 10cm anti-aircraft guns, and 57 25mm machine guns, it was quite well-equipped for a light cruiser.\n\nThe Battle of Leyte, Operation Reigo, Operation Kitago-Operation, and all operations were completed only by this \"Oyodo\".\n\n**軽巡洋艦 大淀 1944**  \n帝国海軍最後の連合艦隊旗艦にして歴代最大かつ最強の火力を持った軽巡です。\n\n中でも対空戦闘能力には特筆すべきものがあり15.5cm3連装砲6門、10cm連装高角砲8門、25mm機銃57挺と、軽巡としては異次元の充実ぶりでした。\n\nレイテ沖海戦（囮部隊）、礼号作戦、北号作戦、全ての作戦を完遂したのはこの「大淀」だけです。\n\nこのNFTは1944年頃の大淀のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0085 OYODO 1944",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Light cruiser"
+    }
+  ]
+}

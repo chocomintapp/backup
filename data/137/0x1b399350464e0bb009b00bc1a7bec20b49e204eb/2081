@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWWven3C6ys1Ygjd1tkpWgaqYctMJUBsVMk5zDkiRyeiE/nft.png",
+  "nftContractAddress": "0x1b399350464e0bb009b00bc1a7bec20b49e204eb",
+  "animationUrl": "",
+  "tokenId": 2081,
+  "chainId": "137",
+  "name": "Samurai Assemble #2081",
+  "description": "He is Ronin. A ronin is a person who leaves his native land and goes into exile. A ronin leaves a region with many restrictions, then the're free to be active in their own right. They can be described as freelance warriors. There are 5,555 samurais in this Samurai Assemble Collection. You might find super rare characters who are called \"the most powerful samurai in history,\" or someone who are resemble to you or your family and friends. ;-) Please create your favorite group of samurai!\n",
+  "attributes": [
+    {
+      "value": "Ronin",
+      "trait_type": "JOB"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Personage"
+    },
+    {
+      "value": "N/A",
+      "trait_type": "Face Decoration"
+    },
+    {
+      "value": "Katana",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "Sharpened",
+      "trait_type": "Effect of the weapon"
+    },
+    {
+      "value": "Japanese",
+      "trait_type": "Background"
+    },
+    {
+      "value": "N/A",
+      "trait_type": "Head Decoration"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Chonmage",
+      "trait_type": "Hair Style"
+    }
+  ]
+}

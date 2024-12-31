@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSdcqCpisYNEd1rHnrfi931ork89KtdYigWttYcieMHZ4/nft.png",
+  "tokenId": 3,
+  "description": "test",
+  "nftContractAddress": "0x0d90a16f71d0c766e0cba8887fa6814866bb3b11",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "PPChan_Pic",
+  "attributes": [],
+  "minted": "✅"
+}

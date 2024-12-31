@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmecAtMSzrAReAWAPYZrDU2s5VC6HD9BuNtsufrLhmB9sR/nft.gif",
+  "tokenId": 2,
+  "description": "The Fluctuation",
+  "nftContractAddress": "0x48bce3e13f53370697ef04f28489fd45ceb981d2",
+  "animationUrl": "https://ipfs.io/ipfs/QmdiingT5eS8qkPZBTf2Ww91tS9AFDTLWbaGHUPkkhzg8r/nft.mp4",
+  "chainId": "137",
+  "name": "The Fluctuation #2",
+  "attributes": [],
+  "minted": "✅"
+}

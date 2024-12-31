@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV7n5FRP1NjnbM4ufWSXe2r9Uxe88nTWLaV6UmejMe1dN/nft.PNG",
+  "tokenId": 1,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n3月19日\n\nドーナツの穴に入る前と後で、部長の生活には大きな変化が生まれました。過ごしにくさを感じることも少なくなく、どこへ行くにも「ドーナツファースト」。数あるドーナツの中から、なぜこのドーナツが自分と一体になったのか「どこかに意味があるのでは…」と考えるようになっていました。このドーナツのことを想い、ドーナツのことを考えるとき、感じることのないはずの\"心拍のような鼓動\"が伝わってくることに、不思議と何の疑問も感じない部長なのでした。\n\nMarch 19\n\nHis life has changed drastically before and after he entered the donut hole. It is not uncommon for him to feel uncomfortable, and he goes \"donut first\" wherever he goes. Among the many donuts, he began to wonder why this donut had become one with him, and if there was a meaning to it. When he thought about this doughnut, he felt a \"heartbeat\" that he was not supposed to feel, and strangely enough, he did not feel any doubts.",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #077 Mar.19",
+  "attributes": [
+    {
+      "trait_type": "HOODIE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "KNIT CAP",
+      "value": "Black"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "TRACKPANTS",
+      "value": "Grey"
+    }
+  ]
+}

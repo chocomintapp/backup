@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcVYdEMuh5AQSh3Za6KVsyxY5xsKsawRSywBp3Zmw7yhC/nft.png",
+  "tokenId": 1,
+  "description": "\"Yinyanguin\" is named after \"Yin-yang Penguin\", and each has a rounded body and a heart. These characteristic will be suitable for SNS icons. \n\nThis yinyanguin's name is \"Oringinal Yinyanguin\".\nYYG#t000e0FC#sFFFe000#hF00+cFF0+frame+bTP\n\nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x698c4819915c1451defaa411cb54945af8df53db",
+  "animationUrl": "https://ipfs.io/ipfs/QmZtdCs8MAmpQPFLjTGbuYntGAZRiX6RFvXNFRmQMEAC91/nft.png",
+  "chainId": "137",
+  "name": "YYG#t000e0FC#sFFFe000#hF00(Oringinal Yinyanguin)",
+  "attributes": [
+    {
+      "trait_type": "Yinyanguin",
+      "value": "NOT FOR SALE"
+    },
+    {
+      "trait_type": "Crypyan",
+      "value": "2"
+    },
+    {
+      "trait_type": "Yinyanguin",
+      "value": "Origin"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Yinyanguin"
+    }
+  ]
+}

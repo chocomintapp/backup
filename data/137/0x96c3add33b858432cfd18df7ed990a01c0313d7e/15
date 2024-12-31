@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTdVpp65mMUtwWrHzzrBjiUDEHkEtVXp8PWCcQtbxsLyM/nft.PNG",
+  "nftContractAddress": "0x96c3add33b858432cfd18df7ed990a01c0313d7e",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "P.N.G No.35",
+  "description": "Probably nothing girls is an NFT collection of kawaii and unique girls living on Ethereum. It's probably nothing if they are laughing, crying, or injured. Please watch over a scene of their life. All girls are Kawaii but keep in mind that some are Kawaii than other girls.",
+  "attributes": [
+    {
+      "value": "Bright yellow",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Yama girl",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Alive",
+      "trait_type": "CONDITION"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Tie",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Commitment",
+      "trait_type": "FEELING"
+    },
+    {
+      "value": "PATOPATO Hat",
+      "trait_type": "ACCESSORY"
+    }
+  ]
+}

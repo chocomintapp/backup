@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeAVzboPdFrHnUAy1C1S72sncoLz83J1o57fNqb95mmHu/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "137",
+  "name": "VerySilentFruits#37 Guava",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Guava",
+      "trait_type": "Fruit"
+    }
+  ]
+}

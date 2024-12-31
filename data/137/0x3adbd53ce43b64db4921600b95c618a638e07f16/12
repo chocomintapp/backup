@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNisd74DW77YoqbD9XDLnbHJXszY5VQtp8KUhq1dpZm95/nft.png",
+  "nftContractAddress": "0x3adbd53ce43b64db4921600b95c618a638e07f16",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "IROIROMOMO",
+  "description": "FanArt  \nIROIRO(@IROIRO_NFT)",
+  "attributes": [
+    {
+      "value": "IROIRO",
+      "trait_type": "FANART"
+    }
+  ],
+  "minted": "✅"
+}

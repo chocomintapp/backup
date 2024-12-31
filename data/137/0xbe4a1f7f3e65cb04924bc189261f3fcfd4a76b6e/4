@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUWoHJWECWdYE9LwKYz872Sd23ZZGyYLTdnfUmEqCS4GE/nft.gif",
+  "tokenId": 4,
+  "description": "Moving Noun 3",
+  "nftContractAddress": "0xbe4a1f7f3e65cb04924bc189261f3fcfd4a76b6e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "GIF Noun 3",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Warm"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Darkbrown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Scarf-clown"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Boot"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square-fullblack"
+    }
+  ]
+}

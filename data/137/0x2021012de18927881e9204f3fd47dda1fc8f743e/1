@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYuqs7gXMRVFrWVGt1T1SXvKnUXnFRPw8deWXx6ZqQYjo/nft.jpg",
+  "nftContractAddress": "0x2021012de18927881e9204f3fd47dda1fc8f743e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "#1",
+  "description": "Watashi de ii no?",
+  "attributes": [
+    {
+      "value": "side",
+      "trait_type": "Pose"
+    },
+    {
+      "value": "default black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "dating black",
+      "trait_type": "Outfit"
+    },
+    {
+      "value": "smiling",
+      "trait_type": "Expression"
+    },
+    {
+      "value": "blue flower",
+      "trait_type": "background"
+    }
+  ]
+}

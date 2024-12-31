@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVFPP4vdBFJKErsUonevLu54TNNhVvy1ZVcyNiVRrnCNY/nft.png",
+  "tokenId": 1,
+  "description": "SUZY sloth(PINK) is playing on a tree. Catch and kick the nuts !",
+  "nftContractAddress": "0x606c02bd9928f430e1fe218bf2c9b1f3d18eb1c6",
+  "animationUrl": "https://ipfs.io/ipfs/Qmb8To3aE9hXyk8StPLDu57HLZqS1CDYcKGWGzrHPWFdbb/nft.mp4",
+  "chainId": "137",
+  "name": "SUZY Pee",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

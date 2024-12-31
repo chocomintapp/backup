@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNMaLQ3xwvKd6dDW9PDF4RYdqgkcanqwKq86n88mvyHuN/nft.png",
+  "tokenId": 20,
+  "description": "Creator [Izuru_eth](https://opensea.io/Izuru_eth?tab=created_collections)\n\nモナーからのおみくじだよ！！",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "大吉 #4",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "大吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Izuru_eth"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWk5Mq4o1vEWBJXB8z9Q6cY5QqTGJ2nJruaL4toG1uytC/nft.jpg",
+  "nftContractAddress": "0x212790eab041c25f65ff3183f0ab9472ffcc3b72",
+  "animationUrl": "",
+  "tokenId": 85,
+  "chainId": "137",
+  "name": "PI #85",
+  "description": "The theme of this project is a relaxing space that sways between real and virtual.\nPixel data digitally collaged based on a photograph was reflected on an irregularly swaying plane to create a polygonal image.\nShooting the irregularities of virtual waves ensures the originality of each image.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Shichirigahama",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Moon",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Airplane",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Red Car",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Mobile Home",
+      "trait_type": "Accessory"
+    }
+  ]
+}

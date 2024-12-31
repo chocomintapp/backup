@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmaa3bSu5mkAcy7q3pzX76oxHCuxWz4wGhCswVdPqivw2K/nft.png",
+  "tokenId": 10,
+  "description": "Time is Cannabbies.\nLimited Edition of 1【CANNA FURISODE】",
+  "nftContractAddress": "0x777444fb026cd06f490f87a7dc9dcaacc08fd3a5",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "CANNABBIES #10",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Canna"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Indica"
+    },
+    {
+      "trait_type": "FASHION",
+      "value": "Kimono"
+    }
+  ]
+}

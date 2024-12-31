@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSKRMkhLFYqGjtM9BkDUq89pJ5sNuCdh1xfkKxhqwoNEA/nft.jpg",
+  "nftContractAddress": "0xe625f500d91db7f45adcda0f5e63d20796f781b5",
+  "animationUrl": "https://ipfs.io/ipfs/QmbAoLYbqDk36MmLV6DouTVPt5NwbRrUWcx9JbX8oamTea/nft.glb",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "iwakencube2",
+  "description": "iwakencube2",
+  "attributes": []
+}

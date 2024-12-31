@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcyYJP8Wid6MquZqhYMW1eK6eTb2KxGnuJKUdWZJZJPhz/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "137",
+  "name": "HUNIMAL #29",
+  "description": "Human + Animal = Hunimal",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Navy Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Zebra + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Naked",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Gumby",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Jazz Fusion",
+      "trait_type": "STYLE"
+    }
+  ]
+}

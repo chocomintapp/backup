@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ6FjKGSunKnivAqfwfrbV4aTWoxXLnJdSty42t8htSXp/nft.png",
+  "tokenId": 117,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**IOWA 1944**  \nThis silhouette is heavy cruiser Maya in 1944.\n\nIt is the third ship of the Takao class.\n\nMaya\" was deployed to the Pacific War as newly built, but was hit by a bullet during Operation Ro-go, so she was repaired and refurbished.\n\nTurret No. 3 was removed, and she was reborn as an air defense heavy cruiser equipped with a number of powerful anti-aircraft weapons, including a 12.7cm twin anti-aircraft high-angle gun and three 25mm machine guns.\n\n**重巡洋艦 摩耶 1944**  \n高雄型の3番艦です。\n\n新造時のまま太平洋戦争に投入された「摩耶」は、ろ号作戦中に被弾（中破）した為、修理と共に改装が施されました。\n\n3番砲塔が撤去され、12.7cm連装高角砲や25mm3連装機銃など、強力な対空兵装を多数搭載した防空重巡洋艦に生まれ変わりました。\n\nこのNFTは1944年頃の摩耶のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0117 MAYA 1944",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Heavy cruiser"
+    }
+  ]
+}

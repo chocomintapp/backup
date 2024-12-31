@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSd1jdBuRPwPBo8QuirKQN6rcmNB9NmxTowu6UnWqBQSs/nft.png",
+  "nftContractAddress": "0x6d2ac3fa5874647b54011fa77c07bef7ac0db305",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "#11",
+  "description": "apepe",
+  "attributes": [
+    {
+      "value": "apepe",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "RAYC",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaxmAuxT2S4MNYYzJ37iv8B2d3gPW9pmCJfULMffvLLPe/nft.png",
+  "nftContractAddress": "0x4cc7fe2ed00269f262471ae84c1a3a7281db86d5",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Cool time -1 sec",
+  "description": "In the \"MATIC CRANE\" game, the\nCool time is reduced by 1 second.\n「MATICクレーン」ゲーム内で、\nクールタイムが1秒減る",
+  "attributes": []
+}

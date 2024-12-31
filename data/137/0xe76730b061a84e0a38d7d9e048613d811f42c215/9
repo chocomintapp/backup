@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSNcMHmieUs5EZCiabCfTbJYmodP6chDMLmN7YNHgikLG/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "THS #008",
+  "description": "【薩】",
+  "attributes": [
+    {
+      "value": "lotus bud",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "iris flower",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "acorn",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "eel",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "salmon",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

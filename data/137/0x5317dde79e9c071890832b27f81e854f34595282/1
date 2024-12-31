@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma975fZtUZTpXZwasbTCYquFUwnfvNt1abMjznwhK7XJk/nft.jpg",
+  "tokenId": 1,
+  "description": "3Dsaunagirl",
+  "nftContractAddress": "0x5317dde79e9c071890832b27f81e854f34595282",
+  "animationUrl": "https://ipfs.io/ipfs/QmZFzmJmshBzabvr9QpkdXG9CJxNwettzco3B2upKt7o22/nft.glb",
+  "chainId": "137",
+  "name": "3Dsaunagirl",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

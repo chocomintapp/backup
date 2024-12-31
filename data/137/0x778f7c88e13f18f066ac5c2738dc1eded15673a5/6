@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaTfANMHU6YWxiFgsSMxVdoXR69NcHg1firxHs5q91s4F/nft.png",
+  "nftContractAddress": "0x778f7c88e13f18f066ac5c2738dc1eded15673a5",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "Kiu",
+  "description": "Ambitious One City Special Edition for dgift",
+  "attributes": [
+    {
+      "value": "NATURAL",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "HIKYAKU",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "WIRE",
+      "trait_type": "ITEM"
+    }
+  ],
+  "minted": ""
+}

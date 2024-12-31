@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcF3WC9H5Te3iNdMRqwmomEWHUFx7k4azMchLpU7hfzEL/nft.png",
+  "nftContractAddress": "0x3adbd53ce43b64db4921600b95c618a638e07f16",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "014",
+  "description": "FanArt  \nCoolGirlNFT(https://opensea.io/collection/coolgirlnft)",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "CoolGirlNFT",
+      "trait_type": "FANART"
+    }
+  ]
+}

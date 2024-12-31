@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZBDUx2xnd7uD9AC3w5jdL369rXykPC9X3GVYGtvW9Qx7/nft.png",
+  "tokenId": 67,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**PANZER IV Ausf.H**  \nThis is the final development of the mainstay of the German army, the Panzer IV.\n\nIt was developed as an auxiliary to Panzer III, but became a mainstay tank with its high expandability and repeated improvements.\nIn the latter half of World War II, the Allied tanks became more powerful.\n\nAlthough it was clear that Panzer IV was not powerful enough, it persisted and fought until the end of the war.  \nThe plate-like object depicted in the silhouette is the increased armor called \"Schurzen\" in German.\n\n**Ⅳ号戦車 H型**  \nドイツ軍の主力、IV号戦車の最終発展型です。\n\nIII号戦車の補助的位置づけだったにも関わらず、強者揃いの欧州戦線で常に揉まれつづけました。  \n必要に迫られた結果、次々と改良が加えられ続け、気がついたら主力戦車になっていたという・・・。  \n\n大戦後半には連合軍戦車が格段に手強くなり、力不足は否めませんでしたが、粘り強く終戦まで戦い続けました。\n\nシルエットにはある板状のものは「シュルツェン」と呼ばれる増加装甲で、成形炸薬弾や対戦車ライフルに対して有効でした。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0067 PANZER IV Ausf.H",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

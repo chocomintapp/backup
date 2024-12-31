@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXXm2nRy1h7keKPgUXth6MmmcEeC4uAvXjodrgnTRV1TF/nft.png",
+  "tokenId": 66,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #66",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Sloth"
+    }
+  ]
+}

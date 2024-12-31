@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTkvk3iTGmmX1EqBwxse3gxr8yDJswYwJas2dUgtDfMim/nft.png",
+  "tokenId": 1,
+  "description": "Japan National Cat's day \n\nContent Credentials\nTIMESTAMP 2022/02/22/22:22\n猫の日記念NFT\n\nSmiling cat 笑顔の猫\nCats bring good luck\n\nLaughter is the best medicine\n\nsuisaiNFT Collection （howdyNFT）\nGenesisNFT\n\noriginal smart contract address\n\nNice to meet you\nI'm a watercolor artist, oil painter, oil sketch artist, animal illustrator.\nTwitter@howdyNFT\nTwitter@suisaiNFT\n\nはじめまして\n水彩画 油彩画 油絵 スケッチ画\n動物イラスト画家の\nTwitter@howdyNFT\n@suisaiNFTです\n\n共有コントラクトではなく\n独自コントラクトでNFTを発行しました\nこのNFTが1つ目です\nジェネシスブロックならぬGenesisNFT\n\nコンテンツクレデンシャル\nContent Credentials (CAI Beta)で\nタイムスタンプを押しています\n2022/02/22/22:22　TIMESTAMP\n\nNFT（Non-Fungible Token）\nまさに代替不可能なトークン\n\nopensea.io/suisaiNFT\nrarible.com/suisainft\n【Copyright 2021~ howdyNFT suisaiNFT】\nlit.link/howdynft\nlit.link/suisaiNFT\nlinktr.ee/howdynft\nlinktr.ee/suisaiNFT\n\nopensea.io/howdynft\nopensea.io/suisaiNFT\nrarible.com/howdynft\nrarible.com/suisainft\ntwitter.com/howdynft\ntwitter.com/suisainft\nopensea.io/collection/pianonft\nopensea.io/collection/howdynftpainting",
+  "nftContractAddress": "0xafe7b7b045348f773543eea345371f7268e66b59",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#001 2022/02/22/22:22 \"Smiling cat\" suisaiNFT Collection howdyNFT",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Genesis#001"
+    }
+  ]
+}

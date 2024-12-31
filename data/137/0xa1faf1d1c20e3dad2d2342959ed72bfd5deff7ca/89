@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmebq6B5w523Dmi87WNvgmAuYbyZeMRsLp1kY5kyWPQB1y/nft.png",
+  "tokenId": 89,
+  "description": "Salt water sea urchins are transported in salt water. It has a good taste because no alum is used.~ in store limited.\n\n塩水ウニは塩水に浸かったまま輸送されてくる。ミョウバンを使っていないため、味が良い。~来店記版",
+  "nftContractAddress": "0xa1faf1d1c20e3dad2d2342959ed72bfd5deff7ca",
+  "animationUrl": "https://ipfs.io/ipfs/QmPDqerQSZHWHpQtNCpu8bF3ssWr3mY2qZCe85yCD5y6Bp/nft.mp4",
+  "chainId": "137",
+  "name": "塩水ウニ【Saltwater Sea Urchin】- in store limited",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcaQteHwUuDATjUysGg7CPiCQ3JjCJukuxxNyGoeZQraB/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "Working Ganmichan #13",
+  "description": "Ganmichan the postman",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "postman",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

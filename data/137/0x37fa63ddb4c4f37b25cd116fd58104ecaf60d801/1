@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZkZYCWpU81Gf4eC3YhHGPxKjFdotQgbcciPZN57bgFNB/nft.jpg",
+  "nftContractAddress": "0x37fa63ddb4c4f37b25cd116fd58104ecaf60d801",
+  "animationUrl": "https://ipfs.io/ipfs/QmcFus1CAoEhMNN77bLRRiRaZmd6EUNyTHxFTnNvWQQtUd/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "kakure meme 隠 メメ",
+  "description": "Her name is Kakure Meme.     \nShe is energetic and active. Her favorite thing to do is have fun.     \nShe is just a normal girl who hides her eyes.     \n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

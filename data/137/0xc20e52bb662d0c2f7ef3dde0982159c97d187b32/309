@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY8vTyo4MkKsFTpQyef3TfqEkJXWaxg5Y8JMaxcyo9yyd/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 309,
+  "chainId": "137",
+  "name": "#309",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Rust and moisture",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#D06DFF",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Polluted nation",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Half face gas mask/For close combat",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Details unknown",
+      "trait_type": "main damage"
+    },
+    {
+      "value": "twin tail",
+      "trait_type": "special1"
+    }
+  ]
+}

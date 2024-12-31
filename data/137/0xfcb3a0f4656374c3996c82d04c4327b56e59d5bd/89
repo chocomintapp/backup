@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWva5PKaWr3bnd81fxf2jKC9C1S73gK6hNkr7QqYLotaj/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 89,
+  "chainId": "137",
+  "name": "#0085_Collaborations_THE HEART SUTRA #015",
+  "description": "0085_Collaborations_THE HEART SUTRA #015\n\n THE  HEART SUTRAのホルダー限定モデルのポリちゃんです！",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Collabpration",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "THE HEART SUTRA",
+      "trait_type": "Collection"
+    }
+  ]
+}

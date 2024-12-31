@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdhfMD7y875KqiuTmnE1AZeC8puJ7E9M8wSL4Vj6737r6/nft.jpg",
+  "nftContractAddress": "0xce9036ad9234119a64a916f32254e178790aef23",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Pro Golemer Certificates 初段 @dodokusho",
+  "description": "This NFT proves @dodokusho is a pro golemer first dan.",
+  "attributes": [
+    {
+      "value": "初段",
+      "trait_type": "初段"
+    }
+  ]
+}

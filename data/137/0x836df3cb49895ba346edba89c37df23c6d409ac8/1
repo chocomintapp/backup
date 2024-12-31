@@ -1,0 +1,11 @@
+{
+  "image": "",
+  "nftContractAddress": "0x836df3cb49895ba346edba89c37df23c6d409ac8",
+  "animationUrl": "https://ipfs.io/ipfs/QmYLWe3sF8m5Aze7V8XERc7u1WBvA2XwbW3i4jHCMHHu5a/nft.gif",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "X-Potion",
+  "description": "A drug that renders almost all of the proteins and body tissues transparent.",
+  "attributes": [],
+  "minted": ""
+}

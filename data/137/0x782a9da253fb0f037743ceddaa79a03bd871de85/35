@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc18Z2XDVFextoNaWNvksiFGCMGPENvkUJubHT2zhtNxg/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "137",
+  "name": "VerySilentFruits#35 Starfruit",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Starfruit",
+      "trait_type": "Fruit"
+    }
+  ]
+}

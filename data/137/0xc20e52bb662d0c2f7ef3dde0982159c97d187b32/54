@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeS9jso3fw7mxJgWkHy5k57L5pbMhjj3byaLg7Fi7MoTq/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 54,
+  "chainId": "137",
+  "name": "#54",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Sea",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#BBB1E4",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "International maritime signal flags",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Whiskey",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

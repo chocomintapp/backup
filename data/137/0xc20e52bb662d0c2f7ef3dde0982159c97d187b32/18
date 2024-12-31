@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQwY7hWH6a1VyRvuUYCe2HXJoaDY5d4RVEz14U31VabCy/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "137",
+  "name": "#18",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#746D6C",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#373432",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Jack O Lantern",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Lantern",
+      "trait_type": "Accessory1"
+    }
+  ]
+}

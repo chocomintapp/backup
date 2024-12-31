@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdxX6gRBjH1zJ7jGnJArgQ2oP4SvRYmFMhZoxF3Fch2GS/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 91,
+  "chainId": "137",
+  "name": "VeryLongAnimals #91",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Andrias Davidianus",
+      "trait_type": "TYPE"
+    }
+  ]
+}

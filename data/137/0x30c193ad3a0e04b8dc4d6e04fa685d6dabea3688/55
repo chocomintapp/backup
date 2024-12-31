@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZSw1bhurysUv7remSLGeU4gPRSXPqECLuWgm4Cir4LhC/nft.png",
+  "nftContractAddress": "0x30c193ad3a0e04b8dc4d6e04fa685d6dabea3688",
+  "animationUrl": "",
+  "tokenId": 55,
+  "chainId": "137",
+  "name": "pinokio_test",
+  "description": "",
+  "attributes": []
+}

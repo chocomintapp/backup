@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVwY5RkyMisLwP46uwaM9K6272x2FMBbdcFXN7gmPJqf2/nft.jpg",
+  "nftContractAddress": "0x4f92090cb6353f7148a0752c9b8701a850e37a88",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "korosukenari",
+  "description": "test",
+  "attributes": []
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfZneWtUqhpDfCwPsZfP66V9mNf8MRoGA3vCaHHs8zCX7/nft.png",
+  "tokenId": 17,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**Panzer IV Ausf.D**  \nThis Panzer IV was the most widely produced tank in the German army during World War II.  \nIt is this D-type that was mass-produced for the first time.\nIt was originally intended to be a supplement to Panzer III.  \nSince it was an initial design with high expandability, all kinds of improvements were made to it.  \nIn the end, it became the main tank of the German army.\n\n**Ⅳ号戦車D型**  \n第二次大戦中のドイツ軍が最も多く生産したIV号戦車の中でも\n初めて大量生産されたのがこのD型です。  \nもともとはIII号戦車の補佐を目的に作られましたが\n初期設計に余裕があった事からあらゆる改良が加えられ\n最終的にはドイツ軍の主力戦車となりました。\n",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0017 PANZER IV Ausf.D",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ],
+  "minted": "✅"
+}

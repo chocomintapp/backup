@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYMQ4if9cpVZWp5KDGFJcPvM648tZ5ZU7vKLc9RLf85ff/nft.jpg",
+  "tokenId": 1,
+  "description": "1st NFT of daiperp",
+  "nftContractAddress": "0x4252f152df40e57e9930b9fbb31810a9d265ec66",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "daiperp_blue",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

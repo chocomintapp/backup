@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc3CoXQqNSHVDwNjaCx9EmUGBNKo8chc1qswnrZ6obxmr/nft.png",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimal #15",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Parrot",
+      "trait_type": "TYPE"
+    }
+  ]
+}

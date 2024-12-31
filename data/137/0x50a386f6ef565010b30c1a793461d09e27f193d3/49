@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVwH34YpNiKxc647PrAT8iFukPEwpwsDFmcf2f68zbPc5/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 49,
+  "chainId": "137",
+  "name": "hakorobo #49",
+  "description": "hakorobo #49 HKV-31",
+  "attributes": [
+    {
+      "value": "HKV",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Leather",
+      "trait_type": "Shoes"
+    }
+  ]
+}

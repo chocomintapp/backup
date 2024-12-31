@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRqsif46hzEYwhAfgtfdw4fcTf1GzumobrP7mbcBte43J/nft.jpg",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 44,
+  "chainId": "137",
+  "name": "大吉 Apple #44",
+  "description": "私は、りんごです。笑\n\nI am an Apple.hahaha\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープル official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection\n\n\n\n",
+  "attributes": [
+    {
+      "value": "Apple",
+      "trait_type": "Special Item"
+    }
+  ]
+}

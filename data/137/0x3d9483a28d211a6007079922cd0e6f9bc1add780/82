@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaE39ntPSVqxtjxvpzjkXVj5L5tE3Bjewu3WxadVf9oAR/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 82,
+  "chainId": "137",
+  "name": "Neon #82",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon girl",
+      "trait_type": "character"
+    },
+    {
+      "value": "yellow hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue neon cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "water barrel",
+      "trait_type": "hand"
+    },
+    {
+      "value": "proud",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

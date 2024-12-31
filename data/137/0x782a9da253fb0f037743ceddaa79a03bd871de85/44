@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX5qjk1sv2VWQkFpMS9pgiqWcZhyTYZfy49EEkzFJR8tE/nft.JPEG",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 44,
+  "chainId": "137",
+  "name": "VerySilentFruits#44 Melon Cantaloup",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Melon Cantaloup",
+      "trait_type": "Fruit"
+    }
+  ]
+}

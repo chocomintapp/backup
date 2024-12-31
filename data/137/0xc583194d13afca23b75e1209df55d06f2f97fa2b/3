@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPRkgcMdJJEGaXx5zTZtHia4CaQNj7grhZGeWVyVWEDpR/nft.png",
+  "nftContractAddress": "0xc583194d13afca23b75e1209df55d06f2f97fa2b",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Alpha Kong #3",
+  "description": "8,888 Alpha Kongs Club Matic Version by Alpha Kongs Club, made by the artists behind Start Wars, Game of Thrones , Pokémon and more.",
+  "attributes": [
+    {
+      "value": "green",
+      "trait_type": "background"
+    },
+    {
+      "value": "loose shirt yellow",
+      "trait_type": "cloth top"
+    },
+    {
+      "value": "amber",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "tanned",
+      "trait_type": "faces"
+    },
+    {
+      "value": "grey",
+      "trait_type": "fur"
+    }
+  ]
+}

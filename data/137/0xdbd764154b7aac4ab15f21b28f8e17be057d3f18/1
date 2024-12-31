@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcwnXy6oojdzcVsJnsnBY9e9Js8f1YbhvQswbbXmWTi6S/nft.mov",
+  "nftContractAddress": "0xdbd764154b7aac4ab15f21b28f8e17be057d3f18",
+  "animationUrl": "https://ipfs.io/ipfs/QmcwnXy6oojdzcVsJnsnBY9e9Js8f1YbhvQswbbXmWTi6S/nft.mov",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "guitarman",
+  "description": "tanuki guitar",
+  "attributes": []
+}

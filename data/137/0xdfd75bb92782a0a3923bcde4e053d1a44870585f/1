@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY6WKfwvgYnuowyGn8uqYGrp2XtSG6bMt2rme3YkrxJv4/nft.jpg",
+  "tokenId": 1,
+  "description": "The temporary hut in the corner of the rice field in autumn The temporary hut at the bottom of the rice field in the fall is a rough structure made of woven grass. The sleeves of my kimono, which I wear as a guard, are soaked with dew. My kimono sleeves were getting wet with the night dew.",
+  "nftContractAddress": "0xdfd75bb92782a0a3923bcde4e053d1a44870585f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "One Hundred Poems No.001",
+  "attributes": [
+    {
+      "trait_type": "GENDER",
+      "value": "MAN"
+    },
+    {
+      "trait_type": "THEME",
+      "value": "AUTUMN"
+    }
+  ]
+}

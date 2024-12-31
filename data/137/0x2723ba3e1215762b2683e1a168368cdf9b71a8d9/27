@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma8XEmSLbKUeB1BUs2TfEDWTc5uXCtS9ntEWKggSM2miN/nft.png",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "137",
+  "name": "#13 Refusal to accept",
+  "description": "It's not always the gift that's appreciated, right?",
+  "attributes": [
+    {
+      "value": "English",
+      "trait_type": "Language"
+    }
+  ]
+}

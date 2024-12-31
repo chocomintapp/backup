@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS8JARgv6MGTgdZcMsfbMwkHujjoxcDXFEmYEGzLfbgdd/nft.gif",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmS8JARgv6MGTgdZcMsfbMwkHujjoxcDXFEmYEGzLfbgdd/nft.gif",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Rabbit girl #1 『Tsuki』",
+  "description": "Rabbit girl #1 『Tsuki』 月\n\nRabbit Girls will bring happiness to you. Did something bad happen? Or did you have something happy about?\n\nIt's okay, I'll always be by your side. Please laugh. Your smile is a treasure. Let's move on together!",
+  "attributes": [
+    {
+      "value": "Tsuki",
+      "trait_type": "Character"
+    },
+    {
+      "value": "GIF",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

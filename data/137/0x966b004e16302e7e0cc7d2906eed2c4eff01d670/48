@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRt67hRGF647bAqCdMVmuTnK2CvxPSTfAuAhHga7dedAP/nft.png",
+  "tokenId": 48,
+  "description": "Limited 1/1\n\nA little sad Monstarz.\nThis Monstarz is minted by their original contract (MSZ).\n\nThis is fan art of \"CryptoNinja\", by \"Monstarz\".",
+  "nftContractAddress": "0x966b004e16302e7e0cc7d2906eed2c4eff01d670",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#0048 FoxMask×CryptoNinja",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "UnCommon"
+    }
+  ]
+}

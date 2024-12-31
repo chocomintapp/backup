@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQdK7pWXkjBn4yfAViZF4qPZeVywLAGH6fwVDeobx2q7M/nft.png",
+  "tokenId": 38,
+  "description": "たいていのことは丸く収まるニャ\n\nMost things will turn out all right.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cat（Maruko　まるこ）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWgS8gBv41KqaMZSvh7kyJCGS85iBniD3o8QxNb65iMVQ/nft.png",
+  "tokenId": 2,
+  "description": "\"heroinesan\" is a soft serve ice cream of strawberry.",
+  "nftContractAddress": "0xe5bef7ef6c3de48a853c76477466cbd4a839762c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sofnchosan pixel art collection #2 \"heroinesan\"",
+  "attributes": [
+    {
+      "trait_type": "taste",
+      "value": "strawberry"
+    }
+  ]
+}

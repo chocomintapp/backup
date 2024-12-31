@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNQKuPue3BJxMjDHQGy33ZdB2Pgg89RrchRMjs1yjgmtw/nft.png",
+  "nftContractAddress": "0xa9bc4b621cf0300cfb8eeec43299a981f423ed26",
+  "animationUrl": "https://ipfs.io/ipfs/QmNQKuPue3BJxMjDHQGy33ZdB2Pgg89RrchRMjs1yjgmtw/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "VeryLongNoun 0",
+  "description": "VeryLongNoun 0",
+  "attributes": [],
+  "minted": "✅"
+}

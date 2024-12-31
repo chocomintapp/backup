@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVeRTAXck8DjvBaF74jPFgbbU2RzWTkCYVorykusmiw9r/nft.png",
+  "tokenId": 1,
+  "description": "test",
+  "nftContractAddress": "0xc5c56ec5c584324d3b2c84a3568553bd32718d5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#00001 test",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "goat"
+    },
+    {
+      "trait_type": "Special",
+      "value": "prototype"
+    }
+  ]
+}

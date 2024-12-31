@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPHRXdVfsK1nSAqTAMSgXtFtVhSKb9t95CuM3YsjXxgAj/nft.png",
+  "nftContractAddress": "0x2b66e7ca85285e3b52a4ec5bfda96ce39938a639",
+  "animationUrl": "https://ipfs.io/ipfs/QmZ1faykhiqQ5WG2ekNf1cbewpm7j5zXobyRFVfBu1GsQ3/nft.mp4",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "NFT scenery",
+  "description": "Japan scenery",
+  "attributes": [],
+  "minted": "✅"
+}

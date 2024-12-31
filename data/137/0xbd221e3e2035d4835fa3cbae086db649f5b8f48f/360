@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZv6ec5Lwa4KWYFJBCQCyPLgrDUH45JsXciqYrqBNVUe6/nft.gif",
+  "tokenId": 360,
+  "description": "This SDD is GOLD editoin.\n\nMarch 31 2022",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #459",
+  "attributes": [
+    {
+      "trait_type": "M",
+      "value": "amax95"
+    },
+    {
+      "trait_type": "HC",
+      "value": "GOLD"
+    },
+    {
+      "trait_type": "BG",
+      "value": "GOLD"
+    },
+    {
+      "trait_type": "E",
+      "value": "odd"
+    },
+    {
+      "trait_type": "F",
+      "value": "GOLD"
+    }
+  ]
+}

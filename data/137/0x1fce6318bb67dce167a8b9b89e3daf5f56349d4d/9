@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZjLoi6iXMFVQpyQcvm4duyp3x1zUiAM6g5dcRczXskEi/nft.gif",
+  "nftContractAddress": "0x1fce6318bb67dce167a8b9b89e3daf5f56349d4d",
+  "animationUrl": "https://ipfs.io/ipfs/QmV83QaauSyUL43sWR5npLGWnhNzpfCqS9q6cn9A2av5ZM/nft.glb",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "SpacePolyCat #９",
+  "description": "An alien who is traveling in search of a habitat (metaverse) because the planet he lives on is no longer habitable. Their name is SpacePolycats!!!",
+  "attributes": [
+    {
+      "value": "Cyber ​​Horizon",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Skin"
+    }
+  ]
+}

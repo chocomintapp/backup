@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZxiWgxqTdo6ptS4biYCKpLAbSMj1MQizqYLeawVU4BNn/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Neon #4",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "green dreads ",
+      "trait_type": "hair"
+    },
+    {
+      "value": "green flowers",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "samuraiX",
+      "trait_type": "hand"
+    },
+    {
+      "value": "proud",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

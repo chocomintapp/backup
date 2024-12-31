@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRKJcYuyic5SeZYPQLGXG8pkoa8MTEnprXLaxoyyV4xMi/nft.jpg",
+  "nftContractAddress": "0x50fe57e80f6c96e643b458002ef5f77747cc7f03",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Sunflowers",
+  "description": "Sunflowers by Vincent Willem van Gogh",
+  "attributes": []
+}

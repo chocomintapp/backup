@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfNBBjEDrV36yiqZ6TM1pv2uz6xeh1H57Htkh4y58eppz/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "#5 Aurora Dress(Blue lace)",
+  "description": "💐Thanks💐\n\n🐰Air drop by MakeRabbit.com🎁",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Clothes",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Dress",
+      "trait_type": "Clothes"
+    }
+  ]
+}

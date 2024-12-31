@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdSwxofuHrfQNzeveurw3Yc4YFzjfDCKQVhcZDrd56zjQ/nft.png",
+  "nftContractAddress": "0xb32698db4ad22de054a5598dcbe782f6002a3526",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "drow bike",
+  "description": "hand drow picture",
+  "attributes": []
+}

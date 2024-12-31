@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaNZd3NHFsAS6CGt3EEfSXC5C6tHdEFC3Z6Xs3STwbvWQ/nft.png",
+  "tokenId": 45,
+  "description": "DAOPunks are here!\nCelebrate DAOLaunch's IDO with limited edition NFT!",
+  "nftContractAddress": "0x23cd820ed08323c07241e2ba7cda09ae992e14d8",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "DAOPUNKS #45",
+  "attributes": [],
+  "minted": ""
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbzDtmHFwUrWim9w5Pvegm68dA6UDF7VeVi6DFJKH8eK5/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #26",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Owl",
+      "trait_type": "TYPE"
+    }
+  ]
+}

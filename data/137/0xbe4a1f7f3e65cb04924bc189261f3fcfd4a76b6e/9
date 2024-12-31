@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWS8X9EScc97FjtKov61VXJEA2Jf6MhfTyMswzvbAUMxE/nft.gif",
+  "tokenId": 9,
+  "description": "Moving Noun 8",
+  "nftContractAddress": "0xbe4a1f7f3e65cb04924bc189261f3fcfd4a76b6e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "GIF Noun 8",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Warm"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Peachy-B"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bling-anvil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Taco-classic"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square-yellow-orange-multi"
+    }
+  ]
+}

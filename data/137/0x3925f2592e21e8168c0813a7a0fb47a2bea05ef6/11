@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP3wbvrJA7LTW7RRZHhrpXcZS52kdxNNzQXEwDJtr7kzt/nft.png",
+  "nftContractAddress": "0x3925f2592e21e8168c0813a7a0fb47a2bea05ef6",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "Vanilla [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nVanilla\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR PETIT]",
+  "attributes": [
+    {
+      "value": "Devil",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Red",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Choker",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Navy",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "PETIT",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

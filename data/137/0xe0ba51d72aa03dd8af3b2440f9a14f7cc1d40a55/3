@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNMoV7Q4LQyikyNmGtgtBvHBUkpas2DqFckaEXJSGvMy6/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "恐竜に育てられたえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "オクビョウ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "コシアン",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "シイタケ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "モノマネ",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "ニッシンゲッポ",
+      "trait_type": "座右の銘"
+    }
+  ],
+  "minted": "✅"
+}

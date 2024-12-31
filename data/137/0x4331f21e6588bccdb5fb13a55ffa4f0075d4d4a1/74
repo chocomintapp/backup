@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZTB7imJ8baj4ocvLLLWA35EoJi5umZfCMiHiahfbnkmP/nft.png",
+  "tokenId": 74,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**M4A3E8 Easy Eight**  \nThis is the final development of the M4 medium tank series.  \nIt is commonly known as the \"Easy Eight\" from the model number \"E8\".\n\nIt is equipped with a powerful 52 caliber 76.2mm tank gun after securing the mobility of the M4 series.  \nIn addition, the frontal armor's anti-elasticity has been improved, and it has achieved an evolution suitable for the final version.\n\nA battalion of Easy Eight tanks led by Lieutenant Colonel Abrams, deployed in the Battle of the Bulge, famously rescued the besieged 101st Airborne Division in Bastogne.\n\nAfter the war, it was given to the Japanese Self-Defense Forces to fight Godzilla as the \"M4 Special Vehicle\".\nand fought against Godzilla.\n\n\n**M4A3E8 シャーマン イージーエイト 中戦車**  \nM4中戦車シリーズの最終発展型です。  \n型番の「E8」から通称「イージーエイト」と呼ばれています。\n\nM4シリーズの走破性を確保した上で強力な52口径76.2mm戦車砲を搭載し前面装甲の対弾性もアップするなど最終版にふさわしい進化を遂げています。\n\nバルジの戦いで実戦に投入されバストーニュで包囲されていた101空挺師団を、本車輌を駆るエイブラムズ中佐率いる戦車大隊が救出したことでも有名です。\n\n戦後は日本の自衛隊にも供与され「M4中特車」としてゴジラとも戦っています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0074 M4A3E8 Easy Eight",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

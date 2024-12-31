@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfYH4PcBvWzEkNK8R2ojdvoJhfWNV3f8UTezq3Kyajbvr/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 122,
+  "chainId": "137",
+  "name": "Ganmichan's gifs #4",
+  "description": "good! retweet! good! retweet!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "gifs",
+      "trait_type": "series"
+    },
+    {
+      "value": "good retweet",
+      "trait_type": "situation"
+    }
+  ]
+}

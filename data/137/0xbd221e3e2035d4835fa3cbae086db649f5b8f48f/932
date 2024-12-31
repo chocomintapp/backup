@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRQUhSk4L9BEoHYktw9QfyNZ6pPoRoig3gtKRKtYVx5hW/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmRQUhSk4L9BEoHYktw9QfyNZ6pPoRoig3gtKRKtYVx5hW/nft.mp4",
+  "tokenId": 932,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1030 VIP SDD",
+  "description": "This is a VIP SDD.\n\nI air-dropped it to @akane1125.\n\nMay The Force Be With You.\n\nPFPは京子の絵\nぶっといのでチリんするサンデイ\n日曜礼拝受けとるリスペクト\nwagmiな文化進もうNEX\n\ndec 15, 2022",
+  "attributes": [
+    {
+      "value": "VIP",
+      "trait_type": "M"
+    },
+    {
+      "value": "Bプルート",
+      "trait_type": "押韻職人"
+    },
+    {
+      "value": "千尋❤️‍🔥GORO❤️‍🔥🔥🔥🔥 @akane1125",
+      "trait_type": "VIP"
+    }
+  ]
+}

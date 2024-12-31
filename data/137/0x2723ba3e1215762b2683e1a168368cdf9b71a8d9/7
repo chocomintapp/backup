@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXuiK7xvLTpViZ8Gaxx9AM7rJRmYef45zyKs33Wdux8S7/nft.png",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "#4 Neo's daily life",
+  "description": "What is Neo doing, alone and in secret??",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "English",
+      "trait_type": "Language"
+    }
+  ]
+}

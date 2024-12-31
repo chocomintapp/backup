@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVQYCiRDUXQdzrbMaSMmZtd71aeGrzQMRsdnpmeAfu6ij/nft.jpg",
+  "tokenId": 14,
+  "description": "Creator [seno_iine](https://opensea.io/0x26e00807f49dd1b8abc33403019f6395e52f3a9c?tab=created_collections?tab=created_collections)",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "吉 #2",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "seno_iine"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Unopened"
+    }
+  ]
+}

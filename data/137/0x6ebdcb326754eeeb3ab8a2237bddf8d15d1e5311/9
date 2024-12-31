@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmceATHAT6NUgjY8kgo5P8inQr9Y7kAZF2QZo8R2n7vziT/nft.png",
+  "nftContractAddress": "0x6ebdcb326754eeeb3ab8a2237bddf8d15d1e5311",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "EIEN_fANart#09",
+  "description": "EIEN is an NFT collection female characters created to celebrate all ice cream lovers and unique women.\nhttps://twitter.com/EIEN__official\nThis is EIEN's FanArt.\n",
+  "attributes": [
+    {
+      "value": "EIEN",
+      "trait_type": "series"
+    }
+  ],
+  "minted": "✅"
+}

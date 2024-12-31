@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPzLevji2upsstTC9LTk68GDTfutVFRS7LpNAeeuQDVRS/nft.png",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "tokenId": 60,
+  "chainId": "137",
+  "name": "Calligraphy Devil #60",
+  "description": "Calligraphy Devil #60",
+  "attributes": [
+    {
+      "value": "The Devil",
+      "trait_type": "Spieces"
+    },
+    {
+      "value": "Satan",
+      "trait_type": "Entity"
+    },
+    {
+      "value": "Asmoday",
+      "trait_type": "Shadow"
+    },
+    {
+      "value": "Gluttony",
+      "trait_type": "Background"
+    }
+  ]
+}

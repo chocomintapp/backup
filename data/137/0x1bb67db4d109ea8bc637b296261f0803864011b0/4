@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbS6Xr8XT7Mxm5pF4eCBet9sA7xwqxL86Jdi32S8TJwoD/nft.png",
+  "nftContractAddress": "0x1bb67db4d109ea8bc637b296261f0803864011b0",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "#4 wag one's tail しっぽをふる",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Normal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "None",
+      "trait_type": "VeryLong"
+    }
+  ]
+}

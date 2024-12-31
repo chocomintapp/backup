@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNxnuscV86SDL3yhHk5F4Cq4En1REaU9T4zdqDtwTFxb3/nft.png",
+  "nftContractAddress": "0xb56e49b6428c85c77df4a936162509962caed661",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "Woody the Beaver",
+  "description": "Woody the Beaver\nDuring the great wood shortage, Sunflower Citizens created an alliance with the Beaver population.\n\nIncreases wood production.\n\nYou can craft this item at the Blacksmith in the game.\n\nSupply\n50000\n\nCrafting Costs\n50 SFL\n200 Wood\nLink\n\nContributor\nSunflower Land is an open source game built by a community of hundreds of developers and artists across the globe.\n\nCome join us on Github\n\nDesigned by (Gabbi)[https://twitter.com/birborbirb_]",
+  "attributes": [
+    {
+      "value": "Resource",
+      "trait_type": "PURPOSE"
+    }
+  ]
+}

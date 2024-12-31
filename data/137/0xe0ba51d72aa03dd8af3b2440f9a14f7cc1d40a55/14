@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXbmAPtiH3h3f4Gy3q1kf4HmB5unEUVGkjt8Ug9ppdpKu/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "敗北を知りたいえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "サイキョウ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "カヌレ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "パクチー",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "喧嘩",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "オニニカナボウ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

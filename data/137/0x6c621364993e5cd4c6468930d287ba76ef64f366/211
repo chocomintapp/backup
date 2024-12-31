@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRNS3WPaeHgB41sHRqXte33PJwFFTwtf6SN7JKNj6V7T1/nft.gif",
+  "nftContractAddress": "0x6c621364993e5cd4c6468930d287ba76ef64f366",
+  "animationUrl": "",
+  "tokenId": 211,
+  "chainId": "137",
+  "name": "CryptoGoro #Day211",
+  "description": "CryptoGoro #Day211\n\n27/JAN/2022\n\nWorld famous modern artist Mr.Goro makes his self-portrait every day. Each NFG(Non-Fungible Goro) mint only one. This project will continue until his death. Let’s collect your own Goros!!\n\n1789 days before death.",
+  "attributes": [
+    {
+      "value": "John Daly",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "Very Famous",
+      "trait_type": "POPULARITY"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWmm4YVrMtjqAeU7rwbE4Ct494hPo4fRhoaRxrY8iHmEH/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "#0021_Orange",
+  "description": "#0021_Tanshiki_RY_Orange",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

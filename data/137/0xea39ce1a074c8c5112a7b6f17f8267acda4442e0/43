@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW1iUfLkXG2yNi2ApSZNZ3YEj6iwN128BZ1oe3xvjZDeb/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "137",
+  "name": "TANU-KIDS #042",
+  "description": "ジェーソンに変身したTANU-KIDS\n\n13日の金曜日に変身するかわいいたぬき",
+  "attributes": [
+    {
+      "value": "Jason",
+      "trait_type": "History"
+    }
+  ],
+  "minted": "✅"
+}

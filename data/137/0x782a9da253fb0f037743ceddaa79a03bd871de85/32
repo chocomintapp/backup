@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRCQnWMmNuRwD4SQrMXfavWssPGGXrDbt8ubVQLjSSFvC/nft.JPEG",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "137",
+  "name": "VerySilentFruits#32 Quince",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Quince",
+      "trait_type": "Fruit"
+    }
+  ]
+}

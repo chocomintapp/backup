@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNjmyGuBmaTcfExz4ZtvU1u9dpafWSg3Y1ho4GwEamMQ9/nft.jpeg",
+  "tokenId": 2,
+  "description": "Another world",
+  "nftContractAddress": "0x12f26b1d75ff541021881dade8f806afc9a25536",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Another world"
+}

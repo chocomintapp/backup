@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf2tL9Lzmpi9RbzxfFabn9QKNsmL3o1pMDht6muBnQUB9/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/Qmf2tL9Lzmpi9RbzxfFabn9QKNsmL3o1pMDht6muBnQUB9/nft.png",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "Rabbit girl #10S 『Yuri』",
+  "description": "Rabbit girl #10S 『Yuri』\n\nShe belongs to the student council and has been good friends with PinkBear since she was little.\n\nShe seems to have a precise personality, but she's actually different.\nRabbit girl #10S 『Yuri』\n\nThere is a cat that I love very much at home, and it's creamy and fluffy. ",
+  "attributes": [
+    {
+      "value": "Yuri",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "School",
+      "trait_type": "Series"
+    }
+  ],
+  "minted": "✅"
+}

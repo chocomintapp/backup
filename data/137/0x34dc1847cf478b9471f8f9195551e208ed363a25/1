@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT9JfRHWHVErbeZcTAuxryGYgnNjbJx2cdekN53mnQ6C8/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x34dc1847cf478b9471f8f9195551e208ed363a25",
+  "animationUrl": "https://ipfs.io/ipfs/QmWw8YKERNXGEegh6YwWS44BHxgEXgPBG4v11fEbW9TXEK/nft.glb",
+  "chainId": "137",
+  "name": "Mono Daruma ＃1（赤鬼）",
+  "attributes": []
+}

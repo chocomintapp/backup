@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQYtWALZwSoKV4nRud8uyzABVXH3MnAUTUWmQzKE96Kww/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 168,
+  "chainId": "137",
+  "name": "WMM #0168 AOBA 1945",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**AOBA 1945**  \nThis silhouette is Heavy cruiser Aoba in 1945.  \nShe is the first of the Aoba class heavy cruisers, which was redesigned based on the Furutaka class.\n\nShe has been active since the Sino-Japanese War, and after the outbreak of the Pacific War, she experienced fierce battles such as the Battle of Guam, the Battle of the Coral Sea, and the Battle of Savo Island.\n\nShe was driven into a desperate situation by repeated heavy damage, but she survived and was able to return to the Pacific. She met her end in Kure as a floating battery.\n\n**重巡洋艦 青葉 1945**  \n古鷹型をベースに改設計された青葉型重巡洋艦の1番艦です。\n\n日中戦争の頃から活躍し、太平洋戦争開戦後はグアム島攻略や珊瑚海海戦、サボ島沖海戦など激戦を経験しました。\n\n度重なる大破により絶体絶命の状況に追い込まれるもしぶとく生き残り浮き砲台として呉で最期を迎えました。\n\nこのNFTは1945年頃の青葉のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Heavy cruiser",
+      "trait_type": "Ship"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNbRTMVTU3RYxdf7Mk98matCBfdQ4LT3PB7fScYBkhabj/nft.png",
+  "tokenId": 120,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**HIBIKI 1945**  \nThis silhouette is destroyer Hibiki in 1945.  \nHibiki\" is the 22nd ship of the \"Fubuki\" class, which was called the \"Phoenix.\n\nDespite sustaining extensive damage on three separate occasions, Hibiki's indomitable fighting spirit and good fortune enabled her to avoid sinking, and she survived until the end of the war.\n\nPeople who saw her were called \"phoenix\" and \"unsinkable ship\". She is a different type of lucky ship from the King of Lucky Ships, Yukikaze.\n\nAfter the war, it was used as a demobilized ship and then as a reparation ship. She was handed over to the Soviet Union, renamed \"Värnui,\" and deployed there.\n\n**駆逐艦 響 1945**  \n「不死鳥」と呼ばれた吹雪型の22番艦です。  \n特III型（暁型）の中では2番艦になります。\n\n3度に渡る甚大な被害を受けながらも不屈の闘志と幸運で沈没をまぬがれ、終戦まで生き残りました。  \nその様子を見た人々からは「不死鳥」や「不沈艦」と呼ばれました。キングオブ幸運艦の「雪風」とは違うタイプの幸運艦と言えます。\n\n戦後は復員船として使用された後に賠償艦としてソ連に引き渡され「ヴェールヌイ」と改名の上、配備されました。\n\nこのNFTは1945年頃の響のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0120 HIBIKI 1945",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Destroyer"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQsm3YzW6Wp7VG1pKW6wpRtzFhogGEoP2Eu8McrMZSyRp/nft.png",
+  "tokenId": 2,
+  "description": "わっしょい❤️SENO作成NFT",
+  "nftContractAddress": "0x3165507e18b8740728dd8cce93e2303f205103d6",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

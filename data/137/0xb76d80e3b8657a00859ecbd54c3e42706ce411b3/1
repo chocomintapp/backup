@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPj6BLjJMpjvAUZPJtXQ8mn6cdY1Kfr53eiZ7a1eyU1Eh/nft.png",
+  "nftContractAddress": "0xb76d80e3b8657a00859ecbd54c3e42706ce411b3",
+  "animationUrl": "https://ipfs.io/ipfs/QmPj6BLjJMpjvAUZPJtXQ8mn6cdY1Kfr53eiZ7a1eyU1Eh/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "hippo 2 #1",
+  "description": "白かば White Hippo\n様々なカバ＆かば Various hippopotamuses",
+  "attributes": []
+}

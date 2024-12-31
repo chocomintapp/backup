@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTTD3uSTWfEpPuZa5dq96f4n2cncNy6ABUFyXK6qYW6WQ/nft.jpg",
+  "nftContractAddress": "0xce9036ad9234119a64a916f32254e178790aef23",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Pro Golemer Certificates 初段 @k81Lqx1dBtPSBpO",
+  "description": "This NFT proves @k81Lqx1dBtPSBpO is a pro-golemer first dan!",
+  "attributes": [
+    {
+      "value": "初段",
+      "trait_type": "初段"
+    }
+  ]
+}

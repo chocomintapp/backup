@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdkwgTFKPPyEExhn7FkVRXY2FEsvJmWcXkyouC5TesLdT/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmTGxhH1e1wX4W2KgF5zVwQyTgtVwGy79BQa8mBNEQs39D/nft.gif",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "Kawaii Legends #012",
+  "description": "#012 Sailor Kawaii\n\n\"Are you an adolescent?\"\n\n*Here are some tidbits about this costume:\nIt is said that the uniforms were first made for Japanese schoolgirls, inspired by the uniforms of the U.S. Navy.\nToday, it is one of the most common uniforms for female students in Japan.\n\n衣装豆知識：\nセーラー服。アメリカ海軍の制服にヒントを得て、日本の女子学生のために作られたのが始まりです。現代では女子学生の一般的な制服のひとつです。",
+  "attributes": [
+    {
+      "value": "NEKO",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Ordinary",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Wisteria",
+      "trait_type": "Background"
+    },
+    {
+      "value": "School uniform",
+      "trait_type": "Outfit"
+    },
+    {
+      "value": "Fireflies",
+      "trait_type": "Foreground"
+    }
+  ],
+  "minted": "✅"
+}

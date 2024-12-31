@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUqJuCcdipfnCtnFfcnLWpzWqCrbLSseunCHMvrMCwwJE/nft.png",
+  "tokenId": 2,
+  "description": "test",
+  "nftContractAddress": "0x7a57c2693d486d2f9156c1d22557ff25c725ed2f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "ttss",
+  "attributes": [
+    {
+      "trait_type": "sex",
+      "value": "unknown"
+    }
+  ]
+}

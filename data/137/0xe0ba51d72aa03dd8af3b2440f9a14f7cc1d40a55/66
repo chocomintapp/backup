@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTrr5dA7mUydHRQY8AxSEgKcGAR73g8h1w375cJCcDosU/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 66,
+  "chainId": "137",
+  "name": "セール品に目がないえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ケンヤクカ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ハッポウサイ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "レバー",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "ネットショッピング",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "カネハテンカノマワリモノ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

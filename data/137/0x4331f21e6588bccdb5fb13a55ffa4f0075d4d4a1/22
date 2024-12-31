@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRnPPAdkfT1KULyvTPpn5EqCREe4qNpaCRxwkMU1a7vmy/nft.png",
+  "tokenId": 22,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**IOWA 1944**  \nThis silhouette is battleship Iowa in 1944.\n\nThe Iowa is a gunnery specialist!  \nIt is the nameship of the Iowa class, perfect in every way, speed, offense and defense.  \nAs a high-speed battleship that boasts a speed of 33 knots\nIt was active in World War II and the Korean War.\n\nAfter that, the ship was placed in the reserves several times as time went on, but was repeatedly returned to active duty, and had a tremendous presence as a giant ship that symbolized the power of the U.S. Navy until it was decommissioned in 1990.\n\n**戦艦 アイオワ 1944**  \n泣く子も黙る艦砲射撃のスペシャリスト！  \n走攻守、全てにおいて完璧とも言えるアイオワ級のネームシップです。\n\n速力33ノットを誇る高速戦艦として第二次世界大戦や朝鮮戦争で活躍しました。  \nその後は時代の流れで何度も予備役になりましたが現役復帰を繰り返し、1990年に退役するまで米海軍の力を象徴する巨艦として絶大な存在感を放っていました。現在はロサンゼルスで博物館として公開されています。\n\nこのNFTは1944年頃のアイオワのシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0022 IOWA 1944",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Battleship"
+    }
+  ],
+  "minted": "✅"
+}

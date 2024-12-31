@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbgRwHRHxJTEmHdWXvB2BgkwreNnM5yGWG1LeiYxiMjam/nft.jpg",
+  "nftContractAddress": "0xbdf2ae596dd78bc0b213c9bb0a63017d39c067d9",
+  "animationUrl": "https://ipfs.io/ipfs/QmbKQrZDY1DXU79SvVxjiR96cScnNGb1AD7Ly1xoFY2cE9/nft.MP4",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "test1",
+  "description": "Cyber Glasses",
+  "attributes": []
+}

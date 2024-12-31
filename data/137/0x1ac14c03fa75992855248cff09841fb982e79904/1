@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdp4RzCAvGvCCUTg7xZQwntPPEtp2sfA8g589oBJvrCV6/nft.gif",
+  "nftContractAddress": "0x1ac14c03fa75992855248cff09841fb982e79904",
+  "animationUrl": "https://ipfs.io/ipfs/Qmdp4RzCAvGvCCUTg7xZQwntPPEtp2sfA8g589oBJvrCV6/nft.gif",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "WavyMetaHeroes #1",
+  "description": "Created by Konipu",
+  "attributes": [
+    {
+      "value": "CEO",
+      "trait_type": "TYPE"
+    }
+  ]
+}

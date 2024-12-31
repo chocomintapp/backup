@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRNveoMtkr5ZBLhVk2PEGPwiDUGxufvsXafq7PovserFm/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 54,
+  "chainId": "137",
+  "name": "#0052_ElectricPurple",
+  "description": "#0052_Tanshiki_BMm_Electric Purple",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Electric Purple",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Electric Purple",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Electric Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "Possible"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ],
+  "minted": "✅"
+}

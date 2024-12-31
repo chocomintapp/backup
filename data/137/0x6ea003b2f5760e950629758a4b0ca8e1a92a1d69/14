@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUCcsJedxphpfEFZebfKvVDi1i1NYsqViaiM1GxnvzEMd/nft.png",
+  "tokenId": 14,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.\nIn particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "朝焼　-Asayake-",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Matsue"
+    },
+    {
+      "trait_type": "Model",
+      "value": "SENBYO"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdqArhRRLzmEZErWRE52BfEk4nutSirgBgXV7wuf19gxn/nft.png",
+  "nftContractAddress": "0x3cdcb48fe9598ca45485b778521d3946831000fb",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "OOTD #DAY26",
+  "description": "Record the daily coordination of a dog on Polygon.",
+  "attributes": [
+    {
+      "value": "None",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "None",
+      "trait_type": "Eyewear"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "Skin color"
+    },
+    {
+      "value": "None",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Simple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Rare",
+      "trait_type": "Special"
+    }
+  ]
+}

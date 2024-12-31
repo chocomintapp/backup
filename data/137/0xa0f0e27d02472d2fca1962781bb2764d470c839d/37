@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfP63su91Zj3iqNMZBY4FeRBx2GshXnAxd1BobA2qaXsU/nft.png",
+  "tokenId": 37,
+  "description": "美味しい肉かどうかは、抱き心地でわかる。\n\nI can tell if a piece of meat is good or not by the way it hugs me.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cat（ToraCha　トラチャ）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

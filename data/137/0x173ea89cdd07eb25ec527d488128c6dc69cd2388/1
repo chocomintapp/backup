@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRgLkAHDjUuXHM27mv8QMnsDbp7UxywoK4Fu5SzgKXsMH/nft.png",
+  "tokenId": 1,
+  "description": "Angel created by reaction diffusion.",
+  "nftContractAddress": "0x173ea89cdd07eb25ec527d488128c6dc69cd2388",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "NFT_angel#01",
+  "attributes": [],
+  "minted": "✅"
+}

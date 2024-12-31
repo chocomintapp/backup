@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaW69NbSAvycgaYbEzNFQwXQfZpAXAtD9EF9tPn4jq38E/nft.png",
+  "tokenId": 34,
+  "description": "Creator [MaiNakamura](https://opensea.io/MaiNakamura?tab=created_collections)\n\nNFTおみくじを盛り上げるために虎になりきるおこめちゃんです。",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "吉 #5",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "MaiNakamura"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

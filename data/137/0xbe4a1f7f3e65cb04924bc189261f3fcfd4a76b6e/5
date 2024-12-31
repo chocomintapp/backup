@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme6UzbQkLYoZm4SxykYKeW3iuvoP61DMWyyQbEeQhvvuo/nft.gif",
+  "tokenId": 5,
+  "description": "Moving Noun 4",
+  "nftContractAddress": "0xbe4a1f7f3e65cb04924bc189261f3fcfd4a76b6e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "GIF Noun 4",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Warm"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Computerblue"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Txt-dope-text"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Head"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Glasses"
+    }
+  ]
+}

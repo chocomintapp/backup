@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQGuB245ukgGtzCNtAbJPGuWakyKTofx2uPh54zF4Eqhi/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmSdbcjjPyLhRnKst5bXS4S9SCWAWZK4h6HTdXUEyb8HjN/nft.gif",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Kawaii Legends #001",
+  "description": "#001 ONI Kawaii\nBelieve in yourself and your potential. \nBy holding yourself in high regard, you hold everyone else in high regard. This allows for play and creativity. \n\n\n*Here are some tidbits about this costume: \nAlthough not a traditional costume, the camisole is a comfortable summer garment.\n\n衣装豆知識：\nキャミソール。リラックスして過ごす日に。",
+  "attributes": [
+    {
+      "value": "ONI",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Ordinary",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Sakura",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Casual Outfits",
+      "trait_type": "Outfit"
+    }
+  ],
+  "minted": "✅"
+}

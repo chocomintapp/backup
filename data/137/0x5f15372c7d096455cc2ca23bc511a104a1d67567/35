@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcM5ybuYfd5qfHggPnUxWaPgQeJQz9mCFYJPysBxbu4yF/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmcM5ybuYfd5qfHggPnUxWaPgQeJQz9mCFYJPysBxbu4yF/nft.png",
+  "tokenId": 35,
+  "chainId": "137",
+  "name": "Rabbit girl #18 『牡丹』",
+  "description": "Rabbit girl #18 『牡丹』Botan\n\nShe is the youngest of her three sisters, and she likes to take a nap with a friendly personality. Her favorite thing is koshian-dango(こし餡団子)🐰",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Botan",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

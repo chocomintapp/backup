@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVESEsJjiUEW9vDWLo3G3CE6p3inyrcnnDv2fLrBVr24C/nft.jpg",
+  "nftContractAddress": "0x8c01652a22f58a68693b0737c2aa3b0715d3abd6",
+  "animationUrl": "https://ipfs.io/ipfs/QmfTkfbqy3BikMvw87sqJtS4Fm78q99kPNGpxTyYyXF7h3/nft.mp3",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "TEST MUSIC",
+  "description": "音楽NFT　TEST",
+  "attributes": [],
+  "minted": ""
+}

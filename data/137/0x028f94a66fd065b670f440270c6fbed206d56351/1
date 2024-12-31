@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSz8wF4y94Ut3HLCMDvUEw3tLintft21bo4akTPMSVG9r/nft.PNG",
+  "nftContractAddress": "0x028f94a66fd065b670f440270c6fbed206d56351",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "rough sketch ken",
+  "description": "テスト作品です。",
+  "attributes": [
+    {
+      "value": "1080",
+      "trait_type": "size"
+    },
+    {
+      "value": "brown",
+      "trait_type": "color"
+    },
+    {
+      "value": "dog",
+      "trait_type": "animal"
+    },
+    {
+      "value": "gray",
+      "trait_type": "background"
+    },
+    {
+      "value": "z",
+      "trait_type": "zone"
+    },
+    {
+      "value": "dot",
+      "trait_type": "eye"
+    }
+  ]
+}

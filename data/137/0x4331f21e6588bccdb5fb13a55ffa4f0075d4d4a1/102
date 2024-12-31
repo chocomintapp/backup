@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP8Xrxqvbi4x711RRGjh1P8BBTWUYDeemHvdQktFsdKxt/nft.png",
+  "tokenId": 102,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**JAGD PANTHER**  \nThe Jagdpanther is a steel panther that hunts tanks.  \nBased on the famed masterpiece, the Panther, it is equipped with an invincible 88mm cannon.\n\nIt also boasts high defensive capabilities and mobility, and was active locally at the end of World War II, when the odds were extremely low.\n\nAs the best tank destroyer of World War II from the good overall balance It has earned a high reputation.\n\n\n**ヤークトパンター重駆逐戦車**  \n戦車を狩る鋼鉄の豹、ヤークトパンターです。\n\n傑作と名高いパンターをベースに無敵の88mm砲を搭載、更には高い防御力や機動性を誇り、劣勢極まる大戦末期に局地的ではありますが活躍しました。\n\n総合的なバランスの良さから第二次大戦最良の駆逐戦車として高い評価を得ています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0102 JAGD PANTHER",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

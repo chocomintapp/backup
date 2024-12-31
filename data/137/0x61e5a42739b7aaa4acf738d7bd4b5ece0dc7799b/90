@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU7xPw5rGQtzMupVxjrWZfr4S6qXHMJc7dqCUtRq8ekLP/nft.jpeg",
+  "tokenId": 90,
+  "description": "Creator [MiMi kitten](https://twitter.com/MiMi_kittenn)",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "凶 #5",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "凶"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "MiMi kitten"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

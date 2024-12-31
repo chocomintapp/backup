@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVnfqmJn9XvbhwLDGHf3qnwAvWCqE2mVTDi3JZLXpi5WR/nft.jpeg",
+  "nftContractAddress": "0x65fc32ab2716f98df78007c7cb3b4ad8dea99188",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "GORO #1",
+  "description": "Such a ramen shop is not liked. What kind of ramen shop?\n\nこんなラーメン屋は嫌だ。どんなラーメン屋？",
+  "attributes": [
+    {
+      "value": "GORO×NTP on Oct 3, 2022",
+      "trait_type": "Date"
+    }
+  ]
+}

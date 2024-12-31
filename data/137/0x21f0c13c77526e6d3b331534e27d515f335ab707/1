@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXumbCycsFbuP2ydPs17UBMUaq4M8UG3CASrsrhJV4qWF/nft.PNG",
+  "tokenId": 1,
+  "description": "おそらく世界初！実物の切り絵が届くNFTです。\n\n購入後、好きなタイミングでNFTをBurnしてフォームから依頼をすると、作者が切り絵をして発送いたします。\n\nChocoburn：\nフォーム：https://forms.gle/cDMjcGCZSCMsHFwC6\n\n",
+  "nftContractAddress": "0x21f0c13c77526e6d3b331534e27d515f335ab707",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Last Samurai #1"
+}

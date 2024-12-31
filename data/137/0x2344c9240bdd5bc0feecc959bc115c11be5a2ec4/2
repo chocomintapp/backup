@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY8tRkfAJLXNhKMpmVvPfaKyc8xciNTyDwaQbwMBFmfX1/nft.jpg",
+  "nftContractAddress": "0x2344c9240bdd5bc0feecc959bc115c11be5a2ec4",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "sample2",
+  "description": "サンプルまん",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Bikkuri",
+      "trait_type": ""
+    }
+  ]
+}

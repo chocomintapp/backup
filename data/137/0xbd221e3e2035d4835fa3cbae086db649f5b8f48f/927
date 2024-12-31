@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma5uHu6PqpXDsA5atM3kE5BgAhfT6ZwyWYnonJe3LYkHL/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/Qma5uHu6PqpXDsA5atM3kE5BgAhfT6ZwyWYnonJe3LYkHL/nft.mp4",
+  "tokenId": 927,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1026",
+  "description": "いつもありがとうGOROコミュニティ\nみんなで朝まで夢語りたい",
+  "attributes": [
+    {
+      "value": "aj8",
+      "trait_type": "M"
+    },
+    {
+      "value": "Bプルート",
+      "trait_type": "押韻職人"
+    },
+    {
+      "value": "禅",
+      "trait_type": "BG"
+    }
+  ]
+}

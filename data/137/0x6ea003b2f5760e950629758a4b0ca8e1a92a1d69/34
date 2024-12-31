@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTjeFyNR7Txk2evGbtJQdbfaWsYLENSB1ytJ1UjfGYt9h/nft.png",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "137",
+  "name": "石ノ亀 -Ishinokame-",
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations. In particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.\n\n美保神社の裏手には石の亀さんがいる。\n\nその亀さんの前には、水が湧き出ており、枯れたことがないとのこと。\n\nそんな亀さんに会いにいくと、ねこがいた。\n\nどうやら、湧き水が気になる模様で、亀さんの足元を覗き込んでいたよ。",
+  "attributes": [
+    {
+      "value": "Miho Jinjya",
+      "trait_type": "Location"
+    },
+    {
+      "value": "SENBYO",
+      "trait_type": "MODEL"
+    }
+  ]
+}

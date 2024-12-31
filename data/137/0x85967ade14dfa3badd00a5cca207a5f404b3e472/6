@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWNcXW7zTuUVtVzyYa3MfE61cpPFV8aoMEzjd1jzngNdY/nft.png",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "BasketBallBabies #6",
+  "description": "バブボール\nBasketBallBabies\nかもめ\n\nBasket Ball Babies\nSeagull",
+  "attributes": [
+    {
+      "value": "Seagull",
+      "trait_type": "TYPE"
+    }
+  ]
+}

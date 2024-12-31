@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeojAEfgxSNK86xZemo5UakH2q1x7PGsVs1zzzbMQ4uyR/nft.jpeg",
+  "tokenId": 56,
+  "description": "ボクも兄ちゃん達みたいに翼で飛びたいよ〜\n\nI wish I could fly on wings like my brothers!",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "The four wild boar brothers（イノシシ４兄弟）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Wild boar"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

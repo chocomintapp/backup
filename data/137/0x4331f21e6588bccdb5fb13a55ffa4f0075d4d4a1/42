@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmStygyMZymdWyC8Z9AupZTPwyKYtzGYSHsm1x7U2mJgp6/nft.png",
+  "tokenId": 42,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**Fw190 A-8**  \nIt was one of the main fighter planes of the German Air Force.\nIt was a high-performance aircraft that the front line had been waiting for, with its robustness, high mobility, and outstanding acceleration.  \nIt was so successful that it temporarily regained control of the inferior airspace in the Straits of Dover.\n\nWith its generous airframe design and engine power, it was highly developable, and aircraft for all purposes were developed.  \nThis A-8 model was the most widely produced as the definitive version of the A series, heavily armed with two 13mm machine guns and four 20mm machine guns.\n\n**フォッケウルフ Fw190 A-8**  \nBf109と並ぶドイツ軍の主力戦闘機です。\n頑丈で運動性も高く加速も抜群で、正に前線が待ち望んだ高性能機でした。劣勢だったドーバー海峡の制空権を一時的に奪い返す程の活躍を見せました。\n\n余裕のある機体設計とエンジン出力で発展性が高く、あらゆる用途の機体が開発されましたが、このA-8型は13mm機銃2門と20mm機関砲4門の重武装を施したAシリーズの決定版として最も多く生産されました。\n",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0042 Fw190 A-8",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Fighter"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRsT4yALw5GC3WsWKFWZyiuFqzxdLcLEQebVBAk12Ddf8/nft.png",
+  "tokenId": 88,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KUROSHIO 1943**  \nThis silhouette is destroyer Kuroshio in 1943.\n\nShe was the third of the Kagero class destroyers, the most advanced at the start of the Pacific War.  \nShe is known for her participation in the \"Special Fleet Review for the 2600th Anniversary of the Imperial year with \"Hatsukaze\" and \"Yukikaze\" when she was a member of the 16th Destroyer Squadron.\n\nLike many of her classmates, she was involved in all kinds of operations, from fleet escorts to rat transports, and performed well in a way that is typical of the two naval vessels of the Nisui Battle.\n\n**駆逐艦 黒潮 1943**  \n開戦時に最新鋭だった陽炎型駆逐艦の3番艦です。\n第16駆逐隊在籍時の「紀元二千六百年特別観艦式」に「初風」「雪風」と共に参加した事で知られています。\n\n多くの同型艦と同じく、艦隊護衛から鼠輸送まであらゆる作戦に奔走し、二水戦の艦艇らしい活躍をしました。\n\nこのNFTは1943年頃の黒潮のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0088 KUROSHIO 1943",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Destroyer"
+    }
+  ]
+}

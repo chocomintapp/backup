@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma2BBjFGHqidkgNmXdN6RnAUQ4dz614oqN4qLXwn7rXTx/nft.png",
+  "tokenId": 115,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SORYU 1941**  \nThis silhouette is aircraft carrier Soryu in 1941.\n\nIt is a medium-sized aircraft carrier that established the standard for Japanese aircraft carriers.\n\nIt was built to destroy enemy aircraft carriers and secure air superiority through the use of its onboard bombers.\n\nUnlike the Akagi and the Kaga, which were built as battleships, the Akagi was designed from the start as an aircraft carrier, and was Japan's first mainline aircraft carrier.\n\n\n**空母 蒼龍 1941**  \n日本空母のスタンダードを確立した中型空母です。\n\n搭載した艦爆隊により敵空母を撃滅し制空権を確保することを目的に建造されました。\n\n戦艦として生まれた「赤城」や「加賀」と違い、初めから空母として設計された日本初の主力空母です。\n\nこのNFTは1941年頃の蒼龍のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0115 SORYU 19414",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Aircraft carrier"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcApX4etexe2GT8Mc8Jj4UDfkLgrrVDj87QtfvPQz5s6D/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 476,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #476",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Capybara",
+      "trait_type": "TYPE"
+    }
+  ]
+}

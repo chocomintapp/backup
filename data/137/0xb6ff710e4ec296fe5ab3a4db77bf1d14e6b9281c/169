@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVpq576c3i7HEuQWczc3pUxiXV63ZxRHX7eDS23pZc6aR/nft.png",
+  "nftContractAddress": "0xb6ff710e4ec296fe5ab3a4db77bf1d14e6b9281c",
+  "animationUrl": "",
+  "tokenId": 169,
+  "chainId": "137",
+  "name": "#169",
+  "description": "daddy #169",
+  "attributes": [
+    {
+      "value": "baby",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "#9",
+      "trait_type": "DADDY"
+    },
+    {
+      "value": "#159",
+      "trait_type": "MAMMY"
+    },
+    {
+      "value": "#163,#168,#169,#170",
+      "trait_type": "SIBLING"
+    }
+  ]
+}

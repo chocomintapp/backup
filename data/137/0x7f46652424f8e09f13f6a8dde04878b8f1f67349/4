@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb6M1eVshG96EcTv19Kb9HprUmN7mpDd6M4WeMbCG3jNk/nft.mp4",
+  "nftContractAddress": "0x7f46652424f8e09f13f6a8dde04878b8f1f67349",
+  "animationUrl": "https://ipfs.io/ipfs/Qmb6M1eVshG96EcTv19Kb9HprUmN7mpDd6M4WeMbCG3jNk/nft.mp4",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "NFT_Pass_Gold",
+  "description": "",
+  "attributes": []
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaiWxZcHoChZ3sB8qvpHCqJBCvgn3H6w52R5CUe24BxHH/nft.png",
+  "nftContractAddress": "0x67f87a6e28a3492b7ff96b3450f7b70e3393677e",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "VeryPoliticalLongAnimals #019",
+  "description": "Minister of Economy, Trade and Industry",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Turtle",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Grade"
+    }
+  ]
+}

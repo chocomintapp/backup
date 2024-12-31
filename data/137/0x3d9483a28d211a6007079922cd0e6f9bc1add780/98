@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSMWYkZZ16aBtnAdcqwVDysGGbkXGXS3BRuh52efR3Ct6/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 98,
+  "chainId": "137",
+  "name": "Neon #98",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "green hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue flowers",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "throw neon coin",
+      "trait_type": "hand"
+    },
+    {
+      "value": "green mask",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ2vJTk5rjtjpTFZo62KCSMVXttqo5oUALyexEf764pCb/nft.png",
+  "tokenId": 123,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**T-35**  \nIt is a huge multi-turret heavy tank with five turrets developed by the Soviet Union.\n\nIt was a land-based warship-like weapon with a crew of 11, an extraordinary number for a tank.\n\nBefore World War II, many countries studied the multi-turret heavy tank in order to break through enemy defenses, but the T-35 was the only tank that was actually mass-produced and deployed in actual combat.\n\nHowever, the T-35 was the only multi-turret tank that was actually mass-produced and deployed in battle. The T-35 was not successful due to its many weaknesses unique to multi-turret tanks, including huge development costs, excessive weight, poor armor and undercarriage, and the narrow field of fire and size of each turret, which made it easily detected.\n\n**T-35 多砲塔重戦車**  \nソ連が開発した5つの砲塔を持つ巨大な多砲塔戦車です。  \n戦車としては桁外れに多い11名もの乗員で運用した陸上軍艦のような兵器でした。\n\n第二次大戦以前、敵の防御陣地を突破する目的で各国が盛んに研究した多砲塔重戦車ですが、実際に量産して実戦投入されたのはこのT-35だけでした。\n\n莫大な開発費や重量過多、貧弱な装甲に足回り、各砲塔の射界の狭さや発見されやすい大きさなど、多砲塔戦車ならではの弱点も多く、活躍はできませんでしたが、これほどロマン溢れるシルエットの戦車はなかなかありません。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0123 T-35",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Soviet"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

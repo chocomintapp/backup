@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVxvEsKjiBSDbotCdMo8L7BZunr32WMFwKFSn16WoL17V/nft.png",
+  "tokenId": 2,
+  "description": "Flying round metals.",
+  "nftContractAddress": "0xd2a03ac217a6b1ca465aecdf1e26ca10ac99d282",
+  "animationUrl": "https://ipfs.io/ipfs/QmVxvEsKjiBSDbotCdMo8L7BZunr32WMFwKFSn16WoL17V/nft.png",
+  "chainId": "137",
+  "name": "WingBalls 11 BlackMETAL",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "UC"
+    }
+  ]
+}

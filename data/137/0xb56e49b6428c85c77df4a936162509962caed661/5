@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUEjLx8P5igwgGoBKQaKJ48jaknio3tX8wSs289yiDLDV/nft.gif",
+  "nftContractAddress": "0xb56e49b6428c85c77df4a936162509962caed661",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Chinese Flag",
+  "description": "Chinese Flag",
+  "attributes": []
+}

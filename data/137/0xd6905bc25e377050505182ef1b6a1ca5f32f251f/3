@@ -1,0 +1,16 @@
+{
+  "image": "https://bafybeicw3vk655vx3k7g7gd4ixykj5rpbkorykbq3p6r2cwsgvmm7r3kjm.ipfs.nftstorage.link/4.png",
+  "nftContractAddress": "0xd6905bc25e377050505182ef1b6a1ca5f32f251f",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Sprout blooming in the dark",
+  "description": "I watched a video about poverty.  Living in a small space, people worked and raised their kids.  I thought that they are strong, and I am nothing but just a lucky person.  I want to find a way to help them, in my way.  Because I am just a lucky person. No difference with them.  Oh, and someone in the video raised plants. It was so beautiful sprout.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Sprout",
+      "trait_type": "Style"
+    }
+  ]
+}

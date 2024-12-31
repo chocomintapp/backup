@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYKjemgW1vKeaQ2rn2ZXEe7Ncb4VBggAh8kaK5Sz7c6DK/nft.png",
+  "tokenId": 1,
+  "description": "The name of the bear is \"ROMA\".\nWear a rabbit hat and transform into a fashionable one!!\n\nくまちゃんの名前は\"ROMA\"\nうさぎの帽子をかぶっておしゃれに変身!!",
+  "nftContractAddress": "0x66bc981f5d72c0be7e49ff3c8be24f6427592b67",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "ROMA Rabbit",
+  "attributes": [],
+  "minted": "✅"
+}

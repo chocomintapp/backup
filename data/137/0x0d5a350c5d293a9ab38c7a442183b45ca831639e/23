@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmekgXk64wG1eRub9eqKxFXstk8EXBNoyxKZBT41vxtzaJ/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "137",
+  "name": "Day14 Nana's Art #41",
+  "description": "今日もママを沢山怒らせてしまいました。\n\nI made my mom angry a lot today.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ]
+}

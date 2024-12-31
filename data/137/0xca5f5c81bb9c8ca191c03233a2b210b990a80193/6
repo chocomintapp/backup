@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPdkEa23SpwVCs8SjpSZfFQ7MfktrhwHNSmnp12wrRP7q/nft.jpeg",
+  "nftContractAddress": "0xca5f5c81bb9c8ca191c03233a2b210b990a80193",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #61 -Masta Ver.-",
+  "description": "VeryLongAnimals #61の二次創作LooseVeryLongAnimals #61のWeb3 support  Ver. です！\n提供先 Masta さん",
+  "attributes": [
+    {
+      "value": "Crocodile",
+      "trait_type": "Type"
+    }
+  ]
+}

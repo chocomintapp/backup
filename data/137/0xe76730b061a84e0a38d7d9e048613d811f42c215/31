@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTU37MyHw3xVUk2qmiqyChjBzqEC24KjPLs1SrAhsMVm7/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "137",
+  "name": "THS #026",
+  "description": "【無】",
+  "attributes": [
+    {
+      "value": "peacock",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "fern leaf",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "goldfish",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTLLZ3p4REzLLxQp2bgnUZmpAkfXaBRoATr6iDT5YDG8K/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 62,
+  "chainId": "137",
+  "name": "Day27 Nana's Art #80",
+  "description": "おでんの具の中で、さつま揚げが一番すき。\n\nOf all the ingredients in oden, I like satsuma-age the best.\n\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZbMdk5ujEFi2r6wjvJFVj6RUsqDwZRYresCpauLKng48/nft.png",
+  "tokenId": 2,
+  "description": "ただのどうぶつたち。Just Animals.",
+  "nftContractAddress": "0x308170c1d33b766482f32382b57639009d4a40f8",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Ordinary Squirrel #1",
+  "attributes": []
+}

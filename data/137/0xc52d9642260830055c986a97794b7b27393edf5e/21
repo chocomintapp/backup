@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZnaCd1jaFhWyKbLcNhmMtgmMD8rS5YKMz19znKBFkWJ9/nft.png",
+  "tokenId": 21,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #21",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Koala"
+    }
+  ]
+}

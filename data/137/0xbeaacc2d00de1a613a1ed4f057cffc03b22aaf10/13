@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSQryx2Tyv6hWECNZtJSY5ng74PoYTVstA3n7Z9q8sZ4E/nft.jpg",
+  "nftContractAddress": "0xbeaacc2d00de1a613a1ed4f057cffc03b22aaf10",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "revival",
+  "description": "あきゃねる復活しました！",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

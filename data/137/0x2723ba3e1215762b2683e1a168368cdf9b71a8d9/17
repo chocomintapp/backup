@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTVKuhzD65VQ2qJnhVz8ahryYmpudxAHMief1xX38rnLX/nft.png",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "#8-2 Khloe is not mad...?",
+  "description": "Birthday events have always been held on the maid's birthday.  \nBut on Khloe's birthday, Yuki inadvertently fell asleep and the event was announced too late!",
+  "attributes": [
+    {
+      "value": "English",
+      "trait_type": "Language"
+    }
+  ],
+  "minted": "✅"
+}

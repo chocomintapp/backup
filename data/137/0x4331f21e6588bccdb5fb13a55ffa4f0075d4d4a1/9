@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbo37d6FxER7fNwrUpazLh5NEmf7GrQDZxRHFAeUFk4ff/nft.png",
+  "tokenId": 9,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**B-17F Flying Fortress**  \nThe B-17F Flying Fortress was an excellent strategic bomber operated by the United States in World War II.\nThe Memphis Belle, which was the first British-based aircraft to complete 25 missions for the 8th Air Force and was even made into a movie, was also an F-type.\n\nWith its extremely tough design, this bomber survived the fierce European air battles and led to the collapse of the German Third Reich.\n\n**B-17F フライングフォートレス**  \nアメリカが第二次大戦で運用した優秀な戦略爆撃機のF型です。\nイギリスを拠点にした第8航空軍で初めて25回の任務を完遂したとされ\n映画にもなったメンフィスベル号も、このF型でした。\n\n極めてタフな機体構造と高い操縦性で\n熾烈を極めるヨーロッパの航空戦を戦い抜き\nドイツ第三帝国を崩壊へと導いた立役者の1人です。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0009 B-17F Flying Fortress",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Bomber"
+    }
+  ]
+}

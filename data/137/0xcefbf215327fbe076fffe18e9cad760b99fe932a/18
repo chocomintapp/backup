@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc5VxZLRQQQ9dqkNwQTKEDPWFzB7cG2migsbKHb5mpd3Z/nft.jpg",
+  "tokenId": 18,
+  "description": "18/101  \nTaken on Nov 10, 2012  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #18",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "weather",
+      "value": "clear"
+    },
+    {
+      "trait_type": "item",
+      "value": "ship"
+    }
+  ]
+}

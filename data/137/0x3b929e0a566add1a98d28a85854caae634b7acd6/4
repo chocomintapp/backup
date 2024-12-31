@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbyicd2m27tKmn7mSxNxLfmxK7a8rvP73ewBS9EVs8An5/nft.png",
+  "nftContractAddress": "0x3b929e0a566add1a98d28a85854caae634b7acd6",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "GasHero Badge #102120992950",
+  "description": "GasHero Badge from STEPN",
+  "attributes": [
+    {
+      "value": "Purple ",
+      "trait_type": "Background "
+    },
+    {
+      "value": "Rare",
+      "trait_type": "Quality"
+    },
+    {
+      "value": "1",
+      "trait_type": "Season"
+    }
+  ]
+}

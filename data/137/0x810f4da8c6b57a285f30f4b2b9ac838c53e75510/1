@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV4mPWDaNDHiXbNd6wr2bBMpw4DfRB9tpiTztAxig6LRR/nft.png",
+  "nftContractAddress": "0x810f4da8c6b57a285f30f4b2b9ac838c53e75510",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "ShimaumaLLC_penguin",
+  "description": "ShimaumaLLC_original penguin",
+  "attributes": []
+}

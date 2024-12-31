@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRTKqZCZNj2jHyu4yb2XW9JkNpEoCF3Nfu2vsrqbAyg4Q/nft.png",
+  "tokenId": 4,
+  "description": "The Six Elements of Magatamas (SEM) visualizes the universe by five magatamas. The universe consists of the six elements of earth, water, fire, wind, emptiness, and consciousness.\n\nThis SEM's name is \"Prototype\". \n( SEM6E#000e0FC#0FCeF00#F00e00F\n#00FeFFF#FFFe000+cFF0)\nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x6392f80f5a556a22ffbbd49692e3a010d9af4773",
+  "animationUrl": "https://ipfs.io/ipfs/QmWUmySDpacrLEEbYagH3HG9uRJ32Au9LhYisVaAsMNELC/nft.png",
+  "chainId": "137",
+  "name": "SEM",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Prototype"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "SEM"
+    },
+    {
+      "trait_type": "Crypyan",
+      "value": "5"
+    }
+  ]
+}

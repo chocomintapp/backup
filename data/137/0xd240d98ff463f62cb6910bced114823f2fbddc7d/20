@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeccVmcBVq7aiBk4XqhUw87uHiRemQYSknvDukDAqt6xx/nft.png",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmWsd294658uECxLBNMyGbR6w3bnN5PH3eoRTNAKg8GzV2/nft.glb",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "Chickbit #20",
+  "description": "",
+  "attributes": [
+    {
+      "value": "uncommon",
+      "trait_type": "rarity"
+    }
+  ]
+}

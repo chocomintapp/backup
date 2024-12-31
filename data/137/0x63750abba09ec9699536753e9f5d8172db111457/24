@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaptDr5zM7TtLzNV7MimZCk6JtwZQs4nkL36kTzJqaCmJ/nft.png",
+  "nftContractAddress": "0x63750abba09ec9699536753e9f5d8172db111457",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "137",
+  "name": "PachiMon #00024",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Venom",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Old",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Top hat",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Short",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "None",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZu5DMu1pJ2Z7J79VFZ4JsLTzYm51NVbPcuyXET3EyvW3/nft.png",
+  "tokenId": 30,
+  "description": "Hello Girl in a suit protecting the floor price “1”",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#30 CRYPPL - Girl in a suit protecting the floor price “1”",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "FLOOR"
+    }
+  ]
+}

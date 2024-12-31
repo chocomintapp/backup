@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmawrzeEUtwEq7v9RcTzXD3LatbL5UDF3GvFa7CUzZh96H/nft.png",
+  "nftContractAddress": "0x47d310bba0747339e5f9e5a57a7ddff81283eb82",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Harmosa-Beach-#005",
+  "description": "I love Harmosa.",
+  "attributes": [
+    {
+      "value": "Harmosa beach",
+      "trait_type": "Location"
+    }
+  ],
+  "minted": "✅"
+}

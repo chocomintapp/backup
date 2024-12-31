@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmacjPqM23CzVtpSDpBLHeawAXzk6SuEr7LLCAr9JfZZ4g/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmacjPqM23CzVtpSDpBLHeawAXzk6SuEr7LLCAr9JfZZ4g/nft.png",
+  "tokenId": 49,
+  "chainId": "137",
+  "name": "Rabbit girl #11R 『あずき』",
+  "description": "Rabbit girl #11R 『あずき』\n\nRabbit Girls on a rainy day 🐰\nAzuki in good night mode with a pillow in the room.\nMay you have a good dream.",
+  "attributes": [
+    {
+      "value": "Azuki",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Rainyday",
+      "trait_type": "Series"
+    }
+  ],
+  "minted": "✅"
+}

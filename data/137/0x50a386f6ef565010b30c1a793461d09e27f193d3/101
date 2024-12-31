@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma9jas9mkmzSrMQCR69k89fT5ZBtTpQNMwrz7AUaJFQTC/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 101,
+  "chainId": "137",
+  "name": "hakorobo #101",
+  "description": "hakorobo #101 Artists Edition HKAE-11 Nujonakihs\n\noriginal work:\nhttps://hicetnunc.art/objkt/124685\n\nby:\nhttps://twitter.com/NtAECJPjTeGdQLh",
+  "attributes": [
+    {
+      "value": "HKAE",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Shoes"
+    }
+  ]
+}

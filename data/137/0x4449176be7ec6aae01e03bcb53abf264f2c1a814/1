@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXutsaRSWcSfVSWATx51VLeEapxQwkTDp5TsX5cu5vj2C/nft.png",
+  "nftContractAddress": "0x4449176be7ec6aae01e03bcb53abf264f2c1a814",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "A coffee bean #1",
+  "description": "License: BY-SA\nAuthor: ©shin/=fungible",
+  "attributes": [
+    {
+      "value": "white",
+      "trait_type": "background"
+    },
+    {
+      "value": "brown",
+      "trait_type": "bean"
+    }
+  ]
+}

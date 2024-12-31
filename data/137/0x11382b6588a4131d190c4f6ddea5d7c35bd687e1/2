@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVseZZ6VwNWUGMiqSrCNUqxLhYeY9DXMMS78BS667TvUc/nft.png",
+  "nftContractAddress": "0x11382b6588a4131d190c4f6ddea5d7c35bd687e1",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "V #006",
+  "description": "Haruka is a graceful woman. She enjoys studying and is very diligent. Her bad part is that she is quick to believe what people are saying. We broke up because of untoward rumors that made us untrustworthy of each other...\n\nMemory:White Day led to a lovers' relationship.",
+  "attributes": [
+    {
+      "value": "Sleeping",
+      "trait_type": "FAVORITE"
+    },
+    {
+      "value": "Studying",
+      "trait_type": "HOBBY"
+    },
+    {
+      "value": "Haruka",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "Earnest",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Finding fault with her friends",
+      "trait_type": "SPECIAL SKILL"
+    }
+  ]
+}

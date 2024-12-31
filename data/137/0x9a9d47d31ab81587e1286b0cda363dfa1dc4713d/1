@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUq9bhyeqnnNqF7SsMT7tBBZj8Ty2ATKpHUG1jC4QXvB8/nft.gif",
+  "nftContractAddress": "0x9a9d47d31ab81587e1286b0cda363dfa1dc4713d",
+  "animationUrl": "https://ipfs.io/ipfs/QmRXPQabwVFZWPaYSnKSCR4kYH6NtcUQUkhGLwXjavRaEg/nft.mp4",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "あまえび　-わくわくおせち-",
+  "description": "テスト用です。\nおせちは皆さん好きですか？",
+  "attributes": [
+    {
+      "value": "まだこ",
+      "trait_type": "ねたGIF"
+    },
+    {
+      "value": "えびてん",
+      "trait_type": "ねたmp4"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNwvAj5TtbaQCBxGexgEnmScmkZXFYWrmJMdjSJzMJZGs/nft.png",
+  "nftContractAddress": "0xf8f0063d933ade1d701871564ff07da46ec6e278",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "soldier No.1",
+  "description": "This NFT is made by Stable Diffusion",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZA24LgjzgmfAUU5epiyUXEjshfUxedsksdq2NKxw2WXH/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 138,
+  "chainId": "137",
+  "name": "WMM #0138 RYUJO 1936",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**RYUJO 1936**  \nThis silhouette is aircraft carrier Ryujo 1936  \nShe was the fourth light aircraft carrier built by the Imperial Japanese Navy after the Hosho, Akagi, and Kaga.\n\nDespite her small size, she showed a presence that could be said to exceed her capabilities in the southern campaign and the Aleutian Islands invasion.\n\nDue to repeated design changes, she was even called a defective aircraft carrier at one time, but she performed beyond expectations.\n\n**空母 龍驤 1936**  \n日本海軍が「鳳翔」「赤城」「加賀」に続き4番目に建造した軽空母です。\n\n小型ながらも南方攻略やアリューシャン列島攻略で実力以上とも言える存在感を示しました。\n\n度重なる設計変更により一時は欠陥空母とまで呼ばれましたが、予想以上の活躍をしました。\n\nこのNFTは1936年頃の龍驤のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Aircraft carrier",
+      "trait_type": "Ship"
+    }
+  ]
+}

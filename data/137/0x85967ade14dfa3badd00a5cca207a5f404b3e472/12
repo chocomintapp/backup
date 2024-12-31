@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQHzA8fgZfjVneRSbTCwS7cY9cmwckHkvwbLB57xN9a58/nft.png",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "BasketBallBabies ＃11",
+  "description": "Basket Ball Babies\nごりら\n\nBasket Ball Babies\nGorilla",
+  "attributes": [
+    {
+      "value": "GORILLA",
+      "trait_type": "TYPE"
+    }
+  ]
+}

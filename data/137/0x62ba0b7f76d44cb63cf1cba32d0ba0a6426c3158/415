@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaLN25pekdzMGC2C9uiEjjt6DbzsF6C36wyLJbPgTFsYY/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 415,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #415",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Gorilla",
+      "trait_type": "TYPE"
+    }
+  ]
+}

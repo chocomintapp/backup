@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbw3eLsYZUYF23r4q4iHwRQEFLuMG5DbJHDJY63zKcUbQ/nft.jpg",
+  "nftContractAddress": "0xd4f6e24e1db263269bef6502900768b9ecae0c36",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "CRUNK_AREA_0022",
+  "description": "Hardliners/Roppongi Brigade/First Regional Armed Self-Government Organization                                                                                                                           \nEvery character in the CRUNK AREA has a role to play, and everyone is hero.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Normal",
+      "trait_type": "Rarity"
+    }
+  ]
+}

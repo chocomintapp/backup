@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ5ZGTGjpFU67C1czYTniyv6cnKv7DMwMWFbMM9fsf4UK/nft.png",
+  "tokenId": 53,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**ARL44**  \nThis heavy tank was developed in France during the German occupation, and was completed shortly after the war.\n\nThe design itself was in the line of the B1-bis, with a powerful and precise 90mm main gun.   \nIt had a frontal length of 9m, a maximum armor thickness of 120mm, and a weight of 50 tons.\n\nIt was the largest tank in the history of France until the appearance of the third generation main tank Leclerc in the 1990s.It was the largest tank in French history.\n\n**ARL44 重戦車**  \nドイツ占領下のフランスで開発が進められ戦後まもなく完成した重戦車です。\n\n設計自体はB1-bisの流れを汲み主砲は強力かつ精密な90mm砲を搭載。前長9m、最大装甲厚120mm、重量は50tにもなりました。\n\n1990年代に第3世代主力戦車ルクレールが登場するまで\nフランス史上最大の戦車でした。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0053 ARL44",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "France"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ],
+  "minted": "✅"
+}

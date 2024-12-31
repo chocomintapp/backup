@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdRcxPBb8z9Gw6F5vUQVkGuptL5BL6Ua6ytQNyZttjZAd/nft.png",
+  "tokenId": 21,
+  "description": "Calligraphy Devil #21",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #21",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Beelzebub"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Amon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Envy"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU9QajccJ1tPKFLh1hsfgz341qMvj2UYJFFfsWLXGQ7tw/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 67,
+  "chainId": "137",
+  "name": "TANU-KIDS #066",
+  "description": "OGPのFA模様もまとったTANU-KIDS\nおしゃれたぬきに変身\n\nおかやまんさんTwitter\n→ https://twitter.com/FKYN_NFT\n\nコレクションリンク\n→ https://lit.link/okayamannft",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "OGP",
+      "trait_type": "Fan Art"
+    }
+  ]
+}

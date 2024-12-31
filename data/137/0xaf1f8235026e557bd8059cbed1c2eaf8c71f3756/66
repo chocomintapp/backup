@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUfDHmJM1UE64hfd2zAYEhwf4SmaX3c1o3S6eepkowLwX/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/QmUfDHmJM1UE64hfd2zAYEhwf4SmaX3c1o3S6eepkowLwX/nft.gif",
+  "tokenId": 66,
+  "chainId": "137",
+  "name": "WavyLongAnimals #66",
+  "description": "ベリロン二次創作",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Sloth",
+      "trait_type": "TYPE"
+    }
+  ]
+}

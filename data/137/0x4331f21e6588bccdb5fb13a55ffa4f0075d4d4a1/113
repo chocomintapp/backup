@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSY6vcc82PbrvXG1UQZoqGMn2ECRmrbVCS8KYMefDYvrG/nft.png",
+  "tokenId": 113,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KONGO 1944**  \nThis silhouette is Battleship Kongo in 1944.\n\nIt is a battleship that is renowned as one of the most distinguished ships of the Imperial Japanese Navy in World War II.\n\nAt the start of the Pacific War, she was already nearly 30 years old, yet she was active everywhere from the Indian Ocean to the Pacific Ocean.\n\nTogether with her partner, Haruna, she escorted aircraft carriers and bombarded the island of Guadalcanal at speeds exceeding 30 knots.\n\nThe ship achieved many war results, including the sinking of the U.S. Navy aircraft carrier \"Gambier Bay\".\n\n**戦艦 金剛 1944**  \n第二次大戦の連合艦隊最高殊勲艦と名高い戦艦です。\n\n太平洋戦争開始時には、既に艦齢30年に近い老兵だったにもかかわらず、インド洋から太平洋まで所狭しと活躍しました。\n\n僚艦の榛名とともに30ノットを越える快速で空母の護衛、ガダルカナル島砲撃、そして米空母ガンビア・ベイの撃沈など多くの戦果をあげました。\n\nこのNFTは1944年頃の金剛のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0113 KONGO 1944",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Battleship"
+    }
+  ]
+}

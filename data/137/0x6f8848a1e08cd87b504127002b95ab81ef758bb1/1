@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYS8RcRhyK9SQhdk1CF3rYyN4dZrbHx11NaisT2TEqbhJ/nft.png",
+  "tokenId": 1,
+  "description": "Ameyumi has permanently etched the Twitter exchange with Asagi-chan here.",
+  "nftContractAddress": "0x6f8848a1e08cd87b504127002b95ab81ef758bb1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Twitter of Asagichan with Hakuto and Ameyumi",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

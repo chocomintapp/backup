@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcFZd9KFkK5npBi5r1S9YgaNiMBADSb8jg7mcyKP8mcQa/nft.png",
+  "nftContractAddress": "0xbaf31e2889e0582a29bbdd6a6258e43c14d6f364",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Octopus Baby",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Octopus",
+      "trait_type": "TYPE"
+    }
+  ]
+}

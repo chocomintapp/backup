@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVdq597dYtr6iUotSVX7iA5qfXzKrkKLi2HyHUeJViCSu/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 191,
+  "chainId": "137",
+  "name": "hakorobo #191",
+  "description": "hakorobo #191 HKS-16",
+  "attributes": [
+    {
+      "value": "HKS",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Leather",
+      "trait_type": "Shoes"
+    }
+  ]
+}

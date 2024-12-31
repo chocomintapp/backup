@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYj4RHSTXkVtNh8xCerUoPdks4MZaPHGk2pg2enR2Z1me/nft.png",
+  "nftContractAddress": "0xb56e49b6428c85c77df4a936162509962caed661",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "Pumpkin Soup",
+  "description": "Pumpkin Soup\nA goblin's favourite! Owning this item unlocks fields and new seeds\n\nYou can craft this at the Kitchen in the game.\n\nSupply\nUnlimited\n\nCrafting Costs",
+  "attributes": [
+    {
+      "value": "Resource",
+      "trait_type": "PURPOSE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRjeXJeQYDMat61Mp4c4TWTrnLfabYVi6cVDdMrKez8yn/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 170,
+  "chainId": "137",
+  "name": "WMM #0170 TENRYU 1941",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TENRYU 1941**  \nThis silhouette is Light cruiser Tenryu in 1941.  \nIt was commissioned in 1919 and was the oldest light cruiser at the start of the Pacific War.\n\nDespite her age, she achieved great results in the First Battle of the Solomons by firing searchlights.\n\nShe was a small 3,000-ton class cruiser, but became the prototype for the later 5,500-ton class light cruisers.\n\n**軽巡洋艦 天龍 1941**  \n就役が大正8年と古く、太平洋戦争開戦時には最古参だった軽巡洋艦です。\n\n老艦ながらも第一次ソロモン海戦では探照灯射撃で大きな戦果を収めています。\n\n3000トン級の小型巡洋艦でしたが、後の5500トン級軽巡の原型となりました。\n\nこのNFTは1941年頃の天龍のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Light cruiser",
+      "trait_type": "Ship"
+    }
+  ]
+}

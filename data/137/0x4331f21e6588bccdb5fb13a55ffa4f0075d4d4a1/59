@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUWWzEyHVBg59eDUx1mFRcrSt9moZvx1KmN5LEH8KQV87/nft.png",
+  "tokenId": 59,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KAGA 1941**  \nThis silhouette is aircraft carrier KAGA in 1941.\n\nThe battleship \"Kaga\", which was to be decommissioned under the terms of the Disarmament Treaty, was reborn as an aircraft carrier with outstanding carrying capacity as a result of a major refit.\n\nIt had a 20cm gun, which was excessive for an aircraft carrier, and a flight deck that was 21m above the draft line. The huge hangar could hold as many as 93 aircraft, which was quite a large number.\n\nThis ship was the largest aircraft carrier in the Imperial Japanese Navy until the completion of the \"Shinano\".\n\n\n**空母 加賀 1941**  \n軍縮条約で廃艦となるはずだった戦艦「加賀」は意外な運命を辿り、ズバ抜けた搭載力を持つ空母に生まれ変わりました。\n\n空母には過大な20cm砲や飛行甲板を喫水線から21mも押し上げた巨大な格納庫など特徴的な本艦は「信濃」が完成するまで日本最大の空母でした。\n\nこのNFTは1941年頃の加賀のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0059 KAGA 1941",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Aircraft carrier"
+    }
+  ]
+}

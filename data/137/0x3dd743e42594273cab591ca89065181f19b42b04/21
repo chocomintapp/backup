@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeLziptKJin5m9moyscZ8qAXaPY7XXkf6zXq3T9Coj1Uk/nft.png",
+  "nftContractAddress": "0x3dd743e42594273cab591ca89065181f19b42b04",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "INARIHeroes Ver.2 x PARDEY",
+  "description": "PARDEY BASE SHIBUYAへの展示用作品です",
+  "attributes": [
+    {
+      "value": "PARDEY",
+      "trait_type": "Event"
+    }
+  ]
+}

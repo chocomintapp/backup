@@ -1,0 +1,16 @@
+{
+  "image": "https://crypto-code.jp/nft/ninja_14.png",
+  "tokenId": 1,
+  "description": "test",
+  "nftContractAddress": "0x2f6abfed0fcd30ab9988de866cf29a675a3486e8",
+  "animationUrl": "https://crypto-code.jp/nft/dynamic_001.html",
+  "chainId": "137",
+  "name": "test",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

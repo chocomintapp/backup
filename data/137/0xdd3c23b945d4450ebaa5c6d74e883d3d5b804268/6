@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRqaWwyLPfnzm5BhpJLpWgCH3GLAAZvwSSaKYAPQ7zTZX/nft.jpg",
+  "nftContractAddress": "0xdd3c23b945d4450ebaa5c6d74e883d3d5b804268",
+  "animationUrl": "https://ipfs.io/ipfs/QmWQdd6LFkqtcGREmgqzQcE8y6BEga3MwsJVzSYEfKZHwp/nft.html",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "NFTCRANE",
+  "description": "遊べるベリロンクレーンゲームNFTです。\n\nIt is a playable verylonganimals crane game NFT.",
+  "attributes": []
+}

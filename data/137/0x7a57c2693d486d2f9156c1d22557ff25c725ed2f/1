@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRdBy45jP5k466tBjpnPiwddJtTvow2HSkeAwyFZxpLfk/nft.gif",
+  "tokenId": 1,
+  "description": "動くキヨスイ",
+  "nftContractAddress": "0x7a57c2693d486d2f9156c1d22557ff25c725ed2f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sample01",
+  "attributes": [
+    {
+      "trait_type": "sex",
+      "value": "male"
+    }
+  ]
+}

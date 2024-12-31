@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf96j2GpvmsUmPves2QH3zTMjRKzAYdUej1vUpRrRc2zm/nft.PNG",
+  "tokenId": 4,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n2月27日\n\n昨日は、結局ダフトパンクっぽいヘルメットで客先へ行った部長です。道中で職務質問をされたことと、赤信号で停まるたびにスマホで撮影をされたことを除けば、まずまずの感触でした。今日は、見つからなくなってしまったフルフェイスの代わりとなるヘルメットを探しに、駅前のヘルメット専門店「Go to ヘルム」へやってきました。どうやら…入店時に端末へ頭のサイズと趣味嗜好を入力すると、機械が自動でピッタリ合うヘルメットを選んでくれる仕組みとのこと。順番に項目を入力していき、最後の項目「アメフトは好きですか？」に「どちらかといえば好き」を選んだ結果…。出てきたヘルメットは、アメフトのヘルメットでした。\n\nFeb 27\n\nYesterday he ended up going to a client with a Daft Punk-ish helmet. Aside from being questioned about his duties on the road and being photographed on his phone every time he stopped at a red light, he had a bad feeling about it. Today he came to Go to Helm, a specialty helmet store in front of the station, in search of a helmet to replace the full-face one he could no longer find. Apparently...when you enter the store, you enter your head size and preferences into a terminal, and a machine automatically selects a helmet that fits you perfectly. He entered each item in turn, and the last item, \"Do you like football? He chose \"I rather like\" as the result.... The helmet that came out was a football helmet.",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #057 Feb.27",
+  "attributes": [
+    {
+      "trait_type": "FOOTBALL HELMET",
+      "value": "Black Rabbits"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "SWEAT",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "White"
+    }
+  ]
+}

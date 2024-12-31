@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdNLWNJ5R9RPgiorNgzXPFaK9zqMQ72SR3Go99cjSjKaw/nft.png",
+  "tokenId": 2,
+  "description": "test",
+  "nftContractAddress": "0x959b046495858c4243fc51fbd881b2190d59c0cc",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "faceline",
+      "value": "green"
+    },
+    {
+      "trait_type": "hair ",
+      "value": "hand"
+    },
+    {
+      "trait_type": "outfit",
+      "value": "jelly"
+    }
+  ]
+}

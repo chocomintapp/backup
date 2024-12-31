@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR9wGZLUR55xZeBjaEaEWggb7qNr6e2ZWuePghi4keH8L/nft.png",
+  "nftContractAddress": "0xa87fb59da69e42d8bbb56b933e49830ae6922277",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc7shaTK8W9sTwQT2Hozv5EQZS8tMeosRe7M7UmDDQ2oM/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "testt",
+  "description": "tes",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

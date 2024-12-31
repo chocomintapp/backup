@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdxDU3oUiu8kkXEMpZYk6YznygjUXpb4o3rkhkupRS5hF/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 180,
+  "chainId": "137",
+  "name": "WMM #0180 GOLIATH",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**GOLIATH Sd.Kfz.302**  \nThis is a remote-controlled tank, a small giant that was fielded by the German Army.\n\nIt was powered by two 12V batteries to drive the motor, and was designed to carry up to 60kg of explosives to rush into the target and self-destruct.\n\nBecause it could be remotely controlled by a cable, the operator could operate it from a relatively safe position, but if the cable was cut, control would immediately become impossible. The low running capability of the vehicle also made it a weapon with many restrictions on its use by soldiers.\n\nLater, a model (Sd.Kfz.303) driven by a gasoline engine was also developed Kfz.303) was developed, but it did not contribute to the war situation.\n\n**ゴリアテ Sd.Kfz.302**  \nドイツ軍が実戦投入した小さな巨人、小粒でも大打撃なリモコン戦車です。\n\n12Vバッテリー2個を動力源にモーターを駆動し、最大60kgの爆薬を搭載してターゲットに突入、自爆する仕様でした。\n\n有線で遠隔操作が出来たので、操縦者は比較的安全な位置から運用が可能でしたが、ケーブルを切断されると即座にコントロール不能になり、走破性も低かった事から用兵上の制約が多い兵器でもありました。\n\n後にガソリンエンジンで駆動するモデル（Sd.Kfz.303）も開発されましたが戦況に寄与する事はありませんでした。\n",
+  "attributes": [
+    {
+      "value": "Germany",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Other",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

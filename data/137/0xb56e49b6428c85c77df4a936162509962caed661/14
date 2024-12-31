@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPr4YgFEwyFmvGD3GY1UrJnf151jkqtkE3e4a45UxASmq/nft.png",
+  "nftContractAddress": "0xb56e49b6428c85c77df4a936162509962caed661",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "Barn Manager",
+  "description": "A level 5 farming skill badge",
+  "attributes": []
+}

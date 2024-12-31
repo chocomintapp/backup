@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZksdjc2CdXK3e9WesDG4a1xBJyaMoVaKqhPoDLfCbnqL/nft.png",
+  "nftContractAddress": "0x1e3c074e85ecb3b49c987e826230d03c0f76cd16",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Cute Pigs Cap",
+  "description": "Cute Pigs Cap Made by Antom_factory",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

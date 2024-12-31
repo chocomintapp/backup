@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme7CqTXnDgD5bnpNfn7ZErj7TSVqmCgEPgDLXfCBefEn5/nft.png",
+  "tokenId": 70,
+  "description": "Creator [Kujira941](https://twitter.com/riddimlife1)\n\nおみくじくじ！",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "https://ipfs.io/ipfs/QmUVHd34ZzH49jHrfBs3K2aTBAcwd5cRXjRJR5KF9xjje6/nft.glb",
+  "chainId": "137",
+  "name": "大吉 #18",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "大吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Kujira941"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

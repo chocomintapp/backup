@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeNizTXzTLDfWLMr37gPkM6bbuweXXzr1ZJtNG6GBVbmv/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 56,
+  "chainId": "137",
+  "name": "#0054_Razzmatazz",
+  "description": "#0054_Tanshiki_MRr_Razzmatazz",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Razzmatazz",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Razzmatazz",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Razzmatazz",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaaKGP43TcZmyAEaQ1A5fG9T9itETpuudJMGinRFaSUdW/nft.png",
+  "nftContractAddress": "0xb6ff710e4ec296fe5ab3a4db77bf1d14e6b9281c",
+  "animationUrl": "",
+  "tokenId": 166,
+  "chainId": "137",
+  "name": "#166",
+  "description": "daddy #166",
+  "attributes": [
+    {
+      "value": "egg",
+      "trait_type": "TYPE"
+    }
+  ]
+}

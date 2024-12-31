@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYXmK71tFx6jEZBe5XjscsFyKK5Lf1H96E1TmSwZET33c/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 41,
+  "chainId": "137",
+  "name": "TANU-KIDS #040",
+  "description": "Neko-higeに変身したTANU-KIDS\n\nNeko-hige FA\nhttps://opensea.io/collection/nekohige-r",
+  "attributes": [
+    {
+      "value": "Nekohige",
+      "trait_type": "Fan Art"
+    }
+  ],
+  "minted": "✅"
+}

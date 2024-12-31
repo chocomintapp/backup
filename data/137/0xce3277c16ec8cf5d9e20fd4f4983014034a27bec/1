@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXd5LdLhXXQCc69vjooCZQziSHyD12FFETRraXwm5Xo6p/nft.png",
+  "nftContractAddress": "0xce3277c16ec8cf5d9e20fd4f4983014034a27bec",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "start",
+  "description": "web3 Takamatsu DAO's first commemorative NFT",
+  "attributes": [],
+  "minted": ""
+}

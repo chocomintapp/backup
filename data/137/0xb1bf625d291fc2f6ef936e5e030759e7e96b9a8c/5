@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZcnixaTgiEkCu1QiuBREYCtmFnDEy95REKYrp6Spq2WT/nft.jpeg",
+  "tokenId": 5,
+  "description": "Human + Animal = Hunimal",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "HUNIMAL #5",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Hunimal"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Green"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Walrus + Human"
+    },
+    {
+      "trait_type": "FASHION",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "Regent/Boston"
+    },
+    {
+      "trait_type": "STYLE",
+      "value": "Rockabilly"
+    }
+  ]
+}

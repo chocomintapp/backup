@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeJx2RtyrgYyTNhyLwaRpv3y4r3xTXE3dyouGjZjMFDPE/nft.png",
+  "nftContractAddress": "0x2e0edb074e522be992ae172cadf7c6a3797fbab7",
+  "animationUrl": "https://ipfs.io/ipfs/QmSqgt3PfCbDxbzQyVAHWHDmPnhioTUkU4AvdrcRjqukzb/nft.glb",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "chillienS#1",
+  "description": "",
+  "attributes": [],
+  "minted": ""
+}

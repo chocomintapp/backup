@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYno99C9tQyzSnj24G34wyEKNbVPVt9Msu6bnVNXWh9eL/nft.PNG",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "",
+  "tokenId": 863,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #962",
+  "description": "2022/07/21 21:12\n\n先日GORO　DAOというモノが爆誕した。\nまだ「DAOのような何か」ではあるが近い将来日本最大のDAOになってると信じて疑わない。\n\n\n",
+  "attributes": [
+    {
+      "value": "HOT WHEELS × NIKE PG 6 RED/BLUE",
+      "trait_type": "M"
+    }
+  ]
+}

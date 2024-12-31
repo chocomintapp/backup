@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUXpKrvdUDqsQAnaTWEQtPozNxN4zXceiuNKV1efQhY79/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "137",
+  "name": "Day18 Umitsuru's Art #54",
+  "description": "海に浮かぶ孤島をイメージしています。\n\nThe image is of an isolated island floating in the sea.",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

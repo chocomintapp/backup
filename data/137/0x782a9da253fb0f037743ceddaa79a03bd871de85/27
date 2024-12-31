@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ9rfkfzwdcpdSA1rNsHvWS2wF4dqF6jEfZtxVXw5WXxB/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "137",
+  "name": "VerySilentFruits#27 Blackberry",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Blackberry",
+      "trait_type": "Fruit"
+    }
+  ]
+}

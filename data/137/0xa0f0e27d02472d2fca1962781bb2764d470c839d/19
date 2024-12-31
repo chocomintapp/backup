@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZun4S99U8nQ1mKeD1sUMq2TfM4gM8m1GsiUUWHDvhGU7/nft.png",
+  "tokenId": 19,
+  "description": "食事の時が一番幸せ！\n\nI'm happiest when I'm eating!",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Blissful Hippo",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Hippo"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

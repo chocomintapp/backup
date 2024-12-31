@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY9CxhLjEHQ4whZ25nzN8PmvhpkR52rVsSX5HQDC8SgSh/nft.jpg",
+  "nftContractAddress": "0x9d26fa72382483750c6420c0c5ab26ed9564dcd4",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "mask",
+  "description": "-",
+  "attributes": []
+}

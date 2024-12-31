@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUtFqErv3LQi6HPHh965Gt3vEpSBgpYPCytH5cuTw6dPn/nft.jpg",
+  "tokenId": 10,
+  "description": "What do you want to do when you grow up?",
+  "nftContractAddress": "0x2c4577aa31f91965daf36df2191667153ca31f18",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "chibikko-egg#10",
+  "attributes": [
+    {
+      "trait_type": "character",
+      "value": "?"
+    },
+    {
+      "trait_type": "food",
+      "value": "?"
+    },
+    {
+      "trait_type": "type",
+      "value": "?"
+    }
+  ]
+}

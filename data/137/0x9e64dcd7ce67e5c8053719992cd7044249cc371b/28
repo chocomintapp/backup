@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTuDGXwVoxJNsjah3UUCFrsBTZyURsXXHnYfB4LpJw6v1/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "HAKUHODO KEY3 × VeryLongAnimals #2",
+  "description": "Celebrating the Very Happy New Year 2023. A collaboration with HAKUHODO KEY3.",
+  "attributes": [
+    {
+      "value": "Mochi",
+      "trait_type": "TYPE"
+    }
+  ]
+}

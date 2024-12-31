@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSF62AvSVyjq4br2zpcr6Mw49TyzF218ddnT9WXLRoLhr/nft.png",
+  "tokenId": 4,
+  "description": "This icon was created from a comic.",
+  "nftContractAddress": "0x54c5e0b104adb8765a54d094a7d68c1d5701de4f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#1 - 4",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Cast",
+      "value": "Others"
+    },
+    {
+      "trait_type": "ComicID",
+      "value": "1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcL2sFJRGo6sTyrdbQP86SSnceTC5M9LwwLvJQn3FHLuq/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 126,
+  "chainId": "137",
+  "name": "Day58 Umitsuru's Art",
+  "description": "The time spent eating grapes is very enriching.\n\nブドウを食べている時間は、とても豊かな気持ちになります。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

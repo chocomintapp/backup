@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbNpAdizcA12wAvKFt95yTykETnFpMw8gKfkDWWniJG1r/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "137",
+  "name": "HUNIMAL #42",
+  "description": "Human + Animal = Hunimal",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Red",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Siamese cat + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "90s",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Bob hair",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Rock",
+      "trait_type": "STYLE"
+    }
+  ]
+}

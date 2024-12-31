@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZhkuSAvALd5wobRdMPjRX5CbLjredBfVcUbKtZgEU9w2/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "THS 1/7",
+  "description": "",
+  "attributes": [
+    {
+      "value": "bird",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "leaf",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

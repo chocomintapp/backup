@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSLGSmLj2oLGxRQzthbax7XbL3A9m8GsvEMVeYRweCB7Z/nft.jpeg",
+  "tokenId": 5,
+  "description": " My favorite item.\nChanged sole color.",
+  "nftContractAddress": "0xe9c4d57d69ad06ab266e41141db6b8c7779cd984",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Fav #002 RW_mono"
+}

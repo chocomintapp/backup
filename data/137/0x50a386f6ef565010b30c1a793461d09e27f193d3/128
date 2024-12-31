@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcikLJn4R9a6urijp4BSYTT9Z1EtfQdWPzWWtnrHJqtpQ/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 128,
+  "chainId": "137",
+  "name": "hakorobo #128",
+  "description": "hakorobo #128 HKVS-23",
+  "attributes": [
+    {
+      "value": "HKVS",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Leather",
+      "trait_type": "Shoes"
+    }
+  ]
+}

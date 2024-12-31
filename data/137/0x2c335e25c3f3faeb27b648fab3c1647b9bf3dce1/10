@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPxwQm4ECv9cjyzY1Qd1f43zVq7UE5K2HrUjdn6Lmk4TV/nft.png",
+  "tokenId": 10,
+  "description": "marble Rabbit",
+  "nftContractAddress": "0x2c335e25c3f3faeb27b648fab3c1647b9bf3dce1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "marble Rabbit"
+}

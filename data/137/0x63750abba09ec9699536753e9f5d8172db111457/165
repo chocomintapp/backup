@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRnA4HGa1f32YST9CeerxMb29HL39cyMmbYngcLUfd7Me/nft.png",
+  "nftContractAddress": "0x63750abba09ec9699536753e9f5d8172db111457",
+  "animationUrl": "",
+  "tokenId": 165,
+  "chainId": "137",
+  "name": "PachiMon #00165",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Turnip",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Dot T1 black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Ushanka",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Spot",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "None",
+      "trait_type": "Accessory"
+    }
+  ]
+}

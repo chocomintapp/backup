@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVypsGZRsbjLb5mCmNtfXjHzsWA1bbNaS8eq3vwf2x3YA/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 308,
+  "chainId": "137",
+  "name": "#308",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Poison and heat wave",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#08575B",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Polluted nation",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Combat gas mask",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Details unknown",
+      "trait_type": "main damage"
+    }
+  ]
+}

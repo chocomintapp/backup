@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQWtFDJMFihCvkszuPVhYuWrnCxRJLQK8zvuHj9pV73sR/nft.png",
+  "tokenId": 1,
+  "description": "TrystARの開発中のアリナちゃんのイメージです。",
+  "nftContractAddress": "0xe90743949abb8bf624f4c45c63ef1f076993a3de",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "TrystAR開発中のアリナ",
+  "attributes": [],
+  "minted": ""
+}

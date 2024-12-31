@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYYt3cgNG8JpX9jzmQ25TgvVwdykCC8RdXo2YKnXwngiz/nft.png",
+  "tokenId": 126,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**ELEFANT**  \nIt is a heavy tank destroyer that can be said to be the final form that the genius Dr. Porsche arrived at.\n\nIt was ambitious, with 200mm of armor on all sides, a main gun of 8.8cm PaK43, a total weight of 65 tons, and an electric hybrid drive system.\n\nAlthough it had weaknesses in its undercarriage and electrical system, it saw significant service on the Eastern Front and in Italy.\n\n**エレファント 重駆逐戦車**  \n奇才ポルシェ博士が辿り着いた最終形態とも言える重駆逐戦車です。\n\n全面装甲200mm、主砲8.8cm PaK43、総重量65トン、更に駆動装置が電動ハイブリットという野心的なものでした。\n\n足回りや電気系統の脆弱さもなんのその、東部戦線やイタリアで鬼神のごとく暴れ回りました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0126 ELEFANT",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

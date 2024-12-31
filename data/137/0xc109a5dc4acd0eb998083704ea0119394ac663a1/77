@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPwdSzq2S5bcd3RYMESR5PM9pcHjHooDLgi4AR22p7gVe/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 77,
+  "chainId": "137",
+  "name": "#77",
+  "description": "ape",
+  "attributes": [
+    {
+      "value": "Ape",
+      "trait_type": "RACE"
+    }
+  ]
+}

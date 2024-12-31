@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd7V1qC41vg8FtUh9JsjUsj5mTwmBZbAKt2qHBdf1QYgV/nft.gif",
+  "tokenId": 7,
+  "description": "Moving Noun 6",
+  "nftContractAddress": "0xbe4a1f7f3e65cb04924bc189261f3fcfd4a76b6e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "GIF Noun 6",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cool"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Magenta"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Insignia"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Hip-rose"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYmr88htRa81pqXZDpvBXC7DWvRFUfoxtX4wW8HBPN77d/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 48,
+  "chainId": "137",
+  "name": "TANU-KIDS #047",
+  "description": "消防士に変身したTANU-KIDS\n\n火の用心\n街の安全を守ります",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Firefighter",
+      "trait_type": "Occupation"
+    }
+  ]
+}

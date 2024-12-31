@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQHExCmbrwLLc2yiGZE1yo2otCYSe6Bf4kn4THg6ujgX4/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "HUNIMAL #20",
+  "description": "Human + Animal = Hunimal",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Peach",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Otter + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "80s",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Regent",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Hippy",
+      "trait_type": "STYLE"
+    }
+  ]
+}

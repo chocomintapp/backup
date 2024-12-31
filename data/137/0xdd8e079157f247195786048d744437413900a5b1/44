@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPG9zgV8T9rr6XfzAX7N3Br9rufR8uke8KuYiXMSuqJU7/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmPG9zgV8T9rr6XfzAX7N3Br9rufR8uke8KuYiXMSuqJU7/nft.gif",
+  "tokenId": 44,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #44",
+  "description": "ベビロン二次創作",
+  "attributes": [
+    {
+      "value": "Raccoon",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbh9T7GBh4SQm3ZF5zU5hnAiQJDsAxKGdkQuvCCKfvxav/nft.jpg",
+  "nftContractAddress": "0xd96a36aab172e830e250baaa6c8ea4bb12518741",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "first photo",
+  "description": "by Ichino",
+  "attributes": []
+}

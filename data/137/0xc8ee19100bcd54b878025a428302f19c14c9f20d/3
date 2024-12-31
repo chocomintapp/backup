@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfRWzR8SdK3v7PKDVzufz48pno3PWmBfuFCPCod7tVUny/nft.mp4",
+  "nftContractAddress": "0xc8ee19100bcd54b878025a428302f19c14c9f20d",
+  "animationUrl": "https://ipfs.io/ipfs/QmaZzHVWcfSHTzZaM2joTcbey7tTX2n62Pt89q83q4kfHE/nft.png",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "GOLD002",
+  "description": "Thank You for Publicity!",
+  "attributes": []
+}

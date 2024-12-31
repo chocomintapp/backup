@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRsBzc5TC7fPz1dN3SMxGN5cdSEhMejYehd8X2ApEXYYx/nft.jpeg",
+  "nftContractAddress": "0xedda5766883fd6d11141dbae58889af2c73a34c0",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "すしNFT",
+  "description": "cocoaのひな祭りの景品",
+  "attributes": []
+}

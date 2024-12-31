@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWbR6gVYVLbU4tfEsjrJP6etp9UTThArEBrAXzSeoesJN/nft.png",
+  "nftContractAddress": "0xc64d4d6311ad6a322b83c94efbd5a56e51253f76",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "PANDA_TEST",
+  "description": "PANDA",
+  "attributes": [],
+  "minted": "✅"
+}

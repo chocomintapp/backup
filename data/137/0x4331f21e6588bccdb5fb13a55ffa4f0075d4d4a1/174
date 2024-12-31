@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme4hdBmvatVd1195gmcz2enNpZMacz49UsUHvHwspqvFe/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 174,
+  "chainId": "137",
+  "name": "WMM #0174 TYPE95 Ha-go",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TYPE95 Ha-go**  \nIt was the most widely produced tank in the Japanese Army.\n\nIt was also the first tank developed by a private company (Mitsubishi Heavy Industries).\n\nIn addition to its high speed (44 km/h) and excellent running ability, the main gun, a 37 mm gun, had a higher penetrating power than the 57 mm gun of the Type 89 medium tank, which was the mainstay of the tank at the time.\nThe engine, of course, is not flammable, and is well-known for its flame resistance.\n\nOf course, it adopted a diesel engine, which is well-known for its low combustibility.\n\nIt was a high-performance light tank of the same generation even when viewed from a global perspective, and was active in the Nomonhan Incident against Soviet T-26 light tanks and BT tanks.\n\n**九五式軽戦車 ハ号**  \n日本軍で最も多く生産された戦車です。\n\n初めて民間企業（三菱重工）が開発した戦車でもあります。\n\n軽戦車ならではの快速（44km/h）と優れた走破性を持った上に、主砲の37mm砲は当時主力だった八九式中戦車の57mm砲よりも\n貫徹力が上でした。\n\nもちろんエンジンは燃えにくいでお馴染みのディーゼルを採用しています。\n\n同世代の軽戦車としては世界的に見ても高性能で、ノモンハン事件ではソ連軍のT-26軽戦車やBT戦車を相手に活躍をしています。\n",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

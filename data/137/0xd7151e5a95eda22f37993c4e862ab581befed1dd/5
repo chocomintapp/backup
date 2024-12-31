@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQqZDLyPxgtru99qW52eiXjNT2QRUJ1aRb6HdBYcBMBWZ/nft.png",
+  "nftContractAddress": "0xd7151e5a95eda22f37993c4e862ab581befed1dd",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "#004 Tim USDC Hikyaku",
+  "description": "Tim works to deliver valuable gifts and luggage.",
+  "attributes": [
+    {
+      "value": "Crypto",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Delivery",
+      "trait_type": "JOB"
+    }
+  ],
+  "minted": "✅"
+}

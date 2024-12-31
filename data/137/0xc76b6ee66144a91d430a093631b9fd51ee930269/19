@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQrzS15wSbDkZcfv7TXcigZji2PgA5RBZosFqEZtgPYvC/nft.png",
+  "nftContractAddress": "0xc76b6ee66144a91d430a093631b9fd51ee930269",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "VeryLongPressAnimals #19",
+  "description": "LET'S MAKE IT LONGER AND PRESS IT!!!!",
+  "attributes": [
+    {
+      "value": "Turtle",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

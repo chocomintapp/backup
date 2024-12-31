@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdxoNui35jVoTZaEdhR1LeT8aToVvgEkSk6Kyk7aP8d64/nft.png",
+  "tokenId": 28,
+  "description": "Hello Sorcerer Ifran of the Ether.",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#28 CRYPPL - Sorcerer Ifran of the Ether",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "FRWC_ID",
+      "value": "1115"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUyVUsQh2yc893Y2b11yx7dBmuTMwnW5cMH5CEbGVtFaH/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 124,
+  "chainId": "137",
+  "name": "Working Ganmichan #37",
+  "description": "超超低フリクションのベアリングでチューニングしたがんみちゃんのスケボー。ピーキーすぎてお前にゃ無理だと語りかけているようだ。",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "skateboard",
+      "trait_type": "situation"
+    }
+  ]
+}

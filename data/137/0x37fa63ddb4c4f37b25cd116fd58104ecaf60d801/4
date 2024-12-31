@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfNK5o5gzx9ykg5QgLjqzfreTyiM6g7rRmoRRoVpyxuNW/nft.png",
+  "nftContractAddress": "0x37fa63ddb4c4f37b25cd116fd58104ecaf60d801",
+  "animationUrl": "https://ipfs.io/ipfs/QmbCwTHhuX4ecHePeWFBfSFRKWNLYYNjG2rvsLzYwh1Ch9/nft.png",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "kakure hitomi 隠　瞳美",
+  "description": "Her name is Kakure Hitomi.     \nShe is the mother of Meme and Shun. She is a good person who can play with the same tension as Meme and her friends.      \nHer favorite thing is to make her family happy.      ",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

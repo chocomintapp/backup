@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSuj1JYzRWYjL3bdeWyRNxpeg9LuKXr29dmb8hHQtBqJ6/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "大吉 Cling Wrap #02",
+  "description": "大吉をキツめに巻いてみました。笑\n\nDaikichi rolled so hard.hahaha\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "attributes": [
+    {
+      "value": "cling wrap",
+      "trait_type": "special  item"
+    }
+  ],
+  "minted": "✅"
+}

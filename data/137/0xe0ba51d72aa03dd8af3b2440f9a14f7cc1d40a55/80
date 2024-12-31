@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcr2N4gRuZhKZ5sz3RELkg3wSRfC9zkA2TqSGkSpRXS6V/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 80,
+  "chainId": "137",
+  "name": "独り言が多いえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ワキガアマイ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ギョウザ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "ツブアン",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "料理教室",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "ショシンワスルベカラズ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

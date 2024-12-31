@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQVHY8CvWsYRYfxArEq9wgu287ucshFtAQERmDNwZB7LK/nft.jpg",
+  "nftContractAddress": "0xce9036ad9234119a64a916f32254e178790aef23",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Pro Golemer Certificates 初段 @rakugaki_siruku",
+  "description": "This NFT proves @rakugaki_siruku is a pro-golemer first dan!",
+  "attributes": [
+    {
+      "value": "初段",
+      "trait_type": "初段"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQu1EodT6HQ7WQMSuNvdMpjgUAfz8k9vtNVYR3fHz9krw/nft.jpg",
+  "tokenId": 10,
+  "description": "On the night of the full moon, a human who has become a werewolf wanders in search of fresh blood and flesh. His immortal body can only be harmed by a silver bullet.",
+  "nftContractAddress": "0xf13d30e70b534bbbac748e12eba9223dd1cd6ce7",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "The Wolfman"
+}

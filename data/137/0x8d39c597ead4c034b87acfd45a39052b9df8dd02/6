@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW1JJDrtBs5X6vn9m8YPEbswGH9tGNmDUQTbK1KRPJoGb/nft.jpg",
+  "tokenId": 6,
+  "description": "This is a gift from BSP.\nEnjoy in your various unique ways.",
+  "nftContractAddress": "0x8d39c597ead4c034b87acfd45a39052b9df8dd02",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Coastal Drive",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Back Ground",
+      "value": "Coastal Rord"
+    },
+    {
+      "trait_type": "Car Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Driver",
+      "value": "High Fashion Lover Baby Skull"
+    }
+  ]
+}

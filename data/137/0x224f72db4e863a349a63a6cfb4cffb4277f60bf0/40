@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYf76ExBQYM4ePkswAGyQJKTmkjqR8VGNmdhh5iDyo3Ay/nft.png",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "137",
+  "name": "#40 CRYPPL - Magus Koop of El Dorado",
+  "description": "Hello Magus Koop of El Dorado.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "1711",
+      "trait_type": "FRWC_ID"
+    }
+  ]
+}

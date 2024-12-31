@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQNyxE27Kb3K1gtmbMJDceKk8oVQZjhukrh5Y74xNwkcX/nft.gif",
+  "tokenId": 3,
+  "description": "",
+  "nftContractAddress": "0x238312a4b25d38da55f437c35bb713f2a5924664",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Blink",
+  "attributes": [
+    {
+      "trait_type": "Attribute",
+      "value": "Angel Wings"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow Trans"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Headphone",
+      "value": "Red v.1"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Oculus"
+    },
+    {
+      "trait_type": "Pet",
+      "value": "Pig"
+    },
+    {
+      "trait_type": "Bag",
+      "value": "Black Backpack"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Black Cat"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdpLKmKB6QdQB5CBZwPmULGvombhU5aDGMMEpwBKE9wfK/nft.png",
+  "tokenId": 1,
+  "description": "sloth samurai is a lover, not a fighter.\na pacifist.\nsloth samurai doesn't like fighting.\nThey're in full armor, but it's an antithesis.",
+  "nftContractAddress": "0x98e37d44de6000f7f0d8d44872a0ccd23f6456b0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sloth_samurai#000",
+  "attributes": []
+}

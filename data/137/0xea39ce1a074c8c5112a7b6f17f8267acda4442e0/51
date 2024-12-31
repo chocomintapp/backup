@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUgJmbEFx8biX1HenmzyJ4QCqh6tyeTNxPEoVRY5JuPcT/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 51,
+  "chainId": "137",
+  "name": "TANU-KIDS #050",
+  "description": "キリンに変身したTANU-KIDS\n\n変身したけど首は長くならなかった",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Giraffe",
+      "trait_type": "Animal"
+    }
+  ]
+}

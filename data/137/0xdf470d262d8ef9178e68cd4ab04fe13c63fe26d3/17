@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeG9GmLboEyg6m5Pv7ZF1idkuRoUL3QNWPDgu5qc3Gwxn/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmZquaiVED4nGRr8hrgA1C22hwd6W2oe1gUbuiYdRVmcnJ/nft.gif",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "Kawaii Legends #017",
+  "description": "#017 Amabie Kawaii\n\"Prayers for Healing! May everyone get well and have fun rampaging again, YAY!\"\n\nThis is a special version of Amabie-chan created by pixel999.9, arranged in the style of Kawaii Legends NFT collection.\n\nAmabie is a spirit that appears in ancient Japanese texts and is said to appear to quell plague.\nDue to COVID-19, Amabie has attracted attention again and characterization in Japan.\n\npixel999.9さんが制作したアマビエちゃんを、Kawaii Legends NFTコレクション風にアレンジした特別バージョンです。\n\nアマビエは日本の古文書に登場する妖怪で、疫病を鎮めるために現れると言われています。\nコロナ禍によってアマビエは日本で再注目され、キャラクター化されるようになりました。",
+  "attributes": [
+    {
+      "value": "Water sprite",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Force",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Wisteria",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Scale dress",
+      "trait_type": "Outfit"
+    },
+    {
+      "value": "Water waves",
+      "trait_type": "Foreground"
+    }
+  ],
+  "minted": "✅"
+}

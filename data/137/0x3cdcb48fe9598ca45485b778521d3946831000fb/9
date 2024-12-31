@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfHJMtjH2JMUmFkNrDFnmvv3NnRqECUttakLYRsBVqhTv/nft.png",
+  "nftContractAddress": "0x3cdcb48fe9598ca45485b778521d3946831000fb",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "OOTD #DAY9",
+  "description": "Record the daily coordination of a dog on Polygon.",
+  "attributes": [
+    {
+      "value": "Ice Cream",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "None",
+      "trait_type": "Eyewear"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Skin color"
+    },
+    {
+      "value": "None",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Simple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "None",
+      "trait_type": "Special"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma7ZVsmyfpy2gz1RVPFv3XJpxCXdJ9FnRL59v4F7V2rE3/nft.jpg",
+  "nftContractAddress": "0x212790eab041c25f65ff3183f0ab9472ffcc3b72",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "137",
+  "name": "PI #35",
+  "description": "The theme of this project is a relaxing space that sways between real and virtual.\nPixel data digitally collaged based on a photograph was reflected on an irregularly swaying plane to create a polygonal image.\nShooting the irregularities of virtual waves ensures the originality of each image.",
+  "attributes": [
+    {
+      "value": "Shinjuku",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Sand",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Moon",
+      "trait_type": "Accessory"
+    }
+  ],
+  "minted": "✅"
+}

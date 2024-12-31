@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPfBM8jhEvKAGUia33uN8WGHvWZcGnu9Acw3sg7iM8q9G/nft.jpg",
+  "nftContractAddress": "0x69c27e97998da51bb654ce8a5c12bdf54941c4a6",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "sunset",
+  "description": "Sunset photo taken in Yellowstone",
+  "attributes": [],
+  "minted": ""
+}

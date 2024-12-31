@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXRSu4C96sUTFY56L7PAbi8rDWbprUZqn5XzhNRLbD9PX/nft.jpeg",
+  "tokenId": 2,
+  "description": "BAPDN02",
+  "nftContractAddress": "0x431643c86e40cc1d9b2028ba1759fade4009ea27",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Chocomint_BAPDN02",
+  "attributes": []
+}

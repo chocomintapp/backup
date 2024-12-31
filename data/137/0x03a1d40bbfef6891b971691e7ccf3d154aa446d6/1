@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb9wD9EmKFsRFqP3UBn5W2Sfhhq2hWCRAmkVrxZohyz6j/nft.png",
+  "tokenId": 1,
+  "description": "#\"Crypto≒NOTION Grande étoile\"  \n  \nMegumi  \nCollection : https://opensea.io/ohayo_megumi_JAPON  \nTwitter : https://twitter.com/Crypto__Notion  \nCyber : https://oncyber.io/crypto_notion  \n  \nMizuhota  \nTwitter : https://twitter.com/mizuhota  \n  \n  \nhttps://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/42670642797936107356055322824615903473645034626368598420209573347051385651208",
+  "nftContractAddress": "0x03a1d40bbfef6891b971691e7ccf3d154aa446d6",
+  "animationUrl": "https://ipfs.io/ipfs/QmZee2bNTCR8kFScKv6hZBJ4JY5rynfHBtf91oAN9EaMGg/nft.png",
+  "chainId": "137",
+  "name": "CyberBox Mement #1 (collab with Megumi for WhiteCube)",
+  "attributes": [
+    {
+      "trait_type": "SPACE",
+      "value": "WhiteCube"
+    },
+    {
+      "trait_type": "SUPPLY",
+      "value": "8"
+    },
+    {
+      "trait_type": "COLLAB",
+      "value": "Megumi"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Universe"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Memento"
+    }
+  ],
+  "minted": "✅"
+}

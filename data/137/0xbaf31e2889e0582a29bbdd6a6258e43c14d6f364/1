@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTXw6rvk4J6Mi6EJrQFoXPeZx756yPL1AhdZPgNRXuRKG/nft.png",
+  "nftContractAddress": "0xbaf31e2889e0582a29bbdd6a6258e43c14d6f364",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "White Cat Baby",
+  "description": "",
+  "attributes": [
+    {
+      "value": "White Cat",
+      "trait_type": "TYPE"
+    }
+  ]
+}

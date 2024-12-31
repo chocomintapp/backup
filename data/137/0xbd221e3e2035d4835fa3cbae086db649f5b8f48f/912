@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNLu16u3rdLwwZqLEFhKKtbXsiuyjcTnWcEXXiuBiu6FV/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmNLu16u3rdLwwZqLEFhKKtbXsiuyjcTnWcEXXiuBiu6FV/nft.mp4",
+  "tokenId": 912,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1012",
+  "description": "メタバースバラエティー番組\n誰もしてないから即チャレンジ",
+  "attributes": [
+    {
+      "value": "aj5",
+      "trait_type": "M"
+    },
+    {
+      "value": "Bプルート",
+      "trait_type": "押韻職人"
+    },
+    {
+      "value": "禅",
+      "trait_type": "BG"
+    }
+  ]
+}

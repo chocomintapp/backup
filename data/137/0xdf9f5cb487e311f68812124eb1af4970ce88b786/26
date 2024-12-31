@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd4fSmjaS2ovyAyMvW9ALPktjjdwKWQFfASY9eJ8gLiVh/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "Working Ganmichan #18",
+  "description": "Ganmichan the fighter",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "fighter",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

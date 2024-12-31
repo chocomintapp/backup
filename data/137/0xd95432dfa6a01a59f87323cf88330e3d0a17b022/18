@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZYE9LgqRpdMNBfURpQafkKYSkk7pTkgwHNW5b5UxFSTA/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "137",
+  "name": "大吉 Crown #18",
+  "description": "これであなたも王様です。笑\n\nYou are also the king.hahaha\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "attributes": [
+    {
+      "value": "gold crown",
+      "trait_type": "special item"
+    }
+  ]
+}

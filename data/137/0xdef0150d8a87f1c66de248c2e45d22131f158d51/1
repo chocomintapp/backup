@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPjbjb2RJ3jRkM8Eo6wiZNbE3KaWoHz7wdcQGwmVhjgve/nft.PNG",
+  "nftContractAddress": "0xdef0150d8a87f1c66de248c2e45d22131f158d51",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "VeryLongPlants #01",
+  "description": "そら長いやろ",
+  "attributes": [
+    {
+      "value": "bamboo",
+      "trait_type": "Type"
+    }
+  ]
+}

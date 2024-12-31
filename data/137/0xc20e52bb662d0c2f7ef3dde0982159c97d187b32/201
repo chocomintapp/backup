@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU6dGFMtuzqJoUtnYvCmJN2vWwPht66jYREAQHziYwpKn/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 201,
+  "chainId": "137",
+  "name": "#201",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#C9EA83",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#EC0F16",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Crocodile friends",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Davi",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Smoking Pipe",
+      "trait_type": "Accessory1"
+    }
+  ],
+  "minted": "✅"
+}

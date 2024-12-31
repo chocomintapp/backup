@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYpRVstnjWNwgn1B4GGw7Ma4P19bnhS3CiRVkfdHPWJc4/nft.PNG",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimals #69",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Kangaroo",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcVCjMsY3Ug3uhcvLMxggiNLe1MB3iTj2mZT6eEmcGcEH/nft.JPG",
+  "tokenId": 2,
+  "description": "Test",
+  "nftContractAddress": "0xdda920e115f87b33f7c68b5579d57159f5c8a546",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Enchan"
+}

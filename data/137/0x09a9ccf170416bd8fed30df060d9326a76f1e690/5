@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR8iaQrPFcKJDLaDRqUViHA3AKdnpnguJAfhMDYpqyJ36/nft.jpg",
+  "tokenId": 5,
+  "description": "the complexity of the purple version",
+  "nftContractAddress": "0x09a9ccf170416bd8fed30df060d9326a76f1e690",
+  "animationUrl": "https://ipfs.io/ipfs/QmZVuoy4ddxzGhkTwDpYpYEPhZiTVeBWrAGNRTANh6UD19/nft.mov",
+  "chainId": "137",
+  "name": "Purple",
+  "minted": "✅"
+}

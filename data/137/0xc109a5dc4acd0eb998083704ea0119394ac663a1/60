@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQAs9bxA1vUokz8i4LuRCeRe4DcRGGVkcMrpM32ZZJEUY/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 60,
+  "chainId": "137",
+  "name": "#60",
+  "description": "goblin",
+  "attributes": [
+    {
+      "value": "Goblin",
+      "trait_type": "RACE"
+    }
+  ]
+}

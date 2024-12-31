@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma9gjDdG9nMF1LMW3EdVE128Vfx5ygUWHSSe3nzNq9pQT/nft.png",
+  "nftContractAddress": "0x8995bd38c2012c04a4e7dd6f3ed61b29b1c43aa2",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "Strawberry Knight",
+  "description": "Become knight at land \"Strawberry (ファオ帝国)\"",
+  "attributes": [
+    {
+      "value": "Bronze",
+      "trait_type": "Rarity"
+    },
+    {
+      "value": "MyCryptoHeroes",
+      "trait_type": "Game"
+    }
+  ]
+}

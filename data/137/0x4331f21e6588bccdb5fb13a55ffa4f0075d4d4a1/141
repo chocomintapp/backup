@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZYJVBA2DT1NbtKqcgCzwQGMa6oHKwAP1pUJXdHjLnh77/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 141,
+  "chainId": "137",
+  "name": "WMM #0141 SHIRANUI 1944",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SHIRANUI 1944**  \nThis silhouette is destroyer Shiranui in 1944.\n\nIt is the second ship of the Kagero class of the Kou class destroyers.\n\nFrom the attack on Pearl Harbor to the invasion of Rabaul, the Battle of Ceylon, and the Battle of Midway, she was present at all the famous battlefields worthy of a state-of-the-art destroyer.\n\nShe was damaged to the extent that her hull was nearly shredded by a lightning attack from a U.S. submarine off Kiska Island, but miraculously escaped sinking thanks to first aid measures.\n\n**駆逐艦 不知火 1944**  \n甲型駆逐艦 陽炎型の2番艦です。  \n真珠湾攻撃からラバウル攻略、セイロン沖海戦、ミッドウェー海戦と最新鋭の駆逐艦に相応しい名だたる戦場にその姿がありました。\n\nキスカ島沖では米潜水艦の雷撃により船体が千切れかかる程の損傷を受けますが、応急処置により奇跡的に沈没はまぬがれています。\n\nこのNFTは1944年頃の不知火のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Destroyer",
+      "trait_type": "Ship"
+    }
+  ]
+}

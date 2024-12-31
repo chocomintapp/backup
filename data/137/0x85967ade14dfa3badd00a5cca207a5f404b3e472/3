@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmekjHMePrUwvYRQL1VDjDNJhA6s9F75jgR8XFGa6Rsfcx/nft.png",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "BasketBallBabies #3",
+  "description": "BasketBallBabies\nフェネック\n\nBasket Ball Babies\nFennec",
+  "attributes": [
+    {
+      "value": "Fennec",
+      "trait_type": "TYPE"
+    }
+  ]
+}

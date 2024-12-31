@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSnuWWPcmGkmqWXNw84B9wpi2k3RNLtcuywK7ARXFGtpb/nft.png",
+  "tokenId": 18,
+  "description": "",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmXXBB4GtdDReX73JmACw7tJLM8N8AeaTq6BFtQNsizqjL/nft.glb",
+  "chainId": "137",
+  "name": "Chickbit #18",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "common"
+    }
+  ]
+}

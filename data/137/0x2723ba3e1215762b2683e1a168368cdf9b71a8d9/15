@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRBbwa6LUJGbzzko4vsJdHFkvw7sZ2EEUG7WWTPag7iCo/nft.png",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "#8 We are cyborgs.",
+  "description": "They may be called a medical team, but they are cyborgs.",
+  "attributes": [
+    {
+      "value": "English",
+      "trait_type": "Language"
+    }
+  ],
+  "minted": "✅"
+}

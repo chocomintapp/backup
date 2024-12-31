@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaxahB3WAKnNKZTnxbriEhRWTLnBt8zLDcfHpcc1Nmn8S/nft.jpg",
+  "nftContractAddress": "0xe73cd0524173b4bd3c145c4570736cafbee38b12",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Manhattan Beach#002",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Manhattan",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Afternoon",
+      "trait_type": "Time"
+    },
+    {
+      "value": "Winter",
+      "trait_type": "Season"
+    }
+  ]
+}

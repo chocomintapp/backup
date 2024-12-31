@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd1KUMDAyfFX2PAoxopDs2gVDEWneArmNnmCmrz1Z4jnH/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmNx5XynzeJWVvHnUmtXpaiMCRVrdiXzkhaaK744xT9soh/nft.gif",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Kawaii Legends #005",
+  "description": "#005 Ninja Kawaii\n\"It is time to enjoy yourself with others in the creative play of life.\"\n\n\n*Here are some tidbits about this costume: \nIn modern times, they are depicted in comic books and other media as fantastic heroes.\nBut originally, ninja were ancient spies. Therefore, originally ninja attire was chosen to be inconspicuous, dark in color, and easy to move in, suitable for infiltrating enemy lines and conducting espionage activities.\n\n衣装豆知識：\n本来の忍者は江戸時代のスパイでした。\nもともとは敵陣に潜入して諜報活動を行うために、夜の闇に目立たず、動きやすい服装が選ばれています。装束は地域によって少しずつ違いがあります。",
+  "attributes": [
+    {
+      "value": "ONI",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Force",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Sakura",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Ninja costume",
+      "trait_type": "Outfit"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX5mYXjUhxoS1QZLcQd2QDPsFP6HgSv5WeMzoxvHaubYd/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "PPP #005",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Knit hat",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Snowboard wear RD",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Goggles",
+      "trait_type": "Accessories"
+    }
+  ]
+}

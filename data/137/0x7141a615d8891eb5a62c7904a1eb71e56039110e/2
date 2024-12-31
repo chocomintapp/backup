@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSWdmmZzXPmB1JZXuPFVLujTzci2FyzXEgJ8QAfp5RQjW/nft.png",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0x7141a615d8891eb5a62c7904a1eb71e56039110e",
+  "animationUrl": "https://ipfs.io/ipfs/QmPVKWgF4HoAhq9tSquxpwVkRDvfXcn1hx3cBpAGP1BiiG/nft.mp4",
+  "chainId": "137",
+  "name": "Stripe Flower",
+  "attributes": []
+}

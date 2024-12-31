@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQdbLY2y1hzsK9Eeh9DyeUrYnFe6PwBUYPLwg5ECtdbjo/nft.png",
+  "tokenId": 8,
+  "description": "Time is Cannabbies.\nLimited Edition of 1【CANNA PRESENT】",
+  "nftContractAddress": "0x777444fb026cd06f490f87a7dc9dcaacc08fd3a5",
+  "animationUrl": "https://ipfs.io/ipfs/QmQdbLY2y1hzsK9Eeh9DyeUrYnFe6PwBUYPLwg5ECtdbjo/nft.png",
+  "chainId": "137",
+  "name": "CANNABBIES #8",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Canna"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Indica"
+    },
+    {
+      "trait_type": "FASHION",
+      "value": "Dress"
+    },
+    {
+      "trait_type": "ITEM",
+      "value": "Present Box"
+    }
+  ]
+}

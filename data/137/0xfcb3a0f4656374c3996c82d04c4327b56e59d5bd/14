@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQj1RA543HpnviotwxFjdKgkbFJcJDhvNt1NrLxKqhhtH/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "#0013_Purple",
+  "description": "#0013_Tanshiki_BM_Purple",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "banzai",
+      "trait_type": "Feature"
+    }
+  ]
+}

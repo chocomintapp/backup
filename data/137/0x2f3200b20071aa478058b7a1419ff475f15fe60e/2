@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWrmeCSfgzQoDWB4HzU6QLDBzmdgHHDt7KV7bcRH8QUgv/nft.png",
+  "nftContractAddress": "0x2f3200b20071aa478058b7a1419ff475f15fe60e",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "cow piyoko #2",
+  "description": "ぴよこの牛乳屋さん",
+  "attributes": [
+    {
+      "value": "Ranch",
+      "trait_type": "background"
+    },
+    {
+      "value": "cow",
+      "trait_type": "item"
+    }
+  ]
+}

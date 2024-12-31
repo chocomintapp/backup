@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeAqHNoYxPEFu3TDFhhDWK3QiGyxyoXrwzP5SMC4739sF/nft.png",
+  "nftContractAddress": "0xb650c2df74b9f0794dce25dc02b616d6f6f7fea7",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "Pop-up hamburger",
+  "description": "Here's your hamburger, Oh!",
+  "attributes": []
+}

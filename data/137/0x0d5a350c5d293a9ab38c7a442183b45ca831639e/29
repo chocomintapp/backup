@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd1WAS1iN71uRBT3tq8JyCQiMpJ1aGz3MDLzhzP6kxshw/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "137",
+  "name": "Day16 Nana's Art #47",
+  "description": "絵を描くよりも、Apple Pencilを分解する方が好きかも。\n\nMaybe I like disassembling the Apple Pencil more than drawing.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ]
+}

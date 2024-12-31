@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZmnQ1fLW4P5EC3NJPpjnRXnryZhd4BA9jUiR7c9f5Pm2/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "#0018_Spring Bud",
+  "description": "#0018_Tanshiki_YG_Spring Bud",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Tanshiki",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Spring Bud",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Spring Bud",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Spring Bud",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Possible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

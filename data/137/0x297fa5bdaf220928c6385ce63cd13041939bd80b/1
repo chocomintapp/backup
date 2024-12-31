@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcucgPL3CNCVNJmKH6pDi9tugVBvPMweGnSvjt4LGUVzW/nft.png",
+  "tokenId": 1,
+  "description": "test",
+  "nftContractAddress": "0x297fa5bdaf220928c6385ce63cd13041939bd80b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "bitconusi test",
+  "minted": "✅"
+}

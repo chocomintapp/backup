@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRrbGoe5rxirxNQ383rDeYzBuJ9upnwXAdkAeDzRmwEjW/nft.png",
+  "nftContractAddress": "0xd91587f67e5c05a3f2e93377d54a601265791a10",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "ASCT #4",
+  "description": "#4",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "Yellow Line"
+    },
+    {
+      "value": "1",
+      "trait_type": "Goldish Backgound"
+    }
+  ]
+}

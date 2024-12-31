@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZtcNEFYaTRbrWdmP1WonCropLeG9X8SjeagG9fZ827sj/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmSngRWWXKz3bJTyc8aHubMizznskF7Aex7KVUSeXk3juX/nft.gif",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "Kawaii Legends #014",
+  "description": "#013 Miko Kawaii 2\n\n\"God will help you to make your wishes come true.\"\n\n\n*Here are some tidbits about this costume:\nThis costume is the formal attire of a miko (shrine maiden).\nEven today, it is worn by miko during festivals.\nThe bell in her hand is a sacred bell,\nwhich is used when the miko performs a dance dedicated to the gods.\n\n衣装豆知識：\n千早(ちはや)という巫女の正装です。\n現代でも祭事の際に巫女が着用します。\n手に持っているのは神楽鈴。神楽舞の際に用います。",
+  "attributes": [
+    {
+      "value": "NEKOmata",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Festival",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Wisteria",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Shrine maiden costume",
+      "trait_type": "Outfit"
+    },
+    {
+      "value": "Will-o'- the-wisp",
+      "trait_type": "Foreground"
+    }
+  ],
+  "minted": "✅"
+}

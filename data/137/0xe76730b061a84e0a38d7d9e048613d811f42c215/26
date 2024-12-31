@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSHgjMSDGnuVhHDBi1EvhgCSgx85dMpoUbJMoFiMGXWR1/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "THS #021",
+  "description": "【界】",
+  "attributes": [
+    {
+      "value": "snails",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "winter cherry",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

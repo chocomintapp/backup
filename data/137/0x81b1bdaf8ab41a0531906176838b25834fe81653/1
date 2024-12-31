@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmegPDKWwGhXQVDbKwUtV4adx1bUVWQpJnSSTJdhEkbTSF/nft.png",
+  "nftContractAddress": "0x81b1bdaf8ab41a0531906176838b25834fe81653",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "SUICA-Test",
+  "description": "",
+  "attributes": [
+    {
+      "value": "No1",
+      "trait_type": "Suica"
+    }
+  ]
+}

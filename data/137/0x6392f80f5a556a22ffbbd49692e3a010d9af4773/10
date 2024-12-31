@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfMYZTavzdFk11VTv4Exr9F7vjK8TUAoY6KdnQwTNX9u1/nft.gif",
+  "tokenId": 10,
+  "description": "ColorCircle(CC) visualizes the concept of \"Circular Diversity\", and contains a wish for respect of diversity through color harmony.\n\nThis CC's name is \"Swim in The Crypto World\". \n\nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x6392f80f5a556a22ffbbd49692e3a010d9af4773",
+  "animationUrl": "https://ipfs.io/ipfs/QmZMnJ4M5BBBAY24jn5dE2Rjri4nVZeymGMcVQjenhaTmk/nft.gif",
+  "chainId": "137",
+  "name": "CC #3 \"Swim in The Crypto World\"",
+  "attributes": [
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "CC"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "Crypyan",
+      "value": "4"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Animation"
+    }
+  ]
+}

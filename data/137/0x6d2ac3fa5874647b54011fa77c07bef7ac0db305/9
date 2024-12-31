@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPx281HLSagwJpNiPW82Pf2k2FgHmPZ3KEeaE1aQUGcgi/nft.png",
+  "nftContractAddress": "0x6d2ac3fa5874647b54011fa77c07bef7ac0db305",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "#9",
+  "description": "ape",
+  "attributes": [
+    {
+      "value": "ape",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "MBYC",
+      "trait_type": "TYPE"
+    }
+  ]
+}

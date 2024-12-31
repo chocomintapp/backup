@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU7VpMpf6NpTBW93HLj2mP5CToExts5PtwfePMPxQzn3x/nft.png",
+  "nftContractAddress": "0xec5e9268d8182693638637f81d324f73fad51f96",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "#1",
+  "description": "Puzzle Birds built by BenLabs",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Background"
+    },
+    {
+      "value": "",
+      "trait_type": "Skin Body"
+    },
+    {
+      "value": "",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "",
+      "trait_type": "Accessories"
+    }
+  ]
+}

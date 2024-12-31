@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPgj8x7K9QdMpe3pfUxcMSiHjqVSA1MVE5ENfZS1ot7am/nft.svg",
+  "nftContractAddress": "0xe43c3b465a378477eb91c135dd8ec57224e214b7",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "LOVELOVEPOLYGON",
+  "description": "",
+  "attributes": [
+    {
+      "value": "yes",
+      "trait_type": "polygon?"
+    },
+    {
+      "value": "yes",
+      "trait_type": "rare?"
+    }
+  ]
+}

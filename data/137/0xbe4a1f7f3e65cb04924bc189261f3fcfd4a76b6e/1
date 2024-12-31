@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZtsYu9UV8EhptVhMsYMgK9kfKRHbg4tqzuzpWniQGge6/nft.gif",
+  "tokenId": 1,
+  "description": "Moving Noun 0",
+  "nftContractAddress": "0xbe4a1f7f3e65cb04924bc189261f3fcfd4a76b6e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "GIF Noun 0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cool"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Yingyang"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Gnome"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square-watermelon"
+    }
+  ]
+}

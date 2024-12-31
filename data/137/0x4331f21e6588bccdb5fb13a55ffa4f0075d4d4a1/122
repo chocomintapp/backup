@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma5kBHeqP78v1hNhpTYPeSsqScdSVLJCeLqwZE6XQrn4j/nft.png",
+  "tokenId": 122,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**IS-2**  \nThis heavy tank was developed by the Soviet Army, which was shocked by the appearance of the German Tiger I.  \nIt is also called the \"Stalin Heavy Tank\" from its initials.\n\nBecause the huge 122mm tank gun was mounted in a compact turret, the space was quite small, and the small amount of ammunition carried was unpopular with tankers, but the armor-piercing rounds with a warhead weight of 25kg were extremely powerful.\n\nIt was able to penetrate the frontal armor of its archrival, the Tiger I, from a distance of 1,500 meters.\n\nAlthough the IS-2 had many shortcomings, it contributed to victory as a heavy tank designed in the typical Soviet style, combining high offensive and defensive capabilities (maximum armor of 120 mm) and weighing only 46 tons.\n\n**IS-2 重戦車**  \nドイツ軍のティーガーⅠの登場に衝撃を受けたソ連軍が開発した重戦車です。  \n頭文字から「スターリン重戦車」とも呼ばれています。\n\nコンパクトな砲塔に122mmという巨大な戦車砲を搭載した為、スペースはかなり狭く、搭載弾薬も少ない点は戦車兵からは不評でしたが、弾頭重量25kgの徹甲弾の威力は絶大で、宿敵ティーガーⅠの正面装甲を距離1500mから叩き割るほどでした。\n\nIS-2は多くの欠点を抱えてはいましたが、高い攻撃力と防御力（最大装甲120mm）を両立した上でパンターと同等の46t程度にまとめ上げるなどソ連らしい設計の重戦車として勝利に貢献しました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0122 IS-2",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Soviet"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

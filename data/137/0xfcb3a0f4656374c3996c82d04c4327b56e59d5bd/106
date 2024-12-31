@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeyrJ98dysNoaYmiSfMqiuC8Tpemfb5sajqtM1KHcv9eY/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 106,
+  "chainId": "137",
+  "name": "#0101_Niton_BMBKRrc_CBK",
+  "description": "#0101_Niton_BMBKRrc_CBK",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Purple Heart",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Persian Red",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Teal",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ],
+  "minted": "✅"
+}

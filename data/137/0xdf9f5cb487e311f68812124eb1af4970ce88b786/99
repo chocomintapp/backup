@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ1GzJoCdHkCGVtcWDLes5CwxFbLtbvUXPPEUnJVz4d1V/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 99,
+  "chainId": "137",
+  "name": "The journey continues",
+  "description": "がんみちゃん達の旅はまだまだ続く",
+  "attributes": [
+    {
+      "value": "special",
+      "trait_type": "series"
+    },
+    {
+      "value": "journey",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

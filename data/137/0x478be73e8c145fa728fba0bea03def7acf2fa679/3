@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaYpDBDy1gjJdYfkaPGBHBf7x9LTxjS42xdW2UTASVCJx/nft.png",
+  "tokenId": 3,
+  "description": "This is white cross β for 3D avatar. However, it's a joke.\nI made this NFT because I felt like it.\n\nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x478be73e8c145fa728fba0bea03def7acf2fa679",
+  "animationUrl": "https://ipfs.io/ipfs/QmTSBw6yh5HAjS9QQnYsuoxkQTrBdr83duUkYy7tbZoEJh/nft.png",
+  "chainId": "137",
+  "name": "White cross β",
+  "attributes": [
+    {
+      "trait_type": "Crypyan",
+      "value": "0"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Wite"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWtfJJqeudNx5i17jbuadKyvJ6bAB2RV6v2Voa5m5wt7f/nft.png",
+  "nftContractAddress": "0x07b5d9075ef0e89e5202e8d56f99ea9999c55639",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Tes chan !",
+  "description": "テスちゃん！",
+  "attributes": [
+    {
+      "value": "100",
+      "trait_type": "test"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRu5gbqD8EZ1XXLn6X8hx6JXp2tUUXseR1F5FK2R64yWh/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 186,
+  "chainId": "137",
+  "name": "#186",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Different world",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "shine",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Elemental jewels",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Holy Light Jewel",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "The power of light",
+      "trait_type": "special1"
+    },
+    {
+      "value": "Angel wings",
+      "trait_type": "Accessory1"
+    },
+    {
+      "value": "Drops of light",
+      "trait_type": "Accessory2"
+    }
+  ],
+  "minted": "✅"
+}

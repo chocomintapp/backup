@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcaRsEPYu69oC2uSze7pMseUALSCG5G5ceKrTszxLvyce/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #127 May.8",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n5月8日\n\n部長が紡いだリリックによって、「石植物」は輝きと成長の片鱗を見せ始めました。植物から放出される光のシャワーと、少量の水のようなものが床には降り注いでいます。光のシャワーはともかく、床が濡れているのはマズイので、くたびれたタオルで床の拭き掃除を行うことにしました。「このまま水を放出され続けては、大変なことになりそうだ…」植物に優しく「ここには水はたくさんあるから、分けてくれなくていいんだよ」と部長が語りかけると、水の放出は止み、光のシャワーだけが降り注ぐようになりました。\n\nMay 8.\n\nWith the lyric he spun, the \"stone plant\" began to show glimpses of brilliance and growth. The floor is covered with a shower of light emitted from the plant and a small amount of what looks like water. The light showers notwithstanding, it was not a good idea to have the floor wet, so he decided to wipe the floor with a tired towel. He gently tells the plant, \"There's plenty of water here, you don't have to share,\" and the water stops emitting, leaving only light showers.",
+  "attributes": [
+    {
+      "value": "Black & Green",
+      "trait_type": "CAP"
+    },
+    {
+      "value": "Barefoot",
+      "trait_type": "FOOT"
+    },
+    {
+      "value": "Red",
+      "trait_type": "HOODIE"
+    },
+    {
+      "value": "Black",
+      "trait_type": "SHORT PANTS"
+    },
+    {
+      "value": "White",
+      "trait_type": "T-SHIRT"
+    },
+    {
+      "value": "White",
+      "trait_type": "TOWEL"
+    }
+  ]
+}

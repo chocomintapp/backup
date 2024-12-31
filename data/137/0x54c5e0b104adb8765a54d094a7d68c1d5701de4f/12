@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQTUfQzZqd9YSHdW1rcLRcuKY3c7Veg9NPwbJsSAFs7jH/nft.png",
+  "tokenId": 12,
+  "description": "This icon was created from a comic.",
+  "nftContractAddress": "0x54c5e0b104adb8765a54d094a7d68c1d5701de4f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#3 - 4",
+  "attributes": [
+    {
+      "trait_type": "Cast",
+      "value": "Victoria"
+    }
+  ],
+  "minted": "✅"
+}

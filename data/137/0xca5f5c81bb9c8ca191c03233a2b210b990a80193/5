@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRK6oF4tnyUVWAzQrQU6Bac8rHbCQ7Vkzkb1LaYKrS47a/nft.jpeg",
+  "nftContractAddress": "0xca5f5c81bb9c8ca191c03233a2b210b990a80193",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #16 -HAL9000 Ver.-",
+  "description": "VeryLongAnimals #16の二次創作LooseVeryLongAnimals #16のWeb3 support  Ver. です！\n提供先 HAL9000 さん",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Rabbit ",
+      "trait_type": "Type"
+    }
+  ]
+}

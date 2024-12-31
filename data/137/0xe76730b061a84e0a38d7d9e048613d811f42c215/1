@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVdXT1T3nEBXkP2psqLZSpN1LxEdnV4vUUkhHidjsZvca/nft.jpg",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "THS #000",
+  "description": "【死】",
+  "attributes": [
+    {
+      "value": "pine",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "shrimp",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "tiger",
+      "trait_type": "Mimicry"
+    }
+  ],
+  "minted": "✅"
+}

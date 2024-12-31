@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVgp4zorPVKdvocWXDXvyBFoQY1T1jX8iibRxoyWTJQiP/nft.gif",
+  "nftContractAddress": "0x5406e7707a790ea1de15e134ccff7ee675ff60c6",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "_test_VCI_2022_0001",
+  "description": "Here is the description",
+  "attributes": [
+    {
+      "value": "0001",
+      "trait_type": "Collection #"
+    },
+    {
+      "value": "2022",
+      "trait_type": "Year"
+    }
+  ]
+}

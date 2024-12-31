@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVF6F9Y2vGw1bjYvS4A8WuRYaVLnrBZ6MagcWr9DL21T1/nft.png",
+  "nftContractAddress": "0xd7151e5a95eda22f37993c4e862ab581befed1dd",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "#001 Tim BTC Ball!",
+  "description": "Tim likes BTC and believes that BTC will save the world!",
+  "attributes": [
+    {
+      "value": "Crypto",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Warrior",
+      "trait_type": "Job"
+    }
+  ],
+  "minted": "✅"
+}

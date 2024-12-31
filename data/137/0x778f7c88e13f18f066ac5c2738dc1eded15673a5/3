@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNrLbBPsEo1S1RERTUyN4SizFPxvV9jFhosjyWsp7riSS/nft.png",
+  "nftContractAddress": "0x778f7c88e13f18f066ac5c2738dc1eded15673a5",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Luna",
+  "description": "Ambitious One City Special Edition for dgift",
+  "attributes": [
+    {
+      "value": "NATURAL",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "NINJA",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "NINJA SWORD",
+      "trait_type": "ITEM"
+    }
+  ],
+  "minted": ""
+}

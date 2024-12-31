@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRRw1MdXFjG6ARXi8osEdrE9obweui3dnLvdqrSHveZvw/nft.png",
+  "tokenId": 14,
+  "description": "Limited 1/1\n\nA little sad Monstarz.\nThis Monstarz is minted by their original contract (MSZ).",
+  "nftContractAddress": "0x966b004e16302e7e0cc7d2906eed2c4eff01d670",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#0014 Crabman",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "UnCommon"
+    }
+  ]
+}

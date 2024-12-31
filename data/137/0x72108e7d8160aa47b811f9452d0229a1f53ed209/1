@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVGdNjKB2Ls3n9mkMF42fZ2ohnBPf3x5DTtoeWCYqqAYn/nft.jpg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x72108e7d8160aa47b811f9452d0229a1f53ed209",
+  "animationUrl": "https://ipfs.io/ipfs/QmWitRMMf8uYnbhw9TYhEhc6RY4CXLpcxopcZ6XQQvK46J/nft.mp4",
+  "chainId": "137",
+  "name": "WAGMI",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Normal"
+    }
+  ]
+}

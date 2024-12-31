@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSzTceMvJg5WmHhn2J56v6gz82ErpMazqENRPbgPu8d4P/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 100,
+  "chainId": "137",
+  "name": "#100",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Blood aura",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#A72212",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Eyeball",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Red iris",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

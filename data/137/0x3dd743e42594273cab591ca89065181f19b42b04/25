@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTiH56gLuqXXnw2onXo2kzt69HnuUAWKyyBNGd4dhEvs9/nft.png",
+  "nftContractAddress": "0x3dd743e42594273cab591ca89065181f19b42b04",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "137",
+  "name": "INARI Heroes#0524(EX0062)",
+  "description": "Pixelart style 32x32 INARI(Fox).\nGet the NFT and watch the INARIs battle!\n■ Info\nCollaborating  Crypto Robot Souls \n→https://opensea.io/collection/crypto-robot-souls-nft\n\n■#001~500 (INARIHeroes Ver.1)\nhttps://opensea.io/collection/inari-heroes\n",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "Team"
+    },
+    {
+      "value": "Crypto Robot Souls",
+      "trait_type": "Collaborating"
+    }
+  ]
+}

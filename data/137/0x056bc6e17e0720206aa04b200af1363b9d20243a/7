@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVXHeK88G5EwY8wRk5LagVMUUmPfdoz8wM1XHgiAnrQDX/nft.png",
+  "tokenId": 7,
+  "description": "The Best Body in the History of Takashi’s LifePublish Date：2021/09/28",
+  "nftContractAddress": "0x056bc6e17e0720206aa04b200af1363b9d20243a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Takashi's Top Shot",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

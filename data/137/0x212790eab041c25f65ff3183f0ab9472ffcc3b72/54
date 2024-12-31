@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQkjhVs1wjRHnZtZhjUEoeYQcHkzfHC9myYzf2QwNakMq/nft.jpg",
+  "nftContractAddress": "0x212790eab041c25f65ff3183f0ab9472ffcc3b72",
+  "animationUrl": "",
+  "tokenId": 54,
+  "chainId": "137",
+  "name": "PI #54",
+  "description": "The theme of this project is a relaxing space that sways between real and virtual.Pixel data digitally collaged based on a photograph was reflected on an irregularly swaying plane to create a polygonal image.Shooting the irregularities of virtual waves ensures the originality of each image.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Housing Complex",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Blue Green",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Cloud",
+      "trait_type": "Accessory"
+    }
+  ]
+}

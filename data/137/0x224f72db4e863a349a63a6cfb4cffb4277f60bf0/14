@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT1YSYimkHZPsZ8TiCnauEiJTNNQmYQfX1rT5CsKX7uRu/nft.png",
+  "tokenId": 14,
+  "description": "Hello, Man in suit making ILY SIGN",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#14 CRYPPL - Man in suit making ILY SIGN",
+  "attributes": [
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "minted": "✅"
+}

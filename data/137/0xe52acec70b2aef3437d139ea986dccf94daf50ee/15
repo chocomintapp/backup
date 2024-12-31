@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZAGp5qAgM3xC4D4mRRAPgYx6zFDWtWGpSch2VcEPjRJq/nft.PNG",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimal #32",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Leopard",
+      "trait_type": "TYPE"
+    }
+  ]
+}

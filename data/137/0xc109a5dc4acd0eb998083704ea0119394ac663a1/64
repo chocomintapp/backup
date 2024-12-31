@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaaSAxrijYjfMKUP4A73kWHDp6tcPJny26R1jC9fw6U9V/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 64,
+  "chainId": "137",
+  "name": "#64",
+  "description": "human",
+  "attributes": [
+    {
+      "value": "Darkness",
+      "trait_type": "ELEMENT"
+    },
+    {
+      "value": "Human",
+      "trait_type": "RACE"
+    }
+  ]
+}

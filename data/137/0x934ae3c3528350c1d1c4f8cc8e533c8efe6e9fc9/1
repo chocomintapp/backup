@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSn4ER841D5DpD5YzYYSPyHRPsb3HXAjyrF7RKL54UyVB/nft.JPG",
+  "nftContractAddress": "0x934ae3c3528350c1d1c4f8cc8e533c8efe6e9fc9",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Torie-in-park",
+  "description": "Torie ist in das Park",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "NumberOfTorie"
+    },
+    {
+      "value": "Park",
+      "trait_type": "Place"
+    }
+  ]
+}

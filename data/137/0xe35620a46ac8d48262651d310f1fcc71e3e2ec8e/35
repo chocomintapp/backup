@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUo6KRVS58WU4B6UBapfgarFhQqHUNcsRX5irxDbVzLZH/nft.png",
+  "nftContractAddress": "0xe35620a46ac8d48262651d310f1fcc71e3e2ec8e",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "137",
+  "name": "Starry Island",
+  "description": "A mysterious island that covers the outside of the starry sky.\nIt is considered one of the primordial lands.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Starry Island",
+      "trait_type": "Area"
+    }
+  ]
+}

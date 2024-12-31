@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmchpmaUYSDev34fFravBtN49wsp21ZJ3gX95oq2xFme33/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 83,
+  "chainId": "137",
+  "name": "Day34 Nana's Art #101",
+  "description": "ペン先をクレヨンにしてみました。\n\nI used the nib as a crayon.",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

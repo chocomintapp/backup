@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUoDncv5HLJgMbijFmE58Pryut1ZZUqFApGkCKgwewUou/nft.jpeg",
+  "tokenId": 3,
+  "description": "kirari",
+  "nftContractAddress": "0x7c7e32b3adb24afc1afed9ed47eb695f1f7a2a8d",
+  "animationUrl": "https://ipfs.io/ipfs/QmRpm8omJwFPtC7FQMeHJHN1HGPkHNZrhvpaQXiLEWAp3R/nft.jpeg",
+  "chainId": "137",
+  "name": "sikotuko"
+}

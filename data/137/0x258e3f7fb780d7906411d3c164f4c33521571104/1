@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV97KHSsw9q24HZe3HSGSsc6jypLohKQ5gEuju8gvhZUn/nft.png",
+  "nftContractAddress": "0x258e3f7fb780d7906411d3c164f4c33521571104",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "VeryLongDinosaurs #1",
+  "description": "Dinosaurs that have lived for a very long time since long ago.",
+  "attributes": [
+    {
+      "value": "Tyrannosaurus",
+      "trait_type": "Dinosaurs"
+    },
+    {
+      "value": "Fire",
+      "trait_type": "TYPE"
+    }
+  ]
+}

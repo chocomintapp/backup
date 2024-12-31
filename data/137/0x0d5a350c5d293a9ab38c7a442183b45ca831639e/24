@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWDRg4t1RprwAQzhS3Yf9KPi6Vd33ttkscujrGqTRbFos/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "137",
+  "name": "Day14 Umitsuru's Art #42",
+  "description": "ドット絵の可能性は無限大。\n\nThe possibilities for dot art are endless.",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

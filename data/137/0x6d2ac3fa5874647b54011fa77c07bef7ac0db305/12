@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXQnuYg8xHH2WLzFwMw2NLLyjUWRVHQ4V1ZYfL1mYLCUR/nft.png",
+  "nftContractAddress": "0x6d2ac3fa5874647b54011fa77c07bef7ac0db305",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "#12",
+  "description": "human",
+  "attributes": [
+    {
+      "value": "human",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "Cool Girl NFT",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP4RTSv4z3PJGh6xojxHyWn14XynjMhyJQeSLJ8gaArro/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 167,
+  "chainId": "137",
+  "name": "WMM #0167 KAIYO 1943",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KAIYO 1943**  \nThis silhouette is Aircraft carrier Kaiyo in 1943.  \nOriginally a cargo and passenger ship of the Osaka merchant marine, the Aruzenchina Maru.\n\nShe was requisitioned by the Navy just before the Pacific War and used as a transport ship, but was converted into an Otaka-class carrier to fill the shortage of aircraft carriers after the defeat at the Battle of Midway.\n\nAlthough she was converted to a destroyer turbine during the conversion, her maximum speed was slow at 23 knots, and she could not work with the task force, so she was not used for missions such as aircraft transport and fleet escort. She was engaged in aircraft transport and fleet escort missions.\n\nTranslated with www.DeepL.com/Translator (free version)\n\n**空母 海鷹 1943**  \nもともとは大阪商船の貨客船「あるぜんちな丸」です。\n\n太平洋戦争直前に海軍が徴用し輸送艦として使用していましたが、ミッドウェー海戦の敗北で不足した空母を補うために大鷹型空母として改装されました。\n\n改装時に駆逐艦用タービンに換装するも最大速度は23ノットと遅く、機動部隊とは行動を共にできない事から航空機輸送や船団護衛などの任務に従事しました。\n\n\nこのNFTは1943年頃の海鷹のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Aircraft carrier",
+      "trait_type": "Ship"
+    }
+  ]
+}

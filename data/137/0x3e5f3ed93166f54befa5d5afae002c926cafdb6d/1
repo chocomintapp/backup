@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcW3VaWbNhkFpx4wswnTmYBw5jfLeHEApoVqFeYf5bj4g/nft.gif",
+  "nftContractAddress": "0x3e5f3ed93166f54befa5d5afae002c926cafdb6d",
+  "animationUrl": "https://ipfs.io/ipfs/QmcW3VaWbNhkFpx4wswnTmYBw5jfLeHEApoVqFeYf5bj4g/nft.gif",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "#01 The Bear's Star",
+  "description": "AstroOTTOとは 仮想の宇宙空間Canned spaceにいる生命体のコレクタブルNFTです。\n\nStory 家に帰ると机の上に一つの缶詰が置いてあるのに気づく。 未開封の缶詰にはこのように書かれている『Canned space』 缶詰を開けると光を放ち、缶の外側と内側が反転し、世の中の全てが缶の中に。 缶の内側の世界が外側になり、世界が一瞬のうちに今までと違う空間へいざなわれてしまった。\n\nそこは、仮想の宇宙空間Canned space。 興味を持てばかたちになる幻想的で不思議な世界だった。 しかし、その缶詰は、地球を我が物にしようとするコペル社が 制圧戦略のためにつくりだされた秘密兵器だった。\n\n同じくその宇宙空間に入ってしまった科学者OTTOと出会い、 その事を知り、Canned spaceの生命体たちといっしょに その制圧戦略を阻止するべく立ち上がった。\n\nAstroOTTO is a collectible NFT of life forms in a virtual canned space.\n\nStory When you come home, you notice a can on your desk. When you open it, the outside and the inside of the can light up, and everything in the world is inside the can. The world inside the can becomes the world outside the can, and in an instant the world is transported to a different space.\n\nIt is a virtual space, a canned space. It is a fantastic and mysterious world, which can take shape if you are interested in it. But the canned space is a secret weapon created by the Copel Corporation, a company that wants to take over the Earth.\n\nWhen he meets OTTO, a scientist who has also entered Canned Space, he learns of this and together with the other Canned Space lifeforms, they set out to stop this strategy.\n",
+  "attributes": [
+    {
+      "value": "Star",
+      "trait_type": "DNA1"
+    },
+    {
+      "value": "Bear",
+      "trait_type": "DNA2"
+    }
+  ],
+  "minted": "✅"
+}

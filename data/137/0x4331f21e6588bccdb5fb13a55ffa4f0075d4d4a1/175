@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT7LuuhyQ6p2RvfX4kFXuWTwyowR3yLLUqFNrCLxwxM6f/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 175,
+  "chainId": "137",
+  "name": "WMM #0175 TYPE5 Chi-ri",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TYPE5 Chi-ri**  \nIt was the last medium tank developed by the Japanese Army.\n\nLike the Type 4 medium tank (Chi-to), it was designed as a vehicle specialized for anti-tank combat, but it had performance features that set it apart from previous Japanese tanks, such as an automatic loading system and the use of an aircraft gasoline engine.\n\nIt had relatively thick armor, and its long-barreled 53 caliber 75mm gun was expected to be able to go toe-to-toe with the U.S. Army's M4 Sherman, but design changes and problems continued, and the war ended before the tank was completed.\n\n**五式中戦車 チリ**  \n日本陸軍が最後に開発した中戦車です。\n\n四式中戦車（チト）と同様で対戦車戦闘に特化した車輛として設計されましたが、自動装填装置や航空機用ガソリンエンジンの採用など、それまでの日本戦車とは一線を画す性能を秘めていました。\n\n比較的に装甲も厚く、長砲身の53口径75mm砲は米軍のM4シャーマンと互角に戦う事が出来ると期待されていましたが、設計変更や不具合が続き、完成前に終戦を迎えました。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

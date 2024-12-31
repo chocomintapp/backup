@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPdwQ4DaJi79B5TQVgfcGuqU1eZd4BMVeGvdBL2krgMvW/nft.png",
+  "tokenId": 5,
+  "description": "Victoria loves Veronica.  \nVeronica loves herself.",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#3 Twin Sisters",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Language",
+      "value": "English"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYc3nW7MuPqKcWmtiabhCMSmcN8ok51cmiAzD5vwuJhZG/nft.png",
+  "tokenId": 1,
+  "description": "わんこNFT",
+  "nftContractAddress": "0x3d944792bcecbe345249c8be8e16d026889eaab3",
+  "animationUrl": "https://ipfs.io/ipfs/QmYc3nW7MuPqKcWmtiabhCMSmcN8ok51cmiAzD5vwuJhZG/nft.png",
+  "chainId": "137",
+  "name": "wanko",
+  "attributes": [
+    {
+      "trait_type": "size",
+      "value": "long"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUr3J8Z9snuCiE6UcDuGLXHoyLcQVVt7t1WuWzR69iRwh/nft.jpg",
+  "tokenId": 4,
+  "description": "A new life has been born. Her name is Rabbit Slime.",
+  "nftContractAddress": "0x44281d2e5f340865401b55c572b66d5de00de228",
+  "animationUrl": "https://ipfs.io/ipfs/QmcWjoee4UgPpr9RxJd6j5PuHjFn5fa8af8is3KaU7WLdy/nft.glb",
+  "chainId": "137",
+  "name": "Original RabbitSlime",
+  "attributes": []
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSrEJqXNtuNFHWueztt1WuKNWLQFRMF7MKuXSYv68ugJ8/nft.png",
+  "tokenId": 119,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KITAKAMI 1945**  \nThis silhouette is light cruiser Kitakami in 1945.\n\nIt is the third ship of the 5500-ton class light cruiser \"Kuma class\".  \nShe was the only one of her type to survive until the end of the war.\n\nLike \"Oi,\" she was converted to a heavy minesweeper just before the war broke out, but she was later used for transport missions, taking advantage of her high speed.\n\nShe eventually became a mother ship equipped with eight Kaiten, a suicide attack weapon.\n\nKitakami was rapidly remodeled according to the war situation, and after the war, it was used as a craft for reconstruction.\n\nTranslated with www.DeepL.com/Translator (free version)\n\n**軽巡洋艦 北上 1945**  \n5500トン級軽巡「球磨型」の3番艦です。  \n同型で唯一終戦まで生き残りました。\n\n「大井」と同じく開戦直前に重雷装艦へと改装されましたが、その後は高速を生かした輸送任務で活躍しました。\n\n最終的には特攻兵器「回天」を8基搭載する母艦となりました。\n\n戦況に応じて目まぐるしく改装された北上は戦後も工作船となり復興に役立てられました。\n\nこのNFTは1945年頃の北上のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0119 KITAKAMI 1945",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Light cruiser"
+    }
+  ]
+}

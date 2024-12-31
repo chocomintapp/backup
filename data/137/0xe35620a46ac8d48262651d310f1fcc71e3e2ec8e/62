@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZK5maD4M351pFC4dqNVG3imGAyusyzmw5opxafDovyYN/nft.png",
+  "nftContractAddress": "0xe35620a46ac8d48262651d310f1fcc71e3e2ec8e",
+  "animationUrl": "",
+  "tokenId": 62,
+  "chainId": "137",
+  "name": "Chaotic Chao Chaos #26",
+  "description": "Say chao to chaos.\nSay goodbye to the tidy world.",
+  "attributes": [
+    {
+      "value": "Chaotic Chao Chaos",
+      "trait_type": "Area"
+    }
+  ],
+  "minted": ""
+}

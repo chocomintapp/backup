@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUSRXC4Y4UYh94wNzoGC5JCKz93KjqAe8JKWZxRKeuDjW/nft.png",
+  "tokenId": 5,
+  "description": "Calligraphy Devil #5",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #5",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Ose"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Morax"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gluttony"
+    }
+  ],
+  "minted": "✅"
+}

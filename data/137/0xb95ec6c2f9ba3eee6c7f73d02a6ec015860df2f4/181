@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPNeD2pMRcyAUQJ3vx4qmFeeCSjhAdrWQuNf2KgGXnSBF/nft.png",
+  "nftContractAddress": "0xb95ec6c2f9ba3eee6c7f73d02a6ec015860df2f4",
+  "animationUrl": "",
+  "tokenId": 181,
+  "chainId": "137",
+  "name": "PKC #181",
+  "description": "Pixel Kappa Club is a collection of 1000 kappa NFTs inspired by Japanese monster called YOKAI.\nEach piece is a unique Pixel art with a collection of more than 130+ traits.",
+  "attributes": [
+    {
+      "value": "YellowgradationBG",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "AKAONI",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Hoodielight",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Mouth",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Viking",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "ITEM"
+    }
+  ],
+  "minted": "✅"
+}

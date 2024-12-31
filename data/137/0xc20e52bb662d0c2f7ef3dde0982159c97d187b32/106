@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTMfCGynPSUQNpt6Ueg63UguRv1HyhfSdRzq9wQhFB6BF/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 106,
+  "chainId": "137",
+  "name": "#106",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Soil aura",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#7EE5DB",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Eyeball",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Hyperemia and dark green iris",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

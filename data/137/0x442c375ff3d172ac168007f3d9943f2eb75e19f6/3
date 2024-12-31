@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQK48qzsgcyoPZ11yG9QcjeamjSxv8i7gSFvJjjtjNVMK/nft.jpg",
+  "nftContractAddress": "0x442c375ff3d172ac168007f3d9943f2eb75e19f6",
+  "animationUrl": "https://ipfs.io/ipfs/QmdYMSyJsyd25rwNvZRUe5m6Mk3Cfigd5cyx35hutZNDZP/nft.mp3",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Yu-magure～夕まぐれ～",
+  "description": "This song is inspired by the gradual arrival of night.\n\nPurchasers can download the full mp3 version and use it for any purpose to help your creativity, commercial use, and of course listening.\nhttps://lock.chocomint.app/locks/16c165e0-5c3f-4181-b326-2d31eb8cce22\n\nCC0 License.\n\nHave a happy music life!\n\nArtist : YOSHIE",
+  "attributes": [
+    {
+      "value": "YOSHIE",
+      "trait_type": "Artist"
+    },
+    {
+      "value": "CC0",
+      "trait_type": "License"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNouYBc3ikoMc1NArkrMJbDwgRh1pd4ZNR3MGHAHGex53/nft.png",
+  "tokenId": 17,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n1月18日\n\n昨日のゴルフコンペでは、活躍し過ぎず、かといって悪目立ちもせず。まずまずの結果でラウンドを終えることができた「ねじねじドーナツ部長」です。今日はお休みを頂いて、仲間内でのスキーを楽しんでいます。スノボに浮気することなく、スキーに没頭することウン十年。真っ白なキャンパスに輪のようなシュプールを描く、美しい滑りが自慢です。……？今日はちょっと、上手く行かなかったみたいですね。みんなで励ましてあげたくなる、ちょっと風の強い冬の日の出来事でした。\n\nJan 18\n\nAt yesterday's golf competition, he was neither too active nor too conspicuous. I was able to finish my round of golf with a decent result. Today he is taking the day off to enjoy skiing with his friends. It has been decades since he has immersed himself in skiing without ever flirting with snowboarding. He prides himself on his beautiful skiing, drawing ring-like spools on a blank white campus. ......? He didn't do so well today, either. It was a bit of a windy winter day that we all wanted to encourage you.",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #017 Jan.18",
+  "attributes": [
+    {
+      "trait_type": "CAP",
+      "value": "Black"
+    },
+    {
+      "trait_type": "KNIT",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "SKI BOOTS",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "SKI GOGGLES",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "SKI JACKET",
+      "value": "Others"
+    },
+    {
+      "trait_type": "SKI JACKET BOTTOM",
+      "value": "Black"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Black"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "Black"
+    }
+  ]
+}

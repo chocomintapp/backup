@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPn1k93BBrfvfrfwnwpaHbTnxhZdxfS9NefhATkhT73hP/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 295,
+  "chainId": "137",
+  "name": "#295",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Air auf der G-Saite",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#262A2B",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Composer",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Johann Sebastian Bach",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ],
+  "minted": "✅"
+}

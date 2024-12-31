@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdQt5Aiy2kuF74Fn1E5ShpZ5bTczZH65ykZ28XFR994SJ/nft.mp4",
+  "tokenId": 1,
+  "description": "In one place there was an ideal world called Shangri-La.\nThe people who lived in Shangri-La lived much longer than normal people and aged very slowly.\n\nThis music is covered by the Creative Commons Zero (CC0) license. Use this music for free for commercial and noncommercial purposes. Giving credit to is not required but appreciated. You can edit and adapt this music as you like.\n\nあるところにシャングリラという理想郷があった。\nシャングリラに住む人々は普通の人々よりはるかに長生きし、老いる速さは非常に遅い。\n\nこの曲は、クリエイティブ・コモンズ・ゼロ（CC0）ライセンスで保護されています。 この曲は、商用・非商用に関わらず、無料でご利用いただけます。 クレジット表記は必須ではありませんが、よろしくお願いします。 この曲は自由に編集・組み込みすることができます。",
+  "nftContractAddress": "0xb88331a42400dace322619e915acab1112e7c58a",
+  "animationUrl": "https://ipfs.io/ipfs/QmdQt5Aiy2kuF74Fn1E5ShpZ5bTczZH65ykZ28XFR994SJ/nft.mp4",
+  "chainId": "137",
+  "name": "shangri-la",
+  "attributes": []
+}

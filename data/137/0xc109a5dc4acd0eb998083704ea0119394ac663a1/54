@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTMnxRoi5r2SQe2YTbCiVwf596yTFEpfDdV8ggpGY5kwf/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 54,
+  "chainId": "137",
+  "name": "#54",
+  "description": "cat",
+  "attributes": [
+    {
+      "value": "Cat",
+      "trait_type": "RACE"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW2ouBZFLC5CURW5YAro9FabKno6YWfEX1aNAdGk3L5kK/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/QmW2ouBZFLC5CURW5YAro9FabKno6YWfEX1aNAdGk3L5kK/nft.gif",
+  "tokenId": 69,
+  "chainId": "137",
+  "name": "WavyLongAnimals #69",
+  "description": "ベリロン二次創作",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Kangaroo",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZc8wTF3qepFHYjjpmf4soQ8ozZDMPoaXM1BiQcZYC1vn/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 144,
+  "chainId": "137",
+  "name": "WMM #0144 JAGD PANZER IV 70(V)",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**JAGD PANZER IV 70(V)**  \nIt is a tank destroyer introduced by the German army at the end of the war.\n\nIt was developed based on the PANZER IV tank as a successor to the highly acclaimed PANZER III assault gun.\n\nThe Panther's powerful 70 caliber 7.5cm gun, low vehicle height typical of tank destroyers, and sloping armor with a maximum thickness of 80mm made it a nuisance to the Allied forces.\n\nThis vehicle, which excelled in defensive combat such as ambushes, was one of the most effective weapons of the defeated German army.\n\n**IV号駆逐戦車70(V) ラング**  \nドイツ軍が大戦終盤に投入した駆逐戦車です。\n\n評価の高かったIII号突撃砲の後継としてIV号戦車をベースに開発されました。\n\nパンターに搭載された強力な70口径7.5cm砲と駆逐戦車らしい低車高、最大厚80mmの傾斜装甲は連合軍にとって厄介な存在でした。\n\n待ち伏せを始めとする防御戦闘を得意とするこの車輛は敗戦が濃厚になったドイツ軍において非常に有効な兵器の一つでした。",
+  "attributes": [
+    {
+      "value": "Germany",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

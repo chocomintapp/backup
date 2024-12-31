@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSXAyCFQJ7dFCYzGjLZSYymuHdZuRUybwbUakJKFKgM4x/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 63,
+  "chainId": "137",
+  "name": "Day28 Syu's Art #81",
+  "description": "卵焼きは好きだけど、ゆで卵は嫌い。\n\nI like fried eggs, but I don't like boiled eggs.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

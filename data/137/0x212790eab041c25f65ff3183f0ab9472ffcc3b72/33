@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXSzdiUG5cnH5a3EE72moFn4KErXTprnDKeKPiaxXsR6t/nft.jpg",
+  "nftContractAddress": "0x212790eab041c25f65ff3183f0ab9472ffcc3b72",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "137",
+  "name": "PI #33",
+  "description": "The theme of this project is a relaxing space that sways between real and virtual.\nPixel data digitally collaged based on a photograph was reflected on an irregularly swaying plane to create a polygonal image.\nShooting the irregularities of virtual waves ensures the originality of each image.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Seattle",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Pink and Blue",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Cloud",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Airplane",
+      "trait_type": "Accessory"
+    }
+  ]
+}

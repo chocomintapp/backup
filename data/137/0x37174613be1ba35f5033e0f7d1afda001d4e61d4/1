@@ -1,0 +1,9 @@
+{
+  "image": "",
+  "tokenId": 1,
+  "description": "Dog chihuahua",
+  "nftContractAddress": "0x37174613be1ba35f5033e0f7d1afda001d4e61d4",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Dognft"
+}

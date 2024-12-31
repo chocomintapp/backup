@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWNqzhZG9mX1dtUS2WRhe4NcErawYWNEPYL9xoERMzA16/nft.png",
+  "tokenId": 92,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**ZERO model 52**  \nIt is the most widely produced aircraft in the Zero fighter series.\n\nIt was designed as a development of the Model 22, and its maximum speed was increased by about 20 km/h with the adoption of a thrust-operated single exhaust pipe. It also succeeded in increasing its climbing ability.\n\nIt is the final form of the Zero fighter with enhanced defense capabilities.\n\n**零式艦上戦闘機 52型**  \n零戦シリーズの中で最も多く生産された機体です。\n二二型の発展型として設計され、推力式単排気管の採用で最高速度（20km増加）や上昇力を向上させる事に成功し、更には防御力の強化もされました。\n\n五二型は量産された零戦の最終形態として終戦まで活躍しました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0092 ZERO model 52",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Fighter"
+    }
+  ]
+}

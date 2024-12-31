@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcTY1nuTEYeecmVCif4wDzmXPA4FvgyimEJnAj5giMUyg/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 92,
+  "chainId": "137",
+  "name": "VeryLongAnimals #92",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Toy Poodle",
+      "trait_type": "TYPE"
+    }
+  ]
+}

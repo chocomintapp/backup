@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX1i3ajhN6S9ksXc2ad1ky8uDotYjBfgqXv7K4RYrQGYr/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "Day14 Syu's Art #40",
+  "description": "僕もドット絵デビュー！\n\nI'm making my dot-art debut too!\n\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

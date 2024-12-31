@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPdoXCmGeG6CuLBzJezxkjeovNGYCUrFPhfLgjGG9pjUZ/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 89,
+  "chainId": "137",
+  "name": "LIVING MINERAL #89",
+  "description": "",
+  "attributes": [
+    {
+      "value": "cow",
+      "trait_type": "gene"
+    },
+    {
+      "value": "rare",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "crystal",
+      "trait_type": "material"
+    },
+    {
+      "value": "true",
+      "trait_type": "albino"
+    }
+  ]
+}

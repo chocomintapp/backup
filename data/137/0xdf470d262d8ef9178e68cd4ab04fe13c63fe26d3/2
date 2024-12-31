@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPRB9rYqkZK5WjAxadkKB9JwajxcebU1dtprybhBkmyPy/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmYsxiLnGuxPRe7YYVNYJPCGhsZ2KMCPkRXyJT8xnGdkJR/nft.gif",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Kawaii Legends #002",
+  "description": "#002 Furisode Kawaii\n\n”Be glad and share  the energy with all those around you.”\nThis is one of the greatest gifts you can give to yourself, to life and to others.\n\n*Here are some tidbits about this costume: \nThis is a gorgeous kimono with long sleeves called \"Furisode\".\nFurisode, a luxurious kimono worn by women on Coming-of-Age Day.\nComing of Age Day takes place in January, and since it is the middle of winter in Japan, fur is attached to the kimono to protect it from the cold.\n\n衣装豆知識：\nこれは振り袖という成人の日を迎える女性が着る豪華な着物です。\n成人の日は新年、日本の冬に催されるため、防寒を兼ねてファーを付けています。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "ONI",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Celebrate",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Sakura",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Furisode kimono",
+      "trait_type": "Outfit"
+    }
+  ]
+}

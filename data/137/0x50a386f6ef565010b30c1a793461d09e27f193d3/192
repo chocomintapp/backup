@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVRQM856qewTHkocfxsrMBs4XTQBe7AXu4p5Syj7XrmxD/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 192,
+  "chainId": "137",
+  "name": "hakorobo #192",
+  "description": "hakorobo #192 HKS-17",
+  "attributes": [
+    {
+      "value": "HKS",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Leather",
+      "trait_type": "Shoes"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPxqNYCFKL89ytiEMTmDyfSN8vrvry3TjcDxJ4WBZRZXS/nft.jpg",
+  "nftContractAddress": "0x47d310bba0747339e5f9e5a57a7ddff81283eb82",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Harmosa#003",
+  "description": "There was Arcade cafe near Newport.",
+  "attributes": [
+    {
+      "value": "Longbeach",
+      "trait_type": "Location"
+    },
+    {
+      "value": " Afternoon",
+      "trait_type": "Time"
+    },
+    {
+      "value": "Building",
+      "trait_type": "Category"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZRMPHUBcyGjYd8RLjP13iGWs2cE4qCzy9zZvbuyw9t5E/nft.png",
+  "tokenId": 77,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**HAMAKAZE 1944**  \nThis silhouette is destroyer HAMAKAZE in 1944.\n\nIt is the 13th ship of the Kagero type.  \nLike her sister ships, she was always active on the front lines and sank together with the Yamato in the Battle of Cape Bonnomisaki near the end of the war.\n\nIn addition to combat, it is also the ship that witnessed the end of famous ships such as \"Soryu\", \"Musashi\", \"Kongou\", \"Shinano\", and \"Hiyo\", and rescued many of their crew.\n\n**駆逐艦 浜風 1944**  \n陽炎型の13番艦です。  \n姉妹艦と同じく常に最前線で活躍し、終戦間際の坊ノ岬沖海戦で「大和」と運命を共にしました。\n\n戦闘だけではなく「蒼龍」「武蔵」「金剛」「信濃」「飛鷹」など、名だたる艦艇の最期に立ち会い、多くの乗員を救出した艦でもあります。\n\nこのNFTは1944年頃の浜風のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0077 HAMAKAZE 1944",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Destroyer"
+    }
+  ]
+}

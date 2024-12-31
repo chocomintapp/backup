@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdj7fFiyC8SagsgeXSvv21q5HuYemXvftTgRbrLr1MafQ/nft.jpg",
+  "tokenId": 41,
+  "description": "41/101  \nTaken on Aug 16, 2015  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #41",
+  "attributes": [
+    {
+      "trait_type": "item",
+      "value": "ship"
+    }
+  ]
+}

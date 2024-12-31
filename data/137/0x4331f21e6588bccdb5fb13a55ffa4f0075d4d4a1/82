@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPqo9Td6VZVfPVjcsZftW9d5bUascTar5uCDfZ36R1XM2/nft.png",
+  "tokenId": 82,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**CHOKAI 1937**  \nThis silhouette is heavy cruiser Chokai in 1937.\n\nIt is the fourth ship of the Takao class.  \nShe was the flagship in many battles and is said to have been the most active ship of her type.\n\nThe refit that was done to the sister ships \"Takao\" and \"Atago\" was not done to this ship.  \nThe huge 10-tiered bridge was not downsized until the end of her life.\n\n**重巡洋艦 鳥海 1937**  \n高雄型の4番艦です。  \n多くの戦場に旗艦として挑み同型艦で最も活躍したと言われています。\n\n姉妹艦「高雄」「愛宕」に施された改装は本艦には行われず、10層からなる巨大な艦橋は最期まで小型化される事はありませんでした。\n\nこのNFTは1937年頃の鳥海のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0082 CHOKAI 1937",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Heavy cruiser"
+    }
+  ]
+}

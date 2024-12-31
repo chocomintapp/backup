@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZuUNtZc53uyiJZgPWJHrxbdFQCgPQ4SjTgpXEVv8Sz7z/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 47,
+  "chainId": "137",
+  "name": "#47",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Sea",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#443DB4",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "International maritime signal flags",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Papa",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ],
+  "minted": "✅"
+}

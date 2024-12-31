@@ -1,0 +1,35 @@
+{
+  "image": "",
+  "nftContractAddress": "0x80e264b0bf25dd57eb1caacdd09d9fea34286e1c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "DANDELION’S-DREAM#001",
+  "description": "This is the DANDELION'S-DREAM series with a total of 101 types.\nDANDELION'S-DREAM#001. ",
+  "attributes": [
+    {
+      "value": "Horizontal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Red",
+      "trait_type": "COLOR"
+    },
+    {
+      "value": "Middle",
+      "trait_type": "COLOR POWER 1"
+    },
+    {
+      "value": "Upper",
+      "trait_type": "COLOR POWER 2"
+    },
+    {
+      "value": "Night",
+      "trait_type": "TIME"
+    },
+    {
+      "value": "1st",
+      "trait_type": "GENERATION"
+    }
+  ]
+}

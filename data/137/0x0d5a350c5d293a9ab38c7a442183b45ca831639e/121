@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaTdCXHJicteyJLUoN8sFYQMizynTjLbRGy4inLCP3cC7/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 121,
+  "chainId": "137",
+  "name": "Day53 Umitsuru's Art",
+  "description": "メロンは高い割に、それほど美味しくないと思っています。\n\nI believe that melons are not that tasty for their high price.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

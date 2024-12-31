@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWu4JAuD5AEkkzMtGTpN9KdiRHG6VTSXx4LTAPnwTxcgK/nft.png",
+  "tokenId": 32,
+  "description": "Name:霧隠才蔵\nSeasoning:重曹",
+  "nftContractAddress": "0x7c3084bc7205790e1b2d3de6afe3af476e074ac2",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "霧隠重曹"
+}

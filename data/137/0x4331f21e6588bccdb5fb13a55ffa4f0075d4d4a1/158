@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaCf79GbiPVLNQR8emLUZtpZA4tgaRLaQg7JsqD5G2Qqu/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 158,
+  "chainId": "137",
+  "name": "WMM #0158 AKIZUKI 1944",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**AKIZUKI 1944**  \nThis silhouette is Destroyer Akizuki in 1944.\n\nIt is the name ship of the \"Tsuki class destroyer\" which specialized in anti-aircraft combat to directly protect battleships, aircraft carriers, and other major naval vessels.\n\nDuring the Great War, she was busy escorting the task force as per her original purpose, and played an active role in fleet air defense until she was roared down while escorting the aircraft carrier Zuikaku off the coast of Engano.\n\n**駆逐艦 秋月 1944**  \n戦艦や空母など主要艦艇を直衛する為に対空戦闘に特化した「月型駆逐艦」のネームシップです。\n\n大戦中は当初の目的通り機動部隊の護衛に奔走し、エンガノ沖で空母「瑞鶴」を護衛中に謎の轟沈をするまで、艦隊防空で活躍しました。\n\nこのNFTは1944年頃の秋月のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Destroyer",
+      "trait_type": "Ship"
+    }
+  ]
+}

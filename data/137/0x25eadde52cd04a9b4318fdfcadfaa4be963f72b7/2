@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdJuzHxwVagy1mDLhBectDhLJpU6bYJwSRmbLQBviM9Qd/nft.png",
+  "tokenId": 2,
+  "description": "POiNT 2021 music box collection",
+  "nftContractAddress": "0x25eadde52cd04a9b4318fdfcadfaa4be963f72b7",
+  "animationUrl": "https://ipfs.io/ipfs/QmTgXmFbDQav8KeH3itoCPjbdtDzwdsDoYAGHdcLjhBDv4/nft.glb",
+  "chainId": "137",
+  "name": "POiNT 2021 music box 001_MIKU",
+  "attributes": []
+}

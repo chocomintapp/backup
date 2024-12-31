@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNtNLsAhM396w2W8ntMe7n3KsHQqRzBq8FQKjSJsr5pLm/nft.gif",
+  "tokenId": 1,
+  "description": "Switch the world",
+  "nftContractAddress": "0x5962a40b011a77b7b15317986772246615bfd9da",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Fun"
+}

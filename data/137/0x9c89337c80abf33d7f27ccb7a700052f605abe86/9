@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSR6h4sLCiGHfGJD3o7fnL1CC1dNQX8n3Pse3wvPJeFNu/nft.jpg",
+  "tokenId": 9,
+  "description": "This is a bear nft with a heart",
+  "nftContractAddress": "0x9c89337c80abf33d7f27ccb7a700052f605abe86",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "bear"
+}

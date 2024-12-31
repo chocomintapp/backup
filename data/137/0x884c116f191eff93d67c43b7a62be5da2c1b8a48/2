@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeEn7JVHBUjQNssY1gtibsGLGUtJeaURf2FbVduNZqQyJ/nft.jpg",
+  "nftContractAddress": "0x884c116f191eff93d67c43b7a62be5da2c1b8a48",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": " LooseVeryLongAnimals #7",
+  "description": "VeryLongAnimals #7の二次創作です！",
+  "attributes": [
+    {
+      "value": "Panda",
+      "trait_type": "Type"
+    }
+  ]
+}

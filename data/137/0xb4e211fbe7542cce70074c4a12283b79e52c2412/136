@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVJ1dG6ttpkb5fZiB1biqktAw52YUrDjzDMDTqyKcXs3M/nft.png",
+  "tokenId": 136,
+  "description": "Contemporary art style Tenmusu Medjed",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/QmVJ1dG6ttpkb5fZiB1biqktAw52YUrDjzDMDTqyKcXs3M/nft.png",
+  "chainId": "137",
+  "name": "medjed no.136/1000",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

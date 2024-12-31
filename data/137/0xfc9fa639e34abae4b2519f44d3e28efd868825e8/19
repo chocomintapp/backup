@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPu37w1T6vS2TJjcasoJKFnwqwuWYbbVXjJcYUbeHsCex/nft.png",
+  "nftContractAddress": "0xfc9fa639e34abae4b2519f44d3e28efd868825e8",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies Z #19",
+  "description": "Baby's growth potential is unlimited.",
+  "attributes": [
+    {
+      "value": "Streaked Shearwater",
+      "trait_type": "TYPE"
+    }
+  ]
+}

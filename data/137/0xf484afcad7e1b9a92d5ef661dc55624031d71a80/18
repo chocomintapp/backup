@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS4Q9FzPirZvFZgfEsG4VxPDutwyJBixzbLk3wBCugvxU/nft.png",
+  "tokenId": 18,
+  "description": "A picture of a cat that invites good luck in Japan",
+  "nftContractAddress": "0xf484afcad7e1b9a92d5ef661dc55624031d71a80",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "A picture of a cat that invites good luck in Japan",
+  "attributes": []
+}

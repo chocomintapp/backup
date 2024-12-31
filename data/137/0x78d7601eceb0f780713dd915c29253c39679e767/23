@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQM8apJmaRcCFsbSrM9Tor58ZwAP5WW8Y5gMoqK6tzm97/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "https://ipfs.io/ipfs/QmQM8apJmaRcCFsbSrM9Tor58ZwAP5WW8Y5gMoqK6tzm97/nft.png",
+  "tokenId": 23,
+  "chainId": "137",
+  "name": "#23  White Twin tails",
+  "description": "A cute short twin tail.",
+  "attributes": [
+    {
+      "value": "Hair",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Short Twin tails",
+      "trait_type": "Hair"
+    }
+  ],
+  "minted": "✅"
+}

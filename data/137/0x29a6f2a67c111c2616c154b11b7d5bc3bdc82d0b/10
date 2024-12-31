@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTNMERwtKymEFxQUvkr9nZ4gS8icvQarvmh5pzLu9YMaZ/nft.png",
+  "tokenId": 10,
+  "description": "Name:Geronimo\nSeasoning:jam",
+  "nftContractAddress": "0x29a6f2a67c111c2616c154b11b7d5bc3bdc82d0b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Jamnimo"
+}

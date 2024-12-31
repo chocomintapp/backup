@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc3YGQsuDQ3yjQwAdpN79Y5xLmpSq7WsggtRa7PpgixRM/nft.jpg",
+  "tokenId": 5,
+  "description": "The name is noticeman. It gives you awareness when you're stuck with something, have a problem, or lack an idea.",
+  "nftContractAddress": "0x8b3279ef10f14c9ce45c0af5c191607411d559bf",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc3YGQsuDQ3yjQwAdpN79Y5xLmpSq7WsggtRa7PpgixRM/nft.jpg",
+  "chainId": "137",
+  "name": "noticeman",
+  "minted": "✅"
+}

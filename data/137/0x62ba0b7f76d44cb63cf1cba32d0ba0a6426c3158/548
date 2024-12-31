@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ5SffFci3evhMK5AGHAbSsho1Koh19Qrb2nHP8To3e4k/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 548,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #548",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Game Over Dog",
+      "trait_type": "TYPE"
+    }
+  ]
+}

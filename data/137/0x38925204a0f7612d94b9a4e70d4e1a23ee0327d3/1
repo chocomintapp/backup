@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRDu4h4tY2bpaVrAURgcEN2nLrEW6PogMbUv1CL8B5LEa/nft.jpg",
+  "tokenId": 1,
+  "description": "Shisha illustration made by Japanese illustrater",
+  "nftContractAddress": "0x38925204a0f7612d94b9a4e70d4e1a23ee0327d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmRDu4h4tY2bpaVrAURgcEN2nLrEW6PogMbUv1CL8B5LEa/nft.jpg",
+  "chainId": "137",
+  "name": "Shisha illustration",
+  "attributes": [
+    {
+      "trait_type": "Bottle",
+      "value": "Avion M1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Solaris Mars"
+    },
+    {
+      "trait_type": "Flavor",
+      "value": "Key lime"
+    }
+  ]
+}

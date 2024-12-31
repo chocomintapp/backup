@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmat9GtBqBTRiSzymAUFTrUPzFzMz9Hs4NSjDkkxRWEhue/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 45,
+  "chainId": "137",
+  "name": "幸せを運ぶえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』\n",
+  "attributes": [
+    {
+      "value": "ヤサシイ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ロールケーキ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "サツマイモ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "お花の水やり",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "イッスンサキハヒカリ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

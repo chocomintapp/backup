@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbd4CiWUfZaPFJU7eNWANhrpZkkfxSp2mdnrxJkWV1Q8J/nft.jpg",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 96,
+  "chainId": "137",
+  "name": "#0092_Niton_CcrMRW_G_Bst",
+  "description": "0092_Niton_CcrMRW_G_Bst\n\nブーストアイテムにて変化しています！",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Iris Blue",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Carnation Pink",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    },
+    {
+      "value": "Metallic",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Afro",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "==",
+      "trait_type": "Eye"
+    }
+  ]
+}

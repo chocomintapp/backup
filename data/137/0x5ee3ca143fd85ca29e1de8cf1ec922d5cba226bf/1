@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX2TEhKBU4zNDTXzJAbYnwv57A3ijWPjnxFextxER6XuP/nft.jpeg",
+  "nftContractAddress": "0x5ee3ca143fd85ca29e1de8cf1ec922d5cba226bf",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Challenger",
+  "description": "",
+  "attributes": [],
+  "minted": ""
+}

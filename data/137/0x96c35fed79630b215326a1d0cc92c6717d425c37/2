@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfBB23fsMcJDVhYHX895Uo6jneGWSRXiScTf2pVVH5Pgh/nft.png",
+  "nftContractAddress": "0x96c35fed79630b215326a1d0cc92c6717d425c37",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "CoolVeryLongAnimals #002",
+  "description": "",
+  "attributes": [
+    {
+      "value": "002",
+      "trait_type": "ID"
+    },
+    {
+      "value": "992x992",
+      "trait_type": "size"
+    },
+    {
+      "value": "PNG",
+      "trait_type": "format"
+    }
+  ]
+}

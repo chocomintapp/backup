@@ -1,0 +1,64 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRsuswi1zUJc79EkFt1sU9yLX3MUDJc7SCe3MNJAgGqsc/nft.png",
+  "tokenId": 61,
+  "description": "This is a limited edition NFT.   Niko24 x TheKAPSEL78 This is a collaboration piece for a gift.   I've been thinking a lot about Wolves.   This is a tribute NFT to the NFTCreater Niko24.   This KAPSEL is my 10th collaboration KAPSEL. Limited Edition1/1 NFT.   I wish for good things to happen in your life.  https://opensea.io/collection/niko24   https://opensea.io/collection/box-wolf-nft   https://twitter.com/fukusta343",
+  "nftContractAddress": "0x4aca62f1a59e44b3cb12e432555f5e6acf3dc558",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "TheKAPSEL#61 Collab LE",
+  "attributes": [
+    {
+      "trait_type": "Brand",
+      "value": "Kapsel78Lab"
+    },
+    {
+      "trait_type": "Collections",
+      "value": "The KAPSEL78"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Morim"
+    },
+    {
+      "trait_type": "Gen",
+      "value": "1"
+    },
+    {
+      "trait_type": "TYPE",
+      "value": "Tribute Works"
+    },
+    {
+      "trait_type": "Upper outer",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Lower outer",
+      "value": "Silhouette"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "BOXWOLF PILOT"
+    },
+    {
+      "trait_type": "Font",
+      "value": "Glow White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glow Red"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Tabaco"
+    },
+    {
+      "trait_type": "Background",
+      "value": "BOXWOLF Purple"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

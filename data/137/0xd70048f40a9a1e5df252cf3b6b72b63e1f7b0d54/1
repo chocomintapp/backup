@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXmMHJeNs4ENMEY5tUKokqYydFdQa5UYU5yyLuvQ5PJ4R/nft.jpg",
+  "nftContractAddress": "0xd70048f40a9a1e5df252cf3b6b72b63e1f7b0d54",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "LAND SCAPE #1",
+  "description": "2/27/2021 Painted using an iPad.",
+  "attributes": [
+    {
+      "value": "building",
+      "trait_type": "land scape"
+    }
+  ]
+}

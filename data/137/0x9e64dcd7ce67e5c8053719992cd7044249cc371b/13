@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYd6Bizq1BKWeUkoWQk9pnuM4Vm51PWyTpUU2dF8gv7pC/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "DOZAN11 × VeryLongAnimals (TIGER)",
+  "description": "A collaboration with DOZAN11, a famous reggae artist in Japan. Created by VLAB and AkimuneKawa.",
+  "attributes": [
+    {
+      "value": "Tiger DOZAN",
+      "trait_type": "TYPE"
+    }
+  ]
+}

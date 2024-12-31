@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVRzjJDoYYCQ1aFmfxdY4aWNT5JPWNgviCS9nJh1urzvA/nft.gif",
+  "tokenId": 11,
+  "description": "",
+  "nftContractAddress": "0x238312a4b25d38da55f437c35bb713f2a5924664",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "MetaWorld",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "Background",
+      "value": "Meta World"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Denim Basic"
+    },
+    {
+      "trait_type": "Headphone",
+      "value": "Yellow v.2"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Pink Basic"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Oculus"
+    },
+    {
+      "trait_type": "Pet",
+      "value": "White Cat"
+    },
+    {
+      "trait_type": "Bag",
+      "value": "Yellow Backpack"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "White Cat"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

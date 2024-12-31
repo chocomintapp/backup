@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV7jyGGqjaumu6Ueb3gdpTxQWJnyRbo2dmZvkP5sQZafh/nft.png",
+  "tokenId": 2,
+  "description": " - Episode 1 - \nOne day, Crypyans were discovered in crypto world. \nIt's shrouded mystery what they are.\nHowever, we found that each of them could have elemental traits. ",
+  "nftContractAddress": "0x459f434c6e39342e6df4aefaba80a49d616ff392",
+  "animationUrl": "https://ipfs.io/ipfs/QmYZ3vqvjTVjLpFKrmK1PWBbnoPq9AVZ4HA7wxNqgGgvFt/nft.png",
+  "chainId": "137",
+  "name": "Crypyan #001-2 First edition (Black ver.)",
+  "attributes": [
+    {
+      "trait_type": "Crypyan",
+      "value": "1"
+    },
+    {
+      "trait_type": "Episode",
+      "value": "1"
+    },
+    {
+      "trait_type": "Belongings",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Crypyan"
+    }
+  ]
+}

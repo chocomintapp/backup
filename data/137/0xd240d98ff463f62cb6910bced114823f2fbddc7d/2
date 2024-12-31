@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPCVw7poqeRLqcGjfwM8kLEf1w49AAVhEva78UVExWqv7/nft.png",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmY1iqbgLeTJdbv5yLmmViQiMQbFseRstCQKB8XEFDsr5H/nft.glb",
+  "chainId": "137",
+  "name": "Chickbit #2",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "uncommon"
+    }
+  ]
+}

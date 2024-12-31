@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWzjbZztzSbGDpCw4gK6gdZnRREaRHrQVh7kwujc9SwyF/nft.jpg",
+  "nftContractAddress": "0xa4357a3a19abf97a0e79167011ff30b6629e67fd",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "testa",
+  "description": "",
+  "attributes": []
+}

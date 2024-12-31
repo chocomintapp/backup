@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNivxAy9bisnhso2EW8gi8zraPMPfWRaVSYCrtykokWtW/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 106,
+  "chainId": "137",
+  "name": "Working Ganmichan#26",
+  "description": "がんみちゃん、異世界転生したらマジシャンだった",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "magician",
+      "trait_type": "situation"
+    }
+  ]
+}

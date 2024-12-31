@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTonCK1WmVLykA3Hd5hdTUrPoupLbuzhdWyGW7eXMhf4L/nft.png",
+  "tokenId": 25,
+  "description": "まあ、座りたまえ\n\nWell, have a seat.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "The President's Cat",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

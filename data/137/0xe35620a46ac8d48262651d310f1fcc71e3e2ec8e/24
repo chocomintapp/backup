@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRMkv5zPy22XpYrADFfyyP1rgCk1f9oudJALpe73bLVfx/nft.png",
+  "nftContractAddress": "0xe35620a46ac8d48262651d310f1fcc71e3e2ec8e",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "137",
+  "name": "Asnow Asummer #018",
+  "description": "This is a land where the seasons coexist leading to a land of curses.\nThe name derives from the fact that when the discoverer, Paul XVII, arrived, \"it was snowing under the blazing sun.\"",
+  "attributes": [
+    {
+      "value": "Asnow Asummer",
+      "trait_type": "Area"
+    }
+  ],
+  "minted": "✅"
+}

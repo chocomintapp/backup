@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT74LdUWHY8oYoxwUZQryU7jzJfWbbfbWBJSF9D1tZvmD/nft.png",
+  "nftContractAddress": "0x394971c7d3d7021d4df96dcbdad7b0a55fe33dca",
+  "animationUrl": "https://ipfs.io/ipfs/QmWVk5XNSdaS95QPuNViM8zec7SkHkzFPKz8oU6xoLrvCm/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "A",
+  "description": "BbbbbbbbbbbB",
+  "attributes": [],
+  "minted": ""
+}

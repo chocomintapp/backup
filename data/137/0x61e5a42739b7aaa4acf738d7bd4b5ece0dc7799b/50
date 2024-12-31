@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP5CY1uCxB9pwSHBdGcoyNduo5Awst1kTZCk9ZkpBTfc1/nft.gif",
+  "tokenId": 50,
+  "description": "Creator [Kujira941](https://twitter.com/riddimlife1)\n\nおみくじくじ！",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "大吉 #11",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "大吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Kujira941"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Unopened"
+    }
+  ]
+}

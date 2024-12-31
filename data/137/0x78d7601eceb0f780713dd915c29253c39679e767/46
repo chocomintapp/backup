@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU8TkAyp4WptuukUS6vbZd5VpjxCHH8QmkrJGD3asuHyi/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 46,
+  "chainId": "137",
+  "name": "#46 Yukata navy",
+  "description": "Yukata full of memories of summer vacation.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Clothes",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Yukata",
+      "trait_type": "Clothes"
+    }
+  ]
+}

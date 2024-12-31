@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNbyhbMQM5XhqUL6zftSKgRwEy6EjzzJu7a2zuRQbq4nT/nft.png",
+  "tokenId": 6,
+  "description": "The most common style of katsudon in Japan is \"a dish of pork cutlet and onion simmered in a soy sauce-flavored warishita, egg-bound, and put on rice.\"",
+  "nftContractAddress": "0xafcaf44db4a79e28075111aa018295cc5a23a826",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "KATSUDON",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

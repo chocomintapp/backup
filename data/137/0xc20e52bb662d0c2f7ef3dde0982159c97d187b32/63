@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX2tM8GfffQwGc4Wnm2C1f28dBZ5kyEX8emnDJipJjcRH/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 63,
+  "chainId": "137",
+  "name": "#63",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "UFO",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#4EDEE7",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Alien",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Martian ",
+      "trait_type": "face"
+    },
+    {
+      "value": "None",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Tentacles",
+      "trait_type": "legs"
+    }
+  ]
+}

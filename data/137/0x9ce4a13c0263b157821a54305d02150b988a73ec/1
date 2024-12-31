@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPvPcEdGjWCKQFYqUEBJo8eE52Yxxs62anir2egoL8CmQ/nft.jpg",
+  "nftContractAddress": "0x9ce4a13c0263b157821a54305d02150b988a73ec",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "AZ-500",
+  "description": "AZ-500",
+  "attributes": [],
+  "minted": ""
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ5Sbrz6PDcskAGbb2uiuWoEo2TikjuWugddVtVturWZK/nft.png",
+  "nftContractAddress": "0x67f87a6e28a3492b7ff96b3450f7b70e3393677e",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "VeryPoliticalLongAnimals #024",
+  "description": "Governor of Tottori Prefecture",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Shrimp",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Bronze",
+      "trait_type": "Grade"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeBgyJV1qRNr2Ng3a97AeQXBtBZk7u4GEAkDAP53Lzqi8/nft.gif",
+  "tokenId": 56,
+  "description": "Creator [Kujira941](https://twitter.com/riddimlife1)\n\nおみくじくじ！",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "大吉 #14",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "大吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Kujira941"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

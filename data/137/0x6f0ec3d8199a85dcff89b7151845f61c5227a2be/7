@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVCcNntBJi2LkV5P2NEWgSWn2SJknH3CusrZ5ZkhTyUBh/nft.png",
+  "tokenId": 7,
+  "description": "What if Robotos is a plastic model??",
+  "nftContractAddress": "0x6f0ec3d8199a85dcff89b7151845f61c5227a2be",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Robotos #9091 plastic model??",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Robotos"
+    }
+  ]
+}

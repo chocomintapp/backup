@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRjJZ8VkNJ2hMW5WQ1gRHeNjnSMWkj4zLMKfx1omih3fU/nft.gif",
+  "tokenId": 309,
+  "description": "This is a VIP SDD.\n\nI air-dropped it to @Rain_bow_Road_1\n\nMay The SDD Be With You.\n\nMarch. 18 2022\n\n",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #408 VIP SDD",
+  "attributes": [
+    {
+      "trait_type": "M",
+      "value": "aj2"
+    },
+    {
+      "trait_type": "HC",
+      "value": "VIP"
+    },
+    {
+      "trait_type": "BG",
+      "value": "VIP"
+    },
+    {
+      "trait_type": "E",
+      "value": "VIP"
+    },
+    {
+      "trait_type": "F",
+      "value": "VIP"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZNWzmafr6qc7RJYzmLX2D5QU121K1yMwa4q1Vwd51uWR/nft.jpeg",
+  "tokenId": 1,
+  "description": "Japanese Hiragana NFT",
+  "nftContractAddress": "0xba003595bb49c31cfc2d7d197e0ddc15a324f4d6",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Noriyugi Test1",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

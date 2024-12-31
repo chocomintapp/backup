@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWvvNkjJUyzFKGyouWfEiJMKWtpaVEMLHzU26KQHYDVBN/nft.png",
+  "tokenId": 15,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TIGER II Henshel turret**   \nIt was a German heavy tank that appeared in the latter half of World War II.\nIt was called the \"King Tiger\" because it was the largest and most powerful.\n\nThe 71 caliber 88 mm anti-tank gun can destroy any Allied tank at long range.And there was no Allied tank that could penetrate the 180 mm armor of the TIGER II.\n\nIt was slow and sluggish, but its mobility was next to nothing.\nIt has a place in the end of the war, when defensive combat is the norm.\n\n**ティーガーⅡ ヘンシェル砲塔**  \n第二次大戦後半にドイツが実戦投入した\n最大・最強の重戦車、通称「キングタイガー」です。\n\n71口径88 mmの対戦車砲は連合国側のあらゆる戦闘車輛を\n遠距離で撃破でき、最大180mmを誇る装甲を\n貫徹できる連合国戦車は存在しませんでした。\n\n機動性は無いに等しい鈍足の虎でしたが\n防御戦闘が主体の大戦末期には活躍の場がありました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0015 TIGER II Henshel turret",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

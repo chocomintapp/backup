@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYUg1xyGVvTjGUTmYM83sn8TUkk6yZTwTV1qBhkTy2Jvb/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmYUg1xyGVvTjGUTmYM83sn8TUkk6yZTwTV1qBhkTy2Jvb/nft.gif",
+  "tokenId": 58,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #58",
+  "description": "ベビロン二次創作",
+  "attributes": [
+    {
+      "value": "Deer",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

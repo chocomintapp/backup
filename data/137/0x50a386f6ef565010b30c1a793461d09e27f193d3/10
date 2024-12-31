@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf66bnq4gYBkwJ4GDBUoNL4LbjaiLf7uUEKbovTpVUa4X/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "hakorobo #10",
+  "description": "hakorobo #10 HKV-10",
+  "attributes": [
+    {
+      "value": "HKV",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Leather",
+      "trait_type": "Shoes"
+    }
+  ]
+}

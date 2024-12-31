@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeznHQ6fyQA3XVsyKaSou7ZvYpycTTzAra1sfSRNXXVDY/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "TANU-KIDS #007",
+  "description": "自衛隊員に変身したTANU-KIDS\n陸軍に所属して今日も国の防衛に努めます\n\nNO WAR",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Army",
+      "trait_type": "Military"
+    }
+  ]
+}

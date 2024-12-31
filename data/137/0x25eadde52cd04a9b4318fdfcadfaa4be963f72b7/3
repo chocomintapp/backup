@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTC3ND6xHW213ySSGAgRcgBFSdvdNTRG4qcsx52zwFygr/nft.png",
+  "tokenId": 3,
+  "description": "POiNT 2021 music box collection",
+  "nftContractAddress": "0x25eadde52cd04a9b4318fdfcadfaa4be963f72b7",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc5w2dezcJycfhM2bvUnuzdCDYnSyCsC2UVVVBEoCV6Wy/nft.glb",
+  "chainId": "137",
+  "name": "POiNT 2021 music box 001_MOE",
+  "attributes": []
+}

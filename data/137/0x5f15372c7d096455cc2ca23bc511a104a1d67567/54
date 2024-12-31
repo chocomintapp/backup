@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdZNdHf9uqzmthRAcUYF6t73BcAEorXHRz4K1MJWM5ecS/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmdZNdHf9uqzmthRAcUYF6t73BcAEorXHRz4K1MJWM5ecS/nft.png",
+  "tokenId": 54,
+  "chainId": "137",
+  "name": "#22B💍『Dotted bridal veil』",
+  "description": "💍RabbitGirls Bridal bouquet💐\nRabbit Girls in shining rings and wedding dresses are coming to you.\n\nA witch girl full of happiness in a bride.👰‍♀️",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Bridal",
+      "trait_type": "Series"
+    },
+    {
+      "value": "Dotted Bridal Veil",
+      "trait_type": "Character"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://bafybeid7le4jejqh7pdrvubboohyjhpkliymhckfx4mwjytt3bkkzzd5lu.ipfs.nftstorage.link/6.png",
+  "nftContractAddress": "0xd6905bc25e377050505182ef1b6a1ca5f32f251f",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Cynical Florist Yuki",
+  "description": "Never imagined a florist holding a cigarette.  She's my co-worker. She is cynical, but a great florist. Maybe better than me.  She doesn't care even if a hoverfly hovers around her. But she moves her cigar to not let the smoke touch the hoverfly.  Her name is Yuki. Meaning snow in Japanese.",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Style"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ2xV7YZmzhSZXy2X2kdQ7ZnYT66LzzkSdsjoB3uEy2ur/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 67,
+  "chainId": "137",
+  "name": "#67   School uniform Cardigan beige(Loose socks)",
+  "description": "The school uniforms of the girls who aim to be Rabbitgirls of their dreams.\n",
+  "attributes": [
+    {
+      "value": "Clothes",
+      "trait_type": "Type"
+    },
+    {
+      "value": "School uniform",
+      "trait_type": "Clothes"
+    }
+  ],
+  "minted": "✅"
+}

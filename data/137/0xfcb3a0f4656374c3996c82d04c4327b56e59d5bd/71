@@ -1,0 +1,56 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQKH8KTfrk7We5tCLKmsL8EwfyGwrPcc9o8Cwd7QVptur/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 71,
+  "chainId": "137",
+  "name": "#0067_Niton_BbWBK_Rrc_Bst",
+  "description": "#0067_Niton_BbWBK_Rrc_Bst\nブーストアイテムにて変化しています！",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Medium Purple",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Persian Red",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    },
+    {
+      "value": "Metallic",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "MofuMofu",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Gradation",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Horn",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "==",
+      "trait_type": "Eye"
+    }
+  ]
+}

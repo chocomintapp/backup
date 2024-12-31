@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWnU76Qhffd1pzxrxiBtetD847dqEmamnSjrXroUDAzcn/nft.png",
+  "tokenId": 1,
+  "description": "SUZY sloth(PALE) is playing on a tree. Catch and kick the nuts !",
+  "nftContractAddress": "0xe01dfc8f98d56d8b18237ccdcc2e507a8543a924",
+  "animationUrl": "https://ipfs.io/ipfs/QmekpLJQ2z7UpkxTH5NCjdtCnPVuUKjdnNNkBUw2Pz1UEs/nft.mp4",
+  "chainId": "137",
+  "name": "suzy pale",
+  "attributes": [
+    {
+      "trait_type": "sloth",
+      "value": "1"
+    }
+  ]
+}

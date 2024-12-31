@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmctRCxxZBeKaHaxKENmTyNNePnYAHtUQ21KbRuRohZsbP/nft.png",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmTCdwZh6k2dytQp14N7etA7omUofgz6d1oAgQY8HY6XAP/nft.glb",
+  "tokenId": 25,
+  "chainId": "137",
+  "name": "Chickbit #25",
+  "description": "",
+  "attributes": [
+    {
+      "value": "uncommon",
+      "trait_type": "rarity"
+    }
+  ]
+}

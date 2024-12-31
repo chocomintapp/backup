@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbFwu5S7oaMArmBpqzBheG5MjCWNRD7Aa9ugfKzQ7dc1f/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 100,
+  "chainId": "137",
+  "name": "VeryLongAnimals #100",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Lion",
+      "trait_type": "TYPE"
+    }
+  ]
+}

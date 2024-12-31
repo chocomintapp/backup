@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZidZqiwmf8DVKzM82b4R6EhhHBaBNKpr3gL5WnW817Pp/nft.png",
+  "tokenId": 34,
+  "description": "Calligraphy Devil #34",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #34",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Amy"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Beelzebub"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sloth"
+    }
+  ]
+}

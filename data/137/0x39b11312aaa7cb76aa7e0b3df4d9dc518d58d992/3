@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaA4SWdPaUp2cbtBFokbFdxyfK1m2H2XM8vQqHAFyhALH/nft.png",
+  "tokenId": 3,
+  "description": "Originally from France, it is a Papillon. She is a small dog, so I designed her to be small and cute, but her clothes are designed to be more mature.\n\nフランス原産からはパピヨン。 小型犬なので小柄で可愛い感じでデザインしてますが、服装はちょっと大人っぽさを意識した服にしてます。",
+  "nftContractAddress": "0x39b11312aaa7cb76aa7e0b3df4d9dc518d58d992",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "national dog’s_Papillon",
+  "attributes": []
+}

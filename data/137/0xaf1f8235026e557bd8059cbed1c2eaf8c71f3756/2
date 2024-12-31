@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUozD5h1kLkQQnrEJoXFkfa4NVwnmHEA1NNNmBTvsAgXR/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/QmUozD5h1kLkQQnrEJoXFkfa4NVwnmHEA1NNNmBTvsAgXR/nft.gif",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "WavyLongAnimals #2",
+  "description": "ベリロン二次創作",
+  "attributes": [
+    {
+      "value": "Dog",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

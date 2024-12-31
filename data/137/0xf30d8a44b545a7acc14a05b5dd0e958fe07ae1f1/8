@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcaQ5bGH2Shtx2TYK4UknZ7FnUocvcMieSGD5vNdVtFqj/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "PPP #008",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cardigan WH",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Sunglasses",
+      "trait_type": "Accessories"
+    }
+  ]
+}

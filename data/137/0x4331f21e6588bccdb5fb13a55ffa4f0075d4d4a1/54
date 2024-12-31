@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmahWRjbmuVTnv29C6gT7xea4BPyn29LmJYWA6P991eJxo/nft.png",
+  "tokenId": 54,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**BISMARCK 1941**  \nThis silhouette is battleship BISMARCK in 1941.\n\nIt is a nameship of the Bismarck class.  \nIt is probably the most powerful of the German Navy and one of the most famous battleships in the world.\n\nIn her first battle, the Battle of the Denmark Strait, she made an impressive debut by sinking the battleship Hood, a symbol of the Royal Navy.  \nHowever, she was hit by more than 400 bullets in a fierce pursuit of the British prestige, and ran out of power.\n\nThe shocking ending of the sinking after the flashy first battle has been passed down to future generations and is still a very popular battleship.\n\n\n**戦艦 ビスマルク 1941**  \nビスマルク級のネームシップにしてドイツ海軍最強、そして世界で最も有名な戦艦の一つでしょう。\n\n初陣のデンマーク海峡海戦でイギリス海軍の象徴とも言える戦艦「フッド」を撃沈するなど、鮮烈なデビューを飾りましたが、イギリスの威信をかけた猛追撃により400発以上の命中弾を受け力尽きました。\n\n超ド派手な初陣からの戦没という衝撃の結末は後世に語り継がれ\n今もファンの多い艦です。\n\nこのNFTは1941年頃のビスマルクのシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0054 BISMARCK 1941",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Battleship"
+    }
+  ]
+}

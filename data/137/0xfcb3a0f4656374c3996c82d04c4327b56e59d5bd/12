@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdYZCzdJHUJgvi4rpm2QpLxMC4ztkvnECnM6sgS45S5hc/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "#0011_Niton_YM",
+  "description": "#0011_Niton_YM",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Magenta",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "banzai",
+      "trait_type": "Feature"
+    }
+  ]
+}

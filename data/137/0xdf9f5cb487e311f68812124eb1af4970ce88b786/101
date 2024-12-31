@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPBDayo1eqPFSZ4XYNiWsr7FjYyRNi5z6DgUCffapso5Y/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 101,
+  "chainId": "137",
+  "name": "Working Ganmichan #21",
+  "description": "Ganmichan is a doctor of insects. ",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "doctor of insects",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

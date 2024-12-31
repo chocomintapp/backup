@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRwviqNwp3VK2hPfE9MYoUD3GgpwmYozeZb9BC2oycYCi/nft.png",
+  "nftContractAddress": "0xd91587f67e5c05a3f2e93377d54a601265791a10",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "ASCT #1",
+  "description": "#!",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "Red Line"
+    },
+    {
+      "value": "1",
+      "trait_type": "White Background"
+    }
+  ]
+}

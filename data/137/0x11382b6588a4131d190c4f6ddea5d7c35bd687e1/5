@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSdgLTFTESaQMurAZkyTABNbVUCtMYZoVtPpRcE3ZxTSg/nft.png",
+  "nftContractAddress": "0x11382b6588a4131d190c4f6ddea5d7c35bd687e1",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "V #002",
+  "description": "Shino is a bit of a goofy girl.She often forgets to lock her bike and has had her bike stolen eight times.She's very attentive to detail and very kind-hearted when it comes to people.\n\nMemory:We talked about each other's hobbies at a cafe.",
+  "attributes": [
+    {
+      "value": "Alcohol",
+      "trait_type": "FAVORITE"
+    },
+    {
+      "value": "Cafe tour",
+      "trait_type": "HOBBY"
+    },
+    {
+      "value": "Shino",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "Sensitive",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Ballerina",
+      "trait_type": "SPECIAL SKILL"
+    }
+  ]
+}

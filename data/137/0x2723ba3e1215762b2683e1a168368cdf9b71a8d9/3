@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcEbKjdeKff7tRyikSN4PUYnKQaPmSuJCiZAEbnfK2Ugj/nft.png",
+  "tokenId": 3,
+  "description": "Will Yuki be able to give her present to her favorite Allan?",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#2 Yuki's Valentine Mission",
+  "attributes": [
+    {
+      "trait_type": "Language",
+      "value": "English"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWUPQkz4CHzxSusn4ERWbkwCTzhzTHRaz4FG3Gbbcsrvj/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #005 Jan.6",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n1月6日\n\nガレージで、自慢の単車のメンテナンスをする「ねじねじドーナツ部長」です。メンテナンスが仕上げに差し掛かったころ、「ちょっと走ってくるか」とガレージのシャッターを開けたのは良いけれど、外は大雨。せっかくの「ちょっとそこまで」ができなかったことを、残念に思うのでした。\n\n\n-------------\n\nJan 6\n\nA man is doing maintenance work on his motorcycle in his garage. When he was about to finish the maintenance, he opened the shutter of his garage and said, \"I'm going for a run,\" but it was raining heavily. He was disappointed that he could not go for a \"short run.\n",
+  "attributes": [
+    {
+      "value": "Brown",
+      "trait_type": "BOOTS"
+    },
+    {
+      "value": "Red",
+      "trait_type": "OVERALLS"
+    },
+    {
+      "value": "Black",
+      "trait_type": "T-SHIRT"
+    }
+  ]
+}

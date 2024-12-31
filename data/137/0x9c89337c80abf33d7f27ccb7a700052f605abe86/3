@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUapu5VRQhWYRVKwLwYWHqx6qpbRgn3n32krm5cfqRDZf/nft.jpg",
+  "tokenId": 3,
+  "description": "This is the original ninja I created. The point is that it's small and cute.",
+  "nftContractAddress": "0x9c89337c80abf33d7f27ccb7a700052f605abe86",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Ninja"
+}

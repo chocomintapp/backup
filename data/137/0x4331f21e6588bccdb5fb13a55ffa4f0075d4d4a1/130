@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeBjj1b5j11JYatVDRXguhibxAwCtntEdAqV3YG2vNnaC/nft.png",
+  "tokenId": 130,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**PANJANDRUM**  \nThis is a land explosive mine that the British Army attempted to develop in preparation for the Normandy landings.\n\nThe 18 rocket motors mounted on the wheels of the mine break through the minefields and The plan was to smash the Atlantic Wall (German position protection wall) at a speed of 100 km/h.\n\nIn reality, it could not go straight and was not used in actual combat. The humorous idea and movement (a video of the experiment is still available) It is still a popular weapon of great failure.\n\n**パンジャンドラム**  \nノルマンディー上陸作戦を控えたイギリス軍が開発を試みた陸上爆雷です。\n\n車輪に搭載された18基のロケットモーターで地雷原を突破し、時速100kmで大西洋の壁（ドイツ軍陣地防護壁）を粉砕する予定でした。\n\n実際には真っすぐ進む事も出来ず実戦投入はされませんでしたがユーモラスな発想と動き（実験中の動画が残っています）で今も人気の大失敗兵器です。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0130 PANJANDRUM",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "UK"
+    },
+    {
+      "trait_type": "Special weapon",
+      "value": "Bomb"
+    }
+  ]
+}

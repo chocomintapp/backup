@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW7mqrjFp2qXbErDCcSFRdRxw4VP7mS27qnCRsoboiZsQ/nft.png",
+  "nftContractAddress": "0x8ab6e6dea981e6d00139cfe0320149e71d9167b1",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "イワケンラボ・ロゴ制作",
+  "description": "イワケンラボのロゴの制作デザインを行った。",
+  "attributes": [
+    {
+      "value": "Credit",
+      "trait_type": "Type"
+    }
+  ]
+}

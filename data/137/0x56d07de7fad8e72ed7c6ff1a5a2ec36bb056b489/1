@@ -1,0 +1,15 @@
+{
+  "image": "",
+  "nftContractAddress": "0x56d07de7fad8e72ed7c6ff1a5a2ec36bb056b489",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "#1 yu-ki\"GORE-GIRL\"／幽妃「ゴアガール」",
+  "description": "This is a secondary NFT of yu-ki \"Gore Girl\".\nShe is so cute that her internal organs pop out.\nHer personality is tsundere and her hobby is death metal.\n\nOriginal author:\nyu-ki\n\n幽妃さんの「ゴアガール」の二次創作NFTです。\n内臓が飛び出ちゃうほど可愛い女の子です。\n性格はツンデレでデスメタルが趣味です。\n\n原作者：\n幽妃(yu-ki)",
+  "attributes": [
+    {
+      "value": "GORE-GIRL",
+      "trait_type": "yu-ki"
+    }
+  ]
+}

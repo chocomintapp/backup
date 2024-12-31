@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPWezQ4jnGe5yUF6vuut3Q55VDCKfBB5H4AMbe5zHnRGC/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "Day11 Syu's Art #31",
+  "description": "自分専用のiPadが欲しい。\n\nI want my own iPad.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

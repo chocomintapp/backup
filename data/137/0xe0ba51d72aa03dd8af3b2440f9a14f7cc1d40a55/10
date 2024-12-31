@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYqNprTosGRpcv7XdTxpJ5naNzRF9DiLA8Q5NMF3UReKv/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "イヤホンを片耳なくしたえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ウッカリ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "タイ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "ハルマキ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "ロードバイク",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "アンズルヨリウムガヤスシ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYYX7q5Arn3We6nrbWPQcDhdLnJKc2njLY8J8cahjRst2/nft.JPEG",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 48,
+  "chainId": "137",
+  "name": "VerySilentFruits#48 Rose Apple",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Rose Apple",
+      "trait_type": "Fruit"
+    }
+  ]
+}

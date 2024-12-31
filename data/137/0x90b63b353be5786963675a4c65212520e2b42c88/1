@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfW5LG5t5dVLnxPiATTCaawimRR7xTPq5TL8kV52avqxR/nft.jpg",
+  "tokenId": 1,
+  "description": "tesr",
+  "nftContractAddress": "0x90b63b353be5786963675a4c65212520e2b42c88",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test"
+}

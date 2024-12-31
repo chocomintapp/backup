@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUjzjxEsjEKe9n4vthkFUrUPMBSGwzmc9BFJoUCa6K8Sb/nft.jpeg",
+  "tokenId": 44,
+  "description": "Calligraphy Devil #44",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #44",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Andrealphus"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Abaddon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Wrath"
+    }
+  ]
+}

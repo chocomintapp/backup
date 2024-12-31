@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWhKvUBYVebSG8nDrsM6VA7QEntdSU8mKJNh1iQgePhh8/nft.png",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "137",
+  "name": "ニノ鳥居 -Ninotorii-",
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.\nIn particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.\n\n\nここはニノ鳥居、此処をくぐれば美保神社の境内です。\n\n猫たちに導かれ、美保神社へ参ります。\n\n子供たちの未来は、どうなっていくでしょうか？\n\nきっと猫たちが寄り添いながら導いてくれるでしょう。\n\n子供たちの未来に幸あれ。",
+  "attributes": [
+    {
+      "value": "Miho Jinjya",
+      "trait_type": "Location"
+    },
+    {
+      "value": "SENBYO",
+      "trait_type": "MODEL"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmege6Ur9Qry2wHzdCCjVPAh9DwXTJ5W8ZgruCdt3gvsGn/nft.jpg",
+  "nftContractAddress": "0x442c375ff3d172ac168007f3d9943f2eb75e19f6",
+  "animationUrl": "https://ipfs.io/ipfs/QmQPNwGGPtbqb5D19wJGYcidSYWSo1HGLgnNpnnSwkUokA/nft.mp3",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Akaneiro～茜イロ～",
+  "description": "I wrote this song inspired by the sky in the evening.\n\nPurchasers can download the full mp3 version and use it for any purpose to help your creativity, commercial use, and of course listening.\nhttps://lock.chocomint.app/locks/abf4d2e1-5d0d-4db9-97a5-a99ee7b1c1ef\n\nCC0 License.\n\nHave a happy music life!\n\nArtist : YOSHIE",
+  "attributes": [
+    {
+      "value": "YOSHIE",
+      "trait_type": "Artist"
+    },
+    {
+      "value": "CC0",
+      "trait_type": "License"
+    }
+  ]
+}

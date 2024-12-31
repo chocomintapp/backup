@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS5ALjor28Ry6ECy4a9zVkpmLm6o3ijMasuyVLRiVRdC8/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 86,
+  "chainId": "137",
+  "name": "VeryLongAnimals #86",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Pelican",
+      "trait_type": "TYPE"
+    }
+  ]
+}

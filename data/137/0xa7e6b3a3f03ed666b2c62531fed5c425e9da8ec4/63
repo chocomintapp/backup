@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeZ9itPke23XzegbgGN4YhQntK4hFm5Lh9h2itnLtopAN/nft.png",
+  "tokenId": 63,
+  "description": "HAPPY BIRTHDAY !!",
+  "nftContractAddress": "0xa7e6b3a3f03ed666b2c62531fed5c425e9da8ec4",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "October 7, 2021",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

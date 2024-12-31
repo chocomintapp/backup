@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWCZnTZGJdhYtNzq2q4CswjwmTyrCrZDeyXPNXibdv1pw/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #11",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Mole",
+      "trait_type": "Type"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRhCSPR6pcQu2DkRnmTN4ZZQEJ2T9yLML6N2JRKfnKRKc/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "大吉 Bad Panda #12",
+  "description": "このパンダはイタズラ好きです。笑\n\nThis panda likes mischievous things.hahaha\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "attributes": [
+    {
+      "value": "panda face",
+      "trait_type": "special item"
+    }
+  ],
+  "minted": ""
+}

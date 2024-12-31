@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcRrMPN7J9TQ1bpkXnp5HCaFK92tWRnraxANAoy7NFMh3/nft.jpg",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 50,
+  "chainId": "137",
+  "name": "大吉 Sweet Potato ♯50",
+  "description": "ホックホク。笑\n\nHokkuhoku.hahaha\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープル official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection\n\n\n",
+  "attributes": [
+    {
+      "value": "SWEET POTATO",
+      "trait_type": "SPECIAL ITEM"
+    }
+  ]
+}

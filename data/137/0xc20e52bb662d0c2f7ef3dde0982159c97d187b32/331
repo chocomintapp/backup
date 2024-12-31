@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWToXdZwtCgfTmuDZa3AAiRr58NbK4oCXu2ZajcanyXmB/nft.gif",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 331,
+  "chainId": "137",
+  "name": "#331",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Night to shudder",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#663B06",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Piyopiyo Chicks",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Piyorobo",
+      "trait_type": "Face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "Hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Legs"
+    }
+  ]
+}

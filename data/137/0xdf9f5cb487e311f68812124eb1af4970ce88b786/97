@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZH6LpDYsW24zPGB3v39xZbr23oCmytsgQANQWMPNduqL/nft.png",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 97,
+  "chainId": "137",
+  "name": "Ganmichan's wanko azuki ver ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "wanko",
+      "trait_type": "series"
+    },
+    {
+      "value": "azuki",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

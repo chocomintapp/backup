@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRB5kDxuPxUTsbdjwgmdgxiRUc2Dcub4GGySyU9QPhb5J/nft.png",
+  "nftContractAddress": "0x0aa71cd06e77788ec1c1f737df487d608fac5327",
+  "animationUrl": "https://ipfs.io/ipfs/QmRB5kDxuPxUTsbdjwgmdgxiRUc2Dcub4GGySyU9QPhb5J/nft.png",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Story Girl #003",
+  "description": "What if I could transform myself into a character in a story?\n\nToday, I'm a mermaid princess who lives in the South Sea!",
+  "attributes": [
+    {
+      "value": "Story",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Wavy",
+      "trait_type": "HAIRSTYLE"
+    },
+    {
+      "value": "Honey Gold",
+      "trait_type": "HAIR COLOR"
+    },
+    {
+      "value": "Green",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Coral Pink",
+      "trait_type": "LIPS"
+    },
+    {
+      "value": "Shell",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "Pearl",
+      "trait_type": "HAIR ORNAMENT"
+    },
+    {
+      "value": "Starfish",
+      "trait_type": "HAIR ORNAMENT"
+    },
+    {
+      "value": "Sea",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

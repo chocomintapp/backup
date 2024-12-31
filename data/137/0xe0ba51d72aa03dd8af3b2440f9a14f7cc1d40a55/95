@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPgxKfV3RtpTNCTXmPPEMNkXGa2657GkjrPvJ34cws9ve/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 95,
+  "chainId": "137",
+  "name": "深夜ラジオはがき職人のえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "オモシロイ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "エナジードリンク",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "ギンナン",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "お笑いライブ",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "カミハサイブニヤドル",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

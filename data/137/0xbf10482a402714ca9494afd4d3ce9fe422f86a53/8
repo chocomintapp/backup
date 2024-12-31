@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRv3fskxbnw2N9At6FmhQ24pssYDMnPEjpkxWuPhxKQE4/nft.png",
+  "tokenId": 8,
+  "description": "Nishi's art",
+  "nftContractAddress": "0xbf10482a402714ca9494afd4d3ce9fe422f86a53",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "堕落",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

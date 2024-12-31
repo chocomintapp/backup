@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcvh8m6eYhETcEoKk6GoqDQfYWDqesNHC7EeeSMgBBNSS/nft.png",
+  "tokenId": 3,
+  "description": "Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.\n\nMA(TheMadnessOfAbyss) #0 \"Prototype\"\n(11E#000#0FC#F00#309#F0F#FFF#C36#0FF#96F#0F0+FF0+30F)\n 【NOT FOR SALE】\nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x6392f80f5a556a22ffbbd49692e3a010d9af4773",
+  "animationUrl": "https://ipfs.io/ipfs/QmfDZJtn4bWG9pHSHvjTvzsKTS4HbG85gkKbm3PAuSwAqp/nft.png",
+  "chainId": "137",
+  "name": "MA #0 Prototype",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Prototype"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "MA"
+    },
+    {
+      "trait_type": "Crypyan",
+      "value": "10"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "NOT FOR SALE"
+    }
+  ]
+}

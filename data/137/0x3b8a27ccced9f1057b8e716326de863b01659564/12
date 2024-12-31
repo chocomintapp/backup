@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPYnMf5emmcPQxiT11S1eGKFZH6aKESv2YgASv7dTNyoS/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #12",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Spotted garden eel",
+      "trait_type": "Type"
+    }
+  ]
+}

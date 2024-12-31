@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPSYotEuxgbmLYJ7LdZpHHWgwRVDkpghDSHBLdRaf96om/nft.png",
+  "tokenId": 1,
+  "description": "Cat walking path of voxel.",
+  "nftContractAddress": "0xa258963baaf66c6267298bfc739ad866cbd9ce86",
+  "animationUrl": "https://ipfs.io/ipfs/QmYjZfYZpDfj7g2A3FosvyFuu4QaQmUVqrGPEk5KejmmJ7/nft.mp4",
+  "chainId": "137",
+  "name": "CryptoCatWalk#1",
+  "minted": "✅"
+}

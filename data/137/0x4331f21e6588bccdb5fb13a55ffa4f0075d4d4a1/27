@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdr8GrtEeUGxcsQmXJmAqFb2vXmYPG9ox8n7xZHSfRhxX/nft.png",
+  "tokenId": 27,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KATORI 1942**  \nThis silhouette is training cruiser KATORI in 1942.\n\nIt is the first ship of the Katori class built by the Imperial Japanese Navy as a pure training cruiser.\n\nIt was designed with an emphasis on stability, with no special armor, and was truly specialized as a training ship.  \nBecause it was commissioned just before the start of the war, the training voyage has only been done once.\n\nIt was a ship that was not suitable for combat because its structure was practically the same as a merchant ship.  \nAfter the start of the war, as the flagship of the Sixth Fleet, which belongs to the submarine carriers and submarines\nIt was active until the end of the Pacific War.\n\n**練習巡洋艦 香取 1942**  \n日本海軍が純粋な練習巡洋艦として建造した香取型の1番艦です。\nその用途から安定性を重視した設計で、特別な装甲は施されておらず、まさに練習艦に特化していましたが開戦直前での就役となった為、練習航海はたった1度しか行っていません。\n\n実質的に商船と変わらない構造なので戦闘には不向きな艦でしたが開戦後は潜水母艦や潜水艦が所属する第六艦隊の旗艦として\n太平洋戦争終盤まで活躍しました。\n\nこのNFTは1942年頃の香取のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0027 KATORI 1942",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Light cruiser"
+    }
+  ],
+  "minted": "✅"
+}

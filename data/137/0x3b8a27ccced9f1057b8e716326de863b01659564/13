@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY1EFzKD5T11AL8iLQwSqSGF1QC71ekXj13oHpxKzF7P6/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #13",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Cow",
+      "trait_type": "Type"
+    }
+  ]
+}

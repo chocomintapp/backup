@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWE126EPjjNmwvAVumHT3AYKpWCmHQFiH9jjVWYvW2Aqy/nft.jpg",
+  "tokenId": 16,
+  "description": "This is the original cute bear I created",
+  "nftContractAddress": "0xf484afcad7e1b9a92d5ef661dc55624031d71a80",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "bear"
+}

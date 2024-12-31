@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWVGH5Cwat4xnB2dUkDMQwj8WWkwdh8sS7jsRGzpyyebj/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "#2 Pink Dress",
+  "description": "💐Thanks💐\n\n🐰Air drop by MakeRabbit.com🎁",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Clothes",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Dress",
+      "trait_type": "Clothes"
+    }
+  ]
+}

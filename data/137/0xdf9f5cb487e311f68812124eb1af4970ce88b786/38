@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYKEaW7C3vB9SbGec9TP4toEqWqbTfdN7dFDLUbKh8Dnb/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "137",
+  "name": "Ganmichan's wanko #10",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "wanko",
+      "trait_type": "series"
+    },
+    {
+      "value": "french bulldog",
+      "trait_type": "situation"
+    }
+  ]
+}

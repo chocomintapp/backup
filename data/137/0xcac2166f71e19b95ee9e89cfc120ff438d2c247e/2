@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYN9wMG4Uw9msxfUP61qqdkXxVGsqhBXuUqd2Endqur8g/nft.png",
+  "tokenId": 2,
+  "description": "He is a proud Japanese Bushi (Samurai).",
+  "nftContractAddress": "0xcac2166f71e19b95ee9e89cfc120ff438d2c247e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "bc_kibi_0002",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

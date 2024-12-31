@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfTpFu8Zh3euZFVAtMK6scLZF7pgwwUXv7jJEAq7j37LP/nft.png",
+  "tokenId": 48,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**PANTHER Type.G**  \nIt is a masterpiece medium tank that the German army introduced in the latter half of World War II.\n\nIt was a well-balanced weapon that could be produced at about the same cost as the Panzer IV, with excellent attack power, armor, and mobility.\n\nAlthough the initial model had frequent failures The type-G had dramatically improved reliability and was a raging force on the battlefield.\n\n**V号戦車 パンター G型**  \nドイツ軍が大戦後半に投入した傑作中戦車です。\n\n攻撃力・装甲・機動性・全てにおいて優秀な上にIV号戦車とほぼ同じコストで生産できるバランスのいい兵器でした。  \n初期型は故障が頻発しましたがこのG型は劇的に信頼性も向上して戦場で猛威を振るいました。\n",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0048 PANTHER Ausf.G",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ],
+  "minted": "✅"
+}

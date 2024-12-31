@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeoKEe83jKoMPW51erzwKSLt2dMvuBmeMbPk7UVjQu5Sk/nft.png",
+  "tokenId": 103,
+  "description": "Contemporary art style Franken medjed",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/QmeoKEe83jKoMPW51erzwKSLt2dMvuBmeMbPk7UVjQu5Sk/nft.png",
+  "chainId": "137",
+  "name": "medjed no.103/1000",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

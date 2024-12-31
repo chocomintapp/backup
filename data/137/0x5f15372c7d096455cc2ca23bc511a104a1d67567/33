@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaUVhErxbo9C6QV7UgSTiUYtEtTkccgHu1v1YzDKdw3C5/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmaUVhErxbo9C6QV7UgSTiUYtEtTkccgHu1v1YzDKdw3C5/nft.png",
+  "tokenId": 33,
+  "chainId": "137",
+  "name": "Rabbit girl #16 『椿』",
+  "description": "Rabbit girl #16 『椿』Tsubaki\n\nShe is often said to be overprotective because she loves the eldest daughters of her three sisters with a quiet personality and two younger sisters. Her favorite thing is Sanshok-dango🐰",
+  "attributes": [
+    {
+      "value": "Tsubaki",
+      "trait_type": "Charactor"
+    }
+  ],
+  "minted": "✅"
+}

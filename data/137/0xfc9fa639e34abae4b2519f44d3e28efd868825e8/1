@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma4mkmQVpXdEU2aoQpg86KYi2PqtK7KNEFv5b74CTYv6U/nft.png",
+  "nftContractAddress": "0xfc9fa639e34abae4b2519f44d3e28efd868825e8",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies Z #1",
+  "description": "Baby's growth potential is unlimited.",
+  "attributes": [
+    {
+      "value": "Emperor Penguin",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

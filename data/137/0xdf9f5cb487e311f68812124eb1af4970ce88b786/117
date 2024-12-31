@@ -1,0 +1,20 @@
+{
+  "image": "ipfs://bafkreifxg43lw7fekexkvd3dx5oi6g7ig5hxnjguip6pnlamdg2xgnodoi",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 117,
+  "chainId": "137",
+  "name": "Ganmichan's snap #9",
+  "description": "がんみちゃんの何気ない日常",
+  "attributes": [
+    {
+      "value": "snap",
+      "trait_type": "series"
+    },
+    {
+      "value": "sea",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

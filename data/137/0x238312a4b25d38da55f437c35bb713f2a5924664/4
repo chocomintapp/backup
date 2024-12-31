@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVbGkCJv2nRJZmeYDtHMDBagxowErLqVt8TqUFwXisLE8/nft.gif",
+  "tokenId": 4,
+  "description": "",
+  "nftContractAddress": "0x238312a4b25d38da55f437c35bb713f2a5924664",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Blitz",
+  "attributes": [
+    {
+      "trait_type": "Attribute",
+      "value": "Angel Wings"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blitz"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Denim Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Blue Bucket"
+    },
+    {
+      "trait_type": "Headphone",
+      "value": "Orange v.1"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Robo v.2"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pet",
+      "value": "Shiba"
+    },
+    {
+      "trait_type": "Bag",
+      "value": "Black Backpack"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Black Cat"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

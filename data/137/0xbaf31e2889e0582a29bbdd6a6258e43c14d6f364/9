@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRd3Q2JPgejEeUWWRKCpJaimxzao3VEWqZFCCcmKWbwLA/nft.png",
+  "nftContractAddress": "0xbaf31e2889e0582a29bbdd6a6258e43c14d6f364",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "Baran(Rabbit) Baby",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Baran(Rabbit)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

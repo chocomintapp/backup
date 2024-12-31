@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVnFVTgxECYRPJPfmUFb7AP7ePtMCYJ8JZvah23PycjSL/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 324,
+  "chainId": "137",
+  "name": "#324",
+  "description": "",
+  "attributes": [
+    {
+      "value": "In your heart",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#CCDAFE",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Piyopiyo Chicks",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Third Eye",
+      "trait_type": "Face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "Hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Legs"
+    }
+  ]
+}

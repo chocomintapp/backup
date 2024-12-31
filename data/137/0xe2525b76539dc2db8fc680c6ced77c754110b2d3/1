@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTss3USbtFfZ3zEQ9RcrRHMFFS2dgR4Sq82xHqem8NYAK/nft.png",
+  "nftContractAddress": "0xe2525b76539dc2db8fc680c6ced77c754110b2d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmX1MZPkA2JnwYDTjy29uzfC6JpRrxFAHYmgfiUBjfw992/nft.glb",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "star tiger 3D",
+  "description": "test",
+  "attributes": []
+}

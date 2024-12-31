@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTTtyTEMmViHWu181b9aTfYCQtwGkVnbtTqPNxbZnkVHC/nft.PNG",
+  "nftContractAddress": "0x8d39c597ead4c034b87acfd45a39052b9df8dd02",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "137",
+  "name": "Summer Breeze",
+  "description": "This work captures a moment at the beach in summer.\nIt was created as part of creator yui's \"Let's make and display NFT wind chimes\" project.\n\nThis summer is expected to be extremely hot, and this illustration of a cool wind chime will bring you a little cool breeze!",
+  "attributes": [
+    {
+      "value": "Beachside Clubhouse",
+      "trait_type": "Situation"
+    },
+    {
+      "value": "Wind Chime",
+      "trait_type": "Item"
+    }
+  ]
+}

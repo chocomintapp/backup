@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZLz7Y5zqXE7D2juUyuc9puGcA5t82d1ziTMafpZE8pjg/nft.jpeg",
+  "nftContractAddress": "0x83e8d5c34cd250debf51874cecfb7c9cb3c4ef74",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "卵かけご飯",
+  "description": "タマゴ",
+  "attributes": []
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYthwY3VTrxxtEXzx5i64bCwDvFkFaAs6imprKsDi5u47/nft.gif",
+  "nftContractAddress": "0x9bf32c919ecc4b6f4b70e8f35d2855bc3f6e1a15",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "The peeps map #01",
+  "description": "The peeps map #01 Eyes on me.\nIt is the eye of someone, floating in the mysterious solution. The other eye might be stored somewhere but not here.\n誰かの目玉が不思議な溶液の中で漂っています。もう片方はどこか別の場所に保管されている可能性がありそうです。",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

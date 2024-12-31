@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdKHnRK24RbWfiPbiNhtfQnWMYKcNv3oQEmfqr6v3jjkX/nft.png",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "tokenId": 66,
+  "chainId": "137",
+  "name": "Calligraphy Devil #66",
+  "description": "Calligraphy Devil #66",
+  "attributes": [
+    {
+      "value": "Devil",
+      "trait_type": "Spieces"
+    },
+    {
+      "value": "Astaroth",
+      "trait_type": "Entity"
+    },
+    {
+      "value": "Amon",
+      "trait_type": "Shadow"
+    },
+    {
+      "value": "Envy",
+      "trait_type": "Background"
+    }
+  ]
+}

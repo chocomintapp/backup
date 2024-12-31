@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYNHzcycyBsHX559PnKXi4GBFtGBxipd387TURmuXkRBb/nft.png",
+  "tokenId": 64,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**IKAZUCHI 1942**  \nThis silhouette is destroyer IKAZUCHI in 1942.\n\nIt is the 23rd ship of the Fubuki type destroyer.  \nIn the early stages of the war, she sank an American submarine with an explosive.\n\nFurthermore, in the Battle of Surabaya, she sank the British heavy cruiser Exeter, the British destroyer Encounter, and the U.S. destroyer Pope together with Ashigara, Myoko, Nachi, and Haguro.\n\nThe 422 survivors of the Encounter and the Pope, who were adrift, were \"telegraphed\". The anecdote of how they were rescued and treated with respect under the direction of Captain Shunsaku Kudo is well known.\n\n**駆逐艦 雷（イカヅチ） 1942**  \n吹雪型駆逐艦の23番艦です。\n開戦初期に爆雷で米潜水艦を撃沈し、スラバヤ沖海戦では「足柄」「妙高」「那智」「羽黒」などと共同で英重巡「エクセター」英駆逐艦「エンカウンター」米駆逐艦「ポープ」を撃沈する戦果をあげています。\n\n後日発見したエンカウンターとポープの生存者422名を「電」と共に救助し、工藤俊作艦長指示のもと丁重に扱った逸話は有名です。\n\nこのNFTは1942年頃の雷のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0064 IKAZUCHI 1942",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Destroyer"
+    }
+  ],
+  "minted": ""
+}

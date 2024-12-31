@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY9KLW3vuAxTQxCL1eb9q1f6GhdTEf6MFj6Q8N2m8wfow/nft.jpg",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/QmYL1xyiEiXucnseD7JReQJHY42gXyY2bq9WNn2KuP3rFg/nft.glb",
+  "tokenId": 33,
+  "chainId": "137",
+  "name": "MARIN",
+  "description": "３D",
+  "attributes": []
+}

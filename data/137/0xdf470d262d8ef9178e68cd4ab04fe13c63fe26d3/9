@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTujBacwHM48esBFEKHfUytZfgav7UmNNZPEnJpFHdPxZ/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmQSNncFHjGvkqQgDLzoK8rgZigegKFw9LWCurhzq1P8Ug/nft.gif",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "Kawaii Legends #009",
+  "description": "#009 Furisode Kawaii\n\n”You are blessed with what some people only dream of.”\n\n*Here are some tidbits about this costume:\nThis is a kimono with long sleeves called furisode.\nIt is the formal Japanese dress for unmarried women. You can't see the long sleeves in this image, though!\n\nThe long kimono sleeves of unmarried women are a remnant of the confession of love by waving the sleeves in the old days when it was difficult for a man and a woman to speak directly to each other before marriage.\n\n\n衣装豆知識：\n振り袖は未婚の女性の和装の正装です。この画像では長袖は見えませんが!\n未婚女性の着物の袖が長いのは、過去、婚前の男女が直接言葉を交わすことが難しかった時代に袖を振ることで愛の告白をしていた名残と言われています。",
+  "attributes": [
+    {
+      "value": "NEKO",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Party",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Sakura",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Furisode kimono",
+      "trait_type": "Outfit"
+    }
+  ],
+  "minted": "✅"
+}

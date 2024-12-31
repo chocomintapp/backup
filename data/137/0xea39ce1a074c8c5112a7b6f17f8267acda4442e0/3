@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbHNbokbxA9dX9WL2fZUjMjBRBvz15XXAJTdFUiPhbKZm/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "TANU-KIDS #002",
+  "description": "サッカー選手に変身したTANU-KIDS\n\nTリーグに所属して得点王めざして頑張ります\n\nサッカー選手を夢見る子供の力になります",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Soccer",
+      "trait_type": "Sports"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

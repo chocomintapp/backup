@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRVvAfC2BqzXfPTsf2nTW3KJQjSL6UEBAQLohVojgzy73/nft.gif",
+  "nftContractAddress": "0xace22abebbab894f7fa871421df41df86fdccad6",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "Skull",
+  "description": "Yeah",
+  "attributes": []
+}

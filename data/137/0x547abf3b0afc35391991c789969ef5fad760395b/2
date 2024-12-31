@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRdRDWD1YMX6DFq5hswm1Lg8Nz5MNYmKdBszWCJVvjhk3/nft.jpg",
+  "nftContractAddress": "0x547abf3b0afc35391991c789969ef5fad760395b",
+  "animationUrl": "https://ipfs.io/ipfs/QmUovQcNhBceEGL6yc21YMM24uRrLeAjC112gS1EFnpJVF/nft.jpg",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "test2",
+  "description": "テストです\nテスト改行\n",
+  "attributes": [
+    {
+      "value": "普通",
+      "trait_type": "レア度"
+    }
+  ],
+  "minted": "✅"
+}

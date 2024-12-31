@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeGgDBh2Qb381rMH9bogLfZ1Cd774iDiirgGafr5qy9aT/nft.png",
+  "nftContractAddress": "0xd7151e5a95eda22f37993c4e862ab581befed1dd",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "#005 Tim SOL Magician",
+  "description": "Tim loves to entertain everyone. So he becomes a magician and makes everyone smile.",
+  "attributes": [
+    {
+      "value": "Crypto",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Magician",
+      "trait_type": "JOB"
+    }
+  ],
+  "minted": ""
+}

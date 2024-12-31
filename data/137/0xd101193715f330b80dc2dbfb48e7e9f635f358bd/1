@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmayDC1BJzj6Zjq19Y9krR1hdCn5AHrm8W1dSZ4qW6mabF/nft.PNG",
+  "nftContractAddress": "0xd101193715f330b80dc2dbfb48e7e9f635f358bd",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Patched Dolls × RabbitGirls#4",
+  "description": "Patched Dolls × RabbitGirls Collaboration.\nOriginal character is \"めあ\".\nShe is a \"Vampire\" in disguise.\nhttps://opensea.io/ja/collection/rabbitgirlscollection",
+  "attributes": [
+    {
+      "value": "Collaboration Halloween Event",
+      "trait_type": "campaign"
+    },
+    {
+      "value": "OCT 29, 2022",
+      "trait_type": "date"
+    }
+  ]
+}

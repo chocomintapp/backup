@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbNPNvNx53cdpwkid6sUZ1BJdxLXgDDb8sbHYka9bXFj9/nft.png",
+  "nftContractAddress": "0x406d901e1b63f1a02bc9e8bf52928e3d31d6c0d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmU6CD9ydNQhLKX2Q2HKnLpvdoGFfxyzeJcVSPgEDLCrYg/nft.gif",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "イメージ緑",
+  "description": "点滅",
+  "attributes": []
+}

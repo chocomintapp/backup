@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbo9c1r3bQPEaeWVnfEgoSV213pZbrCuVVPDLMn6CBSXb/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 135,
+  "chainId": "137",
+  "name": "2022/7/29 Syu's Art",
+  "description": "夏休みもパパとママはお仕事だから学童に通っています。\n\nI go to the school during summer vacation as well because my mom and dad are working.",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

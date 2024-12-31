@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRtQCLGopAWbJgN4DyLkvwA3RSnGoYVGC19j2AvXZ8sXD/nft.jpg",
+  "tokenId": 1,
+  "description": "bonsai of pine on bicycle",
+  "nftContractAddress": "0x23d36f72b4ca8b94a3eb8f492464a99b99bd1ba3",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "bonsai",
+  "minted": ""
+}

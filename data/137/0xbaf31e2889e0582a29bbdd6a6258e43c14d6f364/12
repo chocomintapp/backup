@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVVqj9P8EpQKvBWY4Xm5gbD9PmBstyoYZoDC35k6o8Uqb/nft.png",
+  "nftContractAddress": "0xbaf31e2889e0582a29bbdd6a6258e43c14d6f364",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "Fox Baby",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Fox",
+      "trait_type": "TYPE"
+    }
+  ]
+}

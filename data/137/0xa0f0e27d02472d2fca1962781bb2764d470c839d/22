@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPNc1fyvNS4umTihhf9HygAYzBdVgkVfQYsTSSho4Cn5U/nft.png",
+  "tokenId": 22,
+  "description": "どんな事でも「ほう」と聞き流すことができます。\n\nI react to any event with a \"I see.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "The Enlightened Owl",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Owl"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

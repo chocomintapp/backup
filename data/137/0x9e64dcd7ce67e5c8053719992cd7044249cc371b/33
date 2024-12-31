@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ8o1XzQVJVFi8y35tgcicxy1fjQ4JqtFrpeZMHzPudRy/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "137",
+  "name": "TAKANOTSUME DAN NFT × VeryLongAnimals Bosatsutoge",
+  "description": "A collaboration with TAKANOTSUME DAN NFT. Created by Akim.",
+  "attributes": [
+    {
+      "value": "Bosatsutoge",
+      "trait_type": "TYPE"
+    }
+  ]
+}

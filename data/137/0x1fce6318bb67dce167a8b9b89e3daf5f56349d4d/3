@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQynNRhKiTUembDdWKW9qcp5YKA8jWjV47h1957iqjmZR/nft.gif",
+  "nftContractAddress": "0x1fce6318bb67dce167a8b9b89e3daf5f56349d4d",
+  "animationUrl": "https://ipfs.io/ipfs/QmULbagZyEtPmDbk5UrLpKAUT41EckrXmw8GjtnmzsQ6xH/nft.glb",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "SpacePolyCat #3",
+  "description": "An alien who is traveling in search of a habitat (metaverse) because the planet he lives on is no longer habitable. Their name is SpacePolycats!!!",
+  "attributes": [
+    {
+      "value": "Sauna",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Light blue",
+      "trait_type": "Skin"
+    }
+  ]
+}

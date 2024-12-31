@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZiPxvhLkhHe4dGXShGbPCWSSg8MvnZqwF3qBRrx1rN8g/nft.jpg",
+  "tokenId": 1,
+  "description": "Data Vis with the World Map Dark mode version",
+  "nftContractAddress": "0x26de49065e0ebe89dad6037364c8205a209489f9",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "DarkMode",
+  "minted": ""
+}

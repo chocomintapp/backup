@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRkteGLzKkZ1DMbKnNfFKWEZe7jT9HCnjvBh8w3jeXNQo/nft.png",
+  "nftContractAddress": "0xa1b91184ae95bff62d9fd5dc701214772b9c47d5",
+  "animationUrl": "https://ipfs.io/ipfs/QmY8fjNPtgr72MmFdy3jaWzhXcDXD2m7ws9WGwVC6bcQCP/nft.glb",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "test",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

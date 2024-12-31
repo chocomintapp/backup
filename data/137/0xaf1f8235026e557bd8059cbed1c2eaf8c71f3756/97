@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT8e7E1gqg7HytFUGEYE11qqj84YjfiH4bJGWNmwZ92C9/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/QmT8e7E1gqg7HytFUGEYE11qqj84YjfiH4bJGWNmwZ92C9/nft.gif",
+  "tokenId": 97,
+  "chainId": "137",
+  "name": "WavyLongAnimals #97",
+  "description": "ベリロン二次創作",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Eagle",
+      "trait_type": "TYPE"
+    }
+  ]
+}

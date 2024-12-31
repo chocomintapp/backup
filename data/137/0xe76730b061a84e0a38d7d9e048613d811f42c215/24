@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUL9CPbTme9owsL5rGZYJbiYhYUve2vpVSStvdg5iJDxM/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "137",
+  "name": "THS #019",
+  "description": "【罣】",
+  "attributes": [
+    {
+      "value": "pine tree",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "shadow",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSS99yhSxFTiSxMcZFv7FD1VPVuSHpaDnbwSSmuVjNTCR/nft.gif",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmSS99yhSxFTiSxMcZFv7FD1VPVuSHpaDnbwSSmuVjNTCR/nft.gif",
+  "tokenId": 47,
+  "chainId": "137",
+  "name": "Rabbit girl #❤️『Mei』",
+  "description": "🌟Collaboration & FanArt🌟\n\nRabbit Girl #❤️ 『Mei』\n 🍭yum yum Gyaru🍩\n\nMei from CawaiiGyaru came to Rabbit Girls from another world line. Pay attention to the cute expression.✨\n\nCawaiiGyaru!!✖️RabbitGirls 🐰💞 @Cawaii_Cawaii00",
+  "attributes": [
+    {
+      "value": "Mei",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "GIF",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Fanart",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Collaboration",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

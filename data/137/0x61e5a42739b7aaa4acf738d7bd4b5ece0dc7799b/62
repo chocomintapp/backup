@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmauLWKocvM1JSRGzQPdTrpGyq7XKXSGuUiE7JqpwEaEbv/nft.png",
+  "tokenId": 62,
+  "description": "Creator [Monstarz](https://opensea.io/monstarz-nft.eth?tab=created_collections)",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "中吉 #3",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "中吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Monstarz"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbu9Mu5NgEi1raq8jU2XRiVGqHvxd5UxxhzC1W5LFiZa5/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 77,
+  "chainId": "137",
+  "name": "Ganmichan's wanko #30-2.",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "wanko",
+      "trait_type": "series"
+    },
+    {
+      "value": "shiba",
+      "trait_type": "situation"
+    }
+  ]
+}

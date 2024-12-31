@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRVhQWhDWmaxjxnSdm1k54VivD9echLuLRL7rqVj2djvo/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 297,
+  "chainId": "137",
+  "name": "#297",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hochzeitsmarsch",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#1C1A19",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Composer",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Felix Mendelssohn",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

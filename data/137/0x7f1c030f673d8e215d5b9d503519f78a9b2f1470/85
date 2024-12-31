@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSjWhNMSzg9Jc8oaiGYzaEJhFwhsmeFVtGLtP5WvWYscS/nft.jpg",
+  "nftContractAddress": "0x7f1c030f673d8e215d5b9d503519f78a9b2f1470",
+  "animationUrl": "",
+  "tokenId": 85,
+  "chainId": "137",
+  "name": "Twilight To Owl #27",
+  "description": "The owl, a symbol of wisdom, will give you the power to see far.",
+  "attributes": [
+    {
+      "value": "Twilight",
+      "trait_type": "Attribution"
+    },
+    {
+      "value": "To",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "West",
+      "trait_type": "Birth"
+    },
+    {
+      "value": "Young",
+      "trait_type": "Age"
+    },
+    {
+      "value": "Visionary",
+      "trait_type": "Class"
+    }
+  ]
+}

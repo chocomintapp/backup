@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNUFL2juCXBdXsLjJdRkLCqn5YzyKVpjQTeCGBwkhKjiW/nft.PNG",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimals #26",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Owl",
+      "trait_type": "TYPE"
+    }
+  ]
+}

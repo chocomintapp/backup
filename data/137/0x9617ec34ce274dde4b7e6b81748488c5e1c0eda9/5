@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbynQsQdnhy63aDL92RD2cymE6BwKrwbErvFb64XmXiGA/nft.JPG",
+  "nftContractAddress": "0x9617ec34ce274dde4b7e6b81748488c5e1c0eda9",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Android Girl #5",
+  "description": "Version：KAGURA / Android Girls are androids manufactured by AI. The maximum number of Android Girls produced is 100. ",
+  "attributes": [
+    {
+      "value": "KAGURA",
+      "trait_type": "Type"
+    },
+    {
+      "value": "005",
+      "trait_type": "ID"
+    }
+  ],
+  "minted": "✅"
+}

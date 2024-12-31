@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTTsMGf3gugxQbdGtML52u72Q55stSx7Qf9Um5uoCsH4Q/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "VerySilentFruits#19 Jackfruit",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Jackfruit",
+      "trait_type": "Fruit"
+    }
+  ],
+  "minted": ""
+}

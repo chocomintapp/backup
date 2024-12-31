@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZYnhqHVimHej3DKwo4Pj99U5mnGs5v4gjkUXysp9MFsh/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 119,
+  "chainId": "137",
+  "name": "#0114_Niton_MmWRrY_B",
+  "description": "#0114_Niton_MmWRrY_B",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Neon Pink",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Blaze Orange",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Bule",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ],
+  "minted": "✅"
+}

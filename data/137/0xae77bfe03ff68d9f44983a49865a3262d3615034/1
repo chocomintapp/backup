@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTesJHgLgnAAzz1kuKMebRisTTPseXd9iHEHv9dXEXTpp/nft.png",
+  "tokenId": 1,
+  "description": "syousaidayo",
+  "nftContractAddress": "0xae77bfe03ff68d9f44983a49865a3262d3615034",
+  "animationUrl": "https://ipfs.io/ipfs/QmTesJHgLgnAAzz1kuKMebRisTTPseXd9iHEHv9dXEXTpp/nft.png",
+  "chainId": "137",
+  "name": "namaedayo",
+  "attributes": [
+    {
+      "trait_type": "taipudayo",
+      "value": "baryu-yo"
+    }
+  ]
+}

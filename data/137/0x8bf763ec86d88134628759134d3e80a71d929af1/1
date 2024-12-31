@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaSHXi1WpFMi6uR6jjf8hZNhCCCyVrmL46aRCQyhXVzNi/nft.png",
+  "nftContractAddress": "0x8bf763ec86d88134628759134d3e80a71d929af1",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "aa",
+  "description": "ssdfdafda",
+  "attributes": [
+    {
+      "value": "bb",
+      "trait_type": "aa"
+    },
+    {
+      "value": "dd",
+      "trait_type": "cc"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUod8UktP7EYmEvb6og7hiXzXri8qQG1ezu66ZQdrzgko/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "Neon #22",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "yellow hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue fighter",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "samuraiX",
+      "trait_type": "hand"
+    },
+    {
+      "value": "late",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

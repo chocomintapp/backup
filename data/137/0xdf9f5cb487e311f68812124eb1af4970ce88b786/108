@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdTABK6yh9zAXmbcYQ13cFRJ8LHk9ntp2Av4J9cDmAqTS/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 108,
+  "chainId": "137",
+  "name": "Working Ganmichan#28",
+  "description": "生まれながらに武術の達人であるがんみちゃんは、一瞬で経絡秘孔を数十箇所突くことができる\nA martial arts expert by nature, Ganmichan can strike dozens of vital points in an instant.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "fighter",
+      "trait_type": "situation"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQo1i1LgKYKVLeTtaejkuXMPsb9tuQsgm9CcQq9qSQeJ5/nft.PNG",
+  "nftContractAddress": "0x1a11b843370e2dfbbfbf44b4c5d5dd681cb573fc",
+  "animationUrl": "https://ipfs.io/ipfs/QmQo1i1LgKYKVLeTtaejkuXMPsb9tuQsgm9CcQq9qSQeJ5/nft.PNG",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Azuki Miyota",
+  "description": "Azuki Miyota",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Azuki Miyota",
+      "trait_type": "Name"
+    }
+  ]
+}

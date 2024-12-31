@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTGAKL1xwUVNttWzaEof4BbUHJbBC1FUHLcBhBe5KFGnS/nft.png",
+  "nftContractAddress": "0x7efdb6ae72382294006c64633c8723ff3cd35c95",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "Crypto Bar Mozoku",
+  "description": "Cryptographic Assets Old Folk House Bar Membership Card",
+  "attributes": []
+}

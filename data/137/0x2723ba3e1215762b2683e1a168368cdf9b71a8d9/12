@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcEtVZi7dZLD58fjGf97pTmUPwre3pC4zd9d5Lb66s5Fs/nft.png",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "#6 わたしを見つけて",
+  "description": "レスターがとっておきの作戦を考えたみたいだけど…？",
+  "attributes": [
+    {
+      "value": "Japanese",
+      "trait_type": "Language"
+    }
+  ],
+  "minted": "✅"
+}

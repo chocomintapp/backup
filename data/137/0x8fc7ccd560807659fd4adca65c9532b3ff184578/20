@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme4TDEqjGFCm6KJe3tvnDKKdmRrrUyMHooV41eV17sf82/nft.png",
+  "nftContractAddress": "0x8fc7ccd560807659fd4adca65c9532b3ff184578",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "web3search Membership #20",
+  "description": "",
+  "attributes": [
+    {
+      "value": "20",
+      "trait_type": "No"
+    }
+  ],
+  "minted": "✅"
+}

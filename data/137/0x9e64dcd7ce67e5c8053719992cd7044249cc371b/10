@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcAtaYwizNRsVZD28w8hfwgXxiHwgFT9snzqHNcxhoFab/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "Bitconusi × VeryLongAnimals",
+  "description": "The collaboration with [Bitconusi](https://opensea.io/collection/bitconusi-polygon), a famous NFT creator from Japan. Created by VLAB & [AkimuneKawa](https://opensea.io/AkimuneKawa).",
+  "attributes": [
+    {
+      "value": "Bitconusi",
+      "trait_type": "TYPE"
+    }
+  ]
+}

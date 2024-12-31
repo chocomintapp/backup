@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYRmKDoTqk65meLxkYLJNmbRTBYZr4RbxELQWPGcMEnao/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmYA7t2pNxfoneRw847jkLGu7sTrnSLyetq2BCo3QSdL72/nft.gif",
+  "tokenId": 18,
+  "chainId": "137",
+  "name": "Kawaii Legends #018",
+  "description": "#018 Hashihime Kawaii\n\"Follow your passion!\"\n\nHashi-Hime is a woman who later became the guardian deity of the bridge.\nNow in human form, she is a loving and lively woman.\nThis legend is said to date from the early Heian period (A.D794-1185), and she wears a Tang-style costume from that period.\nThe hairstyle with two rings tied on top of the head is called \"Zujo-nikei,\" or \"two hairs on top of the head,\" which was popular during the Nara period (A.D. 710-794).\nEven today, in some regions, shrine maidens wear this hairstyle at shrine festivals.\n\n橋姫は後に橋の守り神になった女性です。\n現在は人間の姿で、愛情深い活発な女性です。\nこの伝説は平安時代初期のものと言われ、彼女の衣装はそれを繁栄しています。この頃の日本は中国の影響を大きく受けています。\n彼女の髪の毛を頭上で2つに結っているスタイルは頭上二髻(ずじょうにけい)と呼ばれるもので、奈良時代に大陸から伝わり流行しました。\n現代でも神社のお祭りなどで巫女がこのヘアスタイルにする地域も残っています。",
+  "attributes": [
+    {
+      "value": "Water sprite",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Party",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Willow",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Court dress",
+      "trait_type": "Outfit"
+    },
+    {
+      "value": "Spray",
+      "trait_type": "Foreground"
+    }
+  ]
+}

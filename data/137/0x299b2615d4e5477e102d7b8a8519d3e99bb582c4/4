@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUX5BRbzHUpukzXab9qFmC2RBHZjev68QuNcavQAm7KB8/nft.gif",
+  "nftContractAddress": "0x299b2615d4e5477e102d7b8a8519d3e99bb582c4",
+  "animationUrl": "https://ipfs.io/ipfs/QmUX5BRbzHUpukzXab9qFmC2RBHZjev68QuNcavQAm7KB8/nft.gif",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "WavyLongAnimals x VerySimpleAnimals (Chinchilla)",
+  "description": "WavyLongAnimals and VerySimpleAnimals collaboration NFT.\n\nhttps://twitter.com/wavylonganimals https://twitter.com/Simple_Animals\n\nベリロン二次創作",
+  "attributes": [
+    {
+      "value": "Chinchilla",
+      "trait_type": "TYPE"
+    }
+  ]
+}

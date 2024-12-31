@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaBMsR9tKwNw4fhHZ2wKLQEdYvEZ8FnnJD5q2bErAztLo/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "https://ipfs.io/ipfs/QmaBMsR9tKwNw4fhHZ2wKLQEdYvEZ8FnnJD5q2bErAztLo/nft.png",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "#10 Red Dress",
+  "description": "A gorgeous dress made with gratitude.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Dress",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Clothes",
+      "trait_type": "Type"
+    }
+  ]
+}

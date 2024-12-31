@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPq1mhwAXnme4shznoB8GkTWqzaU7cjKEFcePstZV4p6C/nft.png",
+  "tokenId": 65,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**URAKZE 1944**  \nThis silhouette is destroyer URAKZE 1944.\n\nThis is the 11th ship of the Kagero class destroyers.  \nFrom the attack on Pearl Harbor, Midway, Solomon, Guadalcanal, off the Mariana, such as the Battle of Samar, always participated in the major naval battles.\n\nThis ship that played an active role in the Kagero type from carrier escort to transport operations While escorting the \"Kongo\" was lost in the lightning attack of the U.S. submarine.\n\n**駆逐艦 浦風 1944**  \n陽炎型駆逐艦の11番艦です。\n真珠湾攻撃からミッドウェー、ソロモン、ガダルカナル、マリアナ沖、サマール沖海戦など、常に主要な海戦にその姿がありました。\n\n空母護衛から輸送作戦まで陽炎型らしい活躍をした本艦は「金剛」を護衛中に米潜水艦の雷撃を受け失われました。\n\nこのNFTは1944年頃の浦風のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0065 URAKZE 1944",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Destroyer"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQguE2QAjPhHJCekKKkG6yxGfP15UrokFD9QpuYM7MJzu/nft.png",
+  "tokenId": 20,
+  "description": "Name:Pascal\nSeasoning:pasta",
+  "nftContractAddress": "0x3def9648629305b290c7a0b4ac103860598fd2a0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Pastacal"
+}

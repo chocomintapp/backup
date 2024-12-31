@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSVhbACovQKKwfHxnmh9dtqPGXKfPnxEGh8yBbEiyeaE3/nft.jpg",
+  "tokenId": 1,
+  "description": "By reading the QR code with your smartphone camera and holding it over this NFT, you can view the augmented reality (AR) model. \n3D+AR display on a smartphone browser Here is a link to the IPFS 3D viewer: https://ipfs.fleek.co/ipfs/QmXBta93vNQKtC7XXdUhsFwkFzQd4oQnHQnsFH2Qn4oxSy/",
+  "nftContractAddress": "0x9a5b20e07f1826d9202abe092f8dd45f89cc583f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "BTC AR"
+}

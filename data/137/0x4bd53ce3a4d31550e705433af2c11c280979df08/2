@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTpjRUW927FnUsuJdFkmUWHY2uXKb8Giev2icsETkzF1T/nft.jpg",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0x4bd53ce3a4d31550e705433af2c11c280979df08",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#1/acanel/1",
+  "attributes": [
+    {
+      "trait_type": "number",
+      "value": "#1"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXyuCvNTxU5JpYncP53iMWs3CRVjT9kafuJAWypRPXUcA/nft.png",
+  "nftContractAddress": "0x7f7ad3801b86cd9f0b0fd03ae872d9a22c225784",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "cow #2",
+  "description": "ぴよこの牛乳屋さん",
+  "attributes": [
+    {
+      "value": "Ranch",
+      "trait_type": "scene"
+    }
+  ]
+}

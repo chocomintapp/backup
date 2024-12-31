@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSmqUpZU2sdTDggvrjQyzfJ6gGv9ouYx1vutij3rA2RFR/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 140,
+  "chainId": "137",
+  "name": "WMM #0140 CHITOSE 1938",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**CHITOSE 1938**  \nThis silhouette is seaplane tender Chitose in 1938.\n\nIt is the first ship of the Chitose class.  \nIt was built under the name of a seaplane carrier and a fast oiler, and was designed to carry the special submarine \"Kouhyouteki,\" which was under secret development at the time.\n\nThe sister ship \"Chiyoda\" was actually converted to a KOU-HYOTEKI carrier, but this ship was not able to carry the KOU-HYOTEKI due to the Battle of Midway, which resulted in the loss of the four main aircraft carriers. It was converted to a light aircraft carrier.\n\n\n\n**水上機母艦 千歳 1938**  \n千歳型の1番艦です。  \n水上機母艦 兼 高速給油艦という名目で建造されましたが、当時極秘開発中だった特殊潜航艇「甲標的」搭載母艦としての運用を前提としていました。\n\n姉妹艦の「千代田」は実際に甲標的母艦へ改造されましたが、本艦は主力4空母を失ったミッドウェー海戦の影響で甲標的母艦を経る事無く、軽空母へと改造されました。\n\nこのNFTは1938年頃の千歳のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Seaplane tender",
+      "trait_type": "Ship"
+    }
+  ]
+}

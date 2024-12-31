@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUBZ4rpRdcGs57iFMwRZeMsjtp6LHEHF4Y4im2ASAVS5V/nft.jpg",
+  "nftContractAddress": "0x958d290c88558f0f5a4fdb111650396e9b358982",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "trnthd5",
+  "description": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

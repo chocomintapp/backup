@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQzc1yqnze4eFGLjhe4DJe6zcR4YJqVLP6RbNqqVUTrMc/nft.png",
+  "tokenId": 3,
+  "description": "てすてす",
+  "nftContractAddress": "0xf72e4db1f7ed3a3458c82cdd3b1caa761e6b0095",
+  "animationUrl": "https://ipfs.io/ipfs/QmWwgoV2mTsXjxcGmSp1AL1cQscgZWBo9v9T9B5ii3xhUZ/nft.mp4",
+  "chainId": "137",
+  "name": "Nekotest",
+  "attributes": [
+    {
+      "trait_type": "2",
+      "value": "1"
+    }
+  ]
+}

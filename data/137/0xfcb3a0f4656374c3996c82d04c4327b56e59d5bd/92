@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQjwLPY82JWHNPMzpnwS8Wkh8LVCm8qMrpWsjbnEdNhzh/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 92,
+  "chainId": "137",
+  "name": "#0088_Niton_BMWRW_MMRBK",
+  "description": "0088_Niton_BMWRW_MMRBK",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Mauve",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Rose Bud",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Tyrian Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ],
+  "minted": "✅"
+}

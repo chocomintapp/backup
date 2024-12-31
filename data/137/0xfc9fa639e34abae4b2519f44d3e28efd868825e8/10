@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQMsB6FYCPTFEGu7PRP26qsF86zav5QMwLAsx9FbHeAYs/nft.png",
+  "nftContractAddress": "0xfc9fa639e34abae4b2519f44d3e28efd868825e8",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies Z #10",
+  "description": "Baby's growth potential is unlimited.",
+  "attributes": [
+    {
+      "value": "Tiger",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

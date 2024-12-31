@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSoZqLQLWi7uMiNTrZhfhwgnLDdn1RpQryoxuVYFQH5Uh/nft.jpeg",
+  "nftContractAddress": "0x884c116f191eff93d67c43b7a62be5da2c1b8a48",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimals #13",
+  "description": "VeryLongAnimals #13の二次創作です！",
+  "attributes": [
+    {
+      "value": "cow",
+      "trait_type": "type"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRC52xJCwTXWS1f75JNL1AuhqCVu883tpBhemcmzHTxLG/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "HUNIMAL #8",
+  "description": "Human + Animal = Hunimal",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Cheetah + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Teddy Girls",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Updos",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Teddy Girls",
+      "trait_type": "STYLE"
+    }
+  ]
+}

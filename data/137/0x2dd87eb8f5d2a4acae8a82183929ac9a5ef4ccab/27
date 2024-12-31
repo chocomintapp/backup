@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaRvMLwrDL6q7xWiKmqxT3NkxM3MCnyWndd5hmce1KemU/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #099 Apr.10",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n4月10日\n\n金曜日。昨日、いつの間にか帽子に刻まれた数式が頭から離れなくなってしまった部長です。「なぜこんなところに…楕円方程式が？」、考えれば考えるほどに頭がぐるぐるとして、いつの間にかウトウトしてしまいました。夢の中、小さなねじねじドーナツがまるで子供のようにキャッキャとはしゃいでいました。それは、本当に不思議な光景で…。２つのねじねじドーナツが駆け回る様子を、まるでこの体のドーナツが親のように優しく見守っている、あたたかい光景が広がっていました。この日見た夢は、ドーナツ自身の夢なのか、記憶なのか、強烈なリアリティを伴って部長の頭に残り続けることになるのでした。\n\n\n-------------\n\n\nApril 10\n\nFriday. Before he knew it, the equation engraved on his hat was stuck in his head. \"Why is there an elliptic equation here? The more he thought about it, the more his mind whirled, and before he knew it, he fell asleep. The more he thought about it, the more his head spun, and before he knew it, he was passed out. In his dream, the little screw-screw donut was cackling like a child. It was a truly magical scene... A warm scene spread out in front of his eyes as the two screwdrivers ran around, with this body of donuts watching over them gently like a parent. Whether the dream he had that day was Donut's own dream or a memory, it would remain in his mind with a powerful reality.",
+  "attributes": [
+    {
+      "value": "Navy",
+      "trait_type": "CAP"
+    },
+    {
+      "value": "Special",
+      "trait_type": "CLASSIC GRASSES"
+    },
+    {
+      "value": "Two Donuts",
+      "trait_type": "DONUTS"
+    },
+    {
+      "value": "Dream",
+      "trait_type": "ENVIRONMENT"
+    },
+    {
+      "value": "Camouflage",
+      "trait_type": "HOODIE"
+    },
+    {
+      "value": "Black",
+      "trait_type": "MASK"
+    },
+    {
+      "value": "Navy",
+      "trait_type": "PANTS"
+    },
+    {
+      "value": "Black",
+      "trait_type": "T-SHIRT"
+    }
+  ]
+}

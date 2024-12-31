@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaXMnB4RXgN6JHYWjanK7DHkGdCSxByEdj8z1kge1ysts/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 65,
+  "chainId": "137",
+  "name": "#65",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#F6F1C3",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#7A3C36",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "UMA",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Chupacabra ",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Big thorn",
+      "trait_type": "special1"
+    }
+  ],
+  "minted": "✅"
+}

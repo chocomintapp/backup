@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVC8vxdQQwN5Ptg98YBTdraNZ68DSXbwSfigWrf9vhV9G/nft.gif",
+  "tokenId": 52,
+  "description": "This is \"Boomboom Monsters #050”.1,000 handmade audio NFT by a Japanese beatmaker, CryptoBeatzPunks.If you have 10 Boomboom Monsters,DM me on Twitter. You can get special presents.Let's chill and enjoy NFT life. ブンブンモンスターズ050番です。日本のビートメイカー、CryptoBeatzPunksによる限定1000個の手作りの音楽NFTです。 10個集めたらさまざまなスペシャル特典が獲得できるのでご連絡ください。充実したNFT生活を。",
+  "nftContractAddress": "0xd02d574b6231a15bd73bcd44486779556a81c3fb",
+  "animationUrl": "https://ipfs.io/ipfs/QmR7vm8VHRcShWxy2yPwBGxRAss3dP1tfWwG3gftWhLfVi/nft.mp4",
+  "chainId": "137",
+  "name": "Boomboom Monsters #050",
+  "attributes": [
+    {
+      "trait_type": "skin",
+      "value": "kush"
+    },
+    {
+      "trait_type": "eye",
+      "value": "kush"
+    },
+    {
+      "trait_type": "background",
+      "value": "cloud"
+    },
+    {
+      "trait_type": "move",
+      "value": "jump"
+    },
+    {
+      "trait_type": "age",
+      "value": "baby"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "cardboard box"
+    }
+  ]
+}

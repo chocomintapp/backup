@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbEedNjajQD9sGLH23tfayzexJqHjjtd33hG6LegH15ES/nft.gif",
+  "nftContractAddress": "0x299b2615d4e5477e102d7b8a8519d3e99bb582c4",
+  "animationUrl": "https://ipfs.io/ipfs/QmbEedNjajQD9sGLH23tfayzexJqHjjtd33hG6LegH15ES/nft.gif",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "WavyLongAnimals x VeryVeryLongAnimals (Dog)",
+  "description": "WavyLongAnimals and VeryVeryLongAnimals collaboration NFT.\n\nhttps://twitter.com/wavylonganimals\nhttps://twitter.com/vevelong\n\nベリロン二次創作",
+  "attributes": [
+    {
+      "value": "Dog",
+      "trait_type": "TYPE"
+    }
+  ]
+}

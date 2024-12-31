@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfBAC1ukasg48o4ZJv3USSbcrviFmVy1rK45mTuUupoRT/nft.png",
+  "nftContractAddress": "0x2d39f1eabd793fcfaa0356bb244ce8106fffad3f",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "The1stMetaverMuseumTicket",
+  "description": "This is the entrance ticket for the 1st Metaver Museum.\nThe Metaver Museum will be open from September 23rd to 25th, 2022.",
+  "attributes": []
+}

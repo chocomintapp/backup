@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmam2Edgtz6EHT6RpnuirjkJwQvPGntchetjxNB5HR6rjq/nft.jpg",
+  "tokenId": 3,
+  "description": "sea",
+  "nftContractAddress": "0xb5f87e8f2e5972affb27c87b567310017c56a1b2",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sea",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

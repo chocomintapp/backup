@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYrehkKy9Fhuaqi9TybUfKikp8M9srqSRiAMDFJaNJZNK/nft.png",
+  "tokenId": 63,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**YUBARI 1927**  \nThis silhouette is light cruiser YUBARI in 1927.\n\nIt is an innovative light cruiser that has shocked navies around the world.  \nIt was a success, aiming to achieve the same heavy armament as the 5500 ton light cruiser, but with 3100 tons.\n\nSince it was highly experimental, there was no similar ship, but it can be said that it had a tremendous influence on the design of subsequent Imperial Japanese Navy ships.\n\n**軽巡洋艦 夕張 1927**  \n世界中の海軍が衝撃を受けた革新的な軽巡洋艦です。\n\n5500トン型軽巡と同等の重武装を3100トンで実現する事を目指し実現することに成功しました。\n試作艦的要素が強かった為、同型艦は存在しませんでしたが、その後の日本海軍艦艇の設計に及ぼした影響は絶大と言えます。\n\nこのNFTは1927年頃の夕張のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0063 YUBARI 1927",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Light cruiser"
+    }
+  ],
+  "minted": "✅"
+}

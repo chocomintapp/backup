@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdMDtafbjie7MVCdXYuPM659NGKsKT22kg4Vv5wuqvdPV/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 101,
+  "chainId": "137",
+  "name": "Day40 Nana's Art #119",
+  "description": "なんでも自分でやらないと気が済まない。\n\nI have to do everything myself.",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

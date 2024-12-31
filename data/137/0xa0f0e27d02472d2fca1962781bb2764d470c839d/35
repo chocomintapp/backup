@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmec3y31KBADJEj4r9sTaxUr2xAtdD3Nu8LozQtnmWC65r/nft.png",
+  "tokenId": 35,
+  "description": "生まれ変わったらライオンになりたい。\n\nIf I were born again, I would like to be a lion.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cat（Hanamaru　はなまる）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

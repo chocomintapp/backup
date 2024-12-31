@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbwmEvwnES9D5tP3f8napdpk1VqvoNXQraHkRoqGUfcQq/nft.jpg",
+  "nftContractAddress": "0x5f2e42f34d63eb91ab13974ecb6a911d57d18133",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "Chibikko-saurus girl#02",
+  "description": "What do you want to do when you grow up?",
+  "attributes": [
+    {
+      "value": "Spinosaurus",
+      "trait_type": "character"
+    },
+    {
+      "value": "powerful",
+      "trait_type": "personality"
+    }
+  ]
+}

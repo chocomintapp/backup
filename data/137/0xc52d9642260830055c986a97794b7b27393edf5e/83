@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeHwhp9KBAEYMK7g4Acm3n7PJTdrjF17ouziL3SzcW4dy/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 83,
+  "chainId": "137",
+  "name": "VeryLongAnimals #83",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Zebra",
+      "trait_type": "TYPE"
+    }
+  ]
+}

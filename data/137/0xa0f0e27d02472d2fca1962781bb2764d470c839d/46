@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVJHPHFzfip6oS3JVyYbjDdBhjanZ7ZpL5fHhqyCuukjL/nft.png",
+  "tokenId": 46,
+  "description": "人生甘くないわよ。\n\nLife is not so sweet.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Cat（Matsuko　マツコ）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcoaqb5d9fEiEqVNeXiH6SbgQwnAjQQjCkji4AfcSZKjN/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/Qmcoaqb5d9fEiEqVNeXiH6SbgQwnAjQQjCkji4AfcSZKjN/nft.mp4",
+  "tokenId": 896,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1002",
+  "description": "ピクニックの弁当ありがとう\n\n\nめっちゃより弁になってる卵サンド",
+  "attributes": [
+    {
+      "value": "AI",
+      "trait_type": "M"
+    },
+    {
+      "value": "Bプルート",
+      "trait_type": "押韻職人"
+    }
+  ]
+}

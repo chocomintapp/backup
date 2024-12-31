@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUfoAkZ47KfvRNr2LHMWVqQYGnjBcaEzRBbJLf1sMUbAh/nft.jpeg",
+  "tokenId": 2,
+  "description": "この寝袋、バナナの匂いがしてうまく眠れない。\n\nThis sleeping bag smells like bananas. I can't sleep well.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Monkey in the sleeping bag",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Monkey"
+    }
+  ]
+}

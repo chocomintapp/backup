@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRR3DVyBouXxmpBJpL5w3fNFthazRXR4fB5AqS4nnzLk7/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 115,
+  "chainId": "137",
+  "name": "Day47 Umitsuru's Art",
+  "description": "ナスは、焼きナスにして味噌をつけるのが一番オイシイ。\n\nEggplant tastes best when grilled and dipped in miso.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW7rBk4ek5ek1TYYuPUGokD3KdVS8FjPuE6F9y3s1KHdf/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 117,
+  "chainId": "137",
+  "name": "Day49 Umitsuru's Art",
+  "description": "ピーマンの肉詰めが好き。\n\nI like stuffed peppers.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

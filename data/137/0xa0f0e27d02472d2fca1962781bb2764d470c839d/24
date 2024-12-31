@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY92WN4vG4LptguAGrsLTmqznbc1Df574bAtptHSdbDJe/nft.png",
+  "tokenId": 24,
+  "description": "俺たちの先祖は裸で暮らしてたんだぜ\n\nOur ancestors lived naked, you know.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Evolved Pig",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Pig"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

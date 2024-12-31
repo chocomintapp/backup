@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmawgpjKxizQTmkYDDpvTxyyoMyjwXvbt2XUNpDUJZmVKD/nft.png",
+  "tokenId": 5,
+  "description": "stablecoinの呼称として法定通貨連動型電貨が選ばれました。",
+  "nftContractAddress": "0xb8c7bc6532ce51f20f390516805867df95b4144c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "stablecoin",
+  "minted": ""
+}

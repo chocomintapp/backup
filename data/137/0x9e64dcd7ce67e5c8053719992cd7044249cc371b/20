@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUxcr6NghA5BKmgfQnbWpbxFMFFtrWgnCnJzS6jhLdt9i/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "NonFungible × VeryLongAnimals - Naomi",
+  "description": "A collaboration with NonFungible, the NFT-themed web drama from Japan by Nomdeplume and supported by Yay. The artwork was created by VLAB.",
+  "attributes": [
+    {
+      "value": "Artist",
+      "trait_type": "TYPE"
+    }
+  ]
+}

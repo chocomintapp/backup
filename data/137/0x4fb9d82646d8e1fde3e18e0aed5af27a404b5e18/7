@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbsAKkpMRxD9jU3GX3L1kMBH1rUfZmgpiazJHESNg64HJ/nft.mov",
+  "nftContractAddress": "0x4fb9d82646d8e1fde3e18e0aed5af27a404b5e18",
+  "animationUrl": "https://ipfs.io/ipfs/QmbsAKkpMRxD9jU3GX3L1kMBH1rUfZmgpiazJHESNg64HJ/nft.mov",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "Comedy Contest Prize GensokishiCFes1st(Imomochi)",
+  "description": "Comedy Contest Prize for player-sponsered events GensokishiCFes1st .",
+  "attributes": []
+}

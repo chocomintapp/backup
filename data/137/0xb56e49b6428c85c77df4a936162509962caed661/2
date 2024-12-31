@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdEeu1jspcCAn6i8LPUU7gfknkUykYJim6zdb8u6xHvzj/nft.png",
+  "nftContractAddress": "0xb56e49b6428c85c77df4a936162509962caed661",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Golden Cauliflower",
+  "description": "Golden Cauliflower\nIt is rumoured that a farmer created a golden fertilizer which produced this magical Cauliflower.\n\nFor some reason, when this Cauliflower is on your farm you receive twice the rewards from growing Cauliflowers.\n\nYou can craft a Golden Cauliflower at the market in the game.\n\nSupply\n100\n\nCrafting Costs\n100 SFL\n500 Cauliflowers\n100 Gold\nLink\n\nContributor\nSunflower Land is an open source game built by a community of hundreds of developers and artists across the globe.\n\nCome join us on Github\n\nDesigned by (Palura)[https://twitter.com/andrei_palura]",
+  "attributes": [
+    {
+      "value": "Boost",
+      "trait_type": "PURPOSE"
+    }
+  ]
+}

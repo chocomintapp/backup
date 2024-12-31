@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRxQvqzzUMwxoEghhfjoFr5zXSxzVq2aex3wwe2MSjDAj/nft.jpg",
+  "nftContractAddress": "0xb3e0ca86d66745cf51856a9922f79e7e613f2d48",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "VeryCoolAnimals #007",
+  "description": "VeryLongAnimals✕CoolGirlの二次創作です。",
+  "attributes": [
+    {
+      "value": "Panda",
+      "trait_type": "type"
+    }
+  ]
+}

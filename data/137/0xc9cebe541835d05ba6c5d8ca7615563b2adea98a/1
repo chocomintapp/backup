@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWtn67rMijxrT3Bya4YbKUr9soaELFTo9faSAkyptK49z/nft.jpg",
+  "nftContractAddress": "0xc9cebe541835d05ba6c5d8ca7615563b2adea98a",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "DARUMA",
+  "description": "だるまの画像",
+  "attributes": []
+}

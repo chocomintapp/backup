@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma2CyRZzhPdVVnH4cHzrZ4tpPmtDA2vijVSKu684U1Rav/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 111,
+  "chainId": "137",
+  "name": "#0106_Niton_YGWCBK_CBbW",
+  "description": "#0106_Niton_YGWCBK_CBbW",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Light Green",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Teal",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Maya Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZDWHthpSubotjurjKdV8SUqudBiHrPx7aSYdMXkRHjhs/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 163,
+  "chainId": "137",
+  "name": "WMM #0163 HARUNA 1934",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**HARUNA 1934**  \nThis silhouette is battleship Haruna in 1934.  \nIt is the third ship of the Kongo class battleships.\n\nIt was also the first battleship ordered by a private shipyard.\n\nShe was active in the Indian Ocean campaign and the bombardment of Henderson Airfield on Guadalcanal Island.\n\nWhile other vessels of the same class were lost one after another in the severe war situation, she continued to fight stubbornly until the end of the war.\n\n**戦艦 榛名 1934**  \n金剛型戦艦の3番艦です。\n\n初めて民間の造船所に発注された戦艦でもあります。\n\n金剛級自慢の快速を生かして開戦時から太平洋狭しと走り回り、インド洋作戦やガダルカナル島のヘンダーソン飛行場砲撃で活躍しました。\n\n厳しい戦局で同型艦が次々と失われて行く中、終戦間近までしぶとく闘い続けた武勲艦です。\n\nこのNFTは1934年頃の榛名のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Battleship",
+      "trait_type": "Ship"
+    }
+  ]
+}

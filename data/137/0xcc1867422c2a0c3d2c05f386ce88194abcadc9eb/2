@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZDudmvcw75MFPipU1dMxJxdTn6HWkpFCT5YrtMEBDDaB/nft.png",
+  "tokenId": 2,
+  "description": "The most beautiful art in New York",
+  "nftContractAddress": "0xcc1867422c2a0c3d2c05f386ce88194abcadc9eb",
+  "animationUrl": "https://ipfs.io/ipfs/QmWEbacrVXhQDz3wLagT6bA84BPmR9CMyp8hVgBbYjcuNC/nft.mp4",
+  "chainId": "137",
+  "name": "BG2"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUSBvcoc5iNyDKeSqHpMey9EW3q6YAEG7xuchU5Gmw3t8/nft.jpg",
+  "tokenId": 1,
+  "description": "東京都新宿区富久町28",
+  "nftContractAddress": "0x0a125bd381cc62b8ebb556ca11a943b1a0ee1afd",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo Shinjyuku Tomihisa 28",
+  "attributes": []
+}

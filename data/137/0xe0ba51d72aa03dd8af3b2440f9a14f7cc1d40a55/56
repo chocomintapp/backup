@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdWekM4NvdXmbBAEE9KSYS9tVwzoesacupdTmFPQf5Dac/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 56,
+  "chainId": "137",
+  "name": "オンライン英会話を始めたえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ネバリヅヨイ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "サバミソ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "ミョウガ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "海外ドラマ",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "センリノミチモイッポカラ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

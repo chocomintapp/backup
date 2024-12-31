@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQJ685mSBAJeTLqmvRpPeKtngmkzBgLkLT1qmhywwMvrj/nft.png",
+  "tokenId": 9,
+  "description": "Curry rice is a dish in which curry is eaten over rice. In recent years, there are many original-style curry rice that have evolved uniquely to Japan.",
+  "nftContractAddress": "0xafcaf44db4a79e28075111aa018295cc5a23a826",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "CURRY RICE",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

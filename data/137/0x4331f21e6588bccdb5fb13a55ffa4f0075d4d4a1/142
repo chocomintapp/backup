@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdekdgH6i7sjKERMmaWzjkcDVxNvPcQcsSvED1VbANYMZ/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 142,
+  "chainId": "137",
+  "name": "WMM #0142 TIGER 1 (Early Production)",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TIGER 1 (Early Production)**  \nIt is the German heavy tank feared by Allied soldiers.\n\nThe Tiger I, with its unparalleled offensive power and heavy armor, became a legend with its overwhelming presence in a war that was going against it.\n\nIn the Battle of Kursk, the Tiger I lost 18 tanks, while the Soviets lost 501 tanks.\n\nOther battles include Michael Wittmann's Battle of Villel Bocage and the pairing of Otto Karius and Albert Kärscher. There is no shortage of \"tiger\" episodes.\n\n**ティーガーⅠ 初期型**  \n連合軍戦車兵が恐れたドイツの重戦車です。\n\n比類なき攻撃力と重装甲を手に入れた虎は、戦局が不利になる中、圧倒的な存在感を示し伝説を作り上げました。\n\nクルスク戦ではティーガーIが18輌の損失に対し、ソ連軍は501輌の損失と実に27倍もの戦果を挙げており、他にもミハエル・ヴィットマンのヴィレル・ボカージュの戦いや、オットー・カリウスとアルベルト・ケルシャーのコンビなど、「虎」のエピソードには事欠きません。",
+  "attributes": [
+    {
+      "value": "Germany",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

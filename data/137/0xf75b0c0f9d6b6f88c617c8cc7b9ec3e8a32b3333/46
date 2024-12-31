@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVS8HfkiUPSALBGcTJ155XaLhRz4Wu9826ArSiMGitfif/nft.PNG",
+  "tokenId": 46,
+  "description": "",
+  "nftContractAddress": "0xf75b0c0f9d6b6f88c617c8cc7b9ec3e8a32b3333",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "JPEG Oval Cat",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

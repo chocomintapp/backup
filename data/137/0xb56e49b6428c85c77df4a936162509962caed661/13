@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRqXcqdXky1eLFam2wknzwtzjeYNu17ryWJP2dv8LQNDM/nft.png",
+  "nftContractAddress": "0xb56e49b6428c85c77df4a936162509962caed661",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "Parsnip Seed",
+  "description": "Parsnip Seed\nA seed used to grow parsnip.\n\nYou can buy parsnip seeds in game at the market.\n\nSupply\nUnlimited\n\nLink",
+  "attributes": [
+    {
+      "value": "Resource",
+      "trait_type": "PURPOSE"
+    }
+  ]
+}

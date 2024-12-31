@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX2kv37uggoj92BURxrnxs6JiwW8z4W7k13T7rKhdanaK/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/QmX2kv37uggoj92BURxrnxs6JiwW8z4W7k13T7rKhdanaK/nft.gif",
+  "tokenId": 79,
+  "chainId": "137",
+  "name": "WavyLongAnimals #79",
+  "description": "ベリロン二次創作",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Swan",
+      "trait_type": "TYPE"
+    }
+  ]
+}

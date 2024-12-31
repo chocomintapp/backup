@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXDD7kfXw6nyCFyBZr9UAMEH1e8Pftu27vj2dV2Kxkzf1/nft.jpg",
+  "tokenId": 1,
+  "description": "test",
+  "nftContractAddress": "0x335e2cc0cc728cc92c0b4b2ff169482ba87894b3",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test",
+  "attributes": [
+    {
+      "trait_type": "face",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "rainbow"
+    },
+    {
+      "trait_type": "hair ",
+      "value": "3raibow rolls"
+    }
+  ]
+}

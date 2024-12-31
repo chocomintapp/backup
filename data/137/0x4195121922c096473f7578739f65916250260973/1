@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTJAps1YGnVY8WHZZvMDHLCMwqshJUq4ixNd6osKBjUkf/nft.jpg",
+  "tokenId": 1,
+  "description": "スタジオセルフィア中目黒\nhttps://studio-selfia.com/",
+  "nftContractAddress": "0x4195121922c096473f7578739f65916250260973",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "SelfiaGenesis00001",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

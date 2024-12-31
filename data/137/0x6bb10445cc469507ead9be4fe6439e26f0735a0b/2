@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYaoM44pSf2CvGv3zqFWgTUcGSMWtU5QTBRjLxtruBhTK/nft.gif",
+  "tokenId": 2,
+  "description": "Moving crab",
+  "nftContractAddress": "0x6bb10445cc469507ead9be4fe6439e26f0735a0b",
+  "animationUrl": "https://ipfs.io/ipfs/QmYaoM44pSf2CvGv3zqFWgTUcGSMWtU5QTBRjLxtruBhTK/nft.gif",
+  "chainId": "137",
+  "name": "crab🦀",
+  "minted": ""
+}

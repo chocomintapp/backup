@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQCoTjcMctQxWhzk2ew7bH97efpbu4NMfozemJ6c9wAzx/nft.png",
+  "tokenId": 8,
+  "description": "\"atsugarisan\" is a soft serve ice cream of grapes.",
+  "nftContractAddress": "0xe5bef7ef6c3de48a853c76477466cbd4a839762c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sofnchosan pixel art collection #8 \"atsugarisan\"",
+  "attributes": [
+    {
+      "trait_type": "taste",
+      "value": "grapes"
+    }
+  ]
+}

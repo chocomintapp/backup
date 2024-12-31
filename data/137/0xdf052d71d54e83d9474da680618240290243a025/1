@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmaf6Q3Vgc5FTT9Kjq6FZYgRUVCmXDXmFBcWPEi6zJjkr6/nft.png",
+  "nftContractAddress": "0xdf052d71d54e83d9474da680618240290243a025",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "giraphant",
+  "description": "giraffe×elephant by nono",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

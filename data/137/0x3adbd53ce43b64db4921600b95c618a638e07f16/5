@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcgcbD1fcyPj2TuHyv7uW4CNYowEdYArouwqL29m9HeBa/nft.png",
+  "nftContractAddress": "0x3adbd53ce43b64db4921600b95c618a638e07f16",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Cyber",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#６ Green",
+      "trait_type": "CLASSIC"
+    }
+  ],
+  "minted": ""
+}

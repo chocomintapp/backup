@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRocLoHzaKJhkBFG177rin1WWuDAc8TMHV4uv8i3sX7xQ/nft.jpg",
+  "tokenId": 1,
+  "description": "独自コントラクトを使用したNFTです",
+  "nftContractAddress": "0x502af0cbfc70aa261a00a50dd2ffbe8bf443d2a3",
+  "animationUrl": "https://ipfs.io/ipfs/QmRocLoHzaKJhkBFG177rin1WWuDAc8TMHV4uv8i3sX7xQ/nft.jpg",
+  "chainId": "137",
+  "name": "pic#0",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

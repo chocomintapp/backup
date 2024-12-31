@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXSPrqAfhmcbJGmcKA37HEXzUr2ojQ6gXYVyseYx2JHhV/nft.png",
+  "tokenId": 20,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n3月20日\n\n部下の手を止めたくないという理由から、電話よりもメールやチャットでのコミュニケーションを取りたがる部長です。順調に今日１日も終わり、さぁあと少しで今週の仕事もおしまいか…と思った夕方のこと。「You've Got Mail！」というスマホの通知に目を落としたそのとき、「You've Got Mail！」「You You You You...Got Got Got ... Maaaaaaaail！」と通知が鳴り止まなくなったのです。送り主は全て「Mr.O」と書かれていて、スマホには「圏外」の表示が…。「一体、誰がこんなことを？」５分ほど続いた通知音が鳴り止んだとき、最後に送られてきたメールから、ようやく犯人が分かりました。\b「ごきげんよう。静寂って、いいものでしょう？」\n\nMarch 20\n\nBecause he doesn't want to keep his subordinates busy, he prefers to communicate via email or chat rather than phone. That evening, he was almost done with work for the week.... He received a notification on his phone that said, \"You've Got Mail! You've Got Mail!\" \"You You You You.... .Got Got Got .... Maaaaaaaail!\" the notifications stopped ringing. The senders were all labeled \"Mr. O\" and my phone showed \"Out of Range\". \"Who in the world would do this?\" When the notifications stopped ringing for about five minutes, he finally figured out the culprit from the last text. \"Have a nice day. Silence is a good thing, isn't it?\"",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #078 Mar.20",
+  "attributes": [
+    {
+      "trait_type": "GIFT",
+      "value": "Mail"
+    },
+    {
+      "trait_type": "HOODIE",
+      "value": "Special"
+    },
+    {
+      "trait_type": "KNIT CAP",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MASK",
+      "value": "Black"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "Black"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Grey"
+    }
+  ]
+}

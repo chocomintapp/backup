@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeBiRJ1EAsJdi6U7bjvqpSTA69GLkqXUyfcypHNruQgXQ/nft.PNG",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "",
+  "tokenId": 871,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #970",
+  "description": "022/07/29 18:00\n\n本日は夜21時からメタバース空間でライブがある日だ。\nラッパー3人は島田さんの家にみんなで集まって歌う。\n他のメンバーはそれぞれ日本列島のどこかに散らばっている。\n「離れていても心はひとつ」とは僕たちを表す言葉だ。\nこのままビッグなムーブメントになりweb2で売れてるアーティスト全てぶっ壊してやる\n\nまじLFG",
+  "attributes": [
+    {
+      "value": "ナイキ ジョーダン レガシー 312 ロー ホワイト/ターコイズ",
+      "trait_type": "M"
+    },
+    {
+      "value": "web3",
+      "trait_type": "book"
+    }
+  ]
+}

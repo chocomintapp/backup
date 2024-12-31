@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUF1owRhQ7A2QqHhnGBGLyueN6W6a9Pu84wKNkQRciX4h/nft.jpg",
+  "tokenId": 1,
+  "description": "We Can Fly",
+  "nftContractAddress": "0x5ce445ef3b5f58b57b66196571ae337bf4880454",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Butterfly",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

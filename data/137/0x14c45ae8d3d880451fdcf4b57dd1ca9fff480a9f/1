@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQTdKrZwVnjiNxkx9Z5KrQM3qEYZFpnPVGLrXnJVFk1A1/nft.png",
+  "tokenId": 1,
+  "description": "Rails in 3D space.",
+  "nftContractAddress": "0x14c45ae8d3d880451fdcf4b57dd1ca9fff480a9f",
+  "animationUrl": "https://ipfs.io/ipfs/QmZkwSuAYnevHNomGgwTyYhFaKgUu3Zq9UPRyPU4kcYtiW/",
+  "chainId": "137",
+  "name": "Rails in 3D space",
+  "attributes": [],
+  "minted": "✅"
+}

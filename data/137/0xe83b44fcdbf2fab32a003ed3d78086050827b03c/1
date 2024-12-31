@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNkFVL8rshMS34WPjzLRmBQVCgCeprzDuRKzsVemgQFzF/nft.png",
+  "tokenId": 1,
+  "description": "test_mint_animals #1",
+  "nftContractAddress": "0xe83b44fcdbf2fab32a003ed3d78086050827b03c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test_mint_animals #1",
+  "attributes": [],
+  "minted": ""
+}

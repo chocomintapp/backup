@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY5mP6Dzm4cQc1pzf2RWrqU3ytEnuQ78BW5N5ojBNJ3pS/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 102,
+  "chainId": "137",
+  "name": "#102",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Grass aura",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#FBA734",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Eyeball",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Green iris",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ],
+  "minted": "✅"
+}

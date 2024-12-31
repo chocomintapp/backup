@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX7KNFRyc2eVuKTkCE4yKro3QbQhmduWP4bjSedFrNzCK/nft.gif",
+  "nftContractAddress": "0xdd8e079157f247195786048d744437413900a5b1",
+  "animationUrl": "https://ipfs.io/ipfs/QmX7KNFRyc2eVuKTkCE4yKro3QbQhmduWP4bjSedFrNzCK/nft.gif",
+  "tokenId": 46,
+  "chainId": "137",
+  "name": "WavyLongAnimalBabies #46",
+  "description": "ベビロン二次創作",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Elephant",
+      "trait_type": "TYPE"
+    }
+  ]
+}

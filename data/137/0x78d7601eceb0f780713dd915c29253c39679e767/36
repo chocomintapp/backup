@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbYkJJ19QZnK4zq6GugUu5gDszN84PsGYKEdRaP1CejwD/nft.jpg",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "137",
+  "name": "#36『Girl with star eyes』×『RabbitGirls』 Novel Book",
+  "description": "Special Collaboration Dress up item.\nNovel Book\n\nThanks💜Twitter @acha_52",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hug",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Collaboration",
+      "trait_type": "Special"
+    }
+  ]
+}

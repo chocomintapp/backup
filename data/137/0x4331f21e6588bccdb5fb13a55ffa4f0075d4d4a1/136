@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV4SgAJKFwwodk3JQueYYqKpXGhTLortMYXwfTDqGQ8xT/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 136,
+  "chainId": "137",
+  "name": "WMM #0136 ISE 1942",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**ISE 1942**  \nThis silhouette is battleship Ise in 1942.  \nIt is the name ship of the Ise class battleship.\n\nOriginally planned as the third ship of the Fuso class, the delay in construction afforded time to improve on the Fuso class' reflections and other issues.\n\nAs a result of major specification changes, it was born as a different ship of excellence.\n\nIt was described as \"a battleship that could compete with the powerful nations of the world,\" and it surpassed the Fuso class in performance in all areas, including running, offense, and defense.\n\nIt was eventually converted into an aircraft battleship.\n\n**戦艦 伊勢 1942**  \n伊勢型戦艦のネームシップです。  \nもともとは扶桑型の3番艦として計画されていましたが、建造が遅れたことにより扶桑型の反省点など改善する余裕があり、大幅に仕様が変更された結果、別の艦となりました。\n\n「列強各国と肩を並べる戦艦」と評される通り、走・攻・守全てにおいて扶桑型を上回る性能を発揮する優秀な戦艦でした。  \n最終的には航空戦艦へと大改装されました。\n\nこのNFTは1942年頃の伊勢のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Battleship",
+      "trait_type": "Ship"
+    }
+  ]
+}

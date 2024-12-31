@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYnm7tKvhH4Ur6XEaCSDJBbDKeYi8KJ6HDmbBwaBNX2pi/nft.gif",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0x8cf2000307c09dffd1366c2dbc4826bf29c70796",
+  "animationUrl": "https://ipfs.io/ipfs/QmYnm7tKvhH4Ur6XEaCSDJBbDKeYi8KJ6HDmbBwaBNX2pi/nft.gif",
+  "chainId": "137",
+  "name": "No.32",
+  "attributes": [
+    {
+      "trait_type": "backgraund",
+      "value": "Bright yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "normal"
+    },
+    {
+      "trait_type": "mainmotion",
+      "value": "dancing"
+    },
+    {
+      "trait_type": "submotion",
+      "value": "none"
+    },
+    {
+      "trait_type": "option",
+      "value": "none"
+    },
+    {
+      "trait_type": "others",
+      "value": "none"
+    },
+    {
+      "trait_type": "color",
+      "value": "purple luminescent"
+    }
+  ]
+}

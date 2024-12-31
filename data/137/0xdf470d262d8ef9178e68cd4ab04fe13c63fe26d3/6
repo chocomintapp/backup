@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc5BorV7K6NyioXYYcQrgP3Uq3v8UE7VcBfgEza16QMCk/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmRJsdBqEN3E34v8wkyR916jACUEk97V1LjsicKqLPtCxR/nft.gif",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "Kawaii Legends #006",
+  "description": "#006 Odango Kawaii\n\n\"What you love will make you shine brighter.\"\n\nChina dress is not a Japanese costume, but it is well known in Japan due to the geographical relationship between Japan and China.\n\nチャイナドレスは日本でもよく知られている中国の民族衣装です。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "ONI",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Party",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Sakura",
+      "trait_type": "Background"
+    },
+    {
+      "value": "China dress",
+      "trait_type": "Outfit"
+    }
+  ]
+}

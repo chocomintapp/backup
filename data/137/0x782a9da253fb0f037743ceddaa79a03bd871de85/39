@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQQa98x2Kv2vJ4Z7yrDgriVpXuLhyjkwknJ27jXHXzmko/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "137",
+  "name": "VerySilentFruits#39 Pomelo",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Pomelo",
+      "trait_type": "Fruit"
+    }
+  ]
+}

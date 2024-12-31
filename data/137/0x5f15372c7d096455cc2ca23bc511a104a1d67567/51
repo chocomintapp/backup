@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVHQcmdmMo4es5VR6eVkgshND18fPcmhJTpoKoTBbeD7W/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmVHQcmdmMo4es5VR6eVkgshND18fPcmhJTpoKoTBbeD7W/nft.png",
+  "tokenId": 51,
+  "chainId": "137",
+  "name": "#3B💍『Pink opal』",
+  "description": "💍RabbitGirls Bridal bouquet💐\nRabbit Girls in shining rings and wedding dresses are coming to you.\n\nA girl who likes strawberries and gorgeous accessories🍓\n",
+  "attributes": [
+    {
+      "value": "Bridal",
+      "trait_type": "Series"
+    },
+    {
+      "value": "PinkOpal",
+      "trait_type": "Character"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTzQwhA4dZJCGFgKdesbnkvZmPHQMmJBQ29MqyquysHwu/nft.png",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 108,
+  "chainId": "137",
+  "name": "Day44 Syu's Art",
+  "description": "保育園再開初日で、走って転んで、鼻の下を怪我しました。\n\nOn my first day back at daycare, I ran and fell, injuring the bridge of my nose.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

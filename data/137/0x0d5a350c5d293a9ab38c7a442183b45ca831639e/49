@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWodwoqgFfmiUKJSDWKBsrrvdBfWJXFRzH3XUgL7KLYnP/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 49,
+  "chainId": "137",
+  "name": "Day23 Syu's Art #67",
+  "description": "明日はパパが休みなので、一緒に絵を沢山描くぞ！\n\nDad's off tomorrow, so we'll do lots of painting together!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

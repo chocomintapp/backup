@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTj1qisFkEmXVL6SZzAxYDeQkEYc9XsMFsy9f93XGxK56/nft.jpg",
+  "nftContractAddress": "0x32f50724bbb735a70cd150910bb16f6aeceb1950",
+  "animationUrl": "",
+  "tokenId": 123,
+  "chainId": "137",
+  "name": "Wedge Mural #123",
+  "description": "",
+  "attributes": []
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbgiwBBbd6CPrUaWqoJ3hn44GfEZFqZWxo1V4pWqD1JeF/nft.jpg",
+  "nftContractAddress": "0x9d26fa72382483750c6420c0c5ab26ed9564dcd4",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "sauna",
+  "description": "-",
+  "attributes": []
+}

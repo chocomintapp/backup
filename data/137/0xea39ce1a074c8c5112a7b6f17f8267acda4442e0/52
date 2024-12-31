@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYToYyFw6SAx5MP1mNYXZe9ByLFgzneFakXjPWtb15RJe/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 52,
+  "chainId": "137",
+  "name": "TANU-KIDS #051",
+  "description": "Hunger Hunterzに変化したTANU-KIDS\n\nコラボレーション\nhttps://twitter.com/Hunger_Hunterz\n\nhttps://opensea.io/HungerHunterz",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hunger Hunterz",
+      "trait_type": "Fan Art"
+    }
+  ]
+}

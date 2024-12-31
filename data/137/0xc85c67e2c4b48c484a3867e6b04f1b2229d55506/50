@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWneAjznAXy3nuznWJb6ezHngThXv83hUjm7BHyVtLpub/nft.png",
+  "tokenId": 50,
+  "description": "Name:張遼\nSeasoning:料理酒",
+  "nftContractAddress": "0xc85c67e2c4b48c484a3867e6b04f1b2229d55506",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "張料理酒"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT1JhxsGbhudNSgbY1BWJK3G5GYbexAuYmYjXdXue3jvV/nft.png",
+  "nftContractAddress": "0xd7151e5a95eda22f37993c4e862ab581befed1dd",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "#002 Tim ETH Knight",
+  "description": "Tim is a brave knight and he loves peace.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Crypto",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Knight",
+      "trait_type": "Job"
+    }
+  ]
+}

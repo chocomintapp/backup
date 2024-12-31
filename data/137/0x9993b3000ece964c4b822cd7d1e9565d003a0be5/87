@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmag98GPAyfmZubki6eHqn4RN3X7TGPL5aJSrtY3J7JuJP/nft.jpg",
+  "nftContractAddress": "0x9993b3000ece964c4b822cd7d1e9565d003a0be5",
+  "animationUrl": "",
+  "tokenId": 87,
+  "chainId": "137",
+  "name": "Skull neo punks #0087",
+  "description": "Just skull. A collection of 1,000 skull punks that take us back to metaverse.\nNone of the skin, all of the value. 💀💀💀\n",
+  "attributes": [
+    {
+      "value": "BL OR",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "DRAGON yw",
+      "trait_type": "MASK"
+    },
+    {
+      "value": "MT JACKET",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "KATANA",
+      "trait_type": "BAG"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbCLjW2KzkJeoZeJx5u6MynubKQHaoUqkn54a6KSJGS8k/nft.jpg",
+  "nftContractAddress": "0xb3e0ca86d66745cf51856a9922f79e7e613f2d48",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "VeryCoolAnimals #006",
+  "description": "VeryLongAnimals✕CoolGirlの二次創作です。",
+  "attributes": [
+    {
+      "value": "pig",
+      "trait_type": "type"
+    }
+  ]
+}

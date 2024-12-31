@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXqPYCDpHaA2REkuUAh7gPvZPZRVhdHJLpA3GEps28N5e/nft.png",
+  "nftContractAddress": "0x966b004e16302e7e0cc7d2906eed2c4eff01d670",
+  "animationUrl": "",
+  "tokenId": 122,
+  "chainId": "137",
+  "name": "#0122 Vail",
+  "description": "Limited 1/1\n\nA little sad Monstarz. This Monstarz is minted by their original contract (MSZ).",
+  "attributes": [
+    {
+      "value": "UnCommon",
+      "trait_type": "Rarity"
+    }
+  ]
+}

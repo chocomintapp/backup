@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTJekwZXbRrkEnq8XXA6nVhvUzjjJjfv1E9sMTiNRQ2PU/nft.png",
+  "tokenId": 101,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**BT-7**  \nWith the high mobility typical of Christie-type tanks and a 45mm gun, which was very powerful for its time, this vehicle played a central role in the early Soviet tank corps.\n\nThe design was also advanced, and the 1937 model adopted a new type of turret that took into account bullet avoidance.\n\nIt was deployed in the first battle against the Japanese in the Nomonhan Incident, and fought hard despite its thin armor.\n\n**BT-7 快速戦車**  \nクリスティー式戦車らしい高い機動性と当時としては威力の高かった45mm砲を搭載して、初期のソ連軍戦車部隊の中核を担った車輌です。\n\nデザインも先進的で、この1937年型は避弾経始を考慮した\n新型砲塔を採用しています。  \n初陣は日本軍相手のノモンハン事件で独ソ戦の緒戦にも投入され\n薄い装甲ながらも奮戦しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0101 BT-7",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Soviet"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS2cpriS8MgvpkTRXAZqLuBoGxEDskZoUKoppQ1jCUr71/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 219,
+  "chainId": "137",
+  "name": "#219",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#C9EA83",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#EC0F16",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Crocodile friends",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Davi",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Cyborg head (1st Generation/For combat)",
+      "trait_type": "special1"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXgWLnMnMGvKydbQqkc3pEFmKzNqsyxBYd8nJc7TWGEhH/nft.png",
+  "nftContractAddress": "0x778f7c88e13f18f066ac5c2738dc1eded15673a5",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "Meco",
+  "description": "Ambitious One City Special Edition for dgift",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "SLIGHT SMILE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "SPECTER",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "SHIROMUKU",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "FAN",
+      "trait_type": "ITEM"
+    }
+  ]
+}

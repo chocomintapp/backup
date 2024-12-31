@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPF6gBYPGLf3VCTcWp1z3diHSK58WAYN4R7QwDuhWbMV5/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmPF6gBYPGLf3VCTcWp1z3diHSK58WAYN4R7QwDuhWbMV5/nft.png",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "Rabbit girl #2S 『Mint』",
+  "description": "Rabbit girl #2S 『Mint』\n\nI'm going to school with all my heart and wearing my favorite ribbon. But she seems to have overslept and is a little late for preparation.\n\nI love my house!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Mint",
+      "trait_type": "Character"
+    },
+    {
+      "value": "School",
+      "trait_type": "Series"
+    }
+  ]
+}

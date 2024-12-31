@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQG1NVRfVuTWzZSKKX3mZL5QuvWNGGvU2bfSUyPNpcZzF/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 63,
+  "chainId": "137",
+  "name": "#0060_Niton_CBGC_Bst",
+  "description": "#0060_Niton_CBGC_Bst\nブーストアイテムにて変化しています！",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Dodger Blue",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Medium Spring Green",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Cyan",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    },
+    {
+      "value": "MofuMofu",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Afro",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "XX",
+      "trait_type": "Eye"
+    }
+  ]
+}

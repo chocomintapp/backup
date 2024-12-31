@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZc3VHnRmEFm39PhiHAjwvmYCoxmruY2Bnq1ZqkZr44zD/nft.png",
+  "tokenId": 1,
+  "description": "castletest01",
+  "nftContractAddress": "0x546deba17e71a67c0e8b83d98954f6994c933913",
+  "animationUrl": "https://ipfs.io/ipfs/QmPckmT1B3PRFWJq2pg6dPvbkbzxuv38EJLoqnorz1js45/nft.m4a",
+  "chainId": "137",
+  "name": "test00",
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTL2fCCncYTSqMGVQGZkWv5Frv5y1s8o8fW6HkbUKQNm3/nft.jpg",
+  "tokenId": 57,
+  "description": "57/101  \nTaken on Dec 10, 2016  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #57",
+  "attributes": [
+    {
+      "trait_type": "weather",
+      "value": "clear"
+    }
+  ]
+}

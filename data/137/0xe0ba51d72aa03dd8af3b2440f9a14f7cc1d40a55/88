@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbFdam3peTFjoffT7736TxmJ1RoNjqJxUoGmsArVmasts/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 88,
+  "chainId": "137",
+  "name": "極力小声で「UNO」と言うえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "コウカツ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "アワビ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "イチジク",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "ポーカー",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "コケツニイラズンバコジヲエズ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

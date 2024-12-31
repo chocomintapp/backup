@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeCFMtepTtaN4arf8pRbZz9CVwJoEr8XSprnpuWtPKisF/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "THS 2/7",
+  "description": "",
+  "attributes": [
+    {
+      "value": "skull",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

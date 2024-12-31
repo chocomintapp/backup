@@ -1,0 +1,16 @@
+{
+  "image": "https://gateway.pinata.cloud/ipfs/QmayNpSNETrJ854WpusFyLZ69jUovZUBZV4jpiehuygMjU/012-jp.png",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "#12 NOW ON SALE (Japanese)",
+  "description": "ごめん！それどころじゃないんだ！",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Japanese",
+      "trait_type": "Language"
+    }
+  ]
+}

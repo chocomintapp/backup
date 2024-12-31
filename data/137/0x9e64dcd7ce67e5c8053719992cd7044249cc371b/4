@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX8sjPtsMduF6vr2VemfJaVVmoBDHmMAovAgy8wwX2bxm/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Onigiriman × VeryLongAnimals",
+  "description": "The collaboration with [Onigiriman](https://opensea.io/collection/untitled-collection-22306961), a famous NFT creator from Japan. Created by [AkimuneKawa](https://opensea.io/AkimuneKawa).",
+  "attributes": [
+    {
+      "value": "Nigichan",
+      "trait_type": "TYPE"
+    }
+  ]
+}

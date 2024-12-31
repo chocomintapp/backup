@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbXDmBpNX5FcydtM91oRcbZ6ipxWstvgEEmU6GTyk1TqD/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "137",
+  "name": "THS #015",
+  "description": "【相】",
+  "attributes": [
+    {
+      "value": "goldfish",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "tiger",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUJ3aU8ttUu3Cu1LAAAxjUzswuhkcTjv3MEqPkYAKo5k9/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 123,
+  "chainId": "137",
+  "name": "Day55 Umitsuru's Art",
+  "description": "Why is potato butter so delicious?\n\nじゃがバターはなぜあれほど美味いのか。",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

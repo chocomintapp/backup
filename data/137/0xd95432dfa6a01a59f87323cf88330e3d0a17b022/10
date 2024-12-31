@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfV5bsA3Q3qYacDY9RpSzBX3yj78rEQF7FR15kC7oUQt8/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "大吉 Weared #10",
+  "description": "あなたもこれで逆立ちの名人です。笑\n\nYou are also a handstand master.hahaha\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "potato skirt",
+      "trait_type": "special item"
+    }
+  ]
+}

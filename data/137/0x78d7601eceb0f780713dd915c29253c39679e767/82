@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRDq2CrL6Yy3PJ6W3hZMHLG5RFyufJNfVsY3KHT5TonPD/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 82,
+  "chainId": "137",
+  "name": "#82 Hotaru Purple",
+  "description": "The school uniforms of the girls who aim to be Rabbitgirls of their dreams.\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hair",
+      "trait_type": "Type"
+    },
+    {
+      "value": "hotaru",
+      "trait_type": "Hair"
+    }
+  ]
+}

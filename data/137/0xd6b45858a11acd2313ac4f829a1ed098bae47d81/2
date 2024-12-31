@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQe7i6wtSEhBcUKugzJTPc23d7uSYDSdzJASsCBtiQnX7/nft.png",
+  "tokenId": 2,
+  "description": "One of my first MINTs.\nIf you have this NFT. you will have good luck!\nIt comes only to those who have it.\n\nKapsel contains the present, the past, and the future.",
+  "nftContractAddress": "0xd6b45858a11acd2313ac4f829a1ed098bae47d81",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Kapsel #2",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Upper outer",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Lower outer",
+      "value": "White"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "White"
+    },
+    {
+      "trait_type": "Font",
+      "value": "White"
+    }
+  ]
+}

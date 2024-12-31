@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQks6GFUUXM28o2BouoM4Phvx495F1AeGssRsHYTvgduu/nft.png",
+  "nftContractAddress": "0x2105d4a0881fd610b4c3394952a1673f4f65f1bc",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Dood #0",
+  "description": "5555 Degenerate Doodles are taking over the Polygon Blockchain, 1 bank at a time. Doods 4 Life! Yeah!",
+  "attributes": [
+    {
+      "value": "Orange Red",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Space",
+      "trait_type": "Body"
+    },
+    {
+      "value": "None",
+      "trait_type": "Tattoos"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Eye Base"
+    },
+    {
+      "value": "Galaxy",
+      "trait_type": "Iris"
+    },
+    {
+      "value": "None",
+      "trait_type": "Necklace"
+    },
+    {
+      "value": "None",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Merhhh",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Filter 1",
+      "trait_type": "Filter"
+    },
+    {
+      "value": "Grain 1",
+      "trait_type": "Grain"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTarPSqj2uAN63zrrUpHr1ZLkiwXj51hkeM3trvtZPdjE/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmTarPSqj2uAN63zrrUpHr1ZLkiwXj51hkeM3trvtZPdjE/nft.png",
+  "tokenId": 41,
+  "chainId": "137",
+  "name": "Rabbit girl #19 『Rose』",
+  "description": "Rabbit girl #19 『Rose』\nFlora's power to give magical flowers gave birth to a flower witch.\n\nA girl who wished for love from an important person.\n\nShe always prays for her beloved.\n\nNo matter how many times she is reborn, her feelings won't change. Her personality is quiet.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Rose",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "Flower",
+      "trait_type": "Series"
+    }
+  ]
+}

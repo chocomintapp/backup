@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXqmjX3XWnKnutk6GsXptJcWF5UUEpjd9tLgeVVaxt4oe/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "137",
+  "name": "#43 Memory from summer『Small island』",
+  "description": "Items tightly packed with memories of the summer festival.\nYou can scoop up various things at the stalls.\nYou can even get amazing things inside!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hug",
+      "trait_type": "Type"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUm5dQUopfmuB6BZpYT2gMSVVBWaBYe2srHRCDy2eUWgg/nft.PNG",
+  "tokenId": 3,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n3月31日\n\n火曜日。仕事をしている部長の元へ、一通のメールが届きました。件名は「ねじねじドーナツに選ばれたあなたへ」とあり、先日リビングで出会った\"偽物部長\"に関する話が書かれていました。この世界には、先日の\"偽物部長\"の他にも数人の偽物がいること、周囲の人間にはそれが本物として認識されてしまうこと、彼らはねじねじドーナツに選ばれたわけではないこと…など、気になる内容が盛り沢山だったのです。どうやら自分は、ねじねじドーナツに選ばれたということらしいのですが、さて、一体どういうことなのでしょうか。\n\nMarch 31\n\nTuesday. While he was at work, he received an email. The subject line read, \"To the person who was chosen by Screw Donut,\" and it talked about the \"fake me\" he had met in his living room the other day. It said that there were several other fake selves in the world besides the one he had met the other day, that the people around me would recognize them as the real ones, that they had not been chosen by the Screw Donut... There were a lot of things he was curious about. It seems that he has been chosen by Screwy Donut, but what does that mean?",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #089 Mar.31",
+  "attributes": [
+    {
+      "trait_type": "CAP",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "HOODIE",
+      "value": "Donuts Navy"
+    },
+    {
+      "trait_type": "MASK",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Black"
+    }
+  ]
+}

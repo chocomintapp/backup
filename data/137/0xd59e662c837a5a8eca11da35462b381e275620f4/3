@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdffx5jiP4LWDP6UMHq1KTNHxcYVzEQs2oRuWQ9EPRVEF/nft.mp4",
+  "tokenId": 3,
+  "description": "Collaboration with https://opensea.io/Kapsel78Lab\n\ntheme by https://opensea.io/collection/the-kapsel78\n\nWhat's in the kapsule?\nIt would be interesting to see if there is something in there that synchronizes people with each other.\nI created the song by imagining the expression of the capsule.\n\nThis music is covered by the Creative Commons Zero (CC0) license.\nUse this music for free for commercial and noncommercial purposes.\n Giving credit to  is not required but appreciated.\n You can edit and adapt this music as you like.\n\nカプセルの中身はなんだろう？\nそこに人と人とを同期させる何かが詰まっているのか興味深い。\nカプセルの表情からイメージして曲を作りました。\n\nこの曲は、クリエイティブ・コモンズ・ゼロ（CC0）ライセンスで保護されています。\nこの曲は、商用・非商用に関わらず、無料でご利用いただけます。\n クレジット表記は必須ではありませんが、よろしくお願いします。\n この曲は自由に編集・組み込みすることができます。",
+  "nftContractAddress": "0xd59e662c837a5a8eca11da35462b381e275620f4",
+  "animationUrl": "https://ipfs.io/ipfs/Qmdffx5jiP4LWDP6UMHq1KTNHxcYVzEQs2oRuWQ9EPRVEF/nft.mp4",
+  "chainId": "137",
+  "name": "Sync",
+  "attributes": []
+}

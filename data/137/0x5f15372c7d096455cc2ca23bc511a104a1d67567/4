@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeC44ntTfqGb3ngsxFkNVhue94szn9XAwwU3yCNhSaruS/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmeC44ntTfqGb3ngsxFkNVhue94szn9XAwwU3yCNhSaruS/nft.png",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Brown hair girl",
+  "description": "It's a cute girl with the image of the coming of spring and cherry trees.",
+  "attributes": [
+    {
+      "value": "Sakura",
+      "trait_type": "Charactor"
+    }
+  ],
+  "minted": "✅"
+}

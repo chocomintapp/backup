@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV42snWHogSMqYp6rCfDVhJXxKM34e45hQfuge61HXC38/nft.jpg",
+  "tokenId": 1,
+  "description": "Gift for my wife",
+  "nftContractAddress": "0x59c2c1113e34f7aaa9c6d628be3234475bf79c32",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Wedding nails",
+  "attributes": []
+}

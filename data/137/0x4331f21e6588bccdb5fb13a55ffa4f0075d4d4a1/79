@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY9MZpqSCuYDjXd2GzN6kPdQ3zbVmeSsa7t9JwAvd7C7B/nft.png",
+  "tokenId": 79,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**HIEI 1941**  \nThis silhouette is battleship Hiei in 1941.\n\nHiei was originally built as a battlecruiser, but was converted to a training battleship, and after further twists and turns, became a battleship.  \nIt is also famous as the ship used by the Emperor of Japan.\n\nHiei, which had also participated in World War I, was already an old ship at the beginning of the war, but she was active as an escort ship for aircraft carriers, taking advantage of her high speed.\n\nIn the Third Battle of the Solomons, the ship went on a rampage for the last time.\n\n**戦艦 比叡 1941**  \n比叡は巡洋戦艦として建造されましたが、その後練習戦艦へと変更され、一線を退くかに思われましたが、正式な「戦艦」として登録されました。  \n天皇陛下の御召艦としても有名です。\n\n第一次大戦にも参加していた比叡は開戦時にすでに老艦でしたが、快速を生かし空母護衛などで活躍。  \n第三次ソロモン海戦では最期の大暴れをしました。\n\nこのNFTは1941年頃の比叡のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0079 HIEI 1941",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Battleship"
+    }
+  ]
+}

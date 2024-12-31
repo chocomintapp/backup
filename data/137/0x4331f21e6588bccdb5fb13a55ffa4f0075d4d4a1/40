@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWp5KgWHANUWy4SbBFgdQ7jHfhVAM546KvYs3HQ6zi7pX/nft.png",
+  "tokenId": 40,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**V-1 Fi103 A-1**  \nIt was the first cruise missile ever developed by the German military.  \nIt had a warhead weight of 830 kg and a long range of 240 km, and was launched in large numbers from various parts of German-occupied France to London.  \nCompared to the V2 rocket, which was also a secret weapon, it was superior in cost performance, and one V-2 rocket could produce ten V-1 missiles.\n\nIn the end, 22,000 V-1 rockets, named Retaliatory Weapon No. 1, were fired at London, and it is said that more than 21,000 British citizens were killed or injured.\n\n**V-1飛行爆弾 量産型**  \nドイツ軍が実戦投入した史上初の巡航ミサイルです。  \n弾頭重量は830kgと多く射程距離は240kmと長大でドイツ占領下のフランス各地からロンドンを目掛けて大量に発射されました。\n\n同じく秘密兵器のV2ロケットに比べてコストパフォーマンスに優れV-2ロケット1発分で10発が生産可能でした。\n\n報復兵器1号と名付けられたV-1は最終的にロンドンには2万2000発が発射されイギリス国民21000人以上が死傷したといわれています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0040 V-1 Fi103 A-1",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Secret weapon"
+    }
+  ]
+}

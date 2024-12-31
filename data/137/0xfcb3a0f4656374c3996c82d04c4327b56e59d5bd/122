@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQvnwQVJEBqWxHc1sge3dGAYoQayR9qvMPm8DNvK8ysAG/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 122,
+  "chainId": "137",
+  "name": "#0117_Collaboration_PDIM",
+  "description": "#0117_Collaboration_PDIM",
+  "attributes": [
+    {
+      "value": "Collaboration",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Physical-dimension",
+      "trait_type": "Collection"
+    }
+  ]
+}

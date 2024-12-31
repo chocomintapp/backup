@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNws5Mf93ukSLuoVUnBVsNiQnKkHicDXyMCJxUsKM1ieA/nft.png",
+  "tokenId": 9,
+  "description": "One of my first MINTs.If you have this NFT. you will have good luck!It comes only to those who have it.Kapsel contains the present, the past, and the future.",
+  "nftContractAddress": "0xd6b45858a11acd2313ac4f829a1ed098bae47d81",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "TheKAPSEL#1",
+  "attributes": [
+    {
+      "trait_type": "Brand",
+      "value": "Kapsel78Lab"
+    },
+    {
+      "trait_type": "Collections",
+      "value": "TheKAPSEL"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Morim"
+    },
+    {
+      "trait_type": "TYPE",
+      "value": "Kapsel>Pill<Capsule"
+    },
+    {
+      "trait_type": "Gen",
+      "value": "1"
+    },
+    {
+      "trait_type": "Item",
+      "value": "None"
+    },
+    {
+      "trait_type": "Upper outer",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Lower outer",
+      "value": "White"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "White"
+    },
+    {
+      "trait_type": "Font",
+      "value": "White"
+    }
+  ]
+}

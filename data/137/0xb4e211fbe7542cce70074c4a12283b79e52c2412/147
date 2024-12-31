@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaAZFTpd3sZRwWkn7152rZH1R4L5VaMsj8CDZ1DJv4FMT/nft.png",
+  "tokenId": 147,
+  "description": "Contemporary art style Mole medjed",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/QmaAZFTpd3sZRwWkn7152rZH1R4L5VaMsj8CDZ1DJv4FMT/nft.png",
+  "chainId": "137",
+  "name": "medjed no.147/1000",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

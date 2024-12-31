@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUin6VDw5uziELG5e1LQqvU2ivWX5W7Lyu6ozA2PDNbeL/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Yoru no kirameki",
+  "description": "The sparkle of the night. Yoru no kirameki\n\nA beautiful girl at night.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Yoru",
+      "trait_type": "Charactor"
+    }
+  ]
+}

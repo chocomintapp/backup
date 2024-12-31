@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSKZ4X81HA5Fu8qAMiXUPYs7pdWLTM2RgZgMbWTf5z61n/nft.png",
+  "nftContractAddress": "0x37fa63ddb4c4f37b25cd116fd58104ecaf60d801",
+  "animationUrl": "https://ipfs.io/ipfs/QmYMZ26p3AkozPKQXRvAraRc6amwXPTdvqzGAgntSbKRf1/nft.jpg",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "kakure kazuchika 隠　和睦",
+  "description": "His name is Kakure Kazuchika.     \nHe is the father of Meme and Shun. He runs a coffee shop as a hobby.     \nHis favorite thing to do is to look for good food.     ",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

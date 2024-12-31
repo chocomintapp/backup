@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbbVgQ1M49msw7wJoo3WebMc4qD5i9mdGb44FUGEbTHHr/nft.png",
+  "tokenId": 132,
+  "description": "Contemporary art style order medjed 10",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/QmbbVgQ1M49msw7wJoo3WebMc4qD5i9mdGb44FUGEbTHHr/nft.png",
+  "chainId": "137",
+  "name": "medjed no.132/1000",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

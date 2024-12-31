@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZT1A4dC75112kurokY3FnLnaLJkfxg4hcZyUTrn2rZB3/nft.png",
+  "tokenId": 34,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #34",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Fox"
+    }
+  ],
+  "minted": "✅"
+}

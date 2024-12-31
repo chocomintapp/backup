@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc3RXgmL88HSZhf1nmcD5Pmm3AVaJ2gUCY1JSvKnGbBiA/nft.png",
+  "tokenId": 11,
+  "description": "Calligraphy Devil #11",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #11",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Morax"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Vassago"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Akeron"
+    }
+  ]
+}

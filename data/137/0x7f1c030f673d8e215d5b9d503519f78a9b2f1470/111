@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmat6eGi7M9kMui4Uoa4R4hDsTZtKyvikssJsQMQ1bcPhh/nft.jpg",
+  "nftContractAddress": "0x7f1c030f673d8e215d5b9d503519f78a9b2f1470",
+  "animationUrl": "",
+  "tokenId": 111,
+  "chainId": "137",
+  "name": "Twilight To Rabbit #7",
+  "description": "The rabbit, a symbol of curiosity, will give you the opportunity to start something new.",
+  "attributes": [
+    {
+      "value": "Twilight",
+      "trait_type": "Attribution"
+    },
+    {
+      "value": "To",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "East",
+      "trait_type": "Birth"
+    },
+    {
+      "value": "Elder",
+      "trait_type": "Age"
+    },
+    {
+      "value": "Merchant",
+      "trait_type": "Class"
+    }
+  ]
+}

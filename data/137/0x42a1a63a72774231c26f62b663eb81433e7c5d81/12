@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX7CDRkSMcjfL4iDLh9t3a4qP79RsmV8sMjpG4U5PLmDg/nft.jpg",
+  "nftContractAddress": "0x42a1a63a72774231c26f62b663eb81433e7c5d81",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "Maruo",
+  "description": "This art collection aimed at unrealistic perception that is neither 2D nor 3D.",
+  "attributes": []
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRBFTaGqaCpvganXYEBdcidXrcSiQUN6rYKQoTgKasZZK/nft.png",
+  "nftContractAddress": "0x8508671d133ddd325eee846ac4120bdf1a40aae5",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Majisupe 20th Anniversary🌈🚃",
+  "description": "#ツリカワ大先生 ver.\nコチラのNFTは2022年11月5日(土)に\n行われたマジスペ 20回記念として\n作成したNFTです。\n\n#マジスペメンバー\n#らすめ様\nhttps://twitter.com/rasume_luv\n\n#TURIKAWA大先生\nhttps://twitter.com/nezumi_tokaino\n\n#まっつん様\nhttps://twitter.com/mattsun_anime\n\n#とりちゃん様\nhttps://twitter.com/threehairsbirds\n\n#やぶちゃん様\nhttps://twitter.com/yabuch_\n\nThis NFT will be held on \nNovember 5, 2022\nAs the 20th anniversary of the magispe\nThis NFT was created!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Majisupe",
+      "trait_type": "Twitter space"
+    },
+    {
+      "value": "Turikawa🚃",
+      "trait_type": "Member2"
+    }
+  ]
+}

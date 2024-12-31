@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZgZ6CSTVHfWksZVJbAhnPmzfdLmGambNS29yXq5rAWFi/nft.png",
+  "nftContractAddress": "0xb784016a2e9b4b297e4b3e21b9eb87f1c85467d3",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "#1 おはぎとだいふく",
+  "description": "おはぎ(黒)とだいふく(白)の推し活コレクション！",
+  "attributes": [
+    {
+      "value": "おはぎ&だいふく",
+      "trait_type": "推し猫"
+    }
+  ]
+}

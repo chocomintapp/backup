@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma55GamgzmTXXnB9VKruLfjhVUDdqPr9dC4nQGL4K8Q52/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 50,
+  "chainId": "137",
+  "name": "#50 Yukata pink",
+  "description": "Yukata full of memories of summer vacation.",
+  "attributes": [
+    {
+      "value": "Clothes",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Yukata",
+      "trait_type": "Clothes"
+    }
+  ],
+  "minted": "✅"
+}

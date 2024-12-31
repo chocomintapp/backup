@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXQ66YhQVzZpNdqGvKuhkA3hJQ7hbcnEkSXTupaJHF4kW/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 143,
+  "chainId": "137",
+  "name": "WMM #0143 Morser Karl Gerat040",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**Morser Karl Gerat040**  \nIt is a huge self-propelled gun developed by Germany to capture the Maginot Fortress in France.\n\nWith a gun caliber of 60 cm and a vehicle weight of 124 tons, it was truly an unprecedented specification.\n\nIt was a special self-propelled artillery gun in every respect: its speed was only 10 km/h, it had to be transported by a special train for long-distance travel, and it used a special ammunition carrier converted from a PANZER IV tank for ammunition.\n\nAlthough the rate of fire was very slow at 6 rounds per hour, it was very effective in the Battle of Sevastopol and other battles in which it was used in a slow and deliberate manner. The weapon was immensely powerful in environments where it was possible to fire artillery.\n\n**自走臼砲 カール 60cm砲 Gerat040**  \nフランスのマジノ要塞攻略を目的に\nドイツが開発した悪夢のような自走砲です。\n砲口径60cm、車重124トンはまさに前代未聞のスペックでした。\n\n時速はわずか10kmと遅く\n長距離移動は専用の貨車を使用しなければならず、弾薬も4号戦車を改造した特殊弾薬運搬車を使用するなど全てにおいて特別な自走砲でした。\n\n毎時6発と発射速度も非常に遅かったものの、セヴァストポリ要塞攻略戦など、じっくりと腰を据えて砲撃できる環境において絶大な威力を発揮しました。",
+  "attributes": [
+    {
+      "value": "Germany",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

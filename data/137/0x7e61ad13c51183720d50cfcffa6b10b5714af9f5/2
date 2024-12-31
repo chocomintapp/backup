@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUd4q4HbEfC51YXCMnn9FgDfFre1NFwrsCH2tWzi6rb9L/nft.png",
+  "nftContractAddress": "0x7e61ad13c51183720d50cfcffa6b10b5714af9f5",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "VeryLongEnglishAnimals #2",
+  "description": "This is a secondary production of \"VeryLongAnimals\".",
+  "attributes": [
+    {
+      "value": "Dog",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

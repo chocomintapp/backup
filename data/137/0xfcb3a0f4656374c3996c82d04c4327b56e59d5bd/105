@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPvyphsxGxMFZiN5sMyJAuUL7kVYy3gsE5Nnsmiggzcxs/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 105,
+  "chainId": "137",
+  "name": "#0100_Niton_CCBBKGC_MMRBK",
+  "description": "#0100_Niton_CCBBKGC_MMRBK",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Marine Blue",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Medium Spring Green",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Tyrian Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

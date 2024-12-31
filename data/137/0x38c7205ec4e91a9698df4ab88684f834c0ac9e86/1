@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWSgptZUVQHwYW7MnyLykJSm7u9NzdKyNeTUsb1QfX3zE/nft.png",
+  "tokenId": 1,
+  "description": "first time at chocomint",
+  "nftContractAddress": "0x38c7205ec4e91a9698df4ab88684f834c0ac9e86",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "first 1"
+}

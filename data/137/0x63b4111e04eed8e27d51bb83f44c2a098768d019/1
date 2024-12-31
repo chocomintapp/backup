@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS7e4SDTzDf1FYfNCD1SRWNwnxEKozFBsNJ9ePs9g4PCe/nft.png",
+  "nftContractAddress": "0x63b4111e04eed8e27d51bb83f44c2a098768d019",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "01",
+  "description": "",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "pink",
+      "trait_type": "background"
+    },
+    {
+      "value": "crow",
+      "trait_type": "animal"
+    },
+    {
+      "value": "apple",
+      "trait_type": "fruit"
+    },
+    {
+      "value": "thunderstorm",
+      "trait_type": "weather"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR3PMRjRYvpKheN34LdngDJ39kuG8jQVLXNFmi4bBGCzV/nft.jpg",
+  "tokenId": 1,
+  "description": "test",
+  "nftContractAddress": "0x52bbea3cff5be55f521eeb797d1dd0d24e592b7f",
+  "animationUrl": "https://ipfs.io/ipfs/QmR3PMRjRYvpKheN34LdngDJ39kuG8jQVLXNFmi4bBGCzV/nft.jpg",
+  "chainId": "137",
+  "name": "test",
+  "attributes": [
+    {
+      "trait_type": "Power",
+      "value": "83"
+    },
+    {
+      "trait_type": "Deffence",
+      "value": "12"
+    }
+  ]
+}

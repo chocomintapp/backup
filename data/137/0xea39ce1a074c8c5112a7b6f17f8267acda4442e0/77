@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXj4FQfCwxC8UEsm4yevGUEehtFUoQFnqZQhhjnWkp2N7/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 77,
+  "chainId": "137",
+  "name": "TANU-KIDS #076",
+  "description": "ガンマンに変身したTANU-KIDS\n馬には乗れない",
+  "attributes": [
+    {
+      "value": "gunman",
+      "trait_type": "Occupation"
+    }
+  ]
+}

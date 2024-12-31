@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdUqgnkQoyCv8Z6nKn3Q8dqFsjTpBoNJY1u8vB98DXX9K/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 108,
+  "chainId": "137",
+  "name": "#0103_Niton_BbyRrY_Y",
+  "description": "#0103_Niton_BbyRrY_Y",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Slate Blue",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Blaze Orange",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

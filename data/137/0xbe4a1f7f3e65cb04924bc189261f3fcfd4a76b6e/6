@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma1jDvNC8ty3Lk4SDwG3WV7XiPkQy39DSMJSU5Rw7Q7ks/nft.gif",
+  "tokenId": 6,
+  "description": "Moving Noun 5",
+  "nftContractAddress": "0xbe4a1f7f3e65cb04924bc189261f3fcfd4a76b6e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "GIF Noun 5",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Warm"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Darkbrown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chainsaw"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square-yellow-orange-multi"
+    }
+  ]
+}

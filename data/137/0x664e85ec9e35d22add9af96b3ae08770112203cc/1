@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc1t8tzmVMjKmVtmZdwieq5yMwWu4N3CSMe5idmbCNEJi/nft.png",
+  "nftContractAddress": "0x664e85ec9e35d22add9af96b3ae08770112203cc",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "#0",
+  "description": "Blocks for CitraLand LAND, providing custom created saved game worlds, including adventure, survival and puzzle maps for CitraLand.",
+  "attributes": [
+    {
+      "value": "0",
+      "trait_type": "Blocks"
+    },
+    {
+      "value": "0",
+      "trait_type": "Coordinate"
+    }
+  ],
+  "minted": "✅"
+}

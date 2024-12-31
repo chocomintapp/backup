@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWgF44yQ7xD5txXekBHrp3zMzj462KU7udGUq2h6M7s5X/nft.gif",
+  "tokenId": 10,
+  "description": "",
+  "nftContractAddress": "0x238312a4b25d38da55f437c35bb713f2a5924664",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Matrix",
+  "attributes": [
+    {
+      "trait_type": "Attribute",
+      "value": "Orange Astro"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Catwoman"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Yellow Beanie"
+    },
+    {
+      "trait_type": "Headphone",
+      "value": "Yellow v.2"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Robo v.2"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Predator"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

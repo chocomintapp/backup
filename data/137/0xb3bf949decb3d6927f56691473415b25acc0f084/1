@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU1voAxiwfSb3HaWD26NZPPs2Mtf6bxzJ6cN1QihYz6CQ/nft.jpeg",
+  "nftContractAddress": "0xb3bf949decb3d6927f56691473415b25acc0f084",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "XXX",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SMILE",
+      "trait_type": "FACE"
+    }
+  ],
+  "minted": "✅"
+}

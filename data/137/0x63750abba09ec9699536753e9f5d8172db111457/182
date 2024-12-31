@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXuEPqyGTjdhyt9iEsCRDSqw11pptt9UiUyfC7icaUAR6/nft.png",
+  "nftContractAddress": "0x63750abba09ec9699536753e9f5d8172db111457",
+  "animationUrl": "",
+  "tokenId": 182,
+  "chainId": "137",
+  "name": "PachiMon #00182",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Human T2",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Old",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Long black",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "None",
+      "trait_type": "Accessory"
+    }
+  ]
+}

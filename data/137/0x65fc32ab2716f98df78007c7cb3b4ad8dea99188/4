@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcXgEdLvefSpDtXca1FRo1xZDCNpXC86KeVX3npzc2vba/nft.jpeg",
+  "nftContractAddress": "0x65fc32ab2716f98df78007c7cb3b4ad8dea99188",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "NIKO24 #2",
+  "description": "I don't like this kind of computer. What kind of computer?\n\nこんなコンピュータは嫌だ。どんなコンピュータ？",
+  "attributes": [
+    {
+      "value": "GORO×NTP×COVERED on Nov 7, 2022",
+      "trait_type": "Date"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWfvGbKJ3KyzEumsr3VFRURxD3UQdKQZ3APoJamXixyvF/nft.jpg",
+  "tokenId": 3,
+  "description": "MTS sample NFT",
+  "nftContractAddress": "0xd629088e8b1aea58901e9832ce09db240a991fa5",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Ayaka's Top Shot sample"
+}

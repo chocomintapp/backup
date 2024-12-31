@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUncvNaCgcckotTzW3eDfNrgUKHGqYb1SYmVfdjenxJih/nft.gif",
+  "tokenId": 2,
+  "description": "INARI's Special Moves EX#0003\n\ncollaborating with Pixel Dog Warrior!",
+  "nftContractAddress": "0x6b8935fe669bbbde9d9b2adbda63fa422d01fc4f",
+  "animationUrl": "https://ipfs.io/ipfs/QmUncvNaCgcckotTzW3eDfNrgUKHGqYb1SYmVfdjenxJih/nft.gif",
+  "chainId": "137",
+  "name": "ISM_EX#0003(INARI's Special Moves )",
+  "attributes": [
+    {
+      "trait_type": "Team",
+      "value": "EX"
+    },
+    {
+      "trait_type": "Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "Range",
+      "value": "Short-range"
+    }
+  ]
+}

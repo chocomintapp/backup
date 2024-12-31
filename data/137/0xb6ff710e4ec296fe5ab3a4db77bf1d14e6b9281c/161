@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTPN3vgcQueuZU4CQpdX5z282t3yMQGA4YdubZsLACw6L/nft.png",
+  "nftContractAddress": "0xb6ff710e4ec296fe5ab3a4db77bf1d14e6b9281c",
+  "animationUrl": "",
+  "tokenId": 161,
+  "chainId": "137",
+  "name": "#161",
+  "description": "daddy #161",
+  "attributes": [
+    {
+      "value": "mother",
+      "trait_type": "TYPE"
+    }
+  ]
+}

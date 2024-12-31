@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPGisEk2prz1iYacvoe8WJoq2jKUh1ZGN1NJvttKQaNE3/nft.png",
+  "tokenId": 2,
+  "description": "blockchainの呼称として耐改ざん性分散型記録簿が選ばれました。",
+  "nftContractAddress": "0xb8c7bc6532ce51f20f390516805867df95b4144c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "blockchain",
+  "minted": "✅"
+}

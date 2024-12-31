@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc8GXFm143FcjH7Cnnnc8pcHrvkeXrbdbkYWzxg8iKFXA/nft.mp4",
+  "nftContractAddress": "0xdf470d262d8ef9178e68cd4ab04fe13c63fe26d3",
+  "animationUrl": "https://ipfs.io/ipfs/QmU35Ne2wRcz1uwYgTDALLM6vEk1FArk57rPDbKMPVaGSe/nft.gif",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Kawaii Legends #004",
+  "description": "#004 Yukata Kawaii\n\n\"\"Enjoying what you love to do to the fullest is wonderful and brings about a state of creativity.\"\n\"\n\n\n*Here are some tidbits about this costume: \nYukata is a thin fabric kimono worn in summer. Even today in Japan, people can be seen dressed in yukata on festival days and enjoying the festivities.\n\n衣装豆知識：\n浴衣は夏の着物です。現代でもお祭りや花火大会の時に着用されています。",
+  "attributes": [
+    {
+      "value": "ONI",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Festival",
+      "trait_type": "Community"
+    },
+    {
+      "value": "Sakura",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Yukata kimono",
+      "trait_type": "Outfit"
+    }
+  ],
+  "minted": "✅"
+}

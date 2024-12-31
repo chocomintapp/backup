@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZqWfrdHGpUBEchMthCJ287Asuw6jT1nYeAjqzamJwz6M/nft.jpg",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "137",
+  "name": "VeryLongAnimalsEveryday",
+  "description": "【毎日ベリロン】\n【VeryLongAnimalsEveryday】\nNo.3\n「長いものには巻かれろ」\n\"Be rolled up with long things\"",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "No."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX9hZT9a1hBsaxjrJ1Kg1SZeNhKn2MYLjvXT9PX5Wqze9/nft.png",
+  "tokenId": 11,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.\nIn particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "碧空　-Hekiku-",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Sea of Japan"
+    },
+    {
+      "trait_type": "Model",
+      "value": "SENBYO"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaLbX1pojVWPhGPDSBTxX8GKjpUpaRAWm6gNe5iUQgJ8h/nft.jpg",
+  "tokenId": 3,
+  "description": "ddd",
+  "nftContractAddress": "0xbf3c37719d4398d94ba7ba2d5839f7163e270270",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "burned ittem",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRF6ASGPPtwBRX9wYcNqSJ8iNrD8LbHZpNXncWbwMoZiu/nft.png",
+  "tokenId": 100,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n** MAUS**  \nIt is a crying German super heavy tank.  \nIt weighs 188 tons, has a maximum armor thickness of 240 mm, and is equipped with a 55 caliber 128 mm tank gun.  \nIt boasted nightmarish specifications that made it more like a ship than a tank.\n\nEven today's mainstay tanks weigh at most 50 to 60 tons, which shows how huge the Mauser was.  \nDespite its size, the monster machine, which was the dream of the genius Dr. Porsche, was given the name \"Mouse.\n\nTwo prototypes were built, but there were still many operational problems, and although they were deployed in the Berlin defense line, they were never put into action due to engine breakdowns.\n\n\n\n** 超重戦車 MAUS**  \n泣く子も黙るドイツの超重戦車です。  \n重量188t、最大装甲厚240mm、55口径128mm戦車砲と、もはや戦車と言うより艦船に近い悪夢のようなスペックを誇りました。\n\n現在の主力戦車ですら重量はせいぜい50〜60トン程度であり\nいかにマウスが巨大だったかが分かります。\n\n奇才ポルシェ博士の夢が詰ったモンスターマシンはその大きさとは裏腹に「ハツカネズミ」の名を与えられました。  \n試作2輌が作られましたが、やはり運用面での課題は多く、ベルリン防衛線に投入されましたが、機関系の故障で活躍することはありませんでした。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0100 MAUS",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYsqoRkBy8RRBwXDH5RPfyBZTd5PWDyA8V9Qr2cSXFZ8K/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "137",
+  "name": "Day16 Umitsuru's Art #48",
+  "description": "初のGIFにチャレンジ。\n\nMy first GIF challenge.\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

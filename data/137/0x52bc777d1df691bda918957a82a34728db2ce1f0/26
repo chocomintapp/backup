@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXFhhEtGx6oCLkWSeRaKiz72gAfoACeCbRitxk8cLMSvc/nft.png",
+  "tokenId": 26,
+  "description": "Calligraphy Devil #26",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #26",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Amon"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Astaroth"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gehenna"
+    }
+  ],
+  "minted": ""
+}

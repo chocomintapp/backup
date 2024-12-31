@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcDkv95W6sVHQ8cfeq3CmKG2kBiCTTtjNny4aVtN3tSGV/nft.png",
+  "tokenId": 4,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "狛犬　-Komainu-",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "PAINT"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Matsue Jinjya"
+    }
+  ]
+}

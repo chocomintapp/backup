@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYP1MJgafsshyztKbPV7kds2ovxN4x6oxkjFLYwDcaqyC/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 72,
+  "chainId": "137",
+  "name": "TANU-KIDS #071",
+  "description": "原始人に変身したTANU-KIDS\n\n咥えているのは何肉？？",
+  "attributes": [
+    {
+      "value": "Primitive man",
+      "trait_type": "History"
+    }
+  ]
+}

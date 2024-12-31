@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeEvvNQmQe1gz8WFj3TzPoAtoKr9KU2DohvkXCv1fwyZG/nft.png",
+  "nftContractAddress": "0x0429f200d0ec02798f0bb1b60345bb457ad1e7d4",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "OneCutFlower #14",
+  "description": "Flowers for the World!",
+  "attributes": [
+    {
+      "value": "Orange",
+      "trait_type": "COLOR"
+    },
+    {
+      "value": "Rose",
+      "trait_type": "TYPE OF FLOWER"
+    },
+    {
+      "value": "Transparent",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

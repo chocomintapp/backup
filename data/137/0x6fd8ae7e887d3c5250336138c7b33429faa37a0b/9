@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYe6iNMFBzmGu94aX54y5RVrhpFrvghsHeRcNsq2sYcPz/nft.png",
+  "tokenId": 9,
+  "description": "2021年7月4日に行われたJCT当選イベントに参加し、アンケートに答えるともらえるNFTです。\n今回は分散型ブログHiDeをご紹介し、ブログの世界に広がるJPYCの世界をお届けしました。",
+  "nftContractAddress": "0x6fd8ae7e887d3c5250336138c7b33429faa37a0b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "JCT当選イベント　記念NFT. 20210704"
+}

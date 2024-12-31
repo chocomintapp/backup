@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSjjsprTd3bev8ppH2kZf9y4z2DJ9GCSg9RA2Cie4foqN/nft.gif",
+  "tokenId": 1,
+  "description": "テクノキングダム２ TECHNOKINGDOM is Original Techno Music with Street View in Japan. TECHNOKINGDOM 2 was shot in Harajuku, Tokyo.",
+  "nftContractAddress": "0x7cfdfdab43451de13e9f3c53006cf74e9234ab17",
+  "animationUrl": "https://ipfs.io/ipfs/QmaMeQuPDTETnQxyWQwgANt1cHCqSZyTTordgPp7AcBb4j/nft.mp4",
+  "chainId": "137",
+  "name": "TECHNOKINGDOM2",
+  "minted": ""
+}

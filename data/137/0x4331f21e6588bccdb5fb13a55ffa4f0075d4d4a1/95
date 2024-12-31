@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbt52UrLuPME7R17CurpdRWvnZr9S3KYtJdofwTpWAEmw/nft.png",
+  "tokenId": 95,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SEIRAN**  \nIt is a surface attack aircraft developed by the Imperial Japanese Navy for use on submarines.\n\nAlthough there were considerable design restrictions because the aircraft was to be installed in the narrow hangars of submarines and there was no satisfactory development period, the completed aircraft was extremely high-performance.\n\nThe maximum speed was 474 km, or 560 km without floats.\nIt could carry 800 kg or four 250 kg bombs and could even operate aerial torpedoes.\n\nIn addition to being able to carry out lightning attacks and dive bombing, it was as fast as a Zero fighter and could launch from anywhere on the ocean. It was truly a \"secret weapon\" masterpiece.\n\nThe submarine operation was planned for the I-400 type (with three planes) and the I-13 type (with two planes), and they were actually installed on the I-400 and I-401 and went out to sea, but the war ended in the middle of the operation and they were never launched.\n\n\n**特殊攻撃機 晴嵐**  \n日本海軍が開発した潜水艦搭載を前提にした水上攻撃機です。\n\n満足な開発期間もなく、更には狭い潜水艦の格納庫に搭載することから設計上の制約はかなり大きかったはず・・・なのですが。\n\n完成した機体は最高速度474km、フロート無しなら560km、搭載爆弾は800kg爆弾もしくは250kg爆弾4発、または航空魚雷という世界にも類をみない超高性能水上攻撃機でした。\n\n雷撃も急降下爆撃もこなせる上に零戦並の速度が出せて更には大海原のどこからでも出撃できる・・・。ロマンあふれる「これぞ秘密兵器」といった傑作機でした。\n\n潜水艦での運用は伊400型（3機搭載）、伊13型（2機搭載）を予定し、実際に伊400、伊401に搭載され出撃しましたが、途中で終戦を迎えたため発艦することはありませんでした。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0095 SEIRAN",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Seaplane"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWgXZiAW8bUadNGNaQJK3LHH5qhG43UJuXEaG8A1cQPWN/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmWgXZiAW8bUadNGNaQJK3LHH5qhG43UJuXEaG8A1cQPWN/nft.png",
+  "tokenId": 37,
+  "chainId": "137",
+  "name": "Rabbit girl #7E 『MoonStone』",
+  "description": "Rabbit Girls Easter\n\nGirls with cute rabbit ears came to you. RabbitGirls is always next to you.\n\n\"Hello! I hope every day will be a wonderful day for you.\"",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "MoonStone",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "Easter",
+      "trait_type": "Series"
+    }
+  ]
+}

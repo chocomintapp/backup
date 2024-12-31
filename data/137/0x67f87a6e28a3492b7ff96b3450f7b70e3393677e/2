@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcvN2GodBfgvsEMMddbJLpdcyFPF7WPcBwhVDHKW333zL/nft.png",
+  "nftContractAddress": "0x67f87a6e28a3492b7ff96b3450f7b70e3393677e",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "VeryPoliticalLongAnimals #002",
+  "description": "Sexy Minister",
+  "attributes": [
+    {
+      "value": "Dog",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Grade"
+    }
+  ],
+  "minted": "✅"
+}

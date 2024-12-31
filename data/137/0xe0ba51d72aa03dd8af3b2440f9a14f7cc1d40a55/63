@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQk4fKHLkAvD54ekyqjdTKcLP5jCTg6Z94vY6876e4JU8/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 63,
+  "chainId": "137",
+  "name": "大きい声であいさつするえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ゲンキ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ガリガリクン",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "ナラヅケ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "応援",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "イッショケンメイ",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

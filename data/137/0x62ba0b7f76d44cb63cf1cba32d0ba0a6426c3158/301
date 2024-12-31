@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPkofYaqpBzmNCb9YJAbZyt9FQk8HrexcyMpePE16np4R/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 301,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #301",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Penguin",
+      "trait_type": "TYPE"
+    }
+  ]
+}

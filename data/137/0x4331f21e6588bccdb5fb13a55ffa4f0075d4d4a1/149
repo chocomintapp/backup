@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYKGmK7sbuLbhBYncs44BQCv83qY9c5EDELKrPT44kq7j/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 149,
+  "chainId": "137",
+  "name": "WMM #0149 VALENTINE III",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**VALENTINE III**  \nThe Valentine Mk. III was produced as an infantry tank Mk.\nAs it was being improved, the number of variants increased to 11.\n\nAs a result of repeated improvements, it became more reliable and was well received at the front lines.\n\nAlthough it lacked both firepower and defense after the middle of the war, it was used until the Churchill and Sherman were introduced. It served as a bridge between the two.\n\nThe number of vehicles produced was the largest in the British Army at 8,850. It can be said that this tank played an important role.\n\n**ヴァレンタインIII 歩兵戦車**  \n歩兵戦車Mk.IIIとして生産されたヴァレンタインのMk.IIIです。\n\n改良を重ねているうちにバリエーションが11種にまでなった試行錯誤感の強い車輌ですが、信頼性が高く前線での評価は良好でした。\n\n大戦中盤以降は火力・防御力共に不足しましたが、チャーチルやシャーマンが投入されるまでの繋ぎとしての役割を果たしました。\n\n生産数がイギリス軍最多の8850輌を誇ることからも重要な役割を担った戦車と言えます。\n",
+  "attributes": [
+    {
+      "value": "UK",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

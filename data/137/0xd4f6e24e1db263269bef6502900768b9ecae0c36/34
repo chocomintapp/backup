@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVyxh8MuEvBpU9yCCJrBJVJM8U1rXopzV9pCP6maBP3jq/nft.jpg",
+  "nftContractAddress": "0xd4f6e24e1db263269bef6502900768b9ecae0c36",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "137",
+  "name": "CRUNK_AREA_0034",
+  "description": "Contractor/Okura Heavy Industries Ltd./Weapons Merchants                            \nEvery character in the CRUNK AREA has a role to play, and everyone is hero.                         ",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Normal",
+      "trait_type": "Rarity"
+    }
+  ]
+}

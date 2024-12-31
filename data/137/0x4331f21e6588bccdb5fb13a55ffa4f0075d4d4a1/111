@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPZvY7bvM9zJ8aU57EyzFzPqgfVkPk3KCuUPuZmBaAqA5/nft.png",
+  "tokenId": 111,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**NATSUSHIO 1941**  \nThis silhouette is destroyer Natsushio in 1941.\n\nShe is the sixth ship of the Kagero class.  \nTogether with her sister ships, Kuroshio, Oyashio, and Hayashio, she formed the 15th Destroyer division and belonged to the 2nd Destroyer Squadron.\n\nShe was expected to play an active role as a state-of-the-art destroyer, but was struck by a U.S. submarine and sunk during the Makassar invasion shortly after the war began.\n\nIt became the first ship of the Kagero class to be lost.\n\n**駆逐艦 夏潮 1941**  \n陽炎型の6番艦です。  \n姉妹艦の「黒潮」「親潮」「早潮」と共に第15駆逐隊を編制し、「華の二水戦」と呼ばれた第二水雷戦隊に所属していました。\n\n最新鋭の駆逐艦として活躍を期待されていまいしたが、開戦間もないマカッサル攻略作戦の際に米潜水艦の雷撃を受け、陽炎型で最初に失われた艦となりました。\n\nこのNFTは1941年頃の夏潮のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0111 NATSUSHIO 1941",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Destroyer"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWa4tyEpeqZ1s3CHdVVzP1XYZMSK7sUmiSoEfXykZDnqu/nft.png",
+  "tokenId": 9,
+  "description": "ColorCircle(CC) visualizes the concept of \"Circular Diversity\", and contains a strong wish for respect of diversity through color harmony.\n\nThis CC's name is \"Floating night\". \n\nhttps://twitter.com/yinyanguin",
+  "nftContractAddress": "0x6392f80f5a556a22ffbbd49692e3a010d9af4773",
+  "animationUrl": "https://ipfs.io/ipfs/QmYt7eJSVkGzdH3v5E9s44HJ9Cia717V9xqKrgjCzha3w4/nft.png",
+  "chainId": "137",
+  "name": "CC #2 \"Floating night\"",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "CryptoYinyang",
+      "value": "CC"
+    },
+    {
+      "trait_type": "Crypyan",
+      "value": "8"
+    },
+    {
+      "trait_type": "Crypyan",
+      "value": "bat"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdNekNtL2D6sqj4vEphD4AnfC6gQt422srwh9fo5bmutm/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 171,
+  "chainId": "137",
+  "name": "WMM #0171 TATSUTA 1944",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TATSUTA 1944**  \nThis silhouette is Light cruiser Tatsuta in 1944.  \nShe was a 3,000-ton class light cruiser completed in the same year as her sister ship, the Tenryu.\n\nAlthough she was an old ship that had served in Siberia, she was deployed to attack Wake Island and New Guinea Island, and even after the loss of \"Tenryu\", she continued to be active in transportation missions to Ga Island.\n\n**軽巡洋艦 龍田 1944**  \n姉妹艦「天龍」と同じ年に完成した3000トン級軽巡です。\n\n艦シベリア出兵経験もある老艦でしたが、ウェーク島攻略やニューギニア島攻略に出動し、「天龍」が失われた後もガ島への輸送任務などで活躍しました。\n\nこのNFTは1944年頃の龍田のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Light cruiser",
+      "trait_type": "Ship"
+    }
+  ]
+}

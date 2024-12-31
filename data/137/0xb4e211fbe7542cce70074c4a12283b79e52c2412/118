@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVdZKrRPRCVkvyvZLKb1qXDCH3bEAuBe4QH4K8DaNiekr/nft.png",
+  "tokenId": 118,
+  "description": "Contemporary art style Airdrop fighter medjed",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/QmVdZKrRPRCVkvyvZLKb1qXDCH3bEAuBe4QH4K8DaNiekr/nft.png",
+  "chainId": "137",
+  "name": "medjed no.118/1000",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

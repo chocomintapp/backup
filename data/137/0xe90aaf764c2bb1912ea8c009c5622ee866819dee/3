@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTCKeT7KDUL4vwHqLorFXmdq7MtBtWnTDqMwmY93ecGoH/nft.png",
+  "tokenId": 3,
+  "description": "選手特別限定アイコンNFTをプレゼントします。\nTwitter等のSNSでのアイコンにぴったりです。\n是非お気に入りの選手の好きなポーズのアイコンをご購入ください。\n\n購入後特別LINEにご招待させていただきご案内させていただきます。またアスティーダフェス参加チケットもプレゼントさせていただきます。\nアスティーダＮＦＴを合計2枚以上お持ちの方は選手との座談会参加権の獲得もできます。\n\nThis is a Player Special Icon NFT.\nThese icons are perfect for use on SNS, like Twitter, etc.\nPlease purchase the icon of your favorite player doing a special pose.\n\nAfter purchase, you will be invited to a special LINE where we will let you know the next steps. You will also receive a ticket to the Asteeda Festival.\nThose who own 2 or more Asteeda NFTs will be allowed to join the roundtable discussion with the athletes.",
+  "nftContractAddress": "0xe90aaf764c2bb1912ea8c009c5622ee866819dee",
+  "animationUrl": "https://ipfs.io/ipfs/QmTCKeT7KDUL4vwHqLorFXmdq7MtBtWnTDqMwmY93ecGoH/nft.png",
+  "chainId": "137",
+  "name": "宮川選手の好きな言葉アイコン",
+  "attributes": [
+    {
+      "trait_type": "Asteeda",
+      "value": "アスティーダ"
+    },
+    {
+      "trait_type": "Shodai Miyagawa",
+      "value": "宮川 昌大"
+    },
+    {
+      "trait_type": "favorite phrase",
+      "value": "好きな言葉"
+    }
+  ]
+}

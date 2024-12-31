@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUmstf8afdJjF5t8LmhJiUC7dmmc5TQed2THYX9L7KL3A/nft.png",
+  "tokenId": 8,
+  "description": "Crypto Clock is a handmade NFT that works like a real clock.",
+  "nftContractAddress": "0x1da38cf024164323311226ff9369068c8d5b7603",
+  "animationUrl": "https://thecryptoclocks.mypinata.cloud/ipfs/QmV3bJp8p2Ebt9UphcW8H1284X21R4y3orNu6VgsXEu74x/Collorful/",
+  "chainId": "137",
+  "name": "Crystal Clocks #Rainbow",
+  "attributes": [],
+  "minted": "✅"
+}

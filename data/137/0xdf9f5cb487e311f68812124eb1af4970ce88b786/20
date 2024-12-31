@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSTGAYFnoE7utMpWMKtqEYBpsgGgWsGe6LDqhdPvfR5yD/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "Working Ganmichan #12",
+  "description": "Ganmichan's karuta #3",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "karuta",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

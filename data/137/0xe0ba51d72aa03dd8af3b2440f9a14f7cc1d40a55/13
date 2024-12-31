@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ1BgzVpVyMPCBYTktdEE4xvdUEjFv6zy9TFKtzb5p8ML/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "何事にも熱血なえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ネッケツ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ウドン",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "ピータン",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "野球",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "ヤレバデキル",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

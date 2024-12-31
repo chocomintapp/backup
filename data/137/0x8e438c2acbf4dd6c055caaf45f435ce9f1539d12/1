@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQn5xGftEJFkHjnakkmZbHb4KhU4zYLuQjgca6uHJcGMq/nft.jpg",
+  "nftContractAddress": "0x8e438c2acbf4dd6c055caaf45f435ce9f1539d12",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Abilink_NFT",
+  "description": "Abilink_NFT",
+  "attributes": []
+}

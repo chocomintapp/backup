@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZKUrnnJEduUn8jYa9Tb1vpbjBSBpXidrSbByYET7vSyL/nft.gif",
+  "nftContractAddress": "0x09fd5ecda2a41a54d9671171c1a0cf07e7c0cc49",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Very Long Chameleon#3",
+  "description": "This is a derivative collection of Very Long Animals",
+  "attributes": []
+}

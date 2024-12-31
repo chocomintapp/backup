@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRDiK9NZwrVxukauVbYy4kDyrxSrqfJAQELf5J264ZLyn/nft.jpg",
+  "tokenId": 28,
+  "description": "28/101  \nTaken on Oct 1, 2013  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #28",
+  "attributes": [
+    {
+      "trait_type": "weather",
+      "value": "rainbow"
+    }
+  ],
+  "minted": "✅"
+}

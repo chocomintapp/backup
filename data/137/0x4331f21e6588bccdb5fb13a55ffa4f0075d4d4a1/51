@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVE8Xoq3kN6Z2qvBuLNTrZx3PLj9BDfofKznkoR5aAmtt/nft.png",
+  "tokenId": 51,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**M4A1 Sherman**  \nIt is the main medium tank of the U.S. Army in World War II.\n\nThe M4A1 was the first of the many M4 tank series to be produced. It was a very productive vehicle with a good balance of running, offense, and defense.\n\nIn the European front, where there were many heavy tanks, the performance was never sufficient, but the fact that it could be deployed as needed and when needed made it possible for the\nIt supported the rapid advance of the Allied forces.\n\nThe M4A1 was a cast type with a rounded body. The M4A1 is characterized by the use of a star-shaped 9-cylinder engine for aircraft.\n\n**M4A1 シャーマン中戦車**  \n第二次大戦におけるアメリカ軍の主力中戦車です。\n\nM4A1は数あるM4戦車シリーズの中で最初に生産されました。\n走・攻・守のバランスが良く、非常に生産性が高い車輌でした。\n\n重戦車がしのぎを削るヨーロッパ戦線では決して十分な性能では\nありませんでしたが、必要な時に必要なだけ投入できたことで連合国軍の快進撃を支えました。\n\nM4A1は車体が丸みを帯びた鋳造タイプで、航空機用の星形9気筒エンジンを使用しているのが特徴です。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0051 M4A1 Sherman",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

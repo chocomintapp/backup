@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQsEC8a4hg3TZwvvYXCHY9fBFzmy2gwNxTciAVdsPPwVj/nft.png",
+  "tokenId": 52,
+  "description": "私が長老だが、何のようだい。\n\nI'm the elder. What do you want?",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Elder Giraffe（キリンの長老）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Giraffe"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

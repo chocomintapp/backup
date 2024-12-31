@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb84DoqPaoYzW38TtD3fTdLSoaLodTXZwxcsaYsbJPqit/nft.png",
+  "tokenId": 108,
+  "description": "Contemporary art style order medjed3",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/Qmb84DoqPaoYzW38TtD3fTdLSoaLodTXZwxcsaYsbJPqit/nft.png",
+  "chainId": "137",
+  "name": "medjed no.108/1000",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

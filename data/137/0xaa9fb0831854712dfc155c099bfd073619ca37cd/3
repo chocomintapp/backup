@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTfZAShgY7XqkZ9orENB4fJkHU32EaQbwar2jFdt6jBwt/nft.jpeg",
+  "nftContractAddress": "0xaa9fb0831854712dfc155c099bfd073619ca37cd",
+  "animationUrl": "https://ipfs.io/ipfs/QmZBMeA8qoE8enVbUiyqrBbvrYrPMnR7haoHbRqY3xfNUY/nft.mp4",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "MILLIN-18",
+  "description": "NUMERO 18 DE 27",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "FONFO ",
+      "trait_type": "BLANCO "
+    },
+    {
+      "value": "OJOS",
+      "trait_type": "ROJO "
+    },
+    {
+      "value": "CONTORNO ",
+      "trait_type": "NEGRO"
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "CAFE"
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "TOMATE "
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "ANARAJADO "
+    },
+    {
+      "value": "PIEL",
+      "trait_type": "PIEL "
+    },
+    {
+      "value": "RASGORASGO",
+      "trait_type": "AMARILLO"
+    },
+    {
+      "value": "RASGO",
+      "trait_type": "ROJO OSCURO "
+    },
+    {
+      "value": "3D ",
+      "trait_type": "3D "
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNPcBBUFJwJ7euKKgQKPLRhip9rk9tppiwGRtstDYr2BW/nft.gif",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "#22",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#9B9B9B",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#9B9B9B&#19C9BB",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "12 ecliptical constellations",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gemini",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ],
+  "minted": "✅"
+}

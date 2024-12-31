@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbCPPUNq9Ufa9BpZjkEZc7SgpPS1BTN1btTnFWQd23qbv/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmbCPPUNq9Ufa9BpZjkEZc7SgpPS1BTN1btTnFWQd23qbv/nft.mp4",
+  "tokenId": 894,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg 1001",
+  "description": "いつも支えてくれてありがとう\nつぎ連れていくYO　沖縄旅行",
+  "attributes": [
+    {
+      "value": "AI",
+      "trait_type": "M"
+    },
+    {
+      "value": "B PLUTO",
+      "trait_type": "押韻職人"
+    }
+  ]
+}

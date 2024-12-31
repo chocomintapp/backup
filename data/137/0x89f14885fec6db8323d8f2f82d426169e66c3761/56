@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmadepLeX5EyXBHqnSRkspUsehmRJ8mJdnm95gStYoD3mf/nft.png",
+  "tokenId": 56,
+  "description": "Collection of Korean Kingdom Warriors NFTs with various attributes.\n",
+  "nftContractAddress": "0x89f14885fec6db8323d8f2f82d426169e66c3761",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Korean Kingdom Matic Warrior #56",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Attributes",
+      "value": "Cherry Blossom Tree"
+    },
+    {
+      "trait_type": "Attributes",
+      "value": "Blue White Uniform"
+    }
+  ],
+  "minted": ""
+}

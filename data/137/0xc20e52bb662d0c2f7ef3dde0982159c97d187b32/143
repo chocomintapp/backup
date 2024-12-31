@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP4gCSmnhAo1gEMoGMeox2TQg31QBr84jMxtNbq2Kg4Wg/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 143,
+  "chainId": "137",
+  "name": "#143",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#835C9F",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#064D0D",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Blue baseball cap boy",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "\"It's nothing.\"",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Someone's blood",
+      "trait_type": "special1"
+    }
+  ]
+}

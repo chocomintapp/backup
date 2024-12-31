@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVMvUXfUnGGFFqpF71XUNhcUHTBZPPee8Wj4tAZzRdvuo/nft.jpeg",
+  "tokenId": 17,
+  "description": "Calligraphy Devil #17",
+  "nftContractAddress": "0x52bc777d1df691bda918957a82a34728db2ce1f0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Calligraphy Devil #17",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Devil"
+    },
+    {
+      "trait_type": "Entity",
+      "value": "Behemoth"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Abaddon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lust"
+    }
+  ],
+  "minted": "✅"
+}

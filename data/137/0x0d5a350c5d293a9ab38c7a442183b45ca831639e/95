@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbtJEtMWGBVUXjBfKuDqHQ8eJmnMCG3Esr3zMQb1p5s2W/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 95,
+  "chainId": "137",
+  "name": "Day38 Nana's Art #113",
+  "description": "最近、自分のことを「ナナちゃん」と呼べるようになりました。\n\nRecently, I've been able to call myself \"Nana-chan\".",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

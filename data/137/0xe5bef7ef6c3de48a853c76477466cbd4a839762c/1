@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSWVifm6QextCaQiBQMNqRLAHKw9Pj885wyztk5afz46Q/nft.png",
+  "tokenId": 1,
+  "description": "\"sofnchosan\" is a soft serve ice cream of chocolate.",
+  "nftContractAddress": "0xe5bef7ef6c3de48a853c76477466cbd4a839762c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sofnchosan pixel art collection #1 \"sofnchosan\"",
+  "attributes": [
+    {
+      "trait_type": "taste",
+      "value": "chocolate"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRu689CfouH5CEgRkCSNaEDuefEYWSAoAxbE7yZ9N3Dud/nft.png",
+  "tokenId": 1,
+  "description": "My first original contract NFT!!",
+  "nftContractAddress": "0x950bc22e0ea9f5f82227973eda90c68e2db66ee8",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "First NFT",
+  "attributes": []
+}

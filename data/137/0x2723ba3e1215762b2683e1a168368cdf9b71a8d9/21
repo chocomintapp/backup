@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWnJyeiCtMvuZAikkE7fXGDJ9b9tVX3RWtJhLg92HMiuZ/nft.png",
+  "nftContractAddress": "0x2723ba3e1215762b2683e1a168368cdf9b71a8d9",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "#10 All hotto-dogus are good!",
+  "description": "Rina loves hotto-dogu!\nBut some of them seem to be dangerous it.",
+  "attributes": [
+    {
+      "value": "English",
+      "trait_type": "Language"
+    }
+  ],
+  "minted": "✅"
+}

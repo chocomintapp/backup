@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPoWY9tWLDnwwnoB4JVCRVNbv7wjN9TTR2WTQsMDf1HTu/nft.png",
+  "tokenId": 3,
+  "description": "Noodle: Noukou niboshi ramen \nRestaurant: Menya Sou Takadanobaba honten\nAddress: 1-4-21 Takadanobaba, Shinjuku-ku, Tokyo-to \n169-0075 Japan\nSNS：https://twitter.com/menyasou1",
+  "nftContractAddress": "0xa4433e91473733a2fb70792b37a2388c56540a21",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "濃厚煮干しらぁ麺・麺屋宗 高田馬場本店",
+  "attributes": []
+}

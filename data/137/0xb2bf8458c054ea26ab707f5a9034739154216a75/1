@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUswVNENbECiesiWAWjD3YJFhWuxhwLdSrWcqGYocRkp8/nft.png",
+  "tokenId": 1,
+  "description": "three_primary_colors",
+  "nftContractAddress": "0xb2bf8458c054ea26ab707f5a9034739154216a75",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "three_primary_colors",
+  "attributes": []
+}

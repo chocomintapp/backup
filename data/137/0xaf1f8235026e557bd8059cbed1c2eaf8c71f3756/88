@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU7ixK95r3Gdsm45XUFief557gw58Gq1eZ4txGYTFGwfT/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/QmU7ixK95r3Gdsm45XUFief557gw58Gq1eZ4txGYTFGwfT/nft.gif",
+  "tokenId": 88,
+  "chainId": "137",
+  "name": "WavyLongAnimals #88",
+  "description": "ベリロン二次創作",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Shark",
+      "trait_type": "TYPE"
+    }
+  ]
+}

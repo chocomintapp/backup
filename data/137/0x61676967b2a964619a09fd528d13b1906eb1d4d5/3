@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUuyKZBji1BNFaw1TgCQaPcSurzXvNJjWV9eXTFtdaEdx/nft.png",
+  "tokenId": 3,
+  "description": "- testcat",
+  "nftContractAddress": "0x61676967b2a964619a09fd528d13b1906eb1d4d5",
+  "animationUrl": "https://ipfs.io/ipfs/QmU7kogRcB46baNUDKSYiZVQDF4XP3VVNvM6yZTuv1iCK8/nft.mp4",
+  "chainId": "137",
+  "name": "key",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "ANIMAL",
+      "value": "CAT"
+    },
+    {
+      "trait_type": "KEY TYPE",
+      "value": "CHARACTER"
+    },
+    {
+      "trait_type": "ACTION",
+      "value": "PUSH"
+    },
+    {
+      "trait_type": "ITEM",
+      "value": "FINGER"
+    },
+    {
+      "trait_type": "ACCE",
+      "value": "NONE"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbmag8F8ZjsxevPAJscxvLyHjpUCibP15eXbz5jEPn7Em/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 317,
+  "chainId": "137",
+  "name": "#317",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Starry night plain",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#00E3AF",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Piyopiyo Chicks",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Auu",
+      "trait_type": "Face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "Hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Legs"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeH94UrNt26YU3eyCi9QySS88de5rGn1fq77mg951PR7Q/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "PPP #022",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Ponytail BR",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cut and sewn PK",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Scrunchie",
+      "trait_type": "Accessories"
+    }
+  ]
+}

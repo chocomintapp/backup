@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXQvkuwn9UkRNEKqMrq1zCxASoYMACn8sm2KEp61JCWg4/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmXQvkuwn9UkRNEKqMrq1zCxASoYMACn8sm2KEp61JCWg4/nft.mp4",
+  "tokenId": 893,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1000",
+  "description": "いつも支えてくれてありがとう\n今度買うYO　高いアイシャドー\n",
+  "attributes": [
+    {
+      "value": "AI",
+      "trait_type": "M"
+    },
+    {
+      "value": "B PLUTO",
+      "trait_type": "押韻職人"
+    }
+  ]
+}

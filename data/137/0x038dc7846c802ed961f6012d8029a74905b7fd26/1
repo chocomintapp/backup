@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSvfrMMsmh7x3LaVw9MYzfz6Mig7CbPnnsqLRZsJz9ggJ/nft.jpeg",
+  "tokenId": 1,
+  "description": "Kanji art",
+  "nftContractAddress": "0x038dc7846c802ed961f6012d8029a74905b7fd26",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Water",
+  "attributes": []
+}

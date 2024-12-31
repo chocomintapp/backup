@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTcwu2wG6SFGJpUhLHFQ7fcrwgxPzyuxkQqYsLcwyoYVt/nft.jpg",
+  "nftContractAddress": "0x7f1c030f673d8e215d5b9d503519f78a9b2f1470",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "137",
+  "name": "Dawn Nup Owl #26",
+  "description": "The owl, a symbol of wisdom, will give you the power to see far.",
+  "attributes": [
+    {
+      "value": "Dawn",
+      "trait_type": "Attribution"
+    },
+    {
+      "value": "Nup",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "West",
+      "trait_type": "Birth"
+    },
+    {
+      "value": "Ancient",
+      "trait_type": "Age"
+    },
+    {
+      "value": "Engineer",
+      "trait_type": ""
+    }
+  ]
+}

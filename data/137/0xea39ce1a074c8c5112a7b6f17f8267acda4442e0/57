@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd5GrUR5dVaJt6tYZ4NjF4CtDeGd1kZf252qnUCeGJiUi/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 57,
+  "chainId": "137",
+  "name": "TANU-KIDS #056",
+  "description": "ラグビー選手に変身したTANU-KIDS\n\n走って走ってトライを狙います",
+  "attributes": [
+    {
+      "value": "rugby",
+      "trait_type": "Sports"
+    }
+  ],
+  "minted": "✅"
+}

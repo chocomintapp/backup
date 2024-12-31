@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYf4eCDAA7aMKGSkAdM2bVmHuTfXZuEqsjXQCxx3N7V16/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "137",
+  "name": "大吉 Chimney Man Jr. #20",
+  "description": "煙突男の隠し子です。笑\n\nIt is a secret child of a chimney man.hahaha\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "attributes": [
+    {
+      "value": "short Chimney",
+      "trait_type": "specia item"
+    }
+  ]
+}

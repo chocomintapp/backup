@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaJjXMvhhnEmNmsy4TDMSJMEh5AVsv9Qq7xJwebXnZyQc/nft.png",
+  "nftContractAddress": "0x04046a78c18ee57092f423f73e045b8ebc9b5f63",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "PBG008_bid_special_art",
+  "description": "『#008_Uguisu』オークションの入札特典です。\n\nhttps://opensea.io/assets/ethereum/0xe97d4fa9468b99ba88b0c4a11cb7e24b4582e615/8",
+  "attributes": [],
+  "minted": "✅"
+}

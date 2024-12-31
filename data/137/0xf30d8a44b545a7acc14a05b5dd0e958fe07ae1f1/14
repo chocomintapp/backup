@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeSqDoRzjgzCnVh4oejSMFWjJz1GX5D3AJn9JyPa8DCGE/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "PPP #014",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Long GN",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Jacket YE",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Earrings PK",
+      "trait_type": "Accessories"
+    }
+  ]
+}

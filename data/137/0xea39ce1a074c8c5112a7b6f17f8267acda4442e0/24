@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXevy2bCLMVfd957qBDoqkQu8xcGy41k9oK6TyBNxPq8S/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "137",
+  "name": "TANU-KIDS #023",
+  "description": "探偵に変身したTANU-KIDS\n\nパイプを加えて気取っている\n依頼受付中‼︎",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Detective",
+      "trait_type": "Occupation"
+    }
+  ]
+}

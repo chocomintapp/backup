@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXabVgwEdRC3m9SrmQBjB7fJPttEyywR6ubEC5WS8zH4f/nft.png",
+  "nftContractAddress": "0x0aa71cd06e77788ec1c1f737df487d608fac5327",
+  "animationUrl": "https://ipfs.io/ipfs/QmXabVgwEdRC3m9SrmQBjB7fJPttEyywR6ubEC5WS8zH4f/nft.png",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Story Girl #001",
+  "description": "What if I could transform myself into a character in a story? \n\nToday, I'm a girl in Wonderland!",
+  "attributes": [
+    {
+      "value": "Story",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Wavy",
+      "trait_type": "HAIRSTYLE"
+    },
+    {
+      "value": "Long",
+      "trait_type": "HAIRSTYLE"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "HAIR COLOR"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "French Rose",
+      "trait_type": "LIPS"
+    },
+    {
+      "value": "Dress",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "Rabbit Plush",
+      "trait_type": "ACCESSORY"
+    }
+  ]
+}

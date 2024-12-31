@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPz91TAmmB4cvFLRzHhS6fEMavXysxAiHFA8B5KzS3wvj/nft.jpg",
+  "nftContractAddress": "0xf0f51c78925dc898cb7f1570dd3a4858820dd502",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "POPET #Halloween event",
+  "description": "ハッピーハロウィン〜！\nいたずらっ子３人が主役だぞ！",
+  "attributes": [
+    {
+      "value": "おもちゃ屋",
+      "trait_type": "origin"
+    }
+  ],
+  "minted": ""
+}

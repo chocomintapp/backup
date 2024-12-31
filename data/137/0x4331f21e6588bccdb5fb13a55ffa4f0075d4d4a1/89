@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbu73e4p3xz8ekLn2W1bKiNSk58FjoxvQeBaJU4Bjox1B/nft.png",
+  "tokenId": 89,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**Ju87 G-2 Hans Ulrich Rudel**  \nIt is a Ju87G-2 model, the favorite of \"Hans Ulrich Rudel,\" the king of the skies who raged on the Eastern Front.\n\nIt destroyed more than 500 Soviet tanks and nearly 1,000 vehicles, destroyed a battleship at sea, and shot down 9 aircraft in aerial combat.  \nHe is the ultimate ace with unparalleled skills.\n\nHe was called \"the greatest enemy of the Soviet people\" and \"the devil king of the skies.\" It was said that Rudel alone could do the work of an entire division.\n\nHe was the only one in the entire German army to be awarded the \"Knight's Cross with Golden Oak Leaves, Swords, and Diamonds. The award was conferred on him.\n\nThe high command was afraid of losing it due to the magnitude of its presence. Even when ordered not to go into battle, he repeatedly went into battle in secret, often handing over the results of the battle to his colleagues. The exact number of destroyed is said to have been even higher.\n\n**Ju87 G-2 ハンス・ウルリッヒ・ルーデル機**  \n東部戦線で猛威を振るった空の魔王ハンス・ウルリッヒ・ルーデルの愛用したJu87G-2型です。\n\nソ連戦車500輌以上、1000台近い車両も破壊、そして海では戦艦を撃破、空中戦では9機を撃墜するという、もはや人間業とは思えない破格の技量を持った究極のエースです。\n\n「ソ連人民最大の敵」「空の魔王」などと呼ばれ、ルーデル1人で1個師団分の働きをしていると言われたほどです。\n\n全ドイツ軍で唯一「黄金柏葉剣付ダイヤモンド騎士鉄十字勲章」を授けられ、その存在の大きさから失うことを恐れた上層部が\n出撃禁止を命じてもこっそり出撃を繰り返し、戦果は同僚に譲ることも多かったので、正確な撃破数は更に多かったと言われます。\n",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0089 Ju87 G-2 Hans Ulrich Rudel",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Attacker"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Ace aircraft"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUv8nqJ3pZBPRtcFr6xFKyg6jRXAwrmANTKmZ3Cpxzs58/nft.jpg",
+  "tokenId": 4,
+  "description": "test",
+  "nftContractAddress": "0x2eea5367da47101237c5eb6b1c189204a706af53",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "LLAzines.MA",
+  "attributes": []
+}

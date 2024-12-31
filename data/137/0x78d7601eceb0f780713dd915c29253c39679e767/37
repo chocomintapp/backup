@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcTiPxKpox53Swuhz4KGE45RL3esPsk8LATrVmyrC7Sxn/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "137",
+  "name": "#37『Girl with star eyes』×『RabbitGirls』",
+  "description": "『Girl with star eyes』×『RabbitGirls』 \nSpecial Collaboration\n\nThanks💜Twitter @acha_52\n",
+  "attributes": [
+    {
+      "value": "Hair",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Collaboration",
+      "trait_type": "Special"
+    }
+  ],
+  "minted": "✅"
+}

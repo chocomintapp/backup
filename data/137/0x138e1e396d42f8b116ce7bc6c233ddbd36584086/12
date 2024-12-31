@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQJpG5gqZw6xbAfrk6Hzxm39Qo9eGaZ8dzKAdbYkU5FGX/nft.png",
+  "nftContractAddress": "0x138e1e396d42f8b116ce7bc6c233ddbd36584086",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "smirk",
+  "description": "smirk",
+  "attributes": []
+}

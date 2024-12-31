@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRZmVYYMqNKXRUpRiyk4HfwBAYsvo1FbXcwrFZ36UdHAV/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 152,
+  "chainId": "137",
+  "name": "WMM #0152 YAMATO 1945",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**YAMATO 1945**  \nThis silhouette is battleship Yamato in 1945.  \nIt is the nameship of an unprecedentedly huge battleship equipped with the world's largest and most powerful 46cm cannon.\n\nBoasting a standard draining capacity of 64,000 tons, it and its sister ship, the Musashi, have carved their names in history as the world's largest battleships.\n\nIn the Japanese Navy, which has many rugged battleships, the well-balanced and beautiful silhouette of this ship represents a high level of perfection that is truly appropriate for a culmination.\n\n**戦艦 大和 1945**  \n世界最大にして最強の46cm砲を搭載した空前絶後の巨大戦艦のネームシップです。\n\n基準排水量64000トンを誇り、姉妹艦の「武蔵」と共に世界最大の戦艦として、その名を歴史に刻んでいます。\n\n無骨な戦艦が多い日本海軍においてバランスのとれた美しいシルエットは正に集大成に相応しい完成度の高さを現しています。\n\nこのNFTは19454年頃の大和のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Battleship",
+      "trait_type": "Ship"
+    }
+  ]
+}

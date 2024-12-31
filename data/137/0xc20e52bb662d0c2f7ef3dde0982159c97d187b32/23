@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPeSufaQae7ebtV8xtwy519TRaF9dr6cmpg3WPf9vbLaS/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "137",
+  "name": "#23",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#EEE9AB",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#2C579E",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "12 ecliptical constellations",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cancer",
+      "trait_type": "face"
+    },
+    {
+      "value": "Claw",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcL2iFMC65kAHQPQ8T1XZpcRfNLyr9hJHS5yV9w1qf9Q4/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "137",
+  "name": "#37",
+  "description": "tiger",
+  "attributes": [
+    {
+      "value": "Tiger",
+      "trait_type": "RACE"
+    }
+  ],
+  "minted": "✅"
+}

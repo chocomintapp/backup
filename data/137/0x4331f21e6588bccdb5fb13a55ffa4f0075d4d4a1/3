@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNiQvjMjd43KN3j73cwtXLqt6gr5LZRzi877WQWJaESsC/nft.png",
+  "tokenId": 3,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**Type3 HIEN model hei**  \n The only liquid-cooled fighter to be mass-produced by the Japanese military.\n It is similar to the Bf109 because it uses the German DB601 engine, which was domestically produced,\n but the design is different.\nThe model Hei is heavily armed with a powerful Mauser cannon.\n\n**三式戦闘機 飛燕 丙型**  \n日本軍で唯一量産された液冷戦闘機です。  \n速度と武装に優れており、日本軍戦闘機にしては\n珍しく頑丈な機体で、降下制限速度は850km/hでした。\n\nドイツの液冷エンジン「DB601」を国産化して使用していた為\n「和製メッサー」などと呼ばれる事もありますが機体はオリジナルの設計です。\n\n「丙型」は優秀なマウザー砲(MG151/20)を2門搭載した\n重武装バージョンで、通称「マ式」とも呼ばれました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0003 TYPE3 HIEN model Hei",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Fighter"
+    }
+  ],
+  "minted": "✅"
+}

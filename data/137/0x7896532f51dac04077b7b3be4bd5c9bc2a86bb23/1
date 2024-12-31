@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbqGHZNCiweYzaT7frEGzUB4EP6DpuDETPFCxKMDg4MEd/nft.png",
+  "tokenId": 1,
+  "description": "Giant God Warrior painted by Van Gogh (Nausicaä of the Valley of the Wind, Ghibli film)",
+  "nftContractAddress": "0x7896532f51dac04077b7b3be4bd5c9bc2a86bb23",
+  "animationUrl": "https://ipfs.io/ipfs/QmbqGHZNCiweYzaT7frEGzUB4EP6DpuDETPFCxKMDg4MEd/nft.png",
+  "chainId": "137",
+  "name": "Giant God Warrior of Gogh"
+}

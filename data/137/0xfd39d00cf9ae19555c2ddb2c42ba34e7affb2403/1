@@ -1,0 +1,24 @@
+{
+  "image": "ipfs://bafybeih5prhyzxcp6zegwasdenwl6b653swbrkf4apm4xuu7zzul5vtphu",
+  "nftContractAddress": "0xfd39d00cf9ae19555c2ddb2c42ba34e7affb2403",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Alejandro Lusitania Coffee #02",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Colombia F4",
+      "trait_type": "BREED"
+    },
+    {
+      "value": "Anaerobic Natural",
+      "trait_type": "PROCESS"
+    },
+    {
+      "value": "Caicedonia Valle, Colombia",
+      "trait_type": "PRODUCTION AREA"
+    }
+  ],
+  "minted": ""
+}

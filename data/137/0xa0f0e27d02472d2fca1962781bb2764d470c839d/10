@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQn5CkHGb5rsbUpsmLwK9bEZxKApj2yQsTpnbgeqpX8Ea/nft.jpg",
+  "tokenId": 10,
+  "description": "よく分からんけど手と足が生えてきたから逃げるか。\n\nI don't know why I've grown hands and feet, so I guess I'll run away.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Escaping Tofu",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Tofu"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

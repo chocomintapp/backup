@@ -1,0 +1,15 @@
+{
+  "image": "",
+  "nftContractAddress": "0x56d07de7fad8e72ed7c6ff1a5a2ec36bb056b489",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "#3 onigiriman\"NIGI-Chan\"／おにぎりまん「ニギちゃん」",
+  "description": "This is a secondary NFT of \"Nigi-chan\" by Onigiriman.\nOnigiriman's \"Nigi-chan\" is the second NFT of \"Nigi-chan\".\nThe power of Onigiri is great.\n\nOriginal author:\nonigiriman\n\nおにぎりまんさんの「ニギちゃん」の二次創作NFTです。\nかつておにぎりパワーでNFT界隈をざわめつかめました。\nおにぎりの力は偉大で御座います。\n\n原作者：\nおにぎりまん",
+  "attributes": [
+    {
+      "value": "NIGIchan",
+      "trait_type": "onigiriman"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ4e7GiX7xopQPYkFwFTucHBdztMG52XXcsmWKXxapUVF/nft.jpeg",
+  "nftContractAddress": "0x110cbb50ec676462e518a7f38a96c761b5bdd937",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "aaa",
+  "description": "asda",
+  "attributes": []
+}

@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdvcrsKKpsQUUfRTDBtKwTXTaSzVBvuuC3UmvjXfy62Gq/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 212,
+  "chainId": "137",
+  "name": "#212",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#C9EA83",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#2FEFFF",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Crocodile friends",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Ryu",
+      "trait_type": "face"
+    },
+    {
+      "value": "Full of magical power",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Wizard's wand",
+      "trait_type": "Accessory1"
+    }
+  ],
+  "minted": "✅"
+}

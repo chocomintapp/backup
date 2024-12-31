@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbjCK6TPAHZQyPCccHzZ5aFdcAy9BBZw4GPKK2P8ampKR/nft.png",
+  "nftContractAddress": "0x63750abba09ec9699536753e9f5d8172db111457",
+  "animationUrl": "",
+  "tokenId": 59,
+  "chainId": "137",
+  "name": "PachiMon #00059",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Gray",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Venom",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Eyelashes",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Short",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Earring",
+      "trait_type": "Accessory"
+    }
+  ]
+}

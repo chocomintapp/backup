@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmezkxzMhJqk6AkTjXRYLKzKoLnG4aH2n5rpumUTDAFd5k/nft.jpg",
+  "tokenId": 11,
+  "description": "What do you want to do when you grow up?",
+  "nftContractAddress": "0x5f2e42f34d63eb91ab13974ecb6a911d57d18133",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Chibikko-saurus#11",
+  "attributes": [
+    {
+      "trait_type": "character",
+      "value": "Tyrannosaurus"
+    },
+    {
+      "trait_type": "food",
+      "value": "meat"
+    },
+    {
+      "trait_type": "model",
+      "value": "?"
+    }
+  ]
+}

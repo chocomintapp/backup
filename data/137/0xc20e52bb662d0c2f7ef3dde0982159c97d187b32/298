@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmaw3gQwWoDLz1f74u75sdA19bPLb98AYVRQUZTnoyyqo1/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 298,
+  "chainId": "137",
+  "name": "#298",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Die Walküre",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#211F1F",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Composer",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Richard Wagner",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ],
+  "minted": "✅"
+}

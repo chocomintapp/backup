@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd8trT5p41E2uSvYmXpGPg1XZiEjiopqpocJgsmq4y8FD/nft.jpg",
+  "tokenId": 1,
+  "description": "Mirage Tokyo",
+  "nftContractAddress": "0x148c95b5d3aa64297d72d6d14ab8dcb353802e65",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Mirage"
+}

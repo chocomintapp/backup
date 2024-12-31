@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf38hY7JfB6roZX3p11gttfH19wLwe6Driu5Cq5YcPPbY/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "https://ipfs.io/ipfs/Qmf38hY7JfB6roZX3p11gttfH19wLwe6Driu5Cq5YcPPbY/nft.png",
+  "tokenId": 18,
+  "chainId": "137",
+  "name": "#18 Brown Twin tails",
+  "description": "A cute short twin tail.",
+  "attributes": [
+    {
+      "value": "Hair",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Short Twin tails",
+      "trait_type": "Hair"
+    }
+  ],
+  "minted": "✅"
+}

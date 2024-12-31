@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS83JJL3XsH95tMecg11fPuCp5CBv1kjMRodGtLu8ouyV/nft.png",
+  "tokenId": 1,
+  "description": "This is\"Boomboom Monsters #00\" presented to VIP member yyy.k.\nLet's enjoy it by decorating it in the Metaverse.\n\nVIPメンバーyyy.kにプレゼントされた「BOOMBOOMMONSTERS＃00」です。\nメタバースの部屋に飾ってお楽しみください。",
+  "nftContractAddress": "0xee599883028b43723f6fba579df634e51ef6283a",
+  "animationUrl": "https://ipfs.io/ipfs/QmW4RfhY71eJQidofRXCkNf5RtxRtU5W3jMVAbNCgkZic9/nft.glb",
+  "chainId": "137",
+  "name": "Boomboom Monsters VIP #00",
+  "attributes": [
+    {
+      "trait_type": "skin",
+      "value": "vip pink"
+    },
+    {
+      "trait_type": "eye",
+      "value": "vip red"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "cardboard box"
+    }
+  ]
+}

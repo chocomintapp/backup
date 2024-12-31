@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmekJC4PhSPsC2vvqZ8AGETfALMJK6LEzjbixVyqDgLeys/nft.jpg",
+  "tokenId": 4,
+  "description": "Original work dog",
+  "nftContractAddress": "0xf484afcad7e1b9a92d5ef661dc55624031d71a80",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "dog"
+}

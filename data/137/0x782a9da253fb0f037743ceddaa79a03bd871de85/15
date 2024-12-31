@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTZQB7YLCiyiMC1SZ4r1s51pibdALpBcVp4A3X75sH56R/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "VerySilentFruits#15 Apricot",
+  "description": "",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Apricot",
+      "trait_type": "Fruit"
+    }
+  ]
+}

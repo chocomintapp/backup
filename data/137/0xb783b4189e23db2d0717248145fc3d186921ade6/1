@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQqyUB8URrtxBWP28vaZYrJrM662UXyUE9nLY4RHnZC5r/nft.png",
+  "tokenId": 1,
+  "description": "this is the NFT man",
+  "nftContractAddress": "0xb783b4189e23db2d0717248145fc3d186921ade6",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "THENFT"
+}

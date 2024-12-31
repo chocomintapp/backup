@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNrpgRkAr6thpfEtedX6Wrsy6zHNagC2g1WRs4oWEfoU4/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 107,
+  "chainId": "137",
+  "name": "hakorobo #107",
+  "description": "hakorobo #107 HKS-05",
+  "attributes": [
+    {
+      "value": "HKS",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Leather",
+      "trait_type": "Shoes"
+    }
+  ]
+}

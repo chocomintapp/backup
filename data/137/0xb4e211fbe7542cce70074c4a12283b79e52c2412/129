@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZuyJvauVWyukxkPLfRXsdTGpwuAoBguMYYAbPX3qaqfx/nft.png",
+  "tokenId": 129,
+  "description": "Contemporary art style My crypto medjed",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/QmZuyJvauVWyukxkPLfRXsdTGpwuAoBguMYYAbPX3qaqfx/nft.png",
+  "chainId": "137",
+  "name": "medjed no.129/1000",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRC93sxZYuxkGL6eye4mGSdKwhjFysRFKD438eqTjYH7T/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 237,
+  "chainId": "137",
+  "name": "#237",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#FFD3BC",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#18FF00",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Skull in the back alley",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Skull",
+      "trait_type": "face"
+    },
+    {
+      "value": "Combat readiness",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Indigo tattoo",
+      "trait_type": "special1"
+    },
+    {
+      "value": "Chinese machete",
+      "trait_type": "Accessory1"
+    }
+  ]
+}

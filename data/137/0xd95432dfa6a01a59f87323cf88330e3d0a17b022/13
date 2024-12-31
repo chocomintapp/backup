@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeASdtTRcLEnJx2CBpM4hgWXVeSb4d9DvZpqjt7PkcWMi/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "137",
+  "name": "大吉 Daidy #13",
+  "description": "これは女の子です。笑\n\nThis is a girl.hahaha\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Cute items",
+      "trait_type": "special item"
+    }
+  ]
+}

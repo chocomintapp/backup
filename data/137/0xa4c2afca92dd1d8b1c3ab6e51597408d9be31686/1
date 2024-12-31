@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWWJCWJBiAnq8pTrwhyAiLpS99CVZb2YJL6FeG9wWN21V/nft.jpg",
+  "nftContractAddress": "0xa4c2afca92dd1d8b1c3ab6e51597408d9be31686",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "0800",
+  "description": "日本語\nこの町は荒廃している。\nギャングが町を牛耳り、保安官だってやつらの前では顔色を伺う始末だ。\nあんな幼い子でさえ、亡き母親が遺した借金をやつらに返すために娼婦として働かざるを得ない状況だ。\n\n今日は、見知らぬ客が来ている。\nパッと見は町のゴロツキどもと同じようだが、なぜかこの町に新しい風を吹かせてくれそうな男だ。\n単なる初老の勘だがね。\n",
+  "attributes": [
+    {
+      "value": "いらっしゃい、バーボン・ウイスキー・スコッチ、どれにしますか。",
+      "trait_type": "Bartender"
+    },
+    {
+      "value": "一番高いものを頼むよ。",
+      "trait_type": "Rogue"
+    },
+    {
+      "value": "ポケットが平らだけど、支払いできるんだろうね",
+      "trait_type": "Bartender"
+    },
+    {
+      "value": "この町には、お宝が眠っているんだってな。会計はそれからでも遅くないだろう",
+      "trait_type": "Rogue"
+    },
+    {
+      "value": "あんたも結局あのギャングどもと同じってわけか",
+      "trait_type": "Bartender"
+    },
+    {
+      "value": "「男ならお宝と聞いて黙っている方がおかしいぜ！」「一つ言っておくが、俺をあんな酔いどれどもと同じにしてもらっちゃ困るぜ。」",
+      "trait_type": "Rogue"
+    },
+    {
+      "value": "「一つ言っておくが、俺をあんな酔いどれどもと同じにしてもらっちゃ困るぜ。」",
+      "trait_type": "Rogue"
+    },
+    {
+      "value": "「あんた、大声でそんなことを言ったら…」",
+      "trait_type": "Bartender"
+    },
+    {
+      "value": "#14 へ続く",
+      "trait_type": "To be continued"
+    }
+  ],
+  "minted": "✅"
+}

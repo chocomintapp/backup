@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXiTFW8nBa3WVaopy8UTFTu2JFjJMvY5d3ryVrwT6ve6x/nft.jpeg",
+  "nftContractAddress": "0xc63d41b5da75338657f06099988b8c025150b6df",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "UPA feed",
+  "description": "うぱの餌",
+  "attributes": [],
+  "minted": ""
+}

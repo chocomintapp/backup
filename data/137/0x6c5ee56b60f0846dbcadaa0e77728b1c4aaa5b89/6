@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZadfXTDo3HKv2R7tvuS6rVjquBYGsAvmgjkQ1coxfnP9/nft.png",
+  "nftContractAddress": "0x6c5ee56b60f0846dbcadaa0e77728b1c4aaa5b89",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "Dough Babies",
+  "description": "Dough Baby half dozen set",
+  "attributes": [
+    {
+      "value": "Touch down",
+      "trait_type": "LEVEL"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

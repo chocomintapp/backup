@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ3LdoUAGtmpNca3LRUsu4aJyNg2TcB1zq7PUaiUhBpAt/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 253,
+  "chainId": "137",
+  "name": "#253",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Acrylic",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#8BB7B2",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Rose color",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Rose",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "legs",
+      "trait_type": "legs"
+    }
+  ]
+}

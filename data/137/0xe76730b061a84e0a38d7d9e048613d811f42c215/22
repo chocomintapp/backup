@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcLVDyoohQDqhG83gTMTy1y4xMQ63om9YifYB9X1AK2zM/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "137",
+  "name": "THS #018",
+  "description": "【子】",
+  "attributes": [
+    {
+      "value": "spring",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbsacGCKsbrTZ9dzW75y8UWJgEyw5zjiMW9A5TSUJVKkK/nft.png",
+  "nftContractAddress": "0x2a4961a4abfb884fcd36b597e4044f55455d191f",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "137",
+  "name": "NoisyLongAnimals #16",
+  "description": "Secondary works of VeryLongAnimals",
+  "attributes": [
+    {
+      "value": "Rabbit",
+      "trait_type": "TYPE"
+    }
+  ]
+}

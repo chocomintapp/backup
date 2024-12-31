@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbi8RXnjhoWVfaWD9wEEAjMSn2HE2hJgsXrR1YKiA1Vpm/nft.png",
+  "tokenId": 64,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #64",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Polar Bear"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSCh7NkkNn7fhw5mvSRv8M4hbSqaiV6SJnoooA8guuNiP/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 103,
+  "chainId": "137",
+  "name": "LIVING MINERAL #103",
+  "description": "",
+  "attributes": [
+    {
+      "value": "chick",
+      "trait_type": "gene"
+    },
+    {
+      "value": "uncommon",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "gold",
+      "trait_type": "material"
+    }
+  ]
+}

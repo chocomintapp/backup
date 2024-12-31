@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd8Fv484Mwaq4iw8p6nhhbbd6TeMzYHTnDpQCnC6Fkbhf/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 46,
+  "chainId": "137",
+  "name": "#0043_Niton_CBMR",
+  "description": "#0043_Niton_CBMR",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Dodger Blue",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Hollywood Cerise",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ]
+}

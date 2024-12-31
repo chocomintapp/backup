@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdJDZHvCUfA2eAJfQ9DyWXPrgzCTB88y4YDcBcME53vL7/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 60,
+  "chainId": "137",
+  "name": "Neon #60",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "green hair",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue neon cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "throw neon coin",
+      "trait_type": "hand"
+    },
+    {
+      "value": "smoking",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

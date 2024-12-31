@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRucmWdWXaNGy1CWHxmyUYCQXa8wM7vPVpCj7bufH19CY/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 73,
+  "chainId": "137",
+  "name": "#73 School uniform Sailor suit purple",
+  "description": "The school uniforms of the girls who aim to be Rabbitgirls of their dreams.\n",
+  "attributes": [
+    {
+      "value": "Clothes",
+      "trait_type": "Type"
+    },
+    {
+      "value": "School uniform1",
+      "trait_type": "Clothes"
+    }
+  ],
+  "minted": "✅"
+}

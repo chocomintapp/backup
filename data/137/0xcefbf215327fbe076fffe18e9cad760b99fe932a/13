@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTyXaA6PQnG4kCBYUrrL9xM3wkckFSUwNpRLpkpzMj3W9/nft.jpg",
+  "tokenId": 13,
+  "description": "13/101  \nTaken on Jul 16, 2012  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #13",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "time",
+      "value": "sunset"
+    }
+  ]
+}

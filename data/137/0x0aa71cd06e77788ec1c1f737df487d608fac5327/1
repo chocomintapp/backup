@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmamUcWGExmt2r9VLxxVGM8B2z6cdqWuiR4a67qwCcHGp3/nft.png",
+  "nftContractAddress": "0x0aa71cd06e77788ec1c1f737df487d608fac5327",
+  "animationUrl": "https://ipfs.io/ipfs/QmamUcWGExmt2r9VLxxVGM8B2z6cdqWuiR4a67qwCcHGp3/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Sweet Girl #001",
+  "description": "She's a girl with many sides. Every day she enjoys being different than she was yesterday!",
+  "attributes": [
+    {
+      "value": "Sweet",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Bob",
+      "trait_type": "HAIRSTYLE"
+    },
+    {
+      "value": "Ruby",
+      "trait_type": "HAIR COLOR"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "French Rose",
+      "trait_type": "LIPS"
+    },
+    {
+      "value": "Hoop",
+      "trait_type": "EARRINGS"
+    },
+    {
+      "value": "Dress",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "Smartphone",
+      "trait_type": "ACCESSORY"
+    },
+    {
+      "value": "Medium",
+      "trait_type": "HAIRSTYLE"
+    },
+    {
+      "value": "Floral",
+      "trait_type": "CLOTHING"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRRL86ZzE64MifVxXHGkmoCAko1snhD8ts16NyVxkd8as/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "Working Ganmichan #20",
+  "description": "Ganmichan is the best batter",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "baseball",
+      "trait_type": "situation"
+    }
+  ]
+}

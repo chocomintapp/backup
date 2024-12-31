@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT3vc23BPoDJuCBLfnTPYCUvpAWS5V2AEo2MVZcUQLLb8/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #5",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Bear",
+      "trait_type": "TYPE"
+    }
+  ]
+}

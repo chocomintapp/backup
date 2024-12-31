@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVh7fusBWHMrvZkuUoW6YA2dHxdXNRmDtpi5QSbcbFyia/nft.PNG",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimals #33",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Duck",
+      "trait_type": "TYPE"
+    }
+  ]
+}

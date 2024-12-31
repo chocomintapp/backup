@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma8Wf2uiBjGKpKLu1uQTdFkSTnt69eKNo8BVxoBCHHzcu/nft.png",
+  "nftContractAddress": "0xddc46e20be0ea8a3f6f3de5d54a155f3215b9ac1",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "multi send erc721 test",
+  "description": "",
+  "attributes": []
+}

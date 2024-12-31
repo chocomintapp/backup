@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZsiGPGySyCxTgAVwAcaZAuJYLWj36935sveTGcYRqpRd/nft.png",
+  "tokenId": 1,
+  "description": "bong man is very healthy!",
+  "nftContractAddress": "0xedee34981232273e52ffc6b0767ca521dd55e0e7",
+  "animationUrl": "https://ipfs.io/ipfs/QmUCfWuBiacjbhnnWGwmumkYYcZ8V2eQHJ6BEm3TSPgQdz/nft.MOV",
+  "chainId": "137",
+  "name": "bong man",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

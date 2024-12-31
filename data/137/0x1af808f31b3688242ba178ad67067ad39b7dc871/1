@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfGbD7Bdvp8iETmXrdVwirQzX5j9WHgYbJtMEsNLaSwBo/nft.png",
+  "tokenId": 1,
+  "description": "noraneko",
+  "nftContractAddress": "0x1af808f31b3688242ba178ad67067ad39b7dc871",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "neko",
+  "attributes": [],
+  "minted": ""
+}

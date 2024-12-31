@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZkLBdP2WzVSHk8RoqkYE5ASucfdgbmQcxHjCLed23T6c/nft.gif",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 124,
+  "chainId": "137",
+  "name": "Day56 Umitsuru's Art",
+  "description": "I believe that cabbage is the main ingredient in \"okonomiyaki\".\n\nお好み焼きはキャベツが主役だと思っている。",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

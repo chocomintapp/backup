@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNZWT3wT5YiMPVtEKctepufg9HPRnXLnn9UErAWqpYg8b/nft.png",
+  "nftContractAddress": "0x92fb2e0277235b3f023ec72752ebfa97e7a483e7",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "daGALPAN#0014",
+  "description": "YO...I AM PANDA !\nGIRLS LIKE TO RIDE ON MY BACK !\nI AM HAPPY WITH THAT ,TOO !!!",
+  "attributes": [
+    {
+      "value": "bikini",
+      "trait_type": "costume"
+    },
+    {
+      "value": "daGALPAN",
+      "trait_type": "bg"
+    },
+    {
+      "value": "gray",
+      "trait_type": "hair"
+    },
+    {
+      "value": "blue",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "normal",
+      "trait_type": "panda"
+    }
+  ]
+}

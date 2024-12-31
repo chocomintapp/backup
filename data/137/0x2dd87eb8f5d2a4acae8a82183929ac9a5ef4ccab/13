@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU2p6zQ9PGXJBn4Xqps4QuSgy4L5mFVj3u4YwPtHNwsF2/nft.png",
+  "tokenId": 13,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n1月27日\n\nリモートワークのいいトコロは、仕事をしながら好きな音楽を聴きながら仕事ができる事だな…と感じている「ねじねじドーナツ部長」です。今日は、夕方に再放送をしていたドラマがあまりにも面白かったので、今更ながらにハマってしまいました。仕事が終わると、早速同じような服に着替えて、通販で買ったストレッチ器具を引っ張り出してみました。ヨイショ！ヨイショ！と上機嫌に動いていた、その時。「え…今さら…なの？」と、奥さんに少しだけ突き放されてしまう、部長なのでした。\n\nJan 27\n\nThe great thing about working remotely is that you can listen to your favorite music while you work... I'm \"Director Screwdriver Donut\" and I'm feeling it. Today, he got hooked on a drama that was replaying in the evening because it was so interesting. As soon as he got off work, he changed into similar clothes and pulled out the stretching equipment he bought by mail order. He yoi! Yoisho! I was in a good mood. What...now...is it too late?\" He was a little thrown off by his wife.",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #026 Jan.27",
+  "attributes": [
+    {
+      "trait_type": "JEANS",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "KNIT CAP",
+      "value": "Black"
+    },
+    {
+      "trait_type": "NYLON JACKET",
+      "value": "Khaki"
+    },
+    {
+      "trait_type": "SHIRT",
+      "value": "Camouflage"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Black"
+    }
+  ]
+}

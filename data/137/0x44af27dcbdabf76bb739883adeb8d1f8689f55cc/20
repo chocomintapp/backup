@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYtuWgUw6USedorFpLRYuHejQZnGR3x1Bm1hFxkeK6Kcq/nft.jpeg",
+  "tokenId": 20,
+  "description": "multiple composite photo",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "multiple composite photo",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "photo",
+      "value": ""
+    }
+  ]
+}

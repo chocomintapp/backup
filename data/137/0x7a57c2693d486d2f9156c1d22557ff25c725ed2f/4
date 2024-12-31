@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPtmbawd9fRCB4Rc6yERxpoEJL2z1WE3SVqWytb6SaHqi/nft.jpg",
+  "tokenId": 4,
+  "description": "This is sample",
+  "nftContractAddress": "0x7a57c2693d486d2f9156c1d22557ff25c725ed2f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "mono1",
+  "attributes": [
+    {
+      "trait_type": "sex",
+      "value": "female"
+    }
+  ]
+}

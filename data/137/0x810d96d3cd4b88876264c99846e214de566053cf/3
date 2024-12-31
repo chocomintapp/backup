@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS5Uyk6Riq6ACEEbF1SV82E6pnbGUVSymmSMnrKDB1KeL/nft.png",
+  "tokenId": 3,
+  "description": "Luke's LINE Digital Art NFT",
+  "nftContractAddress": "0x810d96d3cd4b88876264c99846e214de566053cf",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "kindergarten"
+}

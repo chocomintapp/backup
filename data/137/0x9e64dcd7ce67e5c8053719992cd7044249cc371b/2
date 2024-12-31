@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmThaU27PE7PFNCDGvViWSDyozvasVw7jTQUpVJwzEqN1P/nft.png",
+  "tokenId": 2,
+  "description": "The souvenir of collaboration with PolygonJapan. Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals × PolygonJapan",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Polygon"
+    }
+  ]
+}

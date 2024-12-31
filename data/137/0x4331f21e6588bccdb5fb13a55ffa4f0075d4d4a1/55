@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcqSGsKj9TBnEbd7g8NmWnvkMRAmGo3vVqkQUhc2u6yHx/nft.png",
+  "tokenId": 55,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**MUSASHI 1944**  \nThis silhouette is battleship Iowa in 1944.\n\nIt is the second ship of the world's largest battleship, the Yamato. It was also the last battleship built by Japan.\n\nIt had a drainage capacity of over 70,000 tons, and its 46cm gun boasted a range of 41km. Its power was so great that it could punch through a 43cm armor plate from a distance of 30km.\n\nIn the Battle of the Sibuyan Sea, Musashi suffered unimaginable damage from 20 torpedoes and 17 bombs, but even so, she did not sink immediately.\n\n**戦艦 武蔵 1944**  \n世界最大の戦艦「大和」の2番艦であり、日本が建造した最後の戦艦でもあります。\n\n排水量が7万トンを超える巨体から放たれる46cm砲弾は、射程距離41kmを誇りました。その威力は凄まじく、30kmの距離から43cmの装甲板を打ち抜くことができました。\n\nシブヤン海海戦で魚雷20本、爆弾17発という想像を絶する損害を受けましたが、それでも「武蔵」はすぐには沈まず、微速前進を続けたと言われます。\n\nこのNFTは1944年頃の武蔵のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0055 MUSASHI 1944",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Battleship"
+    }
+  ]
+}

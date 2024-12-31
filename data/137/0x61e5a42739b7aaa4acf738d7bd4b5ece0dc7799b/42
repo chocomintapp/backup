@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW9TSzLja5BF63QSLshYTSHjGYVvWpCDgrLo1BCtjUEdT/nft.jpeg",
+  "tokenId": 42,
+  "description": "Creator [PUNIKO](https://opensea.io/puniko.eth?tab=created_collections)\n\n明けましておめでとうございます🌅  \n今年も良い一年になりますように🦈💕",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "大吉 #9",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "大吉"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "PUNIKO"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Opened"
+    }
+  ]
+}

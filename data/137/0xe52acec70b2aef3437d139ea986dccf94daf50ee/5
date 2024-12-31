@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ3Np4NQPjWnfKFuTCsy3yeQMbiaVHD3rEsxrmrTV26bm/nft.PNG",
+  "nftContractAddress": "0xe52acec70b2aef3437d139ea986dccf94daf50ee",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "VeryNisemonoAnimal #3",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Cat",
+      "trait_type": "TYPE"
+    }
+  ]
+}

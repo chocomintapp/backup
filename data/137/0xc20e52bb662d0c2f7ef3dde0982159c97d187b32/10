@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUHgPGBYw8oJK66mAwGkqt8jMn46QSKKMMBEypUmWMNpc/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "#10",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Immature lemon",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#4852FF",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Cryptocurrency",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "MATIC",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

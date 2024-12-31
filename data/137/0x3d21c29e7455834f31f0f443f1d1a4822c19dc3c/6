@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS2HZDfyuHC8n6gTapJkEwnWeoC2mPvKVrHjHFSrqLc7n/nft.png",
+  "nftContractAddress": "0x3d21c29e7455834f31f0f443f1d1a4822c19dc3c",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "DeadCopyAnimals#6",
+  "description": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Tigar"
+    }
+  ],
+  "minted": ""
+}

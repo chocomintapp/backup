@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQG8nBB7geKXwXWNkmYj3LutvkyiU74qEGviDasD9Fjh6/nft.jpg",
+  "nftContractAddress": "0xacb3eb4ed5ed232aac5148663654cc3bcf13e1d9",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "We Can Talk Again",
+  "description": "「またお話しよう」で続く日々を想って  \nI believe our days go on. Because we can tell each other, \"we can talk again.”  \n  \n  \n「あなた」は、どうかな？  \nあなたはどこまで僕のことを知るつもりがあるの？  \n目を見て、名前を呼ばれて、嫌じゃない？  \nあなたも、僕たちと話をしてみない？  \n\nWhat do “you” think?  \nHow much do you want to know about me? Or maybe you don't.  \nDon't you hate it when I look you in the eye and call your name?  \nWould you like to talk with “us”?  ",
+  "attributes": [
+    {
+      "value": "notsunao70",
+      "trait_type": "Artist"
+    },
+    {
+      "value": "JPG",
+      "trait_type": "Format"
+    },
+    {
+      "value": "3000",
+      "trait_type": "Height"
+    },
+    {
+      "value": "3000",
+      "trait_type": "Width"
+    }
+  ]
+}

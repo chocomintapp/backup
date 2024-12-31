@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR98su4Sj6FEQHXyG4U8bTnjJdSX6jz76c1YD3QnbKdvB/nft.jpg",
+  "nftContractAddress": "0x4bcda19360363a0763b621b1832597a5c1a44f08",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "test",
+  "description": "test",
+  "attributes": [
+    {
+      "value": "female",
+      "trait_type": "character"
+    },
+    {
+      "value": "Yuki",
+      "trait_type": "name"
+    }
+  ]
+}

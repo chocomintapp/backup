@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbiMW2JKiAZqVQLzXy4jVw37pPbdRzF4hei95SsuBhFXJ/nft.PNG",
+  "tokenId": 2,
+  "description": "A precious scene of spawning.",
+  "nftContractAddress": "0xc101a3685be26c91dd9b41778addb085af6820f1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "omi",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Greed",
+      "value": "40"
+    },
+    {
+      "trait_type": "Wrath",
+      "value": "20"
+    },
+    {
+      "trait_type": "Gluttony",
+      "value": "20"
+    }
+  ]
+}

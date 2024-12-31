@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcYJNC7KgspwRAZk9N7hAgz1j9MQQykNzMabud79LR8sm/nft.png",
+  "nftContractAddress": "0x9cabe85905b53fe6a60ae8a98d27959794e14b84",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "azuki girl",
+  "description": "azuki girl",
+  "attributes": []
+}

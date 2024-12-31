@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXpJf64zbnuRvbmRVGsfKBNNVp3d68kp9Qvkpk4xuCduF/nft.png",
+  "tokenId": 43,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**P-51D Mustang**  \nMaximum speed of 703km/h!\n\nIn terms of high-altitude performance, turning performance, firepower, and defense, it is an extremely capable aircraft that is considered to be a masterpiece of reciprocating fighters.\n\nOriginally, the Royal Air Force ordered this aircraft from North American. It was produced in an astonishingly short period of only 120 days, but its high-altitude performance was remarkably low, so when it was replaced with the British Rolls Royce Merlin engine, it achieved ultimate high performance.\nThis D-type became the final and definitive version of the invincible P-51 fighter, which could be described as a collaboration between the United States and Britain.\n\nWith dorsal fins that improved straight-line stability. Silhouette.\n\n**P-51D マスタング**  \n最高速度は703km/h！\n高高度性能、旋回性能、火力、防御力、全てにおいて\nレシプロ戦闘機の最高傑作と言われる極めて優秀な機体です。\n\nもともとは英空軍がノースアメリカン社に発注した機体で\nたったの120日という驚異の短期間で制作されましたが\n高高度性能が著しく低かったことから、イギリス製の\nロールスロイス・マーリンエンジンに換装したところ\n異次元なまでの高性能を発揮するようになりました。\n\n米英の合作とも言える無敵の戦闘機P-51の\n最終決定版となったのがこのD型です。\n\n直進安定性を改善したドーサルフィン付きのシルエットです。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0043 P-51D Mustang",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Fighter"
+    }
+  ],
+  "minted": "✅"
+}

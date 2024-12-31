@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbDR5gx9fCQW4BBrvX548coLuqioGRdrcJHSYm7mqK3kM/nft.jpg",
+  "nftContractAddress": "0x9f58c59d3c94cb99d6ff750b73ddae2a77f47ea8",
+  "animationUrl": "https://ipfs.io/ipfs/QmemvrfHcPibHGgGHh66tkfR5SQERF3bu888Gw8iPjAPEW/nft.gif",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "test",
+  "description": "testing",
+  "attributes": [
+    {
+      "value": "50000",
+      "trait_type": "Crazy"
+    },
+    {
+      "value": "10",
+      "trait_type": "WUT"
+    },
+    {
+      "value": "750",
+      "trait_type": "Cool Beans "
+    },
+    {
+      "value": "infinite",
+      "trait_type": "Swag"
+    }
+  ]
+}

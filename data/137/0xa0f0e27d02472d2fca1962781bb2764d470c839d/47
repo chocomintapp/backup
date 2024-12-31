@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPo1fVobMXdMcopb8VMk3HBjkqWsw1Kpeux3xp25jaJnf/nft.png",
+  "tokenId": 47,
+  "description": "マフラー似合う？\n\nDo I look good with a scarf?",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "French Bulldog with a scarf",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "French Bulldog"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

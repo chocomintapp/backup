@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP4RKptjcsmAsAq9CZQXVH1afVcNZEobHeSHyvx2dnKg9/nft.png",
+  "nftContractAddress": "0xe00a460acb4e90ad515da7f708e43363a116aeb7",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Soft serve ice cream #5",
+  "description": "Piyoko's soft serve ice cream shop\n\nぴよこのソフトクリーム屋さん",
+  "attributes": [
+    {
+      "value": "stripe",
+      "trait_type": "background"
+    },
+    {
+      "value": "Soft serve ice cream",
+      "trait_type": "item"
+    }
+  ]
+}

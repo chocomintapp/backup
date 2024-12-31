@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdRi6CbQ74ETvF16EEg2WqLDpqXjpGNyr5V3g7P4kjZfo/nft.png",
+  "tokenId": 7,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TYPE1 model 11**  \nThis is a medium-sized land attack aircraft developed by the Imperial Japanese Navy.  \nIt had a long cruising range, and achieved great results in the early stages of the Pacific War, including the Battle of Malaya, in which aircraft sank a battleship during an operation for the first time in the world.\n\nThe Model 11, which was the first mass-produced model, was a very excellent aircraft even by the world standards of the time.\nIt was a very excellent aircraft, and for a while after the war began\nFor a while after the outbreak of the war, it reigned at the center of the IJN ground base air force.\n\n**一式陸上攻撃機 11型**  \n日本海軍が開発した驚異的な航続力を持つ中型陸上攻撃機です。\n世界で初めて作戦行動中の戦艦を航空機が撃沈した「マレー沖海戦」など、太平洋戦争序盤に大きな戦果を上げました。\n\n最初の量産型となった一一型は当時の世界水準から見ても\n非常に優秀な機体であり、開戦からしばらくは海軍陸上基地航空隊の中心に君臨していました。\n",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0007 TYPE1 model 11",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Attacker"
+    }
+  ]
+}

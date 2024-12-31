@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYTxRAD9K153d3kn5oNnVi4hubdE1MtrmyPHLJSpxhazy/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 646,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #646",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Sea Otter",
+      "trait_type": "TYPE"
+    }
+  ]
+}

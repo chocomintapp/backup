@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUzhAj1mL3XQNVWmdjvVecSGGwUgCzDYkfnCTeVqYaNWg/nft.jpg",
+  "tokenId": 80,
+  "description": "80/101  \nTaken on Aug 25, 2019  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #80",
+  "attributes": [
+    {
+      "trait_type": "weather",
+      "value": "clear"
+    }
+  ]
+}

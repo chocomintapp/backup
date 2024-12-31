@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYzUrU33xpQtNcpMYB9rLbwuY1Q891jZbwGj37fYYKkkn/nft.png",
+  "tokenId": 66,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**ISOKAZE 1944**  \nThis silhouette is destroyer ISOKAZE in 1944.\n\nThis is the 12th ship of the Kagero class.  \nSortie to all major naval battles, along with \"Yukikaze\" and \"Amatsukaze\" It is a ship of merit that continued to fight until the end of the Pacific War.\n\nIt is a ship that also had a lot of damage just to be active in the front line In the K-go operation, she took two direct hits and damaged the rudder.\n\nIn addition, while suffering fatal damage to the bow to the extent that a large wreck opening Rear Admiral Nagumo was surprised to return to port alone.\n\n**駆逐艦 磯風 1944**  \n陽炎型の12番艦です。  \n主要な海戦全てに出撃し「雪風」や「天津風」と共に¥太平洋戦争末期まで闘い続けた殊勲艦です。\n\n最前線で活躍しただけに損害も多かった艦ですが、ケ号作戦では直撃弾を2発喰らい、舵を損傷。\n艦首にも大破口が出来る程の致命的なダメージを負いつつも単艦で帰港して南雲中将を驚かせました。\n\nこのNFTは1944年頃の磯風のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0066 ISOKAZE 1944",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Destroyer"
+    }
+  ]
+}

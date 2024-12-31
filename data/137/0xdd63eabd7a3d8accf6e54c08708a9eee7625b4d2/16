@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ3zXDeGqSddGPsCAKZzAK8QBw7344aoLSmfcEooedk1u/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "137",
+  "name": "LIVING MINERAL #16",
+  "description": "",
+  "attributes": [
+    {
+      "value": "hare",
+      "trait_type": "gene"
+    },
+    {
+      "value": "common",
+      "trait_type": "rarity"
+    },
+    {
+      "value": "stone",
+      "trait_type": "material"
+    }
+  ]
+}

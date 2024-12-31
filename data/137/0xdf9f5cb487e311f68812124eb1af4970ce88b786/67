@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWdYQmY7PMXJeb9N8bgTKAdinMorRW3zxUaHVNnmJBLeX/nft.jpg",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 67,
+  "chainId": "137",
+  "name": "Ganmichan's hanami",
+  "description": "",
+  "attributes": [
+    {
+      "value": "special",
+      "trait_type": "series"
+    },
+    {
+      "value": "hanami",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

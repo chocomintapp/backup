@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdWEBub2Vz8cESxkwJEuWhb7EwNRFTG4adErit1o8z3uR/nft.gif",
+  "tokenId": 7,
+  "description": "",
+  "nftContractAddress": "0xa38f30ee1089b44c5421d393f7986d4a8f90268e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Dooms",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Black Fedora"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Rx"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Knight"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dooms"
+    }
+  ]
+}

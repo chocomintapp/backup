@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdhsxk7BZpYyJ8VJ36uBCoYpV5AFDo8sWyuGDMCZFF8Jz/nft.png",
+  "nftContractAddress": "0xbaf31e2889e0582a29bbdd6a6258e43c14d6f364",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "Ostrich Baby",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Ostrich",
+      "trait_type": "TYPE"
+    }
+  ]
+}

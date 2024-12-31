@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQv9ZmdgxPr2UyDqkVWatCznYPco9fQA5QZVhsNM8prT7/nft.mp4",
+  "tokenId": 2,
+  "description": "サムネイルも動画です",
+  "nftContractAddress": "0x1e5bdb9cde1f9fb3361824c730015f8ba61654ff",
+  "animationUrl": "https://ipfs.io/ipfs/QmaxBsgqJ9kJmH8Ggufe6T48E9FrnT3ZNsosU2VMC12mDg/nft.mp4",
+  "chainId": "137",
+  "name": "動画＋動画"
+}

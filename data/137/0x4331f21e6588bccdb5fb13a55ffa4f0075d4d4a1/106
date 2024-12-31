@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVpjhFmWYuB12uMEiKg4KBnpd9ubXZKkVoTsZGW1CFytJ/nft.png",
+  "tokenId": 106,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SEMOVENTE M40**  \nSaid to have been inspired by the German StuG III. It is the Italian version of the assault gun.\n\nWith its well-balanced design and long-awaited 75mm gun As one of the few Italian military weapons that can demonstrate power in anti-tank combat It was active on the North African front.\n\n**セモヴェンテ M40**  \nドイツのIII号突撃砲に影響を受けたと言われるイタリア版突撃砲です。\n\nバランスの良い設計と待望の75mm砲により対戦車戦闘で威力を発揮する数少ないイタリア軍兵器として北アフリカ戦線で活躍しました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0106 SEMOVENTE M40",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Italy"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

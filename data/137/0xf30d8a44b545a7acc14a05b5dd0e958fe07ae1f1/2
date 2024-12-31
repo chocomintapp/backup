@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUo8GB5Hp2sLtPa1sWgaDZ4121rt3VpL7v2xvLzCXVsBU/nft.png",
+  "nftContractAddress": "0xf30d8a44b545a7acc14a05b5dd0e958fe07ae1f1",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "PPP #002",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Regular",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Bun BR",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Kimono",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Hair ornaments",
+      "trait_type": "Accessories"
+    }
+  ]
+}

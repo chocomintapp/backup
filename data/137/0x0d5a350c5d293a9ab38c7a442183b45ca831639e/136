@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUd1iaQBYUMY291ukqdHyzmqNpQ9Ptfv59S2kEBL8Rvp9/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 136,
+  "chainId": "137",
+  "name": "2022/7/30 Syu's Art",
+  "description": "今日は爺ちゃんの家に遊びにいくぞ。\n\nI'm going to visit my grandpa today.",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

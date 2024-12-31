@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ7pL2jdySfpfPuSR1Fjvg6rKeAzNkJ7sZSzwRQ7Yo8VZ/nft.png",
+  "nftContractAddress": "0x138e1e396d42f8b116ce7bc6c233ddbd36584086",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "137",
+  "name": "akubi",
+  "description": "yawn",
+  "attributes": []
+}

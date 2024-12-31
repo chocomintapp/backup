@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmecRFHNmZCK8pN4NLZn4GezC2GWcPDYgTZE49hSAVXMok/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmecRFHNmZCK8pN4NLZn4GezC2GWcPDYgTZE49hSAVXMok/nft.mp4",
+  "tokenId": 926,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1025",
+  "description": "わざわざDAOっぽくしてる状態\nわざわざスマコン絡めていきたい",
+  "attributes": [
+    {
+      "value": "aj8",
+      "trait_type": "M"
+    },
+    {
+      "value": "Bプルート",
+      "trait_type": "押韻職人"
+    },
+    {
+      "value": "禅",
+      "trait_type": "BG"
+    }
+  ]
+}

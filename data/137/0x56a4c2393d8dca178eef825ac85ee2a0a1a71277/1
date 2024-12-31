@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcbA1TjC7uECknGQBrZAmAUKDA2r9qUB9eukFb156Mwkd/nft.png",
+  "tokenId": 1,
+  "description": "Doodle",
+  "nftContractAddress": "0x56a4c2393d8dca178eef825ac85ee2a0a1a71277",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Caw Robot Rock n Roll",
+  "attributes": [],
+  "minted": ""
+}

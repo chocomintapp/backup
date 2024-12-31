@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRLqryE3sFaQ7uQrmxiHVYR165X7pxsrMoToymWvLjidx/nft.png",
+  "nftContractAddress": "0xbb59f317eed1c063ff01749eb6fe8d1a1d349dd4",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "Bad Ape 3D #14",
+  "description": "Genesis of BoredApeYachtClub",
+  "attributes": [
+    {
+      "value": "blue-gray",
+      "trait_type": "background"
+    },
+    {
+      "value": "smoking cigarette",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "bad ape",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "soft black",
+      "trait_type": "skin "
+    }
+  ]
+}

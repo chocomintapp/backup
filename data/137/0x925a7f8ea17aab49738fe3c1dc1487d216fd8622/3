@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPYtXtRYch5DJMTdGSW967a8BDirGhpzQ8x9YhynMoAML/nft.png",
+  "tokenId": 3,
+  "description": "ちょっと使い方わかんない気持ちを描きました。",
+  "nftContractAddress": "0x925a7f8ea17aab49738fe3c1dc1487d216fd8622",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sappari"
+}

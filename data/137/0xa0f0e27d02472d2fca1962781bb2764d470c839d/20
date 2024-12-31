@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTsCsarLTXqHPQ4sRfw3u4MtAtXtNJ6Fno1xHvC44svEW/nft.png",
+  "tokenId": 20,
+  "description": "笑った顔が見たい？ 知るか。\n\nDo you want to see the smile on my face?  I don't know.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Snowy Owl",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Owl"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

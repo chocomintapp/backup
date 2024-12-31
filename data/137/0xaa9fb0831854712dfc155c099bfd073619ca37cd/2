@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRdWA91xFUiwGoRT7wgeKXu4U9XA1jCxKJ4Q7b8vYMFv7/nft.jpeg",
+  "nftContractAddress": "0xaa9fb0831854712dfc155c099bfd073619ca37cd",
+  "animationUrl": "https://ipfs.io/ipfs/QmQvHVVYFbxBYEjbzuGtDVaYjfLw9rizdf9uRXf9YV8t9f/nft.mp4",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "MILLIN-ARTE",
+  "description": "SOLO ES ARTE POR EL PROYECTO ",
+  "attributes": [
+    {
+      "value": "FONDO",
+      "trait_type": "BLANCO "
+    },
+    {
+      "value": "OJOS",
+      "trait_type": "ROJO "
+    },
+    {
+      "value": "MOLDE ",
+      "trait_type": "NEGRO"
+    },
+    {
+      "value": "RASGOS",
+      "trait_type": "CAFE"
+    },
+    {
+      "value": "RASGOS",
+      "trait_type": "TOMATE "
+    },
+    {
+      "value": "RASGOS",
+      "trait_type": "ANARAJADO "
+    },
+    {
+      "value": "RASGOS",
+      "trait_type": "PIEL "
+    },
+    {
+      "value": "RASGOS",
+      "trait_type": "AMARILLO"
+    },
+    {
+      "value": "RASGOS",
+      "trait_type": "ROJO OSCURO "
+    },
+    {
+      "value": "ARTE ABS",
+      "trait_type": "3D "
+    }
+  ],
+  "minted": ""
+}

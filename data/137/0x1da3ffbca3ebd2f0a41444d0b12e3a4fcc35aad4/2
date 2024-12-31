@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeU1KCqr8X3B5N3A3cHSjtn7NX8ikL5MwsJS6q8fbXfPu/nft.jpeg",
+  "tokenId": 2,
+  "description": "Pictures of special rocks",
+  "nftContractAddress": "0x1da3ffbca3ebd2f0a41444d0b12e3a4fcc35aad4",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Rock picture #0002"
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma3LAMmjjNiaiKNZJhtjJLyn8PxjU573aCdRoaE3n4FJL/nft.png",
+  "nftContractAddress": "0x173ea89cdd07eb25ec527d488128c6dc69cd2388",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "NFT_ink_dress",
+  "description": "NFT_ink_dress_#04",
+  "attributes": [],
+  "minted": ""
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYXvPZmwNXTf2dX94PmPw7TVoPJqwuLYFqptwoxFBTb4o/nft.png",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "https://ipfs.io/ipfs/QmXZJiXg9mvDZiX3RXrdFmNHPmAJu4i8nMS31onQQEshAe/nft.png",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "#10 CRYPPL - Magus Wazir of the Mount #6287",
+  "description": "Hello Magus Wazir of the Mount\n",
+  "attributes": [
+    {
+      "value": "6287",
+      "trait_type": "FRWC_ID"
+    }
+  ]
+}

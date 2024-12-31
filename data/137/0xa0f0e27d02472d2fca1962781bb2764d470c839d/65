@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR8S9qaDnJBAmyupQXoVJL94Hxnh1UmpDtAK5tHkVgBRW/nft.png",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "tokenId": 65,
+  "chainId": "137",
+  "name": "角煮マン（Manjuu with stewed pork cubes）",
+  "description": "I aim to be the mascot character of Nagasaki Prefecture.\n\n長崎県のマスコットキャラクターを目指してます。",
+  "attributes": [
+    {
+      "value": "Manjuu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "DNA"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme2i6MJpe4d2FnpaDMGR3A3zZQfe7BxFqVBdj3cpEv2ao/nft.png",
+  "nftContractAddress": "0x54c5e0b104adb8765a54d094a7d68c1d5701de4f",
+  "animationUrl": "",
+  "tokenId": 51,
+  "chainId": "137",
+  "name": "#12 - 3",
+  "description": "This icon was created from a comic.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Gilbert",
+      "trait_type": "Cast"
+    }
+  ]
+}

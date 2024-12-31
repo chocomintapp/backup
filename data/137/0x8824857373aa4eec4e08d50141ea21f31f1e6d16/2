@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUAr6E1ki2xBzNS8y2ejms8Aw5ifdehp9iZvUUDkV958F/nft.jpg",
+  "nftContractAddress": "0x8824857373aa4eec4e08d50141ea21f31f1e6d16",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "meal",
+  "description": "gold",
+  "attributes": [],
+  "minted": ""
+}

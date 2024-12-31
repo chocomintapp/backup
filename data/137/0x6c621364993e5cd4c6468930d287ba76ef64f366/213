@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdLSRUqJi7h6SHx6cdUxfJr8E5JhXcJBCeoTRc2VsCFKq/nft.gif",
+  "tokenId": 213,
+  "description": "CryptoGoro #Day213\n\n29/JAN/2022\n\nWorld famous modern artist Mr.Goro makes his self-portrait every day. Each NFG(Non-Fungible Goro) mint only one. This project will continue until his death. Let’s collect your own Goros!!\n\n1787 days before death.",
+  "nftContractAddress": "0x6c621364993e5cd4c6468930d287ba76ef64f366",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "CryptoGoro #Day213",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "RACE",
+      "value": "MIZUSHIMA GORO"
+    },
+    {
+      "trait_type": "POPULARITY",
+      "value": "Very Famous"
+    }
+  ]
+}

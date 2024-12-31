@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaUL55MorpQfxQA5j8pQ3QwH6kCvKmHiSUaM9HR9baEHZ/nft.png",
+  "nftContractAddress": "0x0aa71cd06e77788ec1c1f737df487d608fac5327",
+  "animationUrl": "https://ipfs.io/ipfs/QmaUL55MorpQfxQA5j8pQ3QwH6kCvKmHiSUaM9HR9baEHZ/nft.png",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Story Girl #002",
+  "description": "What if I could transform myself into a character in a story?\n\nToday, I'm a dreamy redhead girl!",
+  "attributes": [
+    {
+      "value": "Story",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Braid",
+      "trait_type": "HAIRSTYLE"
+    },
+    {
+      "value": "Long",
+      "trait_type": "HAIRSTYLE"
+    },
+    {
+      "value": "Redhead",
+      "trait_type": "HAIR COLOR"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Coral Pink",
+      "trait_type": "LIPS"
+    },
+    {
+      "value": "Dress",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "Pinafore",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "Book",
+      "trait_type": "ACCESSORY"
+    }
+  ]
+}

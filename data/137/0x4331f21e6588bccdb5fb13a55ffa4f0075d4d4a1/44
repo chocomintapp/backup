@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRCmGoB563wNBsmkZDam8Ft1C8BkVryzx6yhdmj2ChKhY/nft.png",
+  "tokenId": 44,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**T34-76**  \nIt is the masterpiece tank of the Soviet Union.\nIt outdid its contemporaries in attack, defense, mobility, and production.\n\nIt had a great balance of high defense due to its innovative shape, a powerful 76mm gun, a fuel-efficient diesel engine, and an excellent suspension that supported its high speed.  \nAlthough it had some minor shortcomings, it boasted performance that more than made up for it.\n\n**T34-76 中戦車**  \n攻撃・防御・機動力・生産製、全てにおいて\n同世代の戦車を時代遅れにしてしまったソ連の傑作戦車です。\n\n避弾経始を考慮した斬新な形状による高い防御力や\n強力な76mm砲、燃費のいいディーゼルエンジンに\n快速を支える優秀なサスペンションなどなど\n細かな欠点を補って余りある性能を誇りました。\n",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0044 T34-76",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Soviet"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ],
+  "minted": "✅"
+}

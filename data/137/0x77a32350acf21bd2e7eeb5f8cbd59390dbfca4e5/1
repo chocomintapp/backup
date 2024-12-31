@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWe6xtk7oXYJBGPdiW9KAf2QfHrwsXthZJDZVPSWjRFxo/nft.png",
+  "tokenId": 1,
+  "description": "tt",
+  "nftContractAddress": "0x77a32350acf21bd2e7eeb5f8cbd59390dbfca4e5",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "tetst",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

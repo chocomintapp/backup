@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU2ZsxJWZwb937uCGXSRj4TGLRm58saZ7M25CZUDY3JSB/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "Neon #10",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon boy",
+      "trait_type": "character"
+    },
+    {
+      "value": "green hat",
+      "trait_type": "hair"
+    },
+    {
+      "value": "yellow-blue cloth",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "katana",
+      "trait_type": "hand"
+    },
+    {
+      "value": "proud",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

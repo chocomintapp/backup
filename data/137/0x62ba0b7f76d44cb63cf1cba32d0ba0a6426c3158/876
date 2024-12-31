@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd2dsQbxHNR5Sc1qvk34tBdyW85gFz3xdnQtMjBgvmh8J/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 876,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #876",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Earthworm",
+      "trait_type": "TYPE"
+    }
+  ]
+}

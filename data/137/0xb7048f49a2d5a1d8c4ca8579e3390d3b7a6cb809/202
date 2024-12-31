@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYz2SHhGrdA8heE9trvC1qzTZfLNMTtoyXYiMi7sCFYpu/nft.png",
+  "nftContractAddress": "0xb7048f49a2d5a1d8c4ca8579e3390d3b7a6cb809",
+  "animationUrl": "",
+  "tokenId": 202,
+  "chainId": "137",
+  "name": "Pocket Rabbit #202　『めあ』",
+  "description": "RabbitGirls #25 『めあ』\n\nGirl in the hood.",
+  "attributes": [
+    {
+      "value": "Mea",
+      "trait_type": "Character"
+    },
+    {
+      "value": "RabbitGirls",
+      "trait_type": "Rare"
+    }
+  ],
+  "minted": "✅"
+}

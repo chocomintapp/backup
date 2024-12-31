@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcB1rvUdXGKazRYdySuHBpivRxK2c2QLkP5eiWtEgphrU/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 74,
+  "chainId": "137",
+  "name": "Day31 Nana's Art #92",
+  "description": "お風呂のお湯を飲むのがマイブーム。パパには怒られるけど。\n\nDrinking bath water is my boom. My dad gets mad at me, though.",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

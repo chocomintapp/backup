@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmavhVtQAFS1ouE5q1xHU1kk939wqt4hBccZLceGjinqvP/nft.png",
+  "tokenId": 2,
+  "description": "This is a mosaic art with 10 clors selected from 26 clors randomly arranged.",
+  "nftContractAddress": "0xfd261d2c86a254f028f11aae99d5a404719fac22",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "MosaicBlocks #2",
+  "minted": ""
+}

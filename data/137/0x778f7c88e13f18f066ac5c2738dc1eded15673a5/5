@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmREDE3sDvd6mhFnJQe3yALnTWHAJx17oganyBbu5SBEdW/nft.png",
+  "nftContractAddress": "0x778f7c88e13f18f066ac5c2738dc1eded15673a5",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "Yui",
+  "description": "Ambitious One City Special Edition for dgift",
+  "attributes": [
+    {
+      "value": "SMILE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "CYBORG",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "SUIKAN",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "ANTENNA",
+      "trait_type": "ITEM"
+    }
+  ],
+  "minted": ""
+}

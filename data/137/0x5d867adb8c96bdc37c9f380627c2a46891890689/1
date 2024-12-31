@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYKJRaVdT7EaAQEu9KTGQvNLpNJQTH3xvW4Jm42Bt9Nb9/nft.gif",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x5d867adb8c96bdc37c9f380627c2a46891890689",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Crypto Be@rs #1",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

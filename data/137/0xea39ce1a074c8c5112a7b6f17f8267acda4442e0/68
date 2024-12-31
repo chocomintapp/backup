@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNNszhKzmpb2t1gGmqMjzSVbucXbTu8zdViUqFB2b4Nxc/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 68,
+  "chainId": "137",
+  "name": "TANU-KIDS #067",
+  "description": "ツタンカーメンに変身したTANU-KIDS\n\n古代エジプトのたぬきが登場",
+  "attributes": [
+    {
+      "value": "Tutankhamen",
+      "trait_type": "History"
+    }
+  ],
+  "minted": ""
+}

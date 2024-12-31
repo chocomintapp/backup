@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUk3dUpBhiU7HLDUcfbEA82RjL6gpipCGBJ54c7ez6BTC/nft.png",
+  "tokenId": 39,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**TYPE99 model22**  \nIt is a carrier bomber of the Imperial Japanese Navy that bombed battleships and airfields in the attack on Pearl Harbor and sank British heavy cruisers and aircraft carriers in the Battle of the Indian Ocean.\n\nIt is a late production model of the Type99, which was active in the early stages of the Pacific War.  \nThe engine was replaced with a high-powered \"Venus,\" and although the dead weight increased by 200 kg, the maximum speed increased by 47 km, and Climbing power has also been improved.\n\n**九九式艦上爆撃機 22型**  \n真珠湾攻撃における戦艦・飛行場への爆撃やインド洋海戦での英重巡洋艦・空母の撃沈など開戦からの快進撃を支えた九九艦爆の後期生産型です。\n\n発動機を大出力の「金星」に換装し、自重が200kgほど増えたものの、最高速度は47kmも向上し上昇力も改善されました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0039 TYPE99 model22",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Bomber"
+    }
+  ]
+}

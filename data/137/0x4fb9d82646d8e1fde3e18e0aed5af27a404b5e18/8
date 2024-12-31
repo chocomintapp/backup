@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUaLUniHQu5HxPN67RSurZyonN4ciKcpPiJVXzi61UEqN/nft.mov",
+  "nftContractAddress": "0x4fb9d82646d8e1fde3e18e0aed5af27a404b5e18",
+  "animationUrl": "https://ipfs.io/ipfs/QmUaLUniHQu5HxPN67RSurZyonN4ciKcpPiJVXzi61UEqN/nft.mov",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "Comedy Contest Prize GensokishiCFes1st(Hiromaro)",
+  "description": "Comedy Contest Prize for player-sponsered events GensokishiCFes1st .",
+  "attributes": []
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYtwQBogaUCRtz6umoFQgsA7QcmDUuR8VRNFtqgrQsqqy/nft.png",
+  "tokenId": 61,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**NAKA 1944**  \nThis silhouette is light cruiser NAKA in 1944.\n\nThis is the third ship of the \"Sendai\" class of 5500 ton light cruisers.  \nIn order to cope with the predicted shortage of heavy oil, the design also focused on the use of coal, resulting in the characteristic four chimneys.\n\nThis ship was always supplied with the latest equipment to operate in the front line.\n\n**軽巡洋艦 那珂 1944**  \n5500トン型軽巡の川内型3番艦です。\n\n予測される重油不足に対応する為に石炭の使用にも重点を置いた設計の結果、特徴的な4本煙突となりました。  \n本艦は常に最新の装備を供給され最前線で活動しました。\n\nこのNFTは1944年頃の那珂のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0061 NAKA 1944",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Light cruiser"
+    }
+  ],
+  "minted": "✅"
+}

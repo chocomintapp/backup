@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV84ephQAHYwbGRrpKGN5CghzLVJNqtwGxYsUhm3aFcNC/nft.jpg",
+  "tokenId": 1,
+  "description": "しょぼーん",
+  "nftContractAddress": "0xda07e50a4749a4e2a9a58418e6bc3a7707227b1d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "(´・ω・｀)",
+  "attributes": [
+    {
+      "trait_type": "(´・ω・｀)出荷よー",
+      "value": "(´・ω・｀)そんなー"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSQorcrEmzLen9RxQCXN56ez2Y7KJLqM9Uviog6KBEYD6/nft.png",
+  "nftContractAddress": "0x3d9483a28d211a6007079922cd0e6f9bc1add780",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Neon #1",
+  "description": "",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "background"
+    },
+    {
+      "value": "neon girl",
+      "trait_type": "character"
+    },
+    {
+      "value": "pink",
+      "trait_type": "hair"
+    },
+    {
+      "value": "green flowers",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "blue gloves",
+      "trait_type": "hand"
+    },
+    {
+      "value": "angry",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "red",
+      "trait_type": "skin"
+    }
+  ]
+}

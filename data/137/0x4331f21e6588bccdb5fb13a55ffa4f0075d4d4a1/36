@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd18jGfP9wKmf7UohcPWY5oQiQhnjew5hB8jF3Ln4fudZ/nft.png",
+  "tokenId": 36,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SUISEI model12**  \nIt was developed as a successor to the Type 99 Ship's Bomber.\n\nEquipped with the [Atsuta Type 32], which was produced under license from the German water-cooled engine. Achieved a sharp and modern silhouette, such as the bomb bay can be opened and closed. It was a high-speed bomber that could hit a maximum speed of 580km/h.\n\nThe water-cooled engine, which was made in Japan, had a low operating rate. However, it performed as planned in units that were able to perform proper maintenance. A night fighter version was also developed.\n\n**艦上爆撃機 彗星 12型**  \n九九艦爆の後継とした開発された艦上爆撃機です。  \nドイツ仕込みの水冷エンジン「アツタ三二型」を搭載し、爆弾倉を開閉式にするなどシャープで近代的なシルエットを実現。最高速度580km/hを叩き出す高速爆撃機でした。\n\n水冷エンジンにつきものの稼働率の低さは課題でしたが、適切な整備を行える部隊ではスペック通りの性能を発揮し、その高速性を活かして斜銃を搭載した夜間戦闘機型（一二戊型）も開発されました。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0036 SUISEI model 12",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Airplane",
+      "value": "Bomber"
+    }
+  ]
+}

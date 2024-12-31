@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUNKQS4gGvz591k5cKBfXeSo7qWEPcd7jomTTaMoHvFq4/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "#21",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "#F8B4F6",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#21AC32",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "12 ecliptical constellations",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Taurus",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

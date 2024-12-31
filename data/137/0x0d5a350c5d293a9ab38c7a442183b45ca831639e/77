@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPdKewrVHryWsaXwVVN4WPDMzyArJTHh3pD7o4Xp5yu8E/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 77,
+  "chainId": "137",
+  "name": "Day32 Nana's Art #95",
+  "description": "一番好きな食べ物は納豆。\n\nMy favorite food is natto.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ]
+}

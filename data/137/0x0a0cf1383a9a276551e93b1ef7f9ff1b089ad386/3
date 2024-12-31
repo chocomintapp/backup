@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmafAEGPz14rKkoYBk8uMqfyoPitz1YLACiKK1Q1EJsn6i/nft.png",
+  "nftContractAddress": "0x0a0cf1383a9a276551e93b1ef7f9ff1b089ad386",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "VeryLongAnimals ~ #3",
+  "description": "Fanart of [VeryLongAnimals](https://verylonganimals.com) NFT Collection",
+  "attributes": []
+}

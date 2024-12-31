@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTQqdjWC2JFs29Dgw3pnSjuD4hDDgqPXR9JYygsC54nYX/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Day9 Umitsuru's Art #27",
+  "description": "アートについて考える時間が長くなってきた。\n\nI've been spending a lot of time thinking about art.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNZ2mSRBEGF3XBqmjNY8fEHt5mATt5Hp4gfvvEJt4CphQ/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "#14",
+  "description": "human",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "RACE"
+    }
+  ],
+  "minted": "✅"
+}

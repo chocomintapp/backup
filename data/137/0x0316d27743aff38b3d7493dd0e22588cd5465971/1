@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWFZamVrx51wQMa4F97pgriY5wuT7coTCKGXAQBjkfYss/nft.jpg",
+  "nftContractAddress": "0x0316d27743aff38b3d7493dd0e22588cd5465971",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "fanart",
+  "description": "",
+  "attributes": [],
+  "minted": ""
+}

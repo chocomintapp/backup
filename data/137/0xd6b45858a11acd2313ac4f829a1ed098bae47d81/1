@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNws5Mf93ukSLuoVUnBVsNiQnKkHicDXyMCJxUsKM1ieA/nft.png",
+  "tokenId": 1,
+  "description": "The first KAPSEL\nIt's a good thing you have this NFT\nIf you have it then, you are lucky.\n\nKapsel contains the present, the past, and the future.",
+  "nftContractAddress": "0xd6b45858a11acd2313ac4f829a1ed098bae47d81",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Kapsel #1",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Upper outer",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Lower outer",
+      "value": "White"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Font",
+      "value": "Red"
+    }
+  ]
+}

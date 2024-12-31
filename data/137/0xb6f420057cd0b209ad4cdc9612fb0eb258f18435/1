@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf6M5xBirHMjfVKzBuhWpjn38ati7k31moQfmgQEqPKEr/nft.GIF",
+  "tokenId": 1,
+  "description": "I made a cute panda.",
+  "nftContractAddress": "0xb6f420057cd0b209ad4cdc9612fb0eb258f18435",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Panda Flower"
+}

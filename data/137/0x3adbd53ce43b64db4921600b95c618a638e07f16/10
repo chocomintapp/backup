@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSxX6BYdVL4yurhrDCYNXhEMdt4gpYHHdbx6C9Faa8dqb/nft.png",
+  "nftContractAddress": "0x3adbd53ce43b64db4921600b95c618a638e07f16",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "137",
+  "name": "Syoukaki",
+  "description": "🟥NFT紅白2022⬜　参加作品",
+  "attributes": [
+    {
+      "value": "紅",
+      "trait_type": "TEAM"
+    }
+  ],
+  "minted": "✅"
+}

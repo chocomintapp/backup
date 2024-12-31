@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW4iv5VVEz6nq1AgykDq9eFdaM6LQ4ZFJ4uvCi42KqSpW/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "VerySilentFruits#2 Wartermelon",
+  "description": "",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Wartermelon",
+      "trait_type": "Fruit"
+    }
+  ]
+}

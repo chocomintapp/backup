@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUphAvA1GkaUDpbYMJ3jbAFhmnKyDrMV3Wk11c5D7jZP6/nft.png",
+  "nftContractAddress": "0x0298a43388fdd108835a5cf59cbb868a08afb8fc",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "CHOCO KOHAKU",
+  "description": "",
+  "attributes": [
+    {
+      "value": "CRYPTO NINJA",
+      "trait_type": "シリーズ"
+    }
+  ]
+}

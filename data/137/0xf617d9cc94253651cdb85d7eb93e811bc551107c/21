@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmadxr7sYeopRDb2e1nQA9hPVvVC2mQwsMywMDtedajU1t/nft.gif",
+  "nftContractAddress": "0xf617d9cc94253651cdb85d7eb93e811bc551107c",
+  "animationUrl": "https://ipfs.io/ipfs/Qmadxr7sYeopRDb2e1nQA9hPVvVC2mQwsMywMDtedajU1t/nft.gif",
+  "tokenId": 21,
+  "chainId": "137",
+  "name": "VLG021_Shark",
+  "description": "レトロゲーム風筐体にベリロンのキャラクターを入れ込みました。\nアンロックコンテンツのアップルウォッチ用48x48PNGファイルについては\nTwitter:@inariheroes_nftまでご連絡ください。\n※本プロジェクトはVeryLongAnimalのコンセプトを受け継いだプロジェクトです。\n\nRetro game style enclosure with \"VeryLongAnimals\" characters.\nFor 48x48 PNG files for the Apple Watch with unlockable content, please contact  @inariheroes_nft.(Twitter)\n*This project is a continuation of the VeryLongAnimal concept.\n",
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "Body Color"
+    },
+    {
+      "value": "Training",
+      "trait_type": "Action"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Type"
+    }
+  ]
+}

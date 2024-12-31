@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPA7XsLnmscraW37XZqV8PD7gXCuxxSxZafPbDtJJJwhi/nft.png",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "https://ipfs.io/ipfs/QmaEuPJykEGS49GUt5WSBFS9rkzDAZfYacTCcGc8W9SiTB/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "#1 CRYPPL - NONNONNONNON",
+  "description": "Hello NONNONNONON.",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Sex"
+    }
+  ]
+}

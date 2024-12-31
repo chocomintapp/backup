@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPYMUDwpJRKuhCB7vkAq6mt3BRTXhhfpZ2a7PCRLuYuxP/nft.png",
+  "nftContractAddress": "0x47ba9fb780cdff53c2ac1cb4d982610112a4595f",
+  "animationUrl": "",
+  "tokenId": 111,
+  "chainId": "137",
+  "name": "OWL #111",
+  "description": "Unique private collection of owls. Each image is unique and presented in a single copy. The total quantity is 10000 pieces. ",
+  "attributes": [],
+  "minted": "✅"
+}

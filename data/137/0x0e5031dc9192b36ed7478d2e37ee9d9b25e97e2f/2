@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYNr8SjcFDHQM72ZJZbo85uqyQRn1hwv6FEJUHGa8xifq/nft.png",
+  "tokenId": 2,
+  "description": "Decentraland market price chart.",
+  "nftContractAddress": "0x0e5031dc9192b36ed7478d2e37ee9d9b25e97e2f",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Decentraland Market Price"
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPmnXjFQ24g1TTtTba5CESJeKr5TUQhqH3jLa5Ff2Mhgt/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "137",
+  "name": "THS #024",
+  "description": "【諸】",
+  "attributes": [
+    {
+      "value": "crow",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "goldfish",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "eggplant",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "eggplant flower",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

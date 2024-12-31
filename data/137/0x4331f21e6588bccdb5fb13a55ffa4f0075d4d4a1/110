@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcjX3X2FKi5yDexcUKJnHDDfxZ6SdvvUPqB96u5bDqCKA/nft.png",
+  "tokenId": 110,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**NAGATSUKI 1937**  \nThis silhouette is destroyer Nagatsuki in 1937.\n\nShe is the eighth ship of the Mutsuki class.  \nIn the Pacific War, she formed the 22nd Destroyer Squadron with her sister ships, Satsuki, Mizunazuki, and Bungetsu, and participated in the Battle of the Philippines and the Battle of Java off Batavia.\n\nShe succeeded in the fierce retreat from Guadalcanal Island (Operation Ke-go) and sank the newest U.S. destroyer by lightning attack, among many other achievements.\n\n**駆逐艦 長月 1937**  \n睦月型の8番艦です。  \n太平洋戦争では姉妹艦の「皐月」「水無月」「文月」と共に\n第22駆逐隊を編成しフィリピン攻略やジャワ島攻略、バタビア沖海戦などに参加しました。\n\n熾烈を極めたガダルカナル島からの撤退作戦（ケ号作戦）を成功させ、雷撃による米新鋭駆逐艦の撃沈など、多くの功績を残しました。\n\nこのNFTは1937年頃の長月のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0110 NAGATSUKI 1937",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Destroyer"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUzWmKtPQyV7MpTCdU5BAyFA3BXvvtYWDqCYUpVKbwdGt/nft.png",
+  "nftContractAddress": "0x5f15372c7d096455cc2ca23bc511a104a1d67567",
+  "animationUrl": "https://ipfs.io/ipfs/QmUzWmKtPQyV7MpTCdU5BAyFA3BXvvtYWDqCYUpVKbwdGt/nft.png",
+  "tokenId": 43,
+  "chainId": "137",
+  "name": "Rabbit girl #21 『Daisy』",
+  "description": "Rabbit girl #21 『Daisy』\n\nFlora's power to give magical flowers gave birth to a flower witch.\n\nAn innocent girl who wished for a world full of hope.\n\nThe sun always comes out when the witch of peace appears.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Daisy",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "Flower",
+      "trait_type": "Series"
+    }
+  ]
+}

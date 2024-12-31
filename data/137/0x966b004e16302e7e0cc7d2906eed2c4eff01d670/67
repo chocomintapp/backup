@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb3xcxkSuYYiJ8n5qw9B3HkjoM95jfKiW4KWBpxbCZ4sK/nft.png",
+  "tokenId": 67,
+  "description": "Limited 1/1\n\nA little sad Monstarz.\nThis Monstarz is minted by their original contract (MSZ).",
+  "nftContractAddress": "0x966b004e16302e7e0cc7d2906eed2c4eff01d670",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#0067 KeyRing",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "UnCommon"
+    }
+  ]
+}

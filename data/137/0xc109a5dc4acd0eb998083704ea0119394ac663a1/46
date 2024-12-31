@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRWhbtg9b2m1xiPudjotXKF2MzAgctSvu7AvYTmHrjZbQ/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 46,
+  "chainId": "137",
+  "name": "#46",
+  "description": "unknown",
+  "attributes": [
+    {
+      "value": "Unkown",
+      "trait_type": "RACE"
+    }
+  ]
+}

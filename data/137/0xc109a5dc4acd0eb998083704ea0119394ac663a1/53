@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcadgB1qU4mDURhK1f73KcKPEnaPYNLUxyUYs9Wc18gfb/nft.png",
+  "nftContractAddress": "0xc109a5dc4acd0eb998083704ea0119394ac663a1",
+  "animationUrl": "",
+  "tokenId": 53,
+  "chainId": "137",
+  "name": "#53",
+  "description": "zombie",
+  "attributes": [
+    {
+      "value": "Zombie",
+      "trait_type": "RACE"
+    }
+  ]
+}

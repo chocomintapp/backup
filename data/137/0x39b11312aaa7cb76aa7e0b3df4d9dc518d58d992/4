@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf49L8kTGmfMGVTXxH7C3Gz1drveUUHucKhK2mN1Zp7iW/nft.png",
+  "tokenId": 4,
+  "description": "From Germany, we have a dachshund.\n The German reading is \"Hund,\" but \"Hund\" is more familiar to me, so I'll use \"Hund\" this time. \nThe Dachshund is a friendly, calm, and patient dog, but as it was originally a hunting dog, it can be aggressive and playful.\n\nドイツからはダックスフンド。\n ドイツ語読みだと”フント”だそうですが、”フンド”の方が馴染み深いので今回は”フンド”。 \n友好的で落ち着きがあり辛抱強い性格な一方、元が猟犬ですので、時に攻撃的になったり遊び好きになったりする、やんちゃな一面もあるわんちゃんです。",
+  "nftContractAddress": "0x39b11312aaa7cb76aa7e0b3df4d9dc518d58d992",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "national dog’s_dachshund",
+  "attributes": []
+}

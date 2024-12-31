@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQqPiqMDwaaWoQhzL6Zk6oZQusjhteJxhqzheDt41pH1F/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 65,
+  "chainId": "137",
+  "name": "Day28 Nana's Art #83",
+  "description": "ハンドクリームの中身を撒き散らかしてパパに怒られた。\n\nMy dad got mad at me for spreading the contents of my hand cream around.",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

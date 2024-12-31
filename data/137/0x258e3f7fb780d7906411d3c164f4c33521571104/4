@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUkMQbgEsE68psjyMs7qMfUpo2q7fE8h14oSNkpdoxs26/nft.png",
+  "nftContractAddress": "0x258e3f7fb780d7906411d3c164f4c33521571104",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "VeryLongDinosaurs #4",
+  "description": "Dinosaurs that have lived for a very long time since long ago.",
+  "attributes": [
+    {
+      "value": "Tyrannosaurus",
+      "trait_type": "Dinosaurs"
+    },
+    {
+      "value": "Electric",
+      "trait_type": "TYPE"
+    }
+  ]
+}

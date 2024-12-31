@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUGVpvWRb8ha95ymKPL4E4yqAehA1vuo42KEehaBQYAoR/nft.gif",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x8cf2000307c09dffd1366c2dbc4826bf29c70796",
+  "animationUrl": "https://ipfs.io/ipfs/QmUGVpvWRb8ha95ymKPL4E4yqAehA1vuo42KEehaBQYAoR/nft.gif",
+  "chainId": "137",
+  "name": "No.31",
+  "attributes": [
+    {
+      "trait_type": "backgraund",
+      "value": "light yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "normal"
+    },
+    {
+      "trait_type": "mainmotion",
+      "value": "walking"
+    },
+    {
+      "trait_type": "submotion",
+      "value": "none"
+    },
+    {
+      "trait_type": "option",
+      "value": "none"
+    },
+    {
+      "trait_type": "others",
+      "value": "none"
+    },
+    {
+      "trait_type": "color",
+      "value": "black"
+    }
+  ]
+}

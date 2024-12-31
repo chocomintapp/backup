@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS9YK7KU6AhUT1HLE8GXLrYGS4hEEMKVjs4WJmficeUSr/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 121,
+  "chainId": "137",
+  "name": "#0116_Collaboration_MIMIMATES",
+  "description": "#0116_Collaboration_MIMI Mimic「MIMIMATES」とコラボしたポリちゃんです！",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Collaboration",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "MIMIMATES",
+      "trait_type": "Collection"
+    }
+  ]
+}

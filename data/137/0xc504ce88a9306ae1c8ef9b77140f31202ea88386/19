@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXhsrwNPyqk2rTE3VB8ToRHeLZFhnx9H9HdSfxMTh6dbq/nft.jpg",
+  "tokenId": 19,
+  "description": "",
+  "nftContractAddress": "0xc504ce88a9306ae1c8ef9b77140f31202ea88386",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "orange#19",
+  "attributes": [
+    {
+      "trait_type": "color",
+      "value": "orange"
+    }
+  ]
+}

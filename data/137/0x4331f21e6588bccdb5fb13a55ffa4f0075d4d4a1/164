@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZaNJs74pZ7FXrVCYMB7BL44SaKjsvD9hvLDHczx6cj9n/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 164,
+  "chainId": "137",
+  "name": "WMM #0164 YAMASHIRO 1935",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**YAMASHIRO 1935**  \nThis silhouette is battleship Yamashiro in 1935.  \nIt was the second ship of the Fuso-class, Japan's first super-Dreadnought class ship.\n\nAlthough the Fuso was the world's largest and most powerful battleship in terms of specifications, it spent five years undergoing a major renovation to correct problems inherited from the Fuso, resulting in a huge and complex bridge that is typical of its sister ships.\n\nThe distinguishing point between the Yamashiro and the Fuso is the orientation of the third turret (the Yamashiro is rear-facing, the Fuso is forward-facing).\n\nTranslated with www.DeepL.com/Translator (free version)\n\n**戦艦 山城 1935**  \n日本初の超ド級艦「扶桑型」の2番艦です。\n\nスペック上は世界最大最強の戦艦でしたが、扶桑ゆずりの不具合を改善する為に5年を費やして大規模な改修を行い、姉妹艦らしい巨大で複雑な艦橋になりました。\n\n山城と扶桑の識別ポイントは三番砲塔の向きになります（山城は後ろ向き、扶桑は前向き）\n\nこのNFTは1935年頃の山城のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Battleship",
+      "trait_type": "Ship"
+    }
+  ]
+}

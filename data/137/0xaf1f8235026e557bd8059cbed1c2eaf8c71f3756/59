@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYrKfnWr98fyTFuSa3F9L96aZhA3Axo3SJ8LpJ3zNo6eR/nft.gif",
+  "nftContractAddress": "0xaf1f8235026e557bd8059cbed1c2eaf8c71f3756",
+  "animationUrl": "https://ipfs.io/ipfs/QmYrKfnWr98fyTFuSa3F9L96aZhA3Axo3SJ8LpJ3zNo6eR/nft.gif",
+  "tokenId": 59,
+  "chainId": "137",
+  "name": "WavyLongAnimals #59",
+  "description": "ベリロン二次創作",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Ostrich",
+      "trait_type": "TYPE"
+    }
+  ]
+}

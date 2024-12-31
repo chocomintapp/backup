@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQuPSywn8mAwLmhCxPCyoLFQh9w2tbginwjaNqxAxNwog/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "137",
+  "name": "Day15 Umitsuru's Art #45",
+  "description": "作品を作っている時が、1日の中で一番リラックスしている時かも。\n\nWhen I'm working on a piece of art, I'm probably the most relaxed I've been all day.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Myself",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "35",
+      "trait_type": "AGE"
+    }
+  ]
+}

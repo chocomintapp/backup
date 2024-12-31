@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZpgNAKCtKzvc7b8FK7bYskbiCZYh5z3kaUXKi4Xx41MS/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #027 Jan.28",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n1月28日\n\n新商品の知財関連の打ち合わせのため、外部の弁理士の先生との打ち合わせに臨む「ねじねじドーナツ部長」です。新商品がドーナツに関係するため、「ドーナツのあることないこと全百科」という本を入手し、読み始めたのは良いのですが…。パラパラとめくったページに「ドーナツは紀元前から存在した」などと、思いっきり「ないこと」が書かれていたために、ちょっと頭が混乱してしまう部長なのでした。\n\n----------\n\nJan 28\n\nOn this day, the general manager is in a meeting with an outside patent attorney for an IP-related meeting for a new product. Since the new product is related to doughnuts, he got a book titled \"The Complete Encyclopedia of Donut Things That Donuts Are and Aren't\" and started reading it, but.... But when he flipped through the pages of the book, he was a little confused by the \"things that donuts have not existed since B.C.\" and so on.\n",
+  "attributes": [
+    {
+      "value": "Others",
+      "trait_type": "BOOKS"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "JACKET"
+    },
+    {
+      "value": "Grey",
+      "trait_type": "PANTS"
+    },
+    {
+      "value": "Others",
+      "trait_type": "SHIRT"
+    },
+    {
+      "value": "White",
+      "trait_type": "T-SHIRT"
+    }
+  ]
+}

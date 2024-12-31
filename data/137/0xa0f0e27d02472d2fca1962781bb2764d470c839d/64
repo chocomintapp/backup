@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRBeLbTNXV6vtfVFEEx9jYWGbEUjpQRTSGuTJVtMAzzkd/nft.png",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "tokenId": 64,
+  "chainId": "137",
+  "name": "Pig and Pearls（豚と真珠）",
+  "description": "A pig that doesn't know the value of pearls is just a pig.\n\n真珠の価値が分からない豚は、ただの豚よ。",
+  "attributes": [
+    {
+      "value": "Pig",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "DNA"
+    }
+  ]
+}

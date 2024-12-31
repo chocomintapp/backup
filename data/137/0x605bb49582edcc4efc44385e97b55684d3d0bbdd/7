@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaoEuxMbc521ttuMaYM7vCQ4x4o9rbC6uADm6LuibyTp9/nft.jpg",
+  "nftContractAddress": "0x605bb49582edcc4efc44385e97b55684d3d0bbdd",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "My Only Girlfriend　#017",
+  "description": "\"My Only Girlfriend\" is a collection of special expressions that she shows only to you. Why don't you get your own special girlfriend?\n\n\"What about you? Of course I love you,\" she gently admonished you as you became a little anxious. I feel relieved after hearing her words.\n\n＊＊＊\n\n「My Only Girlfriend」は彼女があなただけに見せる特別な表情を切り取ったコレクションです。 あなただけの特別な彼女を手に入れてみませんか？\n\n「君のこと？もちろん好きだよ」少し不安になった貴方に彼女は優しく諭してくれました。彼女からの言葉に安心しますね。",
+  "attributes": [
+    {
+      "value": "female",
+      "trait_type": "character"
+    },
+    {
+      "value": "gray",
+      "trait_type": "color"
+    }
+  ]
+}

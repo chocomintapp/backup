@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVRGFypVbBqoYs1yJaFFoFdF48cJtzYJhM1kSUB94uEw9/nft.png",
+  "tokenId": 23,
+  "description": "太ったネズミじゃないよ\n\nI'm not a fat rat.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Chinchilla",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Chinchilla"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

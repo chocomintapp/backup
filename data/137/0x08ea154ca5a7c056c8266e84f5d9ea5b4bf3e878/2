@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXqdnqRHW5dLP9qcYgRSyhLWujeZyDJVRPMECBpXTr8zc/nft.jpeg",
+  "tokenId": 2,
+  "description": "super cat samura foooo",
+  "nftContractAddress": "0x08ea154ca5a7c056c8266e84f5d9ea5b4bf3e878",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "samura",
+  "attributes": [
+    {
+      "trait_type": "sex",
+      "value": "woman"
+    },
+    {
+      "trait_type": "animal",
+      "value": "cat"
+    },
+    {
+      "trait_type": "country",
+      "value": "japan"
+    }
+  ]
+}

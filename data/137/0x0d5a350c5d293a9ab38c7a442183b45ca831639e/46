@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWV3MxJNkcQX5m3nmoKRLAZAhBiiECuF3brmRHxEeCYRu/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 46,
+  "chainId": "137",
+  "name": "Day22 Syu's Art #64",
+  "description": "パパは家の中でいつも赤い半纏を着ている。\n\nDad always wears a red robe around the house.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Syu",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "6",
+      "trait_type": "AGE"
+    }
+  ]
+}

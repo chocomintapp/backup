@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY9XQ4cbe3ULVVYMxzVVFkmdF119WiDQfTazoQtB5mkhS/nft.png",
+  "nftContractAddress": "0xdd63eabd7a3d8accf6e54c08708a9eee7625b4d2",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "137",
+  "name": "LIVING MINERAL #33",
+  "description": "",
+  "attributes": [
+    {
+      "value": "true",
+      "trait_type": "secret"
+    },
+    {
+      "value": "true",
+      "trait_type": "reveal"
+    }
+  ]
+}

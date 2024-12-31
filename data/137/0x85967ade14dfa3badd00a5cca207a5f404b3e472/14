@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPPUBqVynQbqngyY7kLJjS3xXAuTTfvAJRYGYw2kja2KC/nft.png",
+  "nftContractAddress": "0x85967ade14dfa3badd00a5cca207a5f404b3e472",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "BasketBallBabies ＃13",
+  "description": "Basket Ball Babies\nからす\n\nBasket Ball Babies\nCrow",
+  "attributes": [
+    {
+      "value": "CROW",
+      "trait_type": "TYPE"
+    }
+  ]
+}

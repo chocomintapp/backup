@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPz2PAjRGndjBqXHQioSnEmoZzaG41rV4i9QsS2cAa3rw/nft.PNG",
+  "nftContractAddress": "0x3342456c90e6a11bfea8db0fe04a205f4e39d2fb",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "137",
+  "name": "half ghost はんぶんおばけ #310",
+  "description": "When this child was a small child\n\nHe was playing with himself.\n\nAnd the zipper came open.\n\nI split into two halves, a girl and a boy, even though they were both really boys.\n\nこの子は小さい頃\n\n自分で自分の体で遊んでいたら\n\nチャックが開いちゃって\n\n本当はどっちも男だったのに、女と男で半分に分かれちゃった\n\n男の子はこういうものがついてくる\n\n女の子はこういうものがついてくる\n\nというおもしろいものになって\n\nみんなにはかわいい子って言われている\n\nなぜなら、遊んでいたらチャラってチャックがとれちゃったから\n\n男の子は手とか宝石とか花がついてくる\n\n女の子はなぞのキラキラと変なふわふわみたいなのと\n\nお花みたいなのがついてくる\n\n花があるおばけはやさしくて元気がいい\n\nこの子は変身した時の姿\n\nその時にふわふわみたいなのが出て変身したの\n\nその時に本当は透明だったボクがはじっこにグラデーションの色がついていたの\n\nそれがボクのお気に入り♪\n\nあと、みんな気づいたか知らないけど\n\n男の子と女の子は花が共通で\n\n男の子は星で女の子はハートのバックを持っている\n\nボクはとくしゅな子だからみんなとはちがうから紹介したよ♪\n\nおしまい\n",
+  "attributes": [
+    {
+      "value": "purplish red",
+      "trait_type": "COLOR"
+    },
+    {
+      "value": "kawaii",
+      "trait_type": "Type"
+    },
+    {
+      "value": "ghost",
+      "trait_type": "Category"
+    }
+  ]
+}

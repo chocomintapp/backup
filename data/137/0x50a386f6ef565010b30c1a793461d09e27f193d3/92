@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcjgC3EYVyuPAw5pvKTC7bduVH1BFP2NDpYBeEiJMndFd/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 92,
+  "chainId": "137",
+  "name": "hakorobo #92",
+  "description": "hakorobo #92 Artists Edition HKAE-05 Dhanya Ajith\n\noriginal work:\nhttps://hicetnunc.art/objkt/88178\n\nby:\nhttps://twitter.com/D_Art2021",
+  "attributes": [
+    {
+      "value": "HKAE",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Shoes"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNqrdUF8gT4kiyJV2V3iYo7RXmuRAwM988miPhnQDpnXp/nft.png",
+  "nftContractAddress": "0x0ed584f956237cd686d709058e6a2af576dcb598",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "【第12話】しろねことくじら",
+  "description": "ベビロン(どうぶつのあかちゃん)があそんでるひとコマまんが",
+  "attributes": [
+    {
+      "value": "しろねこ",
+      "trait_type": "どうぶつ"
+    },
+    {
+      "value": "くじら",
+      "trait_type": "どうぶつ"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXsje7SAz2jV8XSBwmrVFkCP8Ch6YyMQiqizeDoCaetXp/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 133,
+  "chainId": "137",
+  "name": "WMM #0133 HYUGA 1945",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**HYUGA 1945**  \nThis silhouette is battleship carrier Hyuga in 1945.  \nIt is one of the world's rarest aircraft battleships. It is the second ship of the Ise class.\n\nIt was originally a pure battleship, but with the passage of time It was reborn as an aircraft battleship.\n\nIt is also known for being the first Japanese battleship to be equipped with an electric radar.\n\n**航空戦艦 日向 1945**  \n世界的にも珍しい航空戦艦「伊勢型」の2番艦です。\n\nもともとは純粋な戦艦でしたが時代の流れで航空戦艦へと生まれ変わりました。日本の戦艦で初めて電探（レーダー）を装備した事でも知られています。\n\nこのNFTは1945年頃の日向のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Battleship",
+      "trait_type": "Ship"
+    }
+  ]
+}

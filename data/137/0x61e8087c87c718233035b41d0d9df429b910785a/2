@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdwVaHM9wSgXduNmALZ6Qj8eAYvYrEUJrx8Heu77zEZAz/nft.png",
+  "tokenId": 2,
+  "description": "Hokusai限定50個のステッカーです。行使することでHokusaiロゴのステッカーと交換可能です。",
+  "nftContractAddress": "0x61e8087c87c718233035b41d0d9df429b910785a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Hokusai Sticker#2",
+  "minted": ""
+}

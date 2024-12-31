@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVzdd2LNC3e3VwhohjS14u8WCSEaSjNJYsC1A9PR3bpRw/nft.gif",
+  "nftContractAddress": "0x2ac9b933b7fbea9b999f23c1f9ec5dd1fd649b4f",
+  "animationUrl": "https://ipfs.io/ipfs/QmVzdd2LNC3e3VwhohjS14u8WCSEaSjNJYsC1A9PR3bpRw/nft.gif",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "第4回GORO MEME CONTEST GODトロフィー",
+  "description": "第3回GORO MEME CONTEST GODトロフィー\n\n優勝者　taroron🗼\n@taromonnu",
+  "attributes": [
+    {
+      "value": "taroron🗼 @taromonnu",
+      "trait_type": "優勝者"
+    }
+  ]
+}

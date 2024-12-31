@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSMERhBrQiwwvHRjk43UGewdp3GB8teuYLFc5wDvsZWEq/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 155,
+  "chainId": "137",
+  "name": "WMM #0155 KAKO 1940",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**KAKO 1940**  \nThis silhouette is Heavy cruiser KAKO in 1940.  \nIt is the second ship of the Furutaka class.\n\nIt was originally scheduled to be a name ship, but its completion was delayed and it became the second ship of the Furutaka class.\n\nLike the Furutaka, it had a compact hull and was equipped with heavy armament (six 20cm cannons) that overturned the conventional wisdom, attracting the attention of naval officials around the world. It can be said that this ship set the standard for heavy cruisers around the world.\n\nShe participated in the Pacific War as the oldest heavy cruiser, and contributed greatly to the complete victory of the Japanese forces in the First Battle of the Solomons. However, she was lost in a lightning attack by a submarine on the way back to Japan.\n\n**重巡洋艦 加古 1940**  \n古鷹型の2番艦です。  \n本来はネームシップになる予定でしたが竣工が遅れて2番艦になりました。\n\n「古鷹」と同じくコンパクトな船体に、それまでの常識を覆す重武装（20cm砲6門）を搭載し、世界の海軍関係者から注目を浴びました。世界の重巡のスタンダードとなった艦と言えます。\n\n太平洋戦争には最古参の重巡として参加し、第一次ソロモン海戦では日本軍の完勝に大きく貢献しましたが、帰路に潜水艦から雷撃を受け失われました。\n\n\nこのNFTは1940年頃の加古のシルエットを再現しています。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Heavy cruiser",
+      "trait_type": "Ship"
+    }
+  ]
+}

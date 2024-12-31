@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSugSCDkoXXJJw53U7AszyHBJpvnp15bT4dMkA3rakCPY/nft.png",
+  "tokenId": 3,
+  "description": "トークンの呼称としてスマート証票が選ばれました。",
+  "nftContractAddress": "0xb8c7bc6532ce51f20f390516805867df95b4144c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "token",
+  "minted": ""
+}

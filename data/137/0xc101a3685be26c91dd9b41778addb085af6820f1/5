@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRHzsZwnUxwt4warAipVvdAvgDjWQVoi3DcGFC1NBD6AL/nft.PNG",
+  "tokenId": 5,
+  "description": "His favors are full of ulterior motives.\n\n彼の好意は下心で溢れている。\n\nThe creatures that live in the seaside luck o city. They live with sin on their backs. The deeper the sin, the more they can dive into the sea.\n\nseaside luck o city（シーサイドラッコシティ）に住む生き物たち。彼らは罪を背負って生きている。罪が深ければ深いほど、彼らは海に深く潜れる。\n",
+  "nftContractAddress": "0xc101a3685be26c91dd9b41778addb085af6820f1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "sax",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Mercury"
+    },
+    {
+      "trait_type": "Lust",
+      "value": "80"
+    },
+    {
+      "trait_type": "Greed",
+      "value": "10"
+    },
+    {
+      "trait_type": "Pride",
+      "value": "10"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ3c4AZB63KbwXK3s1jLs9MtFwcdreT1CxrCwGSG5dWD1/nft.png",
+  "nftContractAddress": "0x2a4961a4abfb884fcd36b597e4044f55455d191f",
+  "animationUrl": "",
+  "tokenId": 77,
+  "chainId": "137",
+  "name": "NoisyLongAnimals #77",
+  "description": "Secondary works of VeryLongAnimals",
+  "attributes": [
+    {
+      "value": "Buzzard",
+      "trait_type": "TYPE"
+    }
+  ]
+}

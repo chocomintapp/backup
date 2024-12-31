@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWvx8EXnMgaNknQUWskCbBBPBysMix5p67hp2WHpDqF92/nft.gif",
+  "tokenId": 3,
+  "description": "Moving Noun 2",
+  "nftContractAddress": "0xbe4a1f7f3e65cb04924bc189261f3fcfd4a76b6e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "GIF Noun 2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Warm"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bluegrey"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Belly-chameleon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pineapple"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square-yellow-saturated"
+    }
+  ]
+}

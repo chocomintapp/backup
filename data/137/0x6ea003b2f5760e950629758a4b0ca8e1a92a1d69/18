@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb5kShFANA8xeQLxn2vn5woQAUhZXuyev1hmihP2DrqGe/nft.png",
+  "tokenId": 18,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.\nIn particular, the group of works named \"SENBYO\" is a fusion of photographs and cats drawn with lines.",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Ano",
+  "attributes": [
+    {
+      "trait_type": "Special Thanks",
+      "value": "Ano"
+    },
+    {
+      "trait_type": "Model",
+      "value": "SENBYO"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmesktYsUVEn9KQnGvcrGgiSzbUZGp99Lv4Dp4HZhp84cC/nft.png",
+  "nftContractAddress": "0x9e64dcd7ce67e5c8053719992cd7044249cc371b",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "137",
+  "name": "TAKANOTSUME DAN NFT × VeryLongAnimals Yoshida",
+  "description": "A collaboration with TAKANOTSUME DAN NFT. Created by Akim.",
+  "attributes": [
+    {
+      "value": "Yoshida",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZrggBBx2HVgNS1rotBMQngCvB5eijyDbsLfXvGxYPK4R/nft.png",
+  "tokenId": 3293,
+  "description": "\"日本で親しみのある鬼のお面をポップなイメージでデザインしました。鬼面には「厄除け・魔除け」「家内安全」「健康長寿」などの意味があり日本では守り神として信仰されている地域もあります。また、”勉強の鬼”など○○の鬼という言葉は一生懸命頑張っている人という意味でも使われます。こちらのアイコン鬼たちはそんなポジティブなイメージの鬼たちです♪約１億分の1の確立で生み出される彼らの組み合わせはどれも個性的。 お気に入りの子をぜひ見つけてくださいね。\n\n\n***\n\n\nWe designed a pop image of a demon mask, which is very familiar in Japan.Oni (demon) masks are believed to protect people from evil, keep away evil, ensure safety in the home, and ensure good health and longevity in some areas of Japan.In Japan, some regions believe in them as guardian deities. Also, the word \"\"demon\"\" can be used to describe someone who is working hard, such as a \"\"study demon.These icons are demons with such a positive image.Every combination of these demons, which are created at a rate of about 1 in 100 million, is unique.Please try to find your favorite one.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n",
+  "nftContractAddress": "0xe5bb6c582ce010a313a89ef5d16209c16234f2b0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#03265 Oni",
+  "attributes": [
+    {
+      "trait_type": "Taste",
+      "value": "milk"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "2"
+    },
+    {
+      "trait_type": "Add",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Dec",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Special",
+      "value": "non"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Level",
+      "value": "3"
+    },
+    {
+      "trait_type": "Contract ",
+      "value": "IFCY"
+    }
+  ]
+}

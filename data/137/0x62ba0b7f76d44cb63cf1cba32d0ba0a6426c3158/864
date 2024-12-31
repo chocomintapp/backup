@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW9Ydx3HTR96GRMx4XQGAZsVUMUQNb8Haye6W3eRwPfHB/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 864,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #864",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Sea Cucumber",
+      "trait_type": "TYPE"
+    }
+  ]
+}

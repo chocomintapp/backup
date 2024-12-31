@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSv4xMd3QeWGkaRrLK9fbSMBTTww8U2AMRsRLSNT5ERaR/nft.png",
+  "tokenId": 7,
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n4月9日\n\n木曜日。昨日の打ち合わせの結果を得て、新製品のプレリリース日を延期する決定を下した部長です。テスト結果は決して悪くはなかったのですが、特定の条件下で使用した場合、使用者に大きなダメージを与えてしまう可能性があることを部長は見抜いていました。技術開発メンバーには、ぜひともこの局面を切り抜けてほしいと、彼らの成長を願いながらも、部長自身でもいくつかアイデアを練ってみることにしました。「うーん…」と思考を繰り返し、コーヒーを何度も入れ直して…また考えて。知恵を絞ったせいか、気づくと体が少し火照っているように感じました。特に、頭のあたりは少しだけ熱い気がしましたが、この時はまだドーナツがレーザーで刻んだ数式の意味については分かりませんでした。\n\nApril 9\n\nThursday. He made the decision to postpone the pre-release date of the new product after getting the results of yesterday's meeting. The test results were not bad, but he could see that it could cause serious damage to the user if used under certain conditions. He hoped that the members of the technical development team would be able to get through this phase, and while he wished them the best of luck, he decided to try and come up with some ideas of his own. He repeated the thought, \"Hmmm...\" and made the coffee again and again... and thought again. Perhaps it was because he had gathered his wits, but he noticed that his body seemed to be a little on fire. In particular, he felt a little hot around his head, but at this time he still didn't know what the equation that the donut had laser engraved meant.",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #098 Apr.9",
+  "attributes": [
+    {
+      "trait_type": "CAP",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "CLASSIC GRASSES",
+      "value": "Special"
+    },
+    {
+      "trait_type": "HOODIE",
+      "value": "Feather Blue"
+    },
+    {
+      "trait_type": "LASER BEAM",
+      "value": "Elliptic Curve"
+    },
+    {
+      "trait_type": "MASK",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "T-SHIRT",
+      "value": "Black"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPt26T1S6naAjip4FWsuL4jkgENuPrLj79ze7DBnEZonh/nft.png",
+  "tokenId": 62,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**SENDAI 1941**  \nThis silhouette is light cruiser SENDAI in 1941.\n\nIt is the nameship of the Kawauchi class, the final type of 5500 ton class light cruiser. It was the most advanced light cruiser in the Imperial Japanese Navy at the start of the Pacific War.\n\nAs the flagship of the 3rd Destroyer Squadron, she fought many night battles and played an active role with her godlike maneuvers.\n\nThis ship was designed to emphasize the use of coal, and to have additional co-firing cans, so it has four chimneys like its sister ships \"Jintsu\" and \"Naka\", but only the Kawauchi has been modified to lower the height of the first chimney.\n\n**軽巡洋艦 川内 1941**  \n5500トン級軽巡の最終型である「川内型」のネームシップです。開戦時の最新鋭軽巡洋艦でした。\n\n三水戦の旗艦として多くの夜戦を繰り広げ、神懸かり的な操艦で活躍しました。\n本艦は石炭の使用を重視しており、混焼缶を増設した設計のため姉妹艦「神通」「那珂」と同じく4本煙突となっていますが、川内のみ1番目の煙突を切り下げる改修をしています。\n\nこのNFTは1941年頃の川内のシルエットを再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0062 SENDAI 1941",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Light cruiser"
+    }
+  ]
+}

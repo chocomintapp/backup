@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNxFBCRUodh9GbQBf4sRv6HscAMskDPefgVNc8FhJRz5A/nft.png",
+  "nftContractAddress": "0x3dd743e42594273cab591ca89065181f19b42b04",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "INARI Heroes#0507",
+  "description": "Pixelart style 32x32 INARI(Fox).\nGet the NFT and watch the INARIs battle!\n■ Info\nType:Cyber\n\n\n■#001~500 (INARIHeroes Ver.1)\nhttps://opensea.io/collection/inari-heroes\n",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Team"
+    },
+    {
+      "value": "Cyber",
+      "trait_type": "Type"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRBvqQtYkit6vj7gStFLMH7u76D92EPu8YJBZX8sgmmaf/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 99,
+  "chainId": "137",
+  "name": "#0095_Niton_BbWRW_Y",
+  "description": "0095_BbWRW_Y",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Medium Purple",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Rose Bud",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    }
+  ],
+  "minted": "✅"
+}

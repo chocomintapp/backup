@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSmZ23BiF5p6jUtcgT6Bd8VCbKp9TS4LdJJLKoFry7FY6/nft.jpg",
+  "tokenId": 1,
+  "description": "Trial for trading cards",
+  "nftContractAddress": "0xf4d88489a6fd149ba8c3f062b312eabfd0101d4b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Spitfire Test",
+  "attributes": [
+    {
+      "trait_type": "Genesis",
+      "value": "10"
+    }
+  ]
+}

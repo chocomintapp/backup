@@ -1,0 +1,16 @@
+{
+  "image": "https://aqua-decisive-cod-55.mypinata.cloud/ipfs/QmbhBs4KNCBUuzTmZLXTU73VLac4QRRBDTM4qBmiGiBmkD?filename=IMG_7060.jpg",
+  "nftContractAddress": "0x8b3b430446bc4391f71902917976644cb6d6420b",
+  "animationUrl": "",
+  "tokenId": 100,
+  "chainId": "137",
+  "name": "KC #100",
+  "description": "kitonaart collection\n\nKC #100\n\nhttps://twitter.com/kitona0223/status/1740858719024619842\n\n© 2023 kitona0223",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "張文甘龍",
+      "trait_type": "Name"
+    }
+  ]
+}

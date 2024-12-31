@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU14Q8gV8KL4u21G2qVqEdeLxtZH4pXZxxGsRL3B5X3V1/nft.jpg",
+  "nftContractAddress": "0x605bb49582edcc4efc44385e97b55684d3d0bbdd",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "137",
+  "name": "My Only Girlfriend #018",
+  "description": "\"My Only Girlfriend\" is a collection of special expressions that she shows only to you. \nWhy don't you get your own special girlfriend?\n\n\"Merry Christmas! Will you spend time with me tonight?\" She was wearing a Santa-like costume in front of the Christmas tree. I hope you enjoy yourself tonight.\n\n＊＊＊\n\n「My Only Girlfriend」は彼女があなただけに見せる特別な表情を切り取ったコレクションです。 \nあなただけの特別な彼女を手に入れてみませんか？\n\n「メリークリスマス！今夜は一緒に過ごしてくれる？」クリスマスツリーの前でサンタのような衣装を着た彼女。今夜は楽しんでくださいね。",
+  "attributes": [
+    {
+      "value": "female",
+      "trait_type": "character"
+    },
+    {
+      "value": "red",
+      "trait_type": "color"
+    }
+  ]
+}

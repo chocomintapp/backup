@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeVV5khxbAZEHcbP5LPjf3uwmHjFgWsRXn1dnNpMryH1M/nft.jpg",
+  "tokenId": 1,
+  "description": "Red Angel in Christmas",
+  "nftContractAddress": "0x83311758672da24730a52af9f76552087e0892ad",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Red Angel in Christmas",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    }
+  ]
+}

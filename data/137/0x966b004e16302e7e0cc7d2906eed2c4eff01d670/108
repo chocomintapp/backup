@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYCKduyrxAhUR7CCDN2soJmjmCMuiKbPxyrxyfY9sm5zj/nft.png",
+  "tokenId": 108,
+  "description": "Created by [Monstarz](https://opensea.io/Monstarz?tab=created)\n\nLimited 1/1\n\nA little sad Monstarz. This Monstarz is minted by their original contract (MSZ).",
+  "nftContractAddress": "0x966b004e16302e7e0cc7d2906eed2c4eff01d670",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "#0108 Hudson",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "UnCommon"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPQm6RK9WxFYPohQh9PDx8X22gzdTRrXPy1a8mUnBdTD9/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 740,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #740",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Marimo",
+      "trait_type": "TYPE"
+    }
+  ]
+}

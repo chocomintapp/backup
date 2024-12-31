@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXvUiSHNooEGwtxELoYE89KAasZ6qCNcbNgYK8dJANiTd/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #39",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Sea cucumber",
+      "trait_type": "TYPE"
+    }
+  ]
+}

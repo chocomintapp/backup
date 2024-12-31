@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeW2QF3MHAP84pTN7TPuhvKiFgPh4Xyw62Kk4vRdXMVN4/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 91,
+  "chainId": "137",
+  "name": "#0087_Niton_GCWMRW_CBry_Bst",
+  "description": "0087_Niton_GCWMRW_CBry_Bst\n\nブーストアイテムにて変化しています！",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Niton",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Pale Turquoise",
+      "trait_type": "Color1"
+    },
+    {
+      "value": "Carnation Pink",
+      "trait_type": "Color2"
+    },
+    {
+      "value": "Cerulean",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Impossible",
+      "trait_type": "IROTASU"
+    },
+    {
+      "value": "none",
+      "trait_type": "Feature"
+    },
+    {
+      "value": "Acrylic",
+      "trait_type": "Boost"
+    },
+    {
+      "value": "Three  Eyes",
+      "trait_type": "Eyes"
+    }
+  ]
+}

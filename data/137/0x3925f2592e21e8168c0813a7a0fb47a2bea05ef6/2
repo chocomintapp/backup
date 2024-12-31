@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX1TV8DaVMWxLwxPZe9CPnR1FkGW15wjEZqUguSQb1Lmo/nft.png",
+  "nftContractAddress": "0x3925f2592e21e8168c0813a7a0fb47a2bea05ef6",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "Debora [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nDebora\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR PETIT]",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Close",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Plaid",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Head Scarf",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "PETITI",
+      "trait_type": "LOM ELIXIR"
+    }
+  ],
+  "minted": "✅"
+}

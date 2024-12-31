@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYEaaiAwTd2bXHVj7E6xgtdwZsVbA1QRnue21QWGYgHii/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 70,
+  "chainId": "137",
+  "name": "レジ前で小銭がなかなか掴めないえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "シャイ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "ガパオライス",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "モロヘイヤ",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "動画編集",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "セイテハコトヲシソンジル",
+      "trait_type": "座右の銘"
+    }
+  ]
+}

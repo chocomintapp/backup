@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSdbLVjzSby99EVW1RZDGfNoeqQVRwG2iSgg2uS75UqVG/nft.png",
+  "tokenId": 3,
+  "description": "My first song on NFT",
+  "nftContractAddress": "0x6578782f88e7cca685f7cd2605dd1e9f6caaca70",
+  "animationUrl": "https://ipfs.io/ipfs/QmUfKTRKNsc8Hqnn9tBt9m12dQXx3tPDGjLzAXXrd7nY9X/nft.mp3",
+  "chainId": "137",
+  "name": "What?"
+}

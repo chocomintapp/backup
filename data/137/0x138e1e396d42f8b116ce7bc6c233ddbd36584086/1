@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVXL9mF3fpzhAqmdMEhoMJmqfEg6VxZFk44e7S4EDfwoa/nft.png",
+  "nftContractAddress": "0x138e1e396d42f8b116ce7bc6c233ddbd36584086",
+  "animationUrl": "https://ipfs.io/ipfs/QmVXL9mF3fpzhAqmdMEhoMJmqfEg6VxZFk44e7S4EDfwoa/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "hello",
+  "description": "can u hear me?\n",
+  "attributes": []
+}

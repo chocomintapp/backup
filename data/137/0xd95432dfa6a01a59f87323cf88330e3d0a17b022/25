@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdh3ooqubwMAsWP5fxAn8aKYHz9xpYsCFWuNrFmptRAoV/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "137",
+  "name": "大吉 Alpaca #25",
+  "description": "アルパカパカパカパッパカパー。笑\n\nAlpaca Paka Paka Pappa Kappa.hahaha\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープル公式↓\n\nhttps://opensea.io/collection/coverdpeople-collection",
+  "attributes": [
+    {
+      "value": "alpaca",
+      "trait_type": "special item"
+    }
+  ]
+}

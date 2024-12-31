@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZRqNNzw9BBWSz15uxWKXEUhdn1p4kLm5YsdwAn7KPdqP/nft.png",
+  "tokenId": 1,
+  "description": "Name:Jack the Ripper\nSeasoning:pepper",
+  "nftContractAddress": "0xd0b78e633fba1d8f3b758c2534f51093cf29d8d3",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Jack the Pepper"
+}

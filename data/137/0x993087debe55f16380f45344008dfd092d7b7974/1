@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWKf41Mn2isfvNNofSn4pE8C5vjFCvgr7M73VZJDRmyL3/nft.jpg",
+  "nftContractAddress": "0x993087debe55f16380f45344008dfd092d7b7974",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "肩たたき券",
+  "description": "肩たたき券です。",
+  "attributes": []
+}

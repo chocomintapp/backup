@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS55bdPfeNLXLBfrthgGQXYs6WKdXZazjqRKGKGU4H6Ze/nft.gif",
+  "nftContractAddress": "0xdf9f5cb487e311f68812124eb1af4970ce88b786",
+  "animationUrl": "",
+  "tokenId": 70,
+  "chainId": "137",
+  "name": "Ganmichan's very long wanko #3",
+  "description": "",
+  "attributes": [
+    {
+      "value": "wanko",
+      "trait_type": "series"
+    },
+    {
+      "value": "verylong",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

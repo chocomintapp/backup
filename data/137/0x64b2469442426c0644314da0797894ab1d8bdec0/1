@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ1VjWko1yXndXNdWSW1wyup9M5PdofnPqjXHb6asi5fN/nft.png",
+  "nftContractAddress": "0x64b2469442426c0644314da0797894ab1d8bdec0",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "まいこんてすとNFT",
+  "description": "By myconsulting\n\n▼権利内容 \n・せかビーでワインが試飲できる権利 \n・NFT保有者限定のコミュニティへの参加権（マル秘情報の提供等） \n※作品所有者が、NFTデザインを使用しグッズ制作/販売/配布を行う行為は禁止といたします。",
+  "attributes": [
+    {
+      "value": "白",
+      "trait_type": "背景"
+    },
+    {
+      "value": "黒",
+      "trait_type": "文字"
+    }
+  ]
+}

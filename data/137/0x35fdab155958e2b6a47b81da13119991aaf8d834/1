@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZovWBm6zYkNozWk2Ld7NAnirwfF3AGffVW8xyGfaMphR/nft.png",
+  "tokenId": 1,
+  "description": "This is the cover for the publication of the 4-panel manga collection, which will be used for the kindle version. And this NFT is also the first work using my own contract.\n4コマ漫画コレクションの発行用表紙です。kindleにする時に使います。そしてこのNFTは最初の独自コントラクトを使った作品でもあります。",
+  "nftContractAddress": "0x35fdab155958e2b6a47b81da13119991aaf8d834",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Comic Collection Cover",
+  "attributes": []
+}

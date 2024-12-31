@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ86CTAuD9Z9rw5tVJ1fs5rAac9fVLxsM1kRdx8CQ7Wnh/nft.jpg",
+  "nftContractAddress": "0x868e8783df9b0ba4afa2409b266b632de2aa4bdb",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "DICEE",
+  "description": "You Found Dice.",
+  "attributes": [],
+  "minted": ""
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZENj9r2GDK9hzCXxY65tPq9VijQXpFRzgM6kAjTvtJx5/nft.gif",
+  "tokenId": 1,
+  "description": "My Crypto Heroes Battle Log",
+  "nftContractAddress": "0x12e540b22f9d6089c614d51eacfde0dd79f0d1bb",
+  "animationUrl": "https://ipfs.io/ipfs/QmZENj9r2GDK9hzCXxY65tPq9VijQXpFRzgM6kAjTvtJx5/nft.gif",
+  "chainId": "137",
+  "name": "My Crypto Heroes Battle Log"
+}

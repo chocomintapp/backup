@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXssLDY9RifjXYS8VrvBcWud2gjc4NSmr6QGmFQWLiMh6/nft.png",
+  "tokenId": 12,
+  "description": "Silver Photo Frame",
+  "nftContractAddress": "0x9a5b20e07f1826d9202abe092f8dd45f89cc583f",
+  "animationUrl": "https://ipfs.io/ipfs/Qmd46vg5TwfiGJckzPQWWmLYnHzqjWdFM28ozNZwQeErxM/nft.glb",
+  "chainId": "137",
+  "name": "digital-signage-proto_002",
+  "attributes": []
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVyFiKmfHXcRddrKyTLXpAeaagc8RTTDXGNAukBLPafXw/nft.jpg",
+  "nftContractAddress": "0x5f2e42f34d63eb91ab13974ecb6a911d57d18133",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "137",
+  "name": "Chibikko-saurus girl#10",
+  "description": "What do you want to do when you grow up?",
+  "attributes": [
+    {
+      "value": "Ankyrosaurus",
+      "trait_type": "character"
+    },
+    {
+      "value": "Cool",
+      "trait_type": "personality"
+    }
+  ]
+}

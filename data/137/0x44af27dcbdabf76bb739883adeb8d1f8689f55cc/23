@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdfrBky4cRtqAW6zTdenx5DoSHrLjKmZotyrm8ysMEFni/nft.jpg",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/Qmdrq8YavbEPkpwnVLgP9Ux9CWmBque5RVCTgV6uiZwtAU/nft.glb",
+  "tokenId": 23,
+  "chainId": "137",
+  "name": "FLORA",
+  "description": "3D Object",
+  "attributes": [
+    {
+      "value": "3D",
+      "trait_type": "3D"
+    }
+  ]
+}

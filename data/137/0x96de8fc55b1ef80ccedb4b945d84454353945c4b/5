@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSvkN6Lex964wMErJS9HobNJk8j9XKjc46gYoc3PT4pCV/nft.png",
+  "tokenId": 5,
+  "description": "AnimeLoot_Tool_Test  \nモデル確認用  \nhttps://hub.vroid.com/characters/6765106777243540013/models/1663405394934062198",
+  "nftContractAddress": "0x96de8fc55b1ef80ccedb4b945d84454353945c4b",
+  "animationUrl": "https://ipfs.io/ipfs/QmX3LQaXYCS5y4QyJS3y4ePbG2TyN4i4GoJCigVzygRDxK/nft.glb",
+  "chainId": "137",
+  "name": "ModelCheck",
+  "attributes": []
+}

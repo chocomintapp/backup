@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS38BwBeys9BqyNrUjpPKb3jH2bKoreMBdPjHoieaWZaU/nft.png",
+  "nftContractAddress": "0x29b3f53c0f5335e41be9fdb89f5dc0c714b25387",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc72fRPPqWVnHHsuw1Ts9FqpXhbtWADDUwZ126Dd3b67n/nft.mp3",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Bad Place",
+  "description": "Public domain NFTs",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

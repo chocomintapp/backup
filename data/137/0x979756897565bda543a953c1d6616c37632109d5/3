@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWQeu7QCMpivLFueXHcBbCwj3GRboQWxmL8it6jRoWSyR/nft.png",
+  "nftContractAddress": "0x979756897565bda543a953c1d6616c37632109d5",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "Ticket to the void No.3",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Sana",
+      "trait_type": "MOM"
+    }
+  ],
+  "minted": "✅"
+}

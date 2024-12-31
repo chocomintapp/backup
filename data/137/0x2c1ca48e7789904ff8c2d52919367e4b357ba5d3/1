@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcKbKcfksDZTkuzACtLbizJDJCvwz714Huz1dt8k8LAVh/nft.jpg",
+  "nftContractAddress": "0x2c1ca48e7789904ff8c2d52919367e4b357ba5d3",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "FUJIYAMA",
+  "description": "唯一無二の山",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZYDhFRgZzDqeG6g41pTiXEFXiio8T5m5WHYiis1oogwV/nft.png",
+  "tokenId": 1,
+  "description": "obihiro",
+  "nftContractAddress": "0xe206771c3459ee76677b04766dc36f704256da00",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "obihiro",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTFANzWvukwm3NVSQrmhg3pLpBLz1WRH5F15YvG7naQZP/nft.jpg",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 46,
+  "chainId": "137",
+  "name": "大吉 Pumpkin ♯46",
+  "description": "ハロウィンと言えばコレです。笑\n\nThis is what Halloween is all about.hahaha\n\nカバードピープルパートナーコレクション\n\nCOVERED PEOPLE Partner Collection : )\n\nカバードピープル official ↓\n\nhttps://opensea.io/collection/coverdpeople-collection\n\n\n\n",
+  "attributes": [
+    {
+      "value": "Pumpkin",
+      "trait_type": "Special Item"
+    }
+  ]
+}

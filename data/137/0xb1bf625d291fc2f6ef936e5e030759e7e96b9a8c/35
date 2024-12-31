@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXVYYgDJhexv7G5ue42YR3mYctyjAQcSUusD2KCuwSrhf/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "137",
+  "name": "HUNIMAL #35",
+  "description": "Human + Animal = Hunimal",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Fluorescent green",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Panda + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "B-Boy",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Fade",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Hiphop",
+      "trait_type": "STYLE"
+    }
+  ]
+}

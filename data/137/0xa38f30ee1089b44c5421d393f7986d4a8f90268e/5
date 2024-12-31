@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ3ZeSNewaG9xtMt1HR62zCV6EepUA2seSx16xjuFCc89/nft.gif",
+  "tokenId": 5,
+  "description": "",
+  "nftContractAddress": "0xa38f30ee1089b44c5421d393f7986d4a8f90268e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "CityPop",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Blue Basic"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Bunny"
+    },
+    {
+      "trait_type": "Headphone",
+      "value": "Yellow V.2"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Robo V.2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Tanktop"
+    },
+    {
+      "trait_type": "Bag",
+      "value": "Black Backpack"
+    },
+    {
+      "trait_type": "Pet",
+      "value": "Octopus"
+    },
+    {
+      "trait_type": "Background",
+      "value": "City Pop"
+    }
+  ]
+}

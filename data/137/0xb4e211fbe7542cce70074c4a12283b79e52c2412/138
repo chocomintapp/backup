@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdGhhbE6zfvSvje1UbazZzJ6LS9fJbmcicUThWeY1sGbG/nft.png",
+  "tokenId": 138,
+  "description": "Contemporary art style Modern mosaic medjed",
+  "nftContractAddress": "0xb4e211fbe7542cce70074c4a12283b79e52c2412",
+  "animationUrl": "https://ipfs.io/ipfs/QmdGhhbE6zfvSvje1UbazZzJ6LS9fJbmcicUThWeY1sGbG/nft.png",
+  "chainId": "137",
+  "name": "medjed no.138/1000",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

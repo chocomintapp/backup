@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSvg7bcremA4A5gbW4Afobwecu1uDVrESQS7BzjaKc1QK/nft.png",
+  "tokenId": 7,
+  "description": "Name:イソップ\nSeasoning:syrup",
+  "nftContractAddress": "0x0cec5e76717e1f69cc9d952f91efa8f673f11b15",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Syrup"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmepWN6aTsMBXokm8yn3uDZN2sb4tjCPfkj3Qs7aXwsHVn/nft.png",
+  "tokenId": 23,
+  "description": "Auto racing art",
+  "nftContractAddress": "0x9c89337c80abf33d7f27ccb7a700052f605abe86",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Auto race",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

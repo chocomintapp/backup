@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdXP8jwoUBcK12z9SKqRu2rS9sGuhpBFdDrTgfyqfe2j8/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 339,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #339",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Polar Bear",
+      "trait_type": "TYPE"
+    }
+  ]
+}

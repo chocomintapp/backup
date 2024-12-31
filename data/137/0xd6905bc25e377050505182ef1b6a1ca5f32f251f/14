@@ -1,0 +1,16 @@
+{
+  "image": "https://bafybeihpkbhaknpnny6dclvgkv4ni6hblvb4c6ezd3ekk2cvxiqp3il72a.ipfs.nftstorage.link/photo_2022-08-07_13-34-30.jpg",
+  "nftContractAddress": "0xd6905bc25e377050505182ef1b6a1ca5f32f251f",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "A Tiny Glass",
+  "description": "Small terrariums are hard to build. Especially if it's a smaller one.\n\nToday's client gave me a challenge. Giving me a small glass, she asked me to build a terrarium inside.\n\nYuki bought a lot of ingredients. Moss, stones, plants... I tried a lot, but I couldn't make a good one, so Yuki has to bring those again. She looked annoyed.\n\nAfter many tries, I was almost giving up. But then Yanghwa helped me. With her small hands, she slowly built a peaceful terrarium inside the glass.\n\nThe client looked very happy. She thanked me, but I told her that it couldn't be done without Yuki and Yanghwa. The client paid me a lot, so we had a nice dinner.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Terrarium",
+      "trait_type": "Style"
+    }
+  ]
+}

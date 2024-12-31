@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcgNZgvohsjuLnyoMQw8YMHY6pXcmxH9sykM89SqWTBsY/nft.jpg",
+  "nftContractAddress": "0x782a9da253fb0f037743ceddaa79a03bd871de85",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "137",
+  "name": "VerySilentFruits#24 Mandarin",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Mandarin",
+      "trait_type": "Fruit"
+    }
+  ]
+}

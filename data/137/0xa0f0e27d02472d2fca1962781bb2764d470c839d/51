@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWfgwyg14s1Wo7yZx1SVEMgSTKCqw2R4w8dLG89rLdGmK/nft.png",
+  "tokenId": 51,
+  "description": "アシカもショーとかやって頑張ってるよなー。\n\nThe sea lions are doing a great job with their shows.",
+  "nftContractAddress": "0xa0f0e27d02472d2fca1962781bb2764d470c839d",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Steller Sea Lion（トド）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Steller Sea Lion"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

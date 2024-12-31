@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmafX3KpQov3fKYtjtJzjYpTs5N9i3x7wUYP59LLWpwmL8/nft.jpg",
+  "nftContractAddress": "0xe625f500d91db7f45adcda0f5e63d20796f781b5",
+  "animationUrl": "https://ipfs.io/ipfs/QmbAoLYbqDk36MmLV6DouTVPt5NwbRrUWcx9JbX8oamTea/nft.glb",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "IwakenCube",
+  "description": "",
+  "attributes": [],
+  "minted": "✅"
+}

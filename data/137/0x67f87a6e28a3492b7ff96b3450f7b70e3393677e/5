@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY6mffbtVRBTpm1m19Nb9zjnTXA2bbTDMTYNU1hUm4d5U/nft.png",
+  "nftContractAddress": "0x67f87a6e28a3492b7ff96b3450f7b70e3393677e",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "VeryPoliticalLongAnimals #010",
+  "description": "Fixer",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "tiger",
+      "trait_type": "Type"
+    },
+    {
+      "value": "bronze",
+      "trait_type": "Grade"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

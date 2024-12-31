@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWj7MvaBPg4KysTzmRe2yRrvNgaRFLAS8LLV3qt6QWjgP/nft.png",
+  "tokenId": 86,
+  "description": "Creator [Maneki_Mi_Neko](https://opensea.io/Maneki_Mi_Neko?tab=created_collections)\n\nおみくじ美ねこ　凶の巻",
+  "nftContractAddress": "0x61e5a42739b7aaa4acf738d7bd4b5ece0dc7799b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "凶 #4",
+  "attributes": [
+    {
+      "trait_type": "Luck",
+      "value": "凶"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Maneki_Mi_Neko"
+    },
+    {
+      "trait_type": "Type",
+      "value": "picture card"
+    },
+    {
+      "trait_type": "State",
+      "value": "Unopened"
+    }
+  ]
+}

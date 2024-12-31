@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPAcReBHpq8Y5U8zw672nvoLbdB4cph93M1q6z3HGhijN/nft.jpg",
+  "tokenId": 1,
+  "description": "BB",
+  "nftContractAddress": "0x1924f6420f37d153dfc374e46d5d3de35e78ebab",
+  "animationUrl": "https://ipfs.io/ipfs/QmTh5kCS8CfvibsS9efGxcd4ForfGtmDqgocgfZbpcEF6e/nft.mp3",
+  "chainId": "137",
+  "name": "BB"
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUyZZWG2GXrkUZcaeTjcc67ptbGvJyySR9KvZCXP8YLj5/nft.png",
+  "nftContractAddress": "0x78d7601eceb0f780713dd915c29253c39679e767",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "137",
+  "name": "#39 Hug cat(Tsuki)",
+  "description": "💐Thanks",
+  "attributes": [
+    {
+      "value": "Hug",
+      "trait_type": "Type"
+    },
+    {
+      "value": "cat",
+      "trait_type": "Hug"
+    },
+    {
+      "value": "Tsuki",
+      "trait_type": "Character"
+    }
+  ],
+  "minted": "✅"
+}

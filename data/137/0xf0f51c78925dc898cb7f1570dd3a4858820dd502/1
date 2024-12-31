@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYjzcamK3BEyAxZ1ik6jQ24237m389HekwRA32HcPo5PS/nft.jpg",
+  "nftContractAddress": "0xf0f51c78925dc898cb7f1570dd3a4858820dd502",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "POPET #a walk.blue",
+  "description": "【第一弾POPETGIVEAWAY企画限定イラスト】\n\n「新しい日が始まる。今日は街に出たい気分。」",
+  "attributes": [
+    {
+      "value": "2022/9/28",
+      "trait_type": "birthday"
+    }
+  ],
+  "minted": "✅"
+}

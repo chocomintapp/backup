@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcSs5yRDmL9GB1o6WQ8KdTnJiJj6HGy1vs7K8P1EXu9dq/nft.png",
+  "nftContractAddress": "0xe76730b061a84e0a38d7d9e048613d811f42c215",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "137",
+  "name": "THS #034",
+  "description": "【集】",
+  "attributes": [
+    {
+      "value": "butterfly",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "pine tree",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

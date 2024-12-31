@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZfVfT7LLpUsWKj5L5nUDjxKPJAj5axbjZZr4sQV5bnkA/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 311,
+  "chainId": "137",
+  "name": "#311",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Fog and phantom",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#541371",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Polluted nation",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Gas mask/Built-in thermal vision",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "Details unknown",
+      "trait_type": "main damage"
+    }
+  ]
+}

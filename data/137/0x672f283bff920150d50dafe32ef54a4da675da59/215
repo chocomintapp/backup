@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYzodqrMBPWjeoySy45BEqh7GDVVZzKbMBs7fjXHs6yC3/nft.png",
+  "tokenId": 215,
+  "description": "愛情がなく儲けるだけではなかなか味のあるカードは作れない",
+  "nftContractAddress": "0x672f283bff920150d50dafe32ef54a4da675da59",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "LOVENFT",
+  "attributes": [],
+  "minted": ""
+}

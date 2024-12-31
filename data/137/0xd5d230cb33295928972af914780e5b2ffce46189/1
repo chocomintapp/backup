@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZmjQT5TptTiaTuPTc4TqueLuDSAhf4WcX4VPieiD9ywF/nft.jpg",
+  "nftContractAddress": "0xd5d230cb33295928972af914780e5b2ffce46189",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "LooseVeryLongAnimalBabies #65",
+  "description": "VeryLongAnimalBabies #65の二次創作です！",
+  "attributes": [
+    {
+      "value": "white cat",
+      "trait_type": "type"
+    }
+  ]
+}

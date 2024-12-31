@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdBPM8NUg8UbJqGYYJmCf9G7G8VmaU8wnX8Q6L997EsFm/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 183,
+  "chainId": "137",
+  "name": "#183",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Different world",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "Cold water",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Elemental jewels",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Water jewel",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "The power of water",
+      "trait_type": "special1"
+    },
+    {
+      "value": "cold sweat",
+      "trait_type": "Accessory1"
+    }
+  ],
+  "minted": "✅"
+}

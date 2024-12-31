@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQnVQgxB4PaWzkg4zoyyQLJTrZaovLQaSp66wtkS2uXCC/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x5440b793c06646354c0cb623076fa4eae54a2029",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Shiba Punk #2990",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

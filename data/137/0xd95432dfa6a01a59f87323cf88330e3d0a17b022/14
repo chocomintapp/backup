@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYBcZpNqnoTsc8MUctVs8kCfKDMRwPzPJ63pMyr7wxCDi/nft.png",
+  "nftContractAddress": "0xd95432dfa6a01a59f87323cf88330e3d0a17b022",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "137",
+  "name": "大吉 Glasses 99.9% success #14",
+  "description": "プロフィールに設定すると女の子をゲットできます。\n\nYou can get a girl by setting it in your profile.\n\nこのNFTには様々な特典があります。\n\nThis NFT has some special gifts.",
+  "attributes": [
+    {
+      "value": "Temptation glasses",
+      "trait_type": "special item"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV9Ui99bgAzN23BtwWSZneCi7LyR3xGjzBYV5dw8u5j9v/nft.png",
+  "nftContractAddress": "0x62ba0b7f76d44cb63cf1cba32d0ba0a6426c3158",
+  "animationUrl": "",
+  "tokenId": 561,
+  "chainId": "137",
+  "name": "VeryLongAnimalBabies 2nd #561",
+  "description": "This collection is the 2nd collection of VeryLongAnimalBabies.\n【VeryLongAnimalBabies】 https://opensea.io/collection/verylonganimalbabies",
+  "attributes": [
+    {
+      "value": "Giraffe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

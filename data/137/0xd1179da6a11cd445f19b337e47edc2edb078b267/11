@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTdf4g52ZWqv961mLpqPmr9RDtoKxaTASgfHk71fsLdj1/nft.png",
+  "nftContractAddress": "0xd1179da6a11cd445f19b337e47edc2edb078b267",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "137",
+  "name": "Certificate of Option Trading Basic Class",
+  "description": "This certificate certifies that this one passed the options trading basic exam and has a basic knowledge of options trading.\n\nIssuer: Crypto Hiroba",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Perfect",
+      "trait_type": "Result"
+    },
+    {
+      "value": "0x16Bc16480eaafd46fc4c971f0555498c53dd581E",
+      "trait_type": "Exam taker"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVTfSHCjhSkYtNzb5z6RKrBpRLPNjkr2gqkgiQRBp5fcv/nft.png",
+  "nftContractAddress": "0x224f72db4e863a349a63a6cfb4cffb4277f60bf0",
+  "animationUrl": "https://ipfs.io/ipfs/QmXEVLX3jRPPDdrEGfRNMAmi7JXjfWvgmxwSUhJXFQd14V/nft.png",
+  "tokenId": 44,
+  "chainId": "137",
+  "name": "#44 CRYPPL - Battle Mage Wolfram of the Wood",
+  "description": "Hello Battle Mage Wolfram of the Wood.",
+  "attributes": [
+    {
+      "value": "784",
+      "trait_type": "FRWC_ID"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://gateway.pinata.cloud/ipfs/QmRsCeGzcgJaXzF144wTabo5FgSyjW2bZR9R5CP3GNe8VY",
+  "tokenId": 4,
+  "description": "このNFTはプログラミングにより生成されています表示する度に生成される画像が異なるアニメーション画像ですThis work is an art created automatically by programming. The pattern generated changes every time",
+  "nftContractAddress": "0x00f3e61b48f97f001fefd952fa86e3d7eb65c5a6",
+  "animationUrl": "https://gateway.pinata.cloud/ipfs/QmXNafk6tg9mraKt9CekoXxWa22Tgj2U1acGJc5dWv5bHw/",
+  "chainId": "137",
+  "name": "#4 Generative Art",
+  "attributes": [],
+  "minted": "✅"
+}

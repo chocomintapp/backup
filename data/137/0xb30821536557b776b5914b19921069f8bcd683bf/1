@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQZZDhfWYf2CVHS1MVgmVtd4PqwZb55H2ygHriVnRiwfr/nft.png",
+  "nftContractAddress": "0xb30821536557b776b5914b19921069f8bcd683bf",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "Mayo Attack Image",
+  "description": "独自コントラクトMATICのNFT\nHidden通り抜けるテスト",
+  "attributes": [],
+  "minted": "✅"
+}

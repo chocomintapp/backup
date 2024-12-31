@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZShCVJaAbYaddmvq2ns5NLBYbVeqAPgQt5F9Hdjw1T9p/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "137",
+  "name": "HUNIMAL #24",
+  "description": "Human + Animal = Hunimal",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Sheep + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Naked",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Afro",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Soul Train",
+      "trait_type": "STYLE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmajEqqHffjpv6SQfZY4W4csXmEn7SbsQpsjDDRnJEVwf2/nft.gif",
+  "nftContractAddress": "0x3b8a27ccced9f1057b8e716326de863b01659564",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "137",
+  "name": "VeryLongHairAnimals #33",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Duck",
+      "trait_type": "TYPE"
+    }
+  ]
+}

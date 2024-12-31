@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQuCnPtxWCFfDySXXuHTntEtKdtzMcdt6bRHqVT95Yc75/nft.png",
+  "nftContractAddress": "0xb56e49b6428c85c77df4a936162509962caed661",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "Wrangler",
+  "description": "Wrangler\n\nA skill that can be learnt when reaching level 10 in farming.\n\nIt can be minted only through gameplay.\n\nSupply\n\nUnlimited\n\nLink\n\nContributor\nSunflower Land is an open source game built by a community of hundreds of developers and artists across the globe.\n\nCome join us on Github\n\nDesigned by @Alexcnder",
+  "attributes": [
+    {
+      "value": "Boost",
+      "trait_type": "PURPOSE"
+    }
+  ]
+}

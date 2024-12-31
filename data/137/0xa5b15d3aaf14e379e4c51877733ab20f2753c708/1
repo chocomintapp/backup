@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdgmqtPGem7j58KjjyuTM7q6ho7wApZMhtJjZ2JjcxZPA/nft.png",
+  "tokenId": 1,
+  "description": "painted hasaway",
+  "nftContractAddress": "0xa5b15d3aaf14e379e4c51877733ab20f2753c708",
+  "animationUrl": "https://ipfs.io/ipfs/QmdgmqtPGem7j58KjjyuTM7q6ho7wApZMhtJjZ2JjcxZPA/nft.png",
+  "chainId": "137",
+  "name": "painted hasaway"
+}

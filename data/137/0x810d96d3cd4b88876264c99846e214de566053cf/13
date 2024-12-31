@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWvWqXYHJsTH9quRQqpFUowAhggcZ7q4riHwMV8PnXEkU/nft.png",
+  "tokenId": 13,
+  "description": "LINE Digital Art NFT",
+  "nftContractAddress": "0x810d96d3cd4b88876264c99846e214de566053cf",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "stagram"
+}

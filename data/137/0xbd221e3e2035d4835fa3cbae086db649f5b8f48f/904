@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPnwYxnXXKMEFuit4DU5SbpRxGzFK57pEx12mNdhR4jfZ/nft.mp4",
+  "nftContractAddress": "0xbd221e3e2035d4835fa3cbae086db649f5b8f48f",
+  "animationUrl": "https://ipfs.io/ipfs/QmPnwYxnXXKMEFuit4DU5SbpRxGzFK57pEx12mNdhR4jfZ/nft.mp4",
+  "tokenId": 904,
+  "chainId": "137",
+  "name": "Sneaker Doggy Dogg #1004",
+  "description": "過半数がスマホで参加\nならメタバライブはクラスター",
+  "attributes": [
+    {
+      "value": "aj2",
+      "trait_type": "M"
+    },
+    {
+      "value": "Bプルート",
+      "trait_type": "押韻職人"
+    },
+    {
+      "value": "禅",
+      "trait_type": "BG"
+    }
+  ]
+}

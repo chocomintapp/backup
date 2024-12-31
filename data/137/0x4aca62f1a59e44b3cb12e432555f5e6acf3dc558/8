@@ -1,0 +1,56 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZUGvazb695J4Dt8AEjHixhknNTnAM6Z6jMRjUXSePEey/nft.png",
+  "tokenId": 8,
+  "description": "One of my first MINTs.   \nIf you have this NFT. you will have good luck!   \nIt comes only to those who have it.   \nKapsel contains the present, the past, and the future.   \nYou are a special one.",
+  "nftContractAddress": "0x4aca62f1a59e44b3cb12e432555f5e6acf3dc558",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "TheKAPSEL#8",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Brand",
+      "value": "Kapsel78Lab"
+    },
+    {
+      "trait_type": "Collections",
+      "value": "The KAPSEL78"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Morim"
+    },
+    {
+      "trait_type": "Gen",
+      "value": "1"
+    },
+    {
+      "trait_type": "TYPE",
+      "value": "Plain"
+    },
+    {
+      "trait_type": "Upper outer",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Lower outer",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Font",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Name",
+      "value": "The gold"
+    },
+    {
+      "trait_type": "Background",
+      "value": "White"
+    }
+  ]
+}

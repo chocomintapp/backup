@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVNVsqBXwhuiDkGDw1CVaq2hjB1yCcKesGxDNmDK3jGzs/nft.jpg",
+  "nftContractAddress": "0x547abf3b0afc35391991c789969ef5fad760395b",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "kaigyou ",
+  "description": "kaigyou     kaigyou  kaigyou",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "rarety",
+      "trait_type": "レア度"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaRRrMN58ddmHuqmZsV67kZ7f5nmCNodWwL8rmkW9KVKB/nft.png",
+  "tokenId": 2,
+  "description": "Puffin for icon",
+  "nftContractAddress": "0x98e37d44de6000f7f0d8d44872a0ccd23f6456b0",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Puffin#001",
+  "attributes": []
+}

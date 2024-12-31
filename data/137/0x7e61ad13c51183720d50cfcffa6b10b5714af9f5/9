@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUJiaEXb91SEWCzC69RC5KgUuWncSKhxv3ZLqMWw5yzWw/nft.png",
+  "nftContractAddress": "0x7e61ad13c51183720d50cfcffa6b10b5714af9f5",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "137",
+  "name": "VeryLongEnglishAnimals #9",
+  "description": "This is a secondary production of \"VeryLongAnimals\"\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Hamster",
+      "trait_type": "TYPE"
+    }
+  ]
+}

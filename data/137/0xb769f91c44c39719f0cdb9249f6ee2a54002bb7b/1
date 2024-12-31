@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTnUxux9EUX9Ska8JSNe9cz74EugNnTQ5sujJt1ABoAZJ/nft.png",
+  "nftContractAddress": "0xb769f91c44c39719f0cdb9249f6ee2a54002bb7b",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "MAGC#001",
+  "description": "がんぐりおさん（@gangxxlion）とゆーさん（@893i4take2nzin\n）と太助君（@WB11iZVSIGcgrX7）のコラボ作品",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": ""
+}

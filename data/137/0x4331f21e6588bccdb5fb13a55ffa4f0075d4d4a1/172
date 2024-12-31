@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdgsviXvtgBFPydaCarNVVUpqqQnBvRSHVjPDpeXM8Xjq/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 172,
+  "chainId": "137",
+  "name": "WMM #0172 ZERO model21 tetsuzo Iwamoto",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**ZERO model21 tetsuzo Iwamoto**  \nHis self-reported number of downed planes is 202, and he is the strongest \"shot-down king\" of the Japanese Army, having shot down at least 80 planes.\n\nAfter the outbreak of the Pacific War, he was a crew member of the aircraft carrier \"Zuikaku\" and took an active part in direct cover overhead cover.\n\nAfter that, he continued to increase the number of aircraft shot down on all fronts according to the war situation, and survived until the end of the war.\n\nThe aircraft identification markings of the \"Zuikaku\" carrier squadron are reproduced.\n\n**零式艦上戦闘機21型 岩本 徹三機**  \n自己申告の撃墜数は202機、少なくとも80機は撃墜しているという日本軍最強の「撃墜王」です。\n\n支那事変の段階ですでに14機を撃墜するなど、目覚ましい実績を見せ、太平洋戦争開戦後は空母「瑞鶴」の搭乗員として上空直掩などで活躍。\n\nその後も戦況に応じてあらゆる戦線で撃墜数を伸ばし終戦まで生き残りました。\n\n空母瑞鶴飛行隊時の機体識別マークを再現しました。",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Ace aircraft",
+      "trait_type": "Airplane"
+    }
+  ]
+}

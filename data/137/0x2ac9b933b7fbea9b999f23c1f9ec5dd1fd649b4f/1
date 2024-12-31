@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNvmx1fsGGJMuXWK5Sa3yVRZDv8hSdTyJqJh2VZhjGxtf/nft.png",
+  "nftContractAddress": "0x2ac9b933b7fbea9b999f23c1f9ec5dd1fd649b4f",
+  "animationUrl": "https://ipfs.io/ipfs/QmNvmx1fsGGJMuXWK5Sa3yVRZDv8hSdTyJqJh2VZhjGxtf/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "第一回GORO MEME CONTEST TROPHIES",
+  "description": "第一回GORO MEME CONTEST TROPHIES\n\n優勝者　名状し難い猫のような何か\n@Somethinglikec1",
+  "attributes": [
+    {
+      "value": "名状し難い猫のような何か @Somethinglikec1",
+      "trait_type": "優勝者"
+    }
+  ]
+}

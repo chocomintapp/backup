@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdpPW6m9Z5Afve5kpWouL7tqjTTyuCVZ6kY7aL4QhPhga/nft.mp4",
+  "tokenId": 3,
+  "description": "TOKIMEKI RECORD is a Japanese NFT specialized music label.  We will provide the BGM of Metaverse in a project in which various J",
+  "nftContractAddress": "0x18a6d08bbac6e2e1d6da943b464a7de416992f07",
+  "animationUrl": "https://ipfs.io/ipfs/QmdpPW6m9Z5Afve5kpWouL7tqjTTyuCVZ6kY7aL4QhPhga/nft.mp4",
+  "chainId": "137",
+  "name": "TOKIMEKI RECORD #0003 \"FALLIN\"",
+  "attributes": [
+    {
+      "trait_type": "Genre",
+      "value": "Trap"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Alpha"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "yuhei miura"
+    }
+  ]
+}

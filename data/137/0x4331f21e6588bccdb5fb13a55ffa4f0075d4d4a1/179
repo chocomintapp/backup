@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT2UBDbsp9RzhKDGKqULk15g1BFhwsQYnKVQm6CbVpynm/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 179,
+  "chainId": "137",
+  "name": "WMM #0179 MARDER III M",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**MARDER III M**  \nAmong the Mulder self-propelled artillery series with anti-tank guns mounted on various types of platforms, the Mulder III M is the definitive version designed with a dedicated platform.\n\nIt was a hastily built weapon to compensate for the shortage of tanks after the outbreak of the war between Germany and the Soviet Union, and was a self-propelled artillery gun with thin defenses and an open top that could not protect its soldiers.\n\nHowever, the Pak 40/3 anti-tank gun (46 caliber, 7.5 cm) mounted on it was powerful, and it was often used to destroy enemy tanks. It often destroyed enemy tanks and was the strongest weapon in terms of cost performance.\n\n\n**マルダーIII M型**  \nいろいろな車台に対戦車砲を搭載したマルダー自走砲シリーズの中でも、専用車台で設計された決定版がマルダーIII M型です。\n\n独ソ戦開戦後の戦車不足を補うための急造兵器で防御力は薄く、オープントップで兵員の保護もままならない自走砲でした。\n\nしかし搭載しているPak40/3対戦車砲（46口径7.5cm）が強力だったことから敵戦車を撃破することも多く、コスパ的には最強の兵器でした。",
+  "attributes": [
+    {
+      "value": "Germany",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Tank",
+      "trait_type": "Vehicle"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQiUwfbAdjMZ8tbaTT2nJ6xiVAG8E67iwCN4qT3yhUMtX/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 70,
+  "chainId": "137",
+  "name": "VeryLongAnimals #70",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Rhino",
+      "trait_type": "TYPE"
+    }
+  ]
+}

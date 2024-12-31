@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTNSC7Q2cfywGFgHeUfyB8FBcJ9dcnXkTSoeZiVntySU3/nft.png",
+  "nftContractAddress": "0xe0ba51d72aa03dd8af3b2440f9a14f7cc1d40a55",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "野生の勘を持つえび",
+  "description": "世界一個性的で、没個性なNFT『えびくらぶ』",
+  "attributes": [
+    {
+      "value": "ゴウカイ",
+      "trait_type": "性格"
+    },
+    {
+      "value": "タピオカ",
+      "trait_type": "好きな食べ物"
+    },
+    {
+      "value": "ピーマン",
+      "trait_type": "嫌いな食べ物"
+    },
+    {
+      "value": "釣り",
+      "trait_type": "趣味"
+    },
+    {
+      "value": "ヤッテミナハレ",
+      "trait_type": "座右の銘"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmba6rSAzyL1hFHnA9VqMgefwwWrangvb7EWeNWYt8MHwf/nft.png",
+  "nftContractAddress": "0x0ed584f956237cd686d709058e6a2af576dcb598",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "137",
+  "name": "【第5話】しろねこといぬ",
+  "description": "ベビロン(どうぶつのあかちゃん)があそんでるひとコマまんが",
+  "attributes": [
+    {
+      "value": "しろねこ",
+      "trait_type": "どうぶつ"
+    },
+    {
+      "value": "いぬ",
+      "trait_type": "どうぶつ"
+    }
+  ]
+}

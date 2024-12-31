@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUJi97NT4B9B6BzSM3U77Nrk79pwUe4pfsxoxXaxmc6ws/nft.png",
+  "tokenId": 26,
+  "description": "object\n",
+  "nftContractAddress": "0x44af27dcbdabf76bb739883adeb8d1f8689f55cc",
+  "animationUrl": "https://ipfs.io/ipfs/QmavcGRSEkBgwcxwcRegbD7tkJF7sj6bni4oFVKdtUUE8y/nft.gltf",
+  "chainId": "137",
+  "name": "fox_1",
+  "attributes": [
+    {
+      "trait_type": "3D",
+      "value": ""
+    }
+  ]
+}

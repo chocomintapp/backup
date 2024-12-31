@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcyx7UvLzJ7rHXoX4i7UW4zLUwkBp4Fg6zgAGmjSup8g4/nft.png",
+  "nftContractAddress": "0x2dd87eb8f5d2a4acae8a82183929ac9a5ef4ccab",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "137",
+  "name": "Transparent Daily life in donuts #123 May.4",
+  "description": "NFTでお届けする「ねじねじドーナツ部長」の日常です。\n\n5月4日\n\nその日、部長のもとには不思議なゴーグルが届けられました。このゴーグルを通して世界を見てみると、物事の本質が見えるというもの。試しに昼食のカレーライスを見てみると、目の前には水の入ったグラスだけが映り、肝心のカレーもスプーンも映りません。「食後に飲む、冷たい水。この美味しさを味わうために、カレーがあるような気さえすることがある」…と、いつか言ったことがあるのを思い出しました。そう、部長にとっては昼食のカレーライスの本質とは、「グラスに入った冷えた水」でもあるのです。なるほど……と、ゴーグルの力を信じ始めていた部長のすぐ後ろでは、ドーナツの表面が甘くとろけているのでした。\n\n\n---------------\n\nMay 4\n\nThat day, a pair of mysterious goggles was delivered to him. The goggles were to allow him to see the world through the goggles, and to see the true nature of things. When he tried to look at his lunch of curry and rice, he saw only a glass of water in front of his eyes, and neither the curry nor the spoon, which was the important thing, were visible. The glass of cold water that we drink after a meal is the only thing in front of our eyes. Sometimes I feel as if the curry is there for the sake of tasting this deliciousness\"...he remembered that he had once said this. Yes, for him, the essence of curry rice for lunch is also \"cold water in a glass. Well ......, he was beginning to believe in the power of the goggles, and right behind him, the surface of the DONUTS was melting sweetly.",
+  "attributes": [
+    {
+      "value": "Golden Slumber",
+      "trait_type": "DONUTS"
+    },
+    {
+      "value": "Sweet Time",
+      "trait_type": "ENVIRONMENT"
+    },
+    {
+      "value": "Barefoot",
+      "trait_type": "FOOT"
+    },
+    {
+      "value": "Black",
+      "trait_type": "KNIT CAP"
+    },
+    {
+      "value": "Black",
+      "trait_type": "SHORT PANTS"
+    },
+    {
+      "value": "White",
+      "trait_type": "T-SHIRT"
+    },
+    {
+      "value": "Green",
+      "trait_type": "ZIP HOODIE"
+    }
+  ]
+}

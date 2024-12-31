@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRhMXCqahQqkQBtQ5aJEKdcv36MYq4xY8Y6phERaPDkNy/nft.jpg",
+  "tokenId": 3,
+  "description": "食品サンプルの寿司です。",
+  "nftContractAddress": "0x7d754563754c21695ef038ba9d5f4f747336774c",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Plastic SUSHI"
+}

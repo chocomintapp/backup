@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdmTTgyCEReZt3r4dUUXn9orss7p6eeQdJsS6wDmR5dQU/nft.png",
+  "tokenId": 2,
+  "description": "ポリゴンで独自コントラクトで作成したNFTです。  \nJKにゃ",
+  "nftContractAddress": "0x2a32ac51610fb54f1c52d0e4b38551e8c5fdd9c7",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "ayaka illustration#002",
+  "attributes": [],
+  "minted": "✅"
+}

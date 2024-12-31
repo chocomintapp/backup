@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma3ZGBcmcmgG6gVhFomoCjrpVJj9ZrZH9ZNn86MngrbHX/nft.jpg",
+  "nftContractAddress": "0xaeb0a9c4fe2599f4eb938fdc6b3e891b9b3b8bb7",
+  "animationUrl": "https://ipfs.io/ipfs/QmRzBsB1twuDRfSLCivMk5K6j5jm8KmqZ2BrFkfs5ASipa/nft.mp4",
+  "tokenId": 78,
+  "chainId": "137",
+  "name": "Junkie Mouse #78",
+  "description": "Junkie mouse is a music generative NFT, limited to 1000 pieces. Enjoy your NFT life.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "74",
+      "trait_type": "melody"
+    },
+    {
+      "value": "14",
+      "trait_type": "drum"
+    }
+  ]
+}

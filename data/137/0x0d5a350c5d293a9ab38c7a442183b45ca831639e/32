@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTQd5ALruvS1uEVJsPEV5dLzo1NJWQgcC1wTDjio1f6fT/nft.jpg",
+  "nftContractAddress": "0x0d5a350c5d293a9ab38c7a442183b45ca831639e",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "137",
+  "name": "Day17 Nana's Art #50",
+  "description": "下唇を机にぶつけて切れてしまいました。唇の傷は２個目。\n\nI hit my lower lip on the desk and it was cut. This is the second scar on my lip.",
+  "attributes": [
+    {
+      "value": "Nana",
+      "trait_type": "WHO"
+    },
+    {
+      "value": "1",
+      "trait_type": "AGE"
+    }
+  ],
+  "minted": "✅"
+}

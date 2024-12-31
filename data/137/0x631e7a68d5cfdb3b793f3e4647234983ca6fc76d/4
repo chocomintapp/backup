@@ -1,0 +1,19 @@
+{
+  "image": "",
+  "nftContractAddress": "0x631e7a68d5cfdb3b793f3e4647234983ca6fc76d",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "137",
+  "name": "a",
+  "description": "b",
+  "attributes": [
+    {
+      "value": "fuga",
+      "trait_type": "hoge"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

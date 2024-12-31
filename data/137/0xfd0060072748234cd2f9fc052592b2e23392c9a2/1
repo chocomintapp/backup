@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdyY5eP9ai7Zjt7YKN5x9pEpuNMYdzifurktaBZRMaJte/nft.jpg",
+  "tokenId": 1,
+  "description": "woman #005",
+  "nftContractAddress": "0xfd0060072748234cd2f9fc052592b2e23392c9a2",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "woman",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

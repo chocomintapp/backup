@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmemB34b44bz9p7xuvWa6gaheL7h7i3aecyMR4d8SooJcx/nft.jpg",
+  "tokenId": 2,
+  "description": "test2の説明です。",
+  "nftContractAddress": "0xef947abf1227033af5f25a8d1458515a52c7d12b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "test2",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "aaa",
+      "value": "333"
+    },
+    {
+      "trait_type": "bbb",
+      "value": "444"
+    }
+  ]
+}

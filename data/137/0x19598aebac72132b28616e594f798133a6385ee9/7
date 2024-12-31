@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTHGVxtoT7sKXFgxzJofRboCiyYF9cSVTXdHqCFPQcvYQ/nft.jpg",
+  "nftContractAddress": "0x19598aebac72132b28616e594f798133a6385ee9",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "137",
+  "name": "monster",
+  "description": "",
+  "attributes": []
+}

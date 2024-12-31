@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV33b41e5KB3U5ZMbopipAfq7g7TM7y4myi11ri2UyNzJ/nft.png",
+  "nftContractAddress": "0x50a386f6ef565010b30c1a793461d09e27f193d3",
+  "animationUrl": "",
+  "tokenId": 126,
+  "chainId": "137",
+  "name": "hakorobo #126",
+  "description": "hakorobo #126 Artists Edition HKAE-21 Yu\n\noriginal work:\nhttps://hicetnunc.art/objkt/508840\n\nby:\nhttps://twitter.com/ukheyhoo",
+  "attributes": [
+    {
+      "value": "HKAE",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Shoes"
+    }
+  ]
+}

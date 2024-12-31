@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf6xVp9EgAvwQ151AUciHf1cUy8v3nmvVYeEZ7mKKQRHP/nft.png",
+  "tokenId": 6,
+  "description": "Heliocidaris crassispina",
+  "nftContractAddress": "0xb7a47919496f2defb43b9472302384664dab91b7",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Purple Sea Urchin",
+  "attributes": [
+    {
+      "trait_type": "Area",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Echinoidea"
+    }
+  ],
+  "minted": ""
+}

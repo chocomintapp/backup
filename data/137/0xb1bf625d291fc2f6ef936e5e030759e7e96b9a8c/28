@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYw6VLDQnABGqW7LjYQEqHZD8eH9dnMctCnLbKfoZuLQk/nft.jpeg",
+  "nftContractAddress": "0xb1bf625d291fc2f6ef936e5e030759e7e96b9a8c",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "137",
+  "name": "HUNIMAL #28",
+  "description": "Human + Animal = Hunimal",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Sheep + Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "1980s Miami Vice Style",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Afro",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Soul Train",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

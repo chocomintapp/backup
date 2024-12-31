@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVbbiYFc9a6p77iJfJxk9XJcWav1gqyQWqkLwhAyx3eiA/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 202,
+  "chainId": "137",
+  "name": "#202",
+  "description": "",
+  "attributes": [
+    {
+      "value": "#C9EA83",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#948559",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Crocodile friends",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "William",
+      "trait_type": "face"
+    },
+    {
+      "value": "Have a controller",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    },
+    {
+      "value": "VR headsets",
+      "trait_type": "Accessory1"
+    }
+  ],
+  "minted": "✅"
+}

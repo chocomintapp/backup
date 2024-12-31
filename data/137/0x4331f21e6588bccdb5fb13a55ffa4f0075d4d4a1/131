@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdZNVS1KrUeMpmWE8S7QwnK74fiycpcBxgdttyNyGiDGA/nft.png",
+  "tokenId": 131,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**P40**  \nThis Italian heavy tank was developed at the urging of Mussolini.\n\nWith a maximum armor thickness of 50mm, a main gun of 75mm, and a weight of 26 tons It was a medium tank class in the European front, but as the strongest tank in Italy A small number were produced by the end of the war.\n\nAfter the Italian surrender, it was used by the German army.\n\n\n**P40 重戦車**  \nムッソリーニの強い要望で開発されたイタリアの重戦車です。\n\n最大装甲厚50mm、主砲75mm、重量26tというスペックは欧州戦線では中戦車クラスでしたが、イタリア最強の戦車として終戦までに少数が製産されました。\n\nイタリア降伏後はドイツ軍に運用されています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0131 P40",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Italy"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Tank"
+    }
+  ]
+}

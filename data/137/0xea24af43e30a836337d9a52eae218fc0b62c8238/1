@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYL6JtoZU1hUt8a15hrso65zT4Gy2AHu4tGoRvHL8Epdh/nft.png",
+  "tokenId": 1,
+  "description": "Mocoアイコン用\n独自コントラクトMocontractテスト用",
+  "nftContractAddress": "0xea24af43e30a836337d9a52eae218fc0b62c8238",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "MOCO ICON ver2",
+  "attributes": []
+}

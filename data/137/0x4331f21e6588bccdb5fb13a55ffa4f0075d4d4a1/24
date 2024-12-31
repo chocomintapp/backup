@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWGbQdKQBnDvAU5P4oQ15At18vMXySh5YVmHZVW5eqVzj/nft.png",
+  "tokenId": 24,
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**MOGAMI 1944**  \nThis silhouette is MOGAMI in 1944.\n\nThe Mogami is an aircraft cruiser, a very rare type of ship in the world.  \nIt was originally born as a light cruiser, but due to political considerations and the war situation, it was repeatedly renovated and remodeled, and finally became a unique silhouette with an aircraft deck that can carry 11 seaplanes.\n\n**航空巡洋艦 最上 1944**  \n最上型軽巡洋艦として誕生しましたが政治的な思惑や戦況により改修と改装を繰り返し、最終的には世界的にも珍しい航空機を多数搭載する航空巡洋艦となりました。\n\n艦体後部に水上機を11機も搭載できる航空甲板を設置した独特なシルエットが特徴です。  \nこのNFTは1944年頃の最上を再現しています。",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "WMM #0024 MOGAMI 1944",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": " Country",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "Heavy cruiser"
+    }
+  ]
+}

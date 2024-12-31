@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVzgS4rsGQEvpTauLQQA2H9Q4HTZPJ6TfPK8sm6C6qHtQ/nft.mp4",
+  "nftContractAddress": "0x7f46652424f8e09f13f6a8dde04878b8f1f67349",
+  "animationUrl": "https://ipfs.io/ipfs/QmVzgS4rsGQEvpTauLQQA2H9Q4HTZPJ6TfPK8sm6C6qHtQ/nft.mp4",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "NFT_Pass_Holo",
+  "description": "",
+  "attributes": []
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPySby35iR8QaXhTA8xRpcyGgkbbtjM5KNbMPu4NQ8YYV/nft.jpg",
+  "nftContractAddress": "0x212790eab041c25f65ff3183f0ab9472ffcc3b72",
+  "animationUrl": "",
+  "tokenId": 141,
+  "chainId": "137",
+  "name": "PI #141",
+  "description": "The theme of this project is a relaxing space that sways between real and virtual.\nPixel data digitally collaged based on a photograph was reflected on an irregularly swaying plane to create a polygonal image.\nShooting the irregularities of virtual waves ensures the originality of each image.",
+  "attributes": [
+    {
+      "value": "Night City",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Pixel Orange Sky",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Sunset",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Airplane",
+      "trait_type": "Accessory"
+    }
+  ],
+  "minted": "✅"
+}

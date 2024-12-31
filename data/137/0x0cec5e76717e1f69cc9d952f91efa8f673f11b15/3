@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTvw6os3AQLaGifA5mxmG8KkhWXm4Rf5GjwPjxxx4Mhdx/nft.png",
+  "tokenId": 3,
+  "description": "Name:Spartacus\nSeasoning:taco",
+  "nftContractAddress": "0x0cec5e76717e1f69cc9d952f91efa8f673f11b15",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Spartacos"
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUC9Dh4pfnbagdp4dDSqeZx38a6so9A23ER9qY6dSwweT/nft.png",
+  "nftContractAddress": "0xafb7f369aaf6682916d213ba56c8a05d411920f5",
+  "animationUrl": "https://ipfs.io/ipfs/QmUC9Dh4pfnbagdp4dDSqeZx38a6so9A23ER9qY6dSwweT/nft.png",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "testだああ",
+  "description": "testですよ！choco",
+  "attributes": [],
+  "minted": ""
+}

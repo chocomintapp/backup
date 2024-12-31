@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdDQTuyGkfPbaWPnHS3JJ163Sptq88Upe39CPLMFJgsFk/nft.png",
+  "nftContractAddress": "0xb6ff710e4ec296fe5ab3a4db77bf1d14e6b9281c",
+  "animationUrl": "",
+  "tokenId": 92,
+  "chainId": "137",
+  "name": "#92",
+  "description": "daddy #92",
+  "attributes": [
+    {
+      "value": "daddy:[#45,#92]",
+      "trait_type": "sibling"
+    }
+  ],
+  "minted": "✅"
+}

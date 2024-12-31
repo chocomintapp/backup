@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSYvuXdBEsGG9JCbcHwPs4wucFrmMsTLUos3MZ1aY3Rsd/nft.png",
+  "tokenId": 1,
+  "description": "Funny Rabbits Party is a collection of 5000 NFTs generated on a polygon chain.\nFunny Rabbits are works of art and community invitations.\n\nFunny Rabbits Partyはpolygonチェーンに生成された5000個のNFTコレクションです。\nFunny Rabbitsはアート作品であり、コミュニティの招待状としての役割も兼ねそろえています。\n\n\nThe pre-sold Funny Rabbits start with an unwritten prime field and appear in sequence.\nPlease check this out for details.\nhttps://funny-rabbit-jp.com/funny-rabbits-party/\n\n先行販売されたFunny Rabbitsは、何も書かれてない素体から始まり順次姿を表します。\n詳しくはこちらをご覧ください。\nhttps://funny-rabbit-jp.com/funny-rabbits-party/",
+  "nftContractAddress": "0x134f3959d8347749dfa79b071b7f6521899e0f31",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Funny Rabbit Party #1",
+  "attributes": [],
+  "minted": ""
+}

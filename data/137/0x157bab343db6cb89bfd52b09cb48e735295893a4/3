@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSwqaBfmC9tTzTGuFLf3FbdfNNKQySXDTBfafVNW3oijz/nft.png",
+  "nftContractAddress": "0x157bab343db6cb89bfd52b09cb48e735295893a4",
+  "animationUrl": "https://ipfs.io/ipfs/QmeYnjp5fKpEhX4LZQCECDTEjWRTf9Ruk66JmPXCYzf1WX/nft.glb",
+  "tokenId": 3,
+  "chainId": "137",
+  "name": "GAS MASK",
+  "description": "test",
+  "attributes": []
+}

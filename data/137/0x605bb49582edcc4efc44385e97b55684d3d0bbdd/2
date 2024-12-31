@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUzJpWgraCpRdMaaFd1WxMcmCLMHG26APuD7CbE2uPAGZ/nft.jpg",
+  "nftContractAddress": "0x605bb49582edcc4efc44385e97b55684d3d0bbdd",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "137",
+  "name": "My Only Girlfriend #012",
+  "description": "\"My Only Girlfriend\" is a collection of special expressions that she shows only to you. Why don't you get your own special girlfriend?\n\n\"Huh? What's wrong? Is it unusual that I'm wearing glasses?\" It's surprising to see a child who doesn't usually wear glasses wearing them.\n\n＊＊＊\n\n「My Only Girlfriend」は彼女があなただけに見せる特別な表情を切り取ったコレクションです。 あなただけの特別な彼女を手に入れてみませんか？\n\n「ん？どうかした？私が眼鏡かけてるのが珍しい？」いつも眼鏡をかけてない子が眼鏡をかけているとどきっとしますね。",
+  "attributes": [
+    {
+      "value": "female",
+      "trait_type": "character"
+    },
+    {
+      "value": "purple",
+      "trait_type": "color"
+    }
+  ]
+}

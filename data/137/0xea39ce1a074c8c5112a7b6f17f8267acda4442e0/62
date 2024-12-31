@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVu8p2KMN2pky4MPUEX1f8FdRzDR1wiVwCFzbgHUma3qS/nft.jpeg",
+  "nftContractAddress": "0xea39ce1a074c8c5112a7b6f17f8267acda4442e0",
+  "animationUrl": "",
+  "tokenId": 62,
+  "chainId": "137",
+  "name": "TANU-KIDS #061",
+  "description": "ロボットに変身したTANU-KIDS\n\n未来型ロボットTANU",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Robot",
+      "trait_type": "Object"
+    }
+  ]
+}

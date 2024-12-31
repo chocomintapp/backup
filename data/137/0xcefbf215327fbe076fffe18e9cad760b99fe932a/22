@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPU57zL6arf5JWMAg29YiEteeELDhn81Cxjz5pceJWeXT/nft.jpg",
+  "tokenId": 22,
+  "description": "22/101  \nTaken on Jan 15, 2013  \nTokyo, Japan  ",
+  "nftContractAddress": "0xcefbf215327fbe076fffe18e9cad760b99fe932a",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Tokyo101 #22",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "weather",
+      "value": "snow"
+    }
+  ]
+}

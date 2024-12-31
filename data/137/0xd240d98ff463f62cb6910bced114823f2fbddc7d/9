@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVkdqjoU139X6mQ1gwzP3ZuGcgLpWAdAdBCBZbYwkD2Hk/nft.png",
+  "tokenId": 9,
+  "description": "",
+  "nftContractAddress": "0xd240d98ff463f62cb6910bced114823f2fbddc7d",
+  "animationUrl": "https://ipfs.io/ipfs/QmXZsSNXtiRoQNTLXL5M4c1xRM2n4yto3zirjTqzbGXakB/nft.glb",
+  "chainId": "137",
+  "name": "Chickbit #9",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "uncommon"
+    }
+  ]
+}

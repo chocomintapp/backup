@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVV8toYqj1jn6GZ9nU1au9sbrbSTPmikqBZVZdnT8bb7d/nft.jpg",
+  "nftContractAddress": "0xbc710d0b634a6deec2ac480a4d4741cc787ede9d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "137",
+  "name": "#1",
+  "description": "Honto ni watashi de ii no?",
+  "attributes": [
+    {
+      "value": "front",
+      "trait_type": "Pose"
+    },
+    {
+      "value": "default black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "casual",
+      "trait_type": "Outfit"
+    },
+    {
+      "value": "smiling",
+      "trait_type": "Expression"
+    },
+    {
+      "value": "dark sea green",
+      "trait_type": "Background"
+    }
+  ]
+}

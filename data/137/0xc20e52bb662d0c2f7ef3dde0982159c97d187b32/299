@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUbC53RZBPvsTFWqanEnQSH9vx3H6ExLpNxTZAQzHHMFZ/nft.png",
+  "nftContractAddress": "0xc20e52bb662d0c2f7ef3dde0982159c97d187b32",
+  "animationUrl": "",
+  "tokenId": 299,
+  "chainId": "137",
+  "name": "#299",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "花",
+      "trait_type": "Background color"
+    },
+    {
+      "value": "#413E4D",
+      "trait_type": "Hoodie color"
+    },
+    {
+      "value": "Composer",
+      "trait_type": "Classification"
+    },
+    {
+      "value": "Not covered",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Taki Rentaro",
+      "trait_type": "face"
+    },
+    {
+      "value": "In a hoodie pocket",
+      "trait_type": "hand"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "legs"
+    }
+  ]
+}

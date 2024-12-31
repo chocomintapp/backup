@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUJPeHB86D2kHLcssf5eaNDPbW9fsdK1GWcfZL4ExCs13/nft.png",
+  "nftContractAddress": "0xfcb3a0f4656374c3996c82d04c4327b56e59d5bd",
+  "animationUrl": "",
+  "tokenId": 85,
+  "chainId": "137",
+  "name": "#0081_Collaboration_ToneToneStudio_Tokyo!!!",
+  "description": "0081_Collaboration_ToneToneStudio\n\n「ToneToneStudio_Tokyo!!!」とコラボしたポリちゃんです！",
+  "attributes": [
+    {
+      "value": "Collaboration",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "ToneToneStudioT",
+      "trait_type": "Collection"
+    }
+  ],
+  "minted": "✅"
+}

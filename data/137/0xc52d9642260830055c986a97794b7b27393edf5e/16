@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSUGk8s6SQZwVCEsQRQ4sx7bbEVi8RMCdNbsD7ffnJydw/nft.png",
+  "tokenId": 16,
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "VeryLongAnimals #16",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Rabbit"
+    }
+  ]
+}

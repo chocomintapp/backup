@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU44g8CaG9G14BDXpgq8yHRvBv74QK75tuPUxo2VhiLC4/nft.png",
+  "tokenId": 15,
+  "description": "Name:Hans Christian Andersen\nSeasoning:sage",
+  "nftContractAddress": "0x29a6f2a67c111c2616c154b11b7d5bc3bdc82d0b",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "Andersage"
+}

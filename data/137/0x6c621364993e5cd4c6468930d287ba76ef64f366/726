@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPuytUyfsjt5GPgmXQ4ZQZbtkH1KqcKo6vsBHtwxf9uG9/nft.gif",
+  "nftContractAddress": "0x6c621364993e5cd4c6468930d287ba76ef64f366",
+  "animationUrl": "",
+  "tokenId": 726,
+  "chainId": "137",
+  "name": "CryptoGoro #Day726",
+  "description": "CryptoGoro #Day726\n\n26/JUN/2023\n\nWorld famous modern artist Mr.Goro makes his self-portrait every day. Each NFG (Non-Fungible Goro) mint only one. This project will continue until his death. Let’s collect your own Goros!!\n\n1274 days before death.",
+  "attributes": [
+    {
+      "value": "Mr.Okabe",
+      "trait_type": "RACE"
+    }
+  ],
+  "minted": "✅"
+}

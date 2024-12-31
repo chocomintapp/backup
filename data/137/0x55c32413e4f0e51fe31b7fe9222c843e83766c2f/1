@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdRB7Ysbwkm6xgqSKsEUcbQL2oUqjudw6zYe6Vcf5rHvt/nft.png",
+  "tokenId": 1,
+  "description": "Pixelart style 32x32 INARI(Fox).\nGet the NFT and watch the INARIs battle!\nINARIHeroesV2 is minted with unique contracts",
+  "nftContractAddress": "0x55c32413e4f0e51fe31b7fe9222c843e83766c2f",
+  "animationUrl": "https://ipfs.io/ipfs/QmdRB7Ysbwkm6xgqSKsEUcbQL2oUqjudw6zYe6Vcf5rHvt/nft.png",
+  "chainId": "137",
+  "name": "INARI HeroesV2#0000",
+  "attributes": [
+    {
+      "trait_type": "Team",
+      "value": "White-Black"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Weapon"
+    }
+  ]
+}

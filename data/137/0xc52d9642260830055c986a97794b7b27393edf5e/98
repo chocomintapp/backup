@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTL4T3w5uCgQ4q4cPxkuU1cH47KGRUEkQkRK4MKNrUgHe/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 98,
+  "chainId": "137",
+  "name": "VeryLongAnimals #98",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Hercules Beetle",
+      "trait_type": "TYPE"
+    }
+  ]
+}

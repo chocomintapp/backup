@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWjXELWyoYAX6XWkPniisB83bgdEeyLYdYRLkPPrEDRdM/nft.png",
+  "nftContractAddress": "0x96c3add33b858432cfd18df7ed990a01c0313d7e",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "137",
+  "name": "P.N.G Ex.01 P.N.G x CONUSIVERSE",
+  "description": "\"CONUSIVERSE\" by the esteemed Bitconusi and P.N.G. fused together. This is the \"ultimate evolutionary form\" of NFT art.\n\nTwitter：https://twitter.com/bitconusi [CONUSIVERSE]：https://opensea.io/ja/collection/bitconusi-polygon\n\n二次創作コヌシ",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Conusi Tank Top",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Alive",
+      "trait_type": "CONDITION"
+    },
+    {
+      "value": "Currency",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Odango",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Provocative",
+      "trait_type": "FEELING"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfQUBx6bmzqLToTTqCHZ8dDJEPPdxJMNjVmz61nz22HvV/nft.mp4",
+  "nftContractAddress": "0x3342456c90e6a11bfea8db0fe04a205f4e39d2fb",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "137",
+  "name": "Making of Super Ninja Uni-chan スーパーにんじゃユニちゃん #301",
+  "description": "[Super Ninja Uni-chan スーパーにんじゃユニちゃん #301 ](https://opensea.io/assets/ethereum/0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9/56/)のメイキング動画です♪\n\nこの子はスーパーヒーローなの\n\nニンジャのスーパーヒーロです\n\nこの子はカラフルが好きで何でもカラフルのまちにしちゃうの\n\n雲の上をスーパーヒーローのように通っていくとまちがカラフルになっちゃうの\n\nこの子が通るとみんなをしあわせに明るくポカポカする気分にできるヒーローです！\n\n小学３年生第１弾リスト作品なので\n#301 の番号をふってます\n\nThis is a video of the making of [Super Ninja Uni-chan #301 ](https://opensea.io/assets/ethereum/0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9/56/).\n\nThis girl is a superhero.\n\nShe is a ninja superhero.\n\nShe loves colorful things and she makes everything colorful in her city.\n\nShe goes through the clouds like a superhero and makes the city colorful!\n\nShe is a hero who can make everyone feel happy, bright and cheerful when she passes by!",
+  "attributes": [
+    {
+      "value": "Colorful",
+      "trait_type": "COLOR"
+    },
+    {
+      "value": "Ninja",
+      "trait_type": "Type"
+    },
+    {
+      "value": "kawaii",
+      "trait_type": "Category"
+    }
+  ]
+}

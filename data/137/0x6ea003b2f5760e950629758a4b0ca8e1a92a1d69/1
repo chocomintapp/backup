@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmccnWUncbDVEPXQ6dPxC4U3MukjBzzLDMc216qt7ZiaSL/nft.png",
+  "tokenId": 1,
+  "description": "Based on the concept of \"NFT where cats travels,\" I create works that fuse photographs and cat illustrations.",
+  "nftContractAddress": "0x6ea003b2f5760e950629758a4b0ca8e1a92a1d69",
+  "animationUrl": "",
+  "chainId": "137",
+  "name": "夕空　-Yuusora-",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Paint"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Unknown"
+    }
+  ]
+}

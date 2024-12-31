@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXN2K9mNFVCY7NN3UcPv5BCcevNXRNcgf57eJ2GUPG932/nft.png",
+  "nftContractAddress": "0xc52d9642260830055c986a97794b7b27393edf5e",
+  "animationUrl": "",
+  "tokenId": 85,
+  "chainId": "137",
+  "name": "VeryLongAnimals #85",
+  "description": "Created by [AkimuneKawa](https://opensea.io/AkimuneKawa)",
+  "attributes": [
+    {
+      "value": "Ant",
+      "trait_type": "TYPE"
+    }
+  ]
+}

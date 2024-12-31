@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd6pJiNSbk4pXwN2ToCanrTGHoFkabRvUyjq5oUT4uXdW/nft.png",
+  "nftContractAddress": "0x4331f21e6588bccdb5fb13a55ffa4f0075d4d4a1",
+  "animationUrl": "",
+  "tokenId": 162,
+  "chainId": "137",
+  "name": "WMM #0162 DREADNOUGHT",
+  "description": "Created by [BAZ46](https://opensea.io/BAZ46)\n\n**DREADNOUGHT**  \nThis silhouette is battleship Dreadnought  \nThis innovative British battleship instantly made battleships around the world obsolete.\n\nBy removing secondary guns and placing a single caliber giant gun on the centerline of the hull, it was able to deliver powerful firepower on either side of the ship.\n\nThe appearance of the Dreadnought was a shock to many countries, which led them to rethink their battleship designs and accelerate the development of the \"big-boat, big-arms\" principle.\n\nIt can be said that the Dreadnought became a historical benchmark for subsequent battleships.\n\nTranslated with www.DeepL.com/Translator (free version)\n\n**戦艦 ドレッドノート**  \n世界中の戦艦を一瞬にして時代遅れにした革新的なイギリスの戦艦です。\n\n副砲を取り除き、単一口径の巨砲を船体の中央線上に配置することで左右どちら側でも強力な火力を発揮できました。\n\nこのドレッドノートの出現に衝撃を受けた各国は、戦艦の設計を見直し、大艦巨砲主義が加速して行くこととなります。\n\nその後の戦艦の基準となった歴史的な存在と言えます。",
+  "attributes": [
+    {
+      "value": "UK",
+      "trait_type": " Country"
+    },
+    {
+      "value": "Battleship",
+      "trait_type": "Ship"
+    }
+  ]
+}
