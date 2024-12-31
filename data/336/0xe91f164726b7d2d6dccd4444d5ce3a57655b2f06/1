@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRAzgGAaUR7yUzuudKcEqzYDvNL12ngrYnaDpuV6FMTyM/nft.jpg",
+  "tokenId": 1,
+  "description": "A cat I met on a trip\n\nOKINAWA 20210405",
+  "nftContractAddress": "0xe91f164726b7d2d6dccd4444d5ce3a57655b2f06",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "A cat I met on a trip#0001",
+  "attributes": [],
+  "minted": ""
+}

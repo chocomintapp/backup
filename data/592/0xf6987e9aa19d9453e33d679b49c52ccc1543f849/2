@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNyh9VyVAZvYpiQGxspjYtooBHXNrZfWaZ7mrKrnRz9vf/nft.png",
+  "tokenId": 2,
+  "description": "One of the treasure hunters on a treasure hunt at the event site of the \"NFT Meetup!\"",
+  "nftContractAddress": "0xf6987e9aa19d9453e33d679b49c52ccc1543f849",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "#2",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "1"
+    },
+    {
+      "trait_type": "skin",
+      "value": "2"
+    },
+    {
+      "trait_type": "eye",
+      "value": "7"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "6"
+    },
+    {
+      "trait_type": "hairstyle",
+      "value": "16"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "11"
+    },
+    {
+      "trait_type": "treasure",
+      "value": "apple"
+    },
+    {
+      "trait_type": "partner",
+      "value": "1"
+    }
+  ]
+}

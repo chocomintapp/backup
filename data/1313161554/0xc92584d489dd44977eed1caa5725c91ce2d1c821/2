@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWa8QHWk2mY42YBxLZ1rA8gjw8uHvFzCN5oSqQ8TtvS9s/nft.png",
+  "nftContractAddress": "0xc92584d489dd44977eed1caa5725c91ce2d1c821",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1313161554",
+  "name": "Naughty Monkeys",
+  "description": "Spank my monkey! These Naughty Monkeys are out of control and need a good spanking. Come join the dopest NFT community in town and become an official Spanker. All Spankers are given a Naughty Monkey to nurture, grow, love, and most importantly... to spank the shit out of! Get dat monkey, spank dat monkey, and reap the rewards!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Watching Ass Parade",
+      "trait_type": "Vice"
+    },
+    {
+      "value": "3",
+      "trait_type": "Age"
+    },
+    {
+      "value": "8\" by 3\" (so they say..)",
+      "trait_type": "Characteristic"
+    },
+    {
+      "value": "IT Security",
+      "trait_type": "Occupation"
+    }
+  ]
+}

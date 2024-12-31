@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ4aUMHjcBHFeNc1tng6aozsrKkJaXu7cbYgoLNo74sNJ/nft.png",
+  "nftContractAddress": "0x7ed2889c042da958fd9b15da802b843ba34663f0",
+  "animationUrl": "https://ipfs.io/ipfs/QmWjEaWQnHfdPYMq7o2fvLz5kTKD3iCY7yoFYtSG55Yc71/nft.gif",
+  "tokenId": 382,
+  "chainId": "592",
+  "name": "AhiruRabbit AirDrop02",
+  "description": "AstarBabyCats",
+  "attributes": []
+}

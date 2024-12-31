@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZDmuJrBhbzhVguiScmLdtPNkEi7XBPgMURBjTi5xfinQ/nft.gif",
+  "nftContractAddress": "0xf4b475e2a9ebac3597c99b670beaeaa28954e298",
+  "animationUrl": "https://ipfs.io/ipfs/QmZDmuJrBhbzhVguiScmLdtPNkEi7XBPgMURBjTi5xfinQ/nft.gif",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "F.C.R #1",
+  "description": "",
+  "attributes": []
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWzZvrp7dMRak89GBfKHfzcESz9n6sECFTPVt8cPQ6bwa/nft.gif",
+  "nftContractAddress": "0x80404c2942febc49ae3674ef16ebc6dafe3286c7",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "592",
+  "name": "#2",
+  "description": "taurus",
+  "attributes": []
+}

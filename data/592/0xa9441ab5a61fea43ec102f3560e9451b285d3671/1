@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZezc4v3mfALLBTmyrwwNP53r528z9BhJ66AMfc6u6t4L/nft.jpg",
+  "tokenId": 1,
+  "description": "First Astar NFT",
+  "nftContractAddress": "0xa9441ab5a61fea43ec102f3560e9451b285d3671",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "YUZUYUZU",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Nyan"
+    },
+    {
+      "trait_type": "Level",
+      "value": "2"
+    }
+  ]
+}

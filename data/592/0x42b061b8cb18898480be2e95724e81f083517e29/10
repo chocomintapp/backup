@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZJV6ib8GSw9tyhYN5o25jzAV4iXesHx2bJxGmrr146g4/nft.png",
+  "nftContractAddress": "0x42b061b8cb18898480be2e95724e81f083517e29",
+  "animationUrl": "https://ipfs.io/ipfs/QmZJV6ib8GSw9tyhYN5o25jzAV4iXesHx2bJxGmrr146g4/nft.png",
+  "tokenId": 10,
+  "chainId": "592",
+  "name": "Astar Leaps Diffusion #10",
+  "description": "Psychic human He name is [AKIRA] Hahahaha! AHHAhahaha!.\nWe are cheering ASTAR. Our leader is muraoka and art is Kohei.",
+  "attributes": [
+    {
+      "value": "HUMAN",
+      "trait_type": "HERO"
+    }
+  ]
+}

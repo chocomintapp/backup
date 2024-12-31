@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRUNL5qtmcSEBAi6UFRwKM3VvL5Q7kzh8JB7abMkYfVmE/nft.png",
+  "tokenId": 1,
+  "description": "This is a test NFT",
+  "nftContractAddress": "0x04436fe6f91b02219deaf100e21f3438d459420c",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Choco #001",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Level",
+      "value": "1"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQhaUrYNps3pzQUbV8d1veHU77RtpdvE3c621yndTdcLo/nft.png",
+  "tokenId": 38,
+  "description": "Collection of Korean Kingdom Warriors NFTs with various attributes.\n",
+  "nftContractAddress": "0x112d53d3fbf6e69e94d49f611232eabc8774669b",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Korean Kingdom #38",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Attributes",
+      "value": "Purple Uniform"
+    },
+    {
+      "trait_type": "Attributes",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Gyeongju City"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Cheomseongdae"
+    }
+  ]
+}

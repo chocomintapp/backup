@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb6AM3qYBjb14UYCi37hv6UybSvuPUdxWFPw1tktkKSAt/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #14",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "SpaceGorilla",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfDWGrnRUkme2gxdKoDbXDbAr5JPKF1J967gadLdU9sLw/nft.png",
+  "tokenId": 1,
+  "description": "Manto baboon",
+  "nftContractAddress": "0x332f76e7e8a1532ddd29837b9cca40708ccede82",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "animal-baboon",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

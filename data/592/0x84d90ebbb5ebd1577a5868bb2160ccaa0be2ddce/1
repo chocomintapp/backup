@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV8iLubtzso7ird7tWLveuLwgpKqJoKeLUxuoNqDK7DUU/nft.png",
+  "nftContractAddress": "0x84d90ebbb5ebd1577a5868bb2160ccaa0be2ddce",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "Wolf",
+  "description": "",
+  "attributes": []
+}

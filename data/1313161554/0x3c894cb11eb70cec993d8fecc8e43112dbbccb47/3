@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbYvELdus4RSxvzjffd3JsuNGD71D9htqjK2nfNFKQkx9/nft.jpeg",
+  "nftContractAddress": "0x3c894cb11eb70cec993d8fecc8e43112dbbccb47",
+  "animationUrl": "https://ipfs.io/ipfs/QmWEtJmUNVMtJFBrmpDKT6U2QVD4giHuRwUUUas57age3a/nft.mp4",
+  "tokenId": 3,
+  "chainId": "1313161554",
+  "name": "Evergreen Enigma",
+  "description": "Evergreen Enigma, a mysterious Dryad, wears an ancient green hoodie with glowing symbols. Gifted by ancient spirits, she has the power to control plant life. Shrouded in enigma, she roams the forests, her presence calming and captivating those who encounter her.",
+  "attributes": [
+    {
+      "value": "Laughter",
+      "trait_type": "Refreshing"
+    },
+    {
+      "value": "85",
+      "trait_type": "Enchanted Glow"
+    },
+    {
+      "value": "90",
+      "trait_type": "Euphoric Dance"
+    }
+  ]
+}

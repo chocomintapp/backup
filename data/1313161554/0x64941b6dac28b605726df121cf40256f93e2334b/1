@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS8iCB1yuPYQ8QzZtZV3eL7Wrys4uVNCMvVWe2zktXoPr/nft.png",
+  "nftContractAddress": "0x64941b6dac28b605726df121cf40256f93e2334b",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1313161554",
+  "name": "THE cat",
+  "description": "black cat with golden lion's mane",
+  "attributes": []
+}

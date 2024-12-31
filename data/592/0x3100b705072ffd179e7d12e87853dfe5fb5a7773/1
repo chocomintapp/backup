@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbY6kWePob4meACzRHUZFbGkJJmZSKpMXF21J51c2kVi3/nft.png",
+  "tokenId": 1,
+  "description": "Hi!\nThis listing is for a chainsawman version of the Penguin Penta series.\nCute and scary, right?\nAdd it to your collection!\nThere are many more versions of Penta, so check them out!\nAnd you're more than welcome to promote me on Twitter!",
+  "nftContractAddress": "0x3100b705072ffd179e7d12e87853dfe5fb5a7773",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Penta-Chainsawman",
+  "attributes": []
+}

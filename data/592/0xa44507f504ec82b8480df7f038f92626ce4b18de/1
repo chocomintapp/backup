@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPZHoEf4CEnkeTdy7c28zpaA3BDorhVhTqkY1zHugYCgt/nft.png",
+  "nftContractAddress": "0xa44507f504ec82b8480df7f038f92626ce4b18de",
+  "animationUrl": "https://ipfs.io/ipfs/QmUUHC9z1HS3MJv9NcyW2MC3wp8Zj7JE5tvs6rF6LHxFGC/nft.gif",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "SpongeBob Dance",
+  "description": "Dance till you drop",
+  "attributes": []
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQDgWMKfKducS9ydcAfSrddKVuBq2jaasHmenAw6t9kqA/nft.png",
+  "tokenId": 4,
+  "description": "We are relentless.  \nWe work as one.  \nWe are Astar Degens.",
+  "nftContractAddress": "0x168bc7f3845d44b2f3d740d2d744439b560e7cd2",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Astar Degens DAO Token",
+  "attributes": [
+    {
+      "trait_type": "Order",
+      "value": "4"
+    }
+  ],
+  "minted": "✅"
+}

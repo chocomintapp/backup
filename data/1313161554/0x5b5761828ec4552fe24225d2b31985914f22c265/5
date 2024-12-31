@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWAVLJv9gU45C3fchX8aHKzkyTMgWGrgApbcZEa2UwMMT/nft.jpg",
+  "nftContractAddress": "0x5b5761828ec4552fe24225d2b31985914f22c265",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1313161554",
+  "name": "Thorchain - emodji",
+  "description": "This is emodji made THORchain symbol",
+  "attributes": [],
+  "minted": "✅"
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme7Zqk16cbfVUw2tFxgANmQVYYnEZeP2Wwj66JaRxyett/nft.png",
+  "tokenId": 3,
+  "description": "The #2 Knight of Shiden Realm who seeks Moon.",
+  "nftContractAddress": "0xbcec7c1ade01226eff9138d3b76049278c60216f",
+  "animationUrl": "https://ipfs.io/ipfs/Qme7Zqk16cbfVUw2tFxgANmQVYYnEZeP2Wwj66JaRxyett/nft.png",
+  "chainId": "336",
+  "name": "#2 Realm Knight",
+  "attributes": [],
+  "minted": "✅"
+}

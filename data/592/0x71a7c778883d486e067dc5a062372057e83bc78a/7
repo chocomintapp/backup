@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQJhnAj8LiTyuwHdERmNhHB2s9ADLxYhcXT3vkkbLpLF1/nft.jpg",
+  "nftContractAddress": "0x71a7c778883d486e067dc5a062372057e83bc78a",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "592",
+  "name": "Tea Time",
+  "description": "Enjoy a date, drink tea with a beautiful girl.",
+  "attributes": []
+}

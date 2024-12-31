@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd8Lg6iqc6auTzk7bqLYRceD5z5BYekvcorDVSLvdDdW2/nft.png",
+  "nftContractAddress": "0xf6987e9aa19d9453e33d679b49c52ccc1543f849",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "592",
+  "name": "#43",
+  "description": "One of the treasure hunters on a treasure hunt at the event site of the \"NFT Meetup!\"",
+  "attributes": [
+    {
+      "value": "13 Astar",
+      "trait_type": "background"
+    },
+    {
+      "value": "4",
+      "trait_type": "skin"
+    },
+    {
+      "value": "11",
+      "trait_type": "eye"
+    },
+    {
+      "value": "1",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "10",
+      "trait_type": "hairstyle"
+    },
+    {
+      "value": "6",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "JPYC",
+      "trait_type": "treasure"
+    },
+    {
+      "value": "none",
+      "trait_type": "partner"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTnX69pwFfvsPcj37TzGVEW97ky2e9fZjVNDyyqNujssZ/nft.png",
+  "nftContractAddress": "0xf73b0333e8ea8fbd391c4f983b11bd8249e178ac",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "336",
+  "name": "Number One",
+  "description": "Numero um é o Primeiro de uma possível série",
+  "attributes": [
+    {
+      "value": "48 SND",
+      "trait_type": "Único na Série"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf4Cf8zGrqxuMJjaqgfL8eyze5rx3kPWL6qHaeP76DWVA/nft.jpg",
+  "tokenId": 1,
+  "description": "It is an arrangement of famous Japanese paintings.",
+  "nftContractAddress": "0x1c841fb09c29f237d108179f2c02e3fb71281148",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "冨嶽三十六景",
+  "attributes": []
+}

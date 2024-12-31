@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZQPpDhELFVJ3snMjvnCNhsem4EpwujoKQ5ed9bFkdN1u/nft.png",
+  "nftContractAddress": "0x2b527d9af5398402b2f8d748679d55c12db9f522",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1313161554",
+  "name": "First",
+  "description": "AVAX DISC",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

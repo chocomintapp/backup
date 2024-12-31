@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNnV8u7NtYNqzbzeS28viUHVSJ1wAm8WcJuVA8V7yD5pm/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #26",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceOwl",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

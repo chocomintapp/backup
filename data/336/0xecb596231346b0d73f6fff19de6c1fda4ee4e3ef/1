@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbNrWSM9R1dsXu7mb1A5zCveW44FckshinHp4obCjUdUH/nft.jpg",
+  "tokenId": 1,
+  "description": "http://kkumanami.tohito.fun/",
+  "nftContractAddress": "0xecb596231346b0d73f6fff19de6c1fda4ee4e3ef",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "test",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

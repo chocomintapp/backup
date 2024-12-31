@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNfWa4zrMmYtyQWyz1TCh2UgYa3F5jw9TkvTUocKLXLNH/nft.png",
+  "nftContractAddress": "0xad345df76da1ed51acc6bdd89d9a9163abed17a2",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "592",
+  "name": "#5",
+  "description": "Babu!babubabababubabubububbababababubububababubububuuuuuu!!",
+  "attributes": [
+    {
+      "value": "Bear",
+      "trait_type": "Space"
+    }
+  ]
+}

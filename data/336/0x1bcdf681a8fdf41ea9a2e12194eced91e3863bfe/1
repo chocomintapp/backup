@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXRCLJoLwxzCNSDg2aCqnxuMMjRCgsN1bpBEUzn5EEwpk/nft.gif",
+  "tokenId": 1,
+  "description": "Lazun saying \"pujj, samo to mogu rec', pujj\"",
+  "nftContractAddress": "0x1bcdf681a8fdf41ea9a2e12194eced91e3863bfe",
+  "animationUrl": "https://ipfs.io/ipfs/QmXRCLJoLwxzCNSDg2aCqnxuMMjRCgsN1bpBEUzn5EEwpk/nft.gif",
+  "chainId": "336",
+  "name": "Lazun pujj",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Lying",
+      "value": "10%"
+    },
+    {
+      "trait_type": "How deep in the Amazon rainforest",
+      "value": "In the heart of Amazon rainforest"
+    },
+    {
+      "trait_type": "Badun's essention",
+      "value": "100% Badun"
+    },
+    {
+      "trait_type": "How long since someone else has been there",
+      "value": "28 years"
+    },
+    {
+      "trait_type": "Caimans around",
+      "value": "Yes"
+    }
+  ]
+}

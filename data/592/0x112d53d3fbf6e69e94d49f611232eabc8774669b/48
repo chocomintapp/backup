@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTBCyzni1rqDMzJm9PFbER2NJmbjr3oNsXYEZaLjsBvy9/nft.png",
+  "tokenId": 48,
+  "description": "Collection of Korean Kingdom Warriors NFTs with various attributes.\n",
+  "nftContractAddress": "0x112d53d3fbf6e69e94d49f611232eabc8774669b",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Korean Kingdom #48",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Princess"
+    },
+    {
+      "trait_type": "Attributes",
+      "value": "Cherry Blossom Tree"
+    },
+    {
+      "trait_type": "Attributes",
+      "value": "Red Uniform"
+    }
+  ]
+}

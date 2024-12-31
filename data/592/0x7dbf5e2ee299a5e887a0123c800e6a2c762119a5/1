@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVSPyd9xRJHT9tpHCpBbUP7eYcmj1qGsUYu3EgimKLQWM/nft.png",
+  "nftContractAddress": "0x7dbf5e2ee299a5e887a0123c800e6a2c762119a5",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "#1",
+  "description": "",
+  "attributes": [
+    {
+      "value": "PenguinBaby",
+      "trait_type": "Space"
+    }
+  ]
+}

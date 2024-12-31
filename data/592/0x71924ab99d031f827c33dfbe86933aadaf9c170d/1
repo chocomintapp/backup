@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYew4uwW9MfAvYhQxC58nTS24fSAqU3PNHKU1CPNSJGcT/nft.png",
+  "nftContractAddress": "0x71924ab99d031f827c33dfbe86933aadaf9c170d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "Test Junkeeees 01",
+  "description": "ジャンキーズ　テスト　01",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

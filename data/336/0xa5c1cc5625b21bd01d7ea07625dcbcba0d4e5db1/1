@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXyMyKoGnVoJHAx8GGRBkSmDmkgZs4F8hr99bBMZ6yhx7/nft.jpg",
+  "tokenId": 1,
+  "description": "Cake",
+  "nftContractAddress": "0xa5c1cc5625b21bd01d7ea07625dcbcba0d4e5db1",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Cake",
+  "attributes": []
+}

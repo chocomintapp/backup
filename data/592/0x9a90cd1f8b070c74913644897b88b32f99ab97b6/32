@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS63t5Xgf2wfgs3e59TrRteVcBg1s1P7jQr8Zcrvw7WyS/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #00",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceWhiteCat",
+      "trait_type": "TYPE"
+    }
+  ]
+}

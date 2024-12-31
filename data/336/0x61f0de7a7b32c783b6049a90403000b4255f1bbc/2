@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT1jh7BPUkeh2p1tupsKQZjb2aPRLsB6Fx1pYt4siBH5g/nft.png",
+  "tokenId": 2,
+  "description": "Drawings with dots.",
+  "nftContractAddress": "0x61f0de7a7b32c783b6049a90403000b4255f1bbc",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Dot Fish",
+  "attributes": [
+    {
+      "trait_type": "Base Color",
+      "value": "Screamin Grean"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fish"
+    }
+  ]
+}

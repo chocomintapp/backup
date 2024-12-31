@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcpaxA7vfLm5UKfMxPY3nqFWG2Pkau1qhdDUAXSG27RhC/nft.png",
+  "tokenId": 8,
+  "description": "Glass_Purple material waiting for its turn.\n出番を待つ紫色のガラスの素材。\n\nWhat is Crypto material-girl? \nLook around you. \nThings that are around you. \nThey are in everything. \nIn an encrypted world, they are waiting for their turn. \nTo be a part of your life.... \n\nCrypto material-girlとは？ \nあなたの周りを見てください。 \nあなたの周りにあるもの。 \n彼らはすべてのものの中にいます。 \n暗号化された世界で、彼らは出番を待っています。 \nあなたの人生の一部になるために....",
+  "nftContractAddress": "0x71d15e587e8ea0ca1ae3bb11880395b7bd9ca6ca",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "material-girl (glass_purple)",
+  "attributes": [
+    {
+      "trait_type": "GIRL",
+      "value": "100"
+    },
+    {
+      "trait_type": "GLASS",
+      "value": "100"
+    },
+    {
+      "trait_type": "PURPLE",
+      "value": "100"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd9z1KaTh83NNf8mbggmjrHmbVvReYRkWBJCNPD43yZQ9/nft.png",
+  "tokenId": 81,
+  "description": "Collection of Korean Kingdom Warriors NFTs with various attributes.\n",
+  "nftContractAddress": "0x112d53d3fbf6e69e94d49f611232eabc8774669b",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Korean Kingdom #81",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Queen"
+    },
+    {
+      "trait_type": "Attributes",
+      "value": "Yellow Uniform"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Mountains"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQXJMs9pgrUYA8TUrbS5wcq8s6qYY4PideXanAirnFKEG/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "592",
+  "name": "VeryLongAnimals #17",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceChick",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

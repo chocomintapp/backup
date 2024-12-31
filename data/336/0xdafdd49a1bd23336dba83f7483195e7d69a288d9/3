@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdfnPX915TBXcSBvuEveuCBFPfikMJDgqZAz77tF7KZfC/nft.png",
+  "tokenId": 3,
+  "description": "コギャルのくっじーをshidenでもmintしました🎵\n",
+  "nftContractAddress": "0xdafdd49a1bd23336dba83f7483195e7d69a288d9",
+  "animationUrl": "https://ipfs.io/ipfs/QmdfnPX915TBXcSBvuEveuCBFPfikMJDgqZAz77tF7KZfC/nft.png",
+  "chainId": "336",
+  "name": "コギャルくっじー",
+  "attributes": []
+}

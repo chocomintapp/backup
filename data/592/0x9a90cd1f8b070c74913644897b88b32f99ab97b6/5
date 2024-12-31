@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYeFeWDMfvPC1HFUdRtfjoeDYk1bLNq7UDPjkFPQ8F3Ux/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #5",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "SpaceBear",
+      "trait_type": "TYPE"
+    }
+  ]
+}

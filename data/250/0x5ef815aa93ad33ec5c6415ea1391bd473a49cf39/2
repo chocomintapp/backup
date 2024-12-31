@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRtR4ka11A5AoaeNDA7PkgqC5sWVeJPPBK6uGhPZGjxht/nft.jpg",
+  "nftContractAddress": "0x5ef815aa93ad33ec5c6415ea1391bd473a49cf39",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "250",
+  "name": "FTM Rabbit #2",
+  "description": "NFT Rabbit limited edition on Fantom Network.",
+  "attributes": []
+}

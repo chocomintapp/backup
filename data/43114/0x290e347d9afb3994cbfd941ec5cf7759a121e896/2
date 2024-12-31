@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWhovXQemvFRfhhcy8LnCFuTiXdY4j1pcCVsS7FA6EUm6/nft.png",
+  "nftContractAddress": "0x290e347d9afb3994cbfd941ec5cf7759a121e896",
+  "animationUrl": "https://ipfs.io/ipfs/QmTV1Yq9wKqz82NjmN6gQ8DkeDfvfj8bnaakgEgaR7WqgX/nft.glb",
+  "tokenId": 2,
+  "chainId": "43114",
+  "name": "PolygonLowGEN #102",
+  "description": "NFT Avatar Wearables NPC Project for the Open Metaverse",
+  "attributes": [
+    {
+      "value": "Office",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Slackspink",
+      "trait_type": "Lowerbody"
+    },
+    {
+      "value": "Longtpurple",
+      "trait_type": "Upperbody"
+    },
+    {
+      "value": "Near",
+      "trait_type": "Reversemark"
+    },
+    {
+      "value": "None",
+      "trait_type": "Suit"
+    },
+    {
+      "value": "Scouter",
+      "trait_type": "Eye"
+    },
+    {
+      "value": "Blanksemilong",
+      "trait_type": "Hair"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "",
+  "nftContractAddress": "0x245f2a20ad4688d594d4288ab5d0476098911f09",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "2780",
+  "name": "su",
+  "description": "super user",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

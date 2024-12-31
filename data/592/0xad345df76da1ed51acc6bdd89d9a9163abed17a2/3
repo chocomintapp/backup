@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUU17VCj8nms8JJ7JUsZUW3vrvhD6cCFZaovmxX9ZUeLS/nft.png",
+  "nftContractAddress": "0xad345df76da1ed51acc6bdd89d9a9163abed17a2",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "592",
+  "name": "BabuStarAnimals #3",
+  "description": "Babu! bababububabubabubabubabbabababububabubbubbubabababubabuuuuuuuuu!!",
+  "attributes": [
+    {
+      "value": "Cat",
+      "trait_type": "Space"
+    }
+  ]
+}

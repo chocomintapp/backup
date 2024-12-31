@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUuDurW2Y8apbF8G3Y86ErvLC4cFUbGjFtyRgj3XhwBvQ/nft.jpg",
+  "nftContractAddress": "0x945d8750ade983cc24c4048bc7a51613a5a375e2",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "ああ",
+  "description": "ああ",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "10"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

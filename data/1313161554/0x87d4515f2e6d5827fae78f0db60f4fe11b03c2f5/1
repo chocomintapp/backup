@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVYdeHiZRF9tDzKRDYC49zg6ntCqSqX169PCtxFTmtvsm/nft.mp4",
+  "nftContractAddress": "0x87d4515f2e6d5827fae78f0db60f4fe11b03c2f5",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1313161554",
+  "name": "MutantApeYachtClub #11263",
+  "description": "MutantApeYachtClub #11263",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

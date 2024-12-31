@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRAjuw2a2wXbeVvBwhxykaMo7Ev8fTGr5U8e7hWX5WirU/nft.jpg",
+  "tokenId": 1,
+  "description": "New",
+  "nftContractAddress": "0x0123f549d48e64018187c74099d2851a8fa58774",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "sashimi",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "10"
+    }
+  ]
+}

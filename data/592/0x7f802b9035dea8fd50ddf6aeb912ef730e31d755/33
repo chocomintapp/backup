@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSfuFWxV4tuHeuUgDPGShi9uFPkDpkikCy87AdKe1rLjX/nft.png",
+  "nftContractAddress": "0x7f802b9035dea8fd50ddf6aeb912ef730e31d755",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "592",
+  "name": "Baby devils & Baby angels",
+  "description": "",
+  "attributes": [
+    {
+      "value": "rainbow",
+      "trait_type": "background"
+    },
+    {
+      "value": "original body",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "original arrow",
+      "trait_type": "TOOL"
+    },
+    {
+      "value": "astar logo",
+      "trait_type": "special"
+    }
+  ]
+}

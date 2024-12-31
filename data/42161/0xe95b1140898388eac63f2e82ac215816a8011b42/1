@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQMFVm7Zztfy3YfAcqKo4EDJ3JNqBe4wPGYhr6nZkcRMe/nft.png",
+  "nftContractAddress": "0xe95b1140898388eac63f2e82ac215816a8011b42",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "42161",
+  "name": "FREE RED #001",
+  "description": "Happy and enjoyable for all.\n",
+  "attributes": [
+    {
+      "value": "100",
+      "trait_type": "FREE "
+    },
+    {
+      "value": "10",
+      "trait_type": "RED"
+    },
+    {
+      "value": "100",
+      "trait_type": "Giveaway"
+    },
+    {
+      "value": "100",
+      "trait_type": "Happy"
+    },
+    {
+      "value": "100",
+      "trait_type": "Enjoy"
+    }
+  ]
+}

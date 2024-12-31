@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNdzgMKa2avhNA37douLuLKibWFQwQbV5MLxPNU8xx6di/nft.jpeg",
+  "tokenId": 1,
+  "description": "Helo",
+  "nftContractAddress": "0x564bc863ed8bb88dd881b61d861ebb63e9aa9d4a",
+  "animationUrl": "",
+  "chainId": "1313161555",
+  "name": "Hello",
+  "attributes": []
+}

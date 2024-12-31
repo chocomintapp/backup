@@ -1,0 +1,10 @@
+{
+  "image": "",
+  "nftContractAddress": "0x7ed2889c042da958fd9b15da802b843ba34663f0",
+  "animationUrl": "https://ipfs.io/ipfs/QmV9M9yUD1jgfHqnYDzHkXMeQJVjg6PcjQWB1XpAEBN62c/nft.gif",
+  "tokenId": 477,
+  "chainId": "592",
+  "name": "Prototype01",
+  "description": "AstarPakupakuCats",
+  "attributes": []
+}

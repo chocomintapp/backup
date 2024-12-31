@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUG2XGx13KAhiCECEHSpkFV54FA7USMsFp9ZX9tFX6DUc/nft.jpg",
+  "tokenId": 2,
+  "description": "This is a duck that says \"Good\".",
+  "nftContractAddress": "0xe06e0c5d3a6b7d29d4a9c3b1eb899aee79747251",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Good Duck",
+  "attributes": []
+}

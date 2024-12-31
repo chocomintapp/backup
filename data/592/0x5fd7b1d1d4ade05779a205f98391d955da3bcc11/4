@@ -1,0 +1,35 @@
+{
+  "image": "",
+  "nftContractAddress": "0x5fd7b1d1d4ade05779a205f98391d955da3bcc11",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "592",
+  "name": "test4",
+  "description": "this is an nf\n",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "background"
+    },
+    {
+      "value": "",
+      "trait_type": "skin"
+    },
+    {
+      "value": "",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "",
+      "trait_type": "head"
+    },
+    {
+      "value": "",
+      "trait_type": "clothing"
+    },
+    {
+      "value": "",
+      "trait_type": "mouth"
+    }
+  ]
+}

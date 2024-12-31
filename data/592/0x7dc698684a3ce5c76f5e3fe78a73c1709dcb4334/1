@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVXgwCv1ttieNRt3qMkMiZaq5R6qQgLRiZrgQpapFKoLi/nft.jpg",
+  "tokenId": 1,
+  "description": "140 Astar Ape Kingdom are native Apes NFT on the Astar Blockchain. All the NFT holders will be part of the Ape Dao & NFT Launchpad.",
+  "nftContractAddress": "0x7dc698684a3ce5c76f5e3fe78a73c1709dcb4334",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Astar Ape Kingdom 1",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

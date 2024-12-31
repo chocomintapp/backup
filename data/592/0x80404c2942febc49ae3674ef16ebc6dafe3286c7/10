@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXEUfWigTEpxWkeC9oNdRD1Q7VVY3U9maRgKeTNAYV8qE/nft.gif",
+  "nftContractAddress": "0x80404c2942febc49ae3674ef16ebc6dafe3286c7",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "592",
+  "name": "#10",
+  "description": "capricornus",
+  "attributes": [],
+  "minted": ""
+}

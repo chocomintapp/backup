@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXpa5GqmabVjAXrSAaK7y7zAoDEEAfTVsSPvADxyXrK4C/nft.png",
+  "nftContractAddress": "0x42b061b8cb18898480be2e95724e81f083517e29",
+  "animationUrl": "https://ipfs.io/ipfs/QmXpa5GqmabVjAXrSAaK7y7zAoDEEAfTVsSPvADxyXrK4C/nft.png",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "Astar Leaps Diffusion #1",
+  "description": "Captain of the Imperial Guards Frog He is name [Myney] The way of the sword is eternal.\n We are cheering ASTAR. \nOur leader is muraoka and art is Kohei.",
+  "attributes": [
+    {
+      "value": "FROG",
+      "trait_type": "HERO"
+    }
+  ]
+}

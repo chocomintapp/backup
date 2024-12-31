@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXZakyuEiiBpiUNLAskctjZZDyZanozRHaAkKC3sPvxQT/nft.jpg",
+  "nftContractAddress": "0x364b6191410c87e64c7aaeb7d7e36df89042ff22",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "42161",
+  "name": "kst",
+  "description": "test",
+  "attributes": [
+    {
+      "value": "pink",
+      "trait_type": "color"
+    },
+    {
+      "value": "mokomoko",
+      "trait_type": "hair"
+    },
+    {
+      "value": "00",
+      "trait_type": "eye"
+    }
+  ],
+  "minted": ""
+}

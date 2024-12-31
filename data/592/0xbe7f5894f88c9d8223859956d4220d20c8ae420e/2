@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdHRYTB3Sden9RARUNTFWBYCencvBTN6qStU2dDvRG2Br/nft.png",
+  "nftContractAddress": "0xbe7f5894f88c9d8223859956d4220d20c8ae420e",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "592",
+  "name": "Astar Belmo Pig Test #00020",
+  "description": "Welcome to the wonderfully weird world of Astar Belmo Pig!\nAstar Belmo Pig is a collection of 10,000 NFT's living on the Astar Network.\nThe official collection from Belmo Park.\nBelmo Park - a PFP collectible project with so many amazing artists.",
+  "attributes": [
+    {
+      "value": "Blue test",
+      "trait_type": "Background test"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSG9dd7J91SetCvwjosZuL9mq2uF68VndKsqZXXrKzBzZ/nft.png",
+  "tokenId": 9,
+  "description": "This NFT was issued to commemorate the partnership between Shiden Network and Soudan NFT. Each MOOGIE is connected to the other.  Limited to 30. このNFTはShiden NetworkとSoudan NFTが提携したことを記念して発行されました。MOOGIEたちがそれぞれが繋がっています。限定数30です。 | 3000x3000px",
+  "nftContractAddress": "0xb944286f4e849e500ac82ece5479a0f3291eb8b4",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "MOOGIE Connection",
+  "attributes": []
+}

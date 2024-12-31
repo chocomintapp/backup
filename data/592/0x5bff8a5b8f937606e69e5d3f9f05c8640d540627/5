@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSxhiWDMmYhMDRgo7nuPLeHHp7i15UVQ1iRS1yPWtWaDU/nft.png",
+  "nftContractAddress": "0x5bff8a5b8f937606e69e5d3f9f05c8640d540627",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "592",
+  "name": "Astar Monkinari #5",
+  "description": "Astar Monkinari is a limited Profile-Picture (PFP), NFT that supports Astar Network.",
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Cap Logo",
+      "trait_type": "HEADGEAR"
+    },
+    {
+      "value": "Stuck-out Tongue",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "Modern Hoodie",
+      "trait_type": "OUTFIT"
+    },
+    {
+      "value": "Wafer",
+      "trait_type": "FOOD"
+    }
+  ],
+  "minted": "✅"
+}

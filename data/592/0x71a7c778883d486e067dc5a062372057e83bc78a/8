@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXw4djEXyt6zKusUxnQZqH8EsMLUmtxU2ZNrgPQmDQPok/nft.jpg",
+  "nftContractAddress": "0x71a7c778883d486e067dc5a062372057e83bc78a",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "592",
+  "name": "Dresser",
+  "description": "Get dressed in the morning in front of the mirror.",
+  "attributes": []
+}

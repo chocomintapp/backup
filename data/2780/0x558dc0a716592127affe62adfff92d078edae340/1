@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTK89CZTSSHd6LbTsZXCtaLqStewvZ7s8xBur8cdfcRzR/nft.png",
+  "nftContractAddress": "0x558dc0a716592127affe62adfff92d078edae340",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "2780",
+  "name": "hacktar",
+  "description": "pic face",
+  "attributes": []
+}

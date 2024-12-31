@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVU54VRXFjDyehwFUY8ikNupfZ8WnDNwPxmCc59FK4UQe/nft.png",
+  "tokenId": 1,
+  "description": "Bijin-Ga (Ukiyo-E) , Japanese traditional picture of beautiful woman.",
+  "nftContractAddress": "0x0f24487131f019c5d7accc3cb65fa79150894f3f",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Bijin-Ga(Ukiyo-E)",
+  "attributes": []
+}

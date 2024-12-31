@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXP3R8yfZmaWHzAPkivn7yCMpFuFgCDSYBz36qiKBv7ne/nft.jpg",
+  "nftContractAddress": "0x6602e710338ce49152bd60f7740c9aad4bbbbdcf",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "TaneDa #01",
+  "description": "これは何だ？種だ。\n何に育つか分からない。\n何が出来るか分からない。\n役に立つのか分からない。\nWhat is this? Seeds.\nI don't know what it will grow into.\nI don't know what it can do.\nI don't know if it will be useful.\n\n\nでも、近くにいるだけで感じることがある。\nやる気を感じる。\n可能性を感じる。\n大物になる予感がする。\n丸くてカワイイ感じがする。\n生意気な目つきも可愛く見えてきた。\nBut I can feel it just by being near them.\nI feel motivated.\nI see potential.\nI have a feeling that they will be a great .\nI feel round and cute.\nEven the sassy look in his eyes is starting to look cute.\n\n実際はどうだかわからない。だってまだ種だから。\nI don't know what they actually are. Because it is still a seed.",
+  "attributes": [
+    {
+      "value": "Kind",
+      "trait_type": "CHARACTER_1"
+    },
+    {
+      "value": "Smart",
+      "trait_type": "CHARACTER_2"
+    },
+    {
+      "value": "5",
+      "trait_type": "NUMBER of LEAVES"
+    },
+    {
+      "value": "Ground",
+      "trait_type": "HABITAT"
+    },
+    {
+      "value": "Quiet",
+      "trait_type": "LIKES"
+    }
+  ]
+}

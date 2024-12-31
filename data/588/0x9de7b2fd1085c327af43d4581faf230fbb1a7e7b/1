@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNdzgMKa2avhNA37douLuLKibWFQwQbV5MLxPNU8xx6di/nft.jpeg",
+  "nftContractAddress": "0x9de7b2fd1085c327af43d4581faf230fbb1a7e7b",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "588",
+  "name": "TokenID 1",
+  "description": "METISMETISMETISMETISMETIS",
+  "attributes": [
+    {
+      "value": "Stardast",
+      "trait_type": "Chain"
+    }
+  ]
+}

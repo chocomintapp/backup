@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRLFJd9U4RTno8KeDBShYreSHYBh7sz8ZgfbubLQdW6zX/nft.png",
+  "nftContractAddress": "0x5bff8a5b8f937606e69e5d3f9f05c8640d540627",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "592",
+  "name": "Astar Monkinari #19",
+  "description": "Astar Monkinari is a limited Profile-Picture (PFP). NFT that supports Astar Network.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Peach",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Classic Pilot Helmet",
+      "trait_type": "HEADGEAR"
+    },
+    {
+      "value": "Katana",
+      "trait_type": "CAPE"
+    },
+    {
+      "value": "Open Jacket",
+      "trait_type": "OUTFIT"
+    },
+    {
+      "value": "Lemon Juice",
+      "trait_type": "DRINK"
+    }
+  ]
+}

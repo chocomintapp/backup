@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNckcGapiw1dyCA7BcUoTWePr6h66StSCECicT4uxteU5/nft.png",
+  "nftContractAddress": "0x3cfb43f21e8aa946ec958cfbe61606d9cc459897",
+  "animationUrl": "https://ipfs.io/ipfs/QmPieHE3LJYKai5y5Nf9dFWndEhp7FCvuP2MhBCXBWruqD/nft.mp4",
+  "tokenId": 2,
+  "chainId": "592",
+  "name": "αSkillGem #2",
+  "description": "Learning solidity was essential to the launch of Champion Search. We will continue to grow Champion Search into an important gateway to the web3.",
+  "attributes": [
+    {
+      "value": "Level 2",
+      "trait_type": "LEVEL"
+    },
+    {
+      "value": "Solidity",
+      "trait_type": "SKILL TYPE"
+    },
+    {
+      "value": "Round Brilliant",
+      "trait_type": "CUTS"
+    },
+    {
+      "value": "8",
+      "trait_type": "CARAT"
+    },
+    {
+      "value": "8",
+      "trait_type": "CLARITY"
+    },
+    {
+      "value": "0000",
+      "trait_type": "RED"
+    },
+    {
+      "value": "0000",
+      "trait_type": "GREEN"
+    },
+    {
+      "value": "0581",
+      "trait_type": "BLUE"
+    },
+    {
+      "value": "aquo",
+      "trait_type": "GEM CREATOR"
+    }
+  ]
+}

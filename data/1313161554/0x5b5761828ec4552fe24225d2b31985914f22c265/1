@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSnk5RRSDFNgot8pjgskx77tVqPypFQFTBrp3P6ZH22aL/nft.png",
+  "nftContractAddress": "0x5b5761828ec4552fe24225d2b31985914f22c265",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1313161554",
+  "name": "aurora hunters logo",
+  "description": "This is LOGO test NFT from AURORA HUNTERS",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "LOGO"
+    }
+  ]
+}

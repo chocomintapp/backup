@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmabB4uf78bwHavdejVAKKFLMjhEz3nbsAi9WNZUZJKuUM/nft.png",
+  "tokenId": 2,
+  "description": "This is \"Girl with a Pearl Earring\" drawn using only Japanese \"kanji\" characters.\nPlease try to enlarge the image!",
+  "nftContractAddress": "0xda2a89940cb1afe44448299c0564b0d37a1b4609",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Kanji - Girl with a Pearl Earring",
+  "attributes": [],
+  "minted": "✅"
+}

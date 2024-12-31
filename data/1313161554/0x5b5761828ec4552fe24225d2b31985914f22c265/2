@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaTAnxMKp9i7X1U2zexhKGh6aYwcExS9UM9sZokBoioKN/nft.jpg",
+  "nftContractAddress": "0x5b5761828ec4552fe24225d2b31985914f22c265",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1313161554",
+  "name": "ETH - emodji",
+  "description": "This is emodji made ETH symbol",
+  "attributes": [],
+  "minted": "✅"
+}

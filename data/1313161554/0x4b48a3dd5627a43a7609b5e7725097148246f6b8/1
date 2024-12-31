@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdvSjQjk6TQssn2cdJAnkr2eCJ7LuExFFjYrWjrMt5ry8/nft.JPG",
+  "nftContractAddress": "0x4b48a3dd5627a43a7609b5e7725097148246f6b8",
+  "animationUrl": "https://ipfs.io/ipfs/QmdvSjQjk6TQssn2cdJAnkr2eCJ7LuExFFjYrWjrMt5ry8/nft.JPG",
+  "tokenId": 1,
+  "chainId": "1313161554",
+  "name": "Triangle",
+  "description": "This is my first vector sticker template. Then, I will make stickers out of this and give them to so many people. And now, from this made NFT",
+  "attributes": [
+    {
+      "value": "no color",
+      "trait_type": "Color"
+    }
+  ]
+}

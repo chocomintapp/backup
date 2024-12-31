@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf3Srtrw5Cqrg5vh7LHoS9WnaMsr9iXsYPSxhSM3aQgXJ/nft.png",
+  "nftContractAddress": "0x44aa289803508e62725242656991ba055347004a",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "592",
+  "name": "Multiple Eyes #2",
+  "description": "Multiple Eyes - Lotus Receptacle",
+  "attributes": [
+    {
+      "value": "Multiple",
+      "trait_type": "EYE"
+    }
+  ]
+}

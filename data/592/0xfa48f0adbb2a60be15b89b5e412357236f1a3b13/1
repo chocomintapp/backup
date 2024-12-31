@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcssJHYQzVneeSwNKiuwv38tNeKdMsySNhnY2ZgYQBxkH/nft.gif",
+  "nftContractAddress": "0xfa48f0adbb2a60be15b89b5e412357236f1a3b13",
+  "animationUrl": "https://ipfs.io/ipfs/QmcssJHYQzVneeSwNKiuwv38tNeKdMsySNhnY2ZgYQBxkH/nft.gif",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "asagaya_punks_001",
+  "description": "asagaya_de_punk_suru",
+  "attributes": []
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcXGuGwEvm5mCM2WgGzVCzoxFCfbdyhRigDpCWcBJJmBw/nft.jpg",
+  "tokenId": 2,
+  "description": "Chichén Itzá",
+  "nftContractAddress": "0xe906c9b8f55cc4ce8deb441281aca984b0ce789e",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Chichén Itzá",
+  "attributes": []
+}

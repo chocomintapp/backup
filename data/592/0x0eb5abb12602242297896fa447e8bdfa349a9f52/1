@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVHJD3GSRvoJE1j8aK4Rziu3W3gPNogyXreBWQCh3qJTU/nft.jpg",
+  "nftContractAddress": "0x0eb5abb12602242297896fa447e8bdfa349a9f52",
+  "animationUrl": "https://ipfs.io/ipfs/QmVHJD3GSRvoJE1j8aK4Rziu3W3gPNogyXreBWQCh3qJTU/nft.jpg",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "Aries -archimage style-",
+  "description": "SignWitch -サインウィッチ- ©Dice/KADOKAWA",
+  "attributes": []
+}

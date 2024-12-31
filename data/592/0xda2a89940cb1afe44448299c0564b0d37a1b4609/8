@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmentcNRtJ1GrTFMRRPiT25gHMMqa3iRCbKniBiwJ7sn81/nft.png",
+  "tokenId": 8,
+  "description": "Kanji Art is NFT Arts that reconstructs art that is in the public domain using the Japanese character.  \"猫\"...I drew the japanese cat using only these kanji characters. Please try to enlarge the image!",
+  "nftContractAddress": "0xda2a89940cb1afe44448299c0564b0d37a1b4609",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Kanji Cat #01",
+  "attributes": []
+}

@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV9HSDEmj22AMSkL69ZM4f2Vr2fqa4FAye7H4LK4Ks5bq/nft.png",
+  "nftContractAddress": "0xa68de2879da81372db0fb8d8918b8ffa7e1287de",
+  "animationUrl": "",
+  "tokenId": 560,
+  "chainId": "592",
+  "name": "AstarPenguins#00560",
+  "description": "AstarPenguins are intended to be a symbol of environmental protection.\nTheir dream is to protect the Seven Seas and to relocate to the North Pole, where penguins once lived.\nTo do so, e must protect the richness of the seven seas and protect the North Pole, which is being lost due to global warming.\nThe adventures of the penguins continue.",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "EYECOLOR"
+    },
+    {
+      "value": "Black Astar",
+      "trait_type": "EYEPATTERN"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "BODYCOLOR"
+    },
+    {
+      "value": "None",
+      "trait_type": "BODYPATTERN"
+    },
+    {
+      "value": "Mackerel",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "None",
+      "trait_type": "SPECIAL"
+    },
+    {
+      "value": "Purple Astar",
+      "trait_type": "OTHER"
+    }
+  ]
+}

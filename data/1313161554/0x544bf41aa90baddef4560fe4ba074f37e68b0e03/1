@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX5JgQQcSDVmv6wR7pwQ6pzySnympDZknBduSj23Ar963/nft.jpeg",
+  "nftContractAddress": "0x544bf41aa90baddef4560fe4ba074f37e68b0e03",
+  "animationUrl": "https://ipfs.io/ipfs/QmbsYpZkTEAhzsZ9GoPB1mfeLorahov1bUkyFJXfzFWD8k/nft.jpeg",
+  "tokenId": 1,
+  "chainId": "1313161554",
+  "name": "KING",
+  "description": "Token to rule them all",
+  "attributes": [
+    {
+      "value": "1000",
+      "trait_type": "Power"
+    }
+  ]
+}

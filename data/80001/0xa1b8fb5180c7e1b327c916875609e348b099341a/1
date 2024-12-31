@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaMtxfujZPTjUmAMupdfN93FGvstJ4BG7znmjEHDsk7En/nft.png",
+  "tokenId": 1,
+  "description": "Matic2",
+  "nftContractAddress": "0xa1b8fb5180c7e1b327c916875609e348b099341a",
+  "animationUrl": "",
+  "chainId": "80001",
+  "name": "Matic1"
+}

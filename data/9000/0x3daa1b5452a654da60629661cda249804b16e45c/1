@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRUNL5qtmcSEBAi6UFRwKM3VvL5Q7kzh8JB7abMkYfVmE/nft.png",
+  "nftContractAddress": "0x3daa1b5452a654da60629661cda249804b16e45c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "9000",
+  "name": "NFT 1",
+  "description": "NFFTFTFFTFTFTFTFT",
+  "attributes": [
+    {
+      "value": "red",
+      "trait_type": "Color"
+    }
+  ]
+}

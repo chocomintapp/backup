@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme5qWbJHKxr8XwAE3ib9zfm5sfGExKtGgufjDhZbukSeY/nft.jpg",
+  "tokenId": 1,
+  "description": "Delicious Ramen in Japan",
+  "nftContractAddress": "0xd10d8ec51703c02d0c0726590683b2a9052af1e0",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "RAMEN collection",
+  "attributes": [
+    {
+      "trait_type": "buta",
+      "value": "1"
+    },
+    {
+      "trait_type": "abura",
+      "value": "1"
+    },
+    {
+      "trait_type": "yasai",
+      "value": "2"
+    },
+    {
+      "trait_type": "ninniku",
+      "value": "1"
+    }
+  ]
+}

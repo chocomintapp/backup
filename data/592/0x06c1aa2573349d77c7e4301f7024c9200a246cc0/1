@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRaBAN28gTa64B3UHYaJdrewNjKJD3xWZx9CUcrDMSY3U/nft.png",
+  "tokenId": 1,
+  "description": "The Best Person NFT.",
+  "nftContractAddress": "0x06c1aa2573349d77c7e4301f7024c9200a246cc0",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Mucu1",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

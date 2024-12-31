@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc72cRo4T8t9ahP2ECskdczd4yTycb1Cx4eisHv93UFQv/nft.jpg",
+  "nftContractAddress": "0x417603f479cfb5db07292409879e151123cc2125",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1313161554",
+  "name": "01",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "Fundo"
+    },
+    {
+      "value": "1",
+      "trait_type": "H"
+    }
+  ]
+}

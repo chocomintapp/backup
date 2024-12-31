@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXkQoVKBdZCf89q86LPSaqX33CgccNh2nmY9eDvjnCwsF/nft.jpeg",
+  "nftContractAddress": "0xbd8d8193480f26f8e965e91b528a84f546f09eca",
+  "animationUrl": "https://ipfs.io/ipfs/QmXkQoVKBdZCf89q86LPSaqX33CgccNh2nmY9eDvjnCwsF/nft.jpeg",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "masato1",
+  "description": "はじめましてまさとです。小学3年生です。初めてNFT描きました。",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": ""
+    }
+  ]
+}

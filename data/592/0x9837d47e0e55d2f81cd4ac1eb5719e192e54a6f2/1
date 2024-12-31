@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQSVXTq6fvpJmKgZKXybYzwAPVziURqJmKMdayajL8Tv5/nft.png",
+  "tokenId": 1,
+  "description": "test",
+  "nftContractAddress": "0x9837d47e0e55d2f81cd4ac1eb5719e192e54a6f2",
+  "animationUrl": "https://ipfs.io/ipfs/QmT26V5wZXk2c2y29aWQaQMUx5ij1WZFotoCM3iRqYndFZ/nft.glb",
+  "chainId": "592",
+  "name": "neon_test",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

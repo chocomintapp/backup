@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPYEK6JaSKu4FK8SZ769T8NJaw1gKZt7mXEv39WVXsBrA/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #20",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "SpaceCrow",
+      "trait_type": "TYPE"
+    }
+  ]
+}

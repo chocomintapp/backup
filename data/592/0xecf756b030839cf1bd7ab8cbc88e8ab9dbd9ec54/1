@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYVp6ZYutMD3FdEaawPZdp7nisgDWZ6qP7DD3ksBQsiqW/nft.png",
+  "nftContractAddress": "0xecf756b030839cf1bd7ab8cbc88e8ab9dbd9ec54",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "test",
+  "description": "",
+  "attributes": [
+    {
+      "value": "hair",
+      "trait_type": "object01"
+    },
+    {
+      "value": "eye",
+      "trait_type": "object02"
+    },
+    {
+      "value": "cloth",
+      "trait_type": "object03"
+    }
+  ]
+}

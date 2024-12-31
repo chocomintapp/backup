@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdUod2kysF6HcR1rBhgbnso89h1JPQMQJiCwasJmcaxKs/nft.jpg",
+  "tokenId": 1,
+  "description": "Star",
+  "nftContractAddress": "0x7c398180d0a26d111e325fe16e314ee9f1abdf43",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Star",
+  "attributes": []
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfBhU1K6GeYbSzoqT2HVuYouD3GY2vda9EJ2kgdAzEKWe/nft.jpg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xc0c610e6c12113f4f9e3ce8fff369d730b19e9fa",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Starboy-genesis",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Plain"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Naked"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmawBCUgNpmUNLEySHFnLnFj12SeHy52AgQfxQWcz5BYbb/nft.jpg",
+  "nftContractAddress": "0xd189cfdda00e0e26029f9fa9c64e8e152258bcd0",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "592",
+  "name": "C5B1",
+  "description": "C5B1",
+  "attributes": [
+    {
+      "value": "Hero",
+      "trait_type": "BASE"
+    },
+    {
+      "value": "C5B1",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "Bomb NFT",
+      "trait_type": "NFT NAME"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZP17irvH1STc5PkhQX75B9nyBB6rMSLmmPccgqcVwPYh/nft.png",
+  "nftContractAddress": "0x42b061b8cb18898480be2e95724e81f083517e29",
+  "animationUrl": "https://ipfs.io/ipfs/QmZP17irvH1STc5PkhQX75B9nyBB6rMSLmmPccgqcVwPYh/nft.png",
+  "tokenId": 5,
+  "chainId": "592",
+  "name": "Astar Leaps Diffusion #5",
+  "description": "Aliens in primitive times He is name[Gash].\nWe are cheering ASTAR. \nOur leader is muraoka and art is Kohei.",
+  "attributes": [
+    {
+      "value": "ALIEN",
+      "trait_type": "HERO"
+    }
+  ]
+}

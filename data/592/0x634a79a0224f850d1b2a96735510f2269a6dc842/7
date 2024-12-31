@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWJKSRNA3TqeGGsusc2pdKcTECRGdcaifUAKBmvrG7YGd/nft.png",
+  "nftContractAddress": "0x634a79a0224f850d1b2a96735510f2269a6dc842",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "592",
+  "name": "Dr.Preposterous",
+  "description": "The Astar Troopers aim to accelerate the arrival of Web3 through thoughtful innovation and active collaboration. Together we foster a foundation for greatness. \n\nThe Genesis Collection consist of unique troopers that have answered our call to action. We salute you. 🫡 🪖",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Dr.Preposterous",
+      "trait_type": "1st HUNDO"
+    },
+    {
+      "value": "GT007",
+      "trait_type": "TAG"
+    }
+  ]
+}

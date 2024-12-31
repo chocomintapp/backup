@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRBRTozZ26Jbv99icuFKWpfDgk6ktRE65e1dcEcPcShpY/nft.mp4",
+  "tokenId": 8,
+  "description": "Shiden Network, the smart contract platform on Kusama, is pleased to announce our collaboration and integration with Covalent. The integration includes the complete indexing of Shiden Network.",
+  "nftContractAddress": "0x976a1dc5db311a8a8f5e1f68dd80f6eeec2ef12a",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Covalent <> Shiden",
+  "attributes": [],
+  "minted": ""
+}

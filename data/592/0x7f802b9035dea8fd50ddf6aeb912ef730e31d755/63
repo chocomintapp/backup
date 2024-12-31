@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX2q8VTrN5uZe41CqJEqpyFeDbr8Tnykt61GBXph6rmCZ/nft.png",
+  "nftContractAddress": "0x7f802b9035dea8fd50ddf6aeb912ef730e31d755",
+  "animationUrl": "",
+  "tokenId": 63,
+  "chainId": "592",
+  "name": "Baby devils & Baby angels",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Santa Claus Version",
+      "trait_type": "Special"
+    }
+  ]
+}

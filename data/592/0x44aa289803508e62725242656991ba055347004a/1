@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf3E66YJFkjETugtzPbAsEYw3SaciCd63Dshon869DzE6/nft.png",
+  "nftContractAddress": "0x44aa289803508e62725242656991ba055347004a",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "Mono Eye #1",
+  "description": "Mono Eye - Karakasa-Obake",
+  "attributes": [
+    {
+      "value": "Mono",
+      "trait_type": "EYE"
+    }
+  ]
+}

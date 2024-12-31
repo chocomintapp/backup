@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmctyCnWXnLoRzd3FiUpfF7VFm21Ey5SWdgwDjgH6EoJPD/nft.png",
+  "nftContractAddress": "0xc0081e01af773aaa06ea60be09b2e12b7e4aaa0f",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "592",
+  "name": "TOKOROTEN #0003",
+  "description": "A collection of TOKOROTEN drawn in free expression. \nThey are residents of Astar Network. \nPlease feel the new charm.",
+  "attributes": [
+    {
+      "value": "DOKIDOKI",
+      "trait_type": "Type"
+    },
+    {
+      "value": "None",
+      "trait_type": "Optional"
+    },
+    {
+      "value": "Marble",
+      "trait_type": "Background"
+    }
+  ]
+}

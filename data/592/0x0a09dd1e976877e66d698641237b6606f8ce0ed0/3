@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcciZjMvituAg2FczMcGE2z5mkhD8uaNY7BnCYGT8XRoC/nft.png",
+  "nftContractAddress": "0x0a09dd1e976877e66d698641237b6606f8ce0ed0",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "592",
+  "name": "Ideathon Winner 2023",
+  "description": "Our inaugural Ideathon at Astar Network. This award proves your swanky nature with our Proof-of-Swank protocol.",
+  "attributes": [
+    {
+      "value": "Ramz",
+      "trait_type": "Winner"
+    },
+    {
+      "value": "2023",
+      "trait_type": "Year"
+    },
+    {
+      "value": "9000+",
+      "trait_type": "Power Level"
+    }
+  ],
+  "minted": "✅"
+}

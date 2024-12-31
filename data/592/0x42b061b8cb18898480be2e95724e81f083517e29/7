@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX13UTQVBqqiqmbHwvJaDGEnbCT3bzfy1nrkoh4iJFUrQ/nft.png",
+  "nftContractAddress": "0x42b061b8cb18898480be2e95724e81f083517e29",
+  "animationUrl": "https://ipfs.io/ipfs/QmX13UTQVBqqiqmbHwvJaDGEnbCT3bzfy1nrkoh4iJFUrQ/nft.png",
+  "tokenId": 7,
+  "chainId": "592",
+  "name": "Astar Leaps Diffusion #7",
+  "description": "Warring States period He is name [burn] \nWe are cheering ASTAR. \nOur leader is muraoka and art is Kohei.",
+  "attributes": [
+    {
+      "value": "SAMURAI",
+      "trait_type": "HERO"
+    }
+  ]
+}

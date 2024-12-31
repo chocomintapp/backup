@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRUNL5qtmcSEBAi6UFRwKM3VvL5Q7kzh8JB7abMkYfVmE/nft.png",
+  "nftContractAddress": "0x345d93d93a201ee1f05e9dc2a2cad8a47b13da88",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "9000",
+  "name": "NFTName ",
+  "description": "Description",
+  "attributes": [
+    {
+      "value": "Water",
+      "trait_type": "Type"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRqHp1jPMEeBTqtQNYvKHEoHq1xdzeAd7jVRQodMviqnm/nft.png",
+  "tokenId": 4,
+  "description": "Tile_blue material waiting for its turn.\n出番を待つ青色タイルの素材。 \nWhat is Crypto material-girl? Look around you. Things that are around you. They are in everything. In an encrypted world, they are waiting for their turn. To be a part of your life.... \nCrypto material-girlとは？ あなたの周りを見てください。 あなたの周りにあるもの。 彼らはすべてのものの中にいます。 暗号化された世界で、彼らは出番を待っています。 あなたの人生の一部になるために....",
+  "nftContractAddress": "0x71d15e587e8ea0ca1ae3bb11880395b7bd9ca6ca",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "material-girl (tile_blue)",
+  "attributes": [
+    {
+      "trait_type": "GIRL",
+      "value": "100"
+    },
+    {
+      "trait_type": "TILE",
+      "value": "100"
+    },
+    {
+      "trait_type": "BLUE",
+      "value": "100"
+    }
+  ]
+}

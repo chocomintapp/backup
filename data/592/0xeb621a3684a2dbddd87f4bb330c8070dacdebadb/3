@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfLDwfTVTnwypT37FByqUH9B7yjjPvyQ9x9u2Vqzh3M4s/nft.jpg",
+  "nftContractAddress": "0xeb621a3684a2dbddd87f4bb330c8070dacdebadb",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "592",
+  "name": "Meta Sheriff Tiger",
+  "description": "A Collection of Animals that Reside in the Astar Blockchain",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "VR Goggles"
+    },
+    {
+      "value": "2",
+      "trait_type": "Sheriff Suit"
+    },
+    {
+      "value": "2",
+      "trait_type": "Sheriff Badge"
+    },
+    {
+      "value": "3",
+      "trait_type": "Astar Background"
+    },
+    {
+      "value": "2",
+      "trait_type": "Smile"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "",
+  "tokenId": 2,
+  "description": "desk",
+  "nftContractAddress": "0x9837d47e0e55d2f81cd4ac1eb5719e192e54a6f2",
+  "animationUrl": "https://ipfs.io/ipfs/Qma6Lzf1C18T1HZh66M34WVxwkhMFpnoPUjnNHQXFCXyeB/nft.glb",
+  "chainId": "592",
+  "name": "test_desk",
+  "attributes": []
+}

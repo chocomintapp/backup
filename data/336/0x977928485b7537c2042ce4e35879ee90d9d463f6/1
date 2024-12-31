@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbnLNM8hZtY7vgi5WsvGGESULUcP2Lyrf9P3rMDRudc8Q/nft.jpeg",
+  "nftContractAddress": "0x977928485b7537c2042ce4e35879ee90d9d463f6",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "336",
+  "name": "t1",
+  "description": "descrioption",
+  "attributes": [],
+  "minted": ""
+}

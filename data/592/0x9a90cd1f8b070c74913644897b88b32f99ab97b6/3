@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeMeEu6vyuidd6ab6pbw4FLPUpjUUJBQagGDHqDHJy4UD/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #3",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceCat",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPRgkhMNCoNfdMfNLHyMV6T3wUHocWgm5cz4xYFBNJpnk/nft.jpg",
+  "nftContractAddress": "0x2a9e191a93d5b81076d80eaea543a95e50b42ebb",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "592",
+  "name": "Astar AI #6",
+  "description": "A limited collection of NFT made with AI that lives on the Astar Network.",
+  "attributes": []
+}

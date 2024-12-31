@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV6HPU8JXEWULuxF1MKqhegmzp7ow3Ls6CRdsFRpUYBYB/nft.png",
+  "tokenId": 2,
+  "description": "test NFT for SDN beat by semamainco shot at Zu\n",
+  "nftContractAddress": "0x857368324f072bc5572ec4f1c698c600ae158f8a",
+  "animationUrl": "https://ipfs.io/ipfs/QmWbs4cDWmkRPy8tErc4MGRAXqjy8rgZNZTaRa6qn4rep7/nft.mp4",
+  "chainId": "336",
+  "name": "of influence",
+  "attributes": []
+}

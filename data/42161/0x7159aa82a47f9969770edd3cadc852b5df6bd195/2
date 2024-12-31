@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUNeUFGBGdFJxxCToCzfmiavC1e96oE99uxtsJwEGzj45/nft.png",
+  "nftContractAddress": "0x7159aa82a47f9969770edd3cadc852b5df6bd195",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "42161",
+  "name": "LaRana_icon01",
+  "description": "LaRana_icon",
+  "attributes": [],
+  "minted": ""
+}

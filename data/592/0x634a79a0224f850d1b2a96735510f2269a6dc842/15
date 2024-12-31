@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTVQUkwVkcWGXmSFaRmBAgBW2xPyW8eHoPKXiStKkGZ9Z/nft.png",
+  "nftContractAddress": "0x634a79a0224f850d1b2a96735510f2269a6dc842",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "592",
+  "name": "Hetanic",
+  "description": "The Astar Troopers aim to accelerate the arrival of Web3 through thoughtful innovation and active collaboration. Together we foster a foundation for greatness. \n\nThe Genesis Collection consist of unique troopers that have answered our call to action. We salute you. 🫡 🪖",
+  "attributes": [
+    {
+      "value": "Hetanic",
+      "trait_type": "1st HUNDO"
+    },
+    {
+      "value": "GT015",
+      "trait_type": "TAG"
+    }
+  ]
+}

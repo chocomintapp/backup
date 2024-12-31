@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRitnKZvC5UizbdWasytMYWpJk6uBR94VP9iF3EjTC85R/nft.png",
+  "nftContractAddress": "0x6c70d0b54f803c885dc7a7fce0d1da3d8730d198",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "42161",
+  "name": "AAYC #3379",
+  "description": "",
+  "attributes": [
+    {
+      "value": " Sunny",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": " Dark Blue",
+      "trait_type": "FUR"
+    },
+    {
+      "value": "Cyborg",
+      "trait_type": "EYES"
+    },
+    {
+      "value": " Tweed Suit",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Grin Gold Grill",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "S&m Hat",
+      "trait_type": "HAT"
+    },
+    {
+      "value": " Gold Hoop",
+      "trait_type": "EARRING"
+    }
+  ]
+}

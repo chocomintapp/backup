@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdyM2s6c3NhX4GnkP2qPkK79SoeQhGwBvBC2xUjo35uHS/nft.png",
+  "nftContractAddress": "0x7f802b9035dea8fd50ddf6aeb912ef730e31d755",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "592",
+  "name": "Baby devils & Baby angels",
+  "description": "",
+  "attributes": [
+    {
+      "value": "light blue1",
+      "trait_type": "background"
+    },
+    {
+      "value": "light blue2",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "same color",
+      "trait_type": "wing"
+    },
+    {
+      "value": "Legendary sickle",
+      "trait_type": "TOOL"
+    },
+    {
+      "value": "aura",
+      "trait_type": "special"
+    }
+  ]
+}

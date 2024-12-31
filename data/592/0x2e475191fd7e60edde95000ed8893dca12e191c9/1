@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfDWGrnRUkme2gxdKoDbXDbAr5JPKF1J967gadLdU9sLw/nft.png",
+  "tokenId": 1,
+  "description": "akua",
+  "nftContractAddress": "0x2e475191fd7e60edde95000ed8893dca12e191c9",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "animal-baboon",
+  "attributes": []
+}

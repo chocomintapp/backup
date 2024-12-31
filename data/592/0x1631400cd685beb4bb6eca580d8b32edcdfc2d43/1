@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVuTTDwR7KE7FB8X9BfjeB81Hk1bzfT7CdUMDUhhYfHFC/nft.jpg",
+  "nftContractAddress": "0x1631400cd685beb4bb6eca580d8b32edcdfc2d43",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "test_shiba",
+  "description": "the cutest shiba in the world",
+  "attributes": [
+    {
+      "value": "100",
+      "trait_type": "cute_value"
+    }
+  ]
+}

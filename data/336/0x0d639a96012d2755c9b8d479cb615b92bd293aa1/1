@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbLrEeAUqWLDsBZTv77eVRmq32FdzY1WLc8DSYg1srYFZ/nft.jpg",
+  "tokenId": 1,
+  "description": "The first Cryptokage.",
+  "nftContractAddress": "0x0d639a96012d2755c9b8d479cb615b92bd293aa1",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "CRYPTOKAGE",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

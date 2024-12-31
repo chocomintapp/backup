@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb9vu8MTp9YgatLn5GnpZfvsUkgk2wVbn2JaWsNKGhYzx/nft.jpg",
+  "tokenId": 6,
+  "description": "Character of the Year of the Tiger.",
+  "nftContractAddress": "0x1e5b6b25d647cb9ee190c1d7adcb0070fd051a58",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Happy new year",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

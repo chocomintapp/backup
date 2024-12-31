@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSEd4EedavJyPMwRtknm9TjQb7s4WDswYeY7fYstEHvkz/nft.jpeg",
+  "nftContractAddress": "0x47fcb2f67f6fb8182d000379733507a75b07dfeb",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "592",
+  "name": "Full moon",
+  "description": "Full moonlight washing the land",
+  "attributes": []
+}

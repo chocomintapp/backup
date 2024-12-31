@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXNsFbAX2hQMXnH7Uk49EvrttL4wsjhJeY3vtJcDxTpSa/nft.png",
+  "tokenId": 1,
+  "description": "First iteration of \"Pencil Loopie\". Colored pencil on vellum. \nArtist: Feedbacks",
+  "nftContractAddress": "0xc621a66aeedc104745ecdd4ebd44b00c61ee0153",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Pencil Loopie",
+  "attributes": [
+    {
+      "trait_type": "Hand-drawn",
+      "value": "100"
+    }
+  ]
+}

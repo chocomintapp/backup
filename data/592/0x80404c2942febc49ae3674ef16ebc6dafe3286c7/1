@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcZJn6DJ5vX4dkGTCNmAjnbJw8GS7XsbABd7MccKJg6A2/nft.gif",
+  "nftContractAddress": "0x80404c2942febc49ae3674ef16ebc6dafe3286c7",
+  "animationUrl": "https://ipfs.io/ipfs/QmcZJn6DJ5vX4dkGTCNmAjnbJw8GS7XsbABd7MccKJg6A2/nft.gif",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "#1",
+  "description": "aries",
+  "attributes": []
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUvvDKhDzDfeZJngP4ALcD4V38asngZxXsPABg316cp7E/nft.png",
+  "nftContractAddress": "0xf3069f3c9e79fd10c2603475b2ae73fd648377af",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "99999",
+  "name": "Special Cool Wonderful Awesome NFT",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Fire",
+      "trait_type": "Type"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

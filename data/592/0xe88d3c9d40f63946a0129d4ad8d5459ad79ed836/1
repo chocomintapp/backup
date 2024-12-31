@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPrL2NZTvYztYat6CrMgMaGeLzzxNAnyaWdYQtJb8xLdQ/nft.png",
+  "nftContractAddress": "0xe88d3c9d40f63946a0129d4ad8d5459ad79ed836",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "AstarFan#1",
+  "description": "I'm a fan of ASTAR. I will continue to support ASTAR!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "ASTAR",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Spacesuit",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "None",
+      "trait_type": "SPECIAL"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "None",
+      "trait_type": "HAT"
+    },
+    {
+      "value": " Neutral",
+      "trait_type": "EYES"
+    }
+  ]
+}

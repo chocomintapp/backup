@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdA2AdFyc8zMMiZou9Jrd59EooX1RzAAsnDvZzb3DRk1j/nft.png",
+  "tokenId": 1,
+  "description": "Element_Fire\nThis was my original character from my school age",
+  "nftContractAddress": "0x6a0b24f8f5b3dc1cd1ace5e6d954b25893e61706",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Element_Fire",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Fire",
+      "value": "555"
+    },
+    {
+      "trait_type": "Feeling",
+      "value": "Calm"
+    }
+  ]
+}

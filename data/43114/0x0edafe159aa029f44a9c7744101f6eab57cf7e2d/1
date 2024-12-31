@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYVQSWUk86v3y6H8QdAqfuUyW64ptCZSH2cxfYrwJpv7v/nft.png",
+  "nftContractAddress": "0x0edafe159aa029f44a9c7744101f6eab57cf7e2d",
+  "animationUrl": "https://ipfs.io/ipfs/QmVPwFCPmTPYM7HFLRD3RHKxLi5kBxZkgE5L5wiY8McirL/nft.mp4",
+  "tokenId": 1,
+  "chainId": "43114",
+  "name": "spring heart",
+  "description": "Made with spring in mind.",
+  "attributes": []
+}

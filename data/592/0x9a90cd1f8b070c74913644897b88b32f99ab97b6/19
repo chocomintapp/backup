@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWqsXdKVpdZXnzrKkkq7L88f7WHUmB2zNdYAzmTpTwdGn/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #19",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceTurtle",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

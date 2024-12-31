@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVWzZER5QMNZxRPmBUa7cqrGxXWFm7zKJ6vabtpKHSMGd/nft.PNG",
+  "nftContractAddress": "0x5db66ce97ff4c1ddf17d542e21f60e6fc0f1181e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "Sota the North Astar",
+  "description": "今をときめく渡辺創太さんですが２０１９年のDevCon大阪開催中にサウナでお会いした時から気のいいお兄さんでした。あの後もたまにお話しするたびに「え〜とプラズマ作ってるんでしたっけ」と勘違いしたことばかり聞いても怒らずに優しく訂正してくださってありがとうございます。",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

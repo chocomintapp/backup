@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTF2bakqa3R1riwv82EeSxYeEFcxw7LzqQbp2R7FM8zqq/nft.png",
+  "nftContractAddress": "0x0a80084399693b31fabd399348a12d27cea08bde",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "43114",
+  "name": "Pepe Portraits 1290",
+  "description": "Pepe x Coq",
+  "attributes": [
+    {
+      "value": "black_numpty",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "hawaiian_coq",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "party",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "red_pirate",
+      "trait_type": "HAT"
+    },
+    {
+      "value": "red_sunglasses",
+      "trait_type": "EYES"
+    }
+  ]
+}

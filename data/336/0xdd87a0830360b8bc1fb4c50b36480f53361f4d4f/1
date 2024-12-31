@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcSVrUpY6GJjjFa54YHB3Sir5aTc8MdKsPw5ErTAGUM4A/nft.jpg",
+  "tokenId": 1,
+  "description": "Man shooting the stars",
+  "nftContractAddress": "0xdd87a0830360b8bc1fb4c50b36480f53361f4d4f",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Man shooting the stars",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

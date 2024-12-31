@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYFfDjj2bD2cfW5KFeWntBkbY7F8pTPG3ypmCd1q6DSmM/nft.png",
+  "nftContractAddress": "0x3cfb43f21e8aa946ec958cfbe61606d9cc459897",
+  "animationUrl": "https://ipfs.io/ipfs/QmUSin9jfXj33Y52XabMKuEDShY8W2tJyi7Mb877jyZuut/nft.mp4",
+  "tokenId": 3,
+  "chainId": "592",
+  "name": "αSkillGem #3",
+  "description": "Champion Search also requires building web applications. I am employing TypeScript.",
+  "attributes": [
+    {
+      "value": "Level 3",
+      "trait_type": "LEVEL"
+    },
+    {
+      "value": "ypeScript",
+      "trait_type": "SKILL TYPE"
+    },
+    {
+      "value": "Oval",
+      "trait_type": "CUTS"
+    },
+    {
+      "value": "9",
+      "trait_type": "CARAT"
+    },
+    {
+      "value": "5",
+      "trait_type": "CLARITY"
+    },
+    {
+      "value": "0010",
+      "trait_type": "RED"
+    },
+    {
+      "value": "0100",
+      "trait_type": "GREEN"
+    },
+    {
+      "value": "0100",
+      "trait_type": "BLUE"
+    },
+    {
+      "value": "Yuto",
+      "trait_type": "GEM CREATOR"
+    }
+  ]
+}

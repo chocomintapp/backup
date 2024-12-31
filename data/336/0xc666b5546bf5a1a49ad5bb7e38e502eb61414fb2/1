@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPL1GV34aLKLpBy8VKyquvvgtzLdjqcjSYE7MuWj2fvkz/nft.png",
+  "tokenId": 1,
+  "description": "Not blue.",
+  "nftContractAddress": "0xc666b5546bf5a1a49ad5bb7e38e502eb61414fb2",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Blue",
+  "attributes": [],
+  "minted": ""
+}

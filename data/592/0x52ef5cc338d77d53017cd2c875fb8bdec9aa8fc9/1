@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWE91HrLeN44dfMh9TNbiNWu9a4HimzKAeWm5bX5sPEtT/nft.jpg",
+  "nftContractAddress": "0x52ef5cc338d77d53017cd2c875fb8bdec9aa8fc9",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "XVM",
+  "description": "XVM Tester On Shibuya",
+  "attributes": [],
+  "minted": ""
+}

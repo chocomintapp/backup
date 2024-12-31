@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcQZPDi5nrmFiiBi6XjCRKSB54pE2Bt4EBAXENgADBqmj/nft.png",
+  "tokenId": 3,
+  "description": "The constellations of the 12 palaces of the ecliptic are depicted in the style of Japanese omake stickers.\n黄道12宮の星座を日本のおまけシール調に描きました。",
+  "nftContractAddress": "0x2f23db7a79b256ab962b6ee409e5834341e675f5",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Astar Zodiac collection : Aries/N",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Normal"
+    }
+  ]
+}

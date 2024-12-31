@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPDFztSs9zo8Ut6i4UpBA1Zqwe5P1HLyrsqDHrRXN3aag/nft.png",
+  "nftContractAddress": "0x7ed2889c042da958fd9b15da802b843ba34663f0",
+  "animationUrl": "",
+  "tokenId": 123,
+  "chainId": "592",
+  "name": "AstarBabyCats116",
+  "description": "AstarCatsの派生NFT",
+  "attributes": [],
+  "minted": "✅"
+}

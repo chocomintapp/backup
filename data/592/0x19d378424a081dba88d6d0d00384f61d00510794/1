@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYcafKLogNdsfepFHvGG6QvHUQsV3gAdYmoXtWUkwdEML/nft.jpg",
+  "tokenId": 1,
+  "description": "This picture is Bishamonten of the Seven Lucky Gods.\nI plan to mint 6 more pictures from now on.\nPlease come and experience Japanese tradition.",
+  "nftContractAddress": "0x19d378424a081dba88d6d0d00384f61d00510794",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "LuckyGod Picturs #1",
+  "attributes": []
+}

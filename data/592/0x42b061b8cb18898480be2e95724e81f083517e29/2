@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQJy3nCjWywSRZE8Rp3qB8fbut5bWAqEujJiVM2hZAhG5/nft.png",
+  "nftContractAddress": "0x42b061b8cb18898480be2e95724e81f083517e29",
+  "animationUrl": "https://ipfs.io/ipfs/QmQJy3nCjWywSRZE8Rp3qB8fbut5bWAqEujJiVM2hZAhG5/nft.png",
+  "tokenId": 2,
+  "chainId": "592",
+  "name": "Astar Leaps Diffusion #2",
+  "description": "Information Technology FOX He is name [099] Gruufge Hey Huffing! \nWe are cheering ASTAR. \nOur leader is muraoka and art is Kohei.",
+  "attributes": [
+    {
+      "value": "FOX",
+      "trait_type": "HERO"
+    }
+  ]
+}

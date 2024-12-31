@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRMUvSVqnYhYemJexiFXwVyEFLkGrGdsG9YVuHg7VWfxW/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #1",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpacePenguin",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

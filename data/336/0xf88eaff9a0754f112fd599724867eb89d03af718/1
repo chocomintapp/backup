@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaiqHTmSNgbxxvJ2vrsKZf6KcFfn91LpX7wynkyqbYsd6/nft.jpg",
+  "tokenId": 1,
+  "description": "大好きなお散歩で気持ちよくなったのでしょう。ブンブンと頭を振ったらまるで扇風機みたいになってしまいました。そんな貴重な瞬間を捉えた思わず笑顔になる写真です。",
+  "nftContractAddress": "0xf88eaff9a0754f112fd599724867eb89d03af718",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "気持ちよくて扇風機になった犬",
+  "attributes": [],
+  "minted": ""
+}

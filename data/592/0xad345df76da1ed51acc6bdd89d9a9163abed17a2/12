@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVPAmYQ3VvBLsfjTMFocvfrnoebi1Enrpad12LBhrWLmy/nft.jpg",
+  "nftContractAddress": "0xad345df76da1ed51acc6bdd89d9a9163abed17a2",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "592",
+  "name": "BabuStarAnimals #VeryLongAnimals × KABUTO",
+  "description": "Fanart of KABUTO",
+  "attributes": [
+    {
+      "value": "KABUTO",
+      "trait_type": "VeryLongAnimals "
+    }
+  ]
+}

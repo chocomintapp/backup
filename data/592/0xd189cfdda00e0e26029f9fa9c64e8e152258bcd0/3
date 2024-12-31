@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRGUQLLqdEJEsiz1cBN2otkof5fnDV4VfmEnRLbdHmjWp/nft.jpg",
+  "nftContractAddress": "0xd189cfdda00e0e26029f9fa9c64e8e152258bcd0",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "592",
+  "name": "C2R2",
+  "description": "C2R2",
+  "attributes": [
+    {
+      "value": "Hero",
+      "trait_type": "BASE"
+    },
+    {
+      "value": "C2R2",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "Bomb NFT",
+      "trait_type": "NFT NAME"
+    }
+  ]
+}

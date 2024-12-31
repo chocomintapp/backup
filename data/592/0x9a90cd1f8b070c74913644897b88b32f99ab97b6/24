@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdrw9jtKwa5RMNGLvGj9eFZyVGHQxoG4xgj2oYq1Ya5dL/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #24",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceShrimp",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

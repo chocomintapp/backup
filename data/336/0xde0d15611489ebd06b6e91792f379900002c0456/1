@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcVrDq9SRzcajLwtRpwBSKXTEfpHt74tp7eKSk5rdyN5o/nft.png",
+  "tokenId": 1,
+  "description": "secret sale",
+  "nftContractAddress": "0xde0d15611489ebd06b6e91792f379900002c0456",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "shidenpunks",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

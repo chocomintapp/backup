@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU2m4Gg3o9imQw2N1WfNfX3B8JYd6EX2UWrjTCn7eyaW1/nft.png",
+  "tokenId": 1,
+  "description": "Do you want to burn tofu?",
+  "nftContractAddress": "0x2dfab7220028d3763886ff0c21909587b646c7cf",
+  "animationUrl": "https://ipfs.io/ipfs/QmU2m4Gg3o9imQw2N1WfNfX3B8JYd6EX2UWrjTCn7eyaW1/nft.png",
+  "chainId": "336",
+  "name": "tofu on fire on tree",
+  "attributes": []
+}

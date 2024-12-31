@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeXkz167x7FwiEDxpGAk1c9fraTXkDaJivK7vWsW2NSv7/nft.jpg",
+  "nftContractAddress": "0x7159aa82a47f9969770edd3cadc852b5df6bd195",
+  "animationUrl": "https://ipfs.io/ipfs/QmadTPxXCCxbn7kxiKXK2Q8Df363b2EirHuhqqX7uw2nt3/nft.PNG",
+  "tokenId": 1,
+  "chainId": "42161",
+  "name": "20230424_Live_Start",
+  "description": "Commemorative art that started live from April 24, 2023",
+  "attributes": [],
+  "minted": "✅"
+}

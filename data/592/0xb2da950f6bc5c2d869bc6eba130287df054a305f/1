@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcDEKJpWbgtor88uJ9Hpz9XCxzNAVXGge4AerRXYPfai7/nft.png",
+  "nftContractAddress": "0xb2da950f6bc5c2d869bc6eba130287df054a305f",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "OutputJapaneseHolidays2023",
+  "description": "An image of the source code that sets and outputs Japanese holidays in 2023 with the programming language \"Nadeshiko\" that can be developed in Japanese.\n\n日本語で開発を行う事が出来るプログラミング言語  \"なでしこ\"(Nadeshiko)で、2023年の日本の祝日をセットし出力するソースコードを画像化したもの",
+  "attributes": [
+    {
+      "value": "Nadeshiko",
+      "trait_type": "CODE"
+    },
+    {
+      "value": "Japanese",
+      "trait_type": "Countory"
+    },
+    {
+      "value": "SourceCode",
+      "trait_type": "Category"
+    },
+    {
+      "value": "2023",
+      "trait_type": "Year"
+    }
+  ],
+  "minted": ""
+}

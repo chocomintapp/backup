@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYoPwoHWQVPJADHctqqx6Q5FrzahFbdUxVEKTEFrkLSy2/nft.mov",
+  "tokenId": 5,
+  "description": "My business partner made it in the image of the uncut stone which could shine.\nDepending on light, it will be an image to fit anyone from now on.",
+  "nftContractAddress": "0x1e5b6b25d647cb9ee190c1d7adcb0070fd051a58",
+  "animationUrl": "https://ipfs.io/ipfs/QmYoPwoHWQVPJADHctqqx6Q5FrzahFbdUxVEKTEFrkLSy2/nft.mov",
+  "chainId": "336",
+  "name": "Unicorn crystal",
+  "attributes": []
+}

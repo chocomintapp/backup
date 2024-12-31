@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWUm7u2sYgs3gnnqWmbzocR9rr85ACKDwttHttGDXLjkc/nft.png",
+  "nftContractAddress": "0x7f802b9035dea8fd50ddf6aeb912ef730e31d755",
+  "animationUrl": "",
+  "tokenId": 47,
+  "chainId": "592",
+  "name": "Baby devils & Baby angels",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Light blue",
+      "trait_type": "background"
+    },
+    {
+      "value": "light green",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "arrow",
+      "trait_type": "TOOL"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVBZCU3K6MybzdF5JeAk8frbTWzU2jYmJF9rPQeAK6Eqz/nft.png",
+  "nftContractAddress": "0x3d177c1980e93f8145e24c41b80c5773b5b804b2",
+  "animationUrl": "https://ipfs.io/ipfs/QmSu169j2rzpL5DjPnJNwAUerTBTYb1qiBGrfLxb4pMwCX/nft.gif",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "Happy Llama #001",
+  "description": "Happy Llama is a collection of 500 NFTs - unique digital hand drawn collectibles. Minted exclusively on Astar Network Each Llma is unique and programmatically generated from over 127 Traits with different Rarities",
+  "attributes": [
+    {
+      "value": "Yellow",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Blue - 7%",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Red Hat - 5%",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Cyborg Yellow - 7%",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Gilet Red - 5%",
+      "trait_type": "Body"
+    }
+  ]
+}

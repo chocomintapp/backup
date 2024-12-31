@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUMGBEiTeW1K8HR7U85gSkgF4GLHKtxbkiwCoZ71Jz8cK/nft.png",
+  "tokenId": 1,
+  "description": "8 bit astar network ",
+  "nftContractAddress": "0x1131499abf9e8576a3af2227ef5f72d6e8493526",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Astar network ",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "12",
+      "value": "13"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeNkTn54WRWVKLZZ8LaMH9j1YX86YWnPq6UCygF994ZcE/nft.jpg",
+  "nftContractAddress": "0x71a7c778883d486e067dc5a062372057e83bc78a",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "Grape tea time",
+  "description": "Tea time date of grapes with a black-haired lady",
+  "attributes": []
+}

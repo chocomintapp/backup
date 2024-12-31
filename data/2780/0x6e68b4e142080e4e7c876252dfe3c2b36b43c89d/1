@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcNW2YwFa1SxRpyHaq89gGyFH35ohsNCojBadkeQdDXTZ/nft.png",
+  "tokenId": 1,
+  "description": "test1",
+  "nftContractAddress": "0x6e68b4e142080e4e7c876252dfe3c2b36b43c89d",
+  "animationUrl": "",
+  "chainId": "2780",
+  "name": "lapps-test-1",
+  "attributes": []
+}

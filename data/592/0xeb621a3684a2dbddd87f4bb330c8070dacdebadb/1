@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWJH2nWPdEuo93ys3W5qHNqTBFZ2Bw3Ha5KCrSq9jD9vR/nft.jpg",
+  "tokenId": 1,
+  "description": "A Collection of Animals that Reside in the Astar Blockchain",
+  "nftContractAddress": "0xeb621a3684a2dbddd87f4bb330c8070dacdebadb",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Tribal Tiger",
+  "attributes": [
+    {
+      "trait_type": "Mohawk Hair",
+      "value": "1"
+    },
+    {
+      "trait_type": "Skull Shoulder",
+      "value": "1"
+    },
+    {
+      "trait_type": "Droopy Eyes",
+      "value": "2"
+    },
+    {
+      "trait_type": "Tribal Look",
+      "value": "1"
+    },
+    {
+      "trait_type": "Smile",
+      "value": "2"
+    }
+  ]
+}

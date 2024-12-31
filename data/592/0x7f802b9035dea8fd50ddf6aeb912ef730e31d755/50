@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXHdJMVSeMWNTyceb6k5t4Ndfx2m34eu5vyJV5y951Los/nft.png",
+  "nftContractAddress": "0x7f802b9035dea8fd50ddf6aeb912ef730e31d755",
+  "animationUrl": "",
+  "tokenId": 50,
+  "chainId": "592",
+  "name": "Baby devils & Baby angels",
+  "description": "",
+  "attributes": [
+    {
+      "value": "graffiti art4",
+      "trait_type": "background"
+    },
+    {
+      "value": "Legendary sickle",
+      "trait_type": "TOOL"
+    },
+    {
+      "value": "Oni Version",
+      "trait_type": "Special"
+    }
+  ]
+}

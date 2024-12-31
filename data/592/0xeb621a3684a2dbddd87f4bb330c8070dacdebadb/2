@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPwAdCGHcfBbumm7Tx2VU9RmB6nw71nRbuLzfPEsAg24a/nft.jpg",
+  "tokenId": 2,
+  "description": "A Collection of Animals that Reside in the Astar Blockchain",
+  "nftContractAddress": "0xeb621a3684a2dbddd87f4bb330c8070dacdebadb",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Sheriff Tiger",
+  "attributes": [
+    {
+      "trait_type": "Utility Cap",
+      "value": "1"
+    },
+    {
+      "trait_type": "Sheriff Suit",
+      "value": "1"
+    },
+    {
+      "trait_type": "Droopy Eyes",
+      "value": "2"
+    },
+    {
+      "trait_type": "Sad",
+      "value": "1"
+    },
+    {
+      "trait_type": "Astar Background",
+      "value": "3"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXW7ZWBa1Y1LnMzMygZiSDB1ueAegB9KgRTqrrVuQXofD/nft.png",
+  "nftContractAddress": "0xa7d5e25348fb81bfa153cfc535a396fd59b7392a",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "592",
+  "name": "After Punks #0002",
+  "description": "Periodically, the AI generates new NFTs.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "woman",
+      "trait_type": "sex"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUKMFu8LSjRAkDoanZqNLvKZtnHNB2BNUeaQThmmBN21w/nft.png",
+  "tokenId": 2,
+  "description": "Solid Snake running on a platform, gamescene recreated by pixel painting.",
+  "nftContractAddress": "0x711673755faf7bce0463095eae2a1d0704e3c9a4",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Snake Rework",
+  "attributes": []
+}

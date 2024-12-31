@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaMdQ3qf7uxmPzYK3QBiGwiv3vKXSKCPqP5VeDMWz5h7P/nft.png",
+  "tokenId": 3,
+  "description": "Pix Pope",
+  "nftContractAddress": "0x5bd0dd03270ab6c9c0fa2bb75639826e6534eb99",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Pix Pope",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "1"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXYacZZFG4B2zaRcSNqy73Fns562ZtXws9mkTLkBGsFyA/nft.png",
+  "tokenId": 1,
+  "description": "secret sale",
+  "nftContractAddress": "0x9492168ed9b36fede25bcdbb2850641c635309a4",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "SDN PUNKS",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

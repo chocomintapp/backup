@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbd6qz7WdEdKAjg1ufFVvPT2mJ2G4vJuZxf3wGsGdQGVf/nft.jpeg",
+  "tokenId": 1,
+  "description": "The #1 Pikachu on Shiden",
+  "nftContractAddress": "0xfbab3f8e6c2bdbae9d70bccf8833856eef16e9a4",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "PikaShiden",
+  "attributes": []
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNaAns1dGc4irrq5ZX9AAs8GLs891uYk2QiX7sVopggKo/nft.png",
+  "nftContractAddress": "0x7f802b9035dea8fd50ddf6aeb912ef730e31d755",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "Baby devils & Baby angels",
+  "description": "",
+  "attributes": [
+    {
+      "value": "snow",
+      "trait_type": "background"
+    },
+    {
+      "value": "original eye",
+      "trait_type": "eye"
+    },
+    {
+      "value": "original body",
+      "trait_type": "body"
+    },
+    {
+      "value": "original hand",
+      "trait_type": "hand"
+    },
+    {
+      "value": "original arrow",
+      "trait_type": "tool"
+    }
+  ]
+}

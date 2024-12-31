@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeHoyZxUsTAVCJhUwZcqv8AqVG32kAULvz6VnzjrU6HaU/nft.jpg",
+  "tokenId": 2,
+  "description": "Just a trest",
+  "nftContractAddress": "0x0801b0a00b81528c3f757d8722bf4a76efe31d8b",
+  "animationUrl": "https://ipfs.io/ipfs/QmeHoyZxUsTAVCJhUwZcqv8AqVG32kAULvz6VnzjrU6HaU/nft.jpg",
+  "chainId": "336",
+  "name": "TEST",
+  "attributes": [
+    {
+      "trait_type": "Fenix",
+      "value": "25"
+    }
+  ]
+}

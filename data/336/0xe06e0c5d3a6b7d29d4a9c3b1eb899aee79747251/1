@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZZLhY9t3KPR7x8GmDYuFrLiyNuWVBBCzUkQK8o2NqREZ/nft.jpeg",
+  "tokenId": 1,
+  "description": "One of the words that people say when they are surprised.\nIt is said to be a combination of the word “sonna bakana\" and the fruit \"banana\".\nIn Japan, it is widely known as an old man's gag.",
+  "nftContractAddress": "0xe06e0c5d3a6b7d29d4a9c3b1eb899aee79747251",
+  "animationUrl": "https://ipfs.io/ipfs/QmaEavsH5w7dQnSKksbW4ZR9X1gxSN9rVLbH6RqpK7sk3u/nft.PNG",
+  "chainId": "336",
+  "name": "SONNA BANANA DOG",
+  "attributes": []
+}

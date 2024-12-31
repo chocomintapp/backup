@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmextWL1wmWVEHR5L44kEZaB5ULzFqHWYwuZHKK8paD26K/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #29",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceBeetle",
+      "trait_type": "TYPE"
+    }
+  ]
+}

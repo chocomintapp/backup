@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaoBPSG1h1oZRBcpidqGzECj2e6HgyDpmE32XzLxi4vbo/nft.png",
+  "nftContractAddress": "0x78a4e37c2c31548f33510b8ff2cc5fbcce295027",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "CHRIS ONE",
+  "description": "First NFT",
+  "attributes": []
+}

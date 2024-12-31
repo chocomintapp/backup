@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd3dH1D1VaVWb7VQ27TuJDGTD9m9t4PMWWrNe9rWp4UYH/nft.jpg",
+  "tokenId": 12,
+  "description": "Up-and-coming Japanese calligrapher Senshin Terada will turn your name into kanji and present it to you in nft form. This is just one example. If you write James in kanji, it would be written like this This kanji has the wonderful meaning of cherishing and prospering from your dreams.",
+  "nftContractAddress": "0xf80c0a80659c4ffda47020045aeeb574766afb3b",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "James",
+  "attributes": []
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSZWPQ31cm34R77EkC4wNNh1WDvJMMaMnh3NqdtAKk3LL/nft.jpeg",
+  "nftContractAddress": "0xbd8d8193480f26f8e965e91b528a84f546f09eca",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "592",
+  "name": "masato",
+  "description": "\nまさと5作目",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": ""
+    }
+  ]
+}

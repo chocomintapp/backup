@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT2viqE3oD3MGNg82AL2hVnngH6NprWXqoUWRobmK9WRF/nft.png",
+  "nftContractAddress": "0x6491dc332562d15f3e7ca199295edcaa56211d2b",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "SFY_Labs",
+  "description": "Logo",
+  "attributes": []
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmda6eYvkZQHGAhKMU9QHREdzBCCp5apJKmSrZ6HgNiD4G/nft.png",
+  "tokenId": 2,
+  "description": "A collection for ASTAR NETWORK developers and fans. ",
+  "nftContractAddress": "0x05a1ed91d2760b751cbe68dd2c644f182069782c",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "ASTR-B2E #2",
+  "attributes": [
+    {
+      "trait_type": "MODEL",
+      "value": "Mark 1"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Red"
+    }
+  ]
+}

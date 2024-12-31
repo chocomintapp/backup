@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeYhAXptBoK2a4cH9Q1bMsh4ATiKq54wZuWgwaHGpWvfM/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 53,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #30",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceSheep",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZowW4pkRauSiB6o3txWK3dc7bfrDNh7qJ7ZZcxtsWrMs/nft.png",
+  "tokenId": 1,
+  "description": "Drawings with dots.",
+  "nftContractAddress": "0x61f0de7a7b32c783b6049a90403000b4255f1bbc",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Dot Cat",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Base Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Animal"
+    }
+  ]
+}

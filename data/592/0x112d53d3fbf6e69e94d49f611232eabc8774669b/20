@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWWWogHk3sxjwJpiwdLkQmkMADEK9U4p189YdmWCs5mkS/nft.png",
+  "tokenId": 20,
+  "description": "Collection of Korean Kingdom Warriors NFTs with various attributes.\n",
+  "nftContractAddress": "0x112d53d3fbf6e69e94d49f611232eabc8774669b",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Korean Kingdom #20",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Palace Guard"
+    },
+    {
+      "trait_type": "Attributes",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "Attributes",
+      "value": "Blue Uniform"
+    },
+    {
+      "trait_type": "Attributes",
+      "value": "Bow"
+    }
+  ]
+}

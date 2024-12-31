@@ -1,0 +1,10 @@
+{
+  "image": "",
+  "nftContractAddress": "0x80404c2942febc49ae3674ef16ebc6dafe3286c7",
+  "animationUrl": "https://ipfs.io/ipfs/QmZSh65kzmmd2KdgzYiUboUu9hTzdAH33ERGqErmc5omwi/nft.gif",
+  "tokenId": 13,
+  "chainId": "592",
+  "name": "#13",
+  "description": "aries with sheep",
+  "attributes": []
+}

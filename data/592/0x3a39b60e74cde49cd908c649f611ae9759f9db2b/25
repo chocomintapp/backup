@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcDSkmWmz5ArGEhNdPkzN1ch4qSo1qz7htiTGkVH1zxHW/nft.png",
+  "tokenId": 25,
+  "description": "Profile Picture",
+  "nftContractAddress": "0x3a39b60e74cde49cd908c649f611ae9759f9db2b",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "KIXX",
+  "attributes": []
+}

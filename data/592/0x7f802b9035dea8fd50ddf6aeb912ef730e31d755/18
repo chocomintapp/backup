@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPt34gEjJmE3Ujqhj5SLgLKE32asPjEDSiuWeNb1sL7bN/nft.png",
+  "nftContractAddress": "0x7f802b9035dea8fd50ddf6aeb912ef730e31d755",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "592",
+  "name": "Baby devils & Baby angels",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Swirling chain",
+      "trait_type": "background"
+    },
+    {
+      "value": "long-two-horned",
+      "trait_type": "head"
+    },
+    {
+      "value": "red3",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "spear",
+      "trait_type": "TOOL"
+    }
+  ]
+}

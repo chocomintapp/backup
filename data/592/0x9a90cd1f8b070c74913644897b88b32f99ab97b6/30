@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQzrUGoJavgP6m3hza7eqkgz7wJuhUBRrzU9WNrSiRLY6/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #28",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceHorse",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

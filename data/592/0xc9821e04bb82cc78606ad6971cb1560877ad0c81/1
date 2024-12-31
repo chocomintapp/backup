@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmccmSVv2jLbJREHVR4iUVBeuRTymRH5WSBrLH6jyWbaJf/nft.png",
+  "nftContractAddress": "0xc9821e04bb82cc78606ad6971cb1560877ad0c81",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "Aster",
+  "description": "aster",
+  "attributes": [
+    {
+      "value": "222",
+      "trait_type": "222"
+    },
+    {
+      "value": "222",
+      "trait_type": "222"
+    }
+  ]
+}

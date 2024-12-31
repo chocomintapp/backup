@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQuvqqrCZFMEomzqenCyLQf6p3iJLHKxiYdUsthrXN3Ho/nft.png",
+  "nftContractAddress": "0xc92584d489dd44977eed1caa5725c91ce2d1c821",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1313161554",
+  "name": "Naughty Monkeys",
+  "description": "Spank my monkey! These Naughty Monkeys are out of control and need a good spanking. Come join the dopest NFT community in town and become an official Spanker. All Spankers are given a Naughty Monkey to nurture, grow, love, and most importantly... to spank the shit out of! Get dat monkey, spank dat monkey, and reap the rewards!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Cuban Cigars and Scotch",
+      "trait_type": "Vice"
+    },
+    {
+      "value": "7",
+      "trait_type": "Age"
+    },
+    {
+      "value": "\"Getting shit done..\"",
+      "trait_type": "Skills"
+    },
+    {
+      "value": "Leader of the Naughty Monkey Gang",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "Favorite one-liner... \"Cause I don't give a Fuck\"",
+      "trait_type": "Distinguished Characteristic"
+    }
+  ]
+}

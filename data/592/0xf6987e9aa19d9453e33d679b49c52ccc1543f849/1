@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWezmDgA1TKbWCavUA7otvfzu9cXtZdQDj6k5JfamZryj/nft.png",
+  "tokenId": 1,
+  "description": "One of the treasure hunters on a treasure hunt at the event site of the \"NFT Meetup!\"",
+  "nftContractAddress": "0xf6987e9aa19d9453e33d679b49c52ccc1543f849",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "#1 Origin",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

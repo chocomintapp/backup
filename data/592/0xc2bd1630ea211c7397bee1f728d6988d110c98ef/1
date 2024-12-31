@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWspC17gLViPXJ6uLWXEK3Y7uH98mJtN4qSm2L1zoPC3q/nft.png",
+  "nftContractAddress": "0xc2bd1630ea211c7397bee1f728d6988d110c98ef",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "hideneko",
+  "description": "cute boy",
+  "attributes": []
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTVmxFnLzxv6bHLCKXVtfh6ByH1E2nfC4i9FP9nK8TYXg/nft.png",
+  "nftContractAddress": "0xad345df76da1ed51acc6bdd89d9a9163abed17a2",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "592",
+  "name": "BabuStarAnimals #7",
+  "description": "Babu!!babubbbabububababububububabababubabubabubabubabuuuuuuuu!!!!",
+  "attributes": [
+    {
+      "value": "Panda",
+      "trait_type": "Space"
+    }
+  ]
+}

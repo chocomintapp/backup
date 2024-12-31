@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP2V55aazi2sURqrFgLzP5cBqViyBSGcZPpZFHeveWbmg/nft.png",
+  "nftContractAddress": "0xfbe598fa1587e9bd0d6b2ee9416ba1207b5d8e77",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "592",
+  "name": "AstarPenguins#00000",
+  "description": "AstarPenguins",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Aqua",
+      "trait_type": "EYECOLOR"
+    },
+    {
+      "value": "",
+      "trait_type": "BODYCOLOR"
+    },
+    {
+      "value": "WhiteBB",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

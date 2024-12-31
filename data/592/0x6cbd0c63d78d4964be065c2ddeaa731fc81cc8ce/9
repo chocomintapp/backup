@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfKKjnLaEcYkBn8pkMytXzyQzWXN5W2rNYHpKYfjCaqUj/nft.png",
+  "nftContractAddress": "0x6cbd0c63d78d4964be065c2ddeaa731fc81cc8ce",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "592",
+  "name": "Kings Of Neon",
+  "description": "Fuego.",
+  "attributes": [
+    {
+      "value": "Kingdom",
+      "trait_type": "Kusama"
+    },
+    {
+      "value": "Crisis",
+      "trait_type": "Neon"
+    },
+    {
+      "value": "Degens",
+      "trait_type": "Astar"
+    }
+  ]
+}

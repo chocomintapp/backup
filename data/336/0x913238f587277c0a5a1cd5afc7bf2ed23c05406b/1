@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZjW1s6Fm8YE6Gm8xaN6PDETdJR8ba2xNjvjHwaVUAuRs/nft.png",
+  "tokenId": 1,
+  "description": "Portal screenshot ",
+  "nftContractAddress": "0x913238f587277c0a5a1cd5afc7bf2ed23c05406b",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Amazing dApp staking",
+  "attributes": [
+    {
+      "trait_type": "Image",
+      "value": "Screenshot"
+    }
+  ]
+}

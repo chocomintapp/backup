@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZSwUa5ptAnZ8FoF5hyUf2vKm3ZGKg45ZzdouqPkDGi8H/nft.jpg",
+  "nftContractAddress": "0xd189cfdda00e0e26029f9fa9c64e8e152258bcd0",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "592",
+  "name": "C7S5",
+  "description": "C7S5",
+  "attributes": [
+    {
+      "value": "Hero",
+      "trait_type": "BASE"
+    },
+    {
+      "value": "C7S5",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "Bomb NFT",
+      "trait_type": "NFT NAME"
+    }
+  ]
+}

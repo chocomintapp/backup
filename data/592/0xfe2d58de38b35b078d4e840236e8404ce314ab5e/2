@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQv8tPY5zHonSmvK4fEcV7DQSsvtHqZTs5r9hGfaNFQYx/nft.jpeg",
+  "tokenId": 2,
+  "description": "Lucky dog",
+  "nftContractAddress": "0xfe2d58de38b35b078d4e840236e8404ce314ab5e",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "frenchibulldog",
+  "attributes": []
+}

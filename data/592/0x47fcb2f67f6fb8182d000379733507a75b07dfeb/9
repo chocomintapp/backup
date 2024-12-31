@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYGgctLmDbGayVNzRsERvER4TDj1LeGFtx9A6wTz2hj9Y/nft.jpeg",
+  "nftContractAddress": "0x47fcb2f67f6fb8182d000379733507a75b07dfeb",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "592",
+  "name": "Coffee break",
+  "description": "The best part of waking up",
+  "attributes": []
+}

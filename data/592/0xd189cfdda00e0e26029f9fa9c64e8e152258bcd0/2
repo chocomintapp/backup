@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdscg5FZ9zYWKLPtGKBnoMkd9XMc8PfkVxmhTksD9vQor/nft.jpg",
+  "nftContractAddress": "0xd189cfdda00e0e26029f9fa9c64e8e152258bcd0",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "592",
+  "name": "C7R2",
+  "description": "C7R2",
+  "attributes": [
+    {
+      "value": "Hero",
+      "trait_type": "BASE"
+    },
+    {
+      "value": "C7R2",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "Bomb NFT",
+      "trait_type": "NFT NAME"
+    }
+  ]
+}

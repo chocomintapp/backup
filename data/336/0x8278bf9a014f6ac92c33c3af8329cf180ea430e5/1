@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQcmHKmEVrobHQzLciX25FygQ5RivQuJdutJr7FFbH41X/nft.jpeg",
+  "tokenId": 1,
+  "description": "FIRST NFT",
+  "nftContractAddress": "0x8278bf9a014f6ac92c33c3af8329cf180ea430e5",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "FIRST NFT",
+  "attributes": [],
+  "minted": ""
+}

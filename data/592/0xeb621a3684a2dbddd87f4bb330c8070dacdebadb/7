@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmenJuyMfESFLCo66MfwXF6L88KkPcsuqjYFkjJVXxyz6D/nft.jpg",
+  "nftContractAddress": "0xeb621a3684a2dbddd87f4bb330c8070dacdebadb",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "592",
+  "name": "Mohawk Ape",
+  "description": "A Collection of Animals that Reside in the Astar Blockchain",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "1",
+      "trait_type": "Bullet Belt"
+    },
+    {
+      "value": "1",
+      "trait_type": "Mohawk Hair"
+    },
+    {
+      "value": "6",
+      "trait_type": "Astar Background"
+    },
+    {
+      "value": "1",
+      "trait_type": "Tattooed Chest"
+    }
+  ]
+}

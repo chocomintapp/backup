@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdFgPCdcnxddRyV8aVsY5iPDDoayEeajPvNJW57TVTpa6/nft.png",
+  "tokenId": 1,
+  "description": "no war",
+  "nftContractAddress": "0x71b8a61899b33c6b6a0db4577d78c94886ebb1a7",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "hato#1",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "20"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

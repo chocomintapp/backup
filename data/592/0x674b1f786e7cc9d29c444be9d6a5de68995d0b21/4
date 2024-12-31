@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNpC15e2tf524V1dSCG3aN1X59wnvfATgawAaP27z8gTa/nft.png",
+  "nftContractAddress": "0x674b1f786e7cc9d29c444be9d6a5de68995d0b21",
+  "animationUrl": "https://ipfs.io/ipfs/QmSZAv2Zu7bPXcXKi66SDiLkhb4VPpxZCF7Xhb6dXFcegk/nft.mp4",
+  "tokenId": 4,
+  "chainId": "592",
+  "name": " YOHAKU.SPREAD  #4 Water",
+  "description": "“Yohaku” is the Japanese word for “margin”.\n\\n\\nBy using imagination and technology, we aim to work within “Yohaku” to endlessly perfect our art.\n\\n\\nhttp://yohaku.club/",
+  "attributes": [
+    {
+      "value": "SPREAD",
+      "trait_type": "Creation"
+    },
+    {
+      "value": "MILESTONES01",
+      "trait_type": "Series"
+    }
+  ],
+  "minted": "✅"
+}

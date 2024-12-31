@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXmsb5rT82FEo1uN568yYDyK5FeCdbiA7xJscmnGnEfvH/nft.png",
+  "tokenId": 1,
+  "description": "Leaf blocks are powerful and full of life. ",
+  "nftContractAddress": "0xe98741403bb17e3fb54078530a31f840b9cfa2e9",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Leaf Block",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Life",
+      "value": "Nature"
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Block"
+    }
+  ]
+}

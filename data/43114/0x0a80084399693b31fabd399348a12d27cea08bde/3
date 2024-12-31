@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeC815qievpuUGEedqjvqp6eFDuKUrq1mpt3ZxeMShcp7/nft.png",
+  "nftContractAddress": "0x0a80084399693b31fabd399348a12d27cea08bde",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "43114",
+  "name": "Pepe Portraits 10",
+  "description": "Pepe ",
+  "attributes": [
+    {
+      "value": "Pepe",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Well..",
+      "trait_type": "EYES "
+    },
+    {
+      "value": "None",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "Umm..",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Hmm..",
+      "trait_type": "COLOUR"
+    },
+    {
+      "value": "None",
+      "trait_type": "ACCESSORY"
+    }
+  ]
+}

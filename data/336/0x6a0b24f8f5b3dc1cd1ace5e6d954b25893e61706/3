@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcAKsBgG3hePFadXQkza56xNcZkRQJGdntXNSSpSmqjND/nft.png",
+  "tokenId": 3,
+  "description": "Shiden_Ninja",
+  "nftContractAddress": "0x6a0b24f8f5b3dc1cd1ace5e6d954b25893e61706",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Shiden_Ninja",
+  "attributes": [
+    {
+      "trait_type": "Tribe",
+      "value": "Ninja"
+    }
+  ]
+}

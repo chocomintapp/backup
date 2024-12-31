@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZLG6oobGBmhyoteFMX9s1Y6XFt3XocLvJwoqtNSRW8fp/nft.jpg",
+  "nftContractAddress": "0x5fd7b1d1d4ade05779a205f98391d955da3bcc11",
+  "animationUrl": "https://ipfs.io/ipfs/QmVBZCU3K6MybzdF5JeAk8frbTWzU2jYmJF9rPQeAK6Eqz/nft.png",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "oooo",
+  "description": "klanslkdnKASdstandard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+  "attributes": [
+    {
+      "value": "ijsdofij",
+      "trait_type": "kndlfknsd"
+    }
+  ]
+}

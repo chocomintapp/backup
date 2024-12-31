@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXb9m4WtFohJEjwp6qM95nKdeg736LeNRgGUnWDZoLa6a/nft.jpeg",
+  "nftContractAddress": "0x76694b21ae9e3ea5ff488062ebeed316958024e3",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "43114",
+  "name": "PoANFT",
+  "description": "2023/02/25に開催された【第2回しらたまオフ会@代官山】の参加記念NFTです。",
+  "attributes": []
+}

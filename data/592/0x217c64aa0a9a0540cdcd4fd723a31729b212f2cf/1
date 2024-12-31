@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS8SxapwbAuiR7T1RQjFASSD6FWzPBQrnrG4t1MhdbroJ/nft.png",
+  "nftContractAddress": "0x217c64aa0a9a0540cdcd4fd723a31729b212f2cf",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "MMGirls MIYU 01",
+  "description": "AIイラストから生まれた MIYUです",
+  "attributes": [
+    {
+      "value": "MIYU",
+      "trait_type": "CHARACTER_1"
+    },
+    {
+      "value": "Girl",
+      "trait_type": "GENDER"
+    },
+    {
+      "value": "Japan",
+      "trait_type": "COUNTORY"
+    },
+    {
+      "value": "japanese cute girl",
+      "trait_type": "LIKES"
+    }
+  ]
+}

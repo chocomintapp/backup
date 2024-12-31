@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQNivNLrUoLdHwxip5B9DbHdzRHW6NKgk6vKFdNkQ8QSU/nft.jpg",
+  "tokenId": 1,
+  "description": "A certain emotion.",
+  "nftContractAddress": "0x34c1257f0dcd4303321be3605bb616816b0bb084",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "art #1",
+  "attributes": []
+}

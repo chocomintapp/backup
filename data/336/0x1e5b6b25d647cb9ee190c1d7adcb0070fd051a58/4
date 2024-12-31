@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNhZbhJdjLXPrPxHZHvgo8RzRKepAS3v3vf3zAgQyZR6U/nft.MP4",
+  "tokenId": 4,
+  "description": "This is art of the acrylic beads which I made in the image of the blue sea.",
+  "nftContractAddress": "0x1e5b6b25d647cb9ee190c1d7adcb0070fd051a58",
+  "animationUrl": "https://ipfs.io/ipfs/QmNhZbhJdjLXPrPxHZHvgo8RzRKepAS3v3vf3zAgQyZR6U/nft.MP4",
+  "chainId": "336",
+  "name": "The blue sea",
+  "attributes": [],
+  "minted": ""
+}

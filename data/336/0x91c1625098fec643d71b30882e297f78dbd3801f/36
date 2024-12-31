@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXZrNvZvm1kDCnQMCDRQEXJciWoXA3KgmVobDMGTYc5aF/nft.jpeg",
+  "tokenId": 36,
+  "description": "This is called lotus ice leaf in Japan. In Antarctic sea where the lowest temperature can reach -20 even in mid-summer, we can see this beautiful ice art in windless day.",
+  "nftContractAddress": "0x91c1625098fec643d71b30882e297f78dbd3801f",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Pancake Ice",
+  "attributes": []
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWYGbcxmAbjTxvdVeMpabZBtSBLGe12noBLtK7ZKPufiN/nft.png",
+  "nftContractAddress": "0xad345df76da1ed51acc6bdd89d9a9163abed17a2",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "592",
+  "name": "BabuStarAnimals #2",
+  "description": "Babu! babaubabubababububbabbabububabubabubabubbabababuuuu!!",
+  "attributes": [
+    {
+      "value": "Dog",
+      "trait_type": "Space"
+    }
+  ]
+}

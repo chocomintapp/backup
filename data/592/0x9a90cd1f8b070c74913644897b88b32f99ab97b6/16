@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme83iKm38BGQKRWXJ9BiMjQVSUhoFunRKURwWXQqGM2qv/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #16",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "SpaceRabbit",
+      "trait_type": "TYPE"
+    }
+  ]
+}

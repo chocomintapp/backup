@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTZjisrDXBZptLHcLDiQ4ejHXsfXFw1dd3DrUFdpyB2Lz/nft.jpg",
+  "tokenId": 3,
+  "description": "ssh3",
+  "nftContractAddress": "0xece7e01b0c13b6a1d8a77b153aed1c2262078db9",
+  "animationUrl": "",
+  "chainId": "250",
+  "name": "sushi3",
+  "attributes": [
+    {
+      "trait_type": "not sushi",
+      "value": "10000"
+    }
+  ],
+  "minted": ""
+}

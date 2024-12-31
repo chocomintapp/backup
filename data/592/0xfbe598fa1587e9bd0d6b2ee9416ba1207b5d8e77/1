@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP2V55aazi2sURqrFgLzP5cBqViyBSGcZPpZFHeveWbmg/nft.png",
+  "nftContractAddress": "0xfbe598fa1587e9bd0d6b2ee9416ba1207b5d8e77",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "AstarPenguins#0000",
+  "description": "A prototype of AstarPenguins.",
+  "attributes": [
+    {
+      "value": "prototype",
+      "trait_type": "AstarPenguins"
+    }
+  ],
+  "minted": "✅"
+}

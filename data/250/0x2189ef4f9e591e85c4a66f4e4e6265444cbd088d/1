@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaHZVrrouhx4UdLS2CnddiqqTi3raGKKoaoMQjEDhAZKj/nft.png",
+  "nftContractAddress": "0x2189ef4f9e591e85c4a66f4e4e6265444cbd088d",
+  "animationUrl": "https://ipfs.io/ipfs/QmaHZVrrouhx4UdLS2CnddiqqTi3raGKKoaoMQjEDhAZKj/nft.png",
+  "tokenId": 1,
+  "chainId": "250",
+  "name": "TPTG",
+  "description": "TPTG",
+  "attributes": []
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVyZ8DpH9LEGz6PaCxygjWEucs5xq5d5KHz5Jb7mgaXrX/nft.JPEG",
+  "tokenId": 1,
+  "description": "Image of rose.",
+  "nftContractAddress": "0x84ecf48f36a74ae9c9ce591d42561a98aeeb3cce",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Rose collage",
+  "attributes": []
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTdeQWASYXwNxwy79yLry9qVpYjJisvV3bpzXSFsTo4xs/nft.png",
+  "nftContractAddress": "0xf263c46856c5f3467ca1ae3a071c00cb2761e894",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "592",
+  "name": "Astar Bunvers #11",
+  "description": "Astar Bunvers is a collection of colorful and diverse hand-drawn bunnies living their best life on the Astar Network. Designed by professional artists, this NFT with crazy aesthetics and strong personality is on its way to taking over the metaverse.",
+  "attributes": [
+    {
+      "value": "RARE 0.1%",
+      "trait_type": "TYPE"
+    }
+  ]
+}

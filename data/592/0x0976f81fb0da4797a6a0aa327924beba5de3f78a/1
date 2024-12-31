@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPu4Eb8kugQNpqbr4XFRcsDh9DMLiTEiWMR71AfsguEUh/nft.jpeg",
+  "nftContractAddress": "0x0976f81fb0da4797a6a0aa327924beba5de3f78a",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "Astar member medal",
+  "description": "NFT issued to make the Astar community more exciting!",
+  "attributes": []
+}

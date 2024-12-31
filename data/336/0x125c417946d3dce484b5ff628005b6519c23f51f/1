@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUvvDKhDzDfeZJngP4ALcD4V38asngZxXsPABg316cp7E/nft.png",
+  "tokenId": 1,
+  "description": "Hi. I AM SCAM MAN",
+  "nftContractAddress": "0x125c417946d3dce484b5ff628005b6519c23f51f",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "SCAM",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Scam"
+    }
+  ]
+}

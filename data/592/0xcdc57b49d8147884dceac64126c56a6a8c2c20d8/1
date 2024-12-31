@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYVh3UHRvDaCqDtDxTMa5tLBysPdCJ7VRWD3jB7qQWZmD/nft.jpg",
+  "nftContractAddress": "0xcdc57b49d8147884dceac64126c56a6a8c2c20d8",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "AstarCats",
+  "description": "",
+  "attributes": []
+}

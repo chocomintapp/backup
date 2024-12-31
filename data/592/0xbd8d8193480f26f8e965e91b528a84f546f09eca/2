@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYeTdjvGZYX2LWssw18TcRR6uoZ7eBZ8g3NG5H8FB4yZs/nft.jpeg",
+  "nftContractAddress": "0xbd8d8193480f26f8e965e91b528a84f546f09eca",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "592",
+  "name": "まさとです。",
+  "description": "小学３年生のまさとです。NFT２作目です。",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": ""
+    }
+  ]
+}

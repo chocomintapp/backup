@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfB5crt9NByzkPvGtiv8d1ZB1QazYMMPU3qGTXXqDZqqf/nft.png",
+  "nftContractAddress": "0xf5e8593099ce3f79f7acf994234cc088480fc1ca",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "592",
+  "name": "happynewyear2023 cyborg woman4",
+  "description": "created by midjourney 川崎 ひでとのAstar作品",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "NUMBER of LEAVE"
+    }
+  ]
+}

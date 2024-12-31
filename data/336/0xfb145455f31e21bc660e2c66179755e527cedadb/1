@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYeKfggoVPdd9Js12GPGz4cyQRniR5eU8SZrb3SqFAFqq/nft.png",
+  "tokenId": 1,
+  "description": "It's a cat lying down.",
+  "nftContractAddress": "0xfb145455f31e21bc660e2c66179755e527cedadb",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "nekorobi-cat",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

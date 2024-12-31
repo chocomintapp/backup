@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYWXT5rxNfrY5QLCfMej8XjpL5N8nLjU3udFyM5oGzbP6/nft.png",
+  "tokenId": 1,
+  "description": "Beautiful everyday scenes of stores and streets with cats",
+  "nftContractAddress": "0x06943a357f52eebc3a1ffcb5182a843a5917059a",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Store with a Cat",
+  "attributes": []
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbh36SH6VyM1rWM1or7n2o2Y6nJ4bKH1aoFDt45UsxYFw/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #6",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "SpacePig",
+      "trait_type": "TYPE"
+    }
+  ]
+}

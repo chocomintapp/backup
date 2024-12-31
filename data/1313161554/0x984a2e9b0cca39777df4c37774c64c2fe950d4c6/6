@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVa9PAkYT6Sg3i3MumgHaGvhYgRkfno347Duuxc2gvURc/nft.jpg",
+  "nftContractAddress": "0x984a2e9b0cca39777df4c37774c64c2fe950d4c6",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1313161554",
+  "name": "A drawn fish",
+  "description": "a dancing fish drawn by me",
+  "attributes": []
+}

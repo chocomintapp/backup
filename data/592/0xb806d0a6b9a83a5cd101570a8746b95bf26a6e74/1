@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZRubyAm6XsGSegjxDyFSE2Wz4jjwDf275GJqJMKD6Jyo/nft.png",
+  "nftContractAddress": "0xb806d0a6b9a83a5cd101570a8746b95bf26a6e74",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "AstarCats Dapps Staking NFT",
+  "description": "AstarCats Dapps Staker's NFT",
+  "attributes": []
+}

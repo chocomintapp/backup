@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU4mJvQDooHfrU9zpweS6JMGJaZ8z1kGojSg55Cv2eMN6/nft.jpg",
+  "nftContractAddress": "0x984a2e9b0cca39777df4c37774c64c2fe950d4c6",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1313161554",
+  "name": "Sharks",
+  "description": "Test mint by Aurora NFT Degen",
+  "attributes": [],
+  "minted": ""
+}

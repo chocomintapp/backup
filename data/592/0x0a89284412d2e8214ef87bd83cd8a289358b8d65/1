@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRwduYy6BPuafJ2EuJsUzdhV4SSmttR9gFqH2QBNiRqM8/nft.jpg",
+  "nftContractAddress": "0x0a89284412d2e8214ef87bd83cd8a289358b8d65",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "DEGOD",
+  "description": "In the beginning, on ASTRAVERSE a DGOD was all there is",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Epic",
+      "trait_type": "Killer"
+    }
+  ]
+}

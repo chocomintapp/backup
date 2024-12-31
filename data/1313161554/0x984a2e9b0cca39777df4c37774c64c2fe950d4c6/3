@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXwNdPCUupzUk1wHdbhpeiZeTZaVDjkW1MedT1AimgMrN/nft.jpg",
+  "nftContractAddress": "0x984a2e9b0cca39777df4c37774c64c2fe950d4c6",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1313161554",
+  "name": "A tree painting",
+  "description": "watered painted painting",
+  "attributes": []
+}

@@ -1,0 +1,10 @@
+{
+  "image": "",
+  "tokenId": 1,
+  "description": "It appears near my home!",
+  "nftContractAddress": "0x2d4a4f17359a6a7c6660e0a8bd1b161865840d9b",
+  "animationUrl": "https://ipfs.io/ipfs/Qmaxwy3Qw2u7uKiUc6e9UYSzgbCwP5nUmAyNPc7zVtwUFF/nft.mp4",
+  "chainId": "336",
+  "name": "Meles anakuma",
+  "attributes": []
+}

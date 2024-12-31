@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQfDMu9r1BLgk9hqx7Xmw3Z2DgnWBogjnj6W2Y6ea9TfR/nft.png",
+  "nftContractAddress": "0x634a79a0224f850d1b2a96735510f2269a6dc842",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "592",
+  "name": "Fumiya",
+  "description": "The Astar Troopers aim to accelerate the arrival of Web3 through thoughtful innovation and active collaboration. Together we foster a foundation for greatness. \n\nThe Genesis Collection consist of unique troopers that have answered our call to action. We salute you. 🫡 🪖",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Fumiya",
+      "trait_type": "1st HUNDO"
+    },
+    {
+      "value": "GT008",
+      "trait_type": "TAG"
+    }
+  ]
+}

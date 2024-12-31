@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma6WX1dXMhroKhw7RNmF74anZ86Kc1aZYXEEyvz1i5tdb/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #12",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceSpottedGardenEel",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

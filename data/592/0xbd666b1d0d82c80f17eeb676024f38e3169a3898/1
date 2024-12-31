@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS3eQAJ975oQFqNh5N7nkSHjjayaWK27bKPSihHNo82nj/nft.svg",
+  "nftContractAddress": "0xbd666b1d0d82c80f17eeb676024f38e3169a3898",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "FirstA",
+  "description": "haha",
+  "attributes": [
+    {
+      "value": "yellow",
+      "trait_type": "Cloth"
+    }
+  ]
+}

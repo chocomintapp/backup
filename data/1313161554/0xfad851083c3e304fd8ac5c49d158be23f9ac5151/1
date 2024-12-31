@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdoVwaW96ipJJC33kH9p5zJKmWcr1vqfVoZz47pVWVvVb/nft.png",
+  "nftContractAddress": "0xfad851083c3e304fd8ac5c49d158be23f9ac5151",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1313161554",
+  "name": "NFT Testing",
+  "description": "Testing the platform 14th October",
+  "attributes": []
+}

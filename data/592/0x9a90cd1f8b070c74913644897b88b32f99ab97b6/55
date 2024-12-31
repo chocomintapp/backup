@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSz7cqCvRgYkcbZEkMebdY8XKE1FcNc44pM7MnwBWwrKe/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 55,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #34",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceFox",
+      "trait_type": "TYPE"
+    }
+  ]
+}

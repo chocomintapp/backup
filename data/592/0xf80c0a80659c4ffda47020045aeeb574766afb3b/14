@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSha4HCYDnVpntL1NPS55sXpyNuSWpDn6rvtqJxCUvczn/nft.jpg",
+  "tokenId": 14,
+  "description": "Up-and-coming Japanese calligrapher Senshin Terada will turn your name into kanji and present it to you in nft form. This is just an example. If you write Zion in kanji, it is written like this. This is a famous name from Gundam, and it means to cherish a favor.",
+  "nftContractAddress": "0xf80c0a80659c4ffda47020045aeeb574766afb3b",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Zion",
+  "attributes": []
+}

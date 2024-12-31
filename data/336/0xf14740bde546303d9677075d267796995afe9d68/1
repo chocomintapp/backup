@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZL2t2ULkGzhA4M1E45grWYWcvuFcUx8KW8f6VzeXJ3nq/nft.jpeg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xf14740bde546303d9677075d267796995afe9d68",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "ドライフラワー",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

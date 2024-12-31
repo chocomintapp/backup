@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbiFbPnVDV7LgPbv5w2y88eTjX46evYNJ3u3SXirVud3d/nft.webp",
+  "nftContractAddress": "0x6e6ff474ca5f923610babbfe5d2e68dcac089a3e",
+  "animationUrl": "https://ipfs.io/ipfs/QmbiFbPnVDV7LgPbv5w2y88eTjX46evYNJ3u3SXirVud3d/nft.webp",
+  "tokenId": 2,
+  "chainId": "42161",
+  "name": "Mist",
+  "description": "Personally traits from lil’uni",
+  "attributes": [],
+  "minted": ""
+}

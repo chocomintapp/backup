@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV9xXes3oHSt12mWFMg96kbo6siw3mzegaYJpmZcwdRma/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #36",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceDobermann",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

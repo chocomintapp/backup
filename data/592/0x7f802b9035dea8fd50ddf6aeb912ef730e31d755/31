@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPSHSCWmRnDkhyyNCCpZRveZGTNn2ADTtzQdZutmvRwCF/nft.png",
+  "nftContractAddress": "0x7f802b9035dea8fd50ddf6aeb912ef730e31d755",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "592",
+  "name": "Baby devils & Baby angels",
+  "description": "",
+  "attributes": [
+    {
+      "value": "clear sky is also a field",
+      "trait_type": "background"
+    },
+    {
+      "value": "original head",
+      "trait_type": "head"
+    },
+    {
+      "value": "orange",
+      "trait_type": "body"
+    },
+    {
+      "value": "spear",
+      "trait_type": "TOOL"
+    }
+  ]
+}

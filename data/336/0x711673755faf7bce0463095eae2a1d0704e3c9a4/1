@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRms2pqEZSgvSW3duB1YehrWj9uancRd3VDhB1VLYd6sq/nft.png",
+  "tokenId": 1,
+  "description": "Avatar for my personal use.",
+  "nftContractAddress": "0x711673755faf7bce0463095eae2a1d0704e3c9a4",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Avatar Pixel",
+  "attributes": []
+}

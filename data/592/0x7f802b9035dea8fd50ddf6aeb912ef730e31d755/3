@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVTTxiQjvn3pHJYfgpFTWGqRZZPjiXAj2aAhA6ky3TBjT/nft.png",
+  "nftContractAddress": "0x7f802b9035dea8fd50ddf6aeb912ef730e31d755",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "592",
+  "name": "Baby devils & Baby angels",
+  "description": "",
+  "attributes": [
+    {
+      "value": "rainbow",
+      "trait_type": "background"
+    },
+    {
+      "value": "original body",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "original hand",
+      "trait_type": "hand"
+    },
+    {
+      "value": "original arrow",
+      "trait_type": "tool"
+    },
+    {
+      "value": "Astar baby Stuy",
+      "trait_type": "special"
+    }
+  ]
+}

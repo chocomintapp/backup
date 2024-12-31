@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdd8GxF835fnukKhob4goZJppZo6HZ4NDhAq28jNFtnzY/nft.png",
+  "nftContractAddress": "0x634a79a0224f850d1b2a96735510f2269a6dc842",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "592",
+  "name": "bLd",
+  "description": "The Astar Troopers aim to accelerate the arrival of Web3 through thoughtful innovation and active collaboration. Together we foster a foundation for greatness. \n\nThe Genesis Collection consist of unique troopers that have answered our call to action. We salute you. 🫡 🪖",
+  "attributes": [
+    {
+      "value": "bLd",
+      "trait_type": "1st HUNDO"
+    },
+    {
+      "value": "GT004",
+      "trait_type": "TAG"
+    }
+  ],
+  "minted": "✅"
+}

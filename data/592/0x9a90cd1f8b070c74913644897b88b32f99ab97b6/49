@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW9spHcsasPauMxeqiZ3kggTXcZrVrq57QMtjwZbmowxa/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 49,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #40",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceMarimo",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRUNL5qtmcSEBAi6UFRwKM3VvL5Q7kzh8JB7abMkYfVmE/nft.png",
+  "nftContractAddress": "0xb7494312a7f50681bbd06c9dd2dcd2ac5f60488f",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "9000",
+  "name": "NFT Name ",
+  "description": "Description",
+  "attributes": [
+    {
+      "value": "Water",
+      "trait_type": "Tyep"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Color"
+    }
+  ]
+}

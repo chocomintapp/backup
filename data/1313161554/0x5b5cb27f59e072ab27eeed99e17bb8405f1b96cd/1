@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPY6o67uVg2THAosmuTfg94Nf2RPnAsWoNieksBUbKfK7/nft.jpg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x5b5cb27f59e072ab27eeed99e17bb8405f1b96cd",
+  "animationUrl": "",
+  "chainId": "1313161554",
+  "name": "Bolotihovo",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "12"
+    }
+  ]
+}

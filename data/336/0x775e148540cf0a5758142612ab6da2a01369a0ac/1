@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTkpDpum7iS93L5eCGQ4tXqWUYw1RqshdTSc3htEqXr2g/nft.png",
+  "tokenId": 1,
+  "description": "Katana. Among them, the Tachi is her most preferred weapon.\n\n刀。中でも太刀は、彼女が最も好んで使う武器である。",
+  "nftContractAddress": "0x775e148540cf0a5758142612ab6da2a01369a0ac",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "#1 太刀 (Tachi)",
+  "attributes": []
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmctJnEisBwEnDLjfhzLfXQVjXK5QpHdxCoP7pVsy3gdhZ/nft.png",
+  "tokenId": 1,
+  "description": "\"浮\", \"世\", \"絵\"...I drew the ukiyo-e using only these three kanji characters.Please try to enlarge the image!",
+  "nftContractAddress": "0x2dc83454b0fe8b50e48ab4efc9cb66d23a73c86c",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Kanji ukiyo-e",
+  "attributes": []
+}

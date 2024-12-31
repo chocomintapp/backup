@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSek8j3nrJx24fEowZy14L7mbaiswLBZuVHQprJgKDyFY/nft.png",
+  "nftContractAddress": "0x39239fce23282f617cb3bed0a2a26b91e9a9b702",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "192837465",
+  "name": "Xquad - The Profile",
+  "description": "The unforgettable profile picture of Xquad",
+  "attributes": [
+    {
+      "value": "Glasses",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Luxurious Beard",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "The Machine",
+      "trait_type": "Alias"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Shirt Color"
+    }
+  ],
+  "minted": ""
+}

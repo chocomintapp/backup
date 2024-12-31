@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfMf8nwVFspDC5FYcn7WoP3bwDqRrCrC2wzq7ENiabHcH/nft.png",
+  "nftContractAddress": "0x42b061b8cb18898480be2e95724e81f083517e29",
+  "animationUrl": "https://ipfs.io/ipfs/QmfMf8nwVFspDC5FYcn7WoP3bwDqRrCrC2wzq7ENiabHcH/nft.png",
+  "tokenId": 3,
+  "chainId": "592",
+  "name": "Astar Leaps Diffusion #3",
+  "description": "Science Fiction Snoop He is name [ATH] Doggie! Doggies! \nWe are cheering ASTAR. \nOur leader is muraoka and art is Kohei.",
+  "attributes": [
+    {
+      "value": "SNOOP",
+      "trait_type": "HERO"
+    }
+  ]
+}

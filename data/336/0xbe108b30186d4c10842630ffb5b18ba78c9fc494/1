@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYziDc1nZaEGnrC2SZ5rX99h6QCsJrgUaPsZLGiqkV6Vp/nft.jpg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xbe108b30186d4c10842630ffb5b18ba78c9fc494",
+  "animationUrl": "https://ipfs.io/ipfs/QmRqBxkhGneC3EtaFxg2BitgnTQVi1CCBumCAyKxKrpxrj/nft.gif",
+  "chainId": "336",
+  "name": "My mice",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "0.1"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

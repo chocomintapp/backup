@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNU52iceYY7bAYjBqFbXtG5wrCuQ1h6PQqcc3dXzUmxtT/nft.jpg",
+  "tokenId": 1,
+  "description": "NFT de Gunit",
+  "nftContractAddress": "0x93cccf4ad64d5f2656952b99883384a265c2a7ef",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Space Wolf",
+  "attributes": []
+}

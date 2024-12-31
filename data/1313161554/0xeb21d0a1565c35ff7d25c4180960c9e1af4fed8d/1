@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTzrVnLaa9JvoKCRkCtX8NwWFCQLqqMXvRs3UgepD9Zwg/nft.png",
+  "nftContractAddress": "0xeb21d0a1565c35ff7d25c4180960c9e1af4fed8d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1313161554",
+  "name": "Test",
+  "description": "How are you",
+  "attributes": [],
+  "minted": ""
+}

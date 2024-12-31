@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVV1VM9JqQeLC1zGR1vDGitKYeX1X7MxRepxj6pmm3cSr/nft.png",
+  "tokenId": 1,
+  "description": "Open your mind",
+  "nftContractAddress": "0x38817ffccb70982e8e69930dddb6db1da6405a87",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "White Canvas",
+  "attributes": [
+    {
+      "trait_type": "color",
+      "value": "white"
+    },
+    {
+      "trait_type": "uniqueness",
+      "value": "unknown"
+    }
+  ]
+}

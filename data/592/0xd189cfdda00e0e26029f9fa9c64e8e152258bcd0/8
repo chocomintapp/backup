@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZpZBvnibimZLZPCpShVfCqa3m9aRJZ4PCPjxW9MdVdcm/nft.jpg",
+  "nftContractAddress": "0xd189cfdda00e0e26029f9fa9c64e8e152258bcd0",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "592",
+  "name": "C120B9",
+  "description": "C120B9",
+  "attributes": [
+    {
+      "value": "Hero",
+      "trait_type": "BASE"
+    },
+    {
+      "value": "C120B9",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "Bomb NFT",
+      "trait_type": "NFT NAME"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUXVJmKQvvdejzBetfndKFb2voR5HXTS8LEJ5NAYj9hhA/nft.png",
+  "tokenId": 3,
+  "description": "Incubating promising projects and bringing new ideas to the Astar Ecosystem with the help of a community-governed DAO fund.\n\nWe are relentless. \nWe work as one. \nWe are Astar Degens.",
+  "nftContractAddress": "0xe98741403bb17e3fb54078530a31f840b9cfa2e9",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Astar Degens DAO TOKEN - Test",
+  "attributes": [
+    {
+      "trait_type": "Utility",
+      "value": "Token"
+    }
+  ]
+}

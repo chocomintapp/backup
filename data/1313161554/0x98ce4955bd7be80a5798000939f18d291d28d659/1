@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRQ4Yz3YAxsnyXNVGsQoFNNDJS9kgQP6f6EcEXiuibHau/nft.jpg",
+  "nftContractAddress": "0x98ce4955bd7be80a5798000939f18d291d28d659",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1313161554",
+  "name": "Beginning ",
+  "description": "Begin of web3 journey ",
+  "attributes": [
+    {
+      "value": "Beginning",
+      "trait_type": "Title"
+    }
+  ]
+}

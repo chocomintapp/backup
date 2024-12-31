@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRUNL5qtmcSEBAi6UFRwKM3VvL5Q7kzh8JB7abMkYfVmE/nft.png",
+  "nftContractAddress": "0x09fbc46064abd2c00f656674285cee8a9307af8e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "9000",
+  "name": "Test NFT",
+  "description": "Descriptyion",
+  "attributes": [
+    {
+      "value": "REd",
+      "trait_type": "Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Type"
+    }
+  ]
+}

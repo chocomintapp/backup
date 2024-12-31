@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTSdctecjKJAK1N9KwJM8GeXVup2Pk3cwSAZPaeJEX3iE/nft.jpg",
+  "nftContractAddress": "0x035e586e194640a14f1c481fa4647e47e2b4caba",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1313161554",
+  "name": "TESTTOKEN",
+  "description": "Just a test for now",
+  "attributes": [
+    {
+      "value": "true",
+      "trait_type": "test"
+    },
+    {
+      "value": "chemistry",
+      "trait_type": "subject"
+    }
+  ]
+}

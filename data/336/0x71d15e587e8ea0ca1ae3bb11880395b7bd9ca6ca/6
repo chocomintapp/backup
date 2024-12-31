@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbKSoaW4X9Jhxnt3M2EXgQH63YxFMsaqtSyfJHoqTSaJj/nft.png",
+  "tokenId": 6,
+  "description": "Paving_Stone material waiting for its turn. 出番を待つ敷石の素材。 What is Crypto material-girl? Look around you. Things that are around you. They are in everything. In an encrypted world, they are waiting for their turn. To be a part of your life.... Crypto material-girlとは？ あなたの周りを見てください。 あなたの周りにあるもの。 彼らはすべてのものの中にいます。 暗号化された世界で、彼らは出番を待っています。 あなたの人生の一部になるために....",
+  "nftContractAddress": "0x71d15e587e8ea0ca1ae3bb11880395b7bd9ca6ca",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "material-girl  (paving_stone)",
+  "attributes": [
+    {
+      "trait_type": "GIRL",
+      "value": "100"
+    },
+    {
+      "trait_type": "PAVING",
+      "value": "100"
+    },
+    {
+      "trait_type": "STONE",
+      "value": "100"
+    }
+  ]
+}

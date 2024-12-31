@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRMi9zWgyqnU9Mki9ZXx3BZq9jgmamHcpA15QR5PWDnyQ/nft.jpg",
+  "tokenId": 2,
+  "description": "ssh2",
+  "nftContractAddress": "0xece7e01b0c13b6a1d8a77b153aed1c2262078db9",
+  "animationUrl": "",
+  "chainId": "250",
+  "name": "sushi2",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "sushia",
+      "value": "2"
+    },
+    {
+      "trait_type": "aushib",
+      "value": "3"
+    },
+    {
+      "trait_type": "sushic",
+      "value": "4"
+    }
+  ]
+}

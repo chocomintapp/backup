@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbmCJQnDH3UdpmfghTXa9BDeHoZiZAoX4Fhg4ZHzKVkV6/nft.jpg",
+  "tokenId": 1,
+  "description": "Sakura 1",
+  "nftContractAddress": "0xf6d2a074c9fbbcdc66df1c0591bfe1269d8a678c",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Sakura",
+  "attributes": [],
+  "minted": ""
+}

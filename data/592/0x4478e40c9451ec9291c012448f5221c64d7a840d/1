@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSQfbCByNfXhgCknCCvsLkGkNe7Jhaj9Wgokoe7uEyyAx/nft.png",
+  "nftContractAddress": "0x4478e40c9451ec9291c012448f5221c64d7a840d",
+  "animationUrl": "https://ipfs.io/ipfs/QmSQfbCByNfXhgCknCCvsLkGkNe7Jhaj9Wgokoe7uEyyAx/nft.png",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "Astar くっじー",
+  "description": "Astarになったくっじーです。",
+  "attributes": [],
+  "minted": "✅"
+}

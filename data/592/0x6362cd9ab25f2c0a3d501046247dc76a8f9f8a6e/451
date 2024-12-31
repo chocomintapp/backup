@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNyUzDYZXbP2XY7HN2m7GBp2rtcm14NyYH2gKRAr8kDAo/nft.png",
+  "nftContractAddress": "0x6362cd9ab25f2c0a3d501046247dc76a8f9f8a6e",
+  "animationUrl": "",
+  "tokenId": 451,
+  "chainId": "592",
+  "name": "YGGDRASIL #1",
+  "description": "451/500",
+  "attributes": [
+    {
+      "value": "10%",
+      "trait_type": "LEGENDARY"
+    }
+  ],
+  "minted": ""
+}

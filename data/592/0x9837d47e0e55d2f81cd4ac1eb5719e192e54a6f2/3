@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTJYEejmHVZAV3anLUYVdJ6Hn2pDx7KiJTAV6a45F7Xjg/nft.png",
+  "tokenId": 3,
+  "description": "sell_test",
+  "nftContractAddress": "0x9837d47e0e55d2f81cd4ac1eb5719e192e54a6f2",
+  "animationUrl": "https://ipfs.io/ipfs/QmNu8e8dGHtcYdTes13jqX9WNSA2iecGFrwwY8VhGzLvLP/nft.glb",
+  "chainId": "592",
+  "name": "astar3Dlogo_fanart",
+  "attributes": []
+}

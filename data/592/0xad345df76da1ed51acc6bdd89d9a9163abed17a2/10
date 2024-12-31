@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZCGZD3gQ92YNCvU7qwQJTeG5SsuEVhrHnSYf8YExsQv1/nft.png",
+  "nftContractAddress": "0xad345df76da1ed51acc6bdd89d9a9163abed17a2",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "592",
+  "name": "BabuStarAnimals #9",
+  "description": "Babu! babubabubabububububababbababuubabaaababu!!",
+  "attributes": [
+    {
+      "value": "Hamster",
+      "trait_type": "Space"
+    }
+  ]
+}

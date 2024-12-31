@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUJGMKZkidkqRDnkMAX2g2VKkfypVGSgQbGiiF824oUsA/nft.jpeg",
+  "tokenId": 124,
+  "description": "◇Tuna skin dressed with white sesame and miso\n◇Geoduck clam nigiri\n◇Seared Tuna gristle\n◇Ark shell sashimi\n◇Ark shell mixed with miso mustard dressing\n◇Tuna roll\n◇Stir-fried Japanese flying squid liver\n◇Squid somen",
+  "nftContractAddress": "0x91c1625098fec643d71b30882e297f78dbd3801f",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Tsumami",
+  "attributes": []
+}

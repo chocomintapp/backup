@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWHYjWvG7YS1D5LRyTavJpFQqr2H5573fT97p5QRvxbQH/nft.jpg",
+  "nftContractAddress": "0x9c03c1d3ae0e17f9bc95a6da01d8b07ae4e12805",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "250",
+  "name": "Beardies #29",
+  "description": "A PaintSwap Project.",
+  "attributes": []
+}

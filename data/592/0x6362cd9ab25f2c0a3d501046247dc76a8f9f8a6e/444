@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWnVPPei61kfaep8zUVPYdtSasgh4BJzNT8Nfpyrix4Do/nft.png",
+  "nftContractAddress": "0x6362cd9ab25f2c0a3d501046247dc76a8f9f8a6e",
+  "animationUrl": "",
+  "tokenId": 444,
+  "chainId": "592",
+  "name": "RARE TREE #94",
+  "description": "444/500",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "20%",
+      "trait_type": "RARE"
+    }
+  ]
+}

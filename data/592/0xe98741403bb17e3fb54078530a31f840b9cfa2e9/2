@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY8VDwv1Lp8zHZGqqxJ1SuyQARyYU1CFLEXF5bDhXrXrP/nft.png",
+  "tokenId": 2,
+  "description": "Leaf Tokens are used in-game to access the Natural World. Bliss awaits you young traveler.",
+  "nftContractAddress": "0xe98741403bb17e3fb54078530a31f840b9cfa2e9",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Leaf Token",
+  "attributes": [
+    {
+      "trait_type": "Utility",
+      "value": "Key"
+    },
+    {
+      "trait_type": "World",
+      "value": "Nature"
+    }
+  ],
+  "minted": "✅"
+}

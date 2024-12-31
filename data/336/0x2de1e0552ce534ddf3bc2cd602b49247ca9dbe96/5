@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcGti2AM6G3Dh6yVEPog5V7JqcdgyX2GvcnxNd3EtabH9/nft.png",
+  "tokenId": 5,
+  "description": "",
+  "nftContractAddress": "0x2de1e0552ce534ddf3bc2cd602b49247ca9dbe96",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "soulCollecter",
+  "attributes": []
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNMPdNrpUkhFSXsuEyRypgayt9hYZNam4mfZtDfPuVCNX/nft.JPG",
+  "tokenId": 1,
+  "description": "OKB",
+  "nftContractAddress": "0x0c6ddf68ab4bc7c3fb19dc24e72f24b201773a30",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "OKB",
+  "attributes": []
+}

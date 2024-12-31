@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQBd1qap7E3w6iDsvG7yRQXJQVrzGGYmke4LYCU2h35nv/nft.png",
+  "tokenId": 2,
+  "description": "A scene from a festival at a Japanese sake brewery",
+  "nftContractAddress": "0x1e525c1f685cae72ad25c20ebbf55f3e20865d20",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "a Japanese sake brewery",
+  "attributes": []
+}

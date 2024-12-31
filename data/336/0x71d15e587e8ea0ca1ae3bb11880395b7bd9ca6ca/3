@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfBPp5UTrUtH4DGEPDZxUsc4sAfFrS3sbyV4qrsfCvvV9/nft.png",
+  "tokenId": 3,
+  "description": "Happy New Year 2022! \n2022年　新年あけましておめでとうございます。\n\nI wish you a year filled with peace, good health and happiness. \n今年が皆様にとって、平和と健康と幸せに満ちた一年でありますように。\n\nWe will send you a Japanese decoration. \n日本のしめ飾りをお届けします。\n\nCrypto material-girlとは？\n\nあなたの周りを見てください。 あなたの周りにあるもの。 彼らはすべてのものの中にいます。 暗号化された世界で、彼らは出番を待っています。 あなたの人生の一部になるために....\n\nWhat is Crypto material-girl?\n\nLook around you. Things that are around you. They are in everything. In an encrypted world, they are waiting for their turn. To be a part of your life....",
+  "nftContractAddress": "0x71d15e587e8ea0ca1ae3bb11880395b7bd9ca6ca",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "material-girl (new year decorations)",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "GIRL",
+      "value": "100"
+    },
+    {
+      "trait_type": "NEW YEAR",
+      "value": "100"
+    },
+    {
+      "trait_type": "JAPANESE DECORATIONS",
+      "value": "100"
+    }
+  ]
+}

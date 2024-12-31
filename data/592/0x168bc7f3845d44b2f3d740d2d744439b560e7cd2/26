@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY8CzQ979mA1RWVHrg9VtdQ6SrTBaq2AzDdoVP3FKP62B/nft.png",
+  "tokenId": 26,
+  "description": "We are relentless. \nWe work as one. \nWe are Astar Degens. ",
+  "nftContractAddress": "0x168bc7f3845d44b2f3d740d2d744439b560e7cd2",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "ADGN",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Ape",
+      "value": "Power"
+    }
+  ]
+}

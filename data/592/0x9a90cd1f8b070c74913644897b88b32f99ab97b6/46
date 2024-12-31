@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU6jaUTWrJAhBn8gXTHS55uia9oujyMrt6a8YkVnY3XrL/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 46,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #69",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceKangaroo",
+      "trait_type": "TYPE"
+    }
+  ]
+}

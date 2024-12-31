@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf7AMEKmkGVJytm7JeP2evcbbGABeTDfwmn1piXi8pwxy/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #9",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceHamster",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

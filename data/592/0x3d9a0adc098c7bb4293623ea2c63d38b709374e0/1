@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPVqJLscUzYgCUwJKuQgP226RqctZVu5WXyrdoJS7L9ii/nft.png",
+  "nftContractAddress": "0x3d9a0adc098c7bb4293623ea2c63d38b709374e0",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "ss",
+  "description": "fff",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "star"
+    }
+  ],
+  "minted": ""
+}

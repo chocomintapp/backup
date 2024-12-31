@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY8dDE7tcPHE9kn1wzEARymxq5GuTvfopPGy1pJ1hFGC7/nft.jpeg",
+  "nftContractAddress": "0x42b061b8cb18898480be2e95724e81f083517e29",
+  "animationUrl": "https://ipfs.io/ipfs/QmY8dDE7tcPHE9kn1wzEARymxq5GuTvfopPGy1pJ1hFGC7/nft.jpeg",
+  "tokenId": 9,
+  "chainId": "592",
+  "name": "Astar Leaps Diffusion #9",
+  "description": "Cat of the near future.\nShe is name [KOMUGI].\nmeow meow!\nWe are cheering ASTAR. Our leader is muraoka and art is Kohei.",
+  "attributes": [
+    {
+      "value": "CAT",
+      "trait_type": "HERO"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdzkFfw7qrfUjCbq5SEqyMGB9Xu3amhQN55eF4zhfg7LF/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #41",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "SpaceSparrow",
+      "trait_type": "TYPE"
+    }
+  ]
+}

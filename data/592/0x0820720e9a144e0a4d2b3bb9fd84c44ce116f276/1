@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdSLPMECLMQdyKQBm3nQR4W4ffNcz9ZmLnSKjCRx1Ngst/nft.jpg",
+  "nftContractAddress": "0x0820720e9a144e0a4d2b3bb9fd84c44ce116f276",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "Halloween version of EVMOS_CHAN",
+  "description": "EVMOS_Chan cosplayed as a mummy for Halloween.",
+  "attributes": []
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRUNL5qtmcSEBAi6UFRwKM3VvL5Q7kzh8JB7abMkYfVmE/nft.png",
+  "tokenId": 1,
+  "description": "Chocomint",
+  "nftContractAddress": "0xd1830d172f40da8ee44412a4fda06dab0aafbfa7",
+  "animationUrl": "",
+  "chainId": "42261",
+  "name": "Choco",
+  "attributes": [
+    {
+      "trait_type": "Level",
+      "value": "1"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPabSgheUtoTFwfUexL5f2YdYeAQzT9ZYRfSepkqwhLxG/nft.jpg",
+  "nftContractAddress": "0xeb621a3684a2dbddd87f4bb330c8070dacdebadb",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "592",
+  "name": "3D Glasses Ape",
+  "description": "A Collection of Animals that Reside in the Astar Blockchain",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "Helmet"
+    },
+    {
+      "value": "1",
+      "trait_type": "3D Glasses"
+    },
+    {
+      "value": "2",
+      "trait_type": "Hoodie"
+    },
+    {
+      "value": "2",
+      "trait_type": "Astar Logo"
+    },
+    {
+      "value": "6",
+      "trait_type": "Astar Background"
+    },
+    {
+      "value": "1",
+      "trait_type": "Gold Tooth"
+    }
+  ]
+}

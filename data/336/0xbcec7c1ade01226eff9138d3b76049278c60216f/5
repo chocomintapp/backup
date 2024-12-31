@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQLKfzhCqquMWaKAiRctP6NBUJgRhxFd1EmHgPJUP2PBb/nft.png",
+  "tokenId": 5,
+  "description": "The #4 Warrior of Shiden Realm.",
+  "nftContractAddress": "0xbcec7c1ade01226eff9138d3b76049278c60216f",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "#4 Realm Warrior",
+  "attributes": []
+}

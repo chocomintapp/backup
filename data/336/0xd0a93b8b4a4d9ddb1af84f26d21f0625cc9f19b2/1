@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWxDG457NGsvpNW7vX8BRqqP4Do5T4YmzcUasyN1paNKA/nft.PNG",
+  "tokenId": 1,
+  "description": "誕生石と誕生花の女の子たちを描いていきます。 全12種類\n 1月はガーネット×水仙です。\n\nI will draw the girls with their birthstones and birth flowers. Total 12 types colors January is Garnet and Daffodil.",
+  "nftContractAddress": "0xd0a93b8b4a4d9ddb1af84f26d21f0625cc9f19b2",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Purple garnet",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

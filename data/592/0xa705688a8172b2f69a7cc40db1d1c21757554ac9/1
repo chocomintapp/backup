@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeUv9yLnNY2LH8r7PESxERiKsG5aCeMLxuutCTDHdzp5e/nft.png",
+  "nftContractAddress": "0xa705688a8172b2f69a7cc40db1d1c21757554ac9",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "AstarMutantApes #1",
+  "description": "Astar Mutant Apes NFT limited collection. Inspired by a dystopian future in games, movies and other media. Travel to the past to help prevent the future from which they came.",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "RARE 100%",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQscasRNk2512JXfFqgZmCebDTWSMxKsR9wpRAnyR6X7M/nft.gif",
+  "tokenId": 1,
+  "description": "3D animated version of the Astar Degens logo",
+  "nftContractAddress": "0xdffbb2eb741f94374c48c8f43b99b9b99db6beec",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Astar Degens 3D logo animation",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

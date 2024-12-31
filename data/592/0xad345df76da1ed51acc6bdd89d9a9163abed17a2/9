@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPt5zq3WQLviEVvM8QUbSvaxUav3QSPeBnFkPgknHmB2F/nft.png",
+  "nftContractAddress": "0xad345df76da1ed51acc6bdd89d9a9163abed17a2",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "592",
+  "name": "BabuStarAnimals #8",
+  "description": "Babu! babubabbababubbabbababubububabubabubabubabububu!!!",
+  "attributes": [
+    {
+      "value": "Squid",
+      "trait_type": "Space"
+    }
+  ]
+}

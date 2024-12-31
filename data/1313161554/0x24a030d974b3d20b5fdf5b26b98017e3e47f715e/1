@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaMpEfE6m3SmEzkoWGwKRN73RNueVmn31MUTVhgtCgfSY/nft.jpg",
+  "tokenId": 1,
+  "description": "I want to stop the war, stop Putin and save Ukraine",
+  "nftContractAddress": "0x24a030d974b3d20b5fdf5b26b98017e3e47f715e",
+  "animationUrl": "",
+  "chainId": "1313161554",
+  "name": "myUkraine",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

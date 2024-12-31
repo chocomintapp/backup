@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRw15hovfCSzPFrRmCVfAd5iyDrSxrHNVQzTnyAQvqjwS/nft.jpg",
+  "tokenId": 1,
+  "description": "10,000 Japanese yen note released on 1 November 2004.",
+  "nftContractAddress": "0xfc1c68ceb96492a08d8c53921acb02e5f8468593",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "10,000 Yen",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

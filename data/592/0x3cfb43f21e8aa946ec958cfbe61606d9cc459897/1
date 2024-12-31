@@ -1,0 +1,48 @@
+{
+  "image": "",
+  "nftContractAddress": "0x3cfb43f21e8aa946ec958cfbe61606d9cc459897",
+  "animationUrl": "https://ipfs.io/ipfs/QmSrgKtTauM1KC8orQxomjhfjVRxuXpUWnoCvRLRHPkmiC/nft.mp4",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "TestSkillGem #1",
+  "description": "Learning solidity was essential to the launch of Champion Search. We will continue to grow Champion Search into an important gateway to the web3.",
+  "attributes": [
+    {
+      "value": "Level 2",
+      "trait_type": "Level"
+    },
+    {
+      "value": "Solidity",
+      "trait_type": "Skill Type"
+    },
+    {
+      "value": "Round Brilliant",
+      "trait_type": "Cuts"
+    },
+    {
+      "value": "8",
+      "trait_type": "Carat"
+    },
+    {
+      "value": "6",
+      "trait_type": "Clarity"
+    },
+    {
+      "value": "0000",
+      "trait_type": "Red"
+    },
+    {
+      "value": "0100",
+      "trait_type": "Green"
+    },
+    {
+      "value": "0800",
+      "trait_type": "Blue"
+    },
+    {
+      "value": "aquo",
+      "trait_type": "Gem Creator"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZDmuJrBhbzhVguiScmLdtPNkEi7XBPgMURBjTi5xfinQ/nft.gif",
+  "nftContractAddress": "0x409261f3693e62e0969332b7719b7401b534338e",
+  "animationUrl": "https://ipfs.io/ipfs/QmZDmuJrBhbzhVguiScmLdtPNkEi7XBPgMURBjTi5xfinQ/nft.gif",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "F.C.R",
+  "description": "FCR　member only",
+  "attributes": [],
+  "minted": ""
+}

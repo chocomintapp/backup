@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR9VP9YbuUtyZmr7qamj8tZaDSfGrfVWboMy66JvBjSaf/nft.jpg",
+  "nftContractAddress": "0x984a2e9b0cca39777df4c37774c64c2fe950d4c6",
+  "animationUrl": "https://ipfs.io/ipfs/QmR9VP9YbuUtyZmr7qamj8tZaDSfGrfVWboMy66JvBjSaf/nft.jpg",
+  "tokenId": 4,
+  "chainId": "1313161554",
+  "name": "the hills",
+  "description": "the amazing height ",
+  "attributes": []
+}

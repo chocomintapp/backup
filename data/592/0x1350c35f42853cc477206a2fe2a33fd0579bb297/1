@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWQs1GWhcX48UAVgQTCo2bLNrFxArCDjtnatUHs9DwHe8/nft.png",
+  "nftContractAddress": "0x1350c35f42853cc477206a2fe2a33fd0579bb297",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "After Punks #0000",
+  "description": "Periodically, the AI generates new NFTs.",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Alien",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "",
+      "trait_type": "EXTRA"
+    },
+    {
+      "value": "",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "",
+      "trait_type": "MOUTH"
+    }
+  ]
+}

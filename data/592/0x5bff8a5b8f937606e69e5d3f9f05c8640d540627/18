@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmToJYns5mzcQq4ML1Z8KRpSFqMGDESDG1eRFjnCvVkMYf/nft.png",
+  "nftContractAddress": "0x5bff8a5b8f937606e69e5d3f9f05c8640d540627",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "592",
+  "name": "Astar Monkinari #18",
+  "description": "Astar Monkinari is a limited Profile-Picture (PFP). NFT that supports Astar Network.",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Laser Glasses",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Open Smile",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "Modern Hoodie",
+      "trait_type": "OUTFIT"
+    }
+  ],
+  "minted": "✅"
+}

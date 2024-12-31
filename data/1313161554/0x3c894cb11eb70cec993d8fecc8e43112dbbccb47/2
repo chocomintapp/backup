@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXcMPbeWdvosNTAWUbNxP9osFuSqbQSPnP4qvBKYiBRRk/nft.png",
+  "nftContractAddress": "0x3c894cb11eb70cec993d8fecc8e43112dbbccb47",
+  "animationUrl": "https://ipfs.io/ipfs/QmXvd5GrMdQvrGnTJB1xaNvuKtw5JKshg1QycNTaPxCAEY/nft.mp4",
+  "tokenId": 2,
+  "chainId": "1313161554",
+  "name": "Zappy Zip",
+  "description": "Zappy Zip, a mischievous Gnome, wears a vibrant green hoodie with lightning bolts. He found an electrifying hoodie that grants him the power of thunder and lightning. With a smile on his face, he zips through the skies, pulling harmless pranks on unsuspecting travelers.",
+  "attributes": [
+    {
+      "value": "85",
+      "trait_type": "Electric Pranks"
+    },
+    {
+      "value": "95",
+      "trait_type": "Thunderous Burst"
+    },
+    {
+      "value": "80",
+      "trait_type": "Lightning Speed"
+    }
+  ]
+}

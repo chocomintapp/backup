@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNcvHPnxtT6mxYgCQ9xgnvERrVjKGBxD5S2ZmLmkcbHjR/nft.png",
+  "nftContractAddress": "0x6362cd9ab25f2c0a3d501046247dc76a8f9f8a6e",
+  "animationUrl": "",
+  "tokenId": 278,
+  "chainId": "592",
+  "name": "COMMON TREE #278",
+  "description": "278/500",
+  "attributes": [
+    {
+      "value": "70%",
+      "trait_type": "COMMON"
+    }
+  ],
+  "minted": ""
+}

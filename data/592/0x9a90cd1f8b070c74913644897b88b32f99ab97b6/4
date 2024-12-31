@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRszRQGg2Tf9hBTu3iGfkyMNdbBYNHt6FJVd57K7yo2mG/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #4",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "SpaceChicken",
+      "trait_type": "TYPE"
+    }
+  ]
+}

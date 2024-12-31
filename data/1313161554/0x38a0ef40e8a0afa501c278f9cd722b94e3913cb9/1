@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQmRZXFtkf4Yzo56wY5oM8XZkhy1ejSF7cy8quTEL8jbN/nft.jpeg",
+  "nftContractAddress": "0x38a0ef40e8a0afa501c278f9cd722b94e3913cb9",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1313161554",
+  "name": "Prompt Unknown",
+  "description": "The first in the series. Created by an unknown secret. Owned by the Interpretations creator.",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "Governance"
+    }
+  ]
+}

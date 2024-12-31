@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb7iAe5U6UsbKn2Tz7mZva7GM9173pik6a4cyb1emeBZv/nft.jpeg",
+  "nftContractAddress": "0xbd8d8193480f26f8e965e91b528a84f546f09eca",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "592",
+  "name": "まさと",
+  "description": "まさと6作目",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": ""
+    }
+  ]
+}

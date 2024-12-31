@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUUwwdUKjg5ksWZomaGTn97jDvzEEiPLSA3mz2CUBc7Au/nft.jpg",
+  "tokenId": 1,
+  "description": "First commemorative work.",
+  "nftContractAddress": "0xd829b71a5e36fb40a370a4f64d49396193e38861",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "Geometric #0001",
+  "attributes": [],
+  "minted": ""
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZCyUodr7VfPQXR3vu5sz13GMVPcK74Fy56C4XWzBkRVF/nft.jpg",
+  "tokenId": 2,
+  "description": "猫に擬態した女の子",
+  "nftContractAddress": "0xebcf35d607f233621a41678d9a3416af53459288",
+  "animationUrl": "",
+  "chainId": "592",
+  "name": "猫娘",
+  "attributes": []
+}

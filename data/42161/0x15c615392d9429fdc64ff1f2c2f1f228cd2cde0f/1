@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSYP2hZAtZTMccAFfLcBHwgkbNCNJS4eoeu3dH8LkyaAG/nft.png",
+  "nftContractAddress": "0x15c615392d9429fdc64ff1f2c2f1f228cd2cde0f",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "42161",
+  "name": "Arbitrum Kanji ukiyo-e #01",
+  "description": "\"浮\", \"世\", \"絵\"...I drew the ukiyo-e using only these three kanji characters.Please try to enlarge the image!",
+  "attributes": []
+}

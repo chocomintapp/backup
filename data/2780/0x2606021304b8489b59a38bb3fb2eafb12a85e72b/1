@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZezc4v3mfALLBTmyrwwNP53r528z9BhJ66AMfc6u6t4L/nft.jpg",
+  "tokenId": 1,
+  "description": "This is a first NFT of YUZU",
+  "nftContractAddress": "0x2606021304b8489b59a38bb3fb2eafb12a85e72b",
+  "animationUrl": "",
+  "chainId": "2780",
+  "name": "Yuzu Nyan",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "IntMedium"
+    }
+  ]
+}

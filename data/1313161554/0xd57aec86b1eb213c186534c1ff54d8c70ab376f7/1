@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRBu7c7Xedc5Zf5SGyzuh41BJTV3KkAKM4yN8yAEWCReY/nft.png",
+  "nftContractAddress": "0xd57aec86b1eb213c186534c1ff54d8c70ab376f7",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1313161554",
+  "name": "SHROOM",
+  "description": "Еhey wander in infinite space, but they know that a friend is always ahead\n\nВ бесконечном пространстве блуждают они. но знают. что друг всегда впереди",
+  "attributes": [
+    {
+      "value": "red",
+      "trait_type": "hat"
+    },
+    {
+      "value": "smoky",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "licky",
+      "trait_type": "lips"
+    },
+    {
+      "value": "glitchy",
+      "trait_type": "backgroung"
+    }
+  ],
+  "minted": ""
+}

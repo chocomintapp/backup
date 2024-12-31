@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRR5NNkMQBCVE2oV95CZYfwo3N9hexibhnxRK48HuecMG/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #27",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpacePlatypus",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

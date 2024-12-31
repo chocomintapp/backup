@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWrk6p6YCSC7XAEEec7QjnZAbigF7vzWZMzCNUFVWDS1W/nft.gif",
+  "nftContractAddress": "0x429dfc514987a366da5b776e2a47a90afcafeca3",
+  "animationUrl": "https://ipfs.io/ipfs/QmWrk6p6YCSC7XAEEec7QjnZAbigF7vzWZMzCNUFVWDS1W/nft.gif",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "D-samoyed",
+  "description": "D-samoyed Created in 2020. 2000px × 2000px",
+  "attributes": []
+}

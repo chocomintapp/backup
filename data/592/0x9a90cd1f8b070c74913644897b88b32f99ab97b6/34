@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSJy2NgGXEiFvrgNimXSu35niNP57nW8no1g1EqKfmNqc/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #83",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "SpaceZebra",
+      "trait_type": "TYPE"
+    }
+  ]
+}

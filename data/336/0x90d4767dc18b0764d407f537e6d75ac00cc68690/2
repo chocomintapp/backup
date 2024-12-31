@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdinPmE8VfEqBz7PoDu8sCijTGQRGirJA4YVeHvgLYPWw/nft.png",
+  "tokenId": 2,
+  "description": "Limited edition NFT by Shiden Network and DAOLaunch!",
+  "nftContractAddress": "0x90d4767dc18b0764d407f537e6d75ac00cc68690",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "DAOLaunch NFT #2",
+  "attributes": [],
+  "minted": ""
+}

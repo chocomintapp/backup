@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNbd2f9dqFkccJxMSbA2XsQuTyJddYtwbS5W7BP4mQ46b/nft.jpg",
+  "nftContractAddress": "0xa7d5e25348fb81bfa153cfc535a396fd59b7392a",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "592",
+  "name": "After Punks #0004",
+  "description": "",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

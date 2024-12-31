@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYHdd6xf8qKqVVqaz8dBbSTn5dmpnrvD3pD6CjwniTtva/nft.png",
+  "nftContractAddress": "0x42b061b8cb18898480be2e95724e81f083517e29",
+  "animationUrl": "https://ipfs.io/ipfs/QmYHdd6xf8qKqVVqaz8dBbSTn5dmpnrvD3pD6CjwniTtva/nft.png",
+  "tokenId": 4,
+  "chainId": "592",
+  "name": "Astar Leaps Diffusion #4",
+  "description": "Information Technology transcend time and space! \nWe are cheering ASTAR. \nOur leader is muraoka and art is Kohei.",
+  "attributes": [
+    {
+      "value": "ANTENNA",
+      "trait_type": "BASE"
+    }
+  ]
+}

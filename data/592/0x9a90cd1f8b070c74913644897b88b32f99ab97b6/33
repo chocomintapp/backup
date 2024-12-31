@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQB7xWAYpQVQJAauKJyuv1N1ms9R47QEfNVH9VSj65msZ/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #52",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceJellyfish",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW3XJLxjhxEYK2VebSrT96By75P98ctksX1EKQQTXNNs7/nft.png",
+  "nftContractAddress": "0x217c64aa0a9a0540cdcd4fd723a31729b212f2cf",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "592",
+  "name": "MMGirls MIYU 10",
+  "description": "AIから生まれた MIYU",
+  "attributes": [
+    {
+      "value": "MIYU",
+      "trait_type": "CHARACTER_1"
+    },
+    {
+      "value": "Girl",
+      "trait_type": "GENDER"
+    },
+    {
+      "value": "japanese cute girl",
+      "trait_type": "LIKES"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVxZazEUkR1s3VSBgzusQQxw8tcY9iuTUZ7sMHFpnbwKo/nft.png",
+  "tokenId": 1,
+  "description": "SAEKO imaged likely in Showa 1980",
+  "nftContractAddress": "0xc7d3ce812cfa781720210570256bec632239b06e",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "TEST",
+  "attributes": [],
+  "minted": ""
+}

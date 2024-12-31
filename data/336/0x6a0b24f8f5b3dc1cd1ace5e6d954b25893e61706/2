@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeVV5khxbAZEHcbP5LPjf3uwmHjFgWsRXn1dnNpMryH1M/nft.jpg",
+  "tokenId": 2,
+  "description": "Red_Angel_in_Christmas",
+  "nftContractAddress": "0x6a0b24f8f5b3dc1cd1ace5e6d954b25893e61706",
+  "animationUrl": "",
+  "chainId": "336",
+  "name": "Red_Angel_in_Christmas",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Angel ",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    }
+  ]
+}

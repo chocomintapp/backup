@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRvMsX4VhATxg8ueqdqu5ATR2pJrtrKBQSftThUC7YawJ/nft.png",
+  "nftContractAddress": "0x9a90cd1f8b070c74913644897b88b32f99ab97b6",
+  "animationUrl": "",
+  "tokenId": 50,
+  "chainId": "592",
+  "name": "VeryLongAstarAnimals #100",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SpaceLion",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcwAXVt8jEkxZMXnvf1iic81BdUiXC3rgBEJLrkdxS6MA/nft.png",
+  "nftContractAddress": "0x6c70d0b54f803c885dc7a7fce0d1da3d8730d198",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "42161",
+  "name": "AAYC #7486",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Azure",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Warm",
+      "trait_type": "FUR"
+    },
+    {
+      "value": " Stoned",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Prison Jumpsuit",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Grin Diamond Grill",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": " Sheriff's Hat",
+      "trait_type": "HAT"
+    },
+    {
+      "value": " Silver Stud",
+      "trait_type": "EARRING"
+    }
+  ]
+}

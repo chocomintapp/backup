@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYaiEV8Mcqyomwfumt3zrVoqZBgEMAKxes4h3uJQrmwMm/nft.png",
+  "nftContractAddress": "0x3cfb43f21e8aa946ec958cfbe61606d9cc459897",
+  "animationUrl": "https://ipfs.io/ipfs/QmbP7CnDXmSoLJnt6fX96puxoW2KpUuaqCL95neAvkbaYR/nft.mp4",
+  "tokenId": 4,
+  "chainId": "592",
+  "name": "very easy website by HTML/CSS",
+  "description": "Skill Gem of Legend #0001\n\nWaffleという非営利組織で、中高生に対しウェブサイト作成講座を展開しており、自分でも作って教えられるようになっておきたかった。",
+  "attributes": [
+    {
+      "value": "LEGEND",
+      "trait_type": "RANK"
+    },
+    {
+      "value": "HTM/CSS",
+      "trait_type": "SKILL TYPE"
+    },
+    {
+      "value": "PEAR",
+      "trait_type": "CUTS"
+    },
+    {
+      "value": "8",
+      "trait_type": "CARAT"
+    },
+    {
+      "value": "8",
+      "trait_type": "CLARITY"
+    },
+    {
+      "value": "0000",
+      "trait_type": "RED"
+    },
+    {
+      "value": "1000",
+      "trait_type": "GREEN"
+    },
+    {
+      "value": "0079",
+      "trait_type": "BLUE"
+    },
+    {
+      "value": "Sayaka Ivy Tanaka",
+      "trait_type": "CHAMPION"
+    }
+  ]
+}

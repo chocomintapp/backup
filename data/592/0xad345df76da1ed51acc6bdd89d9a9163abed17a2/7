@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVaZCGxk2s7qgjYiXwUDRm6t5T4nFhugZf9ukb2mZNJYf/nft.png",
+  "nftContractAddress": "0xad345df76da1ed51acc6bdd89d9a9163abed17a2",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "592",
+  "name": "BabuStarAnimals #6",
+  "description": "Babu!!babubababbubububabababubuubaubuubabbabababuuuuuuu!!",
+  "attributes": [
+    {
+      "value": "Pig",
+      "trait_type": "Space"
+    }
+  ]
+}

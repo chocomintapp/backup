@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdXhAVV2u5og35KHeaMfbd2WFqeWq3hyT9Aag8Znqd7Nq/nft.png",
+  "nftContractAddress": "0x3c5b502694d1ded02333b04f80d8ca4e0fdef5c1",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "DAO",
+  "description": "Astar Degens DAO",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": ""
+}

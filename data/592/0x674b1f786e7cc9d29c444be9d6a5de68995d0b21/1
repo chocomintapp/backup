@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPTN98udNy9ZxMq2QXEyKNhA6AuDxqBFVW3T4Ck4Mkza8/nft.png",
+  "nftContractAddress": "0x674b1f786e7cc9d29c444be9d6a5de68995d0b21",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "UPBOND NFT 2022",
+  "description": "UPBOND Logo",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "Color"
+    }
+  ],
+  "minted": "✅"
+}

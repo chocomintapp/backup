@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdu1s2fLSmUbzcybxfsfA8Qij7jheqWKdKpu2VxAueaWj/nft.jpg",
+  "nftContractAddress": "0xd189cfdda00e0e26029f9fa9c64e8e152258bcd0",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "592",
+  "name": "C3P5",
+  "description": "C3P5",
+  "attributes": [
+    {
+      "value": "Hero",
+      "trait_type": "BASE"
+    },
+    {
+      "value": "C3P5",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "Bomb NFT",
+      "trait_type": "NFT NAME"
+    }
+  ]
+}

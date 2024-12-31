@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYHRzNrKcBDMKXoagC24htJ2Qh6MgjFdrcvE25uLZ6jmY/nft.jpg",
+  "nftContractAddress": "0x71a7c778883d486e067dc5a062372057e83bc78a",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "592",
+  "name": "With sweets",
+  "description": "Matcha, azuki, strawberries and Japanese sweets. Would you like to take a break?",
+  "attributes": []
+}

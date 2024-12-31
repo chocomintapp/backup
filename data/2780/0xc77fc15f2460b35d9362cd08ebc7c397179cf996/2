@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT2qHcpC1HHY62UiRxWYRCJaVp3GUycF7CTvv5ydfZWTj/nft.jpg",
+  "nftContractAddress": "0xc77fc15f2460b35d9362cd08ebc7c397179cf996",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "2780",
+  "name": "The Capital",
+  "description": "The most impressive monument that represent our legacy. ",
+  "attributes": [
+    {
+      "value": "10000",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSLaBEqPfQDcY9vLNjMFZuF3Zn3iPsb54ikJb4YKCu5i3/nft.png",
+  "nftContractAddress": "0x5949eb28982505ba9d6350844d6f5641600a6256",
+  "animationUrl": "https://ipfs.io/ipfs/QmaaACXkxbcsbSeZ36fqtvfQnhvvMBa9w54zXs1vJKvwFM/nft.mp4",
+  "tokenId": 2,
+  "chainId": "592",
+  "name": "DX-driven political management",
+  "description": "Legend Skill Gem #0002\n市の行政運営に対する評価や点検、ならびに政策提案。日常的活動としては、住民の要望意見を聞き、地域住民の様々な活動の側面的支援を行っている。",
+  "attributes": [
+    {
+      "value": "LEGEND",
+      "trait_type": "RANK"
+    },
+    {
+      "value": "Councilman & Operations engineer ",
+      "trait_type": "SKILL TYPE"
+    },
+    {
+      "value": "Cushion",
+      "trait_type": "CUTS"
+    },
+    {
+      "value": "8",
+      "trait_type": "CARAT"
+    },
+    {
+      "value": "8",
+      "trait_type": "CLARITY"
+    },
+    {
+      "value": "800",
+      "trait_type": "RED"
+    },
+    {
+      "value": "0",
+      "trait_type": "GREEN"
+    },
+    {
+      "value": "100",
+      "trait_type": "BLUE"
+    },
+    {
+      "value": "Masanori Katsuragawa",
+      "trait_type": "CHAMPION"
+    }
+  ]
+}

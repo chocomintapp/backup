@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVSPyd9xRJHT9tpHCpBbUP7eYcmj1qGsUYu3EgimKLQWM/nft.png",
+  "nftContractAddress": "0xad345df76da1ed51acc6bdd89d9a9163abed17a2",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "592",
+  "name": "BabuStarAnimals #1",
+  "description": "Babu! Babubabubababubabubabubububabbabububabubabbubbu!!",
+  "attributes": [
+    {
+      "value": "Penguin",
+      "trait_type": "Space"
+    }
+  ]
+}

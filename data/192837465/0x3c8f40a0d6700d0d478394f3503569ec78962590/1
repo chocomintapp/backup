@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbwNhcJS83bVLSX6Fw16HBAp11hrFj3RGjNi1Wi97xrcz/nft.png",
+  "nftContractAddress": "0x3c8f40a0d6700d0d478394f3503569ec78962590",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "192837465",
+  "name": "Arrow",
+  "description": "This is a picture of an arrow for testing purposes sorry",
+  "attributes": []
+}
