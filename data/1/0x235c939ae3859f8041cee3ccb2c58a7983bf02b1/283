@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXTZEwPKLXcUscVka6yNr5wLdRQC3nV84HCNR6VgvWtrj/nft.jpg",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 283,
+  "chainId": "1",
+  "name": "Banyanya",
+  "description": "New life born the coexistence with human and date. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.",
+  "attributes": [
+    {
+      "value": "Alien",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Twinkle",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Distorted  Gradation",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "3LOM",
+      "trait_type": "PROTO VALUE"
+    }
+  ]
+}

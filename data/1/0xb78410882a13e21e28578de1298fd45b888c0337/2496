@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRE4wGQFparq9859ds8MntKwger5pgwTPpbU2Xd4A49iZ/nft.png",
+  "nftContractAddress": "0xb78410882a13e21e28578de1298fd45b888c0337",
+  "animationUrl": "",
+  "tokenId": 2496,
+  "chainId": "1",
+  "name": "",
+  "description": "",
+  "attributes": [
+    {
+      "value": "GRAYISH BLUE",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "泥土煮尊",
+      "trait_type": "SIGNATURE STAMP"
+    }
+  ]
+}

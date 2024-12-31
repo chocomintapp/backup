@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmehy9EgChk91cPzq6ezFYAfFCenrswWs47eWNaDRdxVmM/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 77,
+  "chainId": "1",
+  "name": "POCO_Candela",
+  "description": "Candela-Chan\n",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Unruly",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Splatter",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

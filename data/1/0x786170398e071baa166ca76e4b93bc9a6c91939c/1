@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNcYm3pPxeUFEtnJ2sS9uyCSTsgZbvbbLLmg2ybntUH87/nft.png",
+  "nftContractAddress": "0x786170398e071baa166ca76e4b93bc9a6c91939c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "wallabyC#001",
+  "description": "This is the story of a wallaby that begins with straw and gets Bitcoin.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": " wealth"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRScmcSxaCM6AzhUB1BSip7B8A725NJbrUBo1pPUcNSpG/nft.jpg",
+  "tokenId": 15,
+  "description": "I met a man in Chigasaki whose actions set fire to everything around him, both good and bad. He inspired me to do this painting in 2009",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmRScmcSxaCM6AzhUB1BSip7B8A725NJbrUBo1pPUcNSpG/nft.jpg",
+  "chainId": "1",
+  "name": "Fire Horse"
+}

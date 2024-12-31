@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZif5F2YwAXWNSjbh9QYpjSooyn74sy67h5NnkekCWBFw/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "1",
+  "name": "Ancient Dogefish",
+  "description": "File: PNG  \nSize: 2048x2048  \nTotal Supply: 1  \nLive long, Doge. Live long as people recognize you as an ancient fish.",
+  "attributes": [
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "w/ body",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "Mini",
+      "trait_type": "generation"
+    }
+  ]
+}

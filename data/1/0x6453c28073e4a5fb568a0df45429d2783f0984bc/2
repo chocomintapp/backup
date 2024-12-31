@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUyHaMeaeZ7eaij9rVLTBfUk57xVyiY6hgaAZ8nP2TAQT/nft.gif",
+  "nftContractAddress": "0x6453c28073e4a5fb568a0df45429d2783f0984bc",
+  "animationUrl": "https://ipfs.io/ipfs/QmUyHaMeaeZ7eaij9rVLTBfUk57xVyiY6hgaAZ8nP2TAQT/nft.gif",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "HuntingTrophy_Puff",
+  "description": "Defeated a swarm of monsters. Got the Puff Hunting Trophy.\n\nモンスターのむれをたおした。パフのハンティングトロフィーをてにいれた。\n\nCharisma: 10 of 25\nIntelligence: 12 of 25\nLuck: 15 of 25\nPower: 10 of 25\nSpeed: 4 of 25\n\n",
+  "attributes": [
+    {
+      "value": "Dragon",
+      "trait_type": "DEPARTMENT"
+    },
+    {
+      "value": "Monsters Of Lore",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "STATUS"
+    }
+  ],
+  "minted": "✅"
+}

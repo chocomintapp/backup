@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUo9yMpTiDkx3fAYPueqS3r4jSJXeodYhtE594zoBiQS7/nft.png",
+  "nftContractAddress": "0x81735d40e86e7daaa69bc46c2d6b2f02a24939d6",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "hide333",
+  "description": "Adobe Photoshop is used to embed the creator information.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

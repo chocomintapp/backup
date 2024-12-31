@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRmksLAauFMV142DwHQUnQnapk45pvqjURreQ33hv6J2v/nft.png",
+  "nftContractAddress": "0x775119396ae6b7f97821dbabd74a7288b0976e3f",
+  "animationUrl": "",
+  "tokenId": 80,
+  "chainId": "1",
+  "name": "C.R.E.A.M. #080",
+  "description": "C.R.E.A.M.\nCat Rules Everything Around Me!!!",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Black",
+      "trait_type": "BODY TYPE"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "EYE"
+    },
+    {
+      "value": "Jungle hat",
+      "trait_type": "HEAD GEAR"
+    },
+    {
+      "value": "T shirts",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "2chainz",
+      "trait_type": "JEWELZ"
+    },
+    {
+      "value": "ALL BLACK EVERYTHING",
+      "trait_type": "SPECIAL"
+    }
+  ],
+  "minted": "✅"
+}

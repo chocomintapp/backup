@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR7vC7vTNV4fW25ttHvgZQfFAK7FTdjeqnthHWR2K65XN/nft.jpeg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "逆神",
+  "attributes": [
+    {
+      "value": "ギフン",
+      "trait_type": "人物"
+    },
+    {
+      "value": "学ラン",
+      "trait_type": "服装"
+    },
+    {
+      "value": "フォックス型",
+      "trait_type": "メガネ"
+    },
+    {
+      "value": "スキンヘッド",
+      "trait_type": "頭"
+    }
+  ],
+  "minted": "✅"
+}

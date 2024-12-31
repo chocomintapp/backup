@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeRqnXxBupXKiQKpnU7jPNGD4ek3wBuZZJSe4TJj49yB8/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "POCOEMOJI_pokan",
+  "description": "Stephanie-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

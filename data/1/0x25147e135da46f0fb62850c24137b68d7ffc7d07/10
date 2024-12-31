@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWG5VJkCudrYZeLrWJ8kbGooeABKhSu2C2869wRDnQE9y/nft.png",
+  "nftContractAddress": "0x25147e135da46f0fb62850c24137b68d7ffc7d07",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "BE KOBE NFT CREATIVE AWARD #10",
+  "description": "第1回 BE KOBE NFT CREATIVE AWARD Discordスタンプ部門 入賞作品\n\n【タイトル】\nありこうべ\n\n【制作者】\nebitama 様\n\n【コンセプト】\nお礼を言いたいときに使えるスタンプです。\nモチーフはマクアートと同じく王子動物園のコアラを参考にしてます。",
+  "attributes": [
+    {
+      "value": "Discordスタンプ",
+      "trait_type": "部門"
+    }
+  ],
+  "minted": "✅"
+}

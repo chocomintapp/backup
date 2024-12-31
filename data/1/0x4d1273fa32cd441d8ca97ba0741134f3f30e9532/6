@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZdX3AjCPdfWmeWcuMLcnMcHMrFFwpc3bes5wrxk4KDiW/nft.gif",
+  "tokenId": 6,
+  "description": "Squidots go to Singapore!",
+  "nftContractAddress": "0x4d1273fa32cd441d8ca97ba0741134f3f30e9532",
+  "animationUrl": "https://ipfs.io/ipfs/QmZDhzPT55Uzc9Kt4qgHHTk25Lw2CGyVpuEJYfRiDDb3Ab/nft.gif",
+  "chainId": "1",
+  "name": "Squidots Singapore"
+}

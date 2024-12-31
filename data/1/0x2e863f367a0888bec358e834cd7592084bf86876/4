@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRrTRXWvKa819t5cb4BJuz54jCX1pxyk6vFAZzDostvNy/nft.JPG",
+  "tokenId": 4,
+  "description": "Painted in autumn colors the Eye of Horus is a protective mark that originates from the Egyptians.\n\nOriginally sold together with the painting\nPainted in 2020\nKrs",
+  "nftContractAddress": "0x2e863f367a0888bec358e834cd7592084bf86876",
+  "animationUrl": "https://ipfs.io/ipfs/QmRrTRXWvKa819t5cb4BJuz54jCX1pxyk6vFAZzDostvNy/nft.JPG",
+  "chainId": "1",
+  "name": "Eye of Horus",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXCJTHC8MDfVT1hyjPL4Jd2WCV9BEjpPyfZCUVzSuw7GX/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 515,
+  "chainId": "1",
+  "name": "NAE",
+  "description": "■ナエ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open5",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Ponytail-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-BGreen",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-kabukicho",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Black-SSP2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

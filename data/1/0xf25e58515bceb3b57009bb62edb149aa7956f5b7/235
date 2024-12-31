@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW4Aqqzby5hPxjwRYWTEG1CcTzDHtBW3q7jtfwVrjd7Au/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 235,
+  "chainId": "1",
+  "name": "IEZALEL",
+  "description": "■イーザルエル",
+  "attributes": [
+    {
+      "value": "Dot4",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Drool",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "CurlingTsuno-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-ZBlack",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-B",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bored Ape2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

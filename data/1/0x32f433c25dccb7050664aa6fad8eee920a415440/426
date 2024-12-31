@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaHbz4mG6qgi6xkTFbW4QdJHMRWguDW4WbVYn9dVCcUzw/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmd3ynkXfVQhfrJfZXAyVVLCpkGBCzaLY4ZkGG56JFBKDk/nft.mp4",
+  "tokenId": 426,
+  "chainId": "1",
+  "name": "THE JEWEL #426",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Control device"
+    }
+  ]
+}

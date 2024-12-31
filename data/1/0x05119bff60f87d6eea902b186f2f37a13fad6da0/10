@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNX8Dtz86cLdNE3JUhum15kS8ieJtqQQrUWfpkPX8o9s3/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "POPET No.10",
+  "description": "【物語】\n\n果てしない海。まだみぬ財宝と心躍るロマン。俺はこの船と夢に生きるのさ！",
+  "attributes": [
+    {
+      "value": "海賊船長",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "海賊船",
+      "trait_type": "origin"
+    },
+    {
+      "value": "熱血",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

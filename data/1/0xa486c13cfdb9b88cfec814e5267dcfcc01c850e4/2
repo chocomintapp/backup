@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc3QdXs7wJ98UDhLMDppF5UiCez7RwYhjYuKpLHqzucsx/nft.png",
+  "nftContractAddress": "0xa486c13cfdb9b88cfec814e5267dcfcc01c850e4",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "#2 RED PANDA",
+  "description": "Popular animals at Kasotaro Farm.\nIt is often mistaken for a tanuki (raccoon dog), but it is definitely a red panda.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "RED PANDA"
+    }
+  ]
+}

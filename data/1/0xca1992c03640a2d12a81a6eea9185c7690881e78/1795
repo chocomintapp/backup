@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdwNPGpjvnxHa4Lgt1tZb5tfMtkRByuuXG6bfdzk7zpwu/nft.png",
+  "tokenId": 1795,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1795",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Side Tail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cardigan"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Circle"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Pink Gold Chain"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Spoon"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Heart"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Pink Ribbons"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYjJegqqMmU93hBLZiA1XCBj1jLEsAdgbAnRSP2rhEogS/nft.png",
+  "nftContractAddress": "0x21ac824c1b1369971e437c5e92a84a136da1b1eb",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Hello World #006",
+  "description": "#【Come on! Mushroom nymph!!!】\n  \nEvery day WARABI push the mushrooms and chant a spell at the moment the spores pop out.  \n'Come on! Mushroom nymph! Come out, come out, come out!\"  \n  \nMushroom nymph today...  \nNo, no, they have never come out yet.    \n  \n  \n#【いでよ！キノコの精！】\n  \nわらびは毎日キノコを押し、胞子が飛び出す瞬間に呪文を唱えます。  \n「いでよ！キノコの精！出てこい出てこい！！！」  \n  \nキノコの精は今日も…  \nいやいや、まだ一度も出てきてはくれないのです。  ",
+  "attributes": [
+    {
+      "value": "Lycoperdon perlatum（ホコリタケ）",
+      "trait_type": "MUSHROOM"
+    },
+    {
+      "value": "WARABI（わらび）",
+      "trait_type": "CAT NAME"
+    },
+    {
+      "value": "Watercolor",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Pigment ink",
+      "trait_type": "TYPE"
+    }
+  ]
+}

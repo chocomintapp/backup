@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbc1uty3kNoBMD37hALe3EVAhbvzecXspRc5awDNjpnN2/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 494,
+  "chainId": "1",
+  "name": "ANDES",
+  "description": "■アンデス",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Red",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "AnisuHair(red)",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye6",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-PinkblackH",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-3EYES",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Chihuahua",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Meta tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

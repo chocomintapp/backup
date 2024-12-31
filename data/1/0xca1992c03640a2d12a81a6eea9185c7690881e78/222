@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY8uVQPsz5fuMthkcTDYfYDWJHjVARfDffT34qjYz8Nic/nft.png",
+  "tokenId": 222,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #222",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Carmine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Slip"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Black Cat"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Captain Hat"
+    }
+  ]
+}

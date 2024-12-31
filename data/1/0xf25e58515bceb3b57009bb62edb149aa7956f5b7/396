@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaTY2r3MtQvhYvVe8KkFCae7eKmo24DzBT4UCQNTixRr8/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 396,
+  "chainId": "1",
+  "name": "GISELE",
+  "description": "■ジゼル",
+  "attributes": [
+    {
+      "value": "spread of infection2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Short",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Magic eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Magic-caster(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-happy",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "HeadbandｰWB",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

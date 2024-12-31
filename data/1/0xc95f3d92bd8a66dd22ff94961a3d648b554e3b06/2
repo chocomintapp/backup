@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVjAt1msQVzvBrtCdD8qBzSVCZqr3SqLELmLfnmsqojBN/nft.png",
+  "nftContractAddress": "0xc95f3d92bd8a66dd22ff94961a3d648b554e3b06",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "test",
+  "description": "test",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "koto",
+      "trait_type": "Inst"
+    }
+  ]
+}

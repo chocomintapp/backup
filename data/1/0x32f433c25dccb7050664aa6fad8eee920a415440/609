@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXETSPje1WPmXLUp54z9DPnvjLBif6qqrikLHnAvS7pvg/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmeus4M32Nkb8FWd6YnfoZkFcr8TRwVS3cbBTbinetwUs8/nft.mp4",
+  "tokenId": 609,
+  "chainId": "1",
+  "name": "THE JEWEL #609",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Mint Green Beryl",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Brass",
+      "trait_type": "Control device"
+    }
+  ]
+}

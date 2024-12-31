@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVpNBgjHeQYygnqiea33yGMnVpxCyK3ihaYEumMeaGnQh/nft.PNG",
+  "nftContractAddress": "0x2c568c22885a822323e27ef5b602111aba9bf039",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "Autumn is here",
+  "description": "Transition from summer to fall. Little ghost is taking a nap.",
+  "attributes": []
+}

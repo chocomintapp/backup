@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZPfLUxMjaiCLv4BV91pjrf8gvE5YrNUYV6rs6oYWTMG5/nft.png",
+  "nftContractAddress": "0x21ac824c1b1369971e437c5e92a84a136da1b1eb",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Hello World #005",
+  "description": "#【Cat writer】\n  \nJUNIOR is a cat writer.  \nSeems to me that the writing hasn't been going as well as it could have...  \n\"I think it's time for tea time. I'll have some mushrooms next to the cake, and the tea will be Earl Grey!\"  \nJUNIOR is thinking about that.  \n  \nIt's time to make it a tea time.  \n  \n#【猫の文豪】\n\nJUNIORは猫の文豪さん  \n筆が進まない…と思いきや  \n「そろそろティータイムにしよう。ケーキに茸も添えて、紅茶はアールグレイで決まり！」  \nなんてことを考えてる。  \n  \nそろそろお茶にしましょうね。  ",
+  "attributes": [
+    {
+      "value": "Harrya chromipes（アケボノアワタケ）",
+      "trait_type": "MUSHROOM"
+    },
+    {
+      "value": "JUNIOR（ジュニア）",
+      "trait_type": "CAT NAME"
+    },
+    {
+      "value": "Watercolor",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Pigment ink",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXLjhTdFDt8cGVu9XBvQTHZZCRe7VM1gFx1QYb43paRuC/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 95,
+  "chainId": "1",
+  "name": "KAIKA #95",
+  "description": "",
+  "attributes": [
+    {
+      "value": "demon spark",
+      "trait_type": "energy"
+    },
+    {
+      "value": "mole",
+      "trait_type": "extra"
+    },
+    {
+      "value": "foxy",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "green",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "curly",
+      "trait_type": "hair"
+    },
+    {
+      "value": "half and half",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "open smile",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "pale",
+      "trait_type": "skin tone"
+    }
+  ]
+}

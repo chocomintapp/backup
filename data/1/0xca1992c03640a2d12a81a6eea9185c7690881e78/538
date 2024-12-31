@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXR1jrPgUWnVDWEWpxYRTm19cxjj8YzAt1N4LoB9RLqsL/nft.png",
+  "tokenId": 538,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #538",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovely Madness"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Scarlet"
+    },
+    {
+      "trait_type": "Item",
+      "value": "French Fries"
+    }
+  ]
+}

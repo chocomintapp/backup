@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmavi1c1FsEFkMF3nUEyRz16SJXqFXZqGV9Lx7FK7R7p6K/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "May 22 ガーベラ（スパイダー咲き）",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "22",
+      "trait_type": "日"
+    },
+    {
+      "value": "崇高な美しさ",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ガーベラ",
+      "trait_type": "花"
+    }
+  ]
+}

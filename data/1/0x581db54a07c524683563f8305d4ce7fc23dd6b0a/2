@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaGmGpgEzeQhaz4i9JnYg7xzaqmWUKkh43oc1A6YpXXtc/nft.png",
+  "nftContractAddress": "0x581db54a07c524683563f8305d4ce7fc23dd6b0a",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Misorin#0002",
+  "description": "MiiiisoooooooooooooooooooooMisoMisoooooooooo",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "hentai book",
+      "trait_type": "item"
+    }
+  ]
+}

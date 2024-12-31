@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZEAnQwTak9x1LgLZ7WuAUXUwzRHQuvV91A8NLHSKePft/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "1",
+  "name": "Beach Borne Bae #55",
+  "description": "Beach Borne Bae #55\nInspired by Pacific saury / サンマ",
+  "attributes": [
+    {
+      "value": "Long",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Sweater",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Orange",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

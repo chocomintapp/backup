@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmePMbntQXAf1u8sCygH69FrAqa9rVyVNiyPZ6pFHqufne/nft.mp4",
+  "tokenId": 3,
+  "description": "Collaboration with https://opensea.io/DokusoU_analog-NFT\n\ntheme by https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/10916900070525695842060834008022214116902233046589326669003211726906640564225\n\nThis was created to add music to a cover art piece inspired by imaginary music.\nIt's about being so absorbed in something that you forget that time is passing by.\n\n架空の音楽をイメージしたカバーアート作品に曲をつけるために制作しました。\n時が過ぎるのを忘れるほどに夢中なことについて表現しました。",
+  "nftContractAddress": "0xa88c1bb24a3936377a232b3a64f56a50ca33b14d",
+  "animationUrl": "https://ipfs.io/ipfs/QmePMbntQXAf1u8sCygH69FrAqa9rVyVNiyPZ6pFHqufne/nft.mp4",
+  "chainId": "1",
+  "name": "Time",
+  "attributes": []
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcCtK9o83y4MLgWnxQNBSuAUobFEjS9ndNeaw58YhHswV/nft.jpg",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "1",
+  "name": "Tokyo Expanding People 2099 #25 Dann",
+  "description": "［日本語］ダン\n\n幼いころ父親を亡くした新米の海賊。\nどうやら仲の良かった海賊に裏切られたようだった。\nつい先日酒屋の仕事も辞めさせられ、途方に暮れていた。\n\n「ついてない。」\n\n幸いにも、俺には貴族出身の幼馴染がいる。\n彼女の紹介のおかげで、彼女の父親の船でひと稼ぎすることになった。\nだがこの男の帽子、見覚えがある。\n\n--そうだ、海のせいにしてしまおう。\n\n\n\n［En］DANN\n\nA new pirate who lost his father when he was young.\nA pirate betrayed him he was close to.\nHe had recently been forced to quit his job at a liquor store and was at a loss. \n\nIt’s not my lucky day.”\n\nFortunately, I had a childhood friend from a noble family.\nThanks to her introduction, I could earn a living on her father’s ship.\nBut this man’s hat looks familiar.\n\n--Yes, let’s blame it on the sea.\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Pirates ",
+      "trait_type": "Dann"
+    }
+  ]
+}

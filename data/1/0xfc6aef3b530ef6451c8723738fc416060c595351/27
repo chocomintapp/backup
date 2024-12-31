@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV29WcisbkSTzz4qTZhgmA333qHGXJ7bzNzZvUYmLQQLz/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "1",
+  "name": "Doge Stuck in the Moon in the Japanese Garden",
+  "description": "File: PNG  \nSize: 2048x2048  \nTotal supply: 1  \nAs you cross the bridge, there is another world beyond the surface of the water. If you want to come back, be lead by the moonlight. If you do not want to, well, as you like.",
+  "attributes": [
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "w/ body",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "Lotuses",
+      "trait_type": "object(s)"
+    },
+    {
+      "value": "Mini",
+      "trait_type": "generation"
+    }
+  ]
+}

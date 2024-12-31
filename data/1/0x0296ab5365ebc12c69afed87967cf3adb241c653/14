@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQKYaZaZEHYzB3kQfBMj1eJzX1osEjCLeCc3xHfUhCRq4/nft.jpg",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "碧羅[Hekira]",
+  "description": "「我が一太刀で世の中を晴らしてみせる」\n\nクールで硬派、彼女の一太刀は天をも穿つ。\n縅の世の中を一服させるという役目を背をっている少女。",
+  "attributes": [
+    {
+      "value": "雲",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf4z5HuE1LU9TKiyvK6vi3kuh1BkCG47dmfuHxVmT3nCu/nft.png",
+  "nftContractAddress": "0x25147e135da46f0fb62850c24137b68d7ffc7d07",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "BE KOBE NFT CREATIVE AWARD #6",
+  "description": "第1回 BE KOBE NFT CREATIVE AWARD Discordスタンプ部門 入賞作品\n\n【タイトル】\nおはこうべ!!\n\n【制作者】\n!ヒラメ君 様\n\n【コンセプト】\n神戸に行った時に行った事のある場所をスタンプにしてみました!!\n\n『神戸文学館』の近くで本を読んでるヒラメ君スタンプです!!\n\n文学館で本を読む…、\nそんな朝をすごしてみたいなぁぁ☀\n\n是非皆さんも有意義な朝を(!\n\n『おはこうべ!!!』\n\n神戸には、ヒラメのよく釣れるポイントもあるみたいなので・・・今度はそこにも行かなくては！！笑",
+  "attributes": [
+    {
+      "value": "Discordスタンプ",
+      "trait_type": "部門"
+    }
+  ],
+  "minted": "✅"
+}

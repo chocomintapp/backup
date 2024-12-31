@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWhvKekTj7YPkNpbAHVAXR9kSrFZdyCThtSFwNDYjXpar/nft.png",
+  "nftContractAddress": "0xfed0ea8b310708e43157d5be78797908fec20817",
+  "animationUrl": "https://ipfs.io/ipfs/QmWhvKekTj7YPkNpbAHVAXR9kSrFZdyCThtSFwNDYjXpar/nft.png",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "Toki no Ne -ODO- Collab",
+  "description": "NFT art collection with AI. Different seasons have different facial expressions\nCollaboration with Odo-chan of 縅[Odoshi] Project\n",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

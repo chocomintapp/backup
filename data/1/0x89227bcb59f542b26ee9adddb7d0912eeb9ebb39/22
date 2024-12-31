@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPiFFXKL66R8o5VA4d1MbKh9cYFBHWJs7jTuiQjDoj61F/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "#022-Shizuoka-",
+  "description": "#022-Shizuoka-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Gaia",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Chubu",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Shizuoka",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

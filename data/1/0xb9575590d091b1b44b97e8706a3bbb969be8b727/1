@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUfKgAcLioq32dFzR4byo6EXPovnWHi7RnGiyd8cdq8AH/nft.mp4",
+  "tokenId": 1,
+  "description": "Sound of Ikebanaとは花を使わないいけばな。\n\nそれは、スピーカーから出力される音の振動で飛び上がる流体を1/2000秒のハイスピードカメラで撮影して作る「音の振動で作られた一瞬のいけばな」です。\n\n世界でたったひとつだけの裸眼では見えない美：Invisible Beauty。\n\nここでは、Sound of Ikebanaで創造した様々な表現を、皆様にお届けします。",
+  "nftContractAddress": "0xb9575590d091b1b44b97e8706a3bbb969be8b727",
+  "animationUrl": "https://ipfs.io/ipfs/QmUfKgAcLioq32dFzR4byo6EXPovnWHi7RnGiyd8cdq8AH/nft.mp4",
+  "chainId": "1",
+  "name": "Summer Memory",
+  "attributes": [],
+  "minted": "✅"
+}

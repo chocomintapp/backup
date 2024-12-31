@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZsqNLcQhPXwkDnHKUTiyvMAsfVGzQUqHU7UQ3E5ZgJab/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 114,
+  "chainId": "1",
+  "name": "MIKA",
+  "description": "■ミカ",
+  "attributes": [
+    {
+      "value": "Middle of the heavens.(HumanR)",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mind's-eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Whitepink",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury-Pink",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

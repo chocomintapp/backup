@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVfv8tkAXA7M8K9TN9sf3jWcUhUCbtR23ecaS3GiSo4iK/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "POPET No.24",
+  "description": "【物語】\n\nこの平和な海で、ぼくのやることはない\nこの潮風に吹かれて今日も日が沈む\nたまには何か起きないかな、、、",
+  "attributes": [
+    {
+      "value": "マリン",
+      "trait_type": "job"
+    },
+    {
+      "value": "妄想スケッチ",
+      "trait_type": "skill"
+    },
+    {
+      "value": "怠惰",
+      "trait_type": "origin"
+    },
+    {
+      "value": "港",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

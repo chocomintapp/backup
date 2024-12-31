@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcnm23sNDsHHgUH3MxoWJtmG3h5z825wNmawjTkw3HQQT/nft.png",
+  "tokenId": 1700,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1700",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Slip"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Tassel"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Baby Bottle"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "White Cat Ears"
+    }
+  ]
+}

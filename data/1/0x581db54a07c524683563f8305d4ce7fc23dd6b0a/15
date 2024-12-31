@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbqZma8RYztGd5dUrjohEUcqTR888u9dfiUEGwTZmC57T/nft.png",
+  "nftContractAddress": "0x581db54a07c524683563f8305d4ce7fc23dd6b0a",
+  "animationUrl": "https://ipfs.io/ipfs/QmXAYdPJJsrcjR8dVVSeBzViq6fsVRPUt6A8ZAmo8ipxuw/nft.mp4",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "Misorin#0015",
+  "description": "The ghost is out!　Overdrive\n\nBut that doesn't mean I'm going to move\n\nI got a ghost!　Overdrive\n\nI don't care if it's just a mood\n\n\nIt's just another Sunday afternoon with nothing going on\n\nI've been trying to get motivated for a while now\n\nI'm busy with cartoons, movies, naps\n\nWhat is freedom? I look up at the sky\n\n\nTo live for someone else\n\nTo create for yourself\n\nI don't want to know the truth\n\nSometimes I want to ride on that Ferris wheel\n\n\nI remember when I longed to be an adult\n\nIs there a paradise in the metaverse?\n\nIf there isn't, I guess I'll just have to create it myself\n\nI'll just nibble on a potato\n\n\nI make money in my fantasy\n\nAnd then shit myself in the real world\n\nThere's no such thing as a lie, blockchain\n\nI'm not gonna do what I'm supposed to do\n\n\n\nおばけがでたぞ！　Overdrive\n\nだからといって動く気はない　\n\nおばけがでたぞ！　Overdrive\n\n雰囲気だけなら別に気にしない　\n\n\n何も無いままの　日曜の午後\n\n\nそろそろやる気が　出てくるころだが\n\n漫画　動画　昼寝で忙しい\n\n自由とはなんだ　空を見上げる\n\n\nだれかの為に生きていくこと\n\n自分のために作り出すもの\n\n本当のことは知りたくはない\n\nたまには乗ろうあの観覧車\n\n\n大人って奴に憧れたっけ\n\nメタバースになら楽園はあるの\n\n無いなら自分で創ればいいのか\n\nそんなことを思い芋をかじる\n\n\n空想の中で金を稼ぐ\n\n現実の中でクソを漏らす\n\n嘘は無いはずだblockchain\n\nやるべきことはやらないでおこう",
+  "attributes": [
+    {
+      "value": "ghost",
+      "trait_type": "item"
+    },
+    {
+      "value": "The ghost is out",
+      "trait_type": ""
+    }
+  ]
+}

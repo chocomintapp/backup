@@ -1,0 +1,63 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYn5bRq43GCZNMYEGaVjVYUtVbY5W3kDzivzMRGgGPgE7/nft.png",
+  "tokenId": 291,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #291",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Carmine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Knit Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Circle"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Bit Coin"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Pistol"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Red Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Western Hat"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Bat Demon"
+    }
+  ]
+}

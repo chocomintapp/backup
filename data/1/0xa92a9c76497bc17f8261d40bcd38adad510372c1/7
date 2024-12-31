@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXpEg1tYn5xsBN212uYR1bAS66mNAAaNFmRfTdENsy2QN/nft.png",
+  "nftContractAddress": "0xa92a9c76497bc17f8261d40bcd38adad510372c1",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "Petit_Ariana",
+  "description": "This is Ariana-chan.\n\nSpecial respect for the *FuChiMing* v2.\n(URL: https://opensea.io/collection/fuchimingv2)",
+  "attributes": [
+    {
+      "value": "purple",
+      "trait_type": "heir"
+    },
+    {
+      "value": "deer",
+      "trait_type": "animal"
+    },
+    {
+      "value": "winter",
+      "trait_type": "season "
+    }
+  ]
+}

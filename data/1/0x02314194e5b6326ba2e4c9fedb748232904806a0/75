@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZWAfCx87KZ5hzC3TLbCzdp6rvhNDntKEknfN6skvkbAe/nft.png",
+  "nftContractAddress": "0x02314194e5b6326ba2e4c9fedb748232904806a0",
+  "animationUrl": "",
+  "tokenId": 75,
+  "chainId": "1",
+  "name": "#004-浅縹[凪]",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "凪",
+      "trait_type": "属性"
+    }
+  ]
+}

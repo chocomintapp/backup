@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmezBLnjSYGxuL45RVgdA3H1pXJHmrqwfCveQH2scUCewU/nft.png",
+  "nftContractAddress": "0xd7a22292f15f5779cedf2f74a2683730f138310d",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "BTK#17",
+  "description": "世界中のビールを飲む旅に出かけていたけんちゃんは、日本に一時帰国しました。ちょうど季節は夏だったようです。夏と言えばお祭りの季節。打ち上げ花火を眺めながら、縁日を楽しんでいます。たまにはプラカップのビールもよいですね！\n\nKen-chan, who had been on a beer-drinking trip around the world, returned to Japan temporarily. It seems that the season was just summer. Summer is the season of festivals. We enjoy the fair while watching fireworks. It is good to drink beer in plastic cups once in a while!",
+  "attributes": [
+    {
+      "value": "Fireworks",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Pilsner",
+      "trait_type": "Beer Style"
+    },
+    {
+      "value": "Japan",
+      "trait_type": "Country"
+    },
+    {
+      "value": "Festival",
+      "trait_type": "Decoration"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Eye"
+    },
+    {
+      "value": "Plastic Cup",
+      "trait_type": "Glass"
+    },
+    {
+      "value": "More Open",
+      "trait_type": "Tongue"
+    }
+  ]
+}

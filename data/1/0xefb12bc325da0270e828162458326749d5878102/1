@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRhdUDWfHi8JUmo19AvyZ2jD3QQsiRbkD6WzeJZ8zsmT3/nft.png",
+  "tokenId": 1,
+  "description": "Our hero, dunk the world!",
+  "nftContractAddress": "0xefb12bc325da0270e828162458326749d5878102",
+  "animationUrl": "https://ipfs.io/ipfs/QmY4EkZaypgktF2ATSeVzsB5e7SfPL5wnVZK8EJ3s4PTva/nft.glb",
+  "chainId": "1",
+  "name": " Ballerbit #3 Ruis",
+  "attributes": [],
+  "minted": "✅"
+}

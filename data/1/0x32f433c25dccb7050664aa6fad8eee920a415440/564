@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVgSFzqLeksmuTM2L9PU2T37SEb1kFkiJTAb1t2JWcW38/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmTD1C7e1cqywAqfKVJBTHC5RV1UsGgM5nLJDuRxBL4XpN/nft.mp4",
+  "tokenId": 564,
+  "chainId": "1",
+  "name": "THE JEWEL #564",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Brown Gold K18",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

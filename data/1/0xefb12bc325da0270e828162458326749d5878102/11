@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdRbd3o21tNxPkYiWqoNJf3L9Drw7ctNqnnZYqiLwHiar/nft.png",
+  "nftContractAddress": "0xefb12bc325da0270e828162458326749d5878102",
+  "animationUrl": "https://ipfs.io/ipfs/QmPF3wXauNhKedUo78MENzPCxjFtEt9Vjz48vgKuuvwHsz/nft.glb",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "Ballerbit #92C Kobio&HIPHOP",
+  "description": "Let's play some cool HIPHOP on the BOOMBOX!!!!",
+  "attributes": []
+}

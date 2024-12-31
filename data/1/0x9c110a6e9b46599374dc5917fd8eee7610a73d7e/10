@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmai6yYTdNC8p2kw9BwkHgh81zedjAHWJPBeciP6Q2w2Ye/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "POCO_Maco",
+  "description": "Maco \"POCO Mocha\" Remake",
+  "attributes": [
+    {
+      "value": "POCO Remake",
+      "trait_type": "SERIES"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Friendly",
+      "trait_type": "PERSONALITY"
+    }
+  ],
+  "minted": "✅"
+}

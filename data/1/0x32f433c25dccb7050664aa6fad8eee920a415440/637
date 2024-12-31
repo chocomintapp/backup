@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeWfUmKLWH8wm7N6tyXDPLF7xqKJ5ZR9HuQ3C3Kfcwz9u/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmXrjXvKT2oRCpmS5wnaQAzut2m1Np9ga5RnZCtxyA8tZb/nft.mp4",
+  "tokenId": 637,
+  "chainId": "1",
+  "name": "THE JEWEL #637",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Black Pink Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Pink Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

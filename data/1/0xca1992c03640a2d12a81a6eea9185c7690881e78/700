@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf8CrYMVMXLBQswRQxvCzMH3HvWgJFtDnxCnrCtZni5tC/nft.png",
+  "tokenId": 700,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #700",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Peace"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Pink Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "French Fries"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Heart"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Blue Rose"
+    }
+  ]
+}

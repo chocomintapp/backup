@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeqDGLybCgGeb5QZBeiDhCu3Wbvvy8cHw8HAtVtyaLxuT/nft.jpg",
+  "nftContractAddress": "0x88b5881e91b1f5d4bbc793e542b964268560a5d1",
+  "animationUrl": "https://ipfs.io/ipfs/Qmf4DttRJG1X9xujjgtFs2jmMg1y9WE7cwinNLg6L9XPYy/nft.mp4",
+  "tokenId": 158,
+  "chainId": "1",
+  "name": "Crystal Ethereum Laboratory #158",
+  "description": "Crystal Ethereum Laboratory is a work produced by Eri Momoeda of Japan.\n\nThis eternally shining crystal consists of 999 items.\n\n※Generation Ⅴ \"TENKAI Genesis\"",
+  "attributes": [
+    {
+      "value": "Gen5",
+      "trait_type": "crystal generation"
+    }
+  ]
+}

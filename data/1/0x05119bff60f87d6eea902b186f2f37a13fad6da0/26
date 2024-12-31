@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP75cUbFZ54g9XWdqo4EtDViYozTYtF1rX1U2VpUoZud9/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "1",
+  "name": "POPET No.26",
+  "description": "【物語】\n\nこちらレッド。今日もこの街は平和です。\nみんなはどこにいっちゃったんだろう。",
+  "attributes": [
+    {
+      "value": "ヒーロー",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ダウンタウン",
+      "trait_type": "origin"
+    },
+    {
+      "value": "正義",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

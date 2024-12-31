@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmazF617KEt9PfWM99Dgc79Ned3ctyPpBYfVP8wfStgC66/nft.jpg",
+  "nftContractAddress": "0x88b5881e91b1f5d4bbc793e542b964268560a5d1",
+  "animationUrl": "https://ipfs.io/ipfs/QmUW6uwQVoxX1apu79ijynGW9YKyZKssCmpTDensGZXf1R/nft.mp4",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Crystal Ethereum Laboratory #006",
+  "description": "Crystal Ethereum Laboratory is a work produced by Eri Momoeda of Japan.",
+  "attributes": [
+    {
+      "value": "Genesis",
+      "trait_type": "crystal generation"
+    }
+  ]
+}

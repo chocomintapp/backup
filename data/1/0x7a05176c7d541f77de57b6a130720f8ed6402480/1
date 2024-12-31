@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXHWTccAeyyyp7ydfxocXNyWM9L7fWEPs9XFvPMMyT3uQ/nft.png",
+  "nftContractAddress": "0x7a05176c7d541f77de57b6a130720f8ed6402480",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc1sLrKCuwGfDudZ6SZ54qkLX6tGWyBx3pCEUm5Y1bkk8/nft.mp4",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "SchemeRetina #01",
+  "description": "SchemeRetina #01",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

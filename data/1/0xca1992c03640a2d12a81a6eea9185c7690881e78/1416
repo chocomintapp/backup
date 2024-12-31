@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYVjvVfumeBj7A9BnMp5mWUnQ1PWAQfeADPLK29MFScnK/nft.png",
+  "tokenId": 1416,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1416",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Ear Cuff"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Pacifier"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Baby Bottle"
+    }
+  ]
+}

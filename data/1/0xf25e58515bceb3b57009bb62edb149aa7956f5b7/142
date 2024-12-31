@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUAkhXaWwjUiHfzFiMAjWN4aG8VX4WhSL6Vke71tonjFY/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 142,
+  "chainId": "1",
+  "name": "ASKA",
+  "description": "■アスカ",
+  "attributes": [
+    {
+      "value": "Change places",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-USkyblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "BTC High School",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Orange",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

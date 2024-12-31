@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbEJVXEQ6DoxQLhvs5hUxYoWLjDjbMXh7kLu37CFTytvd/nft.gif",
+  "nftContractAddress": "0x6453c28073e4a5fb568a0df45429d2783f0984bc",
+  "animationUrl": "https://ipfs.io/ipfs/QmbEJVXEQ6DoxQLhvs5hUxYoWLjDjbMXh7kLu37CFTytvd/nft.gif",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "HuntingTrophy_Jack-o'-Lantern",
+  "description": "Defeated a swarm of monsters. Got the Jack-o'-Lantern Hunting Trophy. \n \nモンスターのむれをたおした。ジャック・オー・ランタンのハンティングトロフィーをてにいれた。  \n  \n**Charisma**: 6 of 25  \n**Intelligence**: 5 of 25  \n**Luck**: 20 of 25  \n**Power**: 5 of 25  \n**Speed**: 3 of 25",
+  "attributes": [
+    {
+      "value": "Spirit",
+      "trait_type": "DEPARTMENT"
+    },
+    {
+      "value": "Monsters Of Lore",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "fairy",
+      "trait_type": "STATUS"
+    }
+  ],
+  "minted": "✅"
+}

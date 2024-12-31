@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZXSCRf19pyxW1yH9reZeV8NT5hLMRkhr7NbfHQWJvVjX/nft.gif",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Working Ganmichan#32",
+  "description": "がんみちゃんは、今日も地球に降りかかる脅威を未然に防ぐのであった。\nToday, Ganmichan continues to prevent threats from befalling the earth.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "hero",
+      "trait_type": "situation"
+    }
+  ]
+}

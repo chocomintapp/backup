@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVzoBfCfy7HUqAeA7x85u6r8JB4KZCE7ByBG4dV1g9rMN/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "1",
+  "name": "POCOEMOJI_bero",
+  "description": "Marcela-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

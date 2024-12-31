@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmewENHhSYMAULL8TfXJDKADyUmmM1XajnB4N2vARH1xXP/nft.png",
+  "tokenId": 1935,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1935",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Cyber Eyes"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Apron"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Circle"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Ash Cat"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Officer Hat"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Bat Devil"
+    }
+  ]
+}

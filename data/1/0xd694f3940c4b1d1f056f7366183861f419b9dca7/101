@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcc6ZypciQ4ULXcHwyAcwiKXUo2Em39mq4JV2CAWYh53q/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 101,
+  "chainId": "1",
+  "name": "August 26 ヒマワリ（イタリアンホワイト）",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "26",
+      "trait_type": "日"
+    },
+    {
+      "value": "あなたを思い続けます",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ヒマワリ",
+      "trait_type": "花"
+    }
+  ]
+}

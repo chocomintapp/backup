@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQqs46b5S1WiBuqJpw1naXEeeuAmaQXq4FQVcnmtkW9Gw/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "1",
+  "name": "THS #074",
+  "description": "【想】",
+  "attributes": [
+    {
+      "value": "goldfish",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "tiger",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "iris buds",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

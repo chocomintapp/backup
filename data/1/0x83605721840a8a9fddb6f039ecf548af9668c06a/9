@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmewUuQPgjJLH9nsHnWKSjDehBfUd7AqQ3VE6sdtqYgw5T/nft.png",
+  "nftContractAddress": "0x83605721840a8a9fddb6f039ecf548af9668c06a",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "CryptoNinja #036",
+  "description": "036 - Oen",
+  "attributes": [
+    {
+      "value": "Koka - 甲賀",
+      "trait_type": "Clan"
+    },
+    {
+      "value": "Female",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Ito Myaku - 糸脈",
+      "trait_type": "Ninjutsu"
+    },
+    {
+      "value": "Japanese Portable Strage - 笈",
+      "trait_type": "Weapon"
+    }
+  ]
+}

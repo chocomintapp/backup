@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfAwg7NiCMThS2jG4V2evQEJcTynsZyupC4dLkxtYSGGV/nft.jpg",
+  "nftContractAddress": "0xc2b27dae83be44233fd522047a471637545231ac",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "Crypto\"WAFUKU\" #031",
+  "description": "031\n\nShe's embarrassed.",
+  "attributes": [
+    {
+      "value": "ツートン - twotone",
+      "trait_type": "accessory"
+    },
+    {
+      "value": "娘 - human",
+      "trait_type": "character"
+    },
+    {
+      "value": "original",
+      "trait_type": "originality"
+    },
+    {
+      "value": "流し目 - flirtatious glance",
+      "trait_type": "individuality"
+    },
+    {
+      "value": "黒留袖 - kurotomesode",
+      "trait_type": "wafuku"
+    }
+  ]
+}

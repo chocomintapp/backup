@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY9Suy881REpXfdG6sbEQdpmwNNduS3X8Ja2BH1mGQuVQ/nft.png",
+  "nftContractAddress": "0xa91588083acf89d21e3ff1c7a52aaca4304d59e7",
+  "animationUrl": "https://ipfs.io/ipfs/QmY9Suy881REpXfdG6sbEQdpmwNNduS3X8Ja2BH1mGQuVQ/nft.png",
+  "tokenId": 51,
+  "chainId": "1",
+  "name": "Paper #51",
+  "description": "Paper #51 was birth on April 9, 2022.\n\nSuddenly one day, a meteorite fell on the house of a revolutionary. Inside the meteorite was a piece of paper, and while the revolutionary was playing with origami, Paper Revin was born. Inspired by its unique shape, the revolutionary decided to create the \"I Am Paper\" NFT collection, which is stored semi-permanently on the Ethereum blockchain and offered worldwide as an NFT employing the standard ERC-720.",
+  "attributes": [
+    {
+      "value": "Rainbow",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Stripes",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Eyepatch",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Flower",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Wing",
+      "trait_type": "Special"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmadQW1XDwn5YiQK9SNYpYHbYYTyCTN6oDCx2TnexDh5Pb/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 461,
+  "chainId": "1",
+  "name": "HIYORI",
+  "description": "■ヒヨリ\nSSPファンアート",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Egreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-DeepBlue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Blue-SSP",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Mirakomask",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Blue-SSP",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

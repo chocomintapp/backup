@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV2NnHT9MdniCVEWUdFptgds8UfKbyTss5LZepRtbnZU6/nft.png",
+  "tokenId": 12,
+  "description": "Hello. I am Sato Tanaka. #0011",
+  "nftContractAddress": "0xaca13a43a412eb5cc9b065607a2ef32b8c1b2a32",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "I am Sato Tanaka #0011",
+  "attributes": [
+    {
+      "trait_type": "I am",
+      "value": "#0011"
+    },
+    {
+      "trait_type": "CATEGORY",
+      "value": "Animal"
+    },
+    {
+      "trait_type": "ANIMAL",
+      "value": "NEKO_NEKO_CAT"
+    },
+    {
+      "trait_type": "ITEM",
+      "value": "The SANMA"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Yellow"
+    }
+  ]
+}

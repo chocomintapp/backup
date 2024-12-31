@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVo36ee4874JSoZqgw6bznSdQoq15xZ8992yW77cSrQwp/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "1",
+  "name": "#032-Shimane-",
+  "description": "#032-Shimane-",
+  "attributes": [
+    {
+      "value": "Gaia",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Chugoku",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Shimane",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

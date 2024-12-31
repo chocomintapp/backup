@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd5cLCEoXqBcYrhbY89vBNGsVoQboUatmTw2oLYe5Hp8J/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 223,
+  "chainId": "1",
+  "name": "December 26 ポインセチア",
+  "description": "",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "26",
+      "trait_type": "日"
+    },
+    {
+      "value": "私の心は燃えている",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ポインセチア",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

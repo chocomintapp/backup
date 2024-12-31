@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdfBAi74R7dMZs4MdiP7h5ixn4uAmhoyn39S4WBWM9d9E/nft.png",
+  "tokenId": 5,
+  "description": "",
+  "nftContractAddress": "0x7e21f24a0253d67aa54d1ce0a12203f51dbd6ff3",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Punk Monkeys #5",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Zombie"
+    }
+  ]
+}

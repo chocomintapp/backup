@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRJjb8wEmoZqy3Zqqpn6LZwk1nwTiZx4QG11Bezn8iCrC/nft.png",
+  "tokenId": 1102,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1102",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Scarlet"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Rhombus"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cookie"
+    }
+  ]
+}

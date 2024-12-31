@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbgSaD32RjCfBMrEWJdftWLqrQ4GEkk7t1oPzPxwenGMq/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "POPET No.1",
+  "description": "【物語】\n\n青春を謳歌するダンは\n希望に溢れる10代。\n毎日が楽しい思春期は\nまわりが見えなくなるもの。\n今日もいつもの場所に\n集まらなくちゃ。",
+  "attributes": [
+    {
+      "value": "ティーンエージャー",
+      "trait_type": "job"
+    },
+    {
+      "value": "アイディアマン",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ダウンタウン",
+      "trait_type": "origin"
+    },
+    {
+      "value": "好奇心",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

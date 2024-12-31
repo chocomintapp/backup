@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcEzrdGVNB5H8EbFq6N8iSgrx7Anv4aSc2LJJEetwDbNN/nft.png",
+  "tokenId": 70,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #70",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Carmine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Rhombus"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Frappuccino"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Blue Cat Ears"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Siamese Cat"
+    }
+  ]
+}

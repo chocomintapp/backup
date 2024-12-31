@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSGAqcTwGfSvGp7e5wGLuo3HA5NxedN7TrP2zfksaEDqX/nft.png",
+  "nftContractAddress": "0x1d02e4efc98904ac41316717fda437ab959f8b6d",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Monsters #3",
+  "description": "Digital illustration and AI Generated.\n\nMonster, Female, Woman, Cute, Art, Drawing,",
+  "attributes": [
+    {
+      "value": "Yellow",
+      "trait_type": "Monster Color"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdn81yXsQpxwHVkGeeMKXvYUtX8qDAJnhNExmfP2mkSFL/nft.png",
+  "tokenId": 1181,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1181",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Knit Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Taupe Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Smartphone"
+    }
+  ]
+}

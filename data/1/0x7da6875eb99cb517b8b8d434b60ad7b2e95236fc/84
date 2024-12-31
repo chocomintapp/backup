@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcDCbVKgoaxmVPx9t3tEtpbPEukb2ya3WCKxk8ccEB2qy/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 84,
+  "chainId": "1",
+  "name": "KAIKA #84",
+  "description": "",
+  "attributes": [
+    {
+      "value": "laser",
+      "trait_type": "energy"
+    },
+    {
+      "value": "freckles",
+      "trait_type": "extra"
+    },
+    {
+      "value": "foxy",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "red",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "bowl",
+      "trait_type": "hair"
+    },
+    {
+      "value": "black",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "lip bite",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "dark",
+      "trait_type": "skin tone"
+    }
+  ]
+}

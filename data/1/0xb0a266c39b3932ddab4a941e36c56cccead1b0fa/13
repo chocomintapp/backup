@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQXFi6HyKSyVuXxxuamRgp3K3Y7VgrtaQKkZxbqsU8bX2/nft.jpg",
+  "tokenId": 13,
+  "description": "有田焼-ブラウス\n\n佐賀県有田町を中心に焼かれる磁器で、表現方法は時代とともに進化しています。\n\n今回は、有田焼初期の染付を服で表現しており、藍色の絵は手書きです。\n\nArita porcelain - Blouse\n\nArita-yaki porcelain is fired mainly in the town of Arita, Saga Prefecture, and the method of expression has evolved over time.\n\nThis time, I am expressing the dyeing technique of the early days of Aritayaki-yaki in clothing, and the indigo color painting is hand-drawn.",
+  "nftContractAddress": "0xb0a266c39b3932ddab4a941e36c56cccead1b0fa",
+  "animationUrl": "https://ipfs.io/ipfs/QmPcgoCAPQqHE6MPnnTJZdQpbmC2512CjrGfg8oUY3CFME/nft.glb",
+  "chainId": "1",
+  "name": "PRESS POTTERY Arita",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

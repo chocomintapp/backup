@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNmkZWez9tABUMvwmKY3CKvSmLms6qC3HDUo85fv4tZfP/nft.png",
+  "nftContractAddress": "0xcc3d1d61934ca3470c25bd6c18ae5be72806870a",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "#011 好き/ハート",
+  "description": "",
+  "attributes": [
+    {
+      "value": "感情",
+      "trait_type": "Category"
+    },
+    {
+      "value": "吹き出し",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma2R7hoWZKxCXP3P8xkn7bzqmrBXcMg9mfVVtotarReSU/nft.png",
+  "nftContractAddress": "0x3edc2579f668ba936471224388bedba291da94b0",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "#213",
+  "description": "このNFTはNMO（NFT Marketing Orchestra）コミュニティ参加権となっています。\n\nThis NFT is the right to participate in the NMO (NFT Marketing Orchestra) community.\n",
+  "attributes": [
+    {
+      "value": "バイオリン-Violin",
+      "trait_type": "楽器-instrument"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTwrfNENeZAuD3FHfQyYvnuHzvZZGbGTF6V5FqARN18Wd/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 128,
+  "chainId": "1",
+  "name": "September 22 アイビーゼラニウム",
+  "description": "",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "22",
+      "trait_type": "日"
+    },
+    {
+      "value": "新しいチャレンジ",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ゼラニウム",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

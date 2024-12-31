@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUC7fyvPjp7Qkxy136Mh7VaAN6fb8XRXR3QFVqHTXEPAd/nft.jpg",
+  "nftContractAddress": "0xc2b27dae83be44233fd522047a471637545231ac",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Crypto\"WAFUKU\" #027",
+  "description": "027\n\nShe enjoys the festival.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "family circle - 団扇",
+      "trait_type": "accessory"
+    },
+    {
+      "value": "human - 娘",
+      "trait_type": "character"
+    },
+    {
+      "value": "original",
+      "trait_type": "originality"
+    },
+    {
+      "value": "festival - 祭",
+      "trait_type": "individuality"
+    },
+    {
+      "value": "happhi - 法被",
+      "trait_type": "wafuku"
+    }
+  ]
+}

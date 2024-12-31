@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmadjCh9abP6FwMPP6u2PoRPf1dJ5hEjQ76GcwztyC3zqi/nft.png",
+  "nftContractAddress": "0x67036ec5d8e0ecf8a26388e73b2946c798a70f3b",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Girl in Chinese Dress",
+  "description": "It is an image of a sexy and cute girl in a white Chinese dress.\nThe tool used is Stable Diffusion.",
+  "attributes": []
+}

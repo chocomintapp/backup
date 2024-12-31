@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS4YgkyyBZPMy5dbbn7ac67SaCBTWERyB8KuCdKxKwMQY/nft.GIF",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "1",
+  "name": "Working Ganmichan#46",
+  "description": "雨の日も風の日もわんこと一緒",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "extreme weather",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": ""
+}

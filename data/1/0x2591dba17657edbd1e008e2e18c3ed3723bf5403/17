@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRW9sr1JKofC1iePyg24dipqm4nJUUJeK2B5DFchTmcsG/nft.png",
+  "nftContractAddress": "0x2591dba17657edbd1e008e2e18c3ed3723bf5403",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "Fungi Girl #13",
+  "description": "Mushroom, Female, Fungi Girl, Cute, AI Art, AI Drawing",
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "Colors"
+    },
+    {
+      "value": "Forest",
+      "trait_type": "Background type"
+    }
+  ]
+}

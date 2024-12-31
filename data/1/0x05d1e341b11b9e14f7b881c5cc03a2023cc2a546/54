@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmehZFxunN5Vz8s9XyY6txXzDuGitLPVL1X4UseQ8QShib/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmTKoXsU4HfshMjznngLAm7Uw9QhZzjWx31cVVsYQ4nraj/nft.mp4",
+  "tokenId": 54,
+  "chainId": "1",
+  "name": "Alek #054",
+  "description": "Alek  \n幾何学的でカラフルな物体が好き  \nHe likes geometric and colorful objects.",
+  "attributes": [
+    {
+      "value": "Construct",
+      "trait_type": "TYPE"
+    }
+  ]
+}

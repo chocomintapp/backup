@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUsMoAB1YGNfHQjAXa4xWz5Ejfc12FN4eFgD1zktyBuCT/nft.jpg",
+  "nftContractAddress": "0xb7aa2ffc401b1980376f7abc03f76bc41ef6f87b",
+  "animationUrl": "https://ipfs.io/ipfs/QmUsMoAB1YGNfHQjAXa4xWz5Ejfc12FN4eFgD1zktyBuCT/nft.jpg",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Trust own Eyes",
+  "description": "私が見える？\n碁盤に宿っている霊は誰…？",
+  "attributes": [],
+  "minted": "✅"
+}

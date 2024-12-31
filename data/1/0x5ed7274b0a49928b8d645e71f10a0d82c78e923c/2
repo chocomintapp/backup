@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSUrg6Fxj39UmAGGP9guh9TqezPCyRPXzhGeGeVxfBpoE/nft.png",
+  "tokenId": 2,
+  "description": "Shadow Dragon.",
+  "nftContractAddress": "0x5ed7274b0a49928b8d645e71f10a0d82c78e923c",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Shadow Dragon of the End",
+  "attributes": []
+}

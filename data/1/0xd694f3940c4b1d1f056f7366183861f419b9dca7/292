@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPnVhSL9APTw9mFkw22CNp4NngZiras6m3yKbbczKfHKX/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 292,
+  "chainId": "1",
+  "name": "March 4 アザミ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "月"
+    },
+    {
+      "value": "4",
+      "trait_type": "日"
+    },
+    {
+      "value": "独立",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "アザミ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

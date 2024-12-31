@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVhstmmFRdGHkC7LiFNNjEWhQFxt6EEiN7FRpTFpxG3dX/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmVki3rj852kLqrRpXm1Pi9h8k18rTR5x3gXZp4yJ3Mnt2/nft.mp4",
+  "tokenId": 283,
+  "chainId": "1",
+  "name": "THE JEWEL #283",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Black Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

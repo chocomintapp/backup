@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTuy4qsFXayWwxZjtE7KmrGftRHzVQpQhPXCHJZcgBKVW/nft.gif",
+  "nftContractAddress": "0x6453c28073e4a5fb568a0df45429d2783f0984bc",
+  "animationUrl": "https://ipfs.io/ipfs/QmTuy4qsFXayWwxZjtE7KmrGftRHzVQpQhPXCHJZcgBKVW/nft.gif",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "HuntingTrophy_Flatwoods Monster",
+  "description": "Defeated a swarm of monsters. Got the Flatwoods Monster Hunting Trophy. \n \nモンスターのむれをたおした。フラットウッズモンスターのハンティングトロフィーをてにいれた。  \n  \n**Charisma**: 14 of 25  \n**Intelligence**: 4 of 25  \n**Luck**: 10 of 25  \n**Power**: 8 of 25  \n**Speed**: 8 of 25",
+  "attributes": [
+    {
+      "value": "Subhuman",
+      "trait_type": "DEPARTMENT"
+    },
+    {
+      "value": "Modern and contemporary m",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "UMA",
+      "trait_type": "STATUS"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYrihzF3WJeCXNQkETWBotAZJgSS4ore5AX6wqrLT68oH/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmecTJbpZ2mquJuDS4xzZF9MN8guH8Cpv5bKwJ1rXDLn91/nft.mp4",
+  "tokenId": 60,
+  "chainId": "1",
+  "name": "Riso #060",
+  "description": "Riso  \nLike_a_RISOGRAPH collection に擬態している  \nMimicking the Like_a_RISOGRAPH collection",
+  "attributes": [
+    {
+      "value": "Ayumi",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Like_a_RISOGRAPH",
+      "trait_type": "MIMIC"
+    },
+    {
+      "value": "Mimi",
+      "trait_type": "VOICE"
+    },
+    {
+      "value": "Three-Eyes",
+      "trait_type": "EYE"
+    }
+  ]
+}

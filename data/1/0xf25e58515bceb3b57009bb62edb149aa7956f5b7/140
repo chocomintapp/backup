@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUg1WQVgkTWS5JYYBP2xxnLL6EMdH3fQdATFx3iCUTssC/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 140,
+  "chainId": "1",
+  "name": "MACHI",
+  "description": "■マチ",
+  "attributes": [
+    {
+      "value": "Left side of the heavens",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-UPink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-Pink",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Green",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "RareLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Pink",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

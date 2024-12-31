@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcC1YaKP834HwKRjyfD9UgskahoWMn9LMhkwzmAZo58zr/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "1",
+  "name": "MAGGIE",
+  "description": "MAGGIE is the winner of the 108th National Sunfish Catching Competition.\n\nShe was killed in an accident before the 109th tournament, but she was resurrected as a zombie and is still competing in the sunfish catching tournament.\n\nSince becoming a zombie, she has been unable to move very quickly and has lost every qualifying round.\n\nBy the way, she is allergic to saury.\n■マギー\nマギーは第108回、全国サンマ獲り大会の優勝者。\n\n109回の大会の前に彼女は事故で一度死んでしまったが、ゾンビとして復活し、今もサンマ獲り大会に出場している。\n\nゾンビになってからというもの、あまり素早く動くことができず、毎回予選敗退している。\n\nちなみにサンマアレルギー",
+  "attributes": [
+    {
+      "value": "River",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smiling-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Lightred",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-Zombiepink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-W",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Cat-Red",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Red",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

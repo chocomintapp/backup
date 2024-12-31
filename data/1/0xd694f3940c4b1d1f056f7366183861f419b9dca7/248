@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcFU9uATnTgw1m9UcXxpPxA3U7vQYtht5AQUMDms9wPGU/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 248,
+  "chainId": "1",
+  "name": "January20 リカステ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "月"
+    },
+    {
+      "value": "20",
+      "trait_type": "日"
+    },
+    {
+      "value": "汚れなき人",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "リカステ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZskKE1qqCphAP8bxbqwds3Bpjsv6tWeHhq4m7BxG3WtE/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 331,
+  "chainId": "1",
+  "name": "April 12 ポピー",
+  "description": "",
+  "attributes": [
+    {
+      "value": "4",
+      "trait_type": "月"
+    },
+    {
+      "value": "12",
+      "trait_type": "日"
+    },
+    {
+      "value": "デリケートな美",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ポピー",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

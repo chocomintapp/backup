@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSoYGZaBLyFur97mfR4fGDdEp8kPoBsYtdvFBLQrCAkU2/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 422,
+  "chainId": "1",
+  "name": "SUZURI",
+  "description": "■スズリ",
+  "attributes": [
+    {
+      "value": "Deep-Orange",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "AnisuHair(Mix)",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-B",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Toypoodle2-Italian greyhound",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

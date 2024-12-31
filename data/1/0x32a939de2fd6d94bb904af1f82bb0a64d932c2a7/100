@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmULrbGsF21P5tFDH9jsVmKNGgVw3Cb9NByeF8EVPY4TEo/nft.png",
+  "nftContractAddress": "0x32a939de2fd6d94bb904af1f82bb0a64d932c2a7",
+  "animationUrl": "https://ipfs.io/ipfs/QmYhqitcKCqDYTV98MdzeXhJKrEs2rLny67gaNcWhNvJN1/nft.mp4",
+  "tokenId": 100,
+  "chainId": "1",
+  "name": "ATUM #071",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SKY ANTHONY1",
+      "trait_type": "Type"
+    },
+    {
+      "value": "GORILLA PATTERN",
+      "trait_type": "Color"
+    }
+  ]
+}

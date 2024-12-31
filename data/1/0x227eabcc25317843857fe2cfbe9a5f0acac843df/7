@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbUxdhq1oQwfJF5RuTSE3LBfFmpy8r2QAQMRhMxHPvy2V/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "Beach Borne Bae #35",
+  "description": "Beach Borne Bae #35\nInspired by Blackfin seabass / ヒラスズキ",
+  "attributes": [
+    {
+      "value": "Medium",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Tank Top",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

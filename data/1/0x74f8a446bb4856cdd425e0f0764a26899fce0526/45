@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWNF6ypcy5LGqhLLSmAbbF613XupMi9tH8eHgQkKwia3Y/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 45,
+  "chainId": "1",
+  "name": "POCOEMOJI_gyaa",
+  "description": "偸視ちゃん/Toshi-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    },
+    {
+      "value": "Scala",
+      "trait_type": "SERIES"
+    }
+  ]
+}

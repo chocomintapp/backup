@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY6MAsKv7Xfa24wB2T1XHcDjctPvwpenG2ECcdq4cmZsB/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmda5NF8rCA2z66UFsFDeLXyt1y2XH27Q8oVC9dmPxDSvd/nft.mp4",
+  "tokenId": 500,
+  "chainId": "1",
+  "name": "THE JEWEL #500",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Precious Gold",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Hyper Rhodium",
+      "trait_type": "Control device"
+    }
+  ]
+}

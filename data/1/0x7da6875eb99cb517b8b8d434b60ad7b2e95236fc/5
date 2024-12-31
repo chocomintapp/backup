@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYwkB3iDK3zCwCnoFbamvFUNowZh1Fgjy9hBr9Xrh4EQB/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "KAIKA #6",
+  "description": "",
+  "attributes": [
+    {
+      "value": "stone",
+      "trait_type": "energy"
+    },
+    {
+      "value": "none",
+      "trait_type": "extra"
+    },
+    {
+      "value": "almond",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "brown",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "bob",
+      "trait_type": "hair"
+    },
+    {
+      "value": "orange",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "smooch",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "light",
+      "trait_type": "skin tone"
+    }
+  ]
+}

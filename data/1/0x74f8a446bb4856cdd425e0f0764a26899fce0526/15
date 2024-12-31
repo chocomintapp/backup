@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQg7dCL7WScPbjLKoWnMQT6Yxn8R4FNKfMTXNA64fPeiq/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "POCOEMOJI_ehehe",
+  "description": "Daphne-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

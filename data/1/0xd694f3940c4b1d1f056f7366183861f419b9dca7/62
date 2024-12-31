@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYfFGvh2yNgjCSYoVURpn95XVvSkUJNveFbvjvTpECii5/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 62,
+  "chainId": "1",
+  "name": "July 18 ザクロ（実）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "7",
+      "trait_type": "月"
+    },
+    {
+      "value": "18",
+      "trait_type": "日"
+    },
+    {
+      "value": "希望の成就",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ザクロ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

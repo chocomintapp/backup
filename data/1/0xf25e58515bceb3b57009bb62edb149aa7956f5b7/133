@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaVVQdazofdRfok9QgTHCGP3P45EkuQ3tgg2Hkx4wJayC/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 133,
+  "chainId": "1",
+  "name": "AIDA",
+  "description": "■アイーダ",
+  "attributes": [
+    {
+      "value": "Demon World Entrance2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Duckstyle-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Wide-Void",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Redwhite",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "RedLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Duck Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

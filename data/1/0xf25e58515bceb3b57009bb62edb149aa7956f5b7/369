@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaWtVXk8gEvtNrm2MSJPNambRDQreMLtY53k1D9Yq9sxn/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 369,
+  "chainId": "1",
+  "name": "NANOBIO",
+  "description": "■ナオビオ",
+  "attributes": [
+    {
+      "value": "Hydrangea2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks2",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Spring",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Brown",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Round glasses-red Shining right",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Orochi-drunk",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Silver",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

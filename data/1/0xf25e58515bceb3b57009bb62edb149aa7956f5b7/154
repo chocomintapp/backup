@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbhEEQV3oY3ijvJofHCkg6tsK66FpHdpVMG55MsQnni1U/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 154,
+  "chainId": "1",
+  "name": "KANA",
+  "description": "■カナ",
+  "attributes": [
+    {
+      "value": "Deep-Blue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Lightred",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Scornful-Lightblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Autumn",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Angel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Ribon-PiYe",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

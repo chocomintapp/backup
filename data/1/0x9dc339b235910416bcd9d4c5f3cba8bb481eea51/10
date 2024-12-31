@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmahEWShf9qzZcxs9FSHx6TPr1xnLSu7JqyouwdnYmGUMg/nft.gif",
+  "nftContractAddress": "0x9dc339b235910416bcd9d4c5f3cba8bb481eea51",
+  "animationUrl": "https://ipfs.io/ipfs/QmahEWShf9qzZcxs9FSHx6TPr1xnLSu7JqyouwdnYmGUMg/nft.gif",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "#010 Class2-A Haruka Miyano",
+  "description": "Her earbuds are always leaking rock music.  \n------------------    \n彼女のイヤホンからは、いつもロックミュージックが爆音で漏れています。",
+  "attributes": [
+    {
+      "value": "Izumo High School",
+      "trait_type": "School"
+    },
+    {
+      "value": "Class 2-A",
+      "trait_type": "Grade"
+    },
+    {
+      "value": "band club",
+      "trait_type": "Role"
+    }
+  ]
+}

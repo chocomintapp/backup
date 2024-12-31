@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme6G8ux2Ej6Eq3rQwwiqRd98ychiz25x5JnbV9S4evrNw/nft.png",
+  "nftContractAddress": "0x56ee4ce1f0bd75aa977148f5593bd771eb34d4e4",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Pineapple",
+  "description": "私に季節は関係ないのだ！！\nいつでもどこでも南国気分を味わえる、さわやかなパイナップルはいかが？？\nむぎゅっと果実感…一度食べたらとまらなーいっ\nいっぱい食べて笑顔になってね♡\n\nおいしいものを食べてみんなで笑顔に！！",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "fruit"
+    }
+  ]
+}

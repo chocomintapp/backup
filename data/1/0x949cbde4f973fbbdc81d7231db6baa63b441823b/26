@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdZz82kAK1xT1xrChkmxhJP1L5XefSAS2e6Ms9eC1KBpw/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "1",
+  "name": "HA #26",
+  "description": "",
+  "attributes": [
+    {
+      "value": "A",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "H",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "A",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "ha",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

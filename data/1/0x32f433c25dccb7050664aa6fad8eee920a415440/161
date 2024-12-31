@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmavuNpZzpCh1nFzjAbq9t6P5Usod6NUDCiVX7aDXYuUPN/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmdaErXhnYhESZiMtQmHY97ji5YF5TccBz4BiZfNRNzy33/nft.mp4",
+  "tokenId": 161,
+  "chainId": "1",
+  "name": "THE JEWEL #161",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Kalkansite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Control device"
+    }
+  ]
+}

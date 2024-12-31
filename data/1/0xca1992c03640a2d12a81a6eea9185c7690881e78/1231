@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTsoY5fw3kv5VTUR2WBMERGgt2QinpTFL3LTmxWmz5kAL/nft.png",
+  "tokenId": 1231,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1231",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Wild Green"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Summer Kimono"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Circle"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Item",
+      "value": "French Fries"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Glasses"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Golden Cat"
+    }
+  ]
+}

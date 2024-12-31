@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRDjr2ghysrsKmT5uWZqDdgUjH2JVoeZj48shjkAmAmfz/nft.png",
+  "tokenId": 942,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #942",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Curly Pixie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tube Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Tassel"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Flower Lei"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Round"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcH67nGzSd5BrpzPFgL5fszxrhggAGFL9VbWa3RM4rECB/nft.GIF",
+  "nftContractAddress": "0x4812bbeec5e1cd2006554bd0bfa4c941bf131e3a",
+  "animationUrl": "https://ipfs.io/ipfs/QmcH67nGzSd5BrpzPFgL5fszxrhggAGFL9VbWa3RM4rECB/nft.GIF",
+  "tokenId": 57,
+  "chainId": "1",
+  "name": "BE KOBE NFT 1st collection #57",
+  "description": "BE KOBE NFT 1st collection\n\n神戸の魅力は人であり、人とのつながりを大切に、人のために力を尽くし、新しいことに挑み続ける人や気持ちを愛するという神戸市のメッセージ「BE KOBE」などをモチーフにした作品。\n神戸ゆかりのNFTアーティスト 「Kawaii SKULL」さんと今回のNFTを制作。\n\n【BE KOBE NFT 公式サイト】\nhttps://0x78.jp/",
+  "attributes": [
+    {
+      "value": "Kawaii SKULL",
+      "trait_type": "Creator"
+    },
+    {
+      "value": "Hydrangea",
+      "trait_type": "Monument"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background color"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRXQxaoaKnHBJ8G9XEL52fK3NFyAFcJZ4zXJcfVbj7RuT/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 414,
+  "chainId": "1",
+  "name": "BRENDA",
+  "description": "■ブレンダ",
+  "attributes": [
+    {
+      "value": "Entrance Heavenly",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "licking one's lips",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Graypink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Maid robot(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Luna-panda",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

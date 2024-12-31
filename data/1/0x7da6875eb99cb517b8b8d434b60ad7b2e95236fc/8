@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTkwRbfg7oMLHRuu9zot74mvAZnQsXUE63y7aFeANpHZ5/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "KAIKA #9",
+  "description": "",
+  "attributes": [
+    {
+      "value": "dark",
+      "trait_type": "energy"
+    },
+    {
+      "value": "fissure",
+      "trait_type": "extra"
+    },
+    {
+      "value": "droopy",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "blue",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "buzz cut",
+      "trait_type": "hair"
+    },
+    {
+      "value": "black",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "open smile",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "dark",
+      "trait_type": "skin tone"
+    }
+  ]
+}

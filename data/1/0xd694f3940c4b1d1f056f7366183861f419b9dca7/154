@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNvCtUAZwRpemkMk5i58JdxkyPPo9ArTKYDCtdNMNaY7L/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 154,
+  "chainId": "1",
+  "name": "October 18 モミジ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "月"
+    },
+    {
+      "value": "18",
+      "trait_type": "日"
+    },
+    {
+      "value": "寡黙",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "モミジ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

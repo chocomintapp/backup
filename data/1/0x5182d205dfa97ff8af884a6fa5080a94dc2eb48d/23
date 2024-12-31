@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTrn8kSktdfjkqXNrFeg1b9p7VApavrV3P6a9tnqHLFan/nft.gif",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "Working Ganmichan #42",
+  "description": "究極の脱力を手にしたがんみちゃん！\nその辺のモンスターでは一瞬だ！\nGanmichan's got the ultimate in deflating!\nShe can take down any monster in the area in an instant!",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "fighter",
+      "trait_type": "situation"
+    }
+  ]
+}

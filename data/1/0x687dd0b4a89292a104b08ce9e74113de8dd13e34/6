@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQBze8LppAYobq6kiVDEUNXoc6JAwkPsFg9K9CM3cTDBK/nft.jpg",
+  "nftContractAddress": "0x687dd0b4a89292a104b08ce9e74113de8dd13e34",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Alpaca Go Go #6 Japan",
+  "description": "A shy alpaca wants to be a deer in Nara, Japan. Nara is know as the terminus of the Silk Road and Shosoin, lots of culture everywhere!\n\n---\n\n#Alpaca Go Go\nI am a shy alpaca who want to be someone else. I’m traveling around the world to change my mind & clothes!",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": "LOCATION"
+    },
+    {
+      "value": "Beige",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Good",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Haired",
+      "trait_type": "TOP"
+    },
+    {
+      "value": "Vest",
+      "trait_type": "SHIRT"
+    },
+    {
+      "value": "Antlers",
+      "trait_type": "ACCESSORY"
+    },
+    {
+      "value": "Lavender",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

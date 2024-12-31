@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbpxCKHW6ndqLHRupedCcNud9jgeZrarLVwD8wHX2rA9u/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "THS #048",
+  "description": "【知】",
+  "attributes": [
+    {
+      "value": "pine tree",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "eel",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

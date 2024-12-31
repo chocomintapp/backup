@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaSQrcvYo4VprnJpPzKgGkYJ1piX6PUeDNCfRLx1Hh9dY/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "1",
+  "name": "THS #078",
+  "description": "【無】",
+  "attributes": [
+    {
+      "value": "peacock feather",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "goldfish",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "fern leaf",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

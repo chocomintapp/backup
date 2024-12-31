@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRKkVpn8vbEEdQTY2Hnxr7D8R9wdJtDphdQ1Wx8y8vQSo/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmNeNXTvg3sfgnwM9fzTGdnyfzew5absVLRj9vYn4n1KMx/nft.mp4",
+  "tokenId": 681,
+  "chainId": "1",
+  "name": "THE JEWEL #681",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Mint Garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Patina Iron",
+      "trait_type": "Control device"
+    }
+  ]
+}

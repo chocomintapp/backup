@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZNAuhfApx1HgMfLuLw5Kwc7abd9ATALEzhC2P3h2wuhk/nft.png",
+  "tokenId": 1418,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1418",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Wild Green"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cardigan"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Tassel"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Silver Top Heart"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Pistol"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Blue Bunny"
+    }
+  ]
+}

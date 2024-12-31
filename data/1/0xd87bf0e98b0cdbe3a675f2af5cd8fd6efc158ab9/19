@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPRA7YP4KBZWSBrQZY7x9M7rH5GPrzg9qzY3d3KQ25Px9/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "THS #054",
+  "description": "【識】",
+  "attributes": [
+    {
+      "value": "dragon",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "eel",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "frog",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "winter cherry",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

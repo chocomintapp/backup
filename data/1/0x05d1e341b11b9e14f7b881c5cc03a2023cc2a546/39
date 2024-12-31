@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma4Tg9amFoe96vbLcDoiEGmeB4KxSNxGse6EsKYCfu9QT/nft.gif",
+  "tokenId": 39,
+  "description": "Water  \n006と018から産まれた新しいMIMI  \nNew MIMI spawned from 006 and 018",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmYjXbRJ12BsbokMSQvFxK3358RNtVMLuE3eMhyXMaNjwK/nft.mp4",
+  "chainId": "1",
+  "name": "Water #039",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Creator"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS12b18HAH7euShiR8zEiaYqQuxwnuSgR1xKpFvLMhk5z/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 358,
+  "chainId": "1",
+  "name": "RUPINNA",
+  "description": "■ルパンナ",
+  "attributes": [
+    {
+      "value": "deep in the countryside3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Darkblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sunglass-B2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-BBB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Money",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Cap-Black",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRPG8UGs3MTmZosvnJsK5F8XWVDQgL5LswfNPaVLZdC1t/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 371,
+  "chainId": "1",
+  "name": "October 19 キク（白）Ver.2",
+  "description": "",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "月"
+    },
+    {
+      "value": "19",
+      "trait_type": "日"
+    },
+    {
+      "value": "真実を求める",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "キク",
+      "trait_type": "花"
+    },
+    {
+      "value": "2",
+      "trait_type": "Ver"
+    }
+  ],
+  "minted": "✅"
+}

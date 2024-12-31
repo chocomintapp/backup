@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNiH7Fh1WYQEXKqF6E4bjNvJ1gnfNYMcJ6xXyYAkMYLfR/nft.png",
+  "nftContractAddress": "0xb6c9a67b46c865d7a36e8189ef87115dcf2979ad",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "susheep_fatty tuna",
+  "description": "This gourmet pixie character is a combination of sushi and sheep.\nThe body design changes according to the sushi ingredients.\nThe face is kabuki actor's makeup. The color is the color of soy sauce.\nThe body is sushi vinegared rice.\nThe background design is a pattern reminiscent of the wide ocean, meaning a pattern of endless waves. It will be a good omen for Japan.",
+  "attributes": [
+    {
+      "value": "fatty tuna",
+      "trait_type": "TASTE"
+    },
+    {
+      "value": "kabuki makeup_soy sauce",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "waves of japan_seigaiha",
+      "trait_type": "BACKGROUND"
+    }
+  ],
+  "minted": "✅"
+}

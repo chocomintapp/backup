@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdi9kXbEP8jZNHGZVdRHC66ndKzKxYsYdjbFx8w6NBufr/nft.png",
+  "nftContractAddress": "0xca6aec18e85c23583d98ae65f78080fcedb046a4",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "1",
+  "name": "037 One-side Lovers : Series02-Beach [Beach Cruiser]",
+  "description": "■Fukuyoshi Rokka's Artwork collection \n\"One-side Lovers”\nSeries02-Beach\n\n福吉ロッカのアートワークコレクション\n「One-side Lovers」\nシリーズ２-Beach",
+  "attributes": [
+    {
+      "value": "Beach",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "Hair-color"
+    },
+    {
+      "value": "Short hair",
+      "trait_type": "Hair-style"
+    },
+    {
+      "value": "Cola/Beach Cruiser",
+      "trait_type": "Item"
+    },
+    {
+      "value": "02/Beach",
+      "trait_type": "Series-number"
+    },
+    {
+      "value": "Big Cloud/Contrail",
+      "trait_type": "Sky"
+    },
+    {
+      "value": "Navy Blue",
+      "trait_type": "Swimsuit-color"
+    },
+    {
+      "value": "Triangle bikini",
+      "trait_type": "Swimsuit-type"
+    }
+  ],
+  "minted": "✅"
+}

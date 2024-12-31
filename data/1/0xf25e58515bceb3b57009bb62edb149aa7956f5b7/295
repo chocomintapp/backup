@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPTuFjpPpyJdsHTrri2QzGqzCBzZW1932n6YQc8R2UFZ8/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 295,
+  "chainId": "1",
+  "name": "SARAN",
+  "description": "■サラン",
+  "attributes": [
+    {
+      "value": "Change places",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Skyblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Skyblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Lightbluewhite",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Round glasses-red(NE)",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-happy",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "EyeBall3",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

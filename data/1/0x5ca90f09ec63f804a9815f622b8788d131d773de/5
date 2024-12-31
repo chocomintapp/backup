@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRJ4a1eyHL1cm4zAksPUU2LJW6EyrYnYhKKgtoMZzRtoH/nft.gif",
+  "nftContractAddress": "0x5ca90f09ec63f804a9815f622b8788d131d773de",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Flying Happy Cat in Yuki #RugeTabbyP001 [private contract]",
+  "description": "I will weave a story about a Ruge Tabby Cat walking in the midst of a snowstorm.\n\nThe Ruge Tabby Cat, wrapped in thick fur, explored the winter landscape of the snow. She left soft footprints in the snow and moved beautifully and gracefully.\n\nHer brown and black fur stood out in the white snow, emitting a dignified beauty. She moved freely in the snow, enjoying herself without feeling the cold.\n\nThe Ruge Tabby Cat experienced several adventures in the quiet winter landscape. She jumped up in the air, landed, and jumped over tree branches, as if dancing freely in the sky.\n\nHowever, as time passed, the snow intensified, and the cat faced difficult situations. But she continued with determination, and finally reached a small house surrounded by trees.\n\nShe knocked on the door and meowed, asking the owner to let her in. Then, the door opened, and the Ruge Tabby Cat entered a warm and safe place.\n\nShe felt proud of herself for moving freely in the snow. And she was able to take a break in a warm and comfortable place.",
+  "attributes": [
+    {
+      "value": "Tabby",
+      "trait_type": "pattern"
+    },
+    {
+      "value": "cherry blossoms",
+      "trait_type": "place"
+    },
+    {
+      "value": "Ruge",
+      "trait_type": "body color"
+    },
+    {
+      "value": "green&yellow",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "雪",
+      "trait_type": "background"
+    }
+  ]
+}

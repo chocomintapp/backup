@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdDjnHh8DBQLTzcuisBKG3AQZfut7tBfySW66iBdBUCja/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 85,
+  "chainId": "1",
+  "name": "Afrah",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "franken",
+      "trait_type": "skin"
+    },
+    {
+      "value": "drooping_orange_star",
+      "trait_type": "eye"
+    },
+    {
+      "value": "blue14",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "mars_glass",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Grus",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUx6LMq4yzTPeNDiPnaV7bqx6CPfDCvpjH3GLSsbpdHCS/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 530,
+  "chainId": "1",
+  "name": "SAAYA",
+  "description": "■サーヤ",
+  "attributes": [
+    {
+      "value": "NONE",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Drool",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Short",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "AnisuBody",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "full of dogs",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Rainbow",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

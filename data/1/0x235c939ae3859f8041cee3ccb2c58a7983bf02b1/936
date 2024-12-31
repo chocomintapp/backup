@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWidnob1J5kQSoryE2vbzjcBiEiph6QJ93dFCsMsosRaP/nft.png",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 936,
+  "chainId": "1",
+  "name": "Niko",
+  "description": "New life born the coexistence with human and data. It has power to realize cryptocurrency.The way to get such a BABY is the beginning of this collections. If you spend 40weeks with this MOM, you will be faced to make various choices.You may overturn daily life by spending time with MOM. Please achieve the birth of BABY.[muse]DNAThis special DNA have MOM of only nine people. ",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Close",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Flame",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Empty68",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Headset",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "0LOM",
+      "trait_type": "PROTO VALUE"
+    },
+    {
+      "value": "Studs Hair Tie",
+      "trait_type": "ITEM"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZzPuE1zN4jW1saVePrfsib3FXMbEFix1e6HYsB7AqUBq/nft.jpg",
+  "nftContractAddress": "0xb7aa2ffc401b1980376f7abc03f76bc41ef6f87b",
+  "animationUrl": "https://ipfs.io/ipfs/QmZzPuE1zN4jW1saVePrfsib3FXMbEFix1e6HYsB7AqUBq/nft.jpg",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Bamboo Fight",
+  "description": "IGO-CNPシリーズの第一弾はリーリーです！\n囲碁を大好きな竹藪の中で楽しんでいます。\nリーリーは戦うことが好きなようです。\n\nThe first in our IGO-CNP series is Leelee!\nShe enjoys playing Go in his favorite bamboo grove.\nShe seems to like to fight.",
+  "attributes": [],
+  "minted": "✅"
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPpCdeh8veZU1wn6SGQsuv9fX8DsmF2F6KUWdHFZu82y2/nft.JPG",
+  "nftContractAddress": "0xf7cc6a94387d73c81b49aa8e4299bf0ea4379e23",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Everyday Girlfriends #070",
+  "description": "Everyday Girlfriends 70, a derivative work of Rei.\nhttps://opensea.io/collection/aoeui-cards",
+  "attributes": [
+    {
+      "value": "Rei",
+      "trait_type": "Name"
+    },
+    {
+      "value": "AB",
+      "trait_type": "Blood Type"
+    },
+    {
+      "value": "Unknown",
+      "trait_type": "Zodiac"
+    },
+    {
+      "value": "Cafe-hopping, reading",
+      "trait_type": "Hobby"
+    }
+  ]
+}

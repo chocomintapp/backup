@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPnncWHqpZNJqwwMZWVztFBi8Ybh75vvcqpQTeie6tDp2/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 117,
+  "chainId": "1",
+  "name": "KAIKA #118",
+  "description": "",
+  "attributes": [
+    {
+      "value": "water",
+      "trait_type": "energy"
+    },
+    {
+      "value": "none",
+      "trait_type": "extra"
+    },
+    {
+      "value": "doll",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "yellow",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "aline bob",
+      "trait_type": "hair"
+    },
+    {
+      "value": "pink",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "closed",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "dark",
+      "trait_type": "skin tone"
+    }
+  ]
+}

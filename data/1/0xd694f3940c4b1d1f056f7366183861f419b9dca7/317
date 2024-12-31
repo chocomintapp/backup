@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdh8n9GP1YhSGqsUmBgnmT6rxVLXrFftLSzNE4iRi2ao6/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 317,
+  "chainId": "1",
+  "name": "March 29 ムスカリ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "月"
+    },
+    {
+      "value": "29",
+      "trait_type": "日"
+    },
+    {
+      "value": "黙っていても通じる私の心",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ムスカリ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

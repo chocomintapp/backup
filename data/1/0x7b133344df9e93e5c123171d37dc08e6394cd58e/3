@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYJDGxZtXYbUTVz4h7rtceW2hK69PS2Risw55a4oSXykN/nft.jpg",
+  "nftContractAddress": "0x7b133344df9e93e5c123171d37dc08e6394cd58e",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Werewolf #058",
+  "description": "The collection is based on the concept of graffiti drawn by boys playing in back alleys. 100 animal portraits.All are one-of-a-kind.路地裏で遊ぶ少年たちが描いたグラフィティというコンセプトのコレクション。100枚の動物の肖像画。すべて一点ものです。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "wolf",
+      "trait_type": "Animals"
+    },
+    {
+      "value": "pale green",
+      "trait_type": "Color"
+    },
+    {
+      "value": "concrete",
+      "trait_type": "Wall"
+    }
+  ]
+}

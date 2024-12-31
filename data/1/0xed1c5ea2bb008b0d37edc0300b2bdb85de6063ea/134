@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUuLn1hL9qig6E4yozzW32xR5RAbHFdPxVgd6pVTspy4k/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 134,
+  "chainId": "1",
+  "name": "Bobbye",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "Andromeda",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

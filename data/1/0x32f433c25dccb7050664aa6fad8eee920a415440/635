@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbYeBeBonVHHnwWdyhdCjqL5z6tXwfd6MPU7PnNdSwwiG/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmYV4GeSK5hwLZ4uaZMTeqCPN9Hv9FSasz26bRXSaif8d5/nft.mp4",
+  "tokenId": 635,
+  "chainId": "1",
+  "name": "THE JEWEL #635",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Clear Green",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Iridium",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQXemjs8kWjqtMWDsDZCSrV3yuWaFHaqo22it36DX3DUM/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 391,
+  "chainId": "1",
+  "name": "YURA",
+  "description": "■ユラ",
+  "attributes": [
+    {
+      "value": "Dot1（made by YUDA）",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Egreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0002Eye4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Robody-BlackRabbit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-Black(NE）",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Mitama-Ani(N)R",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

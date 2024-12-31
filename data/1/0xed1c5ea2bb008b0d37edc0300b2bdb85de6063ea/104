@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUZZvYqDEvn4JdZ7xcT7mSDii5cZCR3LPhw5X5Pe7hTJH/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 104,
+  "chainId": "1",
+  "name": "Latelard",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "Aquarius",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSUMqKqdU7s6bdxBxGACXdo8UJs39QWh9eNZgaChervPS/nft.png",
+  "nftContractAddress": "0x08853526dc120c16bbc587436993278e52f9eb80",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "排二樺音",
+  "description": "Villain side hideout #2\n\n\"Double quote\" Officially, a finance business organization.\n\nThey`re here again boss,\ndo you want me to get rid of them?\n\n\n敵側 アジト#2\n\n表向きは金融業、 『ダブルクオート』\n\n\nボス、またあいつらが来てます。追い返しますか？",
+  "attributes": [
+    {
+      "value": "female",
+      "trait_type": "Character"
+    },
+    {
+      "value": "The MAN",
+      "trait_type": "Belief"
+    },
+    {
+      "value": "Double Quote",
+      "trait_type": "Location"
+    },
+    {
+      "value": "human",
+      "trait_type": "Species"
+    },
+    {
+      "value": "legs",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "10",
+      "trait_type": "apearance"
+    },
+    {
+      "value": "8",
+      "trait_type": "charisma"
+    },
+    {
+      "value": "8",
+      "trait_type": "intelligence"
+    },
+    {
+      "value": "3",
+      "trait_type": "luck"
+    },
+    {
+      "value": "4",
+      "trait_type": "mana"
+    },
+    {
+      "value": "6",
+      "trait_type": "speed"
+    },
+    {
+      "value": "3",
+      "trait_type": "spirit"
+    },
+    {
+      "value": "7",
+      "trait_type": "toughness"
+    },
+    {
+      "value": "6",
+      "trait_type": "strength"
+    }
+  ]
+}

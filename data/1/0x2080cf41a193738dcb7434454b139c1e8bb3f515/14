@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbL3DE2J6KLZikc1CzFLzNapYKNFXJuR3mstyRFREdiq8/nft.png",
+  "tokenId": 14,
+  "description": "\"Banshee\" = \"Harpy\" x \"Ghost\" Nier Ikeda\n「バンシー」メイン種族ハーピー、サブ種族ゴースト。名前はニーア池田。\n\nバンシーは、泣き女とも呼ばれるヨーロッパ地方の妖精。死期が近い人間の近くに現れ、叫び声で死を予言する。ハーピーの鳥の鳴き声、ゴーストの魂の特性を引き継いでいる。影が薄く、人数に数えられないことが多いのを気に病んでいる。泣き真似が俳優並みに上手く、秒で泣ける。\n\n\"Banshee\", also known as the weeping woman, is a fairy from the European region. \"Banshee\" appears near people who are dying and predicts their death with her cries. She has inherited the birdcalls of the \"Harpy\" species and the soul characteristics of the \"Ghost\" species. She is a shadowy figure and worries that she is often not counted in the number of people. She imitates crying as well as an actor and can cry in seconds.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#039 \"Banshee\" Nier Ikeda",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Harpy"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

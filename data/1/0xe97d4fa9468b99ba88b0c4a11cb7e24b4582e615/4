@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX7VWGcTa98krLJmZ6SNCwmXA3PESEveLtMypHzWp3UxZ/nft.png",
+  "nftContractAddress": "0xe97d4fa9468b99ba88b0c4a11cb7e24b4582e615",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "#004_Konohazuku",
+  "description": "小柄な割によく食べる人懐っこい子。 忍者の末裔で得意技はこの葉隠れ。 寒がりなので冬の寒い日は人の上着の中によく潜り込んでくる。",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "Forest",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "Otus scops",
+      "trait_type": "Scientific name"
+    },
+    {
+      "value": "Summer",
+      "trait_type": "Season"
+    }
+  ],
+  "minted": "✅"
+}

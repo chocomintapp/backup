@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYbZgPokcEUZvJaNCLCb5UuiNLxtNTGq118ww995PdLoe/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 514,
+  "chainId": "1",
+  "name": "MOMOKA",
+  "description": "■モモカ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.10",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "RobotEye2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-BBB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bord-Black",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

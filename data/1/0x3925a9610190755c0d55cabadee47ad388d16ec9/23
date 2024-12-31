@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNTRRZFvAxyaYF8VvPQhFwvuKrq2mbpAWgg3PCgELDthy/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "Raigyo Kogami",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "HAORI",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Genichi",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "UNKNOWN",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "TALISMAN",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    }
+  ]
+}

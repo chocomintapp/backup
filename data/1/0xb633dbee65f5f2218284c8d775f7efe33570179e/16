@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdDFV2jsvfZ4J8xUJT2QbiT3RCdFWR7xwaT1VUroxYtRe/nft.jpg",
+  "nftContractAddress": "0xb633dbee65f5f2218284c8d775f7efe33570179e",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "Eggbird #054 Blue-and-yellow Macaw",
+  "description": "Eggbird #054 『ルリコンゴウインコ』 ",
+  "attributes": [
+    {
+      "value": "Pets ペット",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Parakeet インコ",
+      "trait_type": "Species"
+    }
+  ]
+}

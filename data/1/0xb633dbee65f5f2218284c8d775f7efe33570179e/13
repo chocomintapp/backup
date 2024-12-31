@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWmgfnxectj5Sd1dJhYNxiUMkABxxJhdc16R2UvSnASyF/nft.jpg",
+  "nftContractAddress": "0xb633dbee65f5f2218284c8d775f7efe33570179e",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "Eggbird #017-Flying Nagoya Cochin",
+  "description": "Eggbird #017-Flying 『名古屋コーチン』",
+  "attributes": [
+    {
+      "value": "livestock 家畜",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Chicken 鶏",
+      "trait_type": "Species"
+    }
+  ]
+}

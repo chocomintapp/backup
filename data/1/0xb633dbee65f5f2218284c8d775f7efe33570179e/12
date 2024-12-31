@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYagVWxXUqGrnYRUi5Vcjx1j5j9eCiYHhTxBnqbkgUsmL/nft.jpg",
+  "nftContractAddress": "0xb633dbee65f5f2218284c8d775f7efe33570179e",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "Eggbird #052 Bengalese Finch",
+  "description": "Eggbird #052 『ジュウシマツ』 \n",
+  "attributes": [
+    {
+      "value": "Pets ペット",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Bengalese Finch 十姉妹",
+      "trait_type": "Species"
+    }
+  ]
+}

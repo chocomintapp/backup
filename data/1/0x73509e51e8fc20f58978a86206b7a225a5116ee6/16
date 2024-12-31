@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYTDgb6eubooRm6PwyheixZGgyYWHxhjnaiuxoS9wd9Np/nft.png",
+  "tokenId": 16,
+  "description": "",
+  "nftContractAddress": "0x73509e51e8fc20f58978a86206b7a225a5116ee6",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #16",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Lizard"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Carmine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Neck",
+      "value": ""
+    },
+    {
+      "trait_type": "Item",
+      "value": "Fork"
+    }
+  ]
+}

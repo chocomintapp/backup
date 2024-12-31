@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmaq6Hjbk6xv3ozFXG5Txvp26K1HBrvoS5D4TQAmCrxrjL/nft.png",
+  "tokenId": 1559,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1559",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovey Dovey"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Apron"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Olive Green"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Spoon"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "White Hibiscus"
+    }
+  ]
+}

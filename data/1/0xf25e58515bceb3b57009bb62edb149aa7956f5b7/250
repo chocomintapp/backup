@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUgZXRrwomkfzs9jM1w6q5icgecPE3jn5fJpGSLkBwUH3/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 250,
+  "chainId": "1",
+  "name": "EVEREST",
+  "description": "■エベレスト",
+  "attributes": [
+    {
+      "value": "Dot3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mind's-eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Fenix",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bored Ape2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Devil-hornesW",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Phoenix",
+      "trait_type": "TYPE"
+    }
+  ]
+}

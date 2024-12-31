@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYFN38Cv9xZqLipKFRZQUiu7PSwGjt8Y6r3TmXmMvMWje/nft.png",
+  "nftContractAddress": "0x3e1e6638bfffd769e06aa33db703d7f190e33a51",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "Wb#14",
+  "description": "Created by Wonder baby.",
+  "attributes": [
+    {
+      "value": "GRAY B",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "BODY C",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "T-SHIRT D",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "EARRINGS",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "RIFLE A",
+      "trait_type": "WEAPON"
+    },
+    {
+      "value": "BEANIE BLUE B",
+      "trait_type": "HAT"
+    },
+    {
+      "value": "SMILE",
+      "trait_type": "MOUTH"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVRnZwW85Gb3C4iCBMEcNUuT9zmWjEiB3uLqvUD2bHqPW/nft.gif",
+  "nftContractAddress": "0x9dc339b235910416bcd9d4c5f3cba8bb481eea51",
+  "animationUrl": "https://ipfs.io/ipfs/QmVRnZwW85Gb3C4iCBMEcNUuT9zmWjEiB3uLqvUD2bHqPW/nft.gif",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "#008 Class2-A Kotone Amamiya",
+  "description": "Her goal is to run and win the track and field competition.  \n------------------  \n彼女は陸上競技で走って優勝することを目標にしています。",
+  "attributes": [
+    {
+      "value": "Izumo High School",
+      "trait_type": "School"
+    },
+    {
+      "value": "Class 2-A",
+      "trait_type": "Grade"
+    },
+    {
+      "value": "Track and field club",
+      "trait_type": "Role"
+    }
+  ]
+}

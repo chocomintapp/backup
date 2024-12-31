@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSTy68QhnQz2L4vebRMnEQ6NuepCVCtrqQnq3FCq1LgT2/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmZ1CoFgmgWMJDs51iEtwKgJybSDCV9H16hkh1NUBxgTyG/nft.mp4",
+  "tokenId": 306,
+  "chainId": "1",
+  "name": "THE JEWEL #306",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

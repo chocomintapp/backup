@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ8g2sdrp2RwumGZ4dZDnX4eus2EdbYJyftro5Qy15y95/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 135,
+  "chainId": "1",
+  "name": "Dani",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "The Dragon",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

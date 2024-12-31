@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWpjkYQTsXXGf678oCRBRFHaMFfsp9ygzqiMm8cMRtFK1/nft.jpg",
+  "nftContractAddress": "0x8da2d39aa71c75c985522cd5fc5298d29ef3889f",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "surrealist",
+  "description": "This art collection aimed at unrealistic perception that is neither 2D nor 3D.",
+  "attributes": [],
+  "minted": "✅"
+}

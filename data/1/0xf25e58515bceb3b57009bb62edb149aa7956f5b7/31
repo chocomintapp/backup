@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVmA9uuUpU43iAnaE9UCJxktvN9JL6PqGP6t7j1yr1gWR/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "1",
+  "name": "TOWA",
+  "description": "TOWAi is EMMA's biological sister.\n\nBecause of her special eyes, she was kidnapped by YUDAs and converted into an android.\n\nShe was saved by a member of the anti-YUDA group during the modification process, so she did not become a full android.\n\nShe is an ordinary high school girl who likes dogs and the sound of rain.\n■トワ\n\nエマの実の姉であるトワ。\n\n特殊な目の持ち主だったがゆえに、ユダに誘拐されアンドロイドとして改造された。\n\n改造途中で反ユダグループの一味に助けられ、完全なアンドロイドにはならずに済んだ。\n\n犬と雨の音が好きな普通の女子高生。",
+  "attributes": [
+    {
+      "value": "MIX2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.8",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "RobotEye1",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-B",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

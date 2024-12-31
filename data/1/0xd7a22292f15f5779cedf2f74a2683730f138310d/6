@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSioGxoMf6pmadWgaw6K1FYTcAbUNKRxF9mhM7qHsfBb6/nft.png",
+  "nftContractAddress": "0xd7a22292f15f5779cedf2f74a2683730f138310d",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "BTK#16",
+  "description": "けんちゃんはキューバにやってきました。旧国会議事堂はもちろん、走っている車にも歴史を感じます。夏の日差しを感じながら海沿いを歩いていると、なんとソレノドンもついてきた様子。これから仲良く乾杯できるとよいですね！\n\nKen-chan came to Cuba. He can feel the history in the old capitol building as well as in the cars running around. As he walked along the seaside feeling the summer sun, Solenodon seemed to have followed him. I hope they can make a toast together from now on!",
+  "attributes": [
+    {
+      "value": "Lapis Lazuli Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Pilsner",
+      "trait_type": "Beer Style"
+    },
+    {
+      "value": "Cuba",
+      "trait_type": "Country"
+    },
+    {
+      "value": "Cuba",
+      "trait_type": "Decoration"
+    },
+    {
+      "value": "Sunglasses",
+      "trait_type": "Eye"
+    },
+    {
+      "value": "Tumbler",
+      "trait_type": "Glass"
+    },
+    {
+      "value": "Cheeky",
+      "trait_type": "Tongue"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSxyep3LTMrrB4KeRw4aB4nHawFG6BWKEoxNiePR8iok2/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmSEtEZL3mqcwqBY9v5ES14pFQXAsd82wJceX7Ff5uRPhp/nft.mp4",
+  "tokenId": 37,
+  "chainId": "1",
+  "name": "THE JEWEL #037",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "baraka garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Patina iron",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

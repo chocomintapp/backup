@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS59EQ5id15F8AoSbefTim42FHuswZ2NyXfbSCcmBNZpB/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 265,
+  "chainId": "1",
+  "name": "ANDRAS",
+  "description": "■アンドラス",
+  "attributes": [
+    {
+      "value": "Dot5",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Lightgreenpink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sad2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Devil",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Tsuno-Y",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Hell Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

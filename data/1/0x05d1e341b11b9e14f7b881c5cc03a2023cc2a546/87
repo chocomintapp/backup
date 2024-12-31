@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQgfkFAN3VmL2jtPjNgVYdQcBQtkZphLdpd1hrLpeohSC/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmfKrikAa32PEgnLDYwvNRqTbZEUmDZaYeLWayRpUoQyEB/nft.mp4",
+  "tokenId": 87,
+  "chainId": "1",
+  "name": "Bruno #087",
+  "description": "Bruno  \n斬新で最先端が大好き  \nLove novelty and cutting edge.",
+  "attributes": [
+    {
+      "value": "Haus",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Mimi",
+      "trait_type": "VOICE"
+    }
+  ]
+}

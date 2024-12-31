@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUxxehRbr7zAdUT43hSrREndV7Ta5QzAgwfeJKTkUHxU4/nft.png",
+  "tokenId": 2,
+  "description": "Shoes with the image of a Japanese garden.",
+  "nftContractAddress": "0x801676ef5a5df4579d55fc26767b96da9512d5a5",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Flower Viewing",
+  "minted": ""
+}

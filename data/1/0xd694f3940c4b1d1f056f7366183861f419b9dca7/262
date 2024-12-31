@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTTqqLK62z9pPixYd8JQHNQajrt9uaVyKi1LPBfBiWLJT/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 262,
+  "chainId": "1",
+  "name": "February 3 ヒヤシンス（黄）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "月"
+    },
+    {
+      "value": "3",
+      "trait_type": "日"
+    },
+    {
+      "value": "勝負",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ヒヤシンス",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

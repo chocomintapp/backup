@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcps3DMjaMpJvHn7bvxMpbSiZH5JWa6DCf7z8UXA8xyV5/nft.gif",
+  "nftContractAddress": "0x14df01ddadf042d171a95f0ca8a3911a3c3457ab",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "#24",
+  "description": "ピーマンの肉詰めをMintするぜ",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "P-MEN",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Black Bread",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Moko",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbmPLC5MVeNW3iW9o58YJvXtXSuJ2mYAMy5gNMsQPCuzN/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "May 30 イチゴ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "30",
+      "trait_type": "日"
+    },
+    {
+      "value": "尊重と愛情",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "イチゴ",
+      "trait_type": "花"
+    }
+  ]
+}

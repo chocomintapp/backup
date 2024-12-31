@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXTWiU1v7E8SEW3tBSqiBx4TEwZKJdhtiDduiMUXa8Q3n/nft.png",
+  "tokenId": 297,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #297",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Wild Green"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Summer Kimono"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Rhombus"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Light Blue Star"
+    }
+  ]
+}

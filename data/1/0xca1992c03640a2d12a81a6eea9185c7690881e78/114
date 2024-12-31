@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmehdxa47ujx6MzBX2GvRpGwW1p1dw9LrWv3VjPyZtq4MR/nft.png",
+  "tokenId": 114,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #114",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rock Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Faint Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Scarlet"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Rhombus"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Lemon Slice"
+    }
+  ]
+}

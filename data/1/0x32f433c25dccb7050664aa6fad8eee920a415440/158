@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYU2qc7Lx3et6vPYse6SC1pYvHjmurrGYhxGJ3fB4M7rC/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWuQdYvVa89jR7ZCkCfpqBWUnAX6JLtX2buif23pFvqtV/nft.mp4",
+  "tokenId": 158,
+  "chainId": "1",
+  "name": "THE JEWEL #158",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Pink Spinel",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

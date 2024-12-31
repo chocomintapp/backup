@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYrUegs2mprmtxjphxWFLBc2fCr86k8FrknHUgpeQLGY8/nft.png",
+  "tokenId": 97,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #97",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovey Dovey"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold 3 Hoop"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Letter"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Gold Cat Ears"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Golden Cat"
+    }
+  ]
+}

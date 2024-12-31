@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNTakBZLuRowmoBYtC22LmAq1eqveyzwBmQ9dyvknTMd3/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "1",
+  "name": "POCO_Mechthild",
+  "description": "Mechthild-Chan",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Eccentric",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Splatter",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Undead",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

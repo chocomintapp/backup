@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWk2krXtNt38GcGa7C6exUvpyuShRnbY48p5pg8sp18Bv/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "1",
+  "name": "THS #064",
+  "description": "【般】",
+  "attributes": [
+    {
+      "value": "peacock",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "peas",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

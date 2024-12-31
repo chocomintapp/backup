@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUMzXtU8cmU8PaN7eUPDQBvCVzEUZ2jTxRDicfak3xSFa/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 456,
+  "chainId": "1",
+  "name": "WAKANA",
+  "description": "■ワカナ\nSSPファンアート",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "OkameSmile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Long3",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Red-SSP",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Red-SSPmask",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bord-Red",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

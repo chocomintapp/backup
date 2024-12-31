@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSLVqJEa24tXYn313NWAnKbqgNkJMpgdFbLRYYd11xux1/nft.png",
+  "nftContractAddress": "0x3efc78c70e48c576f52a290c1b61e2076d5ae51f",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "Flower #12",
+  "description": "\n背景の蝶々はAIによって生成された画像を使いました。このコレクションにおいて初めてAI生成の画像が使われた実験的な作品です。\n\nこの作品では文字が主役であり、他は全て背景やテクスチャーとしての扱いになるため、AIによって生成された画像を使うのは適切なことに思えました。\n\nなにより、このダイナミックに変化する時代に立ち会い、NFTと画像生成AIという最先端な技術と千年前からほとんど変わることのない書とを掛け合わせるチャンスに恵まれたことを、書家として嬉しく思います。\n",
+  "attributes": []
+}

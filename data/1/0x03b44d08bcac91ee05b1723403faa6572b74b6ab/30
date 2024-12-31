@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQC7SnxrnbeGYxCurY3dnnY3CM5DsYd2bNxsdp3cWHsMD/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmWHDZiLQ2ZM7Lw4DLRDsexAtAwxXoWDzyEQ8xf3U2sc9C/nft.mp4",
+  "tokenId": 30,
+  "chainId": "1",
+  "name": "#056 TasekaiMan",
+  "description": "TasekaiMan\n\n- Hero Series\n- Collaboration TASEKAI VOXELS x The strange one\n- 3DCG Turntable\n- 1920 x 1920px",
+  "attributes": [
+    {
+      "value": "Hero",
+      "trait_type": "Type"
+    }
+  ]
+}

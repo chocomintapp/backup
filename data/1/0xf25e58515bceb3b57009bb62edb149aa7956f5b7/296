@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNWTJVtpjEesRuDRKMTnmgZxcXeBp6xkJEQnRUskzRJuN/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 296,
+  "chainId": "1",
+  "name": "TOMOMI",
+  "description": "■トモミ",
+  "attributes": [
+    {
+      "value": "magamaga",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-White",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Magic-caster",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-red(NE）",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Satosi",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "HeadbandｰWB",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

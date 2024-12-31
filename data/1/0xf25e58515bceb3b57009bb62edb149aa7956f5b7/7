@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWVzd3mys6Ceby76nTZFiWxPsL94bov4J8uFtHr9U7sdK/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "HANA",
+  "description": "HANA is YUDA's first human android.\n\nHANA wanted to charge her smartphone, and we tricked her into becoming an android for good measure.\n\nThanks to this, she succeeded in getting a super body that doesn't even need a smartphone, but she has fewer friends.\n\nSince becoming an android, her personality has become twisted and she often bullies angels.\n■ハナ\nHANAはYUDAがはじめてアンドロイドにした人間だ。\n\nHANAがスマートフォンの充電をしたいと言ってきたのを、いいことに騙してアンドロイドにした。\n\nおかげで彼女はスマートフォンすら必要ないスーパーボディを手に入れることに成功したが、友達が減った。\n\nアンドロイドになってからというもの性格はひねくれてしまい、よく天使をいじめている。",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.0",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllYellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Ear-Normal",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Archangel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

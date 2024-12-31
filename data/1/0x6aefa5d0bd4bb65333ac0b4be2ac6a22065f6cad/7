@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWbdteXpK6jin3Mjn2Qmn5Wh9uiHo1Le58hHhHSMZjXip/nft.png",
+  "nftContractAddress": "0x6aefa5d0bd4bb65333ac0b4be2ac6a22065f6cad",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "Rabbit girl #3『Pink opal』PFP",
+  "description": "Rabbit girl #3『PinkOpal』\n\nA girl who loves strawberry tarts. She is enjoying the happiest moment of her life right now.",
+  "attributes": [
+    {
+      "value": "PFP",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Pink opal",
+      "trait_type": "Character"
+    }
+  ],
+  "minted": "✅"
+}

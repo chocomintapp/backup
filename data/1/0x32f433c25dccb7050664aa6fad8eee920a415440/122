@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdp49A8MPs5kKyf28U8xdX8STV4Eu2ue9Nz2Q5C9ENeMH/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmUPrKzi6NbrKqqGPcWkn5szanCBh7PFBGeX6DcGSaMqeB/nft.mp4",
+  "tokenId": 122,
+  "chainId": "1",
+  "name": "THE JEWEL #122",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Rubellite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "red",
+      "trait_type": "Control device"
+    }
+  ]
+}

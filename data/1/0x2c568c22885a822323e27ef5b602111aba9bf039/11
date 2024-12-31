@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbjxw5BxUqFCpFsmaMaPjAebvQoqrjELyiT271PF57BEP/nft.PNG",
+  "nftContractAddress": "0x2c568c22885a822323e27ef5b602111aba9bf039",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "HalloweenParty",
+  "description": "Halloween party for little ghosts",
+  "attributes": []
+}

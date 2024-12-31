@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfP8aRNkeM2mkT9ZfFcAoxmGikSoNjyuazVSrnEhvGFdf/nft.png",
+  "nftContractAddress": "0xd4835ff99da97ea688ddaea7b9e2119df02ccbc1",
+  "animationUrl": "https://ipfs.io/ipfs/QmTiydswvWUUtxPR25T7FRYgbt26MN1F6xyg4kfNSwnPx1/nft.mp4",
+  "tokenId": 26,
+  "chainId": "1",
+  "name": "borderless",
+  "description": "SHIKI31 custom made #0001",
+  "attributes": []
+}

@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcbzk9D3zDk5fKnZ2TbSAQ9zxSkYi7BJEeCsrjvv8Bacz/nft.png",
+  "tokenId": 852,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #852",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Peace"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Wood Beads"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Frappuccino"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "White Rose"
+    }
+  ]
+}

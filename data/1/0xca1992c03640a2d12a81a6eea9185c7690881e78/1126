@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQyVPop2YJKzs22hhz9z1QQjTNs3FNerjDNKkFWv5kTHs/nft.png",
+  "tokenId": 1126,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1126",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Taupe Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Round"
+    }
+  ]
+}

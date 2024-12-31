@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXrh9am2qC7iuR4dXWBeDDvwy1k1zw2Lume1S57mAYqdh/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "#012-Chiba-",
+  "description": "#012-Chiba-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Flare",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kanto",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Chiba",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

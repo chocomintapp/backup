@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmadrp8xLdsx83fMA7uFxBJTn4KdhFAQJZUULEUxxct2Yd/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmbNULS5LX4vHkURnNWi8Vmgoree7jQC58gBzsBNeUfQHB/nft.mp4",
+  "tokenId": 41,
+  "chainId": "1",
+  "name": "THE JEWEL #041",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Blue Tourmaline",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

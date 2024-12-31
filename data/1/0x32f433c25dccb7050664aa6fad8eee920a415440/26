@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaJxUQyDGUcdKm1EQyphvjUUyc9dBK7w6FDJSxP15p9m5/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmZdK4YtiHEDEM5wDACLUfS53BuwTbsowaZV5aLiMDNUHN/nft.mp4",
+  "tokenId": 26,
+  "chainId": "1",
+  "name": "THE JEWEL #026",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Grandidierite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "copper",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU2cEJci1pKnFPKx29jHfB3BmAT6NDfYbh3xf1SC7X4Af/nft.png",
+  "nftContractAddress": "0x21ac824c1b1369971e437c5e92a84a136da1b1eb",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Hello World #003",
+  "description": "#【Come on out, dinosaur.】\n\nHe doesn't even know that mushrooms will grow out of this egg, but he's been waiting for that moment to see what kind of dinosaur will be born.\n\nOh, look, the red head of the mushroom is coming into view.\n\n  \n#【恐竜さん でておいで】\n\nこの卵からキノコが\n生えてくるとも知らずに\nどんな恐竜が生まれてくるのか\nごまはその瞬間を楽しみに\nずっと温めて待っているのです。\n\nあぁほらほら、きのこの\nあかい頭が見えてきた。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Amanita caesareoides（タマゴタケ）",
+      "trait_type": "MUSHROOM"
+    },
+    {
+      "value": "GOMA（ごま）",
+      "trait_type": "CAT NAME"
+    },
+    {
+      "value": "Watercolor",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Pigment ink",
+      "trait_type": "TYPE"
+    }
+  ]
+}

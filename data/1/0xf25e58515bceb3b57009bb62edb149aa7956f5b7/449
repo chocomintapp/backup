@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRrZzC23GzRy1ohhULx43fSL4hqxQRkw7agxvKmjms1Rh/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 449,
+  "chainId": "1",
+  "name": "XINYI",
+  "description": "■シンイー\n@alicelamart1　コラボ作品\nhttps://opensea.io/collection/cupdoll",
+  "attributes": [
+    {
+      "value": "Light-Orange",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Skyblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0002Eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Matchingcloth-04",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-red(NE）",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "A cup of doll 2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

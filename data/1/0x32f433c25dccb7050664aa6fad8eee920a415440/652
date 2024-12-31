@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNaGrZ5sJZf1VhJRj3QBnLR2spuWeXvhLx8gborCQR1BH/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmYLznrJmzQSnC19EYQhtKzhMjWmTRGtNHCBUaYSNqBNz9/nft.mp4",
+  "tokenId": 652,
+  "chainId": "1",
+  "name": "THE JEWEL #652",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Aquamarine",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Control device"
+    }
+  ]
+}

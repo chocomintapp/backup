@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeS1QyhhZqdY9uhf6VmdBAzEBifM741bNh7AtCYkNasKZ/nft.png",
+  "nftContractAddress": "0xca6aec18e85c23583d98ae65f78080fcedb046a4",
+  "animationUrl": "",
+  "tokenId": 59,
+  "chainId": "1",
+  "name": "059 One-side Lovers : Series02-Beach [Camera Girl]",
+  "description": "■Fukuyoshi Rokka's Artwork collection \n\"One-side Lovers”\nSeries02-Beach\n\n福吉ロッカのアートワークコレクション\n「One-side Lovers」\nシリーズ２-Beach",
+  "attributes": [
+    {
+      "value": "Beach",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Turquoise Black",
+      "trait_type": "Hair-color"
+    },
+    {
+      "value": "Bob Wave",
+      "trait_type": "Hair-style"
+    },
+    {
+      "value": "Film Camera/Bag",
+      "trait_type": "Item"
+    },
+    {
+      "value": "02/Beach",
+      "trait_type": "Series-number"
+    },
+    {
+      "value": "Blue sky",
+      "trait_type": "Sky"
+    },
+    {
+      "value": "Black/White",
+      "trait_type": "Swimsuit-color"
+    },
+    {
+      "value": "One Piece Swimsuit",
+      "trait_type": "Swimsuit-type"
+    }
+  ],
+  "minted": "✅"
+}

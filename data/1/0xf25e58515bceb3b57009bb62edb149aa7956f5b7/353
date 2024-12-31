@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmThLZao8Phg8TtmAW2JtexHrG6ajGQgnkoc4j6zaury2u/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 353,
+  "chainId": "1",
+  "name": "CARINA",
+  "description": "■カリナ",
+  "attributes": [
+    {
+      "value": "RED-DBSM",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Madness",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sunglass-B1",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Anisu-tatoo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "LeeLee-cry",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

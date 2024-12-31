@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRij9GCscJryu5E6U1JUiN37rnbpkwpCH6xTd8jtW4Kyn/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 88,
+  "chainId": "1",
+  "name": "CHETAN",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "shigeru",
+      "trait_type": "skin"
+    },
+    {
+      "value": "normal_silver",
+      "trait_type": "eye"
+    },
+    {
+      "value": "gold04",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "mars_emblem",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Orion",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

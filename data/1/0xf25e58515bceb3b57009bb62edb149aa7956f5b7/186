@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW45YuYei5MmMK9qcjfK1VswHZA58RqAAfCbn3M8oZz1o/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 186,
+  "chainId": "1",
+  "name": "ALAINA",
+  "description": "■アライナ",
+  "attributes": [
+    {
+      "value": "A divisive fall",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Drool",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Deeppink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Shine-Yellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Whitepink",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-misty",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Toy box",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

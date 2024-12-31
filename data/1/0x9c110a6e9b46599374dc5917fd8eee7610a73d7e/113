@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbMHmjCST4M5oHngYtCdKA2YedUJeKN4ZZ1khBDb1kwL9/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 113,
+  "chainId": "1",
+  "name": "POCO_Noortje",
+  "description": "Noortje-Chan",
+  "attributes": [
+    {
+      "value": "Patient",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

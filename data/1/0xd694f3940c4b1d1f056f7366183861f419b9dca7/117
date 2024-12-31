@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYoXvNVXc8dwqvePq6D9CqzA3GyNQR6PpAsNmqe5gf3TZ/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 117,
+  "chainId": "1",
+  "name": "September 11 ブーゲンビリア",
+  "description": "",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "11",
+      "trait_type": "日"
+    },
+    {
+      "value": "ドラマチックな恋",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ブーゲンビリア",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

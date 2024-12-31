@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbQkbpgFyWU4TjPZJvLocFpvRTHtLFiLfWNxKG6zrArGm/nft.png",
+  "tokenId": 559,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #559",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Wild Green"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Curly Pixie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Knit Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Fork"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square Shades"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Bat Devil"
+    }
+  ]
+}

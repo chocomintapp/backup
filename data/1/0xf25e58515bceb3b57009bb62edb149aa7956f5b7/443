@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTJBfNczHZxHV6cRs9UdDJ4TxikUf5XssaxPxjMPDiU5T/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 443,
+  "chainId": "1",
+  "name": "EIKO",
+  "description": "■エイコ",
+  "attributes": [
+    {
+      "value": "space-time transfer3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Anisu-HostessBrown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0001Eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Anisu-Lolita",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "glasses-red(NE)",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Cat",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-SnowWhite",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

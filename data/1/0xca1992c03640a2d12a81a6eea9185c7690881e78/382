@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRFLSi8uBQQwMFXzqrkfTzcE5rFpfGkDxBsTEUhPC6JWr/nft.png",
+  "tokenId": 382,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #382",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Side Tail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver 3 Hoop"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Gold Dog Tag"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Pocky"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Coconut Water"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Bengal Cat"
+    }
+  ]
+}

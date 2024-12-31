@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQiw7rBpAJ1ce4UtZPFTgvHjotaYiFwyaNJKDKx98r6rZ/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "フルーツだいすきわかめちゃん Wakame-chan loves fruit! #209",
+  "description": "この子はなんごくに生きています。\nフルーツをおばあちゃんがとってくれて、フルーツを見るとわかめのダンスをする。\n\nあかちゃんのときからわかめダンスをしていたのでわかめちゃんになりました。\n\nこの子はとくしゅで、オレンジがあるとわかめちゃんのまゆげが本気モードになって\nダンスのスピードが２ばいになります。\n\nお兄ちゃんはぶどうを見るとぶどうのまゆげになる。\n\n☆小学２年生９番目の作品なので209のナンバーをふりました♪\n\nThis girl lives in a tropical country.\nHer grandmother takes fruits.\nWhen she sees fruits, she does the wakame dance.\n\nShe has been doing the wakame dance since she was a baby, so she became a wakame-chan.\n\nShe has a special constitution.\nWhen there is orange, Wakame-chan's eyebrows go into serious mode.\nAnd her dance speed doubles.\n\nWhen her big brother sees grapes, his grape eyebrows turn into grape eyebrows.",
+  "attributes": [
+    {
+      "value": "Girl",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Fruit",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Kawaii",
+      "trait_type": "Category"
+    }
+  ],
+  "minted": "✅"
+}

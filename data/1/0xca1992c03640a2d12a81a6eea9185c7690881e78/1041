@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdFf15Zfm83okRuupLZxjHWi8YPaMhGxdLsrqywczPm9e/nft.png",
+  "tokenId": 1041,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1041",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Knit Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Strawberry"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Burger"
+    }
+  ]
+}

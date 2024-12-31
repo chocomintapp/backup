@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQiRpyhyVv5NMn2YY9W8US8ARfwGRHe9c6DtKeP1Q7Wha/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmeBw4Z3ZV3Lb57V6riGQ6fenQHtU6r1PvuFAbdFcoaeai/nft.mp4",
+  "tokenId": 79,
+  "chainId": "1",
+  "name": "Maru #079",
+  "description": "Maru  \nHello Pixel Eyes collectionに擬態している  \nMimicking the Hello Pixel Eyes collection",
+  "attributes": [
+    {
+      "value": "Wabisabi",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Hello Pixel Eyes",
+      "trait_type": "MIMIC"
+    }
+  ]
+}

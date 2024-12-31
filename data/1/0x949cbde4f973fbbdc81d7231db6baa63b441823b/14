@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbLVMkvenYHHkcABUotmRaBkeTh6KBNHHWhX2UPW6wkyZ/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "SE #14",
+  "description": "",
+  "attributes": [
+    {
+      "value": "E",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": " S",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "E",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "se",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU6qxw25PKkY6KQSaGoSbrYGkbAXK111MGmbsh5mrGgNf/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 54,
+  "chainId": "1",
+  "name": "Beach Borne Bae #82",
+  "description": "Beach Borne Bae #82\nInspired by Beluga whale / ベルーガ",
+  "attributes": [
+    {
+      "value": "Long",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Tank Top",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Marine Mammal",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbqYpLwh8FmySAdDMfKEj4zZsCde1o5kmF8FtBK7o1dTK/nft.gif",
+  "tokenId": 24,
+  "description": "O-G-N  \nMIMIMATES collection に擬態している  \nMimicking the MIMIMATES collection",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmaTxbr6D12Nwq2yQKuEAjDPMAn5zj1Y55WZfrVbqgxfX7/nft.mp4",
+  "chainId": "1",
+  "name": "O-G-N #024",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Hide"
+    },
+    {
+      "trait_type": "MIMIC",
+      "value": "Hide"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWJxHRcoopB6fPw7jKPe45Yamq4PF2f4GMCwfY9bkhiF9/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmVQ9Jf6tgrfqWwB7oAJwz54PEKLiLweVv8L2koAMDpHwC/nft.mp4",
+  "tokenId": 50,
+  "chainId": "1",
+  "name": "Nina #050",
+  "description": "Nina  \n教えることが好きな仲間思いな子  \nLoves to teach and loves his peers.",
+  "attributes": [
+    {
+      "value": "Construct",
+      "trait_type": "TYPE"
+    }
+  ]
+}

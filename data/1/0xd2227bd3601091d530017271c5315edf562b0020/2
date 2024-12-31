@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTevSiYx3r3JRqFDjMJSPvmKDwNtrikVxRwJm23FZC21j/nft.png",
+  "nftContractAddress": "0xd2227bd3601091d530017271c5315edf562b0020",
+  "animationUrl": "https://ipfs.io/ipfs/Qmd3tuZYTrUQfgkGSX6irFY3LLbJBmHbyZ767VRiwtWD4z/nft.glb",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "urara",
+  "description": "",
+  "attributes": []
+}

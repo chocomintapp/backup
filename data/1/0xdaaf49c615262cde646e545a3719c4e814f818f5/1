@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWnw5BoVv1YWLfZ1Uxy14caKUNGoyBgTmgMK2ogwKoK8U/nft.png",
+  "nftContractAddress": "0xdaaf49c615262cde646e545a3719c4e814f818f5",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "hamu(R)",
+  "description": "hamu(R)",
+  "attributes": [
+    {
+      "value": "red",
+      "trait_type": "color"
+    }
+  ]
+}

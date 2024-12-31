@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQki5kYYxxVFkzn196pi4SnMJzYWUu78xpvjTkKNKwv5f/nft.mp4",
+  "nftContractAddress": "0xe5e541c33576f4d56ddcb3a3453d2c7975482c81",
+  "animationUrl": "https://ipfs.io/ipfs/QmQki5kYYxxVFkzn196pi4SnMJzYWUu78xpvjTkKNKwv5f/nft.mp4",
+  "tokenId": 427,
+  "chainId": "1",
+  "name": "Festival ticket No.477",
+  "description": "NFTサインっていいかもしれないですよね、誰が最初に受け取っているかもすぐに分かりますし。\n\nあ、裏面見てみてください。サインがありますよ。",
+  "attributes": [
+    {
+      "value": "2.5%",
+      "trait_type": "sign"
+    }
+  ],
+  "minted": ""
+}

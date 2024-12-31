@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfVAXSCH9zWACH9d47ptk6Mo5CyTnNknZ84WA3prs9HmH/nft.gif",
+  "tokenId": 50,
+  "description": "What happens when hair grows on letters? The word \"KEMOJI\" was born from the combination of \"KE\" (= hair) and \"MOJI\" (= character). This character is read as \"inu\" and means \"dog\" in Japanese.",
+  "nftContractAddress": "0x87b4ee41827bb2a33bffe31bc09ca0727af8547f",
+  "animationUrl": "https://ipfs.io/ipfs/QmfVAXSCH9zWACH9d47ptk6Mo5CyTnNknZ84WA3prs9HmH/nft.gif",
+  "chainId": "1",
+  "name": "KEMOJI-001-inu"
+}

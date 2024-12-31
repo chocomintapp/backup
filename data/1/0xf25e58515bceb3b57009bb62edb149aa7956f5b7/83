@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma7NHeHu2p5QFo8pXkNnZpW4dmjfNLJok1TWPtHPFDotp/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 83,
+  "chainId": "1",
+  "name": "ASARI",
+  "description": "ASARI loves to study.\n\nIt's not uncommon for him to stay up all night because he gets so absorbed in his studies.\n\nShe is always short of sleep, so his eyes are always bloodshot.\n\nHer sharp eyes are popular among some girls.\n■アサリ\n\n勉強が大好きなアサリ。\n\nつい夢中になって徹夜なんてのはよくあること。\n\n万年寝不足だから常に目が血走っている。\n\n鋭い目つきが一部の女の子から人気。",
+  "attributes": [
+    {
+      "value": "Deep-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Wide-Bloody",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-YO",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "RareLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "MIRAKO-Antenna-Akaoni",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

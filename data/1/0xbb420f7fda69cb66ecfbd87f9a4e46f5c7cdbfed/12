@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPm11XgoWFYNZEyyBpwbLdmzcWfDFowL9QpvTNqZb8rGL/nft.png",
+  "nftContractAddress": "0xbb420f7fda69cb66ecfbd87f9a4e46f5c7cdbfed",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "【No,1_Gold】VeryLongAnimalBabies",
+  "description": "Thanks for collecting 100 of the VeryLongAnimalBabies 2nd!",
+  "attributes": [
+    {
+      "value": "Gold",
+      "trait_type": "Color"
+    },
+    {
+      "value": "No,1",
+      "trait_type": "Serial number"
+    }
+  ]
+}

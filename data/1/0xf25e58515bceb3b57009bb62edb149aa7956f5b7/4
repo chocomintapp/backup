@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVcFBB8Stpr3YN59G4HWbPiFgzpiuhNzybL6MmM3wsGoZ/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "ITSUKI",
+  "description": "ITSUKI is known as the crazy green high school girl.\n\nThere is no one in the local community who does not know this name.\nIf there is, he is a lurker.\n\nShe is undefeated in fights.\n\nHer hobby is collecting bunny ears.\n■人間\n■イツキ\n\n狂った緑の女子高生という異名をもつイツキ。\n\nこの名前を知らない人間は地元には存在しない。\nもしいたら、そいつは潜りだ。\n\n喧嘩無敗。ついでにゾンビ。\n\n趣味はバニー耳集め。\n",
+  "attributes": [
+    {
+      "value": "Dot4",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Madness",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Egreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-ZombieAllblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-G",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Green",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Angel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Green",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

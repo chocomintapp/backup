@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPYt4HdX1kApBsJ962hsB7VjSXMUjtws5YFwBw5uCy7Sm/nft.png",
+  "tokenId": 1810,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1810",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Summer Kimono"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Tassel"
+    }
+  ]
+}

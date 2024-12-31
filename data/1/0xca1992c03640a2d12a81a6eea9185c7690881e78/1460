@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT9MwVYXhJB9Ln9LCrivG1d7s5VAzqayEruHEHwB8W7s5/nft.png",
+  "tokenId": 1460,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1460",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Apron"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Olive Green"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver 3 Hoop"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Black Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigarette"
+    }
+  ]
+}

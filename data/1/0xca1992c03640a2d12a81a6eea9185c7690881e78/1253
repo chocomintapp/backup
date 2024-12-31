@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmetBwi3c2v5GcgjjLw9KTcDYkGWUP7PfAYPmFDuQfJ87G/nft.png",
+  "tokenId": 1253,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1253",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Side Tail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rock Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Slip"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Rhombus"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Black Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Lollipop"
+    }
+  ]
+}

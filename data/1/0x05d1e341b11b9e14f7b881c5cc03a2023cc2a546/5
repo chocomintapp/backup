@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme5RR8CUuDbgUePGGD2YFirmBLimxTdGTPAHVsTkYAj8A/nft.gif",
+  "tokenId": 5,
+  "description": "Khnumi  \n古代エジプトの創造神に憧れをもったようだ  \nHe seemed to have an admiration for the ancient Egyptian god of creation.\n",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmYJKqgqC2MoWh9Vxn2GbmfGXCma1a3nLeTjZP9pyskVgJ/nft.mp4",
+  "chainId": "1",
+  "name": "Khnumi #005",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "MIMIC",
+      "value": "Mate"
+    }
+  ]
+}

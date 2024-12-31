@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTcnskdwNabzEsznpWvCCFTBr8CBcBuWSaXVKH9NVT9eZ/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmTbCXR3CNR9nF8G6KQRtXxJxV3kDaYGZKQCoy86vi2WfK/nft.mp4",
+  "tokenId": 66,
+  "chainId": "1",
+  "name": "Piet #066",
+  "description": "Piet  \n色褪せることのない存在  \nA being that will never fade away",
+  "attributes": [
+    {
+      "value": "Haus",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Mimi",
+      "trait_type": "VOICE"
+    }
+  ]
+}

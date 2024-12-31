@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ1ayB4VvtJzWr5kZB8HrDViStufzty8amrSdi55xVzbm/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 119,
+  "chainId": "1",
+  "name": "POCO_Carola",
+  "description": "Carola-Chan",
+  "attributes": [
+    {
+      "value": "Prudent",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Sci-Fi",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Schema-Chan Remake",
+      "trait_type": "SERIES"
+    }
+  ],
+  "minted": "✅"
+}

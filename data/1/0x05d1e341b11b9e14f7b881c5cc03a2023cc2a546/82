@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXjAwGpaFSmjr78vzDMhu6zFZis5pfXenWGL4JdGFmbyT/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmZuHeM2tzTdhCvijyGtwdsswmzD2Wxw6qBvmmpvNkQmew/nft.mp4",
+  "tokenId": 82,
+  "chainId": "1",
+  "name": "Joost #082",
+  "description": "Joost  \n互いに影響を与え合い、互いを変える色  \nColors that influence each other and change each other",
+  "attributes": [
+    {
+      "value": "Haus",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Mimi",
+      "trait_type": "VOICE"
+    }
+  ]
+}

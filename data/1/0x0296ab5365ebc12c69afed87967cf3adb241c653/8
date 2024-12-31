@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ84sLP5zjAgA53cm9ofcUx1AQkoSkyiF69jcYXNsgAKt/nft.png",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "昏[Kuré]",
+  "description": "「おっと、ここから先は進入禁止だぜ」\n\n月の世界のキャラクター、治安を守るために日々奮闘している。\n\n気配を消すのが得意でいつのまにかいなくなっていることがよくある。\n\nちなみに月の世界のキャラクターは全員が性別不詳。",
+  "attributes": [
+    {
+      "value": "月",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

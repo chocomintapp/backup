@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXAAMKKsS7b6hJKzd8x4LXzkPrWcS9Q9db8XUy2yhSYmn/nft.jpg",
+  "tokenId": 34,
+  "description": "The turtle wears the Finnish flag colored turtle shell.",
+  "nftContractAddress": "0x815c4f6b8c29f0ed47ea55b61209c3cd7f74d311",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Finnish turtle",
+  "attributes": []
+}

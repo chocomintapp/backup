@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmaf3in7pPDmTeqApxvC9j5gMmGeoxDqePoQdDgFfPdsuw/nft.png",
+  "tokenId": 2,
+  "description": "This is Naoki.",
+  "nftContractAddress": "0xbd1ed3a1c1d3496c0591c62dada34d96e78bd52a",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Naoki"
+}

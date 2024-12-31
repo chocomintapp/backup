@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZWmhKB26cov21Q4FDMmf78pHxRkp2X8o1A5x4Y7ceiFN/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWgMHMj8X5khS549wndSTFfFrt4ndTrPiYNXc1w8tqMv5/nft.mp4",
+  "tokenId": 432,
+  "chainId": "1",
+  "name": "THE JEWEL #432",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUvkwC6d5d3CuvEiSEceEbsRrMhzFGSLjiSMC7hjh627Q/nft.png",
+  "tokenId": 431,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #431",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Faint Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Knit Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    }
+  ]
+}

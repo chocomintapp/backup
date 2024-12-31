@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeyKEj974yFXSvjMhDxf7Pra9CTSXkcBw97aQw5mTLsWE/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmfKHM5EJcEXsTZ4YMzcm1oMwgVCguHRnJZPP2xWqV7WLi/nft.mp4",
+  "tokenId": 170,
+  "chainId": "1",
+  "name": "THE JEWEL #170",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Ambrigonite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver ",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

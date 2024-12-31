@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeSFnGtzy3MDhSXXuWwHv9FhZ3GuYznj6EeJJJm9trtSq/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 94,
+  "chainId": "1",
+  "name": "CHARLIZE",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "zombie2",
+      "trait_type": "skin"
+    },
+    {
+      "value": "odd_yellow_blue",
+      "trait_type": "eye"
+    },
+    {
+      "value": "black02",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "mars_ear",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Cancer",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

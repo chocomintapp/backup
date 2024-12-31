@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT8WPZq9zCFVrNyQBKr9tZsspnAejsJMAeVpWCjwcwKrH/nft.gif",
+  "tokenId": 1,
+  "description": "2000x2000pixels.\nJuly 2021",
+  "nftContractAddress": "0xd0bba1948229eddab445868b8cb5e4b2b9caf5a6",
+  "animationUrl": "https://ipfs.io/ipfs/QmT8WPZq9zCFVrNyQBKr9tZsspnAejsJMAeVpWCjwcwKrH/nft.gif",
+  "chainId": "1",
+  "name": "man-made",
+  "minted": "✅"
+}

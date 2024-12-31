@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUKBXRZ3rXajJjLHYBFa13PnfAZqcRV7j2wfBgUCVyXiW/nft.jpg",
+  "nftContractAddress": "0xdcbbd79e20c1ea86680ed83c872e8786f5f578f1",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "#13 VILLAINS BEAN THE GEL BUTTERFLY",
+  "description": "Beans in 3D are here!! The second series is VILLAINS. They are MAMENGERS enemy.",
+  "attributes": [
+    {
+      "value": "Cutie Antenna",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Tattoo[悪]",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Butterfly Gel",
+      "trait_type": "EAR ACCESSORY"
+    },
+    {
+      "value": "Butterfly Tail&Wings",
+      "trait_type": "BODY ACCESSORY"
+    },
+    {
+      "value": "Pollution",
+      "trait_type": "BODY COLOR"
+    },
+    {
+      "value": "None",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "Poisonous Skull",
+      "trait_type": "ARTICLES"
+    },
+    {
+      "value": "Villains Sky",
+      "trait_type": "BACKGROUND"
+    }
+  ],
+  "minted": "✅"
+}

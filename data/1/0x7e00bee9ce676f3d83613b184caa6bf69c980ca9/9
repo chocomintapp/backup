@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQDCtpGdXm6GRC5XktCNaGJSswgn3NohNaCfzAri3dm2s/nft.png",
+  "nftContractAddress": "0x7e00bee9ce676f3d83613b184caa6bf69c980ca9",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "CyberAnimeDOLL #002 Renge ( れんげ )_Model1",
+  "description": "#002 Renge ( れんげ )_Model1\nキャラクター設定詳細は、Discordに掲載。",
+  "attributes": [
+    {
+      "value": "Front and Back - まえしりえ",
+      "trait_type": "Ability"
+    },
+    {
+      "value": "Digital Heroes - デジタルヒーローズ - 電算英雄",
+      "trait_type": "Clan (Straight)"
+    },
+    {
+      "value": "Human - ヒト",
+      "trait_type": "Entity concept"
+    },
+    {
+      "value": "Emerald Green - 翠玉_すいぎょく",
+      "trait_type": "Eye color"
+    },
+    {
+      "value": "Violet pink - バイオレットピンク",
+      "trait_type": "Hair color"
+    },
+    {
+      "value": "Pigtails - ツインテール",
+      "trait_type": "Hairstyle"
+    },
+    {
+      "value": "Information Broker - 情報仲介人",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "En-chan - エンちゃん",
+      "trait_type": "PTAA Name"
+    },
+    {
+      "value": "Virtual Assassin - バーチャルアサシン - 仮面刺客",
+      "trait_type": "Clan (Underworld)"
+    },
+    {
+      "value": "Yata-san - ヤタさん",
+      "trait_type": "Autonomous Mechanical Pet"
+    }
+  ],
+  "minted": "✅"
+}

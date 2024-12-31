@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYcb6FG8Z5ABbVDXoNwLKhvfP21UywgnBgmHvzZdqPHSL/nft.png",
+  "nftContractAddress": "0x25147e135da46f0fb62850c24137b68d7ffc7d07",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "BE KOBE NFT CREATIVE AWARD #15",
+  "description": "第1回 BE KOBE NFT CREATIVE AWARD 『王子公園ハイム』マクアート部門 応募作品\n\n【タイトル】\nBeef KOBE\n\n【制作者】\nmackoto_art 様\n\n【コンセプト】\n神戸ビーフにシンボルのポートタワーがユニコーンのようにあり、海洋博物館が羽のようになっています。\n牛のふち部分は薄く神戸のブルーカラーにして、色盲の方でもシルエットでわかるようにしています。\n神戸は外国との文化が交わるので海外風なカッコよさをシルエットで想像できるようにしています。\nおしゃれな神戸でbeefが食べたくなる、そして新たにスタートするために右肩上がりで神戸から羽ばたこう！というのをイメージしています。",
+  "attributes": [
+    {
+      "value": "『王子公園ハイム』マクアート",
+      "trait_type": "部門"
+    }
+  ],
+  "minted": "✅"
+}

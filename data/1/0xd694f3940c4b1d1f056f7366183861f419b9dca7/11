@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZF1r4xJCH7CXXQYXAXowRGDkxC3KmVzyTwNU6zxJ57CU/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "May 28 オレンジ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "28",
+      "trait_type": "日"
+    },
+    {
+      "value": "花嫁の喜び",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "オレンジ",
+      "trait_type": "花"
+    }
+  ]
+}

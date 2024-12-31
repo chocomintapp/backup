@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmajMVupV5KwrYbYEGqiA3zDsxf4s63BxHur6oTLX5o39V/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "HOTARU",
+  "description": "HOTARU calms me down when I watch fire, so I asked YUDA to make an android so that I can produce flames from my hands. Now that he can handle flames with higher power than expected, he is dragging around demons that misbehave every night.\n■ホタル\nHOTARUは火を観てると落ち着くので、手から炎を出せるようにYUDAにアンドロイドにしてもらいました。思った以上に高威力の炎を扱えるようになったため、毎晩のように悪さをする悪魔を引きずりまわしています。",
+  "attributes": [
+    {
+      "value": "Light-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.1",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllRed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Robody-RedRabbit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Devil",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTp2Md8GcbC4p8SfV58jTaYPu7sei9Fg8vVwq3emSzvfw/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "1",
+  "name": "June 21 クチナシ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "21",
+      "trait_type": "日"
+    },
+    {
+      "value": "幸せでとてもうれしい",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "クチナシ",
+      "trait_type": "花"
+    }
+  ]
+}

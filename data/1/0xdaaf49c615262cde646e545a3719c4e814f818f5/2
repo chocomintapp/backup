@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQsg3uq46Af6Ncehs9i11sMquk9R1rDxnAwYSgU8j6eq7/nft.png",
+  "nftContractAddress": "0xdaaf49c615262cde646e545a3719c4e814f818f5",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "hamu(Y)",
+  "description": "hamu(Y)",
+  "attributes": [
+    {
+      "value": "YELLOW",
+      "trait_type": "color"
+    }
+  ]
+}

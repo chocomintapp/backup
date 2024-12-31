@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYqsaZx7KdNmUyk2Wfu6j5m8u2dZ4yzJ7QwL5Go2NZdBR/nft.jpg",
+  "tokenId": 1,
+  "description": "cosmos image",
+  "nftContractAddress": "0xbe70e184f653e4a6c59e03b376d473611dbe74b6",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "cosmos"
+}

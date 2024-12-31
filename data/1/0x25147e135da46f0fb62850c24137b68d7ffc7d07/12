@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdAHMpRhDjGSiQaY8Bu7dmgrroP6gf5BYYm5bStAsfti9/nft.png",
+  "nftContractAddress": "0x25147e135da46f0fb62850c24137b68d7ffc7d07",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "BE KOBE NFT CREATIVE AWARD #12",
+  "description": "第1回 BE KOBE NFT CREATIVE AWARD 『王子公園ハイム』マクアート部門 応募作品\n\n【制作者】\n えど★ざわ様\n\n【コンセプト】\n私にとっての神戸、というと海があって山があって異人館があって～さらに鉄人もいる～というところ、素敵なものが全部つまっている神戸！という街が大好きです。\n\nそんな神戸の好きなところを全部詰め込んでみました😊海山鉄人、あとパンダです。",
+  "attributes": [
+    {
+      "value": "『王子公園ハイム』マクアート",
+      "trait_type": "部門"
+    }
+  ],
+  "minted": "✅"
+}

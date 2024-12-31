@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY81nmrmVR9SfcZRL4Fub6APGurzzYoVPZXFBTJPFai8i/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 73,
+  "chainId": "1",
+  "name": "EmeTob",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "purple",
+      "trait_type": "skin"
+    },
+    {
+      "value": "stylish_red2",
+      "trait_type": "eye"
+    },
+    {
+      "value": "green01",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_emblem",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Pisces",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

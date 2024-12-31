@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSMxURkbyA1KVYZcgpBnGQMmG3oaX3houcC79Hbwq1YBz/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 207,
+  "chainId": "1",
+  "name": "December 10 パンジー（紫）",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "10",
+      "trait_type": "日"
+    },
+    {
+      "value": "愛の使者",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "パンジー",
+      "trait_type": "花"
+    }
+  ]
+}

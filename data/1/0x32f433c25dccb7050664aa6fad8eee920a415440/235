@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYdNpARDaH9PA9jg4zh1wmGTJsZ8w6K59Crzp6RhZfexP/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmVxBi25jfUA89RDZYZsiaKPCHv9yMZMpgAbX4ckNogXmc/nft.mp4",
+  "tokenId": 235,
+  "chainId": "1",
+  "name": "THE JEWEL #235",
+  "description": "THE JEWEL NFT\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRnrTcPyQyv9rYKZJBFMUpPwBR2g3Q25fPybgzWLK8nVq/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmfXf8hNgFiBvLWW1dDfNQiWaa4txXQKS7RNNkr7YTZiWx/nft.mp4",
+  "tokenId": 74,
+  "chainId": "1",
+  "name": "Zakuro #074",
+  "description": "Zakuro  \n025と035から産まれた新しいMIMI  \nNew MIMI spawned from 025 and 035",
+  "attributes": [
+    {
+      "value": "Creator",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Mimi",
+      "trait_type": "VOICE"
+    }
+  ]
+}

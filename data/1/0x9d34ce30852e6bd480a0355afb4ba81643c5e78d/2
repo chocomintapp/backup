@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQJ8L3mEm6mwQu6Ra6kjzTgbAaPArW6VJA3gh8VuK7FQ4/nft.gif",
+  "tokenId": 2,
+  "description": "Invisible Places",
+  "nftContractAddress": "0x9d34ce30852e6bd480a0355afb4ba81643c5e78d",
+  "animationUrl": "https://ipfs.io/ipfs/QmQJ8L3mEm6mwQu6Ra6kjzTgbAaPArW6VJA3gh8VuK7FQ4/nft.gif",
+  "chainId": "1",
+  "name": "depth",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

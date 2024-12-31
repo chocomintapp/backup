@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmesK2eR6xDP3gVQzPC5CCumCXpPdCYA1zDmtrk1hMSGX4/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmVqEXLPtreeJdcox5mh2MBeSXV25YqVkVAXK1RTRBrzbX/nft.mp4",
+  "tokenId": 657,
+  "chainId": "1",
+  "name": "THE JEWEL #657",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Mint garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Iridium",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUMiHv6vjfFSESv7a5hHXXmriaL5i1M38bam2vxwp7Hem/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 119,
+  "chainId": "1",
+  "name": "September 13 センニチコウ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "13",
+      "trait_type": "日"
+    },
+    {
+      "value": "不滅の愛",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "センニチコウ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

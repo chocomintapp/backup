@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNgtDxLDMS7szAxuFf2kyFncv6W42UhoRaFJtvdngn169/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 48,
+  "chainId": "1",
+  "name": "POPET No.48",
+  "description": "【物語】\nこちらブルー。みんなとはぐれちゃった。どこに行こう。",
+  "attributes": [
+    {
+      "value": "ヒーロー",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "港",
+      "trait_type": "origin"
+    },
+    {
+      "value": "無口",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYDox3nsXQ59JbHWXK9XkPGbkCErTMBFzHJQAqRqBddtF/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmRq5SmZmKK9mdmHNskiFmKbnAeCu2NB6BvCH75Hqw8PKA/nft.mp4",
+  "tokenId": 155,
+  "chainId": "1",
+  "name": "THE JEWEL #155",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Phantom of Purple",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Borazon",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZxfZDGj2vLfn1LSz3WrAwNfufYeLKPbLvRQ39ZcmxB3v/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "1",
+  "name": "REN",
+  "description": "Ren is a big dog lover.\n\nHe always takes his dog for a walk, and each walk never lasts less than 3 hours.\n\nHe does this twice a day, so his dog is exhausted every day.\n\nThanks to this, both he and his dog enjoy a good meal and a good night's sleep every day.\n■レン\n\nレンは大の犬好き。\n\n愛犬をつれていつも散歩に出かけるが、1回の散歩が3時間以下になったことがない。\n\nそれを1日2回もするもんだから、愛犬は毎日ヘトヘト。\n\nおかげでレンも愛犬も毎日、美味しい食事と深い睡眠にありつけている。",
+  "attributes": [
+    {
+      "value": "Light-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Star&tear5",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Burstout-Laughing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Silver",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Lightbluewhite",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

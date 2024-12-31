@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUXbNax7T5deKYSsGtqbwYbiRrmShzgwX9EdddBb7udes/nft.png",
+  "tokenId": 153,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #153",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cutout Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Rhombus"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Blue Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Coconut Water"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Round"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTpxFpGrZ9X3FwHJodiRFBp3cnPih3RPcGGirGLZHeHnH/nft.png",
+  "nftContractAddress": "0x2591dba17657edbd1e008e2e18c3ed3723bf5403",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "Illuminated Manuscript of Fungi Girl #1",
+  "description": "Mushroom, Female, Fungi Girl, Cute, AI Art, AI Drawing",
+  "attributes": [
+    {
+      "value": "Orange",
+      "trait_type": "Colors"
+    },
+    {
+      "value": "Deep Sea",
+      "trait_type": "Background type"
+    }
+  ]
+}

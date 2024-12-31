@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQVjSA1RaiFazHPLR3dh5wHuFGAmBESeN1Po5Cky3CXDH/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "1",
+  "name": "WEAR BEAR #0116 “SCOTT” BLACK WORK SHIRTS",
+  "description": "WEAR BEAR 第12弾はHIP HOPクルー“BEAR HOP”として音楽シーンに鮮烈デビュー！オールブラックコーデでクールに登場\n“SCOTT”は”BEAR HOP”オフィシャルワークシャツのクールなワークスタイルで登場\n",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "“BEAR HOP” WORK SHIRTS",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Black Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "“MIKE” Bear force 1",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Scott",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Glasses",
+      "trait_type": "Accessories"
+    }
+  ]
+}

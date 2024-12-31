@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUtA9ZXJ4sg5xGovDW2h3C9NcjH1mCBn6QCNR94JwiGJr/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 112,
+  "chainId": "1",
+  "name": "POCO_Tova",
+  "description": "Tova-Chan",
+  "attributes": [
+    {
+      "value": "Wise",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "White",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Sci-Fi",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Schema-Chan Remake ",
+      "trait_type": "SERIES"
+    }
+  ],
+  "minted": "✅"
+}

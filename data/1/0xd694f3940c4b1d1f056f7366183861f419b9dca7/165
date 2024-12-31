@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXoscdXHJVrxVztxRXFcVWADQjcMUWxrJicNbc15Snx3k/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 165,
+  "chainId": "1",
+  "name": "October 29 ギンモクセイ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "月"
+    },
+    {
+      "value": "29",
+      "trait_type": "日"
+    },
+    {
+      "value": "気高い人",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ギンモクセイ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

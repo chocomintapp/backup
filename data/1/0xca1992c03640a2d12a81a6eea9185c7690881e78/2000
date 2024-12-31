@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVTEosTaDyR24Rp6CCYmxYfXNaPfPUFQDh6CaPw5uGdZE/nft.png",
+  "tokenId": 2000,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #2000",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Rainbow Braid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Rainbow Beads"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Rainbow Fries"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Rainbow Cat"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Rainbow Angel"
+    },
+    {
+      "trait_type": "Feature",
+      "value": "Rainbow Outfit"
+    }
+  ]
+}

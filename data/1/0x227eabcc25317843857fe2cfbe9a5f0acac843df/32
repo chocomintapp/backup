@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd2vLRj9PN1sUEFxRB1vNfKLj6Wtosj2Xh53GxmgSizV1/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "1",
+  "name": "Beach Borne Bae #60",
+  "description": "Beach Borne Bae #60\nInspired by Nembrotha kubaryana / アカフチリュウグウウミウシ",
+  "attributes": [
+    {
+      "value": "Double Bun",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "T-shirt",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Green",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Sea Slug",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

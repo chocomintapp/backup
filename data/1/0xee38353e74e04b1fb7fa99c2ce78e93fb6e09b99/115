@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVevRDQ1nRzELix7sFRUpMUtBBJv8s9NFycCGoLPg42R5/nft.png",
+  "nftContractAddress": "0xee38353e74e04b1fb7fa99c2ce78e93fb6e09b99",
+  "animationUrl": "",
+  "tokenId": 115,
+  "chainId": "1",
+  "name": "#0115 Series000 No.013\"Irregular\"",
+  "description": "未来の自律型電脳ゲーミングPC『Chirobo.』\n   \nPortable Network Graphics       \n2048×2048px",
+  "attributes": [
+    {
+      "value": "Series 000",
+      "trait_type": "Series"
+    },
+    {
+      "value": "Irregular",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Square type A",
+      "trait_type": "CPU"
+    },
+    {
+      "value": "Xenotics type A",
+      "trait_type": "GPU"
+    },
+    {
+      "value": "CircleIndustry type A",
+      "trait_type": "RAM"
+    },
+    {
+      "value": "PaleColor",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Orange×Green",
+      "trait_type": "LED"
+    }
+  ],
+  "minted": ""
+}

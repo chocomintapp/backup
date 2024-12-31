@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYCPqaDcbuTotyE7Qjm685UdqyiSppm6Jb4DsP1Pu1jJu/nft.jpg",
+  "tokenId": 4,
+  "description": "制作者- とぅんぬ\nhttps://twitter.com/M_Y_M_T\n\nこのNFTはとぅんぬと相談しながら自分の理想的なアバターを作り上げていくことが可能です。\n作成したアバターは映像配信やVRの世界などで自由に使用することができます。\n\nまたアバター納品後に制作権NFTの卵のデザインがオリジナルアバターに変化します。\nこのNFTはアバターの所有権を証明するものとなります。\n\n\n\n詳細はこちら\nhttps://docs.google.com/presentation/d/1oRqdKP1Kg4om5U1JJjLf8V_e897SStMnr48bnxLDx8U/edit\n\n\n\n< VRMアバター制作 >\n\nHumanoid形式3Dモデル\n\n種類 - 人型, ゆるキャラ型\n\n※依頼主が著作権を保有していないIP物は制作できません\n\n・人型\n\n表情 - neutral, blink, joy, sorrow, angry, suprise, fun\n\nVRoid studioで制作\n\n・ゆるキャラ型\n\n表情 - neutral,blink, joy\n\n\n\n\n< 利用規約 >\n\n個人利用、法人利用　可\n\n\nアバターの改変　可\n\n\nアバターの配布、再配布　不可\n\n\nアバターのメディアでの利用　可\n\n\nアバターの自ら使用するためのオンラインサービスへのアップロード　可\n\n\n\n\n< NFT購入後の手続きについて >\n\n落札者の方にはとぅんぬより連絡します。\nお手数ですが、OpenSeaのプロフィール画面を編集して連絡先を記載してください！\n\nOpenseaでのプロフィール変更方法\n\n①OpenSeaを開き、My Profileへ移動します。\n②自分のアカウントのページ右側の、歯車ボタンをクリックして設定画面を開きます。\n③Bioを編集するとその内容がプロフィールに反映されます\n④Saveを押すと登録したメールアドレスに認証メールが送られます。承認するとプロフィール変更が適用されます。",
+  "nftContractAddress": "0x7c8c8615c676e108c96cf6ceee8b15013f262d4d",
+  "animationUrl": "https://ipfs.io/ipfs/QmTuwdpCwgpyck2xRuA6eBh7oCNs4MEGiqYDrW4hjL3x3C/nft.mp4",
+  "chainId": "1",
+  "name": "VRMアバター制作権NFT"
+}

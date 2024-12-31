@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUryqHWAwpB7ev8NtoPDa7soBWpgT5YVCHLX1zqjQKrck/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmdtYzw5sgYLQyqBPNNkr21L1wLr8EGpJMPmi6oByD96r2/nft.mp4",
+  "tokenId": 94,
+  "chainId": "1",
+  "name": "THE JEWEL #094",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "brown",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "gold",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

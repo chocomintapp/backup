@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb3uWd2b9ZJKPmLoP67nhFddiuHhi6DHVmkHrANspv2Mw/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 204,
+  "chainId": "1",
+  "name": "EMI",
+  "description": "■エミ",
+  "attributes": [
+    {
+      "value": "NInja3-Skyblue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-URed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Matchingcloth-04（B）",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "LeeLee-nihility",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-SnowWhite",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQFv8p9Tyz7HVuMwGpHSmCg1CGvDN3ZxPF5XeEHipDahy/nft.png",
+  "nftContractAddress": "0x1bba5cf9da1c5f778657c86225a88f98f8b47e4c",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "#018 Tim Freelancer",
+  "description": "Tim is a freelancer and works on his own terms.\nHis mother thinks he's a NEET, but Tim has a decent income and is saving money and skills until he can do what he wants in the future.",
+  "attributes": [
+    {
+      "value": "Tim",
+      "trait_type": "CHARACTER"
+    },
+    {
+      "value": "Job",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Freelancer",
+      "trait_type": "JOB"
+    }
+  ]
+}

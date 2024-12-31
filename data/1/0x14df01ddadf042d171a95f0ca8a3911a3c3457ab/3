@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPdxPU1vuraSQ3J5Sb1whDP5tp8gzZiQK7Zartzq6oc1v/nft.gif",
+  "nftContractAddress": "0x14df01ddadf042d171a95f0ca8a3911a3c3457ab",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "#3",
+  "description": "仕事の後はGOROだぜ！！\n今宵も侍GOROは切れ味鋭い作品を作るぜ！！\nSell BTC, Buy GORO ！！",
+  "attributes": [
+    {
+      "value": "Goro",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Goro",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Stand-up collar",
+      "trait_type": "Body"
+    },
+    {
+      "value": "YOIDORENOKAMI GOROMITSU",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Background "
+    },
+    {
+      "value": "Samurai",
+      "trait_type": "Job"
+    }
+  ],
+  "minted": "✅"
+}

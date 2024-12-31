@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVKJ3k4abUdXNTKXb33p4K35M3xspDFaoWGFavcsbd4d7/nft.png",
+  "nftContractAddress": "0x32f322055749fd058608eb342bd8c0ad6e463cdf",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "1st Thinker (5pp4)",
+  "description": "Everyone is first thinker.",
+  "attributes": [
+    {
+      "value": "Space",
+      "trait_type": "DIMENSION"
+    },
+    {
+      "value": "Space Azure System",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Pupil",
+      "trait_type": "EYE"
+    },
+    {
+      "value": "Multiple",
+      "trait_type": "BODY IMAGE"
+    }
+  ]
+}

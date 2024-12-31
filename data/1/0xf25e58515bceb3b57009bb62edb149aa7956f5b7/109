@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme5HiUVSDnnxKCP9Lx3rtY1DnWcgAKinXCu55xdzg5Eeh/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 109,
+  "chainId": "1",
+  "name": "NIKKI",
+  "description": "■ニッキー",
+  "attributes": [
+    {
+      "value": "Entrance Heavenly2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Duckstyle-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Orange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-Orange(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Blue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Duck Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

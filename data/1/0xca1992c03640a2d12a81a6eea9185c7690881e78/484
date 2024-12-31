@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeqfG5tCZezxHRdV67agSb4SLQQuhEKf52umynC7xiJiQ/nft.png",
+  "tokenId": 484,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #484",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovely Madness"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Faint Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Knit Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Fork"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Yellow Rose"
+    }
+  ]
+}

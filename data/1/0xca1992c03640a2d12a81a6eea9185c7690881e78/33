@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfQxQnLMSirzpV4E8E7CVfmGv2o66Ykqj6DVBntRqVunQ/nft.png",
+  "tokenId": 33,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #33",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rock Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cutout Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Rhombus"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Blue Leather"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Red Glasses"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Blue Cat Ears"
+    }
+  ]
+}

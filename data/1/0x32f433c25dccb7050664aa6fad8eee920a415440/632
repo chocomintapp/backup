@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcrEBMAdyFR8EhFfZNR95dQnohE4wDC48MKvzzS6GRrMw/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmdcPLhQB92zDcx48w8yPDNABhbqxd5smaJCqEZSYppBxh/nft.mp4",
+  "tokenId": 632,
+  "chainId": "1",
+  "name": "THE JEWEL #632",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Elbaite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Palladium",
+      "trait_type": "Control device"
+    }
+  ]
+}

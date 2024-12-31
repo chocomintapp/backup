@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRzKX5v1tMwVdch8SMfKH4mDyBHeX7cFf7m5xgH5wukLi/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "1",
+  "name": "June 28 アジサイ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "28",
+      "trait_type": "日"
+    },
+    {
+      "value": "うつり気",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "アジサイ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

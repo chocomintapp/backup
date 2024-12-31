@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV9JpBMCqJDswQvCi7ZWdA5EHSxFzCnLnvwm7zoPWbhFj/nft.jpg",
+  "nftContractAddress": "0xcfd92402cfb2a5d758b3b4963d523d8416f21e33",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "スサノオ -朧月- / SUSANOO -oborozuki darkpurple-",
+  "description": "Born from Izanagi's nose as he bathed in a river to purify himself. After flying into a fit of rage and being expelled from the heavens, he descended to earth, where he slew the legendary serpent Yamata no Orochi and became a hero. Having rescued the incomparable beauty Kushinadahime from being sacrificed, he then married her.\n\nイザナギが禊をした時に鼻から生まれた。大暴れし天上界を追放された後、ヤマタノオロチを退治してヒーローになる。その時、生贄になるはずだった絶世の美女クシナダヒメを助け、結婚する。",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "Prayers for victory"
+    },
+    {
+      "value": "5",
+      "trait_type": "Matchmaking and marriage"
+    },
+    {
+      "value": "7",
+      "trait_type": "Prevention of illness"
+    }
+  ],
+  "minted": "✅"
+}

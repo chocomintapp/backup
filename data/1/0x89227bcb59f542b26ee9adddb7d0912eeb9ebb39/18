@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVekY43VLLjt5Ju7jDtpFaAVExfFsqJkf11wa4yRtRagN/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "#018-Fukui-",
+  "description": "#018-Fukui-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Flare",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Chubu",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Fukui",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

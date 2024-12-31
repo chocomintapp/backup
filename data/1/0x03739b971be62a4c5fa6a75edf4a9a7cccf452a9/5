@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX2rFz2oCNAgcG2sw7KyGkZ5gQKjCx6Vi17m64m3dP4m9/nft.png",
+  "nftContractAddress": "0x03739b971be62a4c5fa6a75edf4a9a7cccf452a9",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "CoolGirl of the season #005",
+  "description": "A collection based on the concept of CoolGirlNFT and the seasons.\n  \nWe want you to feel different scenery with CoolGirl depending on the season.\n  \nCoolGirlNFT⇒ https://opensea.io/collection/coolgirlnft",
+  "attributes": [
+    {
+      "value": "karate",
+      "trait_type": "hobby"
+    },
+    {
+      "value": "005",
+      "trait_type": "No."
+    },
+    {
+      "value": "autumn",
+      "trait_type": "season"
+    },
+    {
+      "value": "autumn dusk",
+      "trait_type": "seasonal"
+    }
+  ],
+  "minted": "✅"
+}

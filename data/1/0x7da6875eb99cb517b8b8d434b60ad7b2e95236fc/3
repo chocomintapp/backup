@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYkeSM1MHNoiUc3zv23dyXQAQBSKgogqLEuAqHatE6pnB/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "KAIKA #3",
+  "description": "",
+  "attributes": [
+    {
+      "value": "water",
+      "trait_type": "energy"
+    },
+    {
+      "value": "none",
+      "trait_type": "extra"
+    },
+    {
+      "value": "sleepy",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "brown",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "long straight",
+      "trait_type": "hair"
+    },
+    {
+      "value": "black",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "open smile",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "deep dark",
+      "trait_type": "skin tone"
+    }
+  ]
+}

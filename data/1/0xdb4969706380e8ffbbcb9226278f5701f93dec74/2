@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb6cLkBQwn6habDM1Ff93BLvPnE3C4sdA9zDqt8iQzfF9/nft.jpeg",
+  "nftContractAddress": "0xdb4969706380e8ffbbcb9226278f5701f93dec74",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "gamaccho face",
+  "description": "gamaccho's icon",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

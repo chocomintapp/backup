@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ7z4QGLACrrRg6UiNWoYZQMKmsiMeacMjiFRm5VFhSZZ/nft.gif",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "Working Ganmichan#39",
+  "description": "バカになれ　とことんバカになれ\n薪を割れ　とことん薪を割れ\n割って割って薪を割って\n裸になったら見えてくる\n本当の自分が見えてくる\n本当の自分も笑ってた\nそれくらい薪を割れ",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "makiwari",
+      "trait_type": "situation"
+    },
+    {
+      "value": "baba",
+      "trait_type": "bro"
+    }
+  ]
+}

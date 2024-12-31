@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQrUzDfDyXmTugYqAkPQLNeXmSSJhykqKSKgKbAJLxA3N/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "THS #058",
+  "description": "【羅】",
+  "attributes": [
+    {
+      "value": "pine tree",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "eggplant",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "goldfish",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "ell",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

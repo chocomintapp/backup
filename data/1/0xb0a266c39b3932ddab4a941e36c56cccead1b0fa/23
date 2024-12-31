@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY6HwoDvVsYYxjNUbZDBWKKBNQdUeBMdNdTwiAaw2qxht/nft.png",
+  "nftContractAddress": "0xb0a266c39b3932ddab4a941e36c56cccead1b0fa",
+  "animationUrl": "https://ipfs.io/ipfs/QmexGps41m3dBbfqrAFetku1ukC75WHJzYbCGvhdmLvrD3/nft.mp4",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "NauGhtEd SAKANA MOVIE",
+  "description": "NauGhtEd SAKANA MOVIE\n\n魚をモチーフにした作品です。",
+  "attributes": []
+}

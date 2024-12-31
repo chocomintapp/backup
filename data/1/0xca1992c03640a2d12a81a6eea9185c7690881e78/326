@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdUk7Rr45uHUNosBqWr6WsG7CzYDUbWnfpFRBcCxd35ov/nft.png",
+  "tokenId": 326,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #326",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Braid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "See-Through"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold 3 Hoop"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Letter"
+    }
+  ]
+}

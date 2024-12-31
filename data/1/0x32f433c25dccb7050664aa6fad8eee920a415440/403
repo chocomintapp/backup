@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNmd3HauAGgzeJnd1YsrRyegPZjwCeXwbntj7MWuBaWqu/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmXYyFVLDVfkGt9LjSkUa9aJYMHCeY4zsuX8nzrtzfhXzQ/nft.mp4",
+  "tokenId": 403,
+  "chainId": "1",
+  "name": "THE JEWEL #403",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

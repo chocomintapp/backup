@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXmVm6amXDLVyAcfAUFrSVCbVEUbaMLcnLTxGK3wEFraJ/nft.png",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 801,
+  "chainId": "1",
+  "name": "Byte",
+  "description": "New life born the coexistence with human and data. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Green",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "African Pattern",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Neon",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "6LOM",
+      "trait_type": "PROTO VALUE"
+    },
+    {
+      "value": "Free",
+      "trait_type": "DRESS CODE"
+    }
+  ]
+}

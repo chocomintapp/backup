@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbwzkc5JM6LcXJzpwotLP9ST5fqmMRZjEB7FnRYuPZHsM/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "sorai",
+  "description": "He is one of the AlternativeVerth, which emerged when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "asia",
+      "trait_type": "skin"
+    },
+    {
+      "value": "normal_brown",
+      "trait_type": "eye"
+    },
+    {
+      "value": "black05",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_glass",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Pegasus",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

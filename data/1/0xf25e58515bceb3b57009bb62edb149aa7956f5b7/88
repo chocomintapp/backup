@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYfbegxQ6nqUxW8BoWzGzxQevY4gous1WSn7mpD52Zpzb/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 88,
+  "chainId": "1",
+  "name": "SATOKO",
+  "description": "SATOKO is from northern Japan.\n\nShe loves to scare people and her dream is to work in a haunted house.\n\nShe hates sunburn anyway, and the sunscreen she uses is a super high-end product.\n\n■サトコ\n北国出身のサトコ。\n\nみんなを怖がらせるのが大好きで、将来の夢はお化け屋敷で働くこと。\n\n日焼けがとにかく嫌いで、彼女が使っている日焼け止めは超高級品。",
+  "attributes": [
+    {
+      "value": "MIX3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Catstyle",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Wide-Void",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-White(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Groggyman",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

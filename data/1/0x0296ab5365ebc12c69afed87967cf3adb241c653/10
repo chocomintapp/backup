@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZCpgk1sDBVWgjKQsf2GNZnmSvWiVsFQdAbvZqk7s9zbr/nft.jpg",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "明音[Akane]",
+  "description": "「寒空の下、彼女と目が合うと雪が溶けたような気がした。」\n\nいつでも明るい女の子、明音。寒い中でもいつもと変わりない彼女の姿は”僕”を勇気づける。\n\nそんな冬空の下の物語。",
+  "attributes": [
+    {
+      "value": "雪",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

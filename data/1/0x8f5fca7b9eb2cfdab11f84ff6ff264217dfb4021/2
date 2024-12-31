@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVK2Sa6ihfSyUhm6hGvRt45Cx2XCggZZgZE4pQ58SvqQz/nft.png",
+  "tokenId": 2,
+  "description": "Strategic-level simulation game tanks (red)",
+  "nftContractAddress": "0x8f5fca7b9eb2cfdab11f84ff6ff264217dfb4021",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Strategic HEX #02",
+  "attributes": [
+    {
+      "trait_type": "size",
+      "value": "600x600"
+    }
+  ],
+  "minted": "✅"
+}

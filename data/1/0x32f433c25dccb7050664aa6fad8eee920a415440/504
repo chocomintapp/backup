@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdaztHduxEFgXTni4y419Pd49SFi4Ei6p9Mu9EoT1oacM/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmXL9VWceQj6tKLAKK8uZCYtfuxmkJ9eQQEiPdFpgCLVAq/nft.mp4",
+  "tokenId": 504,
+  "chainId": "1",
+  "name": "THE JEWEL #504",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Red Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

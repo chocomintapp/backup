@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY7soNvG277xmhdZg293qZFeXQssNWhqf8Rp3HUFnxvGc/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "1",
+  "name": "June 22 ガマズミ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "22",
+      "trait_type": "日"
+    },
+    {
+      "value": "愛は死より強し",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ガマズミ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQNNvJphyjiVxB6ropUjNdrz65zVTnjTmQ576juuU8Z14/nft.png",
+  "tokenId": 630,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #630",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Curly Pixie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Summer Kimono"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Silver Dog Tag"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Spoon"
+    }
+  ]
+}

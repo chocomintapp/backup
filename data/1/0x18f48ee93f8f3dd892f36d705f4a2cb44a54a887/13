@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNWV58aTKFovcgino8TvVxt6tkbDMjVuWsz4DJidzrjYm/nft.jpg",
+  "tokenId": 13,
+  "description": "I am a pretty heavy coffee drinker and used to love Lattes. In later years I have moved on to black coffee however and now swear by it.\nKrs 2008",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmNWV58aTKFovcgino8TvVxt6tkbDMjVuWsz4DJidzrjYm/nft.jpg",
+  "chainId": "1",
+  "name": "Coffee"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQd81wQpMm6tNn8um27n9qYgFosk7UPWhtBTL4KZSvPDh/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 79,
+  "chainId": "1",
+  "name": "JAZMIN",
+  "description": "Jazmine has a shy personality, which is unusual for a girl from everlasting summer.\n\nWhen she was a child, she would stay at home and read books while everyone else played outside.\n\nSince her encounter with witchcraft when she was 10 years old, summoning demons has become a daily routine for her, and she summons Moly, a high-level demon, and seals him in her cat-shaped hairpin.\n\nBy the way, she can't tell the difference between a sandwich and a hamburger.\n■ジャズミン\n常夏出身には珍しく、内気な性格のジャズミン。\n\n小さい頃は、みんなが外で遊んでる間も家にこもって本ばかり読んでいるような子だった。\n\n10歳の頃に呪術と出会ってからというもの悪魔召喚が日課になり、上級悪魔のMolyを召喚し猫型のヘアピンに封印している。\n\nちなみに彼女はサンドイッチとハンバーガーの区別がつかない。",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Purple",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Scornful-Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-Purple(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Moly",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Demon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

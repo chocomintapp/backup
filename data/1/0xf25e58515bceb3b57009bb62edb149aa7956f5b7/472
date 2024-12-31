@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU6dckCpsNLYf85eojRxyESeu478ZhqC6CCprPUFCgQnC/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 472,
+  "chainId": "1",
+  "name": "SAI",
+  "description": "■サイ",
+  "attributes": [
+    {
+      "value": "Black Sickle-Back",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "AnisuHair(W)",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Pink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "JKANGEL",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Angel-Toypoodle",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Angel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Heavenly Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

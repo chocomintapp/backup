@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma5addFWbVeXhrxy4ACRtMtBeEk4TM6DYNqivReZSZYAS/nft.png",
+  "nftContractAddress": "0x659c86dfd0bbf556c9dd7ed478b4b41ebab3ca87",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "GOD HATES NFTS",
+  "description": "from NFTNYC2022",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "NFT",
+      "trait_type": "Category"
+    },
+    {
+      "value": "NY",
+      "trait_type": "City"
+    }
+  ]
+}

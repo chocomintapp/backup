@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma8s1UiRqQiJToNt4rFGYmbRfEDt6EGj7nD5gk8FVkdH1/nft.png",
+  "tokenId": 2,
+  "description": "#テーマ：はじまり\n\n朝から旅の資料を集めに図書館にきているオッドアイくん。  \nキノコ猫ちゃんもついてきたけど、内容はちょっと難しそう。  \n本にはどんなストーリーが描かれているのでしょうか？\n\n#THEME: Beginning\n\nOdd Eye BA has been at the library since this morning to collect information about his trip.  \nMushroom Head Cat came with him, but the contents seem a bit difficult.  \nWhat kind of stories are written in the books?\n\n---\n\nMain Character: Aoyoko  \nSub Character: YO-CO  \nCharacter coloring: Alpaca Go Go  \nBackground: Mai Kano",
+  "nftContractAddress": "0xe2215863fb63a2d700918b13555f5101f290ad31",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "YAMA Quartet 02",
+  "attributes": [
+    {
+      "trait_type": "Main Character",
+      "value": "Aoyoko"
+    },
+    {
+      "trait_type": "Sub Character",
+      "value": "YO-CO"
+    },
+    {
+      "trait_type": "Character coloring",
+      "value": "Alpaca Go Go"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mai Kano"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRJrozYUpwvC1kj3mPGWmNmiP1TgTBfUE5g51qA8k3mYw/nft.png",
+  "tokenId": 287,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #287",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Cool Blue"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Rhombus"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Heart"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Blue Ribbon"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUKFauqj3NPL4zhu7Jqc4SVqzWB8SwLYMNMW5dChyX5u7/nft.jpg",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "1",
+  "name": "Tokyo Expanding People 2099 #27 Drake",
+  "description": "［日本語］ドレイク\n\n俺は、クラーケンの伝説で有名な魔の海域で、有名な海賊であり、財宝のためなら危険な任務にも挑戦することだって躊躇しない。\nそのためか、俺は周囲に冷酷で非情な人物と言われているらしい。\nたしかに、目的のためなら仲間をも傷つけることだってあるだろうな。\n多くの人々が、俺の手によって命を落としていた。\n\nそういえば、最近娘のアンナの紹介で新入りが入ってきたが、なかなかしぶとい野郎だ。\n\n\n［En］Drake\n\nI am a well-known pirate in the Bermuda triangle famous for the legend of the Kraken, and I am not afraid to take on dangerous missions for the sake of treasure.\nPerhaps because of this, I have been described by those around me as ruthless and heartless.\nIndeed, I would even hurt my friends for the sake of the treasure.\nMany people have lost their lives at my hands.\n\nCome to think of it, my daughter Anna recently introduced me to a recruit, and he is quite a stubborn son of a bitch.\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Pirates",
+      "trait_type": "Drake"
+    }
+  ]
+}

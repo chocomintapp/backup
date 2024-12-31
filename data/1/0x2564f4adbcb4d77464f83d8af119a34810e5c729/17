@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV4T6Y4rcTXfHqTvBJLK6D4uGexQoYqt4pgNUqJzodJP1/nft.png",
+  "nftContractAddress": "0x2564f4adbcb4d77464f83d8af119a34810e5c729",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "JKU0017",
+  "description": "JK Universe is a place where JKs from all over the universe and all time gather. Humans, demons, androids, beastmen, monsters, and many other types of JKs come from all over time and space. Various JKs are here, from cute JKs to JKs with hideous figures. But there they all get along! You can live happily and forget about the things you don't like.",
+  "attributes": [
+    {
+      "value": "Alien",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "Skyblue",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "None",
+      "trait_type": "EARRING"
+    },
+    {
+      "value": "None",
+      "trait_type": "HAT"
+    },
+    {
+      "value": "Sailor",
+      "trait_type": "UNIFORM"
+    },
+    {
+      "value": "None",
+      "trait_type": "MASK"
+    }
+  ]
+}

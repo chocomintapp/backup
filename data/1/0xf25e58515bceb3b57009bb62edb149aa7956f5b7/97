@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVm8NZtHDCMvm2fkmhkJFXVkU9TEcV87zLHu88ZA5x6vX/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 97,
+  "chainId": "1",
+  "name": "XIN",
+  "description": "She is super natural and always makes cute screw-ups.\n\nHe sleepwalks so badly that he sometimes blows up his entire house with his telekinesis.\n■シン\n\n超天然でいつも可愛いドジをしている。\n\nなかなか酷い夢遊病なので、たまに念力で家ごと吹っ飛ばしてしまう。",
+  "attributes": [
+    {
+      "value": "Light-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Star&tear5",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doteye-Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees(BLU)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Black",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "RedLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "HeadbandｰRR",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Blue Family",
+      "trait_type": "TYPE"
+    }
+  ]
+}

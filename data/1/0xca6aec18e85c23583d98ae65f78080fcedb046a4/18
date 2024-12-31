@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcQDhaZmEu1bWmvZGCRLAv4w5aGuSmVDJNahihDEGMpxu/nft.png",
+  "nftContractAddress": "0xca6aec18e85c23583d98ae65f78080fcedb046a4",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "018 One-side Lovers : Series02-Beach [Roller Skates & Lollipop]",
+  "description": "■Fukuyoshi Rokka's Artwork collection \n\"One-side Lovers”\nSeries02-Beach\n\n福吉ロッカのアートワークコレクション\n「One-side Lovers」\nシリーズ２-Beach",
+  "attributes": [
+    {
+      "value": "Beach",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Reddish brown",
+      "trait_type": "Hair-color"
+    },
+    {
+      "value": "Wavy",
+      "trait_type": "Hair-style"
+    },
+    {
+      "value": "Lollipop/Roller Skates/Personal Stereo",
+      "trait_type": "Item"
+    },
+    {
+      "value": "02/Beach",
+      "trait_type": "Series-number"
+    },
+    {
+      "value": "Blue sky",
+      "trait_type": "Sky"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Swimsuit-color"
+    },
+    {
+      "value": "Athlete type",
+      "trait_type": "Swimsuit-type"
+    }
+  ],
+  "minted": "✅"
+}

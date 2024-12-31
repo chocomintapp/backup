@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWnpRbRSHuMKRefohbH5AeC376gLsLgkn1dzeKbo2RFmV/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmZ4z1sktPw8MEMjnMm6BqoCji8Cj9wbb4T34i9sXgrkkw/nft.mp4",
+  "tokenId": 63,
+  "chainId": "1",
+  "name": "Leger #063",
+  "description": "Leger  \nメカニックなものに興味を示している  \nShowing interest in mechanical things.",
+  "attributes": [
+    {
+      "value": "Construct",
+      "trait_type": "TYPE"
+    }
+  ]
+}

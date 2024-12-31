@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS3ZPfZRuhoXctqC4TUdh3NTbXZ9z2HaDkSGZsmjwZTw5/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 441,
+  "chainId": "1",
+  "name": "CHIKAGE",
+  "description": "■チカゲ",
+  "attributes": [
+    {
+      "value": "space-time transfer2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile of room",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Lightred",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Anisu-Lolita",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shiba-Toypoodle",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Candle Head (ほわりす）",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

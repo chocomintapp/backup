@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb8Zx1chYrnwb5vvDUXFgaJd97GRTZu4QV3D1UeJdKo5v/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "WEAR BEAR #089 \"ELENA\" STRIPE BEAR T-SHIRTS",
+  "description": "WEAR BEAR 第9弾はスケーターファッションを着こなすストリートスタイル レアキャラ“ELENA”はどことなくロコガールな雰囲気のコーデで登場。 ドットのスケボーとクマのCAPがキュート！ 胸元ワンポイントのTシャツは今クマ達に流行っているブランドらしいよ！",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Bear cap",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Denim skirt",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Elena",
+      "trait_type": "Model"
+    },
+    {
+      "value": "“KUMMA des GARCONS” Boder T-shirts",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Skate sneaker “BANS”",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Type"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYCkKBQNEjoKJD7xfrMc6xu7toaTV22xxKjeyHG134fDk/nft.png",
+  "tokenId": 470,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #470",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cardigan"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigar"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSHGEfXjdqz9EoeVcNdiD4nJPCTspbEzBR51YFRNCDgTK/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "Ani",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "asia",
+      "trait_type": "skin"
+    },
+    {
+      "value": "normal_brown2",
+      "trait_type": "eye"
+    },
+    {
+      "value": "black08",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_ear",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Sagittarius",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

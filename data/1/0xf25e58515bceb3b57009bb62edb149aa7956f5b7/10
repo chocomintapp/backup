@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNmWAeF4RXpBBLRS5Ja8agorSAoRr8wbhbL2FKcb2bkBY/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "YAO",
+  "description": "100 mass-produced androids created to pick up empty cans.\n\nOne day, a bug caused the number 10 to develop an ego, and not wanting to be ridiculed as a mass-produced type, she destroyed all the other mass-produced types except herself.\n\nHe then changed his name to YAO and went to the limit of his destruction, but after meeting the dog, MIDORI, he became a gentle android.\n■ヤオ\n空き缶拾い用として作られた100体の量産型アンドロイド。\n\nある時、バグで10番に自我が芽生え、量産型とバカにされるのが嫌で自分以外の量産型タイプを全て破壊。\n\nそして、YAOと名乗り、破壊の限りを尽くすが犬のMIDORIとの出会いで優しいアンドロイドになった。",
+  "attributes": [
+    {
+      "value": "Dot1",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.10",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smiling-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Green",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "clairvoyant",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Robody-GreenRabbit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Midori",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

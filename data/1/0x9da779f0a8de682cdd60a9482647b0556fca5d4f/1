@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmesTWNYg1NBdxtqFkpHt2mucLipRFK9RQJTjsFhVWHVXY/nft.png",
+  "nftContractAddress": "0x9da779f0a8de682cdd60a9482647b0556fca5d4f",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "#1",
+  "description": "rumination",
+  "attributes": []
+}

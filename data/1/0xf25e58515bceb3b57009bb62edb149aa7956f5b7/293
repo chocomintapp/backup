@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR5R56fC2FwJ3zPyPxqu19RRpSkKMaD6Vew5BozjX8fz5/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 293,
+  "chainId": "1",
+  "name": "YAYA",
+  "description": "■ヤヤ",
+  "attributes": [
+    {
+      "value": "magamaga2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew3",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-Upurple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-R",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "glasses-red(NE)",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-DeepRed",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

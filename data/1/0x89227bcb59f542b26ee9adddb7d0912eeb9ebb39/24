@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmafbP18HwPsRviJAyTP8kXLu54ogF4ncAeTww51YdFqhm/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "#024-Mie-",
+  "description": "#024-Mie-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Flare",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kansai",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Mie",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

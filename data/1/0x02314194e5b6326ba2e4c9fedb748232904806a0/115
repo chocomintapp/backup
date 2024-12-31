@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNM9ZPk5JgRfyURTWA6VYtmk4sZu93zwyqNksC5UH9bwh/nft.png",
+  "nftContractAddress": "0x02314194e5b6326ba2e4c9fedb748232904806a0",
+  "animationUrl": "",
+  "tokenId": 115,
+  "chainId": "1",
+  "name": "#009 [凪]「天道」",
+  "description": "天上界に降り立ちしものよ、悲しみに飲まれるな。",
+  "attributes": [
+    {
+      "value": "凪",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": "✅"
+}

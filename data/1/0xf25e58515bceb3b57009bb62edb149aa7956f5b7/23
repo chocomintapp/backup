@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdzhJB69vWiFfwea6xNCcpJne3vuwTnRwwESuvK361piJ/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "FIFI",
+  "description": "Madam Fifi is very popular among duck boys.\n\nSince she is offered saury by duck boys every day, her total assets (saury) exceeds 100 million.\n\nWhen she is in high spirits, her lips turn purple.\n■FIFI\nアヒル男子から大人気のマダムフィフィ。\n\n毎日のようにアヒル男子からサンマを献上されるので、総資産（サンマ）は億を超える。\n\n尚気分が高揚している時は唇が紫色になる。",
+  "attributes": [
+    {
+      "value": "Dot2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Duckstyle-B",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Brightblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sunglass-BE3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-GB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Raaamen-Agodasi",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Ribon-BlueDR",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Duck Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

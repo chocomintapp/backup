@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWjjFnYykKrZ9JBFBnTj1Jnf9wR7R8ebVbdfKytjbPhaf/nft.png",
+  "nftContractAddress": "0x4a37227b2f40952509a2e47d078e59f74760ad64",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Your Maid",
+  "description": "あなたのメイドです！なんでもご申し付けくださいませ、ご主人様。",
+  "attributes": []
+}

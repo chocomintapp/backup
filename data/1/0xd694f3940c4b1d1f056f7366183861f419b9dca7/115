@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcmnzHCp6Azh4aBLq1H4grG3TnEbSqmo5W6zgjWLQN5eH/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 115,
+  "chainId": "1",
+  "name": "September 9 バラ（黄）",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "9",
+      "trait_type": "日"
+    },
+    {
+      "value": "君のすべてが可憐",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "バラ",
+      "trait_type": "花"
+    }
+  ]
+}

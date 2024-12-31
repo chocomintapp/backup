@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTGxoiPeL8zBx1KExEGncHwpEkeqjNNPDpp4n9vQ8mvpy/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 146,
+  "chainId": "1",
+  "name": "October 10 グズマニア",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "月"
+    },
+    {
+      "value": "10",
+      "trait_type": "日"
+    },
+    {
+      "value": "",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "",
+      "trait_type": "花"
+    }
+  ]
+}

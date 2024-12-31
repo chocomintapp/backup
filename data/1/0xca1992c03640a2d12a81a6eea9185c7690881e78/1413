@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPu9GWiwNFa3dgFj3kAbCpRsgtWdPPVoYzpMZg7HvGn5V/nft.png",
+  "tokenId": 1413,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1413",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cutout Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver 3 Hoop"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Black Cat"
+    }
+  ]
+}

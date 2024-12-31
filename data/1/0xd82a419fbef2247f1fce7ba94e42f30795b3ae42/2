@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfLGPERCNtkCovxp7qGeubUu64nyCDn3qxt3kivpG26dG/nft.png",
+  "nftContractAddress": "0xd82a419fbef2247f1fce7ba94e42f30795b3ae42",
+  "animationUrl": "https://ipfs.io/ipfs/QmfLGPERCNtkCovxp7qGeubUu64nyCDn3qxt3kivpG26dG/nft.png",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Kawaii AI Friends -ROKKA-",
+  "description": "NFT art collection with AI.\nDifferent seasons have different facial expressions.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "1"
+    }
+  ],
+  "minted": "✅"
+}

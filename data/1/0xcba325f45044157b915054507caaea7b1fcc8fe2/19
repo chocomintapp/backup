@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV29EFKWCjRR9UZaUKLDovzy786FWqCqTZMqv1ax5n9ka/nft.jpeg",
+  "nftContractAddress": "0xcba325f45044157b915054507caaea7b1fcc8fe2",
+  "animationUrl": "https://ipfs.io/ipfs/QmfGLia3575vVFFTxaYny1zs2Y4xUmYGjNHgSdU7nKhBZE/nft.mp4",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "『 Dazzle room 』",
+  "description": "A dazzling room with floating fish.",
+  "attributes": [],
+  "minted": "✅"
+}

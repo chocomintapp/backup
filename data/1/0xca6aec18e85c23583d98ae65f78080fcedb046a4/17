@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSJont79bZ5xv1tvrubWFwPA3BDpkfhft2vZiYhmXXPR6/nft.png",
+  "nftContractAddress": "0xca6aec18e85c23583d98ae65f78080fcedb046a4",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "017 One-side Lovers : Series02-Beach [Lollipop]",
+  "description": "■Fukuyoshi Rokka's Artwork collection \n\"One-side Lovers”\nSeries02-Beach\n\n福吉ロッカのアートワークコレクション\n「One-side Lovers」\nシリーズ２-Beach",
+  "attributes": [
+    {
+      "value": "Beach",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Reddish brown",
+      "trait_type": "Hair-color"
+    },
+    {
+      "value": "Wavy",
+      "trait_type": "Hair-style"
+    },
+    {
+      "value": "Lollipop",
+      "trait_type": "Item"
+    },
+    {
+      "value": "02/Beach",
+      "trait_type": "Series-number"
+    },
+    {
+      "value": "Blue sky",
+      "trait_type": "Sky"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Swimsuit-color"
+    },
+    {
+      "value": "Twisted bandeau bikini",
+      "trait_type": "Swimsuit-type"
+    }
+  ],
+  "minted": "✅"
+}

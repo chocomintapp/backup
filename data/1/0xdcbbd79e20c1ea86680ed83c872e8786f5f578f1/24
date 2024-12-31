@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP5s7Hcv9oXuN89cUBCGQHqYTAWdzsBu1ECjndWhx3Gyc/nft.jpg",
+  "nftContractAddress": "0xdcbbd79e20c1ea86680ed83c872e8786f5f578f1",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "#21 IRON ANIMAL BEAN THE BEAR",
+  "description": "Beans in 3D are here!!\nThe 3rd series is Iron animal with wings.",
+  "attributes": [
+    {
+      "value": "None",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Gas mask",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Bear ear gadget",
+      "trait_type": "EAR ACCESSORY"
+    },
+    {
+      "value": "Machine part",
+      "trait_type": "BODY ACCESSORY"
+    },
+    {
+      "value": "Iron",
+      "trait_type": "BODY COLOR"
+    },
+    {
+      "value": "Machine wings",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "None",
+      "trait_type": "ARTICLES"
+    },
+    {
+      "value": "Electronic substrate",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

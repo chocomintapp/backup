@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWNFBgdssM3nq4HfsVU2TjYMTguWw7pyV4fUsUV5TizR1/nft.png",
+  "nftContractAddress": "0xb78410882a13e21e28578de1298fd45b888c0337",
+  "animationUrl": "",
+  "tokenId": 4565,
+  "chainId": "1",
+  "name": "",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SILVER",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "惶根尊",
+      "trait_type": "SIGNATURE STAMP"
+    }
+  ]
+}

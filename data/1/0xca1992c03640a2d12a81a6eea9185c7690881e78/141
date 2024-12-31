@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb7yq4uHGb9JpJFrQLjaVWPjeS3XfgyLaCwi1SGJP3yqK/nft.png",
+  "tokenId": 141,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #141",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovey Dovey"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Carmine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Summer Kimono"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Purple Rose"
+    }
+  ]
+}

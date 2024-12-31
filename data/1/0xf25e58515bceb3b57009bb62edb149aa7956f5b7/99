@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmapJaXqdNv7Jzh5xidj2iuufa7TikSzAjPSKMoFNhG5ew/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 99,
+  "chainId": "1",
+  "name": "ABIGAIL",
+  "description": "She is a famous delinquent in her neighborhood who does nothing but misbehave.\n\nShe is good at making sweets, and the cheesecakes she makes are exquisite.\n\nShe hates bugs and green peppers.\n■アビゲイル\n\n悪さばかりしている近所でも有名な非行少女。\n\nお菓子作りが得意で、彼女が作るチーズケーキは絶品。\n\n虫とピーマンが大嫌い。",
+  "attributes": [
+    {
+      "value": "Bright-Pink",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Orange",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sharp-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-BBW",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Devil",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

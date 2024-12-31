@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaGuzqhPEtLdDdcnkxu8egAEy9arseqWP9mziGsoWpdMK/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "POCOEMOJI_hohou",
+  "description": "Hilppa-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

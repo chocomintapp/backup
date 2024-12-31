@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZkHCGMTuHRAQ1UWJfb1qyvNajzjhhRL84uP3KK3KQBLK/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmaZB2yx7Pgf5dkvCHreCiPxnzwE6cHBJj1idVGx8AEkmh/nft.mp4",
+  "tokenId": 776,
+  "chainId": "1",
+  "name": "THE JEWEL #776",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Sky dragon soul",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Sky dragon scale",
+      "trait_type": "Control device"
+    }
+  ]
+}

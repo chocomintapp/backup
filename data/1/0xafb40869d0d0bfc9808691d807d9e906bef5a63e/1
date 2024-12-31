@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma2i7wnw7eWcoGHYUTpFW6FRr8ZS3WFLYcw2QT6ko2DHy/nft.png",
+  "nftContractAddress": "0xafb40869d0d0bfc9808691d807d9e906bef5a63e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "test1",
+  "description": "afewafwae",
+  "attributes": [
+    {
+      "value": "tttt",
+      "trait_type": "aaa"
+    }
+  ],
+  "minted": ""
+}

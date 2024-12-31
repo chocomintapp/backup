@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZLV4aRur8ggegfq3iJHmXTm3uGuG8xSpz8w9n4A8UDu3/nft.png",
+  "tokenId": 734,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #734",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Rhombus"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Orange Hibiscus"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS7KNpAruLmok6Ag4z42HHd6f2HDcvebXQuTX85v3u77t/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 167,
+  "chainId": "1",
+  "name": "HONAMI",
+  "description": "■ホナミ",
+  "attributes": [
+    {
+      "value": "Bright-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sharp-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Winter",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Mitama-ill humor",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

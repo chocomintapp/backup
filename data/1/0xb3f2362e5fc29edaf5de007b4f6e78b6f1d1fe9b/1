@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVhSxvvmw7vhjtw9SS2iam9t5sRXgABvPeuHmV4khc5vA/nft.gif",
+  "nftContractAddress": "0xb3f2362e5fc29edaf5de007b4f6e78b6f1d1fe9b",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "wakuPunks #1",
+  "description": "Punks of real people",
+  "attributes": []
+}

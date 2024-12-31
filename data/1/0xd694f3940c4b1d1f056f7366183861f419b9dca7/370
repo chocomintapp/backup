@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQc7PCDF4wwmKtEMji4RrEnMmPW3DF3jrBpz7AVJ22R8J/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 370,
+  "chainId": "1",
+  "name": "October 12 クレマチス Ver.2",
+  "description": "",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "月"
+    },
+    {
+      "value": "12",
+      "trait_type": "日"
+    },
+    {
+      "value": "心の美しさ",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "クレマチス",
+      "trait_type": "花"
+    },
+    {
+      "value": "2",
+      "trait_type": "Ver"
+    }
+  ],
+  "minted": "✅"
+}

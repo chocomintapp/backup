@@ -1,0 +1,56 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVbjCNGey7jmQ89i6RYgeYvwun4TvvQcramfSSXftwhfN/nft.png",
+  "tokenId": 200,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #200",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tube Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Scarlet"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Rhombus"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Pink Gold Chain"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square Shades"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Pink Ribbon"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR9MoqoxkyWvjTfkKbHQkgMg64zbahXUQ6q74VdvkJv1i/nft.png",
+  "tokenId": 190,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #190",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Cool Blue"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Red Eyes"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Pearl Studs"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Rainbow Beads"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Smartphone"
+    },
+    {
+      "trait_type": "Feature",
+      "value": "Face Painting"
+    }
+  ]
+}

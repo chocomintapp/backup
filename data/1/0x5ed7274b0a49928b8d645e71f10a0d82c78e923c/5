@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdecoU3MkKAcCMWTPRPzr1eWBfYXAqdogfQRz4Yp68C4P/nft.png",
+  "nftContractAddress": "0x5ed7274b0a49928b8d645e71f10a0d82c78e923c",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Scary night road",
+  "description": "A somewhat eerie nighttime road.",
+  "attributes": []
+}

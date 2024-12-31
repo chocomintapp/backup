@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT3kG9ug1bFsCm2L2iVvAZeMeNt3aAPktGXEChdrJMdaK/nft.gif",
+  "tokenId": 32,
+  "description": "O-A  \nMIMIMATES collection に擬態している  \nMimicking the MIMIMATES collection",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmbsgM26oK1kcWVKMmFn1ChxxFG2BVmUDkB6zoimUqMyd4/nft.mp4",
+  "chainId": "1",
+  "name": "O-A #032",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Hide"
+    },
+    {
+      "trait_type": "MIMIC",
+      "value": "Hide"
+    }
+  ]
+}

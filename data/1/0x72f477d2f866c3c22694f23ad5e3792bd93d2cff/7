@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPm8xt73GovYmiQ346PRQFA3PXAqjda6Vk4mzFDhmgFaw/nft.jpg",
+  "nftContractAddress": "0x72f477d2f866c3c22694f23ad5e3792bd93d2cff",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "Alpaca Woo Hoo #07",
+  "description": "ぬいぐるみに憧れる、ハロウィーン仕様なアルパカくん。\nトリック・オア・トリート！\n\n---\n\nA Shy alpaca in  halloween costumes wants to be a toy. Trick or Treat!",
+  "attributes": [
+    {
+      "value": "Toy",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Halloween",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Cream Yellow",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

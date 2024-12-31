@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX38r1Sxe2nT5DqFh45x4huXn8DHMUf6uUKdiKPTodmU7/nft.png",
+  "tokenId": 11,
+  "description": "",
+  "nftContractAddress": "0x73509e51e8fc20f58978a86206b7a225a5116ee6",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #11",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovey Dovey"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Silver Ear Cuff"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Leather Choker"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Spoon"
+    }
+  ]
+}

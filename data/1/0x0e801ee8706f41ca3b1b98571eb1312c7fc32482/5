@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXQwuCfgmA7jMPVASgNVyegay6jAXHCEno8QNefM25agc/nft.jpg",
+  "nftContractAddress": "0x0e801ee8706f41ca3b1b98571eb1312c7fc32482",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "look at me!",
+  "description": "Illustrations are created using AI from the original shooting data.",
+  "attributes": []
+}

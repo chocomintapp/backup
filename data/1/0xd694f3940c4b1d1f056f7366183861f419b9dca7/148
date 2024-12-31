@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSJueYqutPEc3tq2MCunajQSLfFw4aC52o8DmtEHejZW8/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 148,
+  "chainId": "1",
+  "name": "October 12 クレマチス",
+  "description": "",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "月"
+    },
+    {
+      "value": "12",
+      "trait_type": "日"
+    },
+    {
+      "value": "心の美しさ",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "クレマチス",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVdrgXSWPkY3tzZGGLRS5Zjh4VPd3MSqr1aYMjPPrRWKS/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "#001-Hokkaido-",
+  "description": "#001-Hokkaido-",
+  "attributes": [
+    {
+      "value": "Gaia",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Hokkaido",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Hokkaido",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

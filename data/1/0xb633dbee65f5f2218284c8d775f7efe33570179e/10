@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSzjU9bH4UScimA9rcLd4EACW7D5L1KNN1AfRoAEuwiC4/nft.jpg",
+  "nftContractAddress": "0xb633dbee65f5f2218284c8d775f7efe33570179e",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "Eggbird #051 Rockhopper Penguin",
+  "description": "Eggbird #051 『イワトビペンギン』 ",
+  "attributes": [
+    {
+      "value": "Nature 野鳥",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Penguin ペンギン",
+      "trait_type": "Species"
+    }
+  ]
+}

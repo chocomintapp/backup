@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWZXMxLee1i4KTZDXvBUs4a2w1D9TdKePpAJd3DrBs9zn/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 199,
+  "chainId": "1",
+  "name": "December 2 プリムラジュリアン",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "2",
+      "trait_type": "日"
+    },
+    {
+      "value": "神秘的な心",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "プリムラ",
+      "trait_type": "花"
+    }
+  ]
+}

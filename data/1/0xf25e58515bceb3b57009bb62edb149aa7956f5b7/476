@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNmPCsk27AyK8V4DD1URUKyRGS3g3KPoSuojhvoXJXX34/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 476,
+  "chainId": "1",
+  "name": "LILITH",
+  "description": "■リリス",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Duckstyle-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "AnisuHair(W)",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Souleat",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-W",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Yellow-Sickle",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Duck Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

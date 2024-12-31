@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYaByLrftubnk8L8zo2Hc8hK8wbFAy5AmgvfP4dtBEype/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "1",
+  "name": "HO #30",
+  "description": "",
+  "attributes": [
+    {
+      "value": "O",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "H",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "O",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "ho",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

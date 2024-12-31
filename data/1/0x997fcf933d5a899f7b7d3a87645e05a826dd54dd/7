@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTE9CzPvqU1caagVvhRfhccnGzS8N19G9P1eLBaGw7NJm/nft.png",
+  "nftContractAddress": "0x997fcf933d5a899f7b7d3a87645e05a826dd54dd",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "NATU",
+  "description": "AstroOTTO 2001は、「HOPE」をテーマにした2001体の宇宙開拓民（AstroOTTO）のPFPNFTアートコレクションです。\nNATUは、世界最高峰の人工知能として開発され、AstroOTTOBASE内の環境管理などを一手に担っている存在である。\n実は、NATUには、同時期に開発された「家族」がおり、その行方はまだ知れていない。",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

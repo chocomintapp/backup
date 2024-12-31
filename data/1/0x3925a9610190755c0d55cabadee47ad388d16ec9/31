@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQifJLxv7SS2AtknMF4Hu9aNKRxyytUxnK4CRM8DKj2D9/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "1",
+  "name": "Ethelia",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "UCHIKAKE",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Suguru Kamijo",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "NOMAL",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "ANTENNA",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "ANDROID",
+      "trait_type": "RACE"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaRfSzbWUE9nBB7ihUpMhGxuhMhPrbjCweoYtDh2w6kLA/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmeiZKBftxnSLLpV1b1UcAHW3vxrfiF7JKGwrgDZdU3NUt/nft.mp4",
+  "tokenId": 48,
+  "chainId": "1",
+  "name": "THE JEWEL #048",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Pink Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Patina iron",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "dragon scales",
+      "trait_type": "Shine"
+    }
+  ]
+}

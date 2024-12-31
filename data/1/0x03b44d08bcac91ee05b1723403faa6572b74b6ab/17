@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPpn3appxb3SAPwZcF2Di1tS6Fd8L84EHd3HzcVyk9W8p/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc2UkHgr2oZkCSnzv6oKVfiBtUkHDQXMURCBeuNxWxWHN/nft.mp4",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "#043 PeanutButterMan",
+  "description": "PeanutButterMan\n\n- Food Series\n- 3DCG Turntable\n- 1920 x 1920px",
+  "attributes": [
+    {
+      "value": " Food",
+      "trait_type": "Type"
+    }
+  ]
+}

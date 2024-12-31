@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUvJVf2CBoxHxJzipJBLZyCYf7wdytH81NPhoKPkiToqm/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 93,
+  "chainId": "1",
+  "name": "POCO_Sofia",
+  "description": "Sofia_Chan",
+  "attributes": [
+    {
+      "value": "Brown",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Bright",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "V1 Remake ",
+      "trait_type": "SERIES"
+    }
+  ],
+  "minted": "✅"
+}

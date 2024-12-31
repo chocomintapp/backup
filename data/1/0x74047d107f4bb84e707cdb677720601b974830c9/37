@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRqfXRQwFsgm4ihFfubVqANCyB79XpkYkdJP88zvzNRMS/nft.png",
+  "nftContractAddress": "0x74047d107f4bb84e707cdb677720601b974830c9",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "1",
+  "name": "CYCLOPSTAR #0037",
+  "description": "Limited 1/1\n\nCyclopstar is a Japanese Kawaii NFT collections, And minted by their original contract (CLS).\n\nThis is Fanart of “[TOMONAN](https://twitter.com/HEM_TOMONAN)’s collection [HEM PROJECT](https://opensea.io/HEM_PROJECT?tab=created)\"",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "HEM",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Zipup",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "CYCLOPSTAR x HEM",
+      "trait_type": "DESIGN"
+    },
+    {
+      "value": "Badge",
+      "trait_type": "ACCESSORYS"
+    }
+  ]
+}

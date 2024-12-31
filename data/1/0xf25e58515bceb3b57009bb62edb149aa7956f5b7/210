@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXN9gziKnAk9TBLeYp4nvbcRH1G3gisoc4stvvc5knET5/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 210,
+  "chainId": "1",
+  "name": "RANI",
+  "description": "■ラニ",
+  "attributes": [
+    {
+      "value": "Change places",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Duckstyle-R",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Deepblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Yellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Duck",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Duck Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

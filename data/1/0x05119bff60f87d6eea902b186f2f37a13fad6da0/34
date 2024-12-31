@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd2uUbyBnTKmE6x56s3pqZa8kBvSz8fsrUHB3sqDp7hWB/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "1",
+  "name": "POPET No.34",
+  "description": "【物語】\n\nまだだめだ。\nこれじゃだめだ。\n消えた訳ではない。\nあの衝動はどこにあるのか。",
+  "attributes": [
+    {
+      "value": "彫刻家",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "卑屈",
+      "trait_type": "origin"
+    },
+    {
+      "value": "ダウンタウン",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

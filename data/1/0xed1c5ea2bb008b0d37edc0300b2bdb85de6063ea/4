@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPrCaTDK3TRJBL35JdKcsPSwWUno4PGrkNHyW4sQk1PiA/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Katrina",
+  "description": "He is one of the AlternativeVerth, which emerged when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "sunburn_strong",
+      "trait_type": "skin"
+    },
+    {
+      "value": "stylish_orange_star",
+      "trait_type": "eye"
+    },
+    {
+      "value": "red14",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_glass",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Ursa Major",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

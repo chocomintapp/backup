@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZJm5dFPbnLGvn4ow1dpA7XxXDQP3qLkuuYBZctoHN5fd/nft.jpeg",
+  "tokenId": 1,
+  "description": "It’s an image of Japanese sakura and bird",
+  "nftContractAddress": "0xf584b03b08d766941e17202455834f16ed4a856c",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "sakura and bird"
+}

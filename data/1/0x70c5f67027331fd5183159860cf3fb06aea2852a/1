@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYMvpShC37vW95un4fg57k4F7uvCDy6GDYvxjqs8C3K9y/nft.jpg",
+  "tokenId": 1,
+  "description": "All proceeds from this NFT will be donated to the Ukrainian wallet.\n\nSongwritten by Kazushi Fukami\n\n",
+  "nftContractAddress": "0x70c5f67027331fd5183159860cf3fb06aea2852a",
+  "animationUrl": "https://ipfs.io/ipfs/QmTyQf3gdqJFYLQUUdRoqFQpPTGymvyrf1hWy9kcHv1j67/nft.mp4",
+  "chainId": "1",
+  "name": "Pray for Peace",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

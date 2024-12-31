@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZWeeYgTs6KqXiJkFg6YGTRMxxS7ZWc4PoFcPFTNEH3GV/nft.PNG",
+  "nftContractAddress": "0xcc97ae94401d8f212d1e167e80c2a210cbeb5f88",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Dog",
+  "description": "",
+  "attributes": [],
+  "minted": ""
+}

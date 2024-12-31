@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTw9mH7AGr72TT3Pe68gxG9tv5qXoTxZMe8x4VyDKh5PP/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 44,
+  "chainId": "1",
+  "name": "THS #079",
+  "description": "【受】",
+  "attributes": [
+    {
+      "value": "eggplant flower",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "buckleya lanceolata",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

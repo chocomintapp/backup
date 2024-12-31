@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcxPQCP8YFHUpfqLPidoum13AXzJx7YgQfMAQ83Q5GVjw/nft.jpg",
+  "tokenId": 45,
+  "description": "Atsushi Komura was the captain of the Japanese Rugby team and a great friend. His strength and warmth always made me feel happy\nKrs 2008",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmcxPQCP8YFHUpfqLPidoum13AXzJx7YgQfMAQ83Q5GVjw/nft.jpg",
+  "chainId": "1",
+  "name": "Komura man"
+}

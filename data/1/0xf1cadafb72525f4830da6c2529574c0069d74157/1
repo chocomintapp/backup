@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYEWj1obfjuZNEuV6g72e2Y5Shx1iWTugsU7ed5BDeu5o/nft.jpg",
+  "tokenId": 1,
+  "description": "FLOVVERS Gen0",
+  "nftContractAddress": "0xf1cadafb72525f4830da6c2529574c0069d74157",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "FLOVVERS #0",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

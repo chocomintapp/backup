@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQQNPdEEmvsGmEBGeMBTGwkiAmAUCLsZBJFe9GeHKCUhA/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "POCO_Pia",
+  "description": "Pia-Chan",
+  "attributes": [
+    {
+      "value": "Pure",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

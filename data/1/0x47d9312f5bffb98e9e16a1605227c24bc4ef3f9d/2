@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaVTxRDddCnFB6wvFFMc8SkcGjggZ5Q36hVKfnZL9waoQ/nft.png",
+  "tokenId": 2,
+  "description": "This is a self-portrait that I created.",
+  "nftContractAddress": "0x47d9312f5bffb98e9e16a1605227c24bc4ef3f9d",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Red Punks #001",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

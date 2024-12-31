@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdp9FftU4Ae1Cj1oFPTFmNzSSBNm8XeRKKY9BLforD3Gu/nft.png",
+  "nftContractAddress": "0x05a268c2bbc0112e54c737cc4f9bbf04acb322a5",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "#001_MONICA",
+  "description": "MONICA is a witch girl who loves cute things, fashion and sweets.  \n---Witch Girls Collection",
+  "attributes": [
+    {
+      "value": "Witch Girls Collection",
+      "trait_type": "Collection"
+    },
+    {
+      "value": "Monica",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

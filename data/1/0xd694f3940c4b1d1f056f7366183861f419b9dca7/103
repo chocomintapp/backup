@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR4YZobZWq6BCbw3atZdoadLe6tJUxYgSusJBdEFtfSLn/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 103,
+  "chainId": "1",
+  "name": "August 28 サルスベリ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "28",
+      "trait_type": "日"
+    },
+    {
+      "value": "雄弁",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "サルスベリ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

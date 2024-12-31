@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSV4aHirATyQTWKX1d9ww2MqZDHMVB3jKw33FZG7h1kmS/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 415,
+  "chainId": "1",
+  "name": "BRIANNA",
+  "description": "■ブリアナ",
+  "attributes": [
+    {
+      "value": "RED-DBSM",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Anisu-HostessBlonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0004Miracle",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Maid robot(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Luna-Pink（moon)",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

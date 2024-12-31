@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme8skq17uWtGgnxbBRYtJsMGoB7C6JupDmqmv4H1sMDgS/nft.png",
+  "tokenId": 7,
+  "description": "\"Gorgon\" = \"Lamia\" x \"Golem\" Aigis Ishibashi\n\n「ゴルゴーン」メイン種族ラミア、サブ種族ゴーレム。名前はアイギス石橋。\n\nゴルゴーンは、石化の邪眼を持ち、髪の毛が無数の蛇になっているモンスター娘。毎朝寝癖が酷いのと、鏡を見れないのが悩み。ご主人様をうっかり石化してはアワアワしているおっちょこちょい。\n\n\"Gorgon\" has the evil eye of petrification and her hair is made up of countless snakes. She is worried about her bad sleeping habits. Under the influence of the evil eye, she can't look in the mirror, and sometimes inadvertently petrifies her master.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#032 \"Gorgon\" Aigis Ishibashi",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Lamia"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Golem"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

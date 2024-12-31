@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaLof26TaF1HSYkaCKRw5M5ST7P3HbGVg28s7GxJdjTU4/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "Beach Borne Bae #36",
+  "description": "Beach Borne Bae #36\nInspired by Largescale blackfish / メジナ",
+  "attributes": [
+    {
+      "value": "Bob with Straight Bangs",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Turtleneck",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Aquamarine",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

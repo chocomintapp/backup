@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVpGqEgsdTgB2kaVbGJCpbYhfUK2ctnM3G6SfPaooCBxE/nft.png",
+  "tokenId": 505,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #505",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Faint Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Peace"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Blue Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Lollipop"
+    }
+  ]
+}

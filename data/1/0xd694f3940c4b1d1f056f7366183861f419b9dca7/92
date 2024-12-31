@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW5ex1bWcFxCt8MRZVJ5J7W5AnnWyJm7ESbPqcPWVKNCs/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 92,
+  "chainId": "1",
+  "name": "August 17 ホウセンカ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "17",
+      "trait_type": "日"
+    },
+    {
+      "value": "エネルギッシュ",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ホウセンカ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

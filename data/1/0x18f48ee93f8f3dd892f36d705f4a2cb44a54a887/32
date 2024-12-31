@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaaHmTY2MJpEuz2bmBQTfupzTThho5xynnJEx3EjV1boo/nft.jpg",
+  "tokenId": 32,
+  "description": "Her name is Kat and she is a folk singer who toured surf spots around Japan. Loved her sining and painted her after the concert\nKrs 2009",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmaaHmTY2MJpEuz2bmBQTfupzTThho5xynnJEx3EjV1boo/nft.jpg",
+  "chainId": "1",
+  "name": "The Katcher"
+}

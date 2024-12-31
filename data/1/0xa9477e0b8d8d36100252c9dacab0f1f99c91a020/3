@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYQ2n4RL7u4Hf55C8UFxcYnmk9WXGhz9hqEkGUFzq8nUZ/nft.png",
+  "tokenId": 3,
+  "description": "Created by kimizuka_JP\nBig boobs fetish.",
+  "nftContractAddress": "0xa9477e0b8d8d36100252c9dacab0f1f99c91a020",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#003",
+  "attributes": [
+    {
+      "trait_type": "Body-Color",
+      "value": "#7fc06cff"
+    },
+    {
+      "trait_type": "Face-Color",
+      "value": "#733835ff"
+    },
+    {
+      "trait_type": "Background-Color",
+      "value": "#7960b3ff"
+    },
+    {
+      "trait_type": "Mind",
+      "value": "Big boobs fetish"
+    },
+    {
+      "trait_type": "Mind-Shape",
+      "value": "Shape003"
+    },
+    {
+      "trait_type": "Eye-Type",
+      "value": "Eye003"
+    },
+    {
+      "trait_type": "Eye-Color",
+      "value": "#000000ff"
+    }
+  ]
+}

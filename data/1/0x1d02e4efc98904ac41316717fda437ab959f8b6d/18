@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQbNuRGtVs5PhYn4fgToQHEkq5E4s8VgwYGSbEMk3s8fp/nft.png",
+  "nftContractAddress": "0x1d02e4efc98904ac41316717fda437ab959f8b6d",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "Monsters #18",
+  "description": "Digital illustration and AI Generated.\n\nMonster, Female, Woman, Cute, Art, Drawing,",
+  "attributes": [
+    {
+      "value": "Light Pink",
+      "trait_type": "Monster Color"
+    }
+  ]
+}

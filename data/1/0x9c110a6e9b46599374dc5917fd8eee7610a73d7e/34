@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTuZkTP44YxbeeqHEivqRufrZAmhbWN44h9fDvy9TVrXC/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "1",
+  "name": "POCO_二神ルイ static",
+  "description": "@0TL_ Commission OMAKE",
+  "attributes": [
+    {
+      "value": "Commission",
+      "trait_type": "RARITY"
+    }
+  ],
+  "minted": "✅"
+}

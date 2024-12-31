@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPUPHpdVezzcTU3L1oRG1ZNttx61xLHeJtTbdX52NfCdm/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 130,
+  "chainId": "1",
+  "name": "ZOFFY",
+  "description": "■ゾフィー",
+  "attributes": [
+    {
+      "value": "A divisive fall",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllBlack",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees-Pink(BLU)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Blue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Arkdemon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Blue Family",
+      "trait_type": "TYPE"
+    }
+  ]
+}

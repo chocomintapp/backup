@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVcCGhTxLotYu7qK1BQzjHUSd3P38hWMDs3LbPw5ygptw/nft.png",
+  "nftContractAddress": "0xdec9f1206aef4b5271ed71766a44b083daa283dc",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "JKU#0001",
+  "description": "JK Universeは全宇宙全時空からやってきたJKたちが集まる場所。 人間・魔物・アンドロイド・獣人・妖怪などなど様々なJKたちが時空を超えてやってきます。 可愛いJKや恐ろしい姿のJKまで様々なJKたちが勢ぞろい。 でもそこではみんなが仲良し！楽しく暮らして嫌のことも忘れます。",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "Violet",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Mischievous",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "None",
+      "trait_type": "EARRING"
+    },
+    {
+      "value": "None",
+      "trait_type": "HAT"
+    },
+    {
+      "value": "Sailor",
+      "trait_type": "UNIFORM"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "ATTITUDE"
+    }
+  ]
+}

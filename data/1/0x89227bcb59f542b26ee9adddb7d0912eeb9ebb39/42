@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfQqLAXoopjh5wb4VVJ5jKaWZkwi5thu8uxSce5bHz52i/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "1",
+  "name": "#042-Nagasaki-",
+  "description": "#042-Nagasaki-",
+  "attributes": [
+    {
+      "value": "Flare",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kyushu",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Nagasaki",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

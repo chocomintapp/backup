@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSwQNjh2QDvHMNP5dH7DUzBKF8XRfZwDpr8vcHZFPLenu/nft.png",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0x7e21f24a0253d67aa54d1ce0a12203f51dbd6ff3",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Punk Monkeys #2",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "GENDER",
+      "value": "Male"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Smile"
+    }
+  ]
+}

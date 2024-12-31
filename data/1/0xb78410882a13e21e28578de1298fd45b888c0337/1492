@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR4v9neiYCN7Yi7k2b6xz2Z7C7knEAnKy46uX1uFZtTtQ/nft.png",
+  "nftContractAddress": "0xb78410882a13e21e28578de1298fd45b888c0337",
+  "animationUrl": "",
+  "tokenId": 1492,
+  "chainId": "1",
+  "name": "",
+  "description": "",
+  "attributes": [
+    {
+      "value": "VIOLET",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "豊斟渟尊",
+      "trait_type": "SIGNATURE STAMP"
+    }
+  ]
+}

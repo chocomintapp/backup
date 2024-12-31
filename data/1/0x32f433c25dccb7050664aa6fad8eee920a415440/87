@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme6zXV1WaQpURPbvabi9StVyEccJWGRag9Uc9LxRSvtjn/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmSp7TUPwVLZK1uNTEfbxC8zkysHeCU2ek6XrL5UYqmuhC/nft.mp4",
+  "tokenId": 87,
+  "chainId": "1",
+  "name": "THE JEWEL #087",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "pink Tourmaline",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

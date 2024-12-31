@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSZ58QV48dvDS47UPGArj7pjzLnV75fZivd6NNGMxKVNz/nft.png",
+  "nftContractAddress": "0xd7a22292f15f5779cedf2f74a2683730f138310d",
+  "animationUrl": " ",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "BTK#10",
+  "description": "けんちゃんがやってきたのは台湾。五香粉の香りを感じながらぶらぶらしていると、カラフルな小籠包に一目惚れしたようです。いっしょに選んだのは烏龍茶のようにも見えますが、けんちゃんはやっぱりビールを選びました。現地で見つけた首飾りも似合っていますよ！ \n\nKen-chan came to Taiwan. Wandering around with the aroma of five-spice powder, he fell in love with the colorful small baskets. The tea that he chose with it looked like oolong tea, but Ken-chan chose beer. The necklace he found at a local market also looks good on him! ",
+  "attributes": [
+    {
+      "value": "Orange",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Pale Ale With Tea",
+      "trait_type": "Beer Style"
+    },
+    {
+      "value": "Taiwan",
+      "trait_type": "Country"
+    },
+    {
+      "value": "Taiwan",
+      "trait_type": "Decoration"
+    },
+    {
+      "value": "Fun",
+      "trait_type": "Eye"
+    },
+    {
+      "value": "Tulip",
+      "trait_type": "Glass"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Tongue"
+    }
+  ]
+}

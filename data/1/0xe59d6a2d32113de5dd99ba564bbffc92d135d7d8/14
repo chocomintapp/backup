@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZWAvRkauVrjUgawcgab2DyS1zwuT4eZTJjAYmcRSehSY/nft.gif",
+  "nftContractAddress": "0xe59d6a2d32113de5dd99ba564bbffc92d135d7d8",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "#0014 mentai france",
+  "description": "京都で創業40年以上のパン屋チロル。\nこちらのパンを使ったNFTアート『Chirol-BreadHeadFriends.-』です。\n\nGraphics Interchange Format\n1024×1024px",
+  "attributes": [
+    {
+      "value": "series001",
+      "trait_type": "Series"
+    },
+    {
+      "value": "mentai france",
+      "trait_type": "BreadType"
+    },
+    {
+      "value": "anim009",
+      "trait_type": "Animation"
+    }
+  ],
+  "minted": "✅"
+}

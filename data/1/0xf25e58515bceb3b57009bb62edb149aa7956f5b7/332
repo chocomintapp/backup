@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmamb2oeWYWk7ewDRGvHs6Rb2XbctjGLrasGrRhU1eYiGD/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 332,
+  "chainId": "1",
+  "name": "GWEN",
+  "description": "■グエン",
+  "attributes": [
+    {
+      "value": "Rainbow-VerticalWhiteStripe",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Red",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Madness",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-Orange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-kabukicho",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-max",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Money",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Pink",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Meta tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

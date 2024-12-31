@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWxXRH613zc5hhz1FABWurEjpWQ19YL5cdq9FqsmdEDYE/nft.png",
+  "nftContractAddress": "0x2c46d9f7e35a307eb004ab662db64d07f28c9c54",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "MAYUTAROSU001",
+  "description": "LOVE OF MAYUTAROSU",
+  "attributes": [
+    {
+      "value": "pink",
+      "trait_type": "color"
+    },
+    {
+      "value": "big",
+      "trait_type": "size"
+    },
+    {
+      "value": "priceless",
+      "trait_type": "price"
+    }
+  ],
+  "minted": ""
+}

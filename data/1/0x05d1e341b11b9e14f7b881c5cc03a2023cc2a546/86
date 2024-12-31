@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfXgXn8XFEvVsqa7ZfScBaZo5vW3sw1kn8B139CZkV9ak/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmP58jg1asTCvxvVgCPAL55Wf5kL1UUHWryCu3WPrfiMgo/nft.mp4",
+  "tokenId": 86,
+  "chainId": "1",
+  "name": "Gunta #086",
+  "description": "Gunta  \n強度なアンテナを持っている  \nHas a strong antenna.",
+  "attributes": [
+    {
+      "value": "Haus",
+      "trait_type": "TYPE"
+    }
+  ]
+}

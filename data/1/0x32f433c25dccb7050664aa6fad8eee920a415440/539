@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTcuktuD7BQXqGF5qx7Xq3KtFkK1kxm39Gmnb5PJ6XuVA/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmRhJ9E7hPtSx2k2MZaNk6FZMn4cXtK9gucyznWfqJb5Cr/nft.mp4",
+  "tokenId": 539,
+  "chainId": "1",
+  "name": "THE JEWEL #539",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Mari garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Palladium",
+      "trait_type": "Control device"
+    }
+  ]
+}

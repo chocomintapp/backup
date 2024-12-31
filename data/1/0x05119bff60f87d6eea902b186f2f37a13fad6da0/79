@@ -1,0 +1,28 @@
+{
+  "image": "QmUMeYAQi5BN6rivDcYA9VjPQP1a4KrZJjR7a7rrCGf57M",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 79,
+  "chainId": "1",
+  "name": "POPET No.79",
+  "description": "【物語】闇があるから光がある。強い輝きはより大きな影を生む。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "バレリーナ",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "オペラハウス",
+      "trait_type": "origin"
+    },
+    {
+      "value": "高貴",
+      "trait_type": "personality"
+    }
+  ]
+}

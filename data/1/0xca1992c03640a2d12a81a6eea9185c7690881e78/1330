@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeQy5RtchZpAraiehF8w46B3oT6ne1Ue27QD4kQowe4KU/nft.png",
+  "tokenId": 1330,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1330",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Pearl Studs"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Drink Cup"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Heart"
+    }
+  ]
+}

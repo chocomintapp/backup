@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdtqBE6HsANXwhNQUTHjicQx32AnEbgo11Cus5UYQkQtz/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "POPET No.4",
+  "description": "【物語】\n\n昼下がり、少し落ち着いて眠たくなる。\n今日はあの人来ないかな。",
+  "attributes": [
+    {
+      "value": "ウェイトレス",
+      "trait_type": "job"
+    },
+    {
+      "value": "ハートウォーミングボイス",
+      "trait_type": "skill"
+    },
+    {
+      "value": "カフェ",
+      "trait_type": "origin"
+    },
+    {
+      "value": "マイペース",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

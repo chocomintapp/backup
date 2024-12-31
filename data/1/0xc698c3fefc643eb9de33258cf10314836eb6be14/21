@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPmR1Nb6eTtbGjsGJ9uYHRcK8D2rx6reyBzjLZV2safMH/nft.jpg",
+  "nftContractAddress": "0xc698c3fefc643eb9de33258cf10314836eb6be14",
+  "animationUrl": "https://ipfs.io/ipfs/QmdBJzF9e21fVzVAByZxHXvBKeVQuH3gvBpPTorU3pbp72/nft.glb",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "#004 Ifrit [ Pottery ]",
+  "description": "[ Ifrit ]\nDo not yield to the power within you.\nWith great power comes great price. It may become a blade that hurts you.",
+  "attributes": [
+    {
+      "value": "jinn‎",
+      "trait_type": "Tribe"
+    },
+    {
+      "value": "Pottery",
+      "trait_type": "Base plate"
+    }
+  ]
+}

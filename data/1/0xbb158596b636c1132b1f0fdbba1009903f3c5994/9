@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfV5NXcMsTZmst73xDgwnTteZ79nQq1LrphgWd3QVJz8Q/nft.png",
+  "nftContractAddress": "0xbb158596b636c1132b1f0fdbba1009903f3c5994",
+  "animationUrl": "https://ipfs.io/ipfs/QmfV5NXcMsTZmst73xDgwnTteZ79nQq1LrphgWd3QVJz8Q/nft.png",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "NFTJPN Official #9",
+  "description": "NFTJPN official NFT #9 created exclusively for the sponsor of the 11th Curation Event on October 8, 2022. - Title: Elemental Anima EX #0000 Artist: takio koizumi（@takion0105）",
+  "attributes": [
+    {
+      "value": "takio koizumi",
+      "trait_type": "ARTIST"
+    },
+    {
+      "value": "October 8, 2022",
+      "trait_type": "DATE"
+    },
+    {
+      "value": "11th Curation",
+      "trait_type": "EVENT"
+    }
+  ]
+}

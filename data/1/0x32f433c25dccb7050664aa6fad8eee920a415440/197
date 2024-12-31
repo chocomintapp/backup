@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSXg3VTSa6i4oi6k35grN4xk4SjKvX5iUkV52JY1tAUiE/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmeNiE9EuTHt88Wny8at6CDZimHNjQ3N1hCqkPau56wAZM/nft.mp4",
+  "tokenId": 197,
+  "chainId": "1",
+  "name": "THE JEWEL #197",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

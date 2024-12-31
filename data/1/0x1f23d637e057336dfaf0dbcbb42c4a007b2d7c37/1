@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNveKTtt84dXv4c8XwsxdhGLYm2SkBPg2i9QNA46qtkAM/nft.jpg",
+  "nftContractAddress": "0x1f23d637e057336dfaf0dbcbb42c4a007b2d7c37",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Takemegane",
+  "description": "genki!",
+  "attributes": [
+    {
+      "value": "1000000",
+      "trait_type": "genki"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSVQVXBxoM3CtqAV4dan2kCg7vBggRDCiMEnAQ5qdz8j8/nft.png",
+  "tokenId": 34,
+  "description": "\"Undine\" =  \"Succubus\" x \"Slime\" Marina Mizuno\n「ウンディーネ」メイン種族サキュバス、サブ種族スライム。名前はマリナ水野。\n\n水を司る精霊。人間との悲恋の物語が多く言い伝えられている。\n本来は魂が無いが、人間の男性と結婚すると魂を得ることができる。肌がもちもちしているのがチャームポイント。\n\n\"Undine\" is a spirit that governs water. There are many tales of tragic love between her and humans. Originally, she has no soul, but she can gain one when she marries a human man. Her charm is her glutinous skin.\n",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#058 \"Undine\" Marina Mizuno",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Succubus"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbyaC3WFubWqaVJ297SVnbxvenRk7sWtH5maNaBSSSSur/nft.gif",
+  "tokenId": 3,
+  "description": "Cherry  \n発見と感動の涙が溢れている  \nTears of discovery and emotion are flowing.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/Qmdn7sKj4PSFwE47ptq9NEAtFyYNBrt7Tks95LgDWoh51x/nft.mp4",
+  "chainId": "1",
+  "name": "Cherry #003",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "VOICE",
+      "value": "Mimi"
+    }
+  ]
+}

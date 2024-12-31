@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQRvVCfYv5SqigXaJKPbs1n9f5vUvGi4jRBg4X4P8F5Fz/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 272,
+  "chainId": "1",
+  "name": "BRITT",
+  "description": "■ブリット",
+  "attributes": [
+    {
+      "value": "Deep-Skyblue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open5",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sad2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "South High School",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Cat",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

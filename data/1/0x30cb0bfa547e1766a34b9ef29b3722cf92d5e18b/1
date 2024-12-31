@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUUyV3JFsACgFAjJb2CwfeczVXoR3iM6VMcBV68dyqQQM/nft.png",
+  "nftContractAddress": "0x30cb0bfa547e1766a34b9ef29b3722cf92d5e18b",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Alone time",
+  "description": "Alone time is very important.",
+  "attributes": [],
+  "minted": ""
+}

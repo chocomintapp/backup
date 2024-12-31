@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY8T1AjvZa3hmn3fgitP7A723fUZ3QqN8d5F71ooRheiJ/nft.png",
+  "tokenId": 1390,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1390",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Apron"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Ear Cuff"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Gold Peace Sign"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Strawberry"
+    }
+  ]
+}

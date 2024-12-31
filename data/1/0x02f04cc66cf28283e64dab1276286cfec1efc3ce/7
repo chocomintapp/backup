@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcNJogKfmg7dtNgWQpGb55Gn9pdgqYHUXTMbbBS3W3RKM/nft.png",
+  "nftContractAddress": "0x02f04cc66cf28283e64dab1276286cfec1efc3ce",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "Loosening",
+  "description": "Forced to wear many layers of clothes.",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Overburdened",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Limited",
+      "trait_type": "RARITY"
+    }
+  ]
+}

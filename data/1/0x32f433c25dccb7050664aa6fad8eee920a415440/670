@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQGwc6g3QExrns2cHwouDh4oTt4y6FANFDz4Qy6GtdvZH/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmVFfN6EsSLTE2JgEDa75TEz2rhirtG8BuRkGJzQQA1mXx/nft.mp4",
+  "tokenId": 670,
+  "chainId": "1",
+  "name": "THE JEWEL #670",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Red Tourmaline",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

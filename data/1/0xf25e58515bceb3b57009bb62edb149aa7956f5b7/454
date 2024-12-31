@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNs7C91jGPFFYqEbEtZP5DUNbYPMn4pU1vjAAY3rPWnsL/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 454,
+  "chainId": "1",
+  "name": "Sachiko Ishihata",
+  "description": "■イシハタ　サチコ\nGoroIshihataファンアート作品\nhttps://linktr.ee/goroishihata",
+  "attributes": [
+    {
+      "value": "Middle of the heavens",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Green pepper3",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Time",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Anisu-tatoo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Round glasses-red(NE)Shining",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "GORO ISHIHATA",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

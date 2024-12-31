@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPEngs6bqtRDdLsMVAxTqf71xcYDfTzHZGcHTYSkYzwRf/nft.png",
+  "tokenId": 5,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #5",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bamboo Green Polka dots"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Red Tabby"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Green Ring"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Like a Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_3"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Skeleton"
+    }
+  ],
+  "minted": "✅"
+}

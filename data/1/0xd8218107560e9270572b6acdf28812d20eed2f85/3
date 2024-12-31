@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmewe4zBWgZhQo5NLq5sKvn7RSidfMwew4ayMpcqHnQeWm/nft.png",
+  "nftContractAddress": "0xd8218107560e9270572b6acdf28812d20eed2f85",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "#3",
+  "description": "Limited Edition OWL BIRDS by SteveLabs",
+  "attributes": [
+    {
+      "value": "Stars Midnight Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Dim Gray",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Khaki",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Sleepy",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Accessories"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmeve3PCA3mhnmsrBTkp6CbPed91u2BXTYBa825zq9xvDT/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 68,
+  "chainId": "1",
+  "name": "POPET No.68",
+  "description": "【物語】この森で沢山の仲間たちとずっと生きてきた。向こうに僕とにている生き物が沢山いる...。",
+  "attributes": [
+    {
+      "value": "野生児",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "森",
+      "trait_type": "origin"
+    },
+    {
+      "value": "活発",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUZBEmsDqRc4983PHvc1Kjs7RCgxgjDwUDDth8h7h37xE/nft.png",
+  "tokenId": 740,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #740",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Cool Blue"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovey Dovey"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rock Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "See-Through"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Rhombus"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Pocky"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Heart"
+    }
+  ]
+}

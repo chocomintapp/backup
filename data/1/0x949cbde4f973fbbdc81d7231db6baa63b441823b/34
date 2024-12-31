@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR2Df8BfbYTSf4T4ThYWKZXTCZVJ1xbCZ66ocJMCxxdYF/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "1",
+  "name": "ME #34",
+  "description": "",
+  "attributes": [
+    {
+      "value": "E",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "M",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "E",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "me",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

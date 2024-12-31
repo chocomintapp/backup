@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYXrYua6h5xEMRGPz9ApH8m2PAGMeWdUSC6NmdcNU15Ka/nft.png",
+  "nftContractAddress": "0x581db54a07c524683563f8305d4ce7fc23dd6b0a",
+  "animationUrl": "https://ipfs.io/ipfs/QmWe2wMVMsdtWwJviwUdYXYTfGWVugfGk1qtqD3GvXEGby/nft.mp4",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "Misorin#0014",
+  "description": "Why do we exist?\n\nIt smelled like a revolution\n\nWhy do we exist?\n\nI chose to live in beautiful chaos\n\n\n目ヲ覚マセ 取リ返セコノculture\n\nLostシカケタ 夜モアッタッケ\n\nUnderground Crypto music\n\n留マッテル暇ハ 無シダゼ  Brother and Sister\n\n\nBust the system\n\nBust the system\n\nculture\n\nGet the truth",
+  "attributes": [
+    {
+      "value": "missile unit",
+      "trait_type": "item"
+    },
+    {
+      "value": "beautiful chaos",
+      "trait_type": "song"
+    }
+  ]
+}

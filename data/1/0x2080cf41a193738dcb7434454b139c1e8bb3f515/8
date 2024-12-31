@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYziLapfDFiAqPbwFihswAMJUpbUcuyH5VDK62g3haoGT/nft.png",
+  "tokenId": 8,
+  "description": "\"Shuten Douji\" = \"Ogre\" x \"Unknown\" Doge Owezan\n\n「酒呑童子」メイン種族は鬼、サブ種族Unknown。鬼の特殊亜種。名前はドージ大江山。\n\n酒呑童子は、山奥に住むと言われる伝説の鬼。大酒飲みで酒乱。今日もドージは酔っ払い！お酒があれば毎日ハッピー！ん～？ミナモトがキタ？ほっとけほっとけ～！\n\n\"Shuten Douji\" is a legendary Ogre who live deep in the mountains. She is a heavy drinker and a drunkard. Every day is a happy day when there's alcohol! Hmm? \"Minamoto\" is atacking? Leave it, leave it! Let's drink!",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#033 \"Shuten Douji\" Doge Owezan",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Ogre"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "minted": "✅"
+}

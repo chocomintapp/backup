@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeB64kbLwjfeGUKFZHUN8S1z2hCXquQZ1gD94FeK7A7Nb/nft.gif",
+  "nftContractAddress": "0x5ca90f09ec63f804a9815f622b8788d131d773de",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Flying Happy Cat to Cherry-Blossom #RedTabbyP001 [private contract]",
+  "description": "Flying Cat aims above the clouds to see cherry blossoms.\nHe sits in a cherry tree and waits for you.",
+  "attributes": [
+    {
+      "value": "Tabby",
+      "trait_type": "pattern"
+    },
+    {
+      "value": "cherry blossoms",
+      "trait_type": "place"
+    },
+    {
+      "value": "orange",
+      "trait_type": "body color"
+    },
+    {
+      "value": "green",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "background"
+    }
+  ]
+}

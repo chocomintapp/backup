@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd9air3Ebg2wyc8jj3mEapxZTfpggzfXNPRYQ7DLLMPLG/nft.png",
+  "nftContractAddress": "0x21ac824c1b1369971e437c5e92a84a136da1b1eb",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Hello World #004",
+  "description": "#【Who are you?】\n  \nMugi looks into the mushrooms and is amazed!  \nSomeone is peeking out from the other side.  \n  \nThe cat on the other side stared at me and imitated me.  \nMouths are gaping in amazement!  \nTails bong!!!  \n  \n  \n#【あなたはだあれ】\n  \nキノコの中をのぞいてあらまあ びっくり!!  \n向こうからも誰かがのぞいてる。  \n  \n向こう側の猫さんはじっと見つめてきたり真似っこしてきたり。  \n驚きすぎてお口はあんぐり。  \nしっぽはボン!!!  \n",
+  "attributes": [
+    {
+      "value": "Turbinellus floccosus（ウスタケ）",
+      "trait_type": "MUSHROOM"
+    },
+    {
+      "value": "MUGI（麦）",
+      "trait_type": "CAT NAME"
+    },
+    {
+      "value": "Watercolor",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Pigment ink",
+      "trait_type": "TYPE"
+    }
+  ]
+}

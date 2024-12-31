@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUNViWJ9qnydSeGwockUKYtzZMCvhrYsy26Mhw8V1EtNk/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "WEAR BEAR #095 “PETER” FOODIE&BEAGLE",
+  "description": "WEAR BEAR 第10弾は原点であるFOODIEをオーソドックスにスタイリングしたベア達がなんとお供を連れて登場！",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "“PLAY BEAR” Foodie",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Denim pants white",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "“addios”Forum High ",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Peter",
+      "trait_type": "Model"
+    },
+    {
+      "value": " Beagle",
+      "trait_type": "Buddy"
+    }
+  ],
+  "minted": "✅"
+}

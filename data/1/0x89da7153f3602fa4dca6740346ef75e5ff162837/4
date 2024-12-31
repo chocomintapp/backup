@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW6sWmQqe2GYueXW6GqGe6xsE6Yh2BtCoQPk7iev7UZyZ/nft.png",
+  "nftContractAddress": "0x89da7153f3602fa4dca6740346ef75e5ff162837",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "CG Campers feat. #014 Rumino",
+  "description": "待雪ルミ乃プロデュース「秋の俳句大会2022」で採用されたイラスト。  \n",
+  "attributes": [
+    {
+      "value": "Snowball Fight",
+      "trait_type": "HOBBY"
+    },
+    {
+      "value": "Chestnut Tart",
+      "trait_type": "FAVORITE"
+    }
+  ],
+  "minted": "✅"
+}

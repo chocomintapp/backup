@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcd262ffEhJddPwXmTXVeQPXL2nsSA1V8RMBdijmdX9Ep/nft.png",
+  "nftContractAddress": "0x32a939de2fd6d94bb904af1f82bb0a64d932c2a7",
+  "animationUrl": "https://ipfs.io/ipfs/QmUbsV29N8gXiho6dkrh25hbdAChEpygAgmLWPgineqT65/nft.mp4",
+  "tokenId": 57,
+  "chainId": "1",
+  "name": "ATUM #057",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SKY ANTHONY1",
+      "trait_type": "Type"
+    },
+    {
+      "value": "CHERRYWOOD RED×GRAY",
+      "trait_type": "Color"
+    }
+  ]
+}

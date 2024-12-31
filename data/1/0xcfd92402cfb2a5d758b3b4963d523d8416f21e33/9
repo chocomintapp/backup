@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQBUPkMeVHZYbbDoxs7ph6bVddQqKEYjmih33M8nG8piG/nft.jpg",
+  "nftContractAddress": "0xcfd92402cfb2a5d758b3b4963d523d8416f21e33",
+  "animationUrl": "https://ipfs.io/ipfs/QmZAN2zGBbvaJXNoibtFxC1KWLrx5rABGPjNcDNA9HgN5o/nft.jpg",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "クシナダヒメ-野分- / KUSHINADAHIME -nowaki pop windstorm-",
+  "description": "Peerless beauty and goddess of the rice fields.\nJust before she was about to be sacrificed to Yamata no Orochi, she was rescued by Susanoo. Subsequently, she was transformed into a comb for Susanoo's hair, which he wore when he eventually slew Yamata no Orochi. Later, she and Susanoo were married.\n\n絶世の美女。稲田の女神。\nヤマタノオロチの生贄となるところにスサノオが現れ、助けられる。スサノオがヤマタノオロチを退治する際は櫛となってスサノオの髪に挿された。その後スサノオと結婚した。",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "Agriculture"
+    },
+    {
+      "value": "8",
+      "trait_type": "Food, clothing and shelter"
+    },
+    {
+      "value": "7",
+      "trait_type": "Matrimonial happiness"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQgDDVpGz6EaP95qkL7e1PanHVr5bnRNW5YviWRBYVp32/nft.png",
+  "nftContractAddress": "0xe67d5a10815ddb40a14678d641dedb40ab697641",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "#5",
+  "description": "a nynph of hyacinth",
+  "attributes": [
+    {
+      "value": "Brunet medium hair with forehead",
+      "trait_type": "HAIRSTYLE"
+    },
+    {
+      "value": "hyacinth",
+      "trait_type": "NECKLACE"
+    },
+    {
+      "value": "Lace dress",
+      "trait_type": "CLOTHING"
+    }
+  ]
+}

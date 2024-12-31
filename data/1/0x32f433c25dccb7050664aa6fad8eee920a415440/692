@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQbVMZWxQouqtAd6cvPd2tAQqPr9kPLhA9P5Ri2ryoQw3/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmVc26M4CbvnwC8WhS9cHPzQVQkvrgyJD7xhtfBBgdCTsh/nft.mp4",
+  "tokenId": 692,
+  "chainId": "1",
+  "name": "THE JEWEL #692",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Smoky Quartz",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

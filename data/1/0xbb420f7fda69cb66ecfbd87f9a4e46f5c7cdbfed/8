@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTb6A2NVUmGRgcRjw6ZE6SnWdmVuAjW2GmS6wrSgr2qj8/nft.png",
+  "nftContractAddress": "0xbb420f7fda69cb66ecfbd87f9a4e46f5c7cdbfed",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "【No,6_Bronze】VeryLongAnimalBabies",
+  "description": "Thanks for collecting 30 of the VeryLongAnimalBabies 2nd!",
+  "attributes": [
+    {
+      "value": "Bronze",
+      "trait_type": "Color"
+    },
+    {
+      "value": "No,6",
+      "trait_type": "Serial number"
+    }
+  ]
+}

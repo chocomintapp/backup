@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmeb3baHgxWikUQ6jNZqWbXZwXNZXhKZF5rWnRitB6eM2R/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "Ahmed",
+  "description": "He is one of the AlternativeVerth, which emerged when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "light",
+      "trait_type": "skin"
+    },
+    {
+      "value": "normal_brown",
+      "trait_type": "eye"
+    },
+    {
+      "value": "gold11",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_emblem",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Cassiopeia",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

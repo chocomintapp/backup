@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNX2r8WGDJAoVydmms2ZDkLqhywQj18LbLNWAaF7TRtor/nft.GIF",
+  "tokenId": 1,
+  "description": "colorful alpaca movie:)",
+  "nftContractAddress": "0xc25b35f442316e7e466f6474cafd228c3fe4bd0a",
+  "animationUrl": "https://ipfs.io/ipfs/QmQyz5e5eFT1S5aPf3DKFVGhwCqhorbUXaDe3yap4woqJZ/nft.mov",
+  "chainId": "1",
+  "name": "Alpaca brothers in tokyo"
+}

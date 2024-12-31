@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdqUeAs7BwdXQhfp3Ts9iYdNdSdBuZ3r3HRWDNtBSAZUs/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 113,
+  "chainId": "1",
+  "name": "September 7 ガザニア",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "7",
+      "trait_type": "日"
+    },
+    {
+      "value": "天才",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ガザニア",
+      "trait_type": "花"
+    }
+  ]
+}

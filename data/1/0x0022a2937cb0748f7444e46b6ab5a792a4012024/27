@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSk7PuN8TWAv6G8gC6Xiamxi7wcFhyki15whvcgaP2k61/nft.jpg",
+  "nftContractAddress": "0x0022a2937cb0748f7444e46b6ab5a792a4012024",
+  "animationUrl": "https://ipfs.io/ipfs/Qmd9DC28qP1JLhy6ebv7nxj4AmYEFk57eRmZQqzpAk4LBG/nft.MP4",
+  "tokenId": 27,
+  "chainId": "1",
+  "name": "April 27th 2022",
+  "description": "mera takeru records each day in 88 tones",
+  "attributes": [
+    {
+      "value": "2022",
+      "trait_type": "YEAR"
+    },
+    {
+      "value": "April",
+      "trait_type": "MONTH"
+    },
+    {
+      "value": "27th",
+      "trait_type": "DATE"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPiMYZntzEM8Hk9Fs6qkSEFUH7xkJAvd7jcHwvJNdBonN/nft.png",
+  "tokenId": 1,
+  "description": "かわいい",
+  "nftContractAddress": "0x9e758d51cbaf2d381e24c3a720b7cb2682ddf6d4",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "kanon",
+  "attributes": []
+}

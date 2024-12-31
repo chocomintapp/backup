@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY1zUc7t6PazjhuwHj2b8tB5iP9bWasfagSyD1EGk7f9b/nft.jpg",
+  "tokenId": 10,
+  "description": "EDITION 1 of 1. SIZE 1500x1500.",
+  "nftContractAddress": "0xbd6090207a3a66c8de16b7579fa207ba799fb0c6",
+  "animationUrl": "https://ipfs.io/ipfs/QmTRj4kyVQVfZPVvJfz78PrVta4pgMKV6SCNqG4f4Fa8A9/nft.mp4",
+  "chainId": "1",
+  "name": "#0021_Star1_SARA_"
+}

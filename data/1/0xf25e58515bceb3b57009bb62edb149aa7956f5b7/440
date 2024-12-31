@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ2j8VMuUTGsfertrn6swNCWKt2z9aE1Xv2D9bnSaKMEN/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 440,
+  "chainId": "1",
+  "name": "CHIEMI",
+  "description": "■チェイミー",
+  "attributes": [
+    {
+      "value": "yami",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Purple",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sad2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-PU",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Round glasses-red(NE)Shining",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Stuffed Zombie3(Black）",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

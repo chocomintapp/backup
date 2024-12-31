@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbWSy315hvJrdn8M84pySphusaLhKoe2C9tTYrTrKoUbj/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmQ1Gw6kaVnJezMyNiSXZfESq3QK4QP9HntGTjBVxQd8Mp/nft.mp4",
+  "tokenId": 617,
+  "chainId": "1",
+  "name": "THE JEWEL #617",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Imperial Topaz",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Pink Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

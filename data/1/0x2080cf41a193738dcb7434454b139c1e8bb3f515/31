@@ -1,0 +1,28 @@
+{
+  "image": "",
+  "tokenId": 31,
+  "description": "\"Sahuagin\" = \"Goblin\" x \"Dragon\" Rusalka Higurashi\n「サハギン」メイン種族ゴブリン、サブ種族ドラゴン。名前はルサルカ日暮。\n\n半人半魚のモンスター娘。特殊な高周波を使ってコミュニケーションを取る。基本的には水棲生物でヒレ呼吸だが、わずかな時間であれば肺呼吸で陸上活動も可能。ファームで育成する際は必ず大きなプールを用意しよう。\n\n\"Sahuagin\" is a half-human, half-fish monster girl. They communicates using a special high frequency. \"Sahuagin\" is basically an aquatic creature and breathes through their fins, but for short periods of time, they can also breathe through their lungs and be active on land. When breeding them on a farm, be sure to prepare a large pool.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#056 \"Sahuagin\" Rusalka Higurashi",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Goblin"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaaJc7kWv8xgCDuNHZxWUd7CpwT477Yzh1NjrPqGhAcup/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmTMButq9yMubJjTfDwLQugY3iF8wfSZFYFBtx1XhJBkUV/nft.mp4",
+  "tokenId": 76,
+  "chainId": "1",
+  "name": "Agni #076",
+  "description": "Agni  \n030と044から産まれた新しいMIMI  \nNew MIMI spawned from 030 and 044",
+  "attributes": [
+    {
+      "value": "Player",
+      "trait_type": "TYPE"
+    }
+  ]
+}

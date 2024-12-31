@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTS1JZ7woK9dH74cDzGjbk31iHS3wpJmzqo3jYYmnyvK2/nft.png",
+  "tokenId": 1889,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1889",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Wild Green"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Braid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Cyber Eyes"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Pearl Studs"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Pink Pearls"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Lemon Slice"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Rainbow Angel"
+    }
+  ]
+}

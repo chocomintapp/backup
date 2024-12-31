@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeS1NH1JhcU962eVcQvLDWKj19AqAyirP49J7RdCY571s/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmVu4bBtqR1Q2Ab7bFF1d216LjWn3RmvkpMBPDX6Xi4gnq/nft.mp4",
+  "tokenId": 769,
+  "chainId": "1",
+  "name": "THE JEWEL #769",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "White Gold K18",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Patina gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

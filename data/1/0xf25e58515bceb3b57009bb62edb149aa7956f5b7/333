@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdnwJFHp8vhcsjPQiWmKYbCMswMCEqhsnfpY551awWMa4/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 333,
+  "chainId": "1",
+  "name": "HAZEL",
+  "description": "■ハゼル",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0005Eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-kanazuen",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "NARUKAMI-W",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Angel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Angel Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

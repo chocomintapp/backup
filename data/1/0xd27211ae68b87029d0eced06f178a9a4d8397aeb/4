@@ -1,0 +1,19 @@
+{
+  "image": "",
+  "nftContractAddress": "0xd27211ae68b87029d0eced06f178a9a4d8397aeb",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc5NpEeSxiFSV4yWAc1aYzFxEcpeN4SnbJJtciMw6ojsi/nft.gif",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "POC第1章No.4　始祖鳥",
+  "description": "陸ができチキンDNAが進化し植物や小動物ができた。\n管理するものが必要だ。\n我々は地球の管理者としてマイクロチキンから成長させた鳥を送り込んだ。\nこれが「始祖鳥」である。",
+  "attributes": [
+    {
+      "value": "第1章",
+      "trait_type": "章"
+    },
+    {
+      "value": "支配者チキン",
+      "trait_type": "チキン種別"
+    }
+  ]
+}

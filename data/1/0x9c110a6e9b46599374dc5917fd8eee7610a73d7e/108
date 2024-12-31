@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRjiod4J2kJaJED8jsd6DFLFJvW1UiJXadbPkzwzmd5zM/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 108,
+  "chainId": "1",
+  "name": "POCO_Anatolia",
+  "description": "Anatolia-Chan",
+  "attributes": [
+    {
+      "value": "Polite",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Witch",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Ghost",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

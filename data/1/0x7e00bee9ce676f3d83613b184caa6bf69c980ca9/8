@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUrvWY9Z4WcSHGrV9oFen6Ua3G6jLHrrU2r6277wusWTW/nft.png",
+  "nftContractAddress": "0x7e00bee9ce676f3d83613b184caa6bf69c980ca9",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "CyberAnimeDOLL x CryptoNinja #021 \"Nekomata (猫又)\"_Model 1",
+  "description": "This is \"CryptoNinja NFT\" derivative work (fan art). This work is in keeping with the world view of CyberAnimeDOLL.\n\nこの作品は、「CryptoNinja NFT」のファンアートですが、CyberAnimeDOLLの世界観に合わせています。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Kagebunshin - 影分身の術",
+      "trait_type": "ABILITY"
+    },
+    {
+      "value": "Saika - 雑賀",
+      "trait_type": "CLAN"
+    },
+    {
+      "value": "Therianthrope - 獣人",
+      "trait_type": "Entity Concept"
+    },
+    {
+      "value": "Yellow - 黄",
+      "trait_type": "EYE COLOR"
+    },
+    {
+      "value": "Calico - 三毛",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short - ショート",
+      "trait_type": "Hairstyle"
+    },
+    {
+      "value": "Cat - 猫",
+      "trait_type": "Therianthrope TYPE"
+    }
+  ]
+}

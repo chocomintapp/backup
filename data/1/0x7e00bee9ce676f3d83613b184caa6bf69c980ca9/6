@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYit9ruv5QRhvRZAGeLncH9pJ4CzY2RZiHwHgQhUpQcLA/nft.png",
+  "nftContractAddress": "0x7e00bee9ce676f3d83613b184caa6bf69c980ca9",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "CyberAnimeDOLL x CryptoNinja #013 \"Atoza (アトザ)\"_Model 2",
+  "description": "This is \"CryptoNinja NFT\" derivative work (fan art). This work is in keeping with the world view of CyberAnimeDOLL.\n\nこの作品は、「CryptoNinja NFT」のファンアートですが、CyberAnimeDOLLの世界観に合わせています。",
+  "attributes": [
+    {
+      "value": "Time for disasters - 逢魔刻",
+      "trait_type": "Ability"
+    },
+    {
+      "value": "Fuma - 風魔",
+      "trait_type": "Clan"
+    },
+    {
+      "value": "Ogre - オーガ",
+      "trait_type": "Entity concept"
+    },
+    {
+      "value": "Red - 赤",
+      "trait_type": "Eye color"
+    },
+    {
+      "value": "Gray - 灰",
+      "trait_type": "Hair color"
+    },
+    {
+      "value": "WolfCut - ウルフカット",
+      "trait_type": "Hairstyle"
+    },
+    {
+      "value": "Two Horns Red Oni - 双角赤鬼",
+      "trait_type": "Ogre Type"
+    }
+  ],
+  "minted": "✅"
+}

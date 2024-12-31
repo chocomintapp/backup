@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQMH9pNK6grEPGAc5g55oXrNjAeMfjE2Mewn9xwzG1a5D/nft.gif",
+  "nftContractAddress": "0x5b7c036e3ae9667e3144dcd685e5481e97a30156",
+  "animationUrl": "https://ipfs.io/ipfs/QmQMH9pNK6grEPGAc5g55oXrNjAeMfjE2Mewn9xwzG1a5D/nft.gif",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "ss",
+  "description": "ss",
+  "attributes": []
+}

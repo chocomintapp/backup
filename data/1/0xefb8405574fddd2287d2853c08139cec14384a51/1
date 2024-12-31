@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRDCYmUqw4468DmcViXT8gf7pP4Ao39NYZfX1kXksLyog/nft.jpeg",
+  "nftContractAddress": "0xefb8405574fddd2287d2853c08139cec14384a51",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "UCHINOKO",
+  "description": "うちのこです。かいじょー(開錠)ちゃんと呼んでます。\nそういえば解錠は錠を壊さないで鍵を開けること、開錠は錠をぶっ壊してでも鍵を開けることらしいです。ﾄﾘﾋﾞｱ~~~~~~~~~~",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

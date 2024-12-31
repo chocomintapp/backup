@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ1WSSN4iv2aZfrhBVcqEj6bH3aePzrsRkyE4KexQBKyk/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "1",
+  "name": "Blue Unicorn 青いユニコーン #221",
+  "description": "This is a work of the #JNW3rd collaboration project #ALLBLUE in #JapaneseNFTworld ✨.\n\nThese children are the four main colors.\nThe mommy and daddy are rainbow colored and have a cloud and unicorn symbol on their foreheads.\n\nThey are a red unicorn, an orange unicorn, a green unicorn, and a blue unicorn.\nThis baby was born with a little bit of a special feature.\n\nThis unicorn has a star-shaped mark on her forehead.\nIt is easily recognizable by its family members.\n\nBLUE-chan is a girl.\nShe was born with white shadows on her forehead and cheeks.\n\nThis Blue-chan will be there gently for any child who is feeling blue.\n\nThe four unicorns have never fought.\nThat is because each member of the family is happily going about his or her business in the house.\n\n※Since this is the 21st work by a second grader, I have assigned it the number 221.\n\nDiscord #JapaneseNFTworld 内の #JNW3rd\n日本×タイ コラボ企画 #ALLBLUE \nの参加作品です✨\n\nこの子たちは4しゅるいの色の子たちです。\nおかあさんとお父さんは虹色でおでこに雲とユニコーンのマークがついています。\n\n赤ユニコーン、オレンジユニコーン、緑ユニコーン、青ユニコーンで\nちょっとしたとくちょうがついて生まれました。\n\nこの子はおでこに星形もようのとくちょうがあります。\nかぞくとすぐわかるようになっています。\n\n青子ちゃんは女の子です。\n生まれたときからおでこやほっぺに白いかげをもっています。\n\nこの子はブルーなきもちな子にそっとよりそってくれます。\n\n４人のユニコーンはあらそったことがありません。\nかぞくがおうちの中のおしごとをそれぞれたのしくやっているからです。\n\n※小学2年生21番目の作品なので221の番号をつけました。",
+  "attributes": [
+    {
+      "value": "Unicorn",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Color"
+    },
+    {
+      "value": "kawaii",
+      "trait_type": "Category"
+    }
+  ],
+  "minted": "✅"
+}

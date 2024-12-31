@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVYTo2dhWUkEzdmLPK1DxG7HhALSH4MPUvhhqVSCtb5B2/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "1",
+  "name": "WEAR BEAR #110 “BLOOD” from TMA GECKO",
+  "description": "WEAR BEAR 第11弾はクールなTHE MAFIA ANIMALSとのコラボシリーズ！レアキャラの”BLOOD\"はオリジナルマフィア。TMA幹部Geckoの組織”月光一家”から離脱しWEAR BEAR TOWNやってきた街のボディガード",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Mods jacket",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Mods slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Silent boots",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Polarbear",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blood",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Water gun",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Bandana \"SKULL\"",
+      "trait_type": "Accessories"
+    }
+  ]
+}

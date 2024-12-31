@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcUXWNhTkUPq3FaibLpdZ3oBqYgTkYE5o3tEXju3B7yG7/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 54,
+  "chainId": "1",
+  "name": "July 10 ナデシコ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "7",
+      "trait_type": "月"
+    },
+    {
+      "value": "10",
+      "trait_type": "日"
+    },
+    {
+      "value": "内気",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ナデシコ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

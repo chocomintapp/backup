@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR81gFXcdUGrZ7ip3oMJVsj53GXd5JNwSWEFkjLaYTbj4/nft.png",
+  "nftContractAddress": "0x4bcca53849f253ace662aebb3652044911895c4d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "MoMegami #00001",
+  "description": "#MEGAMI-NFTのファンアート\nもめんちゃんをMEGAMIテイストで作品を作りました。\n\n#Momen-Twitter\nhttps://twitter.com/momen_nft?s=21&t=Jm8t8FDciMFHth8fOnRYUA\n\n#MEGAMI-OfficialTwitter\nhttps://twitter.com/megaminft?s=21&t=Jm8t8FDciMFHth8fOnRYUA\n\n#MEGAMI-OpenSea\nhttps://opensea.io/collection/megaminft\n\n#MEGAMI-Website\nhttps://www.megami.io/\n\n#MEGAMI-NFT fan art\nI made a work of art of Momen-chan with MEGAMI taste.\nNaoki Saito's 1/1 quality as a collector's item of NFT.\nThis is the concept of MEGAMI.\nA MEGAMI that is not for anyone, but only for you.\nA Megami of your own choice will give you power.\nFind your own personal Megami and rediscover your value.",
+  "attributes": [
+    {
+      "value": "Light blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Twitter space",
+      "trait_type": "BACKGROUNDEFFECT"
+    },
+    {
+      "value": "Angel Robe",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Lively Schoolgirl",
+      "trait_type": "FACETYPE"
+    },
+    {
+      "value": "Hane Shortbob",
+      "trait_type": "HAIRSTYLE"
+    },
+    {
+      "value": "Ribbon",
+      "trait_type": "HEADACCESSORY"
+    },
+    {
+      "value": "Angel Ring",
+      "trait_type": "EFFECT"
+    },
+    {
+      "value": "O.K.",
+      "trait_type": "HANDSIGN"
+    },
+    {
+      "value": "Voxel",
+      "trait_type": "POWERSOURCE"
+    }
+  ]
+}

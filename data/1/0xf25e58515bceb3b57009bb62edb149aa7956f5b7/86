@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRV9izBtRHkYpWnTCQuKpphQN4LKMe3MfnsXXSmaAEDwA/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 86,
+  "chainId": "1",
+  "name": "MARI",
+  "description": "MARI loves ramen and is very angry.\n\nHer dream is to eat ramen all over the world, and she is currently working hard to earn money for her trip.\n■マリ\n\nラーメンが大好きで、怒りっぽいマリ。\n\n世界中のラーメンを食べるのが夢で、現在渡航費用を頑張って稼いでる。",
+  "attributes": [
+    {
+      "value": "DOT5",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Redpink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-Upurple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "LoliFoodie-Red",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Raaamen",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "RedLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

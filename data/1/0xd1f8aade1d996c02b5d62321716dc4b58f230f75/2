@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeioWyyDfpUhdrsiDF7RmWMunWaDngewiygj5jF2P5jWF/nft.PNG",
+  "nftContractAddress": "0xd1f8aade1d996c02b5d62321716dc4b58f230f75",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Hamburger Castle #002",
+  "description": "Hamburger Kingdom",
+  "attributes": [
+    {
+      "value": "Hamburger Kingdom",
+      "trait_type": "TYPE"
+    }
+  ]
+}

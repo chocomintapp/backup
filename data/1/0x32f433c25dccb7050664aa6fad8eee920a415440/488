@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmctSLMvDPSG5ddEa5LkDa7hExsaXwyoEQDr9ULQhVPCYy/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmQYi1qY4HP4SzFeNaJR9VYEszR7XvtnkNdcqPmxYaoDqp/nft.mp4",
+  "tokenId": 488,
+  "chainId": "1",
+  "name": "THE JEWEL #488",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Danburite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Control device"
+    }
+  ]
+}

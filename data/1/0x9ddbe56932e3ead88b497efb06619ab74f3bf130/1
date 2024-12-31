@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPNLVwGWFyxdq2McR1t5Srv6btLG29EgUMsy37LNNGGL7/nft.jpeg",
+  "nftContractAddress": "0x9ddbe56932e3ead88b497efb06619ab74f3bf130",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "#001 CNP's Halloween party",
+  "description": "CNP gets together for a Halloween party!!!\nCNP in one, two, three, four, five... Is that six?\n\nCNPが集まってハロウィンパーティ！！\nCNPが1,2,3,4,5...あれ6体？？\n\n",
+  "attributes": [
+    {
+      "value": "Leelee",
+      "trait_type": "character"
+    },
+    {
+      "value": "Orochi",
+      "trait_type": "character"
+    },
+    {
+      "value": "Narukami",
+      "trait_type": "character"
+    },
+    {
+      "value": "Mitama",
+      "trait_type": "character"
+    },
+    {
+      "value": "Yama",
+      "trait_type": "character"
+    },
+    {
+      "value": "autumn",
+      "trait_type": "season"
+    }
+  ]
+}

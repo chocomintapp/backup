@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVS77ez31yR18ux2jFV9BwFAyEmVnXMy2ggrMZkPjL3Xb/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 250,
+  "chainId": "1",
+  "name": "January 22 シンビジウム（ピンク）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "月"
+    },
+    {
+      "value": "22",
+      "trait_type": "日"
+    },
+    {
+      "value": "気取らない心",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "シンビジウム",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

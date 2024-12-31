@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf5xRGhea6TJBAtNAeMtq2K3b2agWHjhKdYxH9BnRNrgt/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 224,
+  "chainId": "1",
+  "name": "BARBARA",
+  "description": "■バーバラ",
+  "attributes": [
+    {
+      "value": "Bright-Pink",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Tail-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-ZBlue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-BBW",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-anger",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Tsuno-B",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

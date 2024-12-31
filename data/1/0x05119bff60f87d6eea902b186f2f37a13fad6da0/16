@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeE87na45gipDhb9zsHWBJoscVwS6ryQ41BqGS3Cyhnog/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "POPET No.16",
+  "description": "【物語】\n\nメッセージヲ受信シテコノ星ニキタ。\n誰ガ私ヲ呼ンダノカ...。\nココハドコカ懐カシイ星。",
+  "attributes": [
+    {
+      "value": "宇宙人",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "unknown",
+      "trait_type": "origin"
+    },
+    {
+      "value": "未知",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

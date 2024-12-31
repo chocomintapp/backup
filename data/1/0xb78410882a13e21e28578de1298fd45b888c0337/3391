@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXHdgL9MVL9BUJjvsmDwAej6sNYuP3sig4Fkyxt2EGk6b/nft.png",
+  "nftContractAddress": "0xb78410882a13e21e28578de1298fd45b888c0337",
+  "animationUrl": "",
+  "tokenId": 3391,
+  "chainId": "1",
+  "name": "",
+  "description": "",
+  "attributes": [
+    {
+      "value": "JAPANESE CREST",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "大戸之道尊",
+      "trait_type": "SIGNATURE STAMP"
+    }
+  ]
+}

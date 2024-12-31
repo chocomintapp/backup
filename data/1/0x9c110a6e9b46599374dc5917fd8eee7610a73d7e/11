@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNQqSuw57ixLG29dpbth6oo4pund7qg5kT4t78kH7ugGL/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "Migraine",
+  "description": "Pay attention to changes in atmospheric pressure.",
+  "attributes": [
+    {
+      "value": "Overburdened",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Black",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

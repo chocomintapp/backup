@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmevPFj8pfaVKhdoZYieFxfDeUkYQaGNmMRNBskPLHqom6/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Takeda Risa Special Edition",
+  "description": "Neo Tokyo Punks × Ambitious One CityのSpecial Giveaway",
+  "attributes": [
+    {
+      "value": "SHIKI",
+      "trait_type": "CREATOR"
+    }
+  ]
+}

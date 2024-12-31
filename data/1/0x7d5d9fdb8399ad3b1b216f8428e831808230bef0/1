@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmStBrsiB1Tttriw5J3es7knyq2QKnD1r8Z3HawUP9x8bV/nft.jpg",
+  "tokenId": 1,
+  "description": "Diamond Beach\n\nLocation: Iceland\n\nYear: 2015\n\nEdition 1/1",
+  "nftContractAddress": "0x7d5d9fdb8399ad3b1b216f8428e831808230bef0",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "ICELAND #1",
+  "attributes": []
+}

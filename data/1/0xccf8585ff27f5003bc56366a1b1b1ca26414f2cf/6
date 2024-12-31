@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYWbNf3SJg8kv2dHpD2Zpyv85GWL46bgKBPWUcyuAdRfN/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "WEAR BEAR #092 \"TONY” FOODIE&RUSSIAN BLUE",
+  "description": "WEAR BEAR 第10弾は原点であるFOODIEをオーソドックスにスタイリングしたベア達がなんとお供を連れて登場！\n“TONY”はピンクのBEAR FOODIEを着用し、BUDDYのロシアンブルーちゃんと登場\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "“PLAY BEAR” Foodie",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Denim pants solid",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "“addios”SAMBO",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Tony",
+      "trait_type": "Model "
+    },
+    {
+      "value": "Russian blue",
+      "trait_type": "Buddy"
+    }
+  ]
+}

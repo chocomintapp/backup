@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV2NQeaVNaqfZeEX2GA8ntXqSE2vCYLafvrpGJZj5pTJc/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Beach Borne Bae #32",
+  "description": "Beach Borne Bae #32\nInspired by Nembrotha milleri  / ミラーリュウグウウミウシ",
+  "attributes": [
+    {
+      "value": "Double Bun",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Turtleneck",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Aquamarine",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Sea Slug",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

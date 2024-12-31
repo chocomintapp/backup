@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcuyX3NR7n1LiGEhQ2593fbWhxjaoqRi7965qp8qwgFEG/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "POPET No.23",
+  "description": "【物語】\n\nようこそお越しくださいました 。\nボクは POPTOWN 市役所、案内窓口担当のオリヴァーです。",
+  "attributes": [
+    {
+      "value": "ホテルマン",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "市役所",
+      "trait_type": "origin"
+    },
+    {
+      "value": "丁寧",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUPvjv5ezZyyAwQ9CQhjr1bkzeYogHSxFjUGQpEaTJqeL/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 277,
+  "chainId": "1",
+  "name": "DOVE",
+  "description": "■ダブ",
+  "attributes": [
+    {
+      "value": "Yellow（made by YUDA）",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.4",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Time",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Deeppink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "RobotEye4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Ctype",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "LeeLee-Red",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "MIRAKO-Antenna-OrangeB",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

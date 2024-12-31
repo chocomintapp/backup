@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVvuuwoCnptawmWE64na9NkFefXLkUn9fVaSd9i6dZs5M/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 87,
+  "chainId": "1",
+  "name": "POCO_Rumaco",
+  "description": "Rumaco_Chan Fan Art: Megami #06601",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Optimistic",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "MEGAMI",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

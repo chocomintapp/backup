@@ -1,0 +1,20 @@
+{
+  "image": "https://thecryptoclocks.mypinata.cloud/ipfs/QmWcYLNKCYLFP2K23zM1dNMP3nEJxQyJo343JukJd47wJQ/Black.png",
+  "tokenId": 9,
+  "description": "Crypto Clock is a handmade NFT that works like a real clock.",
+  "nftContractAddress": "0x74918d2200e40e9d40dc0d0f10ad593d373cf4bc",
+  "animationUrl": "https://thecryptoclocks.mypinata.cloud/ipfs/QmSGrH3Y3E13DzbiDwSDALu14KLgQQaUXUqeRCfvcwUfcC/",
+  "chainId": "1",
+  "name": "Crystal Clock #Black",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": "0"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ctystal"
+    }
+  ],
+  "minted": ""
+}

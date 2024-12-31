@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV8bC1ar5TSdmJRS9PB6hMdWdVcJAsN6t8X7yhvYbQonv/nft.png",
+  "tokenId": 1430,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1430",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Slip"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Pearl Studs"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Smartphone"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Gold Cat Ears"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Bengal Cat"
+    }
+  ]
+}

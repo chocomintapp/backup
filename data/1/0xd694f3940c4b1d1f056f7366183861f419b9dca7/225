@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY1phao29iFrKbuvmxucWBXhJJKEQcyqC6in1fctd5gU8/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 225,
+  "chainId": "1",
+  "name": "December 28 モミ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "28",
+      "trait_type": "日"
+    },
+    {
+      "value": "高尚",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "モミ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

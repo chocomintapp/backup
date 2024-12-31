@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcjqDWqrW9yNvPFCE8UKdLDmwY6414fq1ANkBnauphXBk/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "のみこまれていく暗い風 The Dark Wind of Being Swallowed",
+  "description": "人間だった女の子が、のみこまれてから風の仲間になった。\nこの子は「また生きれてうれしい」と思っている。\n光がありだれもいないときに来る。\n\n[嵐の女の子](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/81008035297171467106590010615634195776700641120937970484020149143206761594881/)のつづきの物語です。\n\nOne girl, who was human at first, became a member of the wind after being swallowed.This girl thinks that she is happy to be alive again.She comes when there is light and no one else is around.\n\nXANALIA NFTART AWARDS 2021 で\nノミネート作として掲載いただいた作品です。\n100以上のいいねをいただきありがとうございました！\n\n掲載期間満了にて、OpenSeaに出せるよう、\nChocofactory経由の独自コントラクトにしました。",
+  "attributes": [
+    {
+      "value": "Storm",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Art",
+      "trait_type": "Category"
+    }
+  ],
+  "minted": "✅"
+}

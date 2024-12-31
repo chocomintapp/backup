@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW3sdwy8qfQRZMyiJp5XoiiM1fprSLStwkK2SFSqLMPrQ/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmQNmBFRnK21HSTqn2JdczFpQUGeL5o9s4XmZdHWztGThD/nft.mp4",
+  "tokenId": 35,
+  "chainId": "1",
+  "name": "#061 HamMan",
+  "description": "HamMan\n\n- Food Series\n- 3DCG Turntable\n- 1920 x 1920px",
+  "attributes": [
+    {
+      "value": "Food",
+      "trait_type": "Type"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf24Gt3dsA2dntpdYwqMLXZKiwxgUffZM3hRx1Bq2xYw8/nft.jpg",
+  "tokenId": 3,
+  "description": "以前、数字をテーマにアート作品を制作した事がありました。今回のナンバーエイト&イーという作品では、過去の経験を活かし数字とアルファベットを合わせた作品を制作しました。",
+  "nftContractAddress": "0x06721b2e36f2822e09d22b214d8230af7d4ba402",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "ナンバーエイトアンドイー",
+  "attributes": []
+}

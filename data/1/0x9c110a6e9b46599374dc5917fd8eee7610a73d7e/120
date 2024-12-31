@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPQ4dXfHQYdetUNbs7WdwfB8guNPxwJ4R4aKjvTvQBgzb/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 120,
+  "chainId": "1",
+  "name": "POCO_Cilla",
+  "description": "Cilla-Chan",
+  "attributes": [
+    {
+      "value": "Pessimistic",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Sci-Fi",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

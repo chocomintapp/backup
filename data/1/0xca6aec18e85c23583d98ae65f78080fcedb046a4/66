@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQC7mJgutsjX3664xEVpxzoEqXrnjW6UcX1R9S3ZgMBmz/nft.png",
+  "nftContractAddress": "0xca6aec18e85c23583d98ae65f78080fcedb046a4",
+  "animationUrl": "",
+  "tokenId": 66,
+  "chainId": "1",
+  "name": "066 One-side Lovers : Series02-Beach [Surfer Girl]",
+  "description": "■Fukuyoshi Rokka's Artwork collection \n\"One-side Lovers”\nSeries02-Beach\n\n福吉ロッカのアートワークコレクション\n「One-side Lovers」\nシリーズ２-Beach",
+  "attributes": [
+    {
+      "value": "Beach",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair-color"
+    },
+    {
+      "value": "Long Ponytail",
+      "trait_type": "Hair-style"
+    },
+    {
+      "value": "Surfboard/Personal Stereo",
+      "trait_type": "Item"
+    },
+    {
+      "value": "02/Beach",
+      "trait_type": "Series-number"
+    },
+    {
+      "value": "Big Clouds",
+      "trait_type": "Sky"
+    },
+    {
+      "value": "Black/Rose Pink Polka Dot",
+      "trait_type": "Swimsuit-color"
+    },
+    {
+      "value": "One Piece Swimsuit",
+      "trait_type": "Swimsuit-type"
+    }
+  ],
+  "minted": "✅"
+}

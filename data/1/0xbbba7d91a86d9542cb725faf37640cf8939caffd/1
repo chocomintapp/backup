@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXYoR4TA3PqaMeuJznbAEsnDsvU18q2HZX8LX4NhPcy7q/nft.png",
+  "nftContractAddress": "0xbbba7d91a86d9542cb725faf37640cf8939caffd",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "VeryRealAnimals #1",
+  "description": "",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "penguin"
+    }
+  ]
+}

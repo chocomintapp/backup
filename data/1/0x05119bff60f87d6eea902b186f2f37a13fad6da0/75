@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTyGJgyWxtR6yJgXzXWPfLy1vMXvUXrsYGcKCJhsuiUQw/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 75,
+  "chainId": "1",
+  "name": "POPET No.75",
+  "description": "【物語】歴史ある貴族の長男。甘い物が好き。血は一流のヴァンパイアになってから。",
+  "attributes": [
+    {
+      "value": "ヴァンパイア",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "神出鬼没",
+      "trait_type": "origin"
+    },
+    {
+      "value": "高貴",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

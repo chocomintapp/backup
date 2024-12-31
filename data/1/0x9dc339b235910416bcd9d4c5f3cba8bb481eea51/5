@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmddMWXwR68grf64pHizhkRpMcTceRX6cDkcLKFQG4hTvN/nft.gif",
+  "nftContractAddress": "0x9dc339b235910416bcd9d4c5f3cba8bb481eea51",
+  "animationUrl": "https://ipfs.io/ipfs/QmddMWXwR68grf64pHizhkRpMcTceRX6cDkcLKFQG4hTvN/nft.gif",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "#005 Class1-A Miku Takaoka",
+  "description": "She surprisingly likes anime and admires voice actresses.  \n------------------  \n彼女は意外にもアニメ好きで声優に憧れています  ",
+  "attributes": [
+    {
+      "value": "Miyabi High School",
+      "trait_type": "School"
+    },
+    {
+      "value": "Class 1-A",
+      "trait_type": "Grade"
+    },
+    {
+      "value": "Movie Club",
+      "trait_type": "Role"
+    }
+  ]
+}

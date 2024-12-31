@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmceB77wEkm7BDjrfP5daqZmUcdY3HUkK5HkRYP9KfNWzm/nft.jpg",
+  "tokenId": 1,
+  "description": "Hello.\nI am Sato Tanaka.\nThis is my first NFT. \n\nCollection's Name is ”I am Sato Tanaka.\"\nI want to create more NFT character.",
+  "nftContractAddress": "0xaca13a43a412eb5cc9b065607a2ef32b8c1b2a32",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "I am Sato Tanaka #0000",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Original"
+    },
+    {
+      "trait_type": "I am",
+      "value": "#0000"
+    }
+  ]
+}

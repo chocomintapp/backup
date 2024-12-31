@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTNXPBWpk9ZsEQM53qWoAiL7b6s5zhC88PEhdETU2UAMU/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "いろんな角度から眺める",
+  "attributes": [
+    {
+      "value": "カカオ",
+      "trait_type": "人物"
+    },
+    {
+      "value": "スーツ",
+      "trait_type": "服装"
+    },
+    {
+      "value": "ボストン型",
+      "trait_type": "メガネ"
+    },
+    {
+      "value": "ハンドバッグ",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

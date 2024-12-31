@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWwaCFkwprWKFpTMXJGpXiNfpkuFmFsKmMWHq9rCHsxS5/nft.gif",
+  "nftContractAddress": "0xe59d6a2d32113de5dd99ba564bbffc92d135d7d8",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "#0006 cheese bread",
+  "description": "京都で創業40年以上のパン屋チロル。\nこちらのパンを使ったNFTアート『Chirol-BreadHeadFriends.-』です。\n\nGraphics Interchange Format\n1024×1024px",
+  "attributes": [
+    {
+      "value": "series001",
+      "trait_type": "Series"
+    },
+    {
+      "value": "cheese bread",
+      "trait_type": "BreadType"
+    },
+    {
+      "value": "anim007",
+      "trait_type": "Animation"
+    }
+  ],
+  "minted": "✅"
+}

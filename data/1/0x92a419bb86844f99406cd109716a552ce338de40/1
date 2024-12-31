@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmavrHnQZpezCnJh2ehrHXks3Byhh7mVGj4RUPAE2argp9/nft.jpg",
+  "tokenId": 1,
+  "description": "The first character in the Crypto Baby Animals. #CryptoBabyAnimals",
+  "nftContractAddress": "0x92a419bb86844f99406cd109716a552ce338de40",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Crypto Baby Animals #001",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

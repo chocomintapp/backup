@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUkL14jKRYS8VJqAMcsF4ua7C41AMfM3mU4ML2cuEhMkD/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmcAKodSEPvUeEZ3yNCscgK9N1UZnm462pJ631GWoQVWjU/nft.mp4",
+  "tokenId": 777,
+  "chainId": "1",
+  "name": "THE JEWEL #777",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Legend THE JEWEL",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "legendary diamond",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "legendary ",
+      "trait_type": "Shine"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRnTL1EfCtSrjEqUsH5vt4vSCvspaT4cByM1yKGk3r6er/nft.jpg",
+  "nftContractAddress": "0xb633dbee65f5f2218284c8d775f7efe33570179e",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "Eggbird #016-Flying Chicken",
+  "description": "Eggbird #016-Flying 『ニワトリ』",
+  "attributes": [
+    {
+      "value": "livestock 家畜",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Chicken 鶏",
+      "trait_type": "Species"
+    }
+  ]
+}

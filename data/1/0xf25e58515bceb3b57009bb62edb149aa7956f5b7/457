@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUSeYdQHB2gCX7Tn9xzJgzSQpxR5T6KKSRMF3suBS3gGv/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 457,
+  "chainId": "1",
+  "name": "WAKABA",
+  "description": "■ワカバ\nSSPファンアート",
+  "attributes": [
+    {
+      "value": "Yellow Sickle-Back",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks2",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew3",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Tail-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Yellow-SSP",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Yellow-SSPmask",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Black-SSP",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

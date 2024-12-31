@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY1LyCsewhziaiLndCrbC8zpuhnsjunHq7Kd3kzNnkMed/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 227,
+  "chainId": "1",
+  "name": "MANAKEL",
+  "description": "■マナケル",
+  "attributes": [
+    {
+      "value": "Deep-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Burstout-Laughing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Skyblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Zombieblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-White",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "BlueLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "MIRAKO-Antenna-A",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

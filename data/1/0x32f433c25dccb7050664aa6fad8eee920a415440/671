@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdaxaMbmv762mqM4QUS7MKcvv5aPu8ezaXpLDLd259YLc/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmaSLdHd8KuANqAGoUTGydLfyCDvxrK1DLr5zADHRBpNyM/nft.mp4",
+  "tokenId": 671,
+  "chainId": "1",
+  "name": "THE JEWEL #671",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "White Topaz",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Brass",
+      "trait_type": "Control device"
+    }
+  ]
+}

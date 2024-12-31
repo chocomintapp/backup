@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR2NnRLx3fXdtiWSCa7jps1BrHcxzgQiAD66gUtrtyYkr/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmNfvM6YyzmhRJjMg1D89AAXuxBhc1ruhtEzTkRjvKAowF/nft.mp4",
+  "tokenId": 84,
+  "chainId": "1",
+  "name": "Itten #084",
+  "description": "Itten  \n感度の高い異端児  \nSensitive heretics",
+  "attributes": [
+    {
+      "value": "Haus",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Mimi",
+      "trait_type": "VOICE"
+    }
+  ]
+}

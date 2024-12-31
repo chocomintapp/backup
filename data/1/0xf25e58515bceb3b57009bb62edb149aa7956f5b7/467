@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdRhNn6MS2gV8L8AbDxrfJ6UVGVes1D5BEMQxKNc5Vvns/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 467,
+  "chainId": "1",
+  "name": "ILIS",
+  "description": "■イリス",
+  "attributes": [
+    {
+      "value": "Purple Sickle-Back",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.9",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sunglass-B4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Purple-SSP",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Stuffed Zombie2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

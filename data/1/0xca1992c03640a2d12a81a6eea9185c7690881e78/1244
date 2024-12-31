@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUancmebU4RyrZ5oPfFSC9QPhgc1RkDnXrYXbXLWp47se/nft.png",
+  "tokenId": 1244,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1244",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Wild Green"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Side Tail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Strawberry"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Coconut Water"
+    }
+  ]
+}

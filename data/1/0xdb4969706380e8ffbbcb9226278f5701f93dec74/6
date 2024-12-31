@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbQNWwN5LHk3yEHdH6VndVvoa4XKwMsKdmZB12NqgA8cM/nft.mp4",
+  "nftContractAddress": "0xdb4969706380e8ffbbcb9226278f5701f93dec74",
+  "animationUrl": "https://ipfs.io/ipfs/QmbQNWwN5LHk3yEHdH6VndVvoa4XKwMsKdmZB12NqgA8cM/nft.mp4",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Moving Craftwork #005 Maze Wall",
+  "description": "Life may be a maze with no way out. But if we don't stop, it will continue to shine. Stay active!",
+  "attributes": [],
+  "minted": "✅"
+}

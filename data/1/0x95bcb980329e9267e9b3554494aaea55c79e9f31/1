@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmayJTbwQ9jhPubP7tn1TDvzQMVs1LjampTS1bSkeSFuCB/nft.png",
+  "nftContractAddress": "0x95bcb980329e9267e9b3554494aaea55c79e9f31",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "#001F~...mission complete~",
+  "description": "This work is a fan art of Mishiro Rei.\n",
+  "attributes": [
+    {
+      "value": "Mishiro Rei",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "12",
+      "trait_type": "AGE"
+    },
+    {
+      "value": "knife",
+      "trait_type": "WEAPON"
+    }
+  ],
+  "minted": "✅"
+}

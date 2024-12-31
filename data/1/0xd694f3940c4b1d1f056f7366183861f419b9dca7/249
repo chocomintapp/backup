@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWJBTGQsHhcpMaCenCX4986fHEjWsTWpTKaGgJBd2QKda/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 249,
+  "chainId": "1",
+  "name": "January 21 スギ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "月"
+    },
+    {
+      "value": "21",
+      "trait_type": "日"
+    },
+    {
+      "value": "雄大",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "スギ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

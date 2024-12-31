@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcLEWSdEHiUrfhN23zxxuTomCMSfzrWxHEraSUanvfq4P/nft.png",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "1",
+  "name": "#063 \"Skeleton\" Halloween Hirata",
+  "description": "\"Skeleton\" = \"Zombie\" x \"Golem\" Halloween Hirata\n「スケルトン」メイン種族ゾンビ、サブ種族ゴーレム。名前はハロウィン平田。\n\nスケルトンは、ゾンビ種とゴーレム種の混血モンスター。ゾンビ種のタフさとゴーレム種の防御力が相まって物凄く耐久力が高い。好きな飲物は牛乳。\n\n\"Skeleton\" are a hybrid monster of \"Zombie\" and \"Golem\" species. The toughness of the \"Zombie\" species combined with the defensive strength of the \"Golem\" species makes it extremely durable. Its favorite drink is milk.",
+  "attributes": [
+    {
+      "value": "Zombie",
+      "trait_type": "Main Species"
+    },
+    {
+      "value": "Golem",
+      "trait_type": "Sub Species"
+    },
+    {
+      "value": "Named",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Rare",
+      "trait_type": "Rarity"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUwbVXLChCPuftui7DRsyuvmvBLLFTFr6Py6Dw7u9zYSY/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmf2teLKRuHPqK8rwARtN9hvsZ1ybBGWehrpgwQUw5hwaD/nft.mp4",
+  "tokenId": 349,
+  "chainId": "1",
+  "name": "THE JEWEL #349",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Hackmanite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

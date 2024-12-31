@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVpoGFMbcYXSdyYpKRtptYu5fYFFXx9euC7jXSpjFYhnN/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "SARA",
+  "description": "SARA is usually shy.\n\nHowever, she is sensitive to the smell of money, and when she talks about business, she comes on strong.\n\nShe loves to talk about investment and management.\n■サラ\n\n普段は恥ずかしがり屋なサラ。\n\nただお金の匂いに敏感で、ビジネスの話になるとグイグイと来る。\n\n投資話や、経営に話が大好き。",
+  "attributes": [
+    {
+      "value": "Light-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-UOrange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WYB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Businessperson",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

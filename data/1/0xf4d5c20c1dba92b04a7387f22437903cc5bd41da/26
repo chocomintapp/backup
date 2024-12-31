@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZGALsho4m7369rqDcVZfSrSmpA9BiqBcuzfUXLCZezVc/nft.png",
+  "tokenId": 26,
+  "description": "She is #pict_chan dressed as a gunslinger. She's a sheriff protecting a western town.",
+  "nftContractAddress": "0xf4d5c20c1dba92b04a7387f22437903cc5bd41da",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#pict_chan_24_gunslinger",
+  "attributes": [
+    {
+      "trait_type": "#pict_chan",
+      "value": "owner"
+    }
+  ]
+}

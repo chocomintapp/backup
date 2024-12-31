@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT7ADycytrfVMLxQcJN8MuVbiwLpRkxFBQbtobFiDA7Pg/nft.jpg",
+  "tokenId": 2,
+  "description": "KIRIE Maps #3 \nMAP - Châtelet \nDD 48.8559,2.3418 \nParis, France \nMap data©︎OpenStreetMap Contributors.",
+  "nftContractAddress": "0x32f44404a03a523b5fc9807ce7d5fab77f0fd428",
+  "animationUrl": "https://ipfs.io/ipfs/QmNjKSE3dmka4uAtNhyrXZyAFn2rHtjKzy5xc3pHhxqo6J/nft.glb",
+  "chainId": "1",
+  "name": "#3 | Châtelet",
+  "attributes": []
+}

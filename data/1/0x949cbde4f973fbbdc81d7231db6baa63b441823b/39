@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZxSmQibEvg77aSot4LRQAVRRHymaHjuQDK6H8xk8jRiX/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "1",
+  "name": "Y-Blank2 #39",
+  "description": "",
+  "attributes": [
+    {
+      "value": "none",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "none",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "none",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "none",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

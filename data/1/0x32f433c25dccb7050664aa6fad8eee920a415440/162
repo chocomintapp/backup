@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeSo5eaGLUPeHh4sXNV2Rr1zJ1UCD8zUeQYCTyiVcSMoM/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmSQCcgCL8BVSfaizFE9ymJnEqRxe82agCwGV5K3CC5yQ2/nft.mp4",
+  "tokenId": 162,
+  "chainId": "1",
+  "name": "THE JEWEL #162",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Hessonite Garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

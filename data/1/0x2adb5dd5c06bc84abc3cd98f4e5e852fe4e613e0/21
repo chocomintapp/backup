@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTErFz4BjZFuTbtvr8C84qy7h5z7SsTMGC2WmAGqjK4Bj/nft.png",
+  "nftContractAddress": "0x2adb5dd5c06bc84abc3cd98f4e5e852fe4e613e0",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "Loon [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nLoon\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR EVO]",
+  "attributes": [
+    {
+      "value": "Princess",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "White",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Black",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Black Tank Top",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "White Bangle",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Dark Stella",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "EVO",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWuM6DiSUftxCdEMViQDp9E4G5rKNHyGJUGknjYdZExNZ/nft.png",
+  "nftContractAddress": "0x1bba5cf9da1c5f778657c86225a88f98f8b47e4c",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "#012 Tim Explorer",
+  "description": "Tim dreams of traveling and exploring the world.",
+  "attributes": [
+    {
+      "value": "Tim",
+      "trait_type": "CHARACTER"
+    },
+    {
+      "value": "Job",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Explorer",
+      "trait_type": "JOB"
+    }
+  ]
+}

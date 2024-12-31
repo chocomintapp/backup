@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaARFz3v4v2dQBshTAwwQWQdcc8sNvFxmJPxmq3FGi4HN/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 69,
+  "chainId": "1",
+  "name": "POPET No.69",
+  "description": "【物語】何のために生まれてきたのか、数字と知識だけでは答えは見つからない。学ぶことはまだまだありそうだ。",
+  "attributes": [
+    {
+      "value": "AI",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "優しい",
+      "trait_type": "origin"
+    },
+    {
+      "value": "ダウンタウン",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQrhbnQdVNLqaBB8WTNYLEFQ3etc5SC3yodtsSRB1W2a7/nft.jpg",
+  "nftContractAddress": "0x815c4f6b8c29f0ed47ea55b61209c3cd7f74d311",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "1",
+  "name": "Austrian Turtle",
+  "description": "The turtle wears the Austrian flag colored turtle shell.",
+  "attributes": []
+}

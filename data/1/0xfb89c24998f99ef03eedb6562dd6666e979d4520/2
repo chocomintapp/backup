@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbRnHLpQX53HoJL1zvePKw3FXxpqmzJDWiJyyKtYuj3hr/nft.PNG",
+  "nftContractAddress": "0xfb89c24998f99ef03eedb6562dd6666e979d4520",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "forest #002",
+  "description": "AI art of Yakushimaoil_painting_of_rain_drops_illustration_green_mossysky_",
+  "attributes": [
+    {
+      "value": "photo",
+      "trait_type": "type"
+    }
+  ],
+  "minted": "✅"
+}

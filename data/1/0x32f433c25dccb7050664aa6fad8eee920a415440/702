@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXDdhoaPtc8xUCfhShiWyxXb79BUd4CVQJjhnhcGZnJ6c/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmfQHVWczcRz5nD4yQ6Dn7ZGjkrAzCwPVEaKn84PhR9cqR/nft.mp4",
+  "tokenId": 702,
+  "chainId": "1",
+  "name": "THE JEWEL #702",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "scapolite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

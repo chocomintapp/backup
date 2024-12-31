@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP2hWAy6B2Nc87ZHeUizxgJ4iz2p1rhfgid5p9i76fLih/nft.png",
+  "tokenId": 3,
+  "description": "#テーマ：はじまり\n\n出発し始めて早々に妄想し始めたアルパカくん。  \nうっとり夢を膨らませて、イメージトレーニング中。  \nどんな旅になるのでしょうか？\n\n#THEME: Beginning\n\nAlpaca Go Go began to have a daydream as soon as he started traveling.  \nHe’s been making his dream bigger with some image training.  \nWhat kind of trip will be waiting for?\n\n---\n\nMain Character: Alpaca Go Go  \nSub Character: Mai Kano  \nCharacter coloring: Aoyoko  \nBackground: YO-CO",
+  "nftContractAddress": "0xe2215863fb63a2d700918b13555f5101f290ad31",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "YAMA Quartet 03",
+  "attributes": [
+    {
+      "trait_type": "Main Character",
+      "value": "Alpaca Go Go"
+    },
+    {
+      "trait_type": "Sub Character",
+      "value": "Mai Kano"
+    },
+    {
+      "trait_type": "Character coloring",
+      "value": "Aoyoko"
+    },
+    {
+      "trait_type": "Background",
+      "value": "YO-CO"
+    }
+  ]
+}

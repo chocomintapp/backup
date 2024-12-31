@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPHnet1HzwLXNCBhnJMjyiiRM3yrRguNLk3AwUTLiYegX/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 208,
+  "chainId": "1",
+  "name": "SAORI",
+  "description": "■サオリ",
+  "attributes": [
+    {
+      "value": "Dot6",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Skyblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-USilver",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Winter",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Piyochi-shock",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

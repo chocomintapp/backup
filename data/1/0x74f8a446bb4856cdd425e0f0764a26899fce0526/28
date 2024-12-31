@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfYi3PJQzcRYiVoVDHxmsDqm5z2TwWCN6kAWr3irkRAvs/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "1",
+  "name": "POCOEMOJI_umai",
+  "description": "Rumaco_Chan Fan Art: Megami #06601",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

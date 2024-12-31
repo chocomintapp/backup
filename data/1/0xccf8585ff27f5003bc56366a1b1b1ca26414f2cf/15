@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmREx7SwgTpcHaVrKqMZUDTzkaMq6avEf8DxgWRLtmtH2B/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "WEAR BEAR #099 \"JANE\" FOODIE&ROBOBEAR ",
+  "description": "WEAR BEAR 第10弾は原点であるFOODIEをオーソドックスにスタイリングしたベア達がなんとお供を連れて登場！\nメカニックガール“JANE”は2トーンカラーのBEAR FOODIEを着用し、BUDDYはなんと自作のロボットベア！色々な形に変形するらしい！\n",
+  "attributes": [
+    {
+      "value": "“PLAY BEAR” 2-TONE Foodie",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Skinny Denim pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "“addios”CAMPUS",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Light Natural",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Jane",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Robobear",
+      "trait_type": "Buddy"
+    },
+    {
+      "value": "Female",
+      "trait_type": "Character"
+    }
+  ],
+  "minted": "✅"
+}

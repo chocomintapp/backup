@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmabUYkzPe6iS8hMD3w5HkFtXJYCxtYJsWBkxnxALML196/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 202,
+  "chainId": "1",
+  "name": "ETNA",
+  "description": "■エトナ",
+  "attributes": [
+    {
+      "value": "Ninja3-Black",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Drool",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllRed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Fenix",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "LeeLee-tenacity",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Hornes-R",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Phoenix",
+      "trait_type": "TYPE"
+    }
+  ]
+}

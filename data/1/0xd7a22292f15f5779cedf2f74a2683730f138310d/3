@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcTZZojyJQ1y19Lwij5utbFvQU8DjNFnYuG4sYmBaNJZw/nft.png",
+  "nftContractAddress": "0xd7a22292f15f5779cedf2f74a2683730f138310d",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "BTK#13",
+  "description": "けんちゃんはスペインにやってきました。いつものようにビールを頼むと、スペインにはワイングラスで飲む上品なビールもあるとか。マタドールの衣装は特に帽子がけんちゃんの頭にジャストフィット。ちなみに、けんちゃんは牛とは闘わず仲良くしたいみたいです。サグラダ・ファミリアの完成も待ち遠しいですね！\n\nKen-chan came to Spain. As usual, he asked for a beer, and was told that Spain has some elegant beers that are served in wine glasses. The matador's costume, especially the hat, fits Ken-chan's head just right. By the way, Ken-chan seems to want to get along with the bulls instead of fighting with them. Can't wait for the Sagrada Familia to be completed!",
+  "attributes": [
+    {
+      "value": "Bitter Orange",
+      "trait_type": "Background"
+    },
+    {
+      "value": "White Ale",
+      "trait_type": "Beer Style"
+    },
+    {
+      "value": "Spain",
+      "trait_type": "Country"
+    },
+    {
+      "value": "Matador",
+      "trait_type": "Decoration"
+    },
+    {
+      "value": "High Spirits",
+      "trait_type": "Eye"
+    },
+    {
+      "value": "Wine",
+      "trait_type": "Glass"
+    },
+    {
+      "value": "More Open",
+      "trait_type": "Tongue"
+    }
+  ]
+}

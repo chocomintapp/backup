@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbPURHMdKCNrfu3DkZndnbPd61GuQXD8tztAkkxr4vuzU/nft.gif",
+  "tokenId": 5,
+  "description": "L's Dark Art Collection # 5\n~ Malicious Magic ~\n\nIt's old magic.\nThe energy of the sinister star also affects those who use its magic.\n\nDark Animation and Sound.\n1080 × 1600　30fps MP4　30sec",
+  "nftContractAddress": "0x6341fa97f77a907eb5c30049a6b9c417ac85bf0d",
+  "animationUrl": "https://ipfs.io/ipfs/QmZtkbruSdzLSUkKgBQJHkHP42kkbXYUb1ABdczZtwgE1J/nft.mp4",
+  "chainId": "1",
+  "name": "Malicious Magic",
+  "attributes": []
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcDHiPAd6jfmZsa7A59AvGJfn8WwxT3WofamuXEXEdZDW/nft.png",
+  "nftContractAddress": "0x05a268c2bbc0112e54c737cc4f9bbf04acb322a5",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "#004_LEICA",
+  "description": "LEICA is a witch girl who loves street culture and music.  \n---Witch Girls Collection",
+  "attributes": [
+    {
+      "value": "Witch Girls Collection",
+      "trait_type": "Collection"
+    },
+    {
+      "value": "Leica",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Background"
+    }
+  ]
+}

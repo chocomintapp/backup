@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY25wjVtGUMvfU73dJPRYJ8WSNsCdMTyQHBaQodeA3Cka/nft.png",
+  "tokenId": 1218,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1218",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Curly Pixie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Red Eyes"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Black Bunny"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Black Cat"
+    }
+  ]
+}

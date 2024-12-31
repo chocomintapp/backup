@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT2deDCpqLsCMDSVXRFfb4KDVNKAq56eJ5uBPZVmsB68j/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmUGEpEKQPknwGcSfzJvve6nffdXbzH3HkyN6zJgEpZ41Y/nft.mp4",
+  "tokenId": 464,
+  "chainId": "1",
+  "name": "THE JEWEL #464",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": " Brown diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

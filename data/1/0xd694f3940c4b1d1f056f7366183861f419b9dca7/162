@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWAAoyzeQ1dHf3mfEcoXyjES7jv4wP34A7v3rW1t53eru/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 162,
+  "chainId": "1",
+  "name": "October 26 ジュニパー",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "月"
+    },
+    {
+      "value": "26",
+      "trait_type": "日"
+    },
+    {
+      "value": "長寿",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ジュニパー",
+      "trait_type": "花"
+    }
+  ]
+}

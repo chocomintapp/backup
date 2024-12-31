@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmeo3BDmD597GwiQqee8ockW8PVkWJLXqgv6Z3moYqQUYU/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "KE #9",
+  "description": "",
+  "attributes": [
+    {
+      "value": "E",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "K",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "E",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "ke",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

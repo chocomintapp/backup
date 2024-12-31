@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeF8ZyLdXEr6ZYuhiBSeEYdAjusiVGjKTjwrUu2ctcm4h/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 228,
+  "chainId": "1",
+  "name": "MEHIEL",
+  "description": "■メヒール",
+  "attributes": [
+    {
+      "value": "Entrance Heavenly",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Burstout-Laughing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Deeppink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-ZombieAllyellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Atype",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "LeeLee-Normal",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

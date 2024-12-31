@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVFVL5fMA3nK3eQoFLZDKznfRnuno7PZwapTjFVt21bGq/nft.jpg",
+  "nftContractAddress": "0xd90c89c93278ee83c825176bea9821420a5327e4",
+  "animationUrl": "https://ipfs.io/ipfs/QmaTMMPEagEfRFVPN44X5sU1mHVMHT3aLXDUBtk4KzL4h7/nft.wav",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "B3B #05",
+  "description": "",
+  "attributes": []
+}

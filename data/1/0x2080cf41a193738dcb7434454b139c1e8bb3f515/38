@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbNwFHTGjLHomrBCaBxNuQemQefVCE7ejxe68NGccRUfE/nft.png",
+  "tokenId": 38,
+  "description": "\"Roper\" = \"Slime\" x \"Mummy\" Niggurath Fukuda\n「ローパー」メイン種族スライム、サブ種族マミー。名前はニグラス福田。\n\nローパーは、触手を持つスライム種族。目が退化しているが、触手の先端は非常に敏感で、わずかな空気の動きも捉えることができる。暗くてじめじめしたところが大好き。\n\n\"Roper\" is a \"Slime\" species with tentacles. Although their eyes have degenerated, the tips of their tentacles are extremely sensitive and can catch even the slightest movement of air. They love dark and damp places.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#062 \"Roper\" Niggurath Fukuda",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Mummy"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

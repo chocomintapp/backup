@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXpuLVyBXe4nt2TztDvo7D5iZWR71Xt2b6J87wbN2UYtt/nft.png",
+  "nftContractAddress": "0x95bcb980329e9267e9b3554494aaea55c79e9f31",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "#007F~ZQN-chan is a viola fan~",
+  "description": "This work is a fan art of the Mafia Animals.",
+  "attributes": [
+    {
+      "value": "ZQN",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "030",
+      "trait_type": "No."
+    },
+    {
+      "value": "cat",
+      "trait_type": "animal"
+    },
+    {
+      "value": "Chatting",
+      "trait_type": "Skill"
+    }
+  ]
+}

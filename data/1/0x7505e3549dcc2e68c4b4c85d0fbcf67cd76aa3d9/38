@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUJrwpKNZo5D1xpnS3sfATCDK4vk693htf7zKuyMUEkES/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "1",
+  "name": "へんしんしたモンモンくん #モンふれFA Transformed Monmon-kun #219",
+  "description": "ちえもふさんのコレクション\n「[モンモンふれんず](https://opensea.io/collection/monmonfriends)」のファンアートです♪\n\nモンモンちゃんを擬人化しました♡\n\nどうやって変身したかというと\nちえもふさんに\n１日人間に変身できるくすりをもらって飲んでみたからです。\n\nモンモンくんはワクワクしています♪\n\n☆小学2年生19番目の作品なので219のナンバーをふりました♪\n\nFan art of Chiemofu's collection \"[monmon's friends](https://opensea.io/collection/monmonfriends)\" ♪\n\nI personified Monmon-chan, a handsome boy.\n\nHow did I transform myself?\nChiemofu gave me a medicine that can transform me into a human for a day and I took it.\n\nMonmon-kun is very excited♪",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Boy",
+      "trait_type": "Type"
+    },
+    {
+      "value": "FanArt",
+      "trait_type": "Category"
+    },
+    {
+      "value": "kawaii",
+      "trait_type": "Category"
+    },
+    {
+      "value": "BlueGreen",
+      "trait_type": "Color"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPDhiEHiruXv19uNC167P6jNpLZMxTZkzr3YXSiYEreZ3/nft.gif",
+  "nftContractAddress": "0xe6390aee441d6893d15554cd63d60ca7d29f3205",
+  "animationUrl": "",
+  "tokenId": 57,
+  "chainId": "1",
+  "name": "Bunny face #057",
+  "description": "picture of Bunny Thompson.",
+  "attributes": [
+    {
+      "value": "`)†\\´",
+      "trait_type": "eye"
+    },
+    {
+      "value": "null",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "dadc66",
+      "trait_type": "color"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZwFRPdXyTyiZbLTQhnMeYbAzMntr9PYsBU4iGa61QeJo/nft.png",
+  "tokenId": 1712,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1712",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Side Tail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rock Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Knit Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold 3 Hoop"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Taupe Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Pacifier"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Heart"
+    }
+  ]
+}

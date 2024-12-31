@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWfqGGeZK1RxH7zUZGVmZo3na4cre28HCd98pyjbFE18X/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 106,
+  "chainId": "1",
+  "name": "PRECIOUS",
+  "description": "■プレシャス",
+  "attributes": [
+    {
+      "value": "Middle of the heavens",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Deepgreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-USkyblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees-Red",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Archangel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Angel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Angel Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

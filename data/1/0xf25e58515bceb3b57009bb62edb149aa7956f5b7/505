@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZafEN3aKJgEik4VEckQLaxrCPX6sWQ41K5BmsDn2N7gA/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 505,
+  "chainId": "1",
+  "name": "GABRIELLA",
+  "description": "■ガブリエラ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Lightpink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye5",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Red-SSP",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Black-Sickle",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Ribon-RedDR",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf2Wf5Z817VyuPhwgeMVqcYUW92eaYJzH7mZrVuva6LLu/nft.png",
+  "tokenId": 1005,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1005",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovey Dovey"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Faint Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cutout Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Wood Beads"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Letter"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square Shades"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Red Ribbon"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma1CCECRtxZprooNhyuY3ct2wYANVwbLfmpydyg42ehPk/nft.PNG",
+  "nftContractAddress": "0xfb89c24998f99ef03eedb6562dd6666e979d4520",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Oil painting #001",
+  "description": "AI art of Yakushima\noil_painting_of_rain_drops_illustration_green_mossysky_",
+  "attributes": [
+    {
+      "value": "blue",
+      "trait_type": "color"
+    },
+    {
+      "value": "oil",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

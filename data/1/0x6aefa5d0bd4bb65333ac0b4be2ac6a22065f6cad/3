@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWixhKRFu7USHQakL317TqaCrZ5DTcB6wmkCLPWJVW2NT/nft.png",
+  "nftContractAddress": "0x6aefa5d0bd4bb65333ac0b4be2ac6a22065f6cad",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Rabait girl #23 『Mallow blue』PFP",
+  "description": "Rabait girl #23 『Mallow blue』\n\nlemon from now on.🍋✨",
+  "attributes": [
+    {
+      "value": "Mallow blue",
+      "trait_type": "Character"
+    },
+    {
+      "value": "PFP",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

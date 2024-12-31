@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVhbTXHXxShNGW5Znc3o5kJEh9e7WSZrJPFFEiV9U1fMV/nft.jpg",
+  "nftContractAddress": "0xec4664f75d7027a08e6af3ea90f7baf3fbf6931e",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "LAYLA Vol.1 #006",
+  "description": "Neo Cyber Girls Collection",
+  "attributes": [
+    {
+      "value": "Plain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GreenPink",
+      "trait_type": "ThemeColor"
+    },
+    {
+      "value": "ShortBob",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "TwinFilter01",
+      "trait_type": "Mask"
+    },
+    {
+      "value": "Corset01 ShoulderCover01",
+      "trait_type": "Ware"
+    },
+    {
+      "value": "StunBaton01",
+      "trait_type": "Pose"
+    }
+  ]
+}

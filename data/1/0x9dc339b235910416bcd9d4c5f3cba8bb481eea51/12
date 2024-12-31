@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUZGpN6EejkuvcwLXzk1kEXusivMFjFjZjeNVPYiE1wrs/nft.gif",
+  "nftContractAddress": "0x9dc339b235910416bcd9d4c5f3cba8bb481eea51",
+  "animationUrl": "https://ipfs.io/ipfs/QmUZGpN6EejkuvcwLXzk1kEXusivMFjFjZjeNVPYiE1wrs/nft.gif",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "#012 Class2-A Kanae Yoshinaga",
+  "description": "She is shy and always watches everyone from the corner of the classroom.  \n------------------    \n彼女は内気で、いつも教室の隅で皆を眺めています。",
+  "attributes": [
+    {
+      "value": "Izumo High School",
+      "trait_type": "School"
+    },
+    {
+      "value": "Class 2-A",
+      "trait_type": "Grade"
+    },
+    {
+      "value": "computer club",
+      "trait_type": "Role"
+    }
+  ]
+}

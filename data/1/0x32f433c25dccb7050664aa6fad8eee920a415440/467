@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeciJp1HH4sPC45VLgo2GXyv1yLU9vWPhvqaSSgBJsSjH/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmbpastRDMkMgp83KTbQ3zEz8Gqi8d1dctabr3XB69uXyS/nft.mp4",
+  "tokenId": 467,
+  "chainId": "1",
+  "name": "THE JEWEL #467",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Grape garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

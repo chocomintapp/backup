@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXamA8dyCkJPPVHxU55mZdXkNaMSmQhoJD7L4fARwqev3/nft.png",
+  "nftContractAddress": "0x25147e135da46f0fb62850c24137b68d7ffc7d07",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "BE KOBE NFT CREATIVE AWARD #3",
+  "description": "第1回 BE KOBE NFT CREATIVE AWARD 『王子公園ハイム』マクアート部門 応募作品\n\n【タイトル】\nFuturistic gathering place.\n\n【制作者】\n🌈Rin 様\n\n【コンセプト】\n公園の中にある未来型集合休憩所をイメージしました\n\n公園ということなので、シャボン玉と子供たちの夢見る未来をイメージしています。",
+  "attributes": [
+    {
+      "value": "『王子公園ハイム』マクアート",
+      "trait_type": "部門"
+    }
+  ],
+  "minted": "✅"
+}

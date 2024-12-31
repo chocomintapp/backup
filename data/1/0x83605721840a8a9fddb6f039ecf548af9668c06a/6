@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQt4rANWAw9zVbAPcrLFUQ8SDziAUr3RztokosY2WitiM/nft.png",
+  "nftContractAddress": "0x83605721840a8a9fddb6f039ecf548af9668c06a",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "CryptoNinja #032",
+  "description": "#032",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Saika - 雑賀",
+      "trait_type": "Clan"
+    },
+    {
+      "value": "Wooden Mallet - 木槌",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "Hours of the Ox - 丑の刻参り",
+      "trait_type": "Ninjutsu"
+    }
+  ]
+}

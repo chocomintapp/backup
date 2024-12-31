@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmagTrz1MFoxxDvqcPStW5zs3XLu8oB5C5hSD8Gftzxv9a/nft.jpg",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "Jonah",
+  "description": "New life born the coexistence with human and data. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.\n[Ghost]DNA\n???",
+  "attributes": [
+    {
+      "value": "Ghost",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Twinkle",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Bright White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Apple Sweat",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Cosmos",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "6LOM",
+      "trait_type": "PROTO VALUE"
+    }
+  ]
+}

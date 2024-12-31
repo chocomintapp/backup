@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbyAGYbeyymaZ8WqoEZuwH5CDyGjfvpaWSaekdc2AEqk7/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 221,
+  "chainId": "1",
+  "name": "CHARLOTTE",
+  "description": "■シャルロット",
+  "attributes": [
+    {
+      "value": "Middle of the heavens",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-ZYellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie4",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "BlueLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Orange",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

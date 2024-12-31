@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbhJd3ezPL6ekBeCJaoDLeQhsiA4rx3ozdYpk17Bi2m3A/nft.png",
+  "nftContractAddress": "0xf56c7a6fc8f9d74386dea91b5341645fde45d823",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "CoolGirl Weapons #014",
+  "description": "CoolGirlNFT×武器のファンアート作品",
+  "attributes": [
+    {
+      "value": "Voice",
+      "trait_type": "Weapons"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUq7BXCG5sgPZJJ1jxvLKeSnkG2c3VKMM99p4iZvvjiAS/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 280,
+  "chainId": "1",
+  "name": "February 21 ミスミソウ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "月"
+    },
+    {
+      "value": "21",
+      "trait_type": "日"
+    },
+    {
+      "value": "信頼",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ミスミソウ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXEan25UtdT8gwBwu4KoLUXXzste9ws23o8M6UZjvPBme/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "POPET No.13",
+  "description": "【物語】\n\nあの星を見ると思い出す。友人達もこの星を見ているだろうか。",
+  "attributes": [
+    {
+      "value": "宇宙飛行士",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "宇宙研究所",
+      "trait_type": "origin"
+    },
+    {
+      "value": "勇敢",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

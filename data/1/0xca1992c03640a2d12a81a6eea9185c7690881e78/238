@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcWbMUchVgg2MxWNFDroiUQLF6wTZxZrru5e3dK7Aq1Fq/nft.png",
+  "tokenId": 238,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #238",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Curly Pixie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cutout Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Circle"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Smartphone"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Siamese Cat"
+    }
+  ]
+}

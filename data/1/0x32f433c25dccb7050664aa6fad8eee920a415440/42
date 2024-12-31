@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSLzezvMsng5hcdoNFEvi6QWysN8aobXiVE1tVQwzJjRM/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmQEvsUAwrXSpUVExacAcmYY5NA5f7E3upxA6D3sCGWrpw/nft.mp4",
+  "tokenId": 42,
+  "chainId": "1",
+  "name": "THE JEWEL #042",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "bicolor sapphire",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Pink　Gold",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

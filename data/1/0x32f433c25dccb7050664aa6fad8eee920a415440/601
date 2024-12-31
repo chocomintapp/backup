@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRuWTrmiJ8y7YamRjiFNn6mrr9wmkhuNdh9wqmv12ydNM/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmXWnWRBn9pXPbJwnis4fLejAzfKVzUvhkDz95QiGGVsfi/nft.mp4",
+  "tokenId": 601,
+  "chainId": "1",
+  "name": "THE JEWEL #601",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Kunzite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Iridium",
+      "trait_type": "Control device"
+    }
+  ]
+}

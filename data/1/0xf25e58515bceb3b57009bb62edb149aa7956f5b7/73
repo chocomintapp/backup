@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXnghp7SmpKebeh9yqybDfczXWcdY12StshbFRKHW49Jw/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 73,
+  "chainId": "1",
+  "name": "ZIN",
+  "description": "Her hobby is to monitor the station platforms to prevent drunks from falling onto the tracks.\n\nShe has prevented many drunks from falling onto the tracks and has received awards four times.\n■ジン\n彼女の趣味は駅のホームで酔っ払いが線路に落ちてしまわないように監視すること。\n\n彼女これまでに数々の酔っ払いを事故から未然に防ぎ、4度も表彰を受けている。",
+  "attributes": [
+    {
+      "value": "Bright-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Madness",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-BBlack",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-GB(G)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Businessperson",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "MIRAKO-AntennaRight-A",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "The Greens",
+      "trait_type": "TYPE"
+    }
+  ]
+}

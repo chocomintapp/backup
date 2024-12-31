@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcGj4nMiBUw4n38dLpui92K6TjyX7A9NyAatkSCwcjyRC/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Doge Heritage Daylight",
+  "description": "PNG 1024x1024  \nTotal supply 1/1  \nDoge attracts even ones from outside Earth.",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "w/ Body",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "UFO(s)",
+      "trait_type": "object(s)"
+    },
+    {
+      "value": "Mother",
+      "trait_type": "generation"
+    }
+  ]
+}

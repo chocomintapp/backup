@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTGUsQHdiGZN4DExk32Vs5iLRwjrnkT6Kzt1ZMykxhpwf/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "WEAR BEAR #094 “BLUES” FOODIE&RABBIT",
+  "description": "WEAR BEAR 第10弾は原点であるFOODIEをオーソドックスにスタイリングしたベア達がなんとお供を連れて登場！\n“BLUES”はオレンジのBEAR FOODIEを着用し、BUDDYのラビットくんと登場\n",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "“PLAY BEAR” Foodie",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Fade Denim pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "“addios”SUPERSTAR",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Light Green",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blues",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Rabbit",
+      "trait_type": "Buddy"
+    }
+  ],
+  "minted": "✅"
+}

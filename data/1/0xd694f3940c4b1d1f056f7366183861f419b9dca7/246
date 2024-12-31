@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdyxHS9687GRST2MexmDhCfKsy3Na9ksbg4xTJXPoYp7T/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 246,
+  "chainId": "1",
+  "name": "January 18 シロツバキ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "月"
+    },
+    {
+      "value": "18",
+      "trait_type": "日"
+    },
+    {
+      "value": "愛らしさ",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ツバキ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

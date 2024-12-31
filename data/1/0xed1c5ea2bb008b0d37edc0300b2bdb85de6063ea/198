@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZKhWgV3FgzRhybUPwCXU3tyvisrKCsWP6H3M7CyywfTf/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 198,
+  "chainId": "1",
+  "name": "Ilirian",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "Pisces",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

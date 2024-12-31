@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaHV7foFLcRUrpzUD32wR4qDk7uJt5Nu4ht7RwddcDaBZ/nft.gif",
+  "tokenId": 9,
+  "description": "O-S-T-M  \nMIMIMATES collection に擬態している  \nMimicking the MIMIMATES collection",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmXzFszSjakFu1eyTAv19rWDs2w9NLYb886DoJeut6nFxM/nft.mp4",
+  "chainId": "1",
+  "name": "O-S-T-M #009",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Hide"
+    },
+    {
+      "trait_type": "MIMIC",
+      "value": "Hide"
+    }
+  ]
+}

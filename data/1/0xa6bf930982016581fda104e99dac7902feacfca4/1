@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUUEriRCzwxkgUfJG581PQTVo5oJTPitYyQGnZUpBySVf/nft.png",
+  "tokenId": 1,
+  "description": "This is a test NFT from HARTi.",
+  "nftContractAddress": "0xa6bf930982016581fda104e99dac7902feacfca4",
+  "animationUrl": "https://ipfs.io/ipfs/QmTxDeG3W9PbD3dBpVHfiG3cNpoXQ7gkAcJgQpynvbTeXZ/nft.png",
+  "chainId": "1",
+  "name": "Test HARTi NFT",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

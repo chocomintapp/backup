@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPVWm27DUGKnZcbngPd3dnN2N6h7YaSZSfYk79LqcG4Ke/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "1",
+  "name": "Beach Borne Bae #67",
+  "description": "Beach Borne Bae #67\nInspired by Short necked clam / アサリ",
+  "attributes": [
+    {
+      "value": "Medium Bob",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Sweater",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Salmon",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Shellfish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

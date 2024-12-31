@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU9XV7ufmc5T7vstmXctfPSAAfDmn2AVCdMdR4U8TgoGQ/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 65,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "バネ指",
+  "attributes": [
+    {
+      "value": "ジュウゾウ",
+      "trait_type": "人物"
+    },
+    {
+      "value": "ワイシャツ",
+      "trait_type": "服装"
+    },
+    {
+      "value": "ネクタイ",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "ビール",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

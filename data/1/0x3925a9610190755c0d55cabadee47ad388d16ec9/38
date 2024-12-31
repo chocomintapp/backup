@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYqLWFWDZcExFpP7wujGy8otyWd6k6fmJq9oz7oHJ9jKu/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "1",
+  "name": "Tou",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "KIMONO",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Penko Popomura",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "SMILE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "VOICE RECORDER",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    }
+  ]
+}

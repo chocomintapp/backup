@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQQzNwRuDwquQAfzo11FCcYtFm9f7gx5aZNv2mqqoT8yz/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 319,
+  "chainId": "1",
+  "name": "March 31 コデマリ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "月"
+    },
+    {
+      "value": "31",
+      "trait_type": "日"
+    },
+    {
+      "value": "品格",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "コデマリ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

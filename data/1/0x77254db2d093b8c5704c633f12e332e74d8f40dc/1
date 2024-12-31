@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPE5Aw2PHTWcRrJVBSCf4qoAyfmrfEvvwF82u2mfinTqo/nft.png",
+  "nftContractAddress": "0x77254db2d093b8c5704c633f12e332e74d8f40dc",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Matsuyuki Rumino #001",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Idol",
+      "trait_type": "Activity"
+    }
+  ],
+  "minted": "✅"
+}

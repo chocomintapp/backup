@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbjAjXRGVusxVUWwJ9USpzGMnr2hfsdm5mggB6roT5jJn/nft.png",
+  "nftContractAddress": "0xbb420f7fda69cb66ecfbd87f9a4e46f5c7cdbfed",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "【No,2_Silver】VeryLongAnimalBabies",
+  "description": "Thanks for collecting 50 of the VeryLongAnimalBabies 2nd!",
+  "attributes": [
+    {
+      "value": "Silver",
+      "trait_type": "Color"
+    },
+    {
+      "value": "No,2",
+      "trait_type": "Serial number"
+    }
+  ]
+}

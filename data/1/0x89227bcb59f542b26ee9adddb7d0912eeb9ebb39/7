@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP4mG6CPpFpyj3sqVC5KbRQJ3HKiwNso9ws5SCFSQcmNW/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "#007-Fukushima-",
+  "description": "#007-Fukushima-",
+  "attributes": [
+    {
+      "value": "Flare",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Tohoku",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Fukushima",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbY7n3inkbazs8i22mxFnVHuzcUo8cSNzAVuTyJKhTxHo/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 410,
+  "chainId": "1",
+  "name": "ALIANA",
+  "description": "■アリアナ",
+  "attributes": [
+    {
+      "value": "bubble4",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Anisu-HostessMix",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye5",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WB(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Toypoodle2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY73vGzesSFF9MNxdtWNwLfpFKDSmJrSvjFoDZL1gM4aH/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 363,
+  "chainId": "1",
+  "name": "May 14 チューリップ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "14",
+      "trait_type": "日"
+    },
+    {
+      "value": "美しい瞳",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "チューリップ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

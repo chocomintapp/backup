@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXyi85wwHdGF3it268Gw5cyxLyJ7w7Zv8jTUmGoGa3gJy/nft.jpg",
+  "tokenId": 24,
+  "description": "It's a gun and it goes pop pop pop\nKrs 2009",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmXyi85wwHdGF3it268Gw5cyxLyJ7w7Zv8jTUmGoGa3gJy/nft.jpg",
+  "chainId": "1",
+  "name": "Popper"
+}

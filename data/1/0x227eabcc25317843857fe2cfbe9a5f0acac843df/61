@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSrJKfyQAiJjNxJsjdjR46EvUGcFdXfJ6C35KfZCyX6Ja/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 61,
+  "chainId": "1",
+  "name": "Beach Borne Bae #89",
+  "description": "Beach Borne Bae #89\nInspired by Giant oceanic manta ray / オニイトマキエイ",
+  "attributes": [
+    {
+      "value": "Ponytail",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Dress",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Ray",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPNBggG2ZJUMafXVPXtVhGfD6XTxvrZJUadqsdJEDQ9wU/nft.png",
+  "nftContractAddress": "0x6a0afe3a9f98d64d3127a024c266fedabcad5f4f",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Hafumi’s FA #1 GODEBA-chan",
+  "description": "「本命だよ？」\n\n”It's my true love, okay?”\n\nHer name is GODEBA-chan.\nSpecial thanks to ＠onabe_nft for creating a lovely girl.",
+  "attributes": [
+    {
+      "value": "Hafumi",
+      "trait_type": "creator"
+    }
+  ]
+}

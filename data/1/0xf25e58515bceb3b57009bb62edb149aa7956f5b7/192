@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdtTVfcKQxNFfCfF79eca2JDz6CtfEV6hx7CwZWnYhQan/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 192,
+  "chainId": "1",
+  "name": "VEHUIAH",
+  "description": "■ヴェフヤー",
+  "attributes": [
+    {
+      "value": "Light-Purple",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cry-Yellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Angel",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "AoOni",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Angel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Heavenly Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

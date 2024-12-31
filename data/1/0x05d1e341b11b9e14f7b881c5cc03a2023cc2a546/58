@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQrdv7XaCT4kuZP6nZPB1oigSZVpnP2sg9zqfeTVhCLoZ/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmQxcD1rT6hkZGyhU5hKgNHt8SJ49Cp8sDTH8FfCG9Vnci/nft.mp4",
+  "tokenId": 58,
+  "chainId": "1",
+  "name": "O-G-N-T #058",
+  "description": "O-G-N-T  \n024とオリジナルアートを揃える事で産まれた新しいMIMI  \nNew MIMI spawned by collecting 024 and original art",
+  "attributes": [
+    {
+      "value": "Hidden",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPKEUrStizpqPTfavwxjQG4eba7RdX5BMErCUdoPtefhF/nft.gif",
+  "nftContractAddress": "0x9dc339b235910416bcd9d4c5f3cba8bb481eea51",
+  "animationUrl": "https://ipfs.io/ipfs/QmPKEUrStizpqPTfavwxjQG4eba7RdX5BMErCUdoPtefhF/nft.gif",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "#013 Class2-A Asahi Asakura",
+  "description": "She is a naughty girl and likes to tease the people she likes. \n------------------    \n彼女は悪戯っ子で、好きな相手をからかいたくなる性格です。",
+  "attributes": [
+    {
+      "value": "Izumo High School",
+      "trait_type": "School"
+    },
+    {
+      "value": "Class 2-A",
+      "trait_type": "Grade"
+    },
+    {
+      "value": "flower arrangement club",
+      "trait_type": "Role"
+    }
+  ]
+}

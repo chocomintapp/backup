@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeTQ7q1ZG8y1pgiwBUimrQ46YE7eF27FEs9cUPdAA27dV/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmePToz2TqZAsWbcLSVyiGi8tKkrf6xdVEM93phLJ9BwEN/nft.mp4",
+  "tokenId": 72,
+  "chainId": "1",
+  "name": "Nazy #072",
+  "description": "Nazy  \n視覚遊びの達人  \nMaster of visual play",
+  "attributes": [
+    {
+      "value": "Haus",
+      "trait_type": "TYPE"
+    }
+  ]
+}

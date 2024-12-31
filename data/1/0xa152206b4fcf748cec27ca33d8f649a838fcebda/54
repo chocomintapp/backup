@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma8BM6vm546dRoMHuPSyYA3DmHeAFSnuBHaoZnifcvRBb/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 54,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "宇宙へ行く",
+  "attributes": [
+    {
+      "value": "エーロン",
+      "trait_type": "人物"
+    },
+    {
+      "value": "ワイシャツ",
+      "trait_type": "服装"
+    },
+    {
+      "value": "日本酒",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "ネクタイ",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

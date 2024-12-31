@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbjsCeM32bNLwpKsg8LUF8DV1PQxFshGsnvPB7F4DM6Ne/nft.png",
+  "nftContractAddress": "0xe35fd54026e062e6a468b3e24a326d199324e501",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "1",
+  "name": "Dakko season1 #037",
+  "description": "Dakko - Hug Girl Collection -\n\nシーズン1『ねまき× 抱き枕』\n\n髪色が日本の伝統色になっています\n\n色名：白橡 しろつるばみ\n\nSeason 1『SleepWear & HugPillow』\n\nTraditional Japanese colors are used for hair color\n\nColor Name:shiroturubami",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "season1 vol.1",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "SleepWear & HugPillow",
+      "trait_type": "THEME"
+    },
+    {
+      "value": "Hun",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Loungewear",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Hug Pillow",
+      "trait_type": "HUG"
+    }
+  ]
+}

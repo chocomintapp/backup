@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWrBfMFmDG3eSgSC6Con2CrJM7qJ7oNbyCS6R1yrhW2FM/nft.mp4",
+  "nftContractAddress": "0xccf9d10e7316b4494296c7955fdba089440a9f54",
+  "animationUrl": "https://ipfs.io/ipfs/QmWrBfMFmDG3eSgSC6Con2CrJM7qJ7oNbyCS6R1yrhW2FM/nft.mp4",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Ryokan KOHRO Platinum member card",
+  "description": "このNFTの所有者は旅館こうろの公式ホームページに記載の料金から20%割り引いた宿泊料金で利用できます。ただし、所有者本人を含む宿泊に限り、貸与は出来ません。\n\nThe owner of this NFT is entitled to a 20% discount on the room rate at Ryokan Kohro(https://www.kohro.com/).\nOther special services may be available to owners.",
+  "attributes": []
+}

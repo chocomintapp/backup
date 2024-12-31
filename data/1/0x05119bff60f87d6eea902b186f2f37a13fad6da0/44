@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdW9terjSb64KbgJAZ8xvz1BWiEbrCTZvWX7jTuBTyTv2/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 44,
+  "chainId": "1",
+  "name": "POPET No.44",
+  "description": "【物語】\n\n心をすまして己と向き合い、\n技を磨いて\n身体をきたえる。\n武とは永遠の己への探求。",
+  "attributes": [
+    {
+      "value": "武闘家",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "道場",
+      "trait_type": "origin"
+    },
+    {
+      "value": "クール",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

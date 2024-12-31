@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNXtdnJuqDhaz52916dgqYMwSCWoQCoPyMnmPefwfByiV/nft.mp4",
+  "nftContractAddress": "0xafefc2be1a03475da20a2ea00566411b85bfc390",
+  "animationUrl": "https://ipfs.io/ipfs/QmNXtdnJuqDhaz52916dgqYMwSCWoQCoPyMnmPefwfByiV/nft.mp4",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "0821",
+  "description": "TEST",
+  "attributes": [],
+  "minted": ""
+}

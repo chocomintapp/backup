@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVs8NRQFbWfAb9HDqikfLEJkBJnsJ7h2NJ6SyXjCDeccb/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "POCO_Yaco",
+  "description": "Yaco \"POCO_#04\" Remake",
+  "attributes": [
+    {
+      "value": "POCO Remake",
+      "trait_type": "SERIES"
+    },
+    {
+      "value": "Black",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Silent",
+      "trait_type": "PERSONALITY"
+    }
+  ],
+  "minted": "✅"
+}

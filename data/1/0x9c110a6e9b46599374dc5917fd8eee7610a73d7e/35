@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXtR5ufcnsdE4YsvZXso6T9q9yW4s7xi2LMJF5i5db21k/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "1",
+  "name": "Confectionery delicacies",
+  "description": "Can I eat it? Then feel free.",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Overburdened",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Halloween",
+      "trait_type": "EVENT"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

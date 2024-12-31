@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPAHSVRoDhUGf1M4Vc4SghQjse1ihnVYgQmyBv48t47WG/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 83,
+  "chainId": "1",
+  "name": "POCO_Pastora",
+  "description": "Pastora-Chan",
+  "attributes": [
+    {
+      "value": "Amber",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Bright",
+      "trait_type": "PERSONALITY"
+    }
+  ],
+  "minted": "✅"
+}

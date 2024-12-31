@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTy3w7hSoBNua5urD2DkRYaswN9mNRN4pwMJ1AhCrhJWL/nft.jpg",
+  "tokenId": 4,
+  "description": "KIRIE Maps #2 MAP - Toulouse DD 43.6023, 1.4353 Toulouse, France Map data©︎OpenStreetMap Contributors. aikautau",
+  "nftContractAddress": "0x0349bdef7d2fb094dd29731d7a0a946061d52e61",
+  "animationUrl": "https://ipfs.io/ipfs/QmVXWuHbHcBZs8ZP18xXt7cWZ9oa7ZJ5jU112g8DPPqyfP/nft.glb",
+  "chainId": "1",
+  "name": "#2 | Toulouse",
+  "attributes": []
+}

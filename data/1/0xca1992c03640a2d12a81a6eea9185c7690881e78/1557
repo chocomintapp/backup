@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ335gkDgTiLiWLWMkSg8ZQD8u4UkmyaMhSiBDQS1V9HU/nft.png",
+  "tokenId": 1557,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1557",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Frilly Apron"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Tassel"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Black Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Drink Cup"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Black Cat Ears"
+    }
+  ]
+}

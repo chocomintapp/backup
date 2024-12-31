@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZsQaN4WQXGhcfVJPGpYq4Ck7edmu2W1PL7zTDDVVQUgD/nft.png",
+  "tokenId": 4,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #4",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream Polka dots"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Mouse"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_1"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cardboard Box"
+    }
+  ],
+  "minted": "✅"
+}

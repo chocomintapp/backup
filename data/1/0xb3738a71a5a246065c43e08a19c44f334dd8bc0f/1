@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQVuyS5KqiqU4fWfoHgKAJtUAFjRdX6j6ziiJMTNB48WH/nft.jpg",
+  "nftContractAddress": "0xb3738a71a5a246065c43e08a19c44f334dd8bc0f",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "bls",
+  "description": "blsss",
+  "attributes": [],
+  "minted": ""
+}

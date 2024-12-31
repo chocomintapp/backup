@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaX9bzrVTeZLTaFn4vS4Jy5Lb2f2k2Xpm7gJAQxEUVmCp/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 103,
+  "chainId": "1",
+  "name": "JENNA",
+  "description": "■ジェンナ",
+  "attributes": [
+    {
+      "value": "Deep-Blue（made by AKO）",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.4",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "RobotEye5",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Ctype",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Arkdemon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

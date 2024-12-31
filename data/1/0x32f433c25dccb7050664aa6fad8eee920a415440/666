@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcbtPN6NZHTMxMm41KiMU4sXKEEvCa4Kzwvu5SLRFyRWu/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmRzhQewpZyQVeWaSiPsRy7UJowscR26Jm6bvEfS9zrkPF/nft.mp4",
+  "tokenId": 666,
+  "chainId": "1",
+  "name": "THE JEWEL #666",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Tears of Goddess",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Heavenly Silver",
+      "trait_type": "Control device"
+    }
+  ]
+}

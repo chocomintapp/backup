@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNT55Gd4Bq4ubZTo2EbosJpPcjQdmSjZKace76GkjNEGX/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmXLWkcDsnDdG2TioqMa1rkB1jofhaY8nxdkp4ARyTNbMe/nft.mp4",
+  "tokenId": 28,
+  "chainId": "1",
+  "name": "#054 PopsicleWhiteChocoMan",
+  "description": "PopsicleWhiteChocoMan\n\n- Food Series\n- 3DCG Turntable\n- 1920 x 1920px",
+  "attributes": [
+    {
+      "value": "Food",
+      "trait_type": "Type"
+    }
+  ]
+}

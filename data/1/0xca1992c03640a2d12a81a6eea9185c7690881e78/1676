@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdUnrgeApgSny9uCrNgaWtznJwFcz8Gb7taUnTcoXFt5y/nft.png",
+  "tokenId": 1676,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1676",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Pink Pearls"
+    },
+    {
+      "trait_type": "Item",
+      "value": "French Fries"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Plumeria Rubra"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Bengal Cat"
+    }
+  ]
+}

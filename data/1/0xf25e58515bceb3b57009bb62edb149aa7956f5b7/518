@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNce2d9AbGb4V8ACUeECS8SMAoVFcriLKfdos2TViznym/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 518,
+  "chainId": "1",
+  "name": "RIN",
+  "description": "■リン",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0004Miracle",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees-camouflage(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-happy",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

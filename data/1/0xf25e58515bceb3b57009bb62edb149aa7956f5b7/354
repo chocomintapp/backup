@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYjRCkud9T9tM165ctzhmYRmh1148qei5qmxSudSjh1rU/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 354,
+  "chainId": "1",
+  "name": "SALXA",
+  "description": "■サルシャ",
+  "attributes": [
+    {
+      "value": "Beauty and Beauty",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Edo-wigRed",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "SuperSurprised-R",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "JK2(BLU)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Raaamen",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Arkdemon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Hornes-N",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Blue Family",
+      "trait_type": "TYPE"
+    }
+  ]
+}

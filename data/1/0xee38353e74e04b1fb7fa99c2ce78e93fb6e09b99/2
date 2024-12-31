@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPYegdkkfudLCbntWnKse6NjbNkH96SveXz8rMCN8NKua/nft.png",
+  "nftContractAddress": "0xee38353e74e04b1fb7fa99c2ce78e93fb6e09b99",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "#0002 Series000 No.002 \"Chirol\"",
+  "description": "未来の自律型電脳ゲーミングPC『Chirobo.』\n   \nPortable Network Graphics       \n2048×2048px",
+  "attributes": [
+    {
+      "value": "Series 000",
+      "trait_type": "Series"
+    },
+    {
+      "value": "Chirol",
+      "trait_type": "Category"
+    },
+    {
+      "value": "CircleIndustry type A",
+      "trait_type": "CPU"
+    },
+    {
+      "value": "Xenotics type A",
+      "trait_type": "GPU"
+    },
+    {
+      "value": "Xenotics type A",
+      "trait_type": "RAM"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Yellow×Purple",
+      "trait_type": "LED"
+    },
+    {
+      "value": "Chirol",
+      "trait_type": "Sticker"
+    }
+  ],
+  "minted": "✅"
+}

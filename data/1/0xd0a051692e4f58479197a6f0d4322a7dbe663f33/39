@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYT5eFewogaDvhne1NNqoBcdkPfMdEJBSoN48G8LtJSM6/nft.png",
+  "nftContractAddress": "0xd0a051692e4f58479197a6f0d4322a7dbe663f33",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "1",
+  "name": "Cool×Amamin#06",
+  "description": "The concept of this collection is Cool and Bato.  \nBato is the inside out of love.  \n  \nThis work is a fan art of Cool Girl NFT and Bato NFT.  ",
+  "attributes": [
+    {
+      "value": "Amamin",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "Gen1",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": ""
+}

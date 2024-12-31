@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPe6TzkKjHkFvbdcciSMw4axRarESYQ9CJMEDQ9u8YQu1/nft.jpeg",
+  "nftContractAddress": "0xcba325f45044157b915054507caaea7b1fcc8fe2",
+  "animationUrl": "https://ipfs.io/ipfs/QmZ1fRNcTArvY9vnMD3BUWoRhJ5AFto7EBtUcDn5MMK211/nft.mp4",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "『 Blue Sherbet 』",
+  "description": "Everlasting summer sherbet girl who enjoys midsummer.",
+  "attributes": [],
+  "minted": "✅"
+}

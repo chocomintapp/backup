@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYTpA2gS4DrsxDJhh4JpYiBS7xKESeSZJfcHv8aWp5tJF/nft.png",
+  "nftContractAddress": "0xe97d4fa9468b99ba88b0c4a11cb7e24b4582e615",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "#002_Tsubame",
+  "description": "キャビンアテンダントと燕尾服のデザインを合わせたような衣装を着たお姉さん。 温かい季節を迎える国へと各国を飛び回っている。",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "Town",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "Seaside",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "Mountain",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "Hirundo rustica",
+      "trait_type": "scientific name"
+    },
+    {
+      "value": "spring",
+      "trait_type": "Season"
+    },
+    {
+      "value": "early summer",
+      "trait_type": "Season"
+    }
+  ],
+  "minted": "✅"
+}

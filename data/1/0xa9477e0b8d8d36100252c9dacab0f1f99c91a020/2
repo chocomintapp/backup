@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYbb9af5wvVSNiWWHexPzCKTdTbe16H2YCAKrC52LQVGu/nft.png",
+  "tokenId": 2,
+  "description": "Created by kimizuka_JP\nHeavy smoker.\n",
+  "nftContractAddress": "0xa9477e0b8d8d36100252c9dacab0f1f99c91a020",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#002",
+  "attributes": [
+    {
+      "trait_type": "Body-Color",
+      "value": "#fbf34eff"
+    },
+    {
+      "trait_type": "Face-Color",
+      "value": "#ffcc99ff"
+    },
+    {
+      "trait_type": "Background-Color",
+      "value": "#f28b86ff"
+    },
+    {
+      "trait_type": "Mind",
+      "value": "Heavy smoker"
+    },
+    {
+      "trait_type": "Mind-Shape",
+      "value": "Shape002"
+    },
+    {
+      "trait_type": "Mind-Color",
+      "value": "#44705fff"
+    },
+    {
+      "trait_type": "Eye-Type",
+      "value": "Eye002"
+    },
+    {
+      "trait_type": "Eye-Color",
+      "value": "#000000ff"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigarettes"
+    }
+  ]
+}

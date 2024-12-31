@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS1iySWcvBtcXM7SLL2eux4WURevRdcRZeUqnFC5m5zX8/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 56,
+  "chainId": "1",
+  "name": "POPET No.56",
+  "description": "【物語】あたたかい土、花のかおり、木のぬくもり。より良いかたちを探して人と街と調和させることが僕のお仕事。",
+  "attributes": [
+    {
+      "value": "庭師",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ダウンタウン",
+      "trait_type": "origin"
+    },
+    {
+      "value": "マイペース",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

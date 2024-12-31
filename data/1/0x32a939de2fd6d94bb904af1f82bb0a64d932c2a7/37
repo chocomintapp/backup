@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZQuPmUtKKm8kDu1gbortGHAYedQdkS3t5fDnyoUZErLZ/nft.png",
+  "nftContractAddress": "0x32a939de2fd6d94bb904af1f82bb0a64d932c2a7",
+  "animationUrl": "https://ipfs.io/ipfs/QmbL5XRYfWWkxNdL3AgDoxCm8QTske9JkEfFeq5m9QBXBr/nft.mp4",
+  "tokenId": 37,
+  "chainId": "1",
+  "name": "ATUM #037",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SKY ANTHONY1 × IVY",
+      "trait_type": "Type"
+    },
+    {
+      "value": "LIGHTBLUE×WHITE×BLACK",
+      "trait_type": "Color"
+    }
+  ]
+}

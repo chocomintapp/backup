@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVb4gA9PmrTqbD9dfg3cLkjJiw4DXLgRoHqVC5d7TmYYZ/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 264,
+  "chainId": "1",
+  "name": "ALEXIS",
+  "description": "■アレクシス",
+  "attributes": [
+    {
+      "value": "Demon World Entrance2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks2",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile of room",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Blue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sad",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Angel-kanji(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Demon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Angel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Heavenly Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

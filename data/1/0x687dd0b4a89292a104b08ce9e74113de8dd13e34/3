@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma3V9WBh9x2ppSXkDt5nJ1FqtUxGiUNi79neUVA34nafC/nft.jpg",
+  "nftContractAddress": "0x687dd0b4a89292a104b08ce9e74113de8dd13e34",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Alpaca Go Go #3 Japan",
+  "description": "A shy alpaca is into Noodle of Hokkaido, Japan. You will see lots of beautiful nature, rainbow hills, lavender fields, snow!\n\n---\n\n#Alpaca Go Go\nI am a shy alpaca who want to be someone else. I’m traveling around the world to change my mind & clothes!",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": "LOCATION"
+    },
+    {
+      "value": "Beige",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Cheeks",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Food",
+      "trait_type": "TOP"
+    },
+    {
+      "value": "T-shirt",
+      "trait_type": "SHIRT"
+    },
+    {
+      "value": "Scarf",
+      "trait_type": "ACCESSORY"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

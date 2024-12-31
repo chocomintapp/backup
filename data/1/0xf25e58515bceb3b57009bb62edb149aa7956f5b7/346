@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSQjXZpagRjHZuvykRzsP2JGLCh9CTD8aCzTZkC9M1bQw/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 346,
+  "chainId": "1",
+  "name": "ALEXANDRA",
+  "description": "■アレキサンドラ",
+  "attributes": [
+    {
+      "value": "deep in the countryside2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile of room",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Anisu-HostessBlonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "SeethroughEYE",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-Angel",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-sister",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-LeeLee-Otoko",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Angel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Heavenly Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

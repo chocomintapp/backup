@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNseELHGpy6ougJWyBvRkqEckNnqGJawEN1eEkGCXc7Tz/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "https://ipfs.io/ipfs/QmNseELHGpy6ougJWyBvRkqEckNnqGJawEN1eEkGCXc7Tz/nft.png",
+  "tokenId": 29,
+  "chainId": "1",
+  "name": "POCOEMOJI_knife",
+  "description": "Chelsea-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

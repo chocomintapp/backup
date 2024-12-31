@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZeAzH9yP2y64bZ2iCB6LaY6CWR7YvEEBtVK6Msm1Qd3m/nft.png",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "豊香[Houka]",
+  "description": "「五穀豊穣を祈り、鬼を追い払いましょう」\n\n雲の世界で、作物の繁栄などを願う神様。\n彼女が笑えば世の中が晴れ、彼女が泣けば世の中に雨が降る。",
+  "attributes": [
+    {
+      "value": "雲",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

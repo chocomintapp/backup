@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV9UcT5Ascvpmjw2GyBwyBrsSRRrzvRY1AHyciMAtNaW6/nft.png",
+  "tokenId": 1551,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1551",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Slip"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Gold Top Heart"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Strawberry"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "White Bunny"
+    }
+  ]
+}

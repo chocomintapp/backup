@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWNnPnadJRGc3zeb73XEYQGECdLh4YkwEKCEAYByJXPN3/nft.jpg",
+  "tokenId": 1,
+  "description": "roki",
+  "nftContractAddress": "0xea47e8937948f6bd394c073f83eb96c20de4c387",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "roki",
+  "attributes": []
+}

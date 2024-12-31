@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmek5Ec2hC1uMxdFQ6jQeGNTxMxsKToUFvoX2vEEWC9AJA/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "#010-Gunma-",
+  "description": "#010-Gunma-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Flare",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kanto",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Gunma",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

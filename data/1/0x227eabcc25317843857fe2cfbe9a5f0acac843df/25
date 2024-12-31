@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTXZPNDiuwEBXJcKmdR174z4mtD4kGSFtVFcxcVmHRHQk/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "1",
+  "name": "Beach Borne Bae #53",
+  "description": "Beach Borne Bae #53\nInspired by Halfmoon triggerfish / ツマジロモンガラ",
+  "attributes": [
+    {
+      "value": "Long",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "V-Neck T-shirt",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Salmon",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

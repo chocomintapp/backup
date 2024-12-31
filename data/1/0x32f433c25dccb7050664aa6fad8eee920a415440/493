@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZMK1JdCkuL7aB6usDbCeTFTNh9XhNgPq96NtGecHvvXX/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmbKGUuGcLgdXUmVUbxggYH1Hr14PtSkYFDbRGZkbhu5RD/nft.mp4",
+  "tokenId": 493,
+  "chainId": "1",
+  "name": "THE JEWEL #493",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Kunzite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Control device"
+    }
+  ]
+}

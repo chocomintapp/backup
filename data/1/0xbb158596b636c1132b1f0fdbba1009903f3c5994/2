@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU1XyiJa75hRB1Hc1xdWSMxzXKpEkebW5cdZLBgCmuqwb/nft.png",
+  "nftContractAddress": "0xbb158596b636c1132b1f0fdbba1009903f3c5994",
+  "animationUrl": "https://ipfs.io/ipfs/QmU1XyiJa75hRB1Hc1xdWSMxzXKpEkebW5cdZLBgCmuqwb/nft.png",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "NFTJPN Official #2",
+  "description": "NFTJPN official NFT #2 created exclusively for the sponsor of the 5th Curation Event on March 12, 2022.\n- Artist: Nemuko @gohannemunemu",
+  "attributes": [
+    {
+      "value": "Nemuko",
+      "trait_type": "Artist"
+    },
+    {
+      "value": "March 12, 2022",
+      "trait_type": "Date"
+    },
+    {
+      "value": "5th Curation",
+      "trait_type": "Event"
+    }
+  ],
+  "minted": "✅"
+}

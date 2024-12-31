@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTAhX47L9A2d1tTZuPzVkhr6C13Roz45FLz4R2mknQWCq/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmT4jNWmQcXnZCwSm9zw5PXvYzwuB76njQWn4ToJgyzioc/nft.mp4",
+  "tokenId": 335,
+  "chainId": "1",
+  "name": "THE JEWEL #335",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Bicolor Emerald",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

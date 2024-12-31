@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUWEsyThvDQmHsLeTB5k4MuYmVQXNXtUR5rwnFwevQgPd/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmUfgUHaWFZNUQQni8vhohHU6SZHwtfDWbkpzkx6Ef5mFM/nft.mp4",
+  "tokenId": 684,
+  "chainId": "1",
+  "name": "THE JEWEL #684",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Clear Light Blue",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Patina Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

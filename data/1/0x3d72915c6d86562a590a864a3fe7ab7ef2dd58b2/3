@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeHB8n22eq1rfzHHk6d8U2r39p9UvKaQWq5RR7W913eAN/nft.JPG",
+  "tokenId": 3,
+  "description": "hatena art",
+  "nftContractAddress": "0x3d72915c6d86562a590a864a3fe7ab7ef2dd58b2",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "hatena",
+  "attributes": [
+    {
+      "trait_type": "gender",
+      "value": "male"
+    }
+  ]
+}

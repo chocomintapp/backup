@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfLmiXCSC8d1wjWKnZye7kGtdbgfufaBcRbhb5XPYCjx8/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "1",
+  "name": "WEAR BEAR #120 \"JANET\" BLACK&PINK MOUNTAIN PARKER",
+  "description": "WEAR BEAR 第12弾はHIP HOPクルー“BEAR HOP”として音楽シーンに鮮烈デビュー！オールブラックコーデでクールに登場\n紅一点のメインボーカル”ジャネット”はBLACK&PINKのPOPなコーデで登場",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Character"
+    },
+    {
+      "value": "BH Mountainparker",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "BH Miniskirt",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Berarstar",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Lightpink",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Janet",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Microphone",
+      "trait_type": "Accessories"
+    }
+  ]
+}

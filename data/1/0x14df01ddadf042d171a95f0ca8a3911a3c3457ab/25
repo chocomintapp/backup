@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNqjHixZncFLdFj1DhWz5SeFhvqDCwpzEvMffiMjgFSxi/nft.gif",
+  "nftContractAddress": "0x14df01ddadf042d171a95f0ca8a3911a3c3457ab",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "1",
+  "name": "#25",
+  "description": "髪の毛が",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "？？？",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Brack Bread",
+      "trait_type": "Face"
+    },
+    {
+      "value": "KUMADA",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Alien",
+      "trait_type": "Option"
+    },
+    {
+      "value": "Flower",
+      "trait_type": "Option"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdhkGR9rtGECkd9ezMw9E3Rrhno35aS7JVTwjXr8yLKfb/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmNv688wUXdbPph5B2Nh5t28zsbsxX7xYctBic8gjQbp36/nft.mp4",
+  "tokenId": 196,
+  "chainId": "1",
+  "name": "THE JEWEL #196",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Diopside",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

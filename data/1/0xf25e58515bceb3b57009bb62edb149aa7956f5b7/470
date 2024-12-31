@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTDb2PYwD1UmTs66YoXRzSrKatng44QZPcrV6jZsdBQRG/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 470,
+  "chainId": "1",
+  "name": "KII",
+  "description": "■キィ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.10",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "RobotEye5",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-Light4",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-surprised",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

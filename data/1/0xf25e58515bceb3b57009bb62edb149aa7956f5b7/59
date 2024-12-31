@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUaUKwJ3YfvLwSctcTtGQaRuzFog3gk82wdYqAWQkmg2S/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 59,
+  "chainId": "1",
+  "name": "RINO",
+  "description": "RINO hails from an everlasting summer island.\n\nBecause she eats a lot of delicious seafood on a regular basis, he is not satisfied with just a little bit of good food.\n\nShe has a cheerful personality that can get along with anyone.\n■リノ\n常夏島出身のリノ。\n\n美味しい魚介類を普段からたくさん食べているため、ちょっとやそっとの美味しい物では納得がいかない。\n\n彼女は誰とでも仲良くなれる明るい性格だ。",
+  "attributes": [
+    {
+      "value": "Light-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-UOrange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-RW(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Black",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "HappyCarrot",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "EyeBall1",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

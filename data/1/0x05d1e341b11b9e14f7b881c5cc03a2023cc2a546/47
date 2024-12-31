@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUZYM2AwQk13KS1WtxwGw3NQsmoEcPkmsdwmjtcjKvoNe/nft.gif",
+  "tokenId": 47,
+  "description": "Nata  \n美しいポスターに目がない  \nHe's a sucker for beautiful posters.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmQUzLwF2LhyxqeSanDEitWWFqT4teCjPtjBLKKj1pzDdh/nft.mp4",
+  "chainId": "1",
+  "name": "Nata #047",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Construct"
+    }
+  ]
+}

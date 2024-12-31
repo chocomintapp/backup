@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfYzrPGUKkkgyiPbGaBV6D9qNM5RLfcrHtaPdqJLogGU5/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "1",
+  "name": "Agapita",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "skin"
+    },
+    {
+      "value": "stylish_red2",
+      "trait_type": "eye"
+    },
+    {
+      "value": "pink03",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "mars_glass",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Virgo",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

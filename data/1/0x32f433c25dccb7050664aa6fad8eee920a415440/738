@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR9XQy69rfDUAX3PkyrcUis1zVpbg9w1rRyit4yT9jpDF/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmcPJaGRFoSjGGLBxvgPJF7KfiW4fQmknZiwCYXDMoeDPp/nft.mp4",
+  "tokenId": 738,
+  "chainId": "1",
+  "name": "THE JEWEL #738",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Brass",
+      "trait_type": "Control device"
+    }
+  ]
+}

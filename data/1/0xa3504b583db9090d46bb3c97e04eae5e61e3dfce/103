@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZTHtEJyNdBfjrpkAo2D3bV1piLWCeqVB8VSjhAFtL6mb/nft.png",
+  "tokenId": 103,
+  "description": "",
+  "nftContractAddress": "0xa3504b583db9090d46bb3c97e04eae5e61e3dfce",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #103",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    }
+  ]
+}

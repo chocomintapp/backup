@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb1C8UkArs1kBvVT47XKB6Cpco2uUD8qZj2X1xyrr9oaF/nft.mp4",
+  "nftContractAddress": "0x4f988a55c6af43669e0314adb9b090c4c921a595",
+  "animationUrl": "https://ipfs.io/ipfs/QmYMQTtGc5LBVGoVyAMDeAhdhcFVurUuUtg2GR4bxurwac/nft.png",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Ginko model #4",
+  "description": "The infinite me. Only this moment is the only me.",
+  "attributes": [],
+  "minted": "✅"
+}

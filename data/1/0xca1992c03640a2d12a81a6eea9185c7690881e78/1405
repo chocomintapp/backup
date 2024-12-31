@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ2RHEmpB8caeLLaSdaijHTvikkTSsxAP55xnGs27FibL/nft.png",
+  "tokenId": 1405,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1405",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Cool Blue"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Rhombus"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Flower Lei"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Halo Angel Ring"
+    }
+  ]
+}

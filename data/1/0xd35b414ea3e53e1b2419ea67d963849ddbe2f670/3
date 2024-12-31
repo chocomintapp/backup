@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX5HWD6x8HipMQv2Gjg7PUJmiCX4DjbRrhSozx7o9B76p/nft.png",
+  "tokenId": 3,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #3",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Buchi"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Green Ring"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_4"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Pink Box"
+    }
+  ]
+}

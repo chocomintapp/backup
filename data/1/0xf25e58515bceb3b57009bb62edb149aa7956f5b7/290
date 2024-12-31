@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPmxgVhENkDNTKR9ugu4b62oFX37pL9RsVvm1eK2fY5uD/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 290,
+  "chainId": "1",
+  "name": "OTOHA",
+  "description": "■オトハ",
+  "attributes": [
+    {
+      "value": "Bright-Pink",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "AnisuHair",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cry-Purple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie8(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dominion",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

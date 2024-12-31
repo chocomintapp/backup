@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVWXv4y6swXqPXRF4KL5YLn7AzpRQLYqCr1YBMRjpYjVr/nft.png",
+  "nftContractAddress": "0x99c91fc98d7c3f297108615c2cd97cdfe38b9a4d",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "1",
+  "name": "LOM Elixir EVO #19",
+  "description": "Located in the southwest of the MOL Dimension The forbidden elixir is said to have been created by an \"evolutionary wizard\" who lives in the \"Valley of Kotomuke The forbidden secret medicine is said to have been created by the \"Evolutionary Wizard\" who lives in the \"Valley of Kotomuke\" located in the southwest of MOL Dimension. You will be enchanted by the forbidden elixir You will be enchanted by the refining of the \"Evolutionary Wizard\", the supreme master of modern magic. This is a precious elixir limited to 30 bottles.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "COLOR"
+    }
+  ]
+}

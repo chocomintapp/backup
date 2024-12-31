@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTisTLFkCECiVkfjcLaGTxeRXPSCuMGNLbcc76pZ9bofC/nft.jpg",
+  "nftContractAddress": "0xc2b27dae83be44233fd522047a471637545231ac",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "Crypto\"WAFUKU\" #028",
+  "description": "028\n\nShe's very excited.",
+  "attributes": [
+    {
+      "value": "twin tail - ツインテール",
+      "trait_type": "accessory"
+    },
+    {
+      "value": "human - 娘",
+      "trait_type": "character"
+    },
+    {
+      "value": "original",
+      "trait_type": "originality"
+    },
+    {
+      "value": "shippoutunagi - 七宝繋ぎ",
+      "trait_type": "individuality"
+    },
+    {
+      "value": "furisode - 振袖",
+      "trait_type": "wafuku"
+    }
+  ]
+}

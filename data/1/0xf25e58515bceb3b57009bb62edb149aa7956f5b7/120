@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc8fMY7DxJjGi6DPC3Hmqj7fWCuXNDbWfWnHNsizuXVZE/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 120,
+  "chainId": "1",
+  "name": "NALY",
+  "description": "■ナリー",
+  "attributes": [
+    {
+      "value": "Fall into place",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Odd4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie7(G)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Green",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Green",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "The Greens",
+      "trait_type": "TYPE"
+    }
+  ]
+}

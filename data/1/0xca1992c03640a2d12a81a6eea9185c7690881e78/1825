@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVNxWnCahbJw4B88qKWYAqLaT6jWfAUdCohTGrUU6BiNR/nft.png",
+  "tokenId": 1825,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1825",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Cool Blue"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Carmine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Letter"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Blue Bunny"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "British Shorthair"
+    }
+  ]
+}

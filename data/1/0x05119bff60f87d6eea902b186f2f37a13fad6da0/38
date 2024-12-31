@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbBqbdcJeq6VXbA2yw22jJ5Gk3CcQcuuxbRQb77BRveqA/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "1",
+  "name": "POPET No.38",
+  "description": "【物語】\n\nみんなをまとめるのは簡単じゃない。\n特別やりたいわけではないけれど、\n先生困ってたから。",
+  "attributes": [
+    {
+      "value": "学級委員長",
+      "trait_type": "job"
+    },
+    {
+      "value": "オンリー・ワン・フォー・オール",
+      "trait_type": "skill"
+    },
+    {
+      "value": "学校",
+      "trait_type": "origin"
+    },
+    {
+      "value": "優しい",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

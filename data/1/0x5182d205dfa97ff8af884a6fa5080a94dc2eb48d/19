@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUEMwdHPshD2i55s2GtWokh3rPRRj8U1nvPa1p2QeYAg2/nft.gif",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "Ganmichan & Jitomichan",
+  "description": "PFP用特別ver",
+  "attributes": [
+    {
+      "value": "pfp",
+      "trait_type": "series"
+    },
+    {
+      "value": "special",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

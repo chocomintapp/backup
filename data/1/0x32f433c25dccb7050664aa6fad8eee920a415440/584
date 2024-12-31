@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb9Avmdv2wvdEvaymZMvGWkhxNR6zAuQidDH9xAkwkMsZ/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWffb2jR4LGfYTyAtRwZZbGjS67Ug1piDH5ouhQe1SbTP/nft.mp4",
+  "tokenId": 584,
+  "chainId": "1",
+  "name": "THE JEWEL #584",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Clear Orange",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

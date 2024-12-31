@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbYA9LYnbitKHUeUgiHguMygKXRPn8u9tg2NVouQAsBFU/nft.png",
+  "tokenId": 1029,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1029",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Slip"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Pearl Studs"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Letter"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Red Hibiscus"
+    }
+  ]
+}

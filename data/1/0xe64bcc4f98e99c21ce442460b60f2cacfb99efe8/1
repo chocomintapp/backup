@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVbCdJeYLgqUrSJJMadRYttaRDCpa57Gw7mestyZ2zStK/nft.png",
+  "nftContractAddress": "0xe64bcc4f98e99c21ce442460b60f2cacfb99efe8",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "COLLECTION NFT TEST#1",
+  "description": "COLLECTION NFT TEST#1COLLECTION NFT TEST#1COLLECTION NFT TEST#1",
+  "attributes": [
+    {
+      "value": "おしゃれ",
+      "trait_type": "テストテスト"
+    },
+    {
+      "value": "cool",
+      "trait_type": "テスト"
+    }
+  ]
+}

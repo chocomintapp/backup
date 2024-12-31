@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWQ8bdT5NZ4gLCsEkTuGMGnAMDv248VHn8riRuHkhwetS/nft.jpg",
+  "nftContractAddress": "0xb12538338f5d3dec28aabf9b18bfd4bdddcc2304",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "BabyDragonNFT_XXX3",
+  "description": "BabyDragonNFT giveaway on  twitter!\nThis is limited edition.\nNo.XXX3.",
+  "attributes": [
+    {
+      "value": "Crown",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Green",
+      "trait_type": "EYE"
+    },
+    {
+      "value": "None",
+      "trait_type": "WING"
+    },
+    {
+      "value": "Red",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "None",
+      "trait_type": "ITEM1"
+    },
+    {
+      "value": "None",
+      "trait_type": "ITEM2"
+    },
+    {
+      "value": "01",
+      "trait_type": "POSE"
+    },
+    {
+      "value": "XXX",
+      "trait_type": "Number"
+    },
+    {
+      "value": "Dot-lightgreen/white",
+      "trait_type": "BACK"
+    }
+  ]
+}

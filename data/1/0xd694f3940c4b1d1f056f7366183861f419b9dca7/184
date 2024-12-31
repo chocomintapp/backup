@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPV92v5YDtGnRvZDdFujsnnmv9VbKM5iJR5QhWBRZW81d/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 184,
+  "chainId": "1",
+  "name": "November 17 バーベナ（ピンク）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "11",
+      "trait_type": "月"
+    },
+    {
+      "value": "17",
+      "trait_type": "日"
+    },
+    {
+      "value": "未来",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "バーベナ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

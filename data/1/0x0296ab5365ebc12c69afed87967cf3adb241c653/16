@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRVejLgLPmf1VEbySoj8JsY8a5vT5XSuoxoSZnge63x3f/nft.png",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "華蓮[Karen]",
+  "description": "「可憐な眼差しを向ける彼女の瞳には何が映るのか。」\n\n光の世界で一人願う少女、彼女の目に映るものはなんなのか。",
+  "attributes": [
+    {
+      "value": "光",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTguMnT1sLTNeKZ6ZKudqqxK4Ge3MHWMcR5QMV1apSzxD/nft.jpg",
+  "nftContractAddress": "0xda45f0935217c07ca18b33a3a4c20f3de52e3f32",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "#003  Demon King of Troubled Times【乱世の魔王】",
+  "description": "One man tries to unify the Makai Sengoku rebellion that has been going on for hundreds of years.\nBurning for the unification of the world",
+  "attributes": [
+    {
+      "value": "demon",
+      "trait_type": "gekiga"
+    },
+    {
+      "value": "",
+      "trait_type": "king"
+    }
+  ]
+}

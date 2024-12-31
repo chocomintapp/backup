@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmehphaBw8PtYpFTJmNnBGinneffjuNhwH4Z7yJXfD4NA4/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 329,
+  "chainId": "1",
+  "name": "KOKORO",
+  "description": "■ココロ",
+  "attributes": [
+    {
+      "value": "bubble4",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Edo-wig",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllRed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-yoshiwara(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdigGxHN6x9bKYykJrdiV45XpbKxFqbqcSN6N78VxdULZ/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 303,
+  "chainId": "1",
+  "name": "MEGUMU",
+  "description": "■メグム",
+  "attributes": [
+    {
+      "value": "Bright-Green",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "CurlingTsuno-White",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WEB(BLU)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Archangel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Blue Family",
+      "trait_type": "TYPE"
+    }
+  ]
+}

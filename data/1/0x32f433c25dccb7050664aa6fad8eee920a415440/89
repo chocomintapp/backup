@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVwzwmyBNmd9ZQQex2fUGDYtWp9H3692GoW2QcYbohwSK/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qme5t1BkxQuXv2FntpnVbWF6AmWqaWeMUuVN44R81keqpA/nft.mp4",
+  "tokenId": 89,
+  "chainId": "1",
+  "name": "THE JEWEL #089",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Grandidierite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "blue",
+      "trait_type": "Control device"
+    }
+  ]
+}

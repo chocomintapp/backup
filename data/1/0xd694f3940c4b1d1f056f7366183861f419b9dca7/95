@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUg9rY4LPD3Tt4WBFsLdbcJWFfzMZJq5hrFzA2aMLFJo2/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 95,
+  "chainId": "1",
+  "name": "August 20 バーガンディーローズ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "20",
+      "trait_type": "日"
+    },
+    {
+      "value": "秘められた美",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "バラ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

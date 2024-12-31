@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUogCyvzy8Ucm4w2G5cDvDDnVdGkcRmo5D5ocyAGi6fRf/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 145,
+  "chainId": "1",
+  "name": "NANA",
+  "description": "■ナナ",
+  "attributes": [
+    {
+      "value": "Change",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Ponytail-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllPurple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Summer",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

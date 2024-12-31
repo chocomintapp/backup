@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSwteNjwwUWnTteMgMpFtotZjuEkzX7bUfru2KJNwj3PK/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 124,
+  "chainId": "1",
+  "name": "POCO_Felicia",
+  "description": "Felicia-Chan",
+  "attributes": [
+    {
+      "value": "Frank",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Ghost",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Schema-Chan Remake",
+      "trait_type": "SERIES"
+    }
+  ],
+  "minted": "✅"
+}

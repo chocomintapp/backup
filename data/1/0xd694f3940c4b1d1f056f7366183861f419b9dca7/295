@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSv2VyjCbjiJdjbVHTfGfxpSuwNhxDXTYf32gbtWLc8up/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 295,
+  "chainId": "1",
+  "name": "March 7 コリアンダー",
+  "description": "",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "月"
+    },
+    {
+      "value": "7",
+      "trait_type": "日"
+    },
+    {
+      "value": "秘密の富",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "コリアンダー",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

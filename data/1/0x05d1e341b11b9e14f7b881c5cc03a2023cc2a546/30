@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRnAVTXdBskvCGPDxMr6bVLtNgCektEJQBtmTTZC6EyE6/nft.gif",
+  "tokenId": 30,
+  "description": "Akaonibi  \n正体不明の火の玉によく間違われるがいい子  \nA good boy who is often mistaken for an unidentified fireball.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmP81KCTrUAzxbMu2v7EK5Cry7dhA8seqopYGqE3KDB9cb/nft.mp4",
+  "chainId": "1",
+  "name": "Akaonibi #030",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "VOICE",
+      "value": "Mimi"
+    }
+  ]
+}

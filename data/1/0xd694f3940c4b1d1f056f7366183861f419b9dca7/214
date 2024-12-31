@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXn9VRqvNLag4LLHus4tJoe25j1CHNt5gg9fPG4xTauBB/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 214,
+  "chainId": "1",
+  "name": "December 17 マーガレット（ピンク）",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "17",
+      "trait_type": "日"
+    },
+    {
+      "value": "真実の愛",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "マーガレット",
+      "trait_type": "花"
+    }
+  ]
+}

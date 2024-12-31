@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd92Ktnue7n5TzZt2kNUUEtnSeLfEp3DyN3samL35fSeN/nft.png",
+  "nftContractAddress": "0xa91588083acf89d21e3ff1c7a52aaca4304d59e7",
+  "animationUrl": "https://ipfs.io/ipfs/Qmd92Ktnue7n5TzZt2kNUUEtnSeLfEp3DyN3samL35fSeN/nft.png",
+  "tokenId": 98,
+  "chainId": "1",
+  "name": "Paper #98",
+  "description": "Paper #98 was birth on April 29, 2022.\n\nSuddenly one day, a meteorite fell on the house of a revolutionary. Inside the meteorite was a piece of paper, and while the revolutionary was playing with origami, Paper Revin was born. Inspired by its unique shape, the revolutionary decided to create the \"I Am Paper\" NFT collection, which is stored semi-permanently on the Ethereum blockchain and offered worldwide as an NFT employing the standard ERC-720.",
+  "attributes": [
+    {
+      "value": "Yellow",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Checkered",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Light",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Fuck",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Watch",
+      "trait_type": "Accessories"
+    }
+  ],
+  "minted": "✅"
+}

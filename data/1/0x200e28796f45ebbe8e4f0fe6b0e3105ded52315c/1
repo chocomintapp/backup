@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaZcDGJrztkjPqaEY5AuYvHJ3SeWm6UMQXhtmhVsHGbHt/nft.JPG",
+  "tokenId": 1,
+  "description": "Take a deep breath. \nClose your eyes and look up.\nImagine a cloud floating in your mind.\nDraw the cloud with 7 breaths.",
+  "nftContractAddress": "0x200e28796f45ebbe8e4f0fe6b0e3105ded52315c",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "cloud #1"
+}

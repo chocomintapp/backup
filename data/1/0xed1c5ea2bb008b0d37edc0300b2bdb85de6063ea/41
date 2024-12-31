@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaET87f8r6rU7YenWa6PbDjfeNYQVXMTB3YTbu7nJn2oN/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 41,
+  "chainId": "1",
+  "name": "COMETA",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "zombie2",
+      "trait_type": "skin"
+    },
+    {
+      "value": "odd_red_blue",
+      "trait_type": "eye"
+    },
+    {
+      "value": "pink03",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "mars_emblem",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Taurus",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

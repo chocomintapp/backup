@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUvcghqDEABgFwjHetVC9bHVBdku8oxXGo2HC7RayqvJV/nft.jpeg",
+  "tokenId": 12,
+  "description": "The Beetles is the fourth installation in Krs's bug series and depicts happy curious beetles frolicking amongst the green leaves\n\nAcrylic on Canvas 72x61\n\nInitially sold together with the physical painting",
+  "nftContractAddress": "0x2e863f367a0888bec358e834cd7592084bf86876",
+  "animationUrl": "https://ipfs.io/ipfs/QmUvcghqDEABgFwjHetVC9bHVBdku8oxXGo2HC7RayqvJV/nft.jpeg",
+  "chainId": "1",
+  "name": "TheBeetles",
+  "attributes": [],
+  "minted": ""
+}

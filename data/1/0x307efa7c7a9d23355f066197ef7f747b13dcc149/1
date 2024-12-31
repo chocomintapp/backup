@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcTXgDcRygndbQqweeduGV5gcDDhCzFD24YEUFL4ruqUb/nft.jpg",
+  "tokenId": 1,
+  "description": "The unique shark pixel art.\n",
+  "nftContractAddress": "0x307efa7c7a9d23355f066197ef7f747b13dcc149",
+  "animationUrl": "https://ipfs.io/ipfs/QmcTXgDcRygndbQqweeduGV5gcDDhCzFD24YEUFL4ruqUb/nft.jpg",
+  "chainId": "1",
+  "name": "Pixcel Shark #68",
+  "attributes": [],
+  "minted": "✅"
+}

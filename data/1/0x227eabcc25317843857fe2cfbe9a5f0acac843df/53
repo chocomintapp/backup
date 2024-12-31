@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQeu9JNbFM2AV5cpBykCj9gG56qfpkryxMLfcott38JHy/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 53,
+  "chainId": "1",
+  "name": "Beach Borne Bae #81",
+  "description": "Beach Borne Bae #81\nInspired by Red seabream / マダイ",
+  "attributes": [
+    {
+      "value": "Bob with Straight Bangs",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Basketball Uniform",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

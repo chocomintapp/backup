@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc7EyxKFrNC4AaqsTnNgqq28aF8P8ymtizJNmfYU999EK/nft.gif",
+  "nftContractAddress": "0xb2191a47b6f0eccf55d91aadb1663f006365d49e",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc7EyxKFrNC4AaqsTnNgqq28aF8P8ymtizJNmfYU999EK/nft.gif",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "DD #001",
+  "description": "DD #001",
+  "attributes": []
+}

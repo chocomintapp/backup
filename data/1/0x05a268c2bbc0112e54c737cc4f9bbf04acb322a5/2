@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY1ZoMaf2qQxHcHm3Mqjy3YpskQ2EM8Gwfm4TMqxBW5N5/nft.png",
+  "nftContractAddress": "0x05a268c2bbc0112e54c737cc4f9bbf04acb322a5",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "#002_ESTER",
+  "description": "ESTER is a witch girl who is really a serious hard worker.  \n---Witch Girls Collection",
+  "attributes": [
+    {
+      "value": "Witch Girls Collection",
+      "trait_type": "Collection"
+    },
+    {
+      "value": "Ester",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Background"
+    }
+  ]
+}

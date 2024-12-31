@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb5S7NhQeX8nxF5RnhDDmt37GEdKm9FAFweC5AHTEVtNH/nft.gif",
+  "nftContractAddress": "0xe59d6a2d32113de5dd99ba564bbffc92d135d7d8",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "#0021 new bird",
+  "description": "京都で創業40年以上のパン屋チロル。\nこちらのパンを使ったNFTアート『Chirol-BreadHeadFriends.-』です。\n\nGraphics Interchange Format\n1024×1024px",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "series001",
+      "trait_type": "Series"
+    },
+    {
+      "value": "new bird",
+      "trait_type": "BreadType"
+    },
+    {
+      "value": "anim001",
+      "trait_type": "Animation"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZfaMqkJEeGrVFF1Q7b2ZJNNygPnxW6TLz2JUV4aQvQQd/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 63,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "逃亡",
+  "attributes": [
+    {
+      "value": "マケフィー",
+      "trait_type": "人物"
+    },
+    {
+      "value": "ジャケット",
+      "trait_type": "服装"
+    },
+    {
+      "value": "McAfee",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

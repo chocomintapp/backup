@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVgR1DK4u8xShxbS9GgceTqVwbXWKQQoGj54ZE1DP3WU9/nft.png",
+  "tokenId": 377,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #377",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Wild Green"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Braid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovey Dovey"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Carmine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tube Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Scarlet"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Rhombus"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Fork"
+    }
+  ]
+}

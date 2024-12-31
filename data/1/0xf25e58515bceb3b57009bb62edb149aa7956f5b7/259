@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcCVe4gp5SW2frjWKr258JbAGESUyPi5nCPzKg1bMRFkf/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 259,
+  "chainId": "1",
+  "name": "AMON",
+  "description": "■アモン",
+  "attributes": [
+    {
+      "value": "Dot8",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks2",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open3",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Despair",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Devil",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-brother",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "LeeLee-nihility",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Tsuno-D",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Hell Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

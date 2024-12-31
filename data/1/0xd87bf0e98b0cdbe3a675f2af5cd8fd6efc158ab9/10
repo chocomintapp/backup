@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQsHwjwYqDzzHun9j9huEMVpiT9a76HYZmMnPzv99ngYw/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "THS #045",
+  "description": "【諦】",
+  "attributes": [
+    {
+      "value": "dragon",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "frog",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "shrimp",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

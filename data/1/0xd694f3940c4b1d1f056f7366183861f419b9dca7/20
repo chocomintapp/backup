@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTn2j6vjY3Fv2yhWpjCHXHAxrgV76h1j6ny1QXUjQ7PZG/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "June 6 ニゲラ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "6",
+      "trait_type": "日"
+    },
+    {
+      "value": "夢の中の恋",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ニゲラ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

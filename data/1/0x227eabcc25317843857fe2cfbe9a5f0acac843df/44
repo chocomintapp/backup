@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf4U27kUt5MvQRaTURGPSzFkfAgc2CvGZpRfLqgdYiKpV/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 44,
+  "chainId": "1",
+  "name": "Beach Borne Bae #72",
+  "description": "Beach Borne Bae #72\nInspired by Dugong / ジュゴン",
+  "attributes": [
+    {
+      "value": "Ponytail",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Dress",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Marine Mammal",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

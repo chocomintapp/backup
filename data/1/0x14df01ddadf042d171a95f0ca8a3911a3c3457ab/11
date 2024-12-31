@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXovKh4bb79rpAZ5p1RSSNwnWNcsD1WSkvm2udARCbeuy/nft.gif",
+  "nftContractAddress": "0x14df01ddadf042d171a95f0ca8a3911a3c3457ab",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "#11",
+  "description": "メタバースにダイブするぜ。\nイケおじじのGoroだお。",
+  "attributes": [
+    {
+      "value": "Goro",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Goro",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Dao",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Web56",
+      "trait_type": "Background"
+    },
+    {
+      "value": "3D glass",
+      "trait_type": "Option"
+    },
+    {
+      "value": "GORO",
+      "trait_type": "Job"
+    }
+  ],
+  "minted": "✅"
+}

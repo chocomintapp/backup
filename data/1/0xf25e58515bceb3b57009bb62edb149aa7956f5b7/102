@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRuZkKnqB9jGCYBN2RTFwUuqctMnsHpWPL2WqSAfFKJyH/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 102,
+  "chainId": "1",
+  "name": "SOPHIA",
+  "description": "■ソフィア",
+  "attributes": [
+    {
+      "value": "Deep-Red（made by YUDA）",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.7",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "RobotEye2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-B",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dominion",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

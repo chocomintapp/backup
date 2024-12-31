@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaGLURk5RJHyZZRqWzGGTFCm1wvFxdE65WUA4x431Yxkn/nft.png",
+  "nftContractAddress": "0xf0be1c519642688870b6f32c4bbdf989173d4843",
+  "animationUrl": "",
+  "tokenId": 52,
+  "chainId": "1",
+  "name": "MINTED EDITION 002 #19",
+  "description": "ANREALAGE×AIR SMOKE ZERO \nNFT limited edition cover of \"Numéro TOKYO” \n\nThis commemorative NFT has been airdropped to the holder of MINTED EDITION 001.\n\nThis NFT is limited novelty product.",
+  "attributes": [
+    {
+      "value": "ANREALAGE",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

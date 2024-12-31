@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma2maJmNZdGB71zXhJXkNCCvzsoKX6MAeBwpad2dCN4Pp/nft.png",
+  "tokenId": 14,
+  "description": "Limited 1/1\n\nCyclopstar is a Japanese Kawaii NFT collections, And minted by their original contract (CLS).\n\nThis is Fanart of \"Pam's collection [Daruma VOX](https://opensea.io/collection/daruma-vox) #9\"",
+  "nftContractAddress": "0x74047d107f4bb84e707cdb677720601b974830c9",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "CYCLOPSTAR #0014",
+  "attributes": [
+    {
+      "trait_type": "DNA",
+      "value": "Human"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Daruma"
+    },
+    {
+      "trait_type": "TYPE",
+      "value": "Zipup"
+    },
+    {
+      "trait_type": "DESIGN",
+      "value": "Pam's Daruma"
+    },
+    {
+      "trait_type": "ACCESSORYS",
+      "value": "Gadget"
+    },
+    {
+      "trait_type": "ACCESSORYS",
+      "value": "NameTag"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPRQgia764ifWeFVUmYv18cWpxsSjBnvcSqh5zH1YJVqs/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 97,
+  "chainId": "1",
+  "name": "August 22 ヤロウ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "22",
+      "trait_type": "日"
+    },
+    {
+      "value": "治癒",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ヤロウ",
+      "trait_type": "花"
+    }
+  ]
+}

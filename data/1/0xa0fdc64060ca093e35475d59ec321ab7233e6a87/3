@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRvC5J767Zd2zjiPJqgCQC9TkoV4KShscgYmzpx7KoMgA/nft.gif",
+  "nftContractAddress": "0xa0fdc64060ca093e35475d59ec321ab7233e6a87",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "pure create",
+  "description": "create my world view.",
+  "attributes": []
+}

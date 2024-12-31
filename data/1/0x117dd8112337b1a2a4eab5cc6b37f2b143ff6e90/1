@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS4LutFmCQRkyD7eevzmotNnF3SDTWDU7YQiUMPhNApwx/nft.png",
+  "tokenId": 1,
+  "description": "レッドビーシュリンプの様子です",
+  "nftContractAddress": "0x117dd8112337b1a2a4eab5cc6b37f2b143ff6e90",
+  "animationUrl": "https://ipfs.io/ipfs/QmXut7kV9bRGuPYAauKhuwR4fSCPG9bE559WndaU6TytPg/nft.MOV",
+  "chainId": "1",
+  "name": "レッドビーシュリンプ"
+}

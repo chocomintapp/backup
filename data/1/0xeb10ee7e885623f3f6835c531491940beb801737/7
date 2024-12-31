@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQRQYm7NyaMUx6B55QyEtfK56xJf5W2yj7tgbDzVRfFcL/nft.png",
+  "nftContractAddress": "0xeb10ee7e885623f3f6835c531491940beb801737",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "#007-knife",
+  "description": "CoolGirl Campers #007のPFP用NFT。お気に入りギアは「ナイフ」。",
+  "attributes": [
+    {
+      "value": "knife",
+      "trait_type": "Favorite"
+    },
+    {
+      "value": "kendo",
+      "trait_type": "Hobby"
+    }
+  ]
+}

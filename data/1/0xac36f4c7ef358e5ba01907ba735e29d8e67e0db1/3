@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSn4XK5ghHA51ptMMAGa1s61xBfJqR5uoN9Q4W6moUDFm/nft.jpg",
+  "nftContractAddress": "0xac36f4c7ef358e5ba01907ba735e29d8e67e0db1",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Ran",
+  "description": "",
+  "attributes": [
+    {
+      "value": "sniper",
+      "trait_type": "POSITION"
+    },
+    {
+      "value": "kemomimi",
+      "trait_type": "TEAM"
+    }
+  ]
+}

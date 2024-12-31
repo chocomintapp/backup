@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb8aTnyWq9DBL4TtiXdDB8UtxMem6xTxUnjFByruUE9UP/nft.png",
+  "tokenId": 2,
+  "description": "032",
+  "nftContractAddress": "0x83605721840a8a9fddb6f039ecf548af9668c06a",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "CryptoNinja #032",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Clan",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

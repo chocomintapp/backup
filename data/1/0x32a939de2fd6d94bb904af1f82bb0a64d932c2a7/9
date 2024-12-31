@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSsEGhX9DvdWrgXRjx61m26k51k497BKrkEqSALjed6Cy/nft.png",
+  "nftContractAddress": "0x32a939de2fd6d94bb904af1f82bb0a64d932c2a7",
+  "animationUrl": "https://ipfs.io/ipfs/QmbUb5dMiwmUokQ6hUBggz3jJZpxYqQ8LiK4ugBt3HKDvW/nft.mp4",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "ATUM #009",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SKY ANTHONY6",
+      "trait_type": "Type"
+    },
+    {
+      "value": "RED×WHITE×BLACK",
+      "trait_type": "Color"
+    }
+  ],
+  "minted": "✅"
+}

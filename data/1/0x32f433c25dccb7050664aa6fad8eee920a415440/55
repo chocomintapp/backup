@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfWHBXsKT6axieeN19yeThJJ2GMpuA7yJ8T1RxPZmHJr2/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWa2iRwCwZXNNDcfDMmLkBoqedNEGYzgLTyuZkNbTQQyQ/nft.mp4",
+  "tokenId": 55,
+  "chainId": "1",
+  "name": "THE JEWEL #055",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Amber",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

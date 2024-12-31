@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVfdjRMgWnCMpCzsYmJrsFft6eYXqxTKK43zvfrFpnvhD/nft.png",
+  "tokenId": 33,
+  "description": "\"Jabberwock\" = \"Dragon\" x \"Werewolf\" Carroll Nagasaki\n「ジャバウォック」メイン種族ドラゴン、サブ種族ワーウルフ。名前はキャロル長崎。\n\n深い森に住むドラゴン種。ドラゴン種にしては珍しく、鱗の他に体毛を持つ。自分で作った歌を歌うのが大好き。将来の夢はアイドル。\n\n\"Jabberwock\" is \"Dragon\" species that lives in the deep forest.\nUnusually for a \"Dragon\" species, it has body hair in addition to scales. She loves to sing songs that she has written herself. Her dream is to become an idol.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#057 \"Jabberwock\" Carroll Nagasaki",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Werewolf"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

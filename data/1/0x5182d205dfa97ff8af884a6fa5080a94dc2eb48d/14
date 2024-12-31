@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYC26o39ST5Pwav3HwMBY7KtwP48qgxw1MnJKk1xY2L9j/nft.gif",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "Ganmichan in the nature #4",
+  "description": "Ganmichan playing with a wanko during magic hour.",
+  "attributes": [
+    {
+      "value": "in the nature",
+      "trait_type": "series"
+    },
+    {
+      "value": "magic hour",
+      "trait_type": "situation"
+    },
+    {
+      "value": "shiba inu",
+      "trait_type": "bro"
+    }
+  ],
+  "minted": "✅"
+}

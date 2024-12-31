@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT4yVi2mfBoipQAkG421Rekr7dF5Ajx5a7LmFsBngA9Ed/nft.jpg",
+  "tokenId": 1,
+  "description": "数字の３を別の角度から解釈し、一つのアートとして制作した作品となっています。",
+  "nftContractAddress": "0x06721b2e36f2822e09d22b214d8230af7d4ba402",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "ナンバースリー",
+  "attributes": []
+}

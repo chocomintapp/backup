@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZmxwGb5z366oJUVx2QTudgM1TVUB2AtVeLw7aSwFqFee/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 67,
+  "chainId": "1",
+  "name": "July 23 ユリ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "7",
+      "trait_type": "月"
+    },
+    {
+      "value": "23",
+      "trait_type": "日"
+    },
+    {
+      "value": "純粋さ",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ユリ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

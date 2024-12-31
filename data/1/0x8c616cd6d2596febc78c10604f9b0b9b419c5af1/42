@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQE6MfRgwt5N6SxFUy3yb6njchV89Rnc4DvPC1vAgCiZC/nft.png",
+  "nftContractAddress": "0x8c616cd6d2596febc78c10604f9b0b9b419c5af1",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "1",
+  "name": "Eggpy #42",
+  "description": "A collection of 9,999 Cute Egg",
+  "attributes": [],
+  "minted": ""
+}

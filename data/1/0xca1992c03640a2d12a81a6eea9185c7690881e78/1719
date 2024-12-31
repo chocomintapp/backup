@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWBEYgf959u7ioAot6qP2Qh33uxG4u18diyySG1mUCtm7/nft.png",
+  "tokenId": 1719,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1719",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rock Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Tassel"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigarette"
+    }
+  ]
+}

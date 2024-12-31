@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb3UbcreppY927CCGJDUeYPxGSdfbo3J1UfCTJLH88pgU/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 182,
+  "chainId": "1",
+  "name": "November 15 チョコレートコスモス",
+  "description": "",
+  "attributes": [
+    {
+      "value": "11",
+      "trait_type": "月"
+    },
+    {
+      "value": "15",
+      "trait_type": "日"
+    },
+    {
+      "value": "新しい恋のはじまり",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "チョコレートコスモス",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVPhwmtyn6vF6ypJ25ZuKcTWyuW972hZBNnBkiJKeMYh8/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "1",
+  "name": "POPET No.42",
+  "description": "【物語】\n\nこの空の向こう、だれも知らない場所。\n僕はいつか辿り着く。\nこの相棒と共に。",
+  "attributes": [
+    {
+      "value": "パイロット",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "飛行場",
+      "trait_type": "origin"
+    },
+    {
+      "value": "ロマンチスト",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

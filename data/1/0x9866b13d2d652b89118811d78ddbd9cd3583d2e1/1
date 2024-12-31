@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVL3c95oVSmZeVq5dDeESauKgkSYKpD37VCkfVDmqvpZZ/nft.jpg",
+  "tokenId": 1,
+  "description": "ひっそりロゴをミント！",
+  "nftContractAddress": "0x9866b13d2d652b89118811d78ddbd9cd3583d2e1",
+  "animationUrl": "https://ipfs.io/ipfs/QmVL3c95oVSmZeVq5dDeESauKgkSYKpD37VCkfVDmqvpZZ/nft.jpg",
+  "chainId": "1",
+  "name": "MissBitcoin LOGO"
+}

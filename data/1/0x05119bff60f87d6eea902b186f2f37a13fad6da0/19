@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbTrLUr7yh9i7h5GEiWkaCC9MEpkQz6ciSGnzQXctx8cb/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "POPET No.19",
+  "description": "【物語】\n\n他の世界の絵本からやってきたPOPET。\nどこか懐かしく、優しい気持ちにしてくれる",
+  "attributes": [
+    {
+      "value": "天使",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "絵本",
+      "trait_type": "origin"
+    },
+    {
+      "value": "優しい",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

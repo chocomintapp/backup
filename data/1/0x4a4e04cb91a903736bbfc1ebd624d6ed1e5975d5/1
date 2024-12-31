@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeXRspjhWKzyG8yx29uDkceh1QtxDT23YRcPNcAV22R7W/nft.png",
+  "tokenId": 1,
+  "description": "My company's logo",
+  "nftContractAddress": "0x4a4e04cb91a903736bbfc1ebd624d6ed1e5975d5",
+  "animationUrl": "https://ipfs.io/ipfs/QmeXRspjhWKzyG8yx29uDkceh1QtxDT23YRcPNcAV22R7W/nft.png",
+  "chainId": "1",
+  "name": "MentaiMafia1",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

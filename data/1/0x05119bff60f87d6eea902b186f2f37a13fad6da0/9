@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWhHjTp1YF5vYh1vAZpCasZwimthHxxXi6oCp5Bdmm4en/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "POPET No.9",
+  "description": "【物語】\n\nはやくお菓子もらって帰ろう。悪戯するのは二人に任せよう。",
+  "attributes": [
+    {
+      "value": "いたずら",
+      "trait_type": "job"
+    },
+    {
+      "value": "Gently present",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ハロウィンキャッスル",
+      "trait_type": "origin"
+    },
+    {
+      "value": "クール",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

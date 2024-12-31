@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPHuUsK3AwXeRmBYGDYt5SsJPcGztMsVTFzK9dcDqCu19/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 132,
+  "chainId": "1",
+  "name": "OLIVIA",
+  "description": "■オリビア",
+  "attributes": [
+    {
+      "value": "Harden",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cry-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie8",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Black",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-anger",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

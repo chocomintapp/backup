@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcL5LGAmojYUYaeSutg2KocSc8xMzYbuEj7unWi6ZLWjb/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 93,
+  "chainId": "1",
+  "name": "August 18 バジル",
+  "description": "",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "18",
+      "trait_type": "日"
+    },
+    {
+      "value": "忍耐力と勇気",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "バジル",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

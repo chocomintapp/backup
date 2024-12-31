@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXRhVVn6u54vFAB2fMQcgcXsfdG4rNbKwPCewL2eiUbXJ/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "1",
+  "name": "MIA",
+  "description": "MIA is a big tax hater.\n\nShe wonders why the government takes so much of the money that she earnestly works for.\n\nWhen she heard that she could get a tax break if she lived in the countryside, she moved to the country and tried her hand at farming.\n\nGreen onions\nPotatoes\nRadish　\n\nare the most common products from her farm.\n■ミア\n\nミアは大の税金嫌い。\n\n真面目に自分で働いたお金をなんでそんなにたくさん国が持っていくのか不思議でしょうがない。\n\n田舎で暮らせば税金が安くなると聞いて移住し、農作業をやってみると、これがドハマリ。\n\n・ねぎ\n・じゃがいも\n・だいこん　\n\nが彼女の畑でよくとれる商品だ。",
+  "attributes": [
+    {
+      "value": "Bright-Orange",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Green",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Ponytail-Emeraldgreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doteye-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-G",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Green",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-happy",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "HeadbandｰGG",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

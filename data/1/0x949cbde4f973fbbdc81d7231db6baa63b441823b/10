@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb7v6wypw6A2iPg27KZLhWGtYP1JBSkKVNmU3jHsDJuXT/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "KO #10",
+  "description": "",
+  "attributes": [
+    {
+      "value": "O",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "K",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "O",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "ko",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

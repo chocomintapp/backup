@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmajCHTiyHApmfi7cSnGFNbSkCiNKRaHe8nsfVCencVQWr/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "1",
+  "name": "POPET No.27",
+  "description": "【物語】\n\nこの絵を見ると思い出す。\n何年過ぎたのか。\nいつまでもわすれないあの日のことを。",
+  "attributes": [
+    {
+      "value": "ジェントルマン",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ミュージアム",
+      "trait_type": "origin"
+    },
+    {
+      "value": "穏やか",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

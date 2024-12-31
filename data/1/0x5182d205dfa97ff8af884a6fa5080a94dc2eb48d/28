@@ -1,0 +1,20 @@
+{
+  "image": "ipfs://bafybeicybft6xdvmw7r7f4t2t5icpt2lc4mytwrrsrxwjmsiava4iufyxi",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "1",
+  "name": "Working Ganmichan#44",
+  "description": "ノリノリのがんみちゃん！ビートの波に乗ってうさぎもついてきた！？",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "hiphop",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

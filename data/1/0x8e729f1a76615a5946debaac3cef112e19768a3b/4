@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYJ42Psuak5ophcH2jbCRTiwudFoqhp4pLGdKw9X3RBqu/nft.png",
+  "nftContractAddress": "0x8e729f1a76615a5946debaac3cef112e19768a3b",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Sala",
+  "description": "This girl is from a good family.\nShe does not make many assertions, but she is a very quick thinker who learns 1 and understands 10.\nShe likes coffee, but only orders the smallest size.",
+  "attributes": [
+    {
+      "value": "Solana",
+      "trait_type": "Blockchain"
+    },
+    {
+      "value": "Gas (Short)",
+      "trait_type": "Items"
+    },
+    {
+      "value": "Smart Contracts",
+      "trait_type": "Types of Cryptocurrencies"
+    }
+  ]
+}

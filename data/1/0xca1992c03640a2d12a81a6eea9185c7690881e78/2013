@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNvUhKv4TiU3sdp4jrHw3L3dHnwnr9bw1exiUJoxLxi8s/nft.png",
+  "tokenId": 2013,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #2013",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Carmine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold 3 Hoop"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Gold Top Heart"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Bengal Cat"
+    }
+  ]
+}

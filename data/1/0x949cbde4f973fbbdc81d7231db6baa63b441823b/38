@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNs85ZBquUGZaHHxcRvnR247PKim2uWprJazeDC7chLcD/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "1",
+  "name": "YU #38",
+  "description": "",
+  "attributes": [
+    {
+      "value": "U",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "Y",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "U",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "yu",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

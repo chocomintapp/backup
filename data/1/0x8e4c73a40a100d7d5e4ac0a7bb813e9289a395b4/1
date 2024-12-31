@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbKZoYRaqiwCgZUBfec7yfS8TQ2KK3F33EMLJAhjPaf24/nft.jpg",
+  "tokenId": 1,
+  "description": "Colorful Cheerful girl.",
+  "nftContractAddress": "0x8e4c73a40a100d7d5e4ac0a7bb813e9289a395b4",
+  "animationUrl": "https://ipfs.io/ipfs/QmbKZoYRaqiwCgZUBfec7yfS8TQ2KK3F33EMLJAhjPaf24/nft.jpg",
+  "chainId": "1",
+  "name": "colorful",
+  "attributes": [],
+  "minted": ""
+}

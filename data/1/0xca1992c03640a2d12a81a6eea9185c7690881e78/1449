@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQiXw89B7oboNHEqdgdPPMDBPbn8a1pQosCnYkbL1vpEs/nft.png",
+  "tokenId": 1449,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1449",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Rhombus"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Silver Dog Tag"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Heart"
+    }
+  ]
+}

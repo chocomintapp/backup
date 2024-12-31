@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUKw9gMJjRa9RvDcCihPoPGjZYSeBiMXFr8VQvX4VmeoE/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "AVA",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "sunburn",
+      "trait_type": "skin"
+    },
+    {
+      "value": "normal_cyan_star",
+      "trait_type": "eye"
+    },
+    {
+      "value": "transparent",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_ear",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Capricorn",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

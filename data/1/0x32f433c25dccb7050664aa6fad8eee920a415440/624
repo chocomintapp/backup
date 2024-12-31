@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcE8UB5UJBBnpK1pWeirW8KhVREs8difPu2Tmjw9nAGjr/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmcmrDraa75fHw8MjEjLVqFnpRzxgZ9vesyHhfMG9NTqmc/nft.mp4",
+  "tokenId": 624,
+  "chainId": "1",
+  "name": "THE JEWEL #624",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Hauynite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Control device"
+    }
+  ]
+}

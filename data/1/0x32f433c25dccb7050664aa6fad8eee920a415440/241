@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZN9nC4UobAsHj9srXXKP7ijDg5J1GEy9hepv35X6XyzA/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmRvY9XXfFkZuaohyzG6Hg57JFo1HHgZMyMnmHYuStuGme/nft.mp4",
+  "tokenId": 241,
+  "chainId": "1",
+  "name": "THE JEWEL #241",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Green Amethyst",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Control device"
+    }
+  ]
+}

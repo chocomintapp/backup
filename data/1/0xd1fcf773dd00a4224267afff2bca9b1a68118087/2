@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVRYrRtxAHoZKah5xXmGcnxrjV3jC9e3WVCEFccyVdaVn/nft.jpg",
+  "nftContractAddress": "0xd1fcf773dd00a4224267afff2bca9b1a68118087",
+  "animationUrl": "https://ipfs.io/ipfs/QmXnmnrDK1TDpkXt5fMXeknVcXLah6XRbjxsQjUcmS1FRj/nft.GIF",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Experiencing Another Dimension",
+  "description": "この度は、「RED°TOKYO TOWER NFT ART展」へご来場いただき、誠にありがとうございました。こちらは、2022年11月15日（火）と11月21日（月）に開催されたGiveawayキャンペーンにお申し込みいただいた方の中から、抽選で５名様に贈られる限定NFTです。「RED°TOKYO TOWER」の持つ先鋭的で近未来的なイメージを自身の作品をモチーフと組み合わせて新たに表現しました。\nmera takeru (メラ タケル)",
+  "attributes": [
+    {
+      "value": "1/6",
+      "trait_type": "Edition"
+    }
+  ]
+}

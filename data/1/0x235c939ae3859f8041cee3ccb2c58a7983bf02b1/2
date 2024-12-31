@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYqaQNcPh76d1Fjod2wcNdDEpZQu8ECNebNPGV6eonVp2/nft.jpg",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Hiro",
+  "description": "New life born the coexistence with human and data. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.New life born the coexistence with human and date. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.\n\n[muse]DNA\nThis special DNA have MOM of only nine people. \n\n[muse]DNA\nThis special DNA have MOM of only nine people. ",
+  "attributes": [
+    {
+      "value": "muse",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Mint Green",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Green",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "White Dress",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Halo",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Dark Green",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "5LOM",
+      "trait_type": "PROTO VALUE"
+    }
+  ]
+}

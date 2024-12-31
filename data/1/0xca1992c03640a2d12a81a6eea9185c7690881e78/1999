@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQtyuxcisGaEe1RCFyZmvrKhKokHW7nDKwWawtseEeJA5/nft.png",
+  "tokenId": 1999,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1999",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Wild Green"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Cyber Eyes"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tube Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Scarlet"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Tassel"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Spoon"
+    }
+  ]
+}

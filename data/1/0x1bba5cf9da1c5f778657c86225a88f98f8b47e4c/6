@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUAMSmzjgTg4Wxh2Rs4h2bWrV5bh3dyVmHwUzmFyMDYut/nft.png",
+  "nftContractAddress": "0x1bba5cf9da1c5f778657c86225a88f98f8b47e4c",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "#015 Tim Reporter in Typhoon",
+  "description": "Tim reports the situation as a TV reporter for live coverage of the typhoon.\nPlease ensure your own safety first!",
+  "attributes": [
+    {
+      "value": "Tim",
+      "trait_type": "CHARACTER"
+    },
+    {
+      "value": "Job",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Reporter",
+      "trait_type": "JOB"
+    }
+  ]
+}

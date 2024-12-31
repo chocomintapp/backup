@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc6fgJucUPGAumQacr5EzzDi9RaxWu7vKyDkxnoYrp2on/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 150,
+  "chainId": "1",
+  "name": "October 14 チコリ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "月"
+    },
+    {
+      "value": "14",
+      "trait_type": "日"
+    },
+    {
+      "value": "質素",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "チコリ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

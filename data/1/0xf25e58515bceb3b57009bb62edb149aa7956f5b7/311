@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSUVnY1N1bJBk17e6nz3ziPYF7ttath1b28bVSf1LadDE/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 311,
+  "chainId": "1",
+  "name": "HAILEY",
+  "description": "■ハイリー",
+  "attributes": [
+    {
+      "value": "deep in the countryside3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open3",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cry-BloodyDarkblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Whitelightgreen",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-red(WE）",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Mitama black-nihility",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

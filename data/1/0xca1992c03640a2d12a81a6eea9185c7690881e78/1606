@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ2aqA7at41ATmJJxEYsdsjds9k2FCscF7Peyt5h6aEed/nft.png",
+  "tokenId": 1606,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1606",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Cool Blue"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "See-Through"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Pink Pearls"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Letter"
+    }
+  ]
+}

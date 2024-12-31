@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQbjV3KfWTC83m5UugUvniKMds4mEC7jNADfbdkusczBK/nft.gif",
+  "tokenId": 27,
+  "description": "Uruk  \n古代オリエントの川の近くで粘土板を見つけた  \nHe found a clay tablet near a river in the ancient Orient.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmVAWcGRo7kcwZhpc9UV4d4YicgzNpgjTT79QFe6EVdXgR/nft.mp4",
+  "chainId": "1",
+  "name": "Uruk #027",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Ancient"
+    }
+  ]
+}

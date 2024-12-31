@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZw3kwQCnrT9aU5KVDZnaMZp4gGftHxC3ZM7g1jBA7273/nft.jpg",
+  "tokenId": 29,
+  "description": "The turtle wears the Italian flag colored turtle shell.",
+  "nftContractAddress": "0x815c4f6b8c29f0ed47ea55b61209c3cd7f74d311",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Italian turtle",
+  "attributes": []
+}

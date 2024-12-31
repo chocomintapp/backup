@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXHNCD9ZYB1Pr58f5HnALrn6u36CoV6uUyvMXphq6EFxm/nft.png",
+  "nftContractAddress": "0xbb158596b636c1132b1f0fdbba1009903f3c5994",
+  "animationUrl": "https://ipfs.io/ipfs/QmXHNCD9ZYB1Pr58f5HnALrn6u36CoV6uUyvMXphq6EFxm/nft.png",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "NFTJPN Official #7",
+  "description": "NFTJPN official NFT #7 created exclusively for the sponsor of the 9th Curation Event on July 9, 2022. - Artist: Asura @ASURANOVEMBER",
+  "attributes": [
+    {
+      "value": "Asura ",
+      "trait_type": "Artist"
+    },
+    {
+      "value": "July 9, 2022 ",
+      "trait_type": "Date"
+    },
+    {
+      "value": "9th Curation",
+      "trait_type": "Event"
+    }
+  ],
+  "minted": "✅"
+}

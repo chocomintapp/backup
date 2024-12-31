@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbVFGrku5yGmqbwxr7Bbvk8anvqzPrzF9n7CLUKhHpeZ8/nft.PNG",
+  "nftContractAddress": "0x35fe70703731ceaf4da675c01c60db2bd24157e9",
+  "animationUrl": "https://ipfs.io/ipfs/QmVc2vyhepHBnqZvpUYqMbPAT7DZpB9djxASkztXXmZGko/nft.mp4",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "KYOSO ",
+  "description": "KYOSO - Water : TOKYOITE Music NFT Project\nMusic : MURPH , EdoLena \nArtworks : EdoLena \nVVAVE3 Live Limited Edition for hunisan\nThis full length music is available for one year CC0 from the date of airdropping.",
+  "attributes": [
+    {
+      "value": "Water",
+      "trait_type": "KYOSO"
+    }
+  ]
+}

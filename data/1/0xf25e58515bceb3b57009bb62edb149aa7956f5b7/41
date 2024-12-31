@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQiW7WVTGomut1CaWwZXtH8UTV1JdNu9wmWnQg1S2x1a5/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 41,
+  "chainId": "1",
+  "name": "ELSA",
+  "description": "A mysterious girl who can communicate with trees and animals.\n\nShe has a mysterious ability, she sometimes cures people's injuries and illnesses.\n\nWhen she gives a saury to a person, the person is overjoyed and starts to do a mysterious dance around the person she gave it to, but it has no particular effect.\n■エルサ\n\n木々や動物と会話ができる不思議な少女。\n\n不思議な能力で、たまに人の怪我や病を治す。\n\nサンマを渡すと大喜びで、渡した人間の周りで不思議な踊りをしだすが、特に効果はない。",
+  "attributes": [
+    {
+      "value": "MIX7",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Lightgreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Green",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-Green",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Surprised-Green",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury-Green",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Green",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

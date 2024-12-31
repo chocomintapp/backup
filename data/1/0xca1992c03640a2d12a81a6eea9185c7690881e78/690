@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZLxmxUAga1fkEZGwpCPMJK5nbEdZbkTdDEWmyenRGE5V/nft.png",
+  "tokenId": 690,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #690",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Rhombus"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Letter"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Blue Ribbon"
+    }
+  ]
+}

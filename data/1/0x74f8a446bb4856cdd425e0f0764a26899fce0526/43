@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTj2ASzEGqeudAjjdXV7L59F6Z9484dnEt4jyaYwwQWSy/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "1",
+  "name": "POCOEMOJI_hoo",
+  "description": "隠蔽ちゃん/Inpei-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    },
+    {
+      "value": "Scala",
+      "trait_type": "SERIES"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQWXy7TnEkuJw5YJdYTgLkwN48GBSpastqgQjGiU2o4nx/nft.png",
+  "tokenId": 288,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #288",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Faint Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Apron"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Circle"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Silver Dog Tag"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Orange Slice"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Red Glasses"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Siamese Cat"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVHTDKmFXYoTpKECwmJcs2FPq91a9urwuq8UNgNhPxp3Z/nft.png",
+  "tokenId": 2,
+  "description": "A series of illustrations on the theme of death\n\n「sky burial」\n\nillustration: ooshima",
+  "nftContractAddress": "0xf34edd3fff9231ed28beb9572b7378f997ec7003",
+  "animationUrl": "https://ipfs.io/ipfs/QmVHTDKmFXYoTpKECwmJcs2FPq91a9urwuq8UNgNhPxp3Z/nft.png",
+  "chainId": "1",
+  "name": "sky burial"
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQki5kYYxxVFkzn196pi4SnMJzYWUu78xpvjTkKNKwv5f/nft.mp4",
+  "nftContractAddress": "0xe5e541c33576f4d56ddcb3a3453d2c7975482c81",
+  "animationUrl": "https://ipfs.io/ipfs/QmQki5kYYxxVFkzn196pi4SnMJzYWUu78xpvjTkKNKwv5f/nft.mp4",
+  "tokenId": 396,
+  "chainId": "1",
+  "name": "Festival ticket No.446",
+  "description": "サインが封入されているとの噂。\nさあ、チケットの裏面を見てごらん。\n\nこれをレアと思うかどうかはあなた次第...",
+  "attributes": [
+    {
+      "value": "2.5%",
+      "trait_type": "sign"
+    }
+  ],
+  "minted": ""
+}

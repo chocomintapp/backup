@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQczBY9fKxiaNTzZQo9MZyKnKBcDXEXnF3tVmBgJcKTsY/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "1",
+  "name": "POPET No.40",
+  "description": "【物語】\n\nこの街は好きだけど、\n私の夢は街の外にあるからここには長くいられない。hayakuokanewo ",
+  "attributes": [
+    {
+      "value": "ウェイトレス",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "カフェ",
+      "trait_type": "origin"
+    },
+    {
+      "value": "アグレッシブ",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW1cDZ1VjETSaL5ZzQxqttcEGVJGXusfj9Fs8JH92f5FJ/nft.gif",
+  "nftContractAddress": "0xf6327d575dfd4f182dfe2d5f9fe1cbe87eec52e8",
+  "animationUrl": "https://ipfs.io/ipfs/QmW1cDZ1VjETSaL5ZzQxqttcEGVJGXusfj9Fs8JH92f5FJ/nft.gif",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "だぎちゃん",
+  "description": "ダギーダギーの中の人\n\n[ダギーダギー](https://opensea.io/collection/dagii-dagii)",
+  "attributes": []
+}

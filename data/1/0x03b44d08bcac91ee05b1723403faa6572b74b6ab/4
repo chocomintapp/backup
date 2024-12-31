@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaLuYXC8RPcMCKzSezwxXbg3hXDa7TZ5gvx3jcqkvnHkf/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmZcWjRbKEVoELTycd4xso7ghEVL5JpUuUGU72pVYvELyB/nft.mp4",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "#036 WaterMan",
+  "description": "WaterMan\n\n- Nature Series\n- 3DCG Turntable\n- 1920 x 1920px",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Nature",
+      "trait_type": "Type"
+    }
+  ]
+}

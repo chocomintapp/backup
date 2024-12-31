@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbJG9J1kR5RbkowW8VAk3HBGvuhMxAjLQFQhHkjGgcfso/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 89,
+  "chainId": "1",
+  "name": "Ceylan",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "light",
+      "trait_type": "skin"
+    },
+    {
+      "value": "stylish_large_red",
+      "trait_type": "eye"
+    },
+    {
+      "value": "black05",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "mars_glass",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Canes Venatici",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

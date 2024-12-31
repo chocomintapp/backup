@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd6womA246JDAxG7rMF9HGxM3o2nhhq4wpVWgoDufxcUY/nft.png",
+  "tokenId": 1,
+  "description": "\"Demi Demon\" = \"Demon\" x \"Unknown\" Leviathan Tanaka\n「デミデーモン」デーモン種族の特殊亜種。名前はリバイアサン田中。\n\n半人半悪魔のモンスター娘。赤い肌とネオンカラーの金髪、尖った耳など、mamonomaniaを代表する特徴を持つ。\n\nA half-human, half-demon monster girl. With red skin, neon-colored blond hair, and pointed ears, she has the characteristics that typify mamonomania.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#000 \"Demi Demon\" Leviathan Tanaka",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

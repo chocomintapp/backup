@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVbcLCuDWqRAwRABLpGTHZ1UhyfyMW4tWPrA5DmMsLtCQ/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "TSUMUGI",
+  "description": "TSUMUGI loves cats and the color pink.\n\nShe even chose her high school because of its pink uniform.\n\nAlthough she professes to love cats, she always wears a catsuit with rabbit ears.\n\nShe herself wonders why she doesn't buy cat ears.\n■ツムギ\n\n猫とピンク色が大好きなツムギ。\n\n制服がピンクという理由で高校も選んでいるくらいだ。\n\n猫が好きと公言しているが、カチューシャはいつもウサギの耳のを使用している。\n\n彼女自身も、なぜ猫耳を買わないのか不思議らしい。",
+  "attributes": [
+    {
+      "value": "Light-Purple",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Pink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-PBW",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Tora",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Pink",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP1WwvJuptcN9SrVrSihFHpJNyKAfdhPRqhmjfw6LbP9v/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmTd88ENNDEo97ZXrGnLNEUNv47Uhf8LHdajTzwWarPwEV/nft.mp4",
+  "tokenId": 61,
+  "chainId": "1",
+  "name": "Laza #061",
+  "description": "Laza  \n先見の明のある芸術家  \nA visionary artist",
+  "attributes": [
+    {
+      "value": "Construct",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Mimi",
+      "trait_type": "VOICE"
+    }
+  ]
+}

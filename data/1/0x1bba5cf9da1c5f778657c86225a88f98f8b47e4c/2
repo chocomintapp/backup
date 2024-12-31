@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc2Tc4qUg4G7Zm6WDgoec6H2hvSPUiyFC4b52cDnvg2jH/nft.png",
+  "nftContractAddress": "0x1bba5cf9da1c5f778657c86225a88f98f8b47e4c",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "#011 Tim Ramen Master",
+  "description": "Tim is the master of a Japanese ramen shop.\nHis dream is to have ramen lovers in New York, London, and around the world eat his ramen!",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Tim",
+      "trait_type": "CHARACTER"
+    },
+    {
+      "value": "Job",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Ramen Master",
+      "trait_type": "JOB"
+    }
+  ]
+}

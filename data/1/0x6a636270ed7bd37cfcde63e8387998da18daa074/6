@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfS7YHLf63wWFQ9AESim3PqGk7KL1dc56ffPkZuQK7XSq/nft.jpg",
+  "tokenId": 6,
+  "description": "A thundercloud wriggling inside a sphere.\nA swirling storm on the surface.\nAn orb representing the universe.\n\n球体の中に蠢く雷雲。\n表面の渦巻く嵐。\n宇宙を表すオーブ。",
+  "nftContractAddress": "0x6a636270ed7bd37cfcde63e8387998da18daa074",
+  "animationUrl": "https://ipfs.io/ipfs/QmfS7YHLf63wWFQ9AESim3PqGk7KL1dc56ffPkZuQK7XSq/nft.jpg",
+  "chainId": "1",
+  "name": "Orb",
+  "attributes": [],
+  "minted": "✅"
+}

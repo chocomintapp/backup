@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZSCQQXvr1MeRNCs1964Wazc82b5Zq4u1sc1ycXGTfgzx/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 355,
+  "chainId": "1",
+  "name": "May 6 バラ（蕾）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "6",
+      "trait_type": "日"
+    },
+    {
+      "value": "希望と夢",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "バラ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

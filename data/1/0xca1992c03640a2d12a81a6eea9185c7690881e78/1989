@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWPfcNHexyEHA4S7phHty83x3amttrCsCBZR6sscgZ5PW/nft.png",
+  "tokenId": 1989,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1989",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Rainbow Beads"
+    },
+    {
+      "trait_type": "Item",
+      "value": "French Fries"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Western Hat"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Angel"
+    }
+  ]
+}

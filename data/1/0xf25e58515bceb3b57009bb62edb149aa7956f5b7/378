@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVZX1MFXuT9RiforXPxEFDJKJSwhgB7wbpPc5kihhKw2P/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 378,
+  "chainId": "1",
+  "name": "桜兎　梵樹",
+  "description": "■BONJU　SAKURATO\n■サクラト　ボンジュ\n■CNPR購入優先権付",
+  "attributes": [
+    {
+      "value": "Right side of the heavens(HumanR)",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew3",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Lolitahair",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "AnisuBody",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-Black(NE）",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Kimera-Orotama",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

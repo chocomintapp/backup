@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc9F1jG1xucK1RA44GXzr86Lk6zHpktRWZ4Nk3bPVPv7w/nft.jpg",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "Fin",
+  "description": "New life born the coexistence with human and data. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.\n\n[Trimūrti]DNA\n???",
+  "attributes": [
+    {
+      "value": "Trimūrti",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Dark Gray",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Black Dress",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Halo",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Dark Gray",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "10LOM",
+      "trait_type": "PROTO VALUE"
+    }
+  ]
+}

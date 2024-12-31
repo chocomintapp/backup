@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWQHK9sxTw2saN9ztC8Z6jRY1vp131AW6XC6DoL3HFrFE/nft.jpg",
+  "tokenId": 11,
+  "description": "Over the Magic Forest flies the bubble copter armed with its' BubbleGun\nKrs 2008",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmWQHK9sxTw2saN9ztC8Z6jRY1vp131AW6XC6DoL3HFrFE/nft.jpg",
+  "chainId": "1",
+  "name": "Bubblecopter"
+}

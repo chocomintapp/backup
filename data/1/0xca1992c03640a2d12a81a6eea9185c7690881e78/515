@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdVbvA5Y6uRLWWF1bsjaEwpi6nY86WNkqDYE5pY6NXaoc/nft.png",
+  "tokenId": 515,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #515",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Cool Blue"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tube Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Flower Lei"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Round"
+    }
+  ]
+}

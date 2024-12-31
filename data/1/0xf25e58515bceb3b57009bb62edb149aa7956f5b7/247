@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeBfXJaag3VvjY9LqnynfWYN9Gno7SMrCcMh4kPZVFUcS/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 247,
+  "chainId": "1",
+  "name": "NECCA",
+  "description": "■ネッカ",
+  "attributes": [
+    {
+      "value": "Rainbow-Mix2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Mix4",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-blue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WY",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

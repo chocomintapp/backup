@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYX5E2YH8YqfiZJEXePnMgdN5zWNTki5BkNsbSUm8Zpe8/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "1",
+  "name": "POPET No.33",
+  "description": "【物語】\n\n秘密結社POPEXのリーダー。\nテレパシーで会話をし、相手の心を読む。\n普段は小学校に通っている。",
+  "attributes": [
+    {
+      "value": "POPEX",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "秘密基地",
+      "trait_type": "origin"
+    },
+    {
+      "value": "天才",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

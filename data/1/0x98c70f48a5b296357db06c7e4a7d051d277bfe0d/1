@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSNZZuvz9HDYMP3nv9jWiht2KzCJk3hQCU4tBjhP5voEn/nft.jpg",
+  "tokenId": 1,
+  "description": "エリカアート1",
+  "nftContractAddress": "0x98c70f48a5b296357db06c7e4a7d051d277bfe0d",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Miraculous dog"
+}

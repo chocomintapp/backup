@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeZhDxx5WgLorABk379PoUZiRsmJzGLszuqKe8puqDzbq/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmRRsmksyFL6ajjUStALz9gZNb3LgQPFDLeroDHrXC9WNe/nft.mp4",
+  "tokenId": 548,
+  "chainId": "1",
+  "name": "THE JEWEL #548",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Gold K22",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

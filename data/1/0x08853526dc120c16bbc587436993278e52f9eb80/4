@@ -1,0 +1,67 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS188BPXm5gtfzb6qs7xLGZNmtQtrCNptuK62JBD2QaWh/nft.png",
+  "nftContractAddress": "0x08853526dc120c16bbc587436993278e52f9eb80",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "二間淘汰",
+  "description": "Villain side hideout #2\n\n\"Double quote\"\nOfficially, a finance business organization.\n\nUnnecessary things get eliminated...\nThat`s just how it is.\n\n\n敵側 アジト#2\n\n表向きは金融業、\n『ダブルクオート』\n\n必要のないモノはトウタされるだけです。\nそれが自然の摂理です。",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "the MAN",
+      "trait_type": "Belief"
+    },
+    {
+      "value": "Double quote",
+      "trait_type": "Location"
+    },
+    {
+      "value": "human",
+      "trait_type": "Species"
+    },
+    {
+      "value": "none",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "10",
+      "trait_type": "apearance"
+    },
+    {
+      "value": "8",
+      "trait_type": "charisma"
+    },
+    {
+      "value": "8",
+      "trait_type": "intelligence"
+    },
+    {
+      "value": "3",
+      "trait_type": "luck"
+    },
+    {
+      "value": "5",
+      "trait_type": "mana"
+    },
+    {
+      "value": "5",
+      "trait_type": "speed"
+    },
+    {
+      "value": "4",
+      "trait_type": "spirit"
+    },
+    {
+      "value": "6",
+      "trait_type": "toughness"
+    },
+    {
+      "value": "5",
+      "trait_type": "strength"
+    }
+  ]
+}

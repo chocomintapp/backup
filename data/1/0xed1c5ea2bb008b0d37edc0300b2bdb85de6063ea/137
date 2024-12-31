@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTqJmu4bgjkdabqiTHeAvT4HtLpuxZ5TSrfC8Z9VNvvzp/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 137,
+  "chainId": "1",
+  "name": "GG",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "Ursa Major",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

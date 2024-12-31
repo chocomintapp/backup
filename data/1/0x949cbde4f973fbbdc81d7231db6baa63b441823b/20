@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdStBPaFAS5gJ1DyYGkKrJ7NtZVihcvVo5b34N1KzB5rA/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "TO #20",
+  "description": "",
+  "attributes": [
+    {
+      "value": "O",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "T",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "O",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "to",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

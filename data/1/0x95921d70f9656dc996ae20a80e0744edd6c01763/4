@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUBcVX9rJqtJBgwUxdXuCfJ2aTuhXFnQmceGiH1fJHfpX/nft.jpg",
+  "nftContractAddress": "0x95921d70f9656dc996ae20a80e0744edd6c01763",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "SHO ARTWORKS #004",
+  "description": "Kaminoke Fish",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "23",
+      "trait_type": "Speed"
+    }
+  ]
+}

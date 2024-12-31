@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW3ettempcpwSojZ3zjpkRbZs6efN7TWQU9WCYHTVdm8t/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmbR3F1yzW8HhFck5mAnensUmpHKrqm3CiSg88sgaoMjW8/nft.mp4",
+  "tokenId": 200,
+  "chainId": "1",
+  "name": "THE JEWEL #200",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Brown Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Bronze",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdeMh4KLjWVonueq18TEtpPQLdEkESmvYu4Z4Mk4Uwe2B/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "1",
+  "name": "MU #33",
+  "description": "",
+  "attributes": [
+    {
+      "value": "U",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "M",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "U",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "mu",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

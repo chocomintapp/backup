@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX8we4A1vx41o3ScnkgG662pjKHTqbiVg7KK8QYCHBYcx/nft.png",
+  "tokenId": 1576,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1576",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Slip"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold 3 Hoop"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Ben Franklin"
+    }
+  ]
+}

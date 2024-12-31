@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR14Wpfe52TjamLLpsjJWVUhutNp8BYxM46yXL9rfXHzN/nft.png",
+  "nftContractAddress": "0x89da7153f3602fa4dca6740346ef75e5ff162837",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "CG Campers feat. #053 ICC「覇」",
+  "description": "「CoolGirl春のファンアートコンペ」に応募したイラスト。",
+  "attributes": [
+    {
+      "value": "Cheers",
+      "trait_type": "Favorite"
+    },
+    {
+      "value": "Gathering friends",
+      "trait_type": "Hobby"
+    }
+  ]
+}

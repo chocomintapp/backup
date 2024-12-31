@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc5FbRFNtHuwuHjzbEWRpqSFUdHJLanPUdBd7qePb7J8J/nft.gif",
+  "tokenId": 21,
+  "description": "Prune  \n大人しいが活力に満ちあふれている  \nMature but full of vitality",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmVJStKuSKLuqrKeuoewAmw3T3BzPa848MyfJR5Aro2F1Q/nft.mp4",
+  "chainId": "1",
+  "name": "Prune #021",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "EYE",
+      "value": "Three-Eyes"
+    },
+    {
+      "trait_type": "VOICE",
+      "value": "Mimi"
+    }
+  ]
+}

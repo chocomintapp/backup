@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ13xVP7bN5v23HkrG7h8q6FfZ59xMKbuCDcCBTeozgCY/nft.png",
+  "nftContractAddress": "0xca6aec18e85c23583d98ae65f78080fcedb046a4",
+  "animationUrl": "",
+  "tokenId": 65,
+  "chainId": "1",
+  "name": "065 One-side Lovers : Series02-Beach [Walk on the beach]",
+  "description": "■Fukuyoshi Rokka's Artwork collection \n\"One-side Lovers”\nSeries02-Beach\n\n福吉ロッカのアートワークコレクション\n「One-side Lovers」\nシリーズ２-Beach",
+  "attributes": [
+    {
+      "value": "Beach",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Caramel Blonde",
+      "trait_type": "Hair-color"
+    },
+    {
+      "value": "Short Bob",
+      "trait_type": "Hair-style"
+    },
+    {
+      "value": "None",
+      "trait_type": "Item"
+    },
+    {
+      "value": "02/Beach",
+      "trait_type": "Series-number"
+    },
+    {
+      "value": "Blue Sky",
+      "trait_type": "Sky"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "Swimsuit-color"
+    },
+    {
+      "value": "Triangle Bikini",
+      "trait_type": "Swimsuit-type"
+    }
+  ],
+  "minted": "✅"
+}

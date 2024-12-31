@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUZh8p9aZRYtc4vEf2Vkr77MT1ij5cFPog1azxv4Zqm4w/nft.png",
+  "tokenId": 14,
+  "description": "",
+  "nftContractAddress": "0x73509e51e8fc20f58978a86206b7a225a5116ee6",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #14",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Ears",
+      "value": ""
+    },
+    {
+      "trait_type": "Neck",
+      "value": ""
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Heart Silver"
+    }
+  ]
+}

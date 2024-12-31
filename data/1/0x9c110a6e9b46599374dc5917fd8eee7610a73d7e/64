@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZq37uN1E4fMwb1QvQeqUf1nkq9od5pWqzSPdC12d4CUo/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 64,
+  "chainId": "1",
+  "name": "POCO_Christin",
+  "description": "Christin-Chan\n\n",
+  "attributes": [
+    {
+      "value": "Bordeaux",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Curious",
+      "trait_type": "PERSONALITY"
+    }
+  ],
+  "minted": "✅"
+}

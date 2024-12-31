@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRUaZWyiUj54efrAPz8RSA2psoeYEKaPfQNMrtcog3YNC/nft.png",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "溟[May]",
+  "description": "「煩いのは嫌いなの。」\n\n月の世界に存在。基本的に無口で、何を考えているのかわからないことも多数。\n\nふーん。へぇ。など一言での会話がとても多い。\n\n一方で猫がとても好きで猫に対してはすぐ心を開く。",
+  "attributes": [
+    {
+      "value": "月",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

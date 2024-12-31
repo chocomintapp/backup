@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZLiEzwcLh9fPG6CAX8YQ2CwirWHunA4WtJYXaaFdN6uY/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmfVogNnYjywTMDny3xFTEh8FB3RYue14P5e6YbUPkQLFv/nft.mp4",
+  "tokenId": 244,
+  "chainId": "1",
+  "name": "THE JEWEL #244",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Brown Hessonite Garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNeuSDtXbBivqiyZj52nrwvRR48sJyQnkeRdZPnxeQwf6/nft.gif",
+  "tokenId": 3,
+  "description": "She is eating beef bowl",
+  "nftContractAddress": "0x7d3aad3756f4a3fed20a99242145a651f56e35d7",
+  "animationUrl": "https://ipfs.io/ipfs/QmNeuSDtXbBivqiyZj52nrwvRR48sJyQnkeRdZPnxeQwf6/nft.gif",
+  "chainId": "1",
+  "name": "Donburi girl"
+}

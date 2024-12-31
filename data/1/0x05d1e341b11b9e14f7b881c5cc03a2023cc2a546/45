@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVUCGviTFAQuqw5ty4jCag8WGNWFbFfYbJeWdCQZgdoJQ/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmeXREH5u7oHwidKbwhAP58pqnQXJj3tHpoBzzMJi7K9GC/nft.mp4",
+  "tokenId": 45,
+  "chainId": "1",
+  "name": "O-S #045",
+  "description": "O-S  \n031とオリジナルアートを揃える事で産まれた新しいMIMI  \nNew MIMI spawned by collecting 031 and original art",
+  "attributes": [
+    {
+      "value": "Hidden",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Three-Eyes",
+      "trait_type": "EYE"
+    }
+  ]
+}

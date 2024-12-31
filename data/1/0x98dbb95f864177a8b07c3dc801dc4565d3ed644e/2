@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcQVaMZsfLk3GuMg17jxGxFT2dPtSouEYhMuYxExZBSSf/nft.jpg",
+  "tokenId": 2,
+  "description": "HeyHey",
+  "nftContractAddress": "0x98dbb95f864177a8b07c3dc801dc4565d3ed644e",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Roninja"
+}

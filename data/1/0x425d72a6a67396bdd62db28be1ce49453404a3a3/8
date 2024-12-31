@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQcVB1zn1jrNTzswymydM99L1DjHXN3tgmGcLRtiaRGr6/nft.png",
+  "nftContractAddress": "0x425d72a6a67396bdd62db28be1ce49453404a3a3",
+  "animationUrl": "https://ipfs.io/ipfs/QmbMXUEUEaWMfVezVqXJeDxi12vfyrTUxkRa77w9uY6Gj4/nft.mp4",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "NEW STAGE Edition08",
+  "description": "We have created an anthem for the web3 era.\n\n\n(MISOSHITA) poemcore\n\n(EdoLena) Vocal / English Lyrics\n\n(mera takeru）piano/arrange\n\n(Clone X Theme Song (instrumental)- Snoop Dog Prod. by Dr. Bombay) Beat\n\n(zukio) mix / mastering\n\n\n(ArtWork) mera takeru\n",
+  "attributes": [
+    {
+      "value": "mera takeru",
+      "trait_type": "ArtWork"
+    }
+  ]
+}

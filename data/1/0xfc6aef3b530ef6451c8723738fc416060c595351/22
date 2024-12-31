@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSS6QEpvUphQ74nP5w4VAEFcSZ7dt1XurwBBvTjJWU5RZ/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "DOGE DEC062013",
+  "description": "File: PNG  \nSize: 2048x2048  \nTotal supply: 1  \nDogecoin was born on December 6th, 2013. Never mind the unwavering fact that this piece was minted on the date which was irrelevant to December 6th.  ",
+  "attributes": [
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "Face",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "Mother",
+      "trait_type": "genaration"
+    }
+  ]
+}

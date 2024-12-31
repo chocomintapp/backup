@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme68tnKnr7siQYkSdVwsvAzznLJv9grY9ANbQ5hKUYm7E/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 394,
+  "chainId": "1",
+  "name": "KOHANE",
+  "description": "■コハネ",
+  "attributes": [
+    {
+      "value": "Dot8",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks2",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "licking one's lips",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Long-Joker",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Odd3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Magic-user",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dominion",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

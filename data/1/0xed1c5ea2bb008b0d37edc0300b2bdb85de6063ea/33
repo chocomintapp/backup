@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT7pUHYvSFSDHwkfYq8YVfTh7crp1od9CnFxKNSUG6wfh/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "1",
+  "name": "Bradley",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "normal",
+      "trait_type": "skin"
+    },
+    {
+      "value": "stylish_blue_star",
+      "trait_type": "eye"
+    },
+    {
+      "value": "pink06",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "mars_glass",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Gemini",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

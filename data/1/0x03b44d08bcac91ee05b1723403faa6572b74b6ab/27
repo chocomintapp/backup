@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNqWdnstyzXSkwQtPBHAB9fiG4SBgrwngDB92MVY7FKKU/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmQQjE1aGstVmMpDVygSye8znV41xPRMMb2hXvAa5RiZPp/nft.mp4",
+  "tokenId": 27,
+  "chainId": "1",
+  "name": "#053 BarbecueSauceMan",
+  "description": "BarbecueSauceMan\n\n- Food Series\n- 3DCG Turntable\n- 1920 x 1920px",
+  "attributes": [
+    {
+      "value": "Food",
+      "trait_type": "Type"
+    }
+  ]
+}

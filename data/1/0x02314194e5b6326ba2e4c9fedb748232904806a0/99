@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRhvV2Tp3mEaph41zBttZR573uBcBdR6frnTy5wcNQUbG/nft.png",
+  "nftContractAddress": "0x02314194e5b6326ba2e4c9fedb748232904806a0",
+  "animationUrl": "",
+  "tokenId": 99,
+  "chainId": "1",
+  "name": "#005-烏羽[凪]",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "凪",
+      "trait_type": "属性"
+    }
+  ]
+}

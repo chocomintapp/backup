@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVWFfwyMNa4jQ88GEytnBth2i6Pxujh6sYeNL8Uhyu4y3/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 211,
+  "chainId": "1",
+  "name": "AHIRU",
+  "description": "■アヒル",
+  "attributes": [
+    {
+      "value": "Ninja3-Rainbow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Duckstyle-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Orange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Duck",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Piyochi-cry",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Duck Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

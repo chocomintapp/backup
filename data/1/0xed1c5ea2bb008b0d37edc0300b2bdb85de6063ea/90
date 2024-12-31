@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb9tQeyo2N8eo8eDeUvC2DodRd4WsuBxWS6gftYZ8wHop/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 90,
+  "chainId": "1",
+  "name": "Intercrus",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "skin"
+    },
+    {
+      "value": "stylish_silver",
+      "trait_type": "eye"
+    },
+    {
+      "value": "blue12",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "mars_glass",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Ursa Major",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

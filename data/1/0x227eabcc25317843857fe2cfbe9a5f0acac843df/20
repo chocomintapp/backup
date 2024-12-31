@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY6gCHbxxx5zPQo5dCWQ1hp2wk9NaXAD293uh7F1Mbzy3/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "Beach Borne Bae #48",
+  "description": "Beach Borne Bae #48\nInspired by Tufted puffin / エトピリカ",
+  "attributes": [
+    {
+      "value": "Long",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "See Through",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Salmon",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Seabird",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV9y8R2wp1VgjTNmULtFFtwhC5CsqBQ5B6w5NWLG4LpVp/nft.png",
+  "tokenId": 886,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #886",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovey Dovey"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Faint Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "See-Through"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Drink Cup"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Plumeria"
+    }
+  ]
+}

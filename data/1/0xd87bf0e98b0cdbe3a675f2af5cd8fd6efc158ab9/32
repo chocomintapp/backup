@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmatwrt3BkKV2RZxAcQBoS4LqFcup9X3rgtTBg6AntGykr/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "1",
+  "name": "THS #066",
+  "description": "【薩】",
+  "attributes": [
+    {
+      "value": "acorn",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "eel",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "iris flower",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "lotus bud",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "salmon",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

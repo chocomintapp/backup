@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSfBKaEYsmQj4JWYvj9ZcaodfJWJXQ3X9upnWmkRGYCJr/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "ワイがサトシ",
+  "attributes": [
+    {
+      "value": "ナカムラ",
+      "trait_type": "人物"
+    },
+    {
+      "value": "レーザーゴーグル",
+      "trait_type": "メガネ"
+    },
+    {
+      "value": "BitCoin",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "ビームソード",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "サイバーアーマー",
+      "trait_type": "服装"
+    }
+  ],
+  "minted": "✅"
+}

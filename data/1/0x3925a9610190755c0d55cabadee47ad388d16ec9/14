@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQKSZha8rhiDaq2PEeBSc265Zq3opmNmzhtrQzsbYhT5V/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "Zetsu",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "KIMONO",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Penko Popomura ",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "NOMAL",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "SAMURAI SWORD",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "CYBORG",
+      "trait_type": "RACE"
+    }
+  ]
+}

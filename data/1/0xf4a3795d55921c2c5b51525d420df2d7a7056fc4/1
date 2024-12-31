@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWaic1RaRWGDM2V27H66rH9LqbVVRsscYkGx7S8PsSVVf/nft.png",
+  "nftContractAddress": "0xf4a3795d55921c2c5b51525d420df2d7a7056fc4",
+  "animationUrl": "https://ipfs.io/ipfs/QmYKwk8E7HjYgA9RvKSBTTngh4dFc4sMRsTRLoxVR4DVcR/nft.mp4",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "masque J red",
+  "description": "The mask hides your true feelings, trying to protect yourself.",
+  "attributes": [],
+  "minted": ""
+}

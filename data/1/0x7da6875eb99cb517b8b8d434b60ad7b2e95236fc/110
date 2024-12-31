@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbfjFmhVGksiuWh7b6bCehRMDJFvmkJ2oJ9NKEcJEKjHv/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 110,
+  "chainId": "1",
+  "name": "KAIKA #110",
+  "description": "",
+  "attributes": [
+    {
+      "value": "dark",
+      "trait_type": "energy"
+    },
+    {
+      "value": "fissure",
+      "trait_type": "extra"
+    },
+    {
+      "value": "foxy",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "green",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "long layered",
+      "trait_type": "hair"
+    },
+    {
+      "value": "half and half",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "lip bite",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "deep dark",
+      "trait_type": "skin tone"
+    }
+  ]
+}

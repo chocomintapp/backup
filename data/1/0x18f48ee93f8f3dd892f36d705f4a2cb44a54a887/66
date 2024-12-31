@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVD9Fas8wiswqURy4VbRK39ETXW3buuUriZUVQnJCbro3/nft.png",
+  "tokenId": 66,
+  "description": "Urahara Token Club",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmVD9Fas8wiswqURy4VbRK39ETXW3buuUriZUVQnJCbro3/nft.png",
+  "chainId": "1",
+  "name": "UTC1",
+  "attributes": []
+}

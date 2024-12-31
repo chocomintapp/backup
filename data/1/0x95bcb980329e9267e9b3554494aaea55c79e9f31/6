@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRT3KzVp1TRMMmhqFYsqfwxpfveLpEigFAZPmCjmWyYeC/nft.png",
+  "nftContractAddress": "0x95bcb980329e9267e9b3554494aaea55c79e9f31",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "＃006F~My gift is blue eyes and a silver bullet~",
+  "description": "This work is a fan art of Mishiro Rei.",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "AGE"
+    },
+    {
+      "value": "Mishiro Rei",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "GUN",
+      "trait_type": "WEAPON"
+    }
+  ]
+}

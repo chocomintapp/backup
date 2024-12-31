@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmReVm7ZbM8XP6UzoUUBKig1Kh3yiP5kktWadNhNFwbTwK/nft.png",
+  "tokenId": 1376,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1376",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Summer Kimono"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Circle"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Frappuccino"
+    }
+  ]
+}

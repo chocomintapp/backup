@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ1q1Sn8yLkxe9YtKPjkVRuyGtD443Qw6MHKKGes5FRQi/nft.png",
+  "tokenId": 10,
+  "description": "",
+  "nftContractAddress": "0x73509e51e8fc20f58978a86206b7a225a5116ee6",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #10",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Light Gray"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Neck",
+      "value": ""
+    },
+    {
+      "trait_type": "Item",
+      "value": ""
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Round Gold"
+    }
+  ]
+}

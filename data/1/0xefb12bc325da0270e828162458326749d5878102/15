@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZBzq1bdbbRWCtDsNdrfEHAE34WfnvsZEW46bSxTDpoQ6/nft.png",
+  "nftContractAddress": "0xefb12bc325da0270e828162458326749d5878102",
+  "animationUrl": "https://ipfs.io/ipfs/QmYo8HCs5oxb6RuBDHEtNxM3Z66e4UBnHXF33orxZrBWjE/nft.glb",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "Ballerbit #45C Kei",
+  "description": "A great player and a great person in many fields!",
+  "attributes": []
+}

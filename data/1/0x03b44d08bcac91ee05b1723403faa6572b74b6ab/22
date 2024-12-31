@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS8sxMjKhBpvjLrkw2ngQcfe6KegfiT3zkQEiPLhtSnNh/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmUKUdSSeXsZMSdkyiVMSQbGs2tW9SVdNCz39LD3b2k1XQ/nft.mp4",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "#048 GimoMan",
+  "description": "GimoMan\n\n- Hero Series\n- Collaboration gimo x The strange one\n- Giveaway\n- 3DCG Turntable\n- 1920 x 1920px",
+  "attributes": [
+    {
+      "value": "Hero",
+      "trait_type": "Type"
+    }
+  ]
+}

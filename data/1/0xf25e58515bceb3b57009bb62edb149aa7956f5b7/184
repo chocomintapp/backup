@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNi9HMfo3jSNCEHqoH6ScCv3uz9P6YcxAy5Y9N2a2xf7g/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 184,
+  "chainId": "1",
+  "name": "CAROL",
+  "description": "■キャロル\n",
+  "attributes": [
+    {
+      "value": "Light-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-UBlue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Angel-kanji",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Devil",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Angel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Heavenly Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

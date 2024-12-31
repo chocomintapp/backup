@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT6i1q8gHVPjJDHUwFTYHLzF2XbMJsoYuDkqGMAcCMLun/nft.jpeg",
+  "nftContractAddress": "0x7293a2bf0590052ad0799bbe994ecaa865dcdc0b",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Peeking eye and rabbit ghost",
+  "description": "collect me(The box)",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "collect me"
+    }
+  ]
+}

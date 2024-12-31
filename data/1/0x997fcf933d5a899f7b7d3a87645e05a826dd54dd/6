@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUpXXDkZbWp3Nc9dbpPvz1ZYCxpzrJcw4k5dmMjroPpTY/nft.png",
+  "nftContractAddress": "0x997fcf933d5a899f7b7d3a87645e05a826dd54dd",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "AstroKatappo",
+  "description": "AstroOTTO 2001は、「HOPE」をテーマにした2001体の宇宙開拓民（AstroOTTO）のPFPNFTアートコレクションです。AstroOTTO 2001 is a PFPNFT art collection of 2001 space pioneers (AstroOTTO) with the theme 'HOPE'.",
+  "attributes": [
+    {
+      "value": "NONE",
+      "trait_type": "BACKITEM"
+    },
+    {
+      "value": "Forest planet",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Peace of mind",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Black rabbit",
+      "trait_type": "HELMET"
+    },
+    {
+      "value": "Heart badge",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "White dot",
+      "trait_type": "SPACE SUIT"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ6LXqJTSV3KSWFP4cYJUtKaD6nCGNHdGEqoqzKTJXJzw/nft.jpeg",
+  "tokenId": 1,
+  "description": "aaa",
+  "nftContractAddress": "0x9380da1bff1519c0d3563a0b4a32eb41f6f8f348",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "testoken",
+  "attributes": []
+}

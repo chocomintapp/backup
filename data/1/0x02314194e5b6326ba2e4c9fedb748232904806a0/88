@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRYe9UhMeYa4aDStBfXqWrZV89V4cMrj8tT9r8GSz64Qo/nft.png",
+  "nftContractAddress": "0x02314194e5b6326ba2e4c9fedb748232904806a0",
+  "animationUrl": "",
+  "tokenId": 88,
+  "chainId": "1",
+  "name": "#004-萌黄[凪]",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "凪",
+      "trait_type": "属性"
+    }
+  ]
+}

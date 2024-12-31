@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUKnBtKi537HC8aYhwKBJN3vkx9wk1H8dMVrcE6TsyvPp/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 379,
+  "chainId": "1",
+  "name": "介党鱈　銀子",
+  "description": "■GINKO　SUKETOUDARA\n■スケトウダラ　ギンコ\n■CNPR優先購入権付",
+  "attributes": [
+    {
+      "value": "deep in the countryside",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "AnisuHair(W)",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "composed-smile",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Anisu-Lolita",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Mitama-Yoru(N)P",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-SnowWhite",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

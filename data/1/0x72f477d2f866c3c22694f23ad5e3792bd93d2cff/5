@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd4qTdbxJGXWvYXKu9i3LPD2Tq9y25YH6gR7kBC6wKXpQ/nft.jpg",
+  "nftContractAddress": "0x72f477d2f866c3c22694f23ad5e3792bd93d2cff",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Alpaca Woo Hoo #05",
+  "description": "ぬいぐるみに憧れる、オーバーオールなアルパカくん。\n秋って大好きな季節なんだ。\n\n ---\n\nA Shy alpaca in overalls wants to be a toy.\nMy favorite autumn is coming here. How about you?",
+  "attributes": [
+    {
+      "value": "Toy",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Overalls",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Light Green",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Plants",
+      "trait_type": "Decoration"
+    }
+  ]
+}

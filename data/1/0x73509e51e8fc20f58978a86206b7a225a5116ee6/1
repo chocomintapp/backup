@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWhNmXu745jfHvSZKEXR5wcv7eRtcGHDV7YdDnbGffHet/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x73509e51e8fc20f58978a86206b7a225a5116ee6",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Leather Choker"
+    },
+    {
+      "trait_type": "Item",
+      "value": ""
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Heart Silver"
+    }
+  ]
+}

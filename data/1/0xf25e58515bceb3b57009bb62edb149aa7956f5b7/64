@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmULLkhgWEnpsj5MHdivimuTjuRgvPrnuKkeftWa5oFe4x/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 64,
+  "chainId": "1",
+  "name": "CHIHIRO",
+  "description": "She has awakened to the Lolita fashion of the human world and has taken up sewing.\n\nHer favorite brand is Louis Vuitton and she is looking forward to Lolita collaborations.\n■チヒロ\n人間界のロリータファッションに目覚め、裁縫を始めるようになった。\n\n好きなブランドは、ルイヴィトンでロリータコラボを期待している。",
+  "attributes": [
+    {
+      "value": "Bright-Pink",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllBlack",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "LoliFoodie-Black",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Black",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Arkdemon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Angel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Angel Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

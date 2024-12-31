@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeAYBojGij2QYzTwxcFGAfDt2VPNwLXaBiYWg3h5svkqS/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 61,
+  "chainId": "1",
+  "name": "POPET No.61",
+  "description": "【物語】\n\nメタバース探検隊POPETsの隊員。楽観主義。未開の地を日々旅をしている。",
+  "attributes": [
+    {
+      "value": "探検隊員",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "メタバース",
+      "trait_type": "origin"
+    },
+    {
+      "value": "楽観的",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

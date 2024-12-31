@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPUkqhceJnKVCghVWnfiDQcvmRXvHVVT7HE2iivf9fbZ6/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 319,
+  "chainId": "1",
+  "name": "SION",
+  "description": "■シオン",
+  "attributes": [
+    {
+      "value": "half-broken2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Blue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Crying-P",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-BL",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Round glasses-red(NE)Shining",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "NARUKAMI-P",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

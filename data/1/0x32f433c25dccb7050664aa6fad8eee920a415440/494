@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT72dR3KVU1ED85Gn5hTnNdxVB4LVuTDBZXkb2Ax8ATFR/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmaAHYEkX7x3EvZGuFBPXqSd11E9zybisFctkjSoAcKGkQ/nft.mp4",
+  "tokenId": 494,
+  "chainId": "1",
+  "name": "THE JEWEL #494",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Peace Turquoise",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Patina Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

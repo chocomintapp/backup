@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUnv4ywSic7CRGg533hZDCGB6mE4CETPkDePZ5ADW3Dqr/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 52,
+  "chainId": "1",
+  "name": "YURIE",
+  "description": "She usually spends most of her time fainting.\n\nShe faints when she pulls out radishes.\n\nShe faints when she pulls out a carrot.\n\nShe faints when she catches saury.\n\nShe doesn't know whether she is sleeping or fainting.\n\nShe likes to go to high places, but she rarely goes there because it is dangerous if she faints.\n■ユリエ\n普段ほとんどの時間を気絶して過ごしている。\n\n大根を抜いては気絶。\n\n人参を抜いては気絶。\n\nサンマを獲っては気絶。\n\n睡眠だって寝てるのか気絶してるのか、どっちなのか彼女もよくわかってない。\n\n高いところが好きだが、気絶したら危ないので滅多に行けない。",
+  "attributes": [
+    {
+      "value": "Bright-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Souleat",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Redblack",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-anger",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "EyeBall2",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

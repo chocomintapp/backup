@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNU2eCAJGwwUt1j9up8EfQDg1born1N4WtkmdUfLezh7H/nft.png",
+  "tokenId": 10,
+  "description": "",
+  "nftContractAddress": "0x7e21f24a0253d67aa54d1ce0a12203f51dbd6ff3",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Punk Monkeys #10",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

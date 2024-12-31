@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfQXFzgQE8BL1iCb9BRgicNzEbYBcdsj6h8mpBiT8EWGt/nft.png",
+  "tokenId": 789,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #789",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rock Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Black Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cookie"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Coconut Water"
+    }
+  ]
+}

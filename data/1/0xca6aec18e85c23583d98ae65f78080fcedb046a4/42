@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf55oUaCpqmLeqPBkRn4xvSzFo8qMq15SaAwmoLHtD88R/nft.png",
+  "nftContractAddress": "0xca6aec18e85c23583d98ae65f78080fcedb046a4",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "1",
+  "name": "042 One-side Lovers : Series02-Beach [Favorites]",
+  "description": "■Fukuyoshi Rokka's Artwork collection \n\"One-side Lovers”\nSeries02-Beach\n\n:Wonderful Holidays!\n\n\n福吉ロッカのアートワークコレクション\n「One-side Lovers」\nシリーズ２-Beach\n\n:Wonderful Holidays!\n",
+  "attributes": [
+    {
+      "value": "Beach",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair-color"
+    },
+    {
+      "value": "Long hair",
+      "trait_type": "Hair-style"
+    },
+    {
+      "value": "Bag/Love Dog",
+      "trait_type": "Item"
+    },
+    {
+      "value": "02/Beach",
+      "trait_type": "Series-number"
+    },
+    {
+      "value": "Rainbow",
+      "trait_type": "Sky"
+    },
+    {
+      "value": "Magenta/Orchid",
+      "trait_type": "Swimsuit-color"
+    },
+    {
+      "value": "Twisted bandeau bikini",
+      "trait_type": "Swimsuit-type"
+    }
+  ],
+  "minted": "✅"
+}

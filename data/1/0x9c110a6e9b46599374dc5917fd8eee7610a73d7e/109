@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTm5Xyu97uq5ahtyesDfng78pjfZARu8M8Te7zKTtydzA/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 109,
+  "chainId": "1",
+  "name": "POCO_Ivona",
+  "description": "Ivona-Chan",
+  "attributes": [
+    {
+      "value": "Mischievous",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Black",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

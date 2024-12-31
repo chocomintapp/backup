@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYcrkptH7eswGtqzQo52VKD3CC5T7BSKr6XRLcXCBpGeE/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "POCO_Pulmu",
+  "description": "Pulmu-Chan",
+  "attributes": [
+    {
+      "value": "Optimistic",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Amber",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSGyg3DmNqKMXJ4z2wm4K4CivW1YvuxGTs6S9EVBaeS5i/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "POCOEMOJI_uee",
+  "description": "Darcy-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

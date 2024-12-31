@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT9c3n9eMwEzDpEauCyvjqe6audNFDE6RpATea1fE53Nv/nft.jpg",
+  "nftContractAddress": "0x9da659dae0b0041c25214e3bd55d388d2702a7f0",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "BIO PLANT",
+  "description": "\".....Glowing...Up.....\"",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

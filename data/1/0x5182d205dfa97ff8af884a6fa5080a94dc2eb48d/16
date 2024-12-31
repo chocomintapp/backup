@@ -1,0 +1,20 @@
+{
+  "image": "ipfs://bafkreibxygactatkhmmkkstafjzjxn7bvgwuixrin6bkaaqhbgmqxrpbfm",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "Ganmichan F1.0",
+  "description": "暗闇の中で絞り開放、長秒露光で撮ったがんみちゃんの像\n\nImage of Ganmichan taken in the dark with a wide aperture and long second exposure.\n",
+  "attributes": [
+    {
+      "value": "snap",
+      "trait_type": "series"
+    },
+    {
+      "value": "night",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

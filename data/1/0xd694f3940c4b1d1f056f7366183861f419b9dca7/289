@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTQpGTKgU8SHBWnwa6b8Y2KhhDc57o12hdygBzaKGDsAi/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 289,
+  "chainId": "1",
+  "name": "March 1 アネモネ（赤）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "月"
+    },
+    {
+      "value": "1",
+      "trait_type": "日"
+    },
+    {
+      "value": "君を愛する",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "アナモネ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

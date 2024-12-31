@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNXVefQp1RR62EJRjx4JhQZyiZVx1JqenNNL38u7eJvw4/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "1",
+  "name": "#040-Fukuoka-",
+  "description": "#040-Fukuoka-",
+  "attributes": [
+    {
+      "value": "Aqua",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kyushu",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Fukuoka",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

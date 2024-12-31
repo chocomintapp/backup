@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVJvDZC1Mjhsw8DrfCpqRRnDoTs3sDYyo6GuoA3pX1NBq/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "POPET No.14",
+  "description": "【物語】\n\n今月の出費も計画通り。今日のランチはちょっといいところで。",
+  "attributes": [
+    {
+      "value": "銀行員",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "銀行",
+      "trait_type": "origin"
+    },
+    {
+      "value": "几帳面",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

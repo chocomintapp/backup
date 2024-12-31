@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS5MFZ7vGJxciPgRPFLKukndTdkwftE9qwxMArTgV8PWT/nft.png",
+  "nftContractAddress": "0x25147e135da46f0fb62850c24137b68d7ffc7d07",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "BE KOBE NFT CREATIVE AWARD #9",
+  "description": "第1回 BE KOBE NFT CREATIVE AWARD 『王子公園ハイム』マクアート部門 応募作品\n\n【タイトル】\nタンタン＆王子コアラ\n\n【制作者】\nebitama 様\n\n【コンセプト】\n『王子公園ハイム』マクアート部門応募いたします。\nモチーフは王子公園ハイムの近くにある王子動物園のパンダ(タンタン)とコアラです。(この町が大好き、ということでにっこり微笑んでます)\n遠くから見てもはっきり見えるように実線を太めにしています。",
+  "attributes": [
+    {
+      "value": "『王子公園ハイム』マクアート",
+      "trait_type": "部門"
+    }
+  ],
+  "minted": "✅"
+}

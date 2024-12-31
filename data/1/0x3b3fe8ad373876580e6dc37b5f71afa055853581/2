@@ -1,0 +1,63 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVz8yeWZZL8UhdZbhQ9QBRKE57oZBGkhH7CzZDa2hGHyq/nft.png",
+  "nftContractAddress": "0x3b3fe8ad373876580e6dc37b5f71afa055853581",
+  "animationUrl": "https://ipfs.io/ipfs/QmVz8yeWZZL8UhdZbhQ9QBRKE57oZBGkhH7CzZDa2hGHyq/nft.png",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Day1",
+  "description": "🗓Fri, 16th Sep '22＊Someone's Credit Card\n\nOn the 1st day of litter-picking, I started picking at the forest that is just 30 sec on foot from my home. Here we can see lots of fireflies flying beautifully in summer.There are walkways in this forest, and there I found a credit card that surprised me.The name on the card was \" KAI SAKAI.The card was cut so it seemed it was not kind of \"Lost property\".About other litter, lots of cups of \"ICEBOX\" and wrappings of \"Pino\", both of which are ice candy,  are spread all over the place. Maybe some people did an ICE CANDY PARTY here. Looks tasty but not tasty for the forest.-160g-・Credit Card ×1 #JCBcard #三井住友銀行 #KaiSakai @smbc_official（ https://www.smbc.co.jp/kojin/credit/jcb-classic/ ）・Beer Kan ×1 #金麦 #SUNTORY （ https://www.suntory.co.jp/beer/kinmugi/ ）・Juice Kan×1 #Coca-Cola アロエ&白ぶどう Minute Maid Japan（ https://www.mmaid.jp/jp/products/aloe ）・Medicine pack ×1・Buttered Peanut plastic wrapper ×1 #7-Eleven（ https://www.sej.co.jp/products/a/item/310804/ ）・Plastic bottle ×2 #伊右衛門 #SUNTORY（ https://www.suntory.co.jp/softdrink/iyemon/ ）・Nonwoven fabric mask😷×1・ICE BOX×5 #MORINAGA（ https://www.morinaga.co.jp/ice/icebox/ )・Ice Candy Plastic bottle #Papico #Glico（ https://jp.glico.com/ice/papico/ ）・・・・・・・・・・・・・・・・・・Day1＊22.9.16.金「誰かのクレカ」ごみ拾い1日目は家から徒歩30秒の裏山で。ここは夏にはヒメボタルが観れるんです。散歩道にもなってるんですが、今回は「クレジットカード」が落ちててびっくり。名前はKAI SAKAIさん。ちゃんとカードは切られてるので、落としたわけではなさそう。あとは多くのアイスボックスの空コップとピノのごみが散乱していました。おそらくここでみんなでアイスボックスとピノを食べたんだろうなあ（美味しそう）というくらい。-160g-・クレジットカード×1（#JCBcard #三井住友銀行 #KaiSakai）@smbc_official・缶ビール空き缶 ×1（#金麦 #SUNTORY）・ジュース空き缶×1（#Coca-Cola アロエ&白ぶどう Minute Maid Japan - ミニッツメイド）・薬のパック ×1・こだわりのバタピー包装プラスティック ×1（#セブンイレブン）・ペットボトル×2（#伊右衛門 #SUNTORY）・不織布マスク×1・アイスボックス空箱　×5 （#森永製菓）・パピコ #Papico #glico 包装プラスティック・・・・・・・・・・・・・・・・・・Japanese tweets on Day1https://twitter.com/DJ_Drool/status/1570568386870124545?s=20&t=iSf_bLFO6H8PX85B46RNbA・・・・・・・・・・・・・・・・・・#マイクロプラスチック問題#マイクロプラスチック海洋汚染#マイクロプラスチック#junkart #ごみアートの奇跡 #海の豊かさを守ろう #sdgs #litterärt #litterpicking #litterpick #litterheroes #droolclub #drool #drooler #nftartist #nftcollectors #nftdrop #nftsstories#nftartist #nftcollectors #nftdrop #nftsstories",
+  "attributes": [
+    {
+      "value": "ART",
+      "trait_type": "GOMINOTE"
+    },
+    {
+      "value": "Fri, 16th Sep '22",
+      "trait_type": "DATE"
+    },
+    {
+      "value": "Seven-Eleven",
+      "trait_type": "Convenience Store"
+    },
+    {
+      "value": "JCB",
+      "trait_type": "Credit Card"
+    },
+    {
+      "value": "Sumitomo Mitsui",
+      "trait_type": "BANK"
+    },
+    {
+      "value": "SUNTORY",
+      "trait_type": "MAKER"
+    },
+    {
+      "value": "Coca-Cola",
+      "trait_type": "MAKER"
+    },
+    {
+      "value": "MORINAGA",
+      "trait_type": "MAKER"
+    },
+    {
+      "value": "Glico",
+      "trait_type": "MAKER"
+    },
+    {
+      "value": "OSAKA",
+      "trait_type": "Prefecture"
+    },
+    {
+      "value": "SUITA",
+      "trait_type": "City"
+    },
+    {
+      "value": "JAPAN",
+      "trait_type": "COUNTRY"
+    },
+    {
+      "value": "non‐woven fabric😷",
+      "trait_type": "TYPE"
+    }
+  ]
+}

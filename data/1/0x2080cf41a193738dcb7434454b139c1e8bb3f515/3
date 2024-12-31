@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYcZ63xUr4tTP2aJXEHvURBcymjh7w2t21nRfPfk1uVSB/nft.png",
+  "tokenId": 3,
+  "description": "\"Iron Maiden\" = \"Golem\" x \"Vampire\" Elisabeth Sasaki\n\n「アイアンメイデン」メイン種族ゴーレム、サブ種族バンパイア。名前はエリザベス佐々木。\n\nアイアンメイデンは拷問器具の擬人化モンスター。ゴーレム種から「物体」特性を、バンパイア種から「吸血」を受け継いだモンスター娘です。とても無口で、佐々木の声を聞いたことがある人はいないとか。\n\nIron Maiden is an anthropomorphic monster of a torture device. They are monster girls who inherited the \"object\" trait from the golem species and the \"blood sucking\" trait from the vampire species. They are very quiet, and no one has ever heard Sasaki's voice before.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#028 \"Iron Maiden\" Elisabeth Sasaki",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Golem"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmajDbuSBdGyB4rTj34FK3sdr4tXk6N2YmiymKTuqGW192/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 442,
+  "chainId": "1",
+  "name": "CHRISTINA",
+  "description": "■クリスティーナ",
+  "attributes": [
+    {
+      "value": "Light-Purple",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Pink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Anisu-Lolita",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Toypoodle",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-SnowWhite",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

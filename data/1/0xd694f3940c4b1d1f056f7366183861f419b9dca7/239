@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb7ooLFbpJx3WdkwpLTaDu5H9uEavKRJR6pmYsCb3VQwK/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 239,
+  "chainId": "1",
+  "name": "January 11 ネメシア",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "月"
+    },
+    {
+      "value": "11",
+      "trait_type": "日"
+    },
+    {
+      "value": "偽りのない心",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ネメシア",
+      "trait_type": "花"
+    }
+  ]
+}

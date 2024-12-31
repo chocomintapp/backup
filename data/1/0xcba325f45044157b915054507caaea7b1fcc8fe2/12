@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY6fAjDbrZrC9hUdCGSAcRcEsRk73Tf4QqpYCHgmKVMfL/nft.jpeg",
+  "nftContractAddress": "0xcba325f45044157b915054507caaea7b1fcc8fe2",
+  "animationUrl": "https://ipfs.io/ipfs/QmSrqhaPu1FVvA9r7iBX1FWop9iMgpX7dTW5TKnXUZas7k/nft.mp4",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "『 Vermilion room 』",
+  "description": "I made a carp swim in a room dyed with the traditional color \"Vermilion\", which is used as the color of Japanese torii gates.",
+  "attributes": [],
+  "minted": "✅"
+}

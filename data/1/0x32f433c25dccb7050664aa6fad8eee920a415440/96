@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPmodjpmJcv1JjiVTrspMhTe7eNovoYp34Xn4RBx1N8nw/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmb4nagAGhN5T11X1HJhHgG4U74dKJup8VX3xXYQCMjhkV/nft.mp4",
+  "tokenId": 96,
+  "chainId": "1",
+  "name": "THE JEWEL #096",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "yellow",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "silver",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

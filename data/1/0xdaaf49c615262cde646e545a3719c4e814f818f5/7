@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfYq1wDzRxeTEsFY3n3gfEoC7LQ6NoR1RpTJzJQm4Skpy/nft.png",
+  "nftContractAddress": "0xdaaf49c615262cde646e545a3719c4e814f818f5",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "hamu(D)",
+  "description": "hamu(D)",
+  "attributes": [
+    {
+      "value": "DEATH",
+      "trait_type": "color"
+    }
+  ]
+}

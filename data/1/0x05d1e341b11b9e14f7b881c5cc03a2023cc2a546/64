@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR9ZeeGKdsbT8LLEjNShsuWEZFkgMpSi93YfyNdbdCEXp/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmXZuNd5766jM9JTuW1mKdrXZstUTca1V6ojZ4AuVmAiTD/nft.mp4",
+  "tokenId": 64,
+  "chainId": "1",
+  "name": "O-K #064",
+  "description": "O-K  \nMIMIMATES collection に擬態している  \nMimicking the MIMIMATES collection",
+  "attributes": [
+    {
+      "value": "Hide",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Hide",
+      "trait_type": "MIMIC"
+    },
+    {
+      "value": "Mimi",
+      "trait_type": "VOICE"
+    }
+  ]
+}

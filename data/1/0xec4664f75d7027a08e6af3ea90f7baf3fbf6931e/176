@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbouGJj2f5LQ7BTUgNVdbe4nuWWbo3SQQYQ3RSCp8RJuo/nft.png",
+  "nftContractAddress": "0xec4664f75d7027a08e6af3ea90f7baf3fbf6931e",
+  "animationUrl": "",
+  "tokenId": 176,
+  "chainId": "1",
+  "name": "LAYLA Vol.3 #011",
+  "description": "Neo Cyber Girls Collection\nGRAN BLU",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "ThemeColor"
+    },
+    {
+      "value": "Take off",
+      "trait_type": "Pose"
+    },
+    {
+      "value": "Short",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Jacket",
+      "trait_type": "WareTop"
+    },
+    {
+      "value": "Pants",
+      "trait_type": "WareUnder"
+    }
+  ]
+}

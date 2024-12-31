@@ -136,7 +136,7 @@ dist
 .vscode
 
 # Temp
-data/1
+# data/1
 data/4
 data/5
 data/56

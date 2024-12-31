@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcrqNuhDHZDvjT6LEGrqEZYb2yMkRGdFjfRPos6WJNj4t/nft.png",
+  "tokenId": 18,
+  "description": "\"Ghulah\" = \"Zombie\" x \"Slime\" Freda Shimada\n「グール」メイン種族ゾンビ、サブ種族スライム。名前はフレーダ島田。\n\nグールはアンデッドの一種で、死肉を食べるとして知られるモンスター。下級魔術や変身術を使うこともある。ゾンビ種の特徴の他、スライム種の変身能力も兼ね備えている。純血のゾンビよりも防御力が高い。体表面が謎の粘液で覆われており、ぬるぬるつやつやしている。汗っかき。\n\n\"Ghulah\" are a type of undead monster known for eating dead flesh. They may use lower-level magic and shape-shifting techniques. In addition to the characteristics of the \"Zombie\" species, they also have the ability to transform into the \"Slime\" species. They have better defense than pure-blooded \"Zombie\" species. The surface of its body is covered with a mysterious mucus, making it slimy and glossy. Sweaty.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#043 \"Ghulah\" Freda Shimada",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "minted": "✅"
+}

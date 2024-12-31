@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmeme2t6dF73RBJfHxNMKJ9dFSAqEqqs3rD31NjvebY4NB/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "1",
+  "name": "POPET No.28",
+  "description": "【物語】\n\nこの街のエネルギーはなんなのだろうか。\nそんなことはどうでもいい。\n仕事おわりの一杯のために今日も働く。",
+  "attributes": [
+    {
+      "value": "炭鉱夫",
+      "trait_type": "job"
+    },
+    {
+      "value": "ハッピービールシャワー",
+      "trait_type": "skill"
+    },
+    {
+      "value": "鉱山",
+      "trait_type": "origin"
+    },
+    {
+      "value": "クール",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

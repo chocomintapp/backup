@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUtcB9xFxzRrC9Bha8JcFConC7LyTeZ78tHkQana5ozAp/nft.png",
+  "tokenId": 20,
+  "description": "\"MetallicCube\" = \"Slime\" x \"Unknown\" Elixir Kagami\n「メタリックキューブ」メイン種族スライム、サブ種族Unknown。スライムの特殊亜種。名前はエリクサー加賀美。\n\n身体が液体状の金属で構成されているスライム種。金属を食べたスライムが突然変異した姿だと考えられているが、発見数が少なく生態はよく分かっていない。SPDとDEFのステータスが伸びやすく、HPはほとんど成長しない。光り物を溜め込む性質がある。\n\n\"Slime\" species whose body is composed of liquid metal. It is believed to be a mutated form of metal-eating slime. Because of the small number of cases found, their ecology is not well understood. Its SPD and DEF statuses grow easily, while its HP hardly grows at all. They have a tendency to accumulate shiny things.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#045 \"MetalicCube\" Elixir Kagami",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Slime"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmaopg6fPXoS7DvgBvXfP76z99dQazvsRJvjRYuCypyY3d/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "POPET No.5",
+  "description": "【物語】\n\n昼間は店番。夜は雑誌の撮影。\nいつか大舞台に立つ、その日まで。",
+  "attributes": [
+    {
+      "value": "モデル",
+      "trait_type": "job"
+    },
+    {
+      "value": "七色かくれんぼ",
+      "trait_type": "skill"
+    },
+    {
+      "value": "アパレルショップ",
+      "trait_type": "origin"
+    },
+    {
+      "value": "ストイック",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

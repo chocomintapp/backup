@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNu1pnCAvLc6kvug7UXHxvz7ryFNswqfyZawGMQTLrKqg/nft.png",
+  "nftContractAddress": "0x3e1e6638bfffd769e06aa33db703d7f190e33a51",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "Wb#23",
+  "description": "Created by Wonder baby.",
+  "attributes": [
+    {
+      "value": "BLUE",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "BODY C",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "SUIT A",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "KATANA A",
+      "trait_type": "WEAPON"
+    },
+    {
+      "value": "HEADPHONE BLUE",
+      "trait_type": "HAT"
+    },
+    {
+      "value": "TONGUE",
+      "trait_type": "MOUTH"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb1FZEznZJicGZNMhi3c8JPKpbD3uL6DR6TVeGFcsR8xA/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "カタカナ \"イ\" コレクション Katakana \"イ\" Collection",
+  "description": "カタカナの「イ」でいろんな世界をひょうげんしました。\n「イ」はさいごに「人」という漢字になります。\n恋、アスレチック、洋服、馬、メリーゴーランド、人が入っています。\n\n▶︎XANALIA NFTART AWARDS 2021 で ノミネート作として掲載いただいた作品です。\n\nI used the Japanese katakana character \"イ\" to represent various worlds. The \"イ\" becomes the kanji \"人\" at the end.It contains love, athleticism, clothes, horses, merry-go-rounds, and people.\n\nThis work was published as a nominee in the XANALIA NFTART AWARDS 2021.",
+  "attributes": [
+    {
+      "value": "playing with letters",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Art",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Interesting",
+      "trait_type": "Category"
+    }
+  ],
+  "minted": "✅"
+}

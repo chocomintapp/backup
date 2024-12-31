@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVaTp6j1DG2zC77j6JEDF634TRcyoBfhh6Mwi2L9sY4Gr/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 55,
+  "chainId": "1",
+  "name": "CHLOE",
+  "description": "An active and kind-hearted girl.\n\nShe even captivates those who approach her with the intention of deceiving her. She is also a natural born seducer.\n■クロエ\n活発で心優しい女の子。\n\n彼女を騙そうと思って近づいてきた人間までも虜にしてしまう。天性の人たらしでもある。",
+  "attributes": [
+    {
+      "value": "Deep-Blue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie6",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Archangel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Blackcat",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

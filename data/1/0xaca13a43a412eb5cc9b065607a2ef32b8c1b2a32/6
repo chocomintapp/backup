@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmecu1pY6LeEucWxSmmD6H5oUczJhmCgWKSbt1snfMyTYj/nft.png",
+  "tokenId": 6,
+  "description": "Hello. I am Sato Tanaka. #0005",
+  "nftContractAddress": "0xaca13a43a412eb5cc9b065607a2ef32b8c1b2a32",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "I am Sato Tanaka #0005",
+  "attributes": [
+    {
+      "trait_type": "I am",
+      "value": "#0005"
+    },
+    {
+      "trait_type": "CATEGORY",
+      "value": "Fruits"
+    },
+    {
+      "trait_type": "FRUITS",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "ITEM",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Green"
+    }
+  ]
+}

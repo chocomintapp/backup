@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNhtpiynGfgV1uHQwFp6M5C5enCMnZeuDAHiq8DrKoo5Q/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 313,
+  "chainId": "1",
+  "name": "OTO",
+  "description": "■オト",
+  "attributes": [
+    {
+      "value": "yami",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin-Black",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-White",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doteye-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-W",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-RED",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Stuffed Zombie2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Asiatic peoples",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYPuroKSrRUfysgryk4ZdcVHXGrL3jFQGiaMPxFCvTbbW/nft.png",
+  "nftContractAddress": "0x74047d107f4bb84e707cdb677720601b974830c9",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "CYCLOPSTAR #0001",
+  "description": "Limited 1/1\n\nCYCLOPSTAR is a Japanese Kawaii NFT collections, And minted by their original contract (CLS).",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Cat",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Pullover",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Monstarz",
+      "trait_type": "DESIGN"
+    },
+    {
+      "value": "Twintail",
+      "trait_type": "ACCESSORYS"
+    }
+  ]
+}

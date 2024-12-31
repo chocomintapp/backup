@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbkeX8m5EgKjDsTBjMESL3WFKBpn9GpLSjoFUWsy7k2uj/nft.png",
+  "nftContractAddress": "0x32a939de2fd6d94bb904af1f82bb0a64d932c2a7",
+  "animationUrl": "https://ipfs.io/ipfs/QmWH261G1HbTBi4gJzJ5yKx7eMmkSNE7NfKYjcftNk3JJT/nft.mp4",
+  "tokenId": 97,
+  "chainId": "1",
+  "name": "ATUM #100",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SKY ANTHONY8",
+      "trait_type": "Type"
+    },
+    {
+      "value": "GOLD",
+      "trait_type": "Color"
+    }
+  ]
+}

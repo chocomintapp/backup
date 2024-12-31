@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcEsFErqgcGGMraMdnCXmaNwAQzAMsHytjBhJMufbgFGN/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "Botan",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "KIMONO DRESS",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "TOAJAPA",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "NATURAL",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "WHIP",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    }
+  ]
+}

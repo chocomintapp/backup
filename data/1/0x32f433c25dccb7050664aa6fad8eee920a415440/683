@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYAucJKALaLSnDdEz1Nnw4hM6ud1s6MniQnMjmyH5jcq2/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmZBVYQ3FbD1ipQtL8drccXfbuUt8dicC91fYGiYvdX9tZ/nft.mp4",
+  "tokenId": 683,
+  "chainId": "1",
+  "name": "THE JEWEL #683",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Clear Yellow",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Tantalum",
+      "trait_type": "Control device"
+    }
+  ]
+}

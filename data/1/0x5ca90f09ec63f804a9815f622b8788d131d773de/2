@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNVKizSYfzLL1jJRxhyZKL5LGGuWEbCB2TsHgYRTSoJCx/nft.gif",
+  "nftContractAddress": "0x5ca90f09ec63f804a9815f622b8788d131d773de",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Flying Happy Cat Runs Through The Night Forest #P001 [private contract]",
+  "description": "On a moonlit night, a happy flying cat runs through the dark forest and brings you happiness.",
+  "attributes": [
+    {
+      "value": "Tuxedo",
+      "trait_type": "pattern"
+    },
+    {
+      "value": "dark forest",
+      "trait_type": "place"
+    },
+    {
+      "value": "magenta",
+      "trait_type": "body color"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "Black",
+      "trait_type": "background"
+    }
+  ]
+}

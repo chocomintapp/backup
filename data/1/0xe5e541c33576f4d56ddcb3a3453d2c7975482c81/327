@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQki5kYYxxVFkzn196pi4SnMJzYWUu78xpvjTkKNKwv5f/nft.mp4",
+  "nftContractAddress": "0xe5e541c33576f4d56ddcb3a3453d2c7975482c81",
+  "animationUrl": "https://ipfs.io/ipfs/QmQki5kYYxxVFkzn196pi4SnMJzYWUu78xpvjTkKNKwv5f/nft.mp4",
+  "tokenId": 327,
+  "chainId": "1",
+  "name": "Festival ticket No.377",
+  "description": "皆様のご協力があってこそのチケットとなっております。\n感謝を忘れずに。助け合って日々を楽しんでいきましょう。",
+  "attributes": [
+    {
+      "value": "2.5%",
+      "trait_type": "sign"
+    }
+  ],
+  "minted": ""
+}

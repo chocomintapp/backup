@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmetLzP98sonCMF6rwdQLuFxtEsP7wd83CgUGPfXuC4Axd/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "May 26 バラ（ピンク）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "26",
+      "trait_type": "日"
+    },
+    {
+      "value": "愛を誓う",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "バラ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

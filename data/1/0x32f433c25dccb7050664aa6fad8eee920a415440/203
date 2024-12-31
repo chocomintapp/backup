@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWxHuyhyHN6stKFqHQ4H3R4hDA75tY3Znhxex9vhTNtTL/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmSrMTM5kMwJEiCoweHaSSK3vBQSjjK65evikJPkhMiqos/nft.mp4",
+  "tokenId": 203,
+  "chainId": "1",
+  "name": "THE JEWEL #203",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

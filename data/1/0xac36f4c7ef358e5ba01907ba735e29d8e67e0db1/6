@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaTRRjcBYidKDebUzzy4EXfdQRoBjrXZJNBP6czR1fwUf/nft.jpg",
+  "nftContractAddress": "0xac36f4c7ef358e5ba01907ba735e29d8e67e0db1",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "#006",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Swordsman",
+      "trait_type": "POSITION"
+    },
+    {
+      "value": "Demon",
+      "trait_type": "TEAM"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdoStvphcY5yHBVr96Dg3XqKKYQC122brjh2jHTLdRiFr/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "1",
+  "name": "OTOME",
+  "description": "アフロの元カノ",
+  "attributes": [
+    {
+      "value": "カロライン",
+      "trait_type": "人物"
+    },
+    {
+      "value": "Ｔシャツ",
+      "trait_type": "服装"
+    },
+    {
+      "value": "ウェリントン型",
+      "trait_type": "メガネ"
+    },
+    {
+      "value": "🖕",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "FTT",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "",
+      "trait_type": "Secret"
+    }
+  ],
+  "minted": "✅"
+}

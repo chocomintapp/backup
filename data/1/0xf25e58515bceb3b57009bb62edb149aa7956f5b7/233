@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY7c4wQt3QFa7XuRWwdp16Tg13A1h1xJpc4DAx5S8i5D2/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 233,
+  "chainId": "1",
+  "name": "CYANPA",
+  "description": "CYANPA is a girl who loves to play ninja.\nOne day I grabbed a thief who snuck into my house, thinking he was a ninja.\nWhen I looked closely at him, I saw that he was just an uncle, so I had him dress up in a ninja costume\nHe is always ready to play ninja anytime.\n■シャンパ\nシャンパは忍びごっこ大好きな女の子。\nある日自宅に忍び込んできた泥棒を忍だと思い込みつかまえた。\nよくみるとただのおじさんなので、忍者のコスプレをさせて\nいつでも忍者ごっこ遊びができるようにしている。",
+  "attributes": [
+    {
+      "value": "Ninja4",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "CurlingTsuno-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Green",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-B",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "LeeLee-tenacity",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

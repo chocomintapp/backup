@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYzk5y52njdgaA1uU5RCoJTZDkBCtgASA2L4gRQU7Kfrq/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 52,
+  "chainId": "1",
+  "name": "Beach Borne Bae #80",
+  "description": "Beach Borne Bae #80\nInspired by Spanish mackerel / サワラ",
+  "attributes": [
+    {
+      "value": "Long",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Shoulderless T-shirt",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Aquamarine",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

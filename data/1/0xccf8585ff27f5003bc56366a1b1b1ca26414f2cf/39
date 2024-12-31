@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVcjYdGVpzcva8TXB17z7Ss76ED3hHFaR9QUL5xZsmtbu/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "1",
+  "name": "WEAR BEAR #119 \"DRAX\" LEATHER TRACKSUIT",
+  "description": "WEAR BEAR 第12弾はHIP HOPクルー“BEAR HOP”として音楽シーンに鮮烈デビュー！オールブラックコーデでクールに登場!\nクルーのDJは正体不明のメカベア！デジタルツールを使いこなしフロアを沸かせます",
+  "attributes": [
+    {
+      "value": "Unknown",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Leather tracksuit",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Leather tracksuit",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Leather \"TEC\" sneaker",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Mecha",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Drax",
+      "trait_type": "Model"
+    }
+  ]
+}

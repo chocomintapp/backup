@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU6mBf4G1VHHKss7dnD795JNENYkunjsoMXxGyynyLRu1/nft.PNG",
+  "nftContractAddress": "0xd1f8aade1d996c02b5d62321716dc4b58f230f75",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Buns Town #003",
+  "description": "Hamburger Kingdom",
+  "attributes": [
+    {
+      "value": "Hamburger Kingdom",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZWaqb199uriYgtdNEevwBbjF2FSpo4x9A1agesRYoEni/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 56,
+  "chainId": "1",
+  "name": "EVA",
+  "description": "EVA is the half-sister of a USAGI.\n\nShe was raised like a sister to Bella, who was worshipped as a divine beast by the \"N'mou tribe\" .\n\nShe has never met USAGI, but they correspond with each other and are very close.\n■エヴァ\n\nウサギの腹違いの妹。\n\n\"ン・モウ族”から神獣と崇められていた、Bellaと姉妹同然のように育つ。\n\nウサギと会ったことはないが文通はしていて、とても仲が良い。",
+  "attributes": [
+    {
+      "value": "Deep-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Skyblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Odd2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-White",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bella",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Skyblue",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

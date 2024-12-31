@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWjxPUxPexJddoRV36KRdxk8o2kwK7Sq3sArz8DAzX1gS/nft.png",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "https://ipfs.io/ipfs/QmYuvXQDw1vLju74XhjHdDgL9KouC1xYELxTCYHJVnPXux/nft.mp4",
+  "tokenId": 27,
+  "chainId": "1",
+  "name": "Tokyo Expanding People 2099 #ASAGI Koala",
+  "description": "[日本語]\n\nASAGIワールドのエネルギー源の一つである“ASAGI 魂“の奪取を企むバーサーカー。\n\n奴の謀略により、マルチバースを繋ぐ“バースゲート“システムが破壊され、TokyoExpo2099ワールドとASAGIワールドが一時的に融合してしまった。\n\n同時に、TokyoExpo2099ワールドのアバターたちはシステムエラーにより、ASAGIの姿に変貌していた。\n\n彼らは事件の真相を突き止め、バーサーカーの計画を阻止すべく、“ASAGI魂“が納められている霊堂へ向かう。\n\nTokyoExpo2099とASAGIワールドの存続は彼らに懸かっている。\n\n\n[En]\n\nBerserker is plotting to seize the “ASAGI soul,” one of the energy sources of ASAGI World.\n\nHis plot destroys the “Birth Gate” system that connects the multiverse, causing TokyoExpo2099 World and ASAGI World to merge temporarily.\n\nAt the same time, a system error triggered avatars in TokyoExpo2099-World to be transformed into ASAGI.\n\nThey head for the sacred hall where “ASAGI souls” are enshrined to discover the truth of the incident and stop Berserker’s plan.\n\nThe survival of TokyoExpo2099 and the ASAGI world depends on them.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "ASAGI",
+      "trait_type": "Collaboration"
+    }
+  ]
+}

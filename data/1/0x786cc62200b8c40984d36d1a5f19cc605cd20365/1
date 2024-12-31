@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNpw4N319w3bWe5Mh8m43Jdfde2U7xe7xV12NV4g8LS3L/nft.JPG",
+  "nftContractAddress": "0x786cc62200b8c40984d36d1a5f19cc605cd20365",
+  "animationUrl": "https://ipfs.io/ipfs/QmTkvggcA55NSGQn8FRyvFaQuXtEButPMD2FMjxrTwnG1H/nft.mp4",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "MEGURI",
+  "description": "自然は巡りを知らせてくれる",
+  "attributes": [
+    {
+      "value": "春",
+      "trait_type": "季節"
+    },
+    {
+      "value": "昼",
+      "trait_type": "時"
+    },
+    {
+      "value": "河原",
+      "trait_type": "場所"
+    },
+    {
+      "value": "穏やか",
+      "trait_type": "すべて"
+    }
+  ],
+  "minted": ""
+}

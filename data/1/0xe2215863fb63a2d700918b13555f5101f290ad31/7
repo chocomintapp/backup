@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSyvS6ihqtjqz4obEDvfzGimTFV6NENDPEcr5edJjMcob/nft.png",
+  "nftContractAddress": "0xe2215863fb63a2d700918b13555f5101f290ad31",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "YAMA Quartet 07",
+  "description": "#テーマ：四元素「土」\n\n森の中で秘密の作戦会議をしているアルパカくんとキノコ猫ちゃん。  \n冒険家の秘伝書を手に二人でいろんな話をしています。  \nひそひそとどんな話をしているのでしょうか？\n\n#THEME: The Four Elements \"Earth\"\n\nAlpaca Go Go and Mushroom Head Cat are having a secret meeting in the forest.  \nThey discuss a lot with the adventures secret book in their hands.  \nGuess what they're talking in whispers. \n\n---\n\nMain Character: Alpaca Go Go   \nSub Character: YO-CO  \nCharacter coloring: Mai Kano  \nBackground: Aoyoko",
+  "attributes": [
+    {
+      "value": "Alpaca Go Go",
+      "trait_type": "Main Character"
+    },
+    {
+      "value": "YO-CO",
+      "trait_type": "Sub Character"
+    },
+    {
+      "value": "Mai Kano",
+      "trait_type": "Character coloring"
+    },
+    {
+      "value": "Aoyoko",
+      "trait_type": "Background"
+    }
+  ]
+}

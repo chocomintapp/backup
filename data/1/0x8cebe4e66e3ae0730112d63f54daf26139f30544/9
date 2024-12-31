@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbZrU9ySCg4tiKDTxuv4kScNxJ2Bbsq41D79WLwnW1cJE/nft.png",
+  "tokenId": 9,
+  "description": "",
+  "nftContractAddress": "0x8cebe4e66e3ae0730112d63f54daf26139f30544",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "CryptoSisters #9",
+  "attributes": [
+    {
+      "trait_type": "CHARACTER",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "PRICE",
+      "value": "ATH"
+    }
+  ],
+  "minted": "✅"
+}

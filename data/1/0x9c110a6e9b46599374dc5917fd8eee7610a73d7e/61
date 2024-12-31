@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWSeGxRAmhkkaMF9yhFm2nwUEKXxEVw3yLWp7UGtFZnxh/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 61,
+  "chainId": "1",
+  "name": "POCO_Esperanza",
+  "description": "Esperanza-Chan\n\n",
+  "attributes": [
+    {
+      "value": "White",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Devout",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Prayer ",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

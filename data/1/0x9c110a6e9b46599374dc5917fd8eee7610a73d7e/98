@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVozdkkxiiBPYGdUh3bFHh68zkrASV7YxoBe4jTa7WRYP/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 98,
+  "chainId": "1",
+  "name": "POCO_Ulrica",
+  "description": "Ulrica-Chan\n",
+  "attributes": [
+    {
+      "value": "Easygoing",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Green",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

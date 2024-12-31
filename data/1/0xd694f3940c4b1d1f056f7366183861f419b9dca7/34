@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfUSwkFtd3T1ArqGF2vqex8SbuiQKEcY5GW512Lze2rQb/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "1",
+  "name": "June 20 セントジョーンズワート",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "20",
+      "trait_type": "日"
+    },
+    {
+      "value": "預言者",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "セントジョーンズワート",
+      "trait_type": "花"
+    }
+  ]
+}

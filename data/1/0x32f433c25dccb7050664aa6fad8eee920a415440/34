@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmctMjZw2vJ3aMw9Q4wvvmt2SPXcZT799q21b9AcHxGrN4/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmVnfegZ9HRep8sx8BMgnYEwEGmKY4r1fXxKFoLzBFFLir/nft.mp4",
+  "tokenId": 34,
+  "chainId": "1",
+  "name": "THE JEWEL #034",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Imperial Topaz",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "pink",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT3NhradZ7a3znvobfaViUNF6WR2fftrRrq8SdYo6HmFC/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "Yaung Linhua",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "NINJA",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "NOMAL",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "KUNAI",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    }
+  ]
+}

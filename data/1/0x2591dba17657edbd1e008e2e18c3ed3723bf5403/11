@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTCgwwNrb15XR4HoLjAn5yWiRvTBE4VRxPp2oME4Bbjy4/nft.png",
+  "nftContractAddress": "0x2591dba17657edbd1e008e2e18c3ed3723bf5403",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "Fungi Girl #7",
+  "description": "Mushroom, Female, Fungi Girl, Cute, AI Art, AI Drawing",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Colors"
+    },
+    {
+      "value": "Planet",
+      "trait_type": "Background type"
+    }
+  ]
+}

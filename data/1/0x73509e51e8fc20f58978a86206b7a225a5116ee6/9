@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf6GCdgCQkABz2USUXhwiDHzrZ4f71w6V3S3m7E1jF9Jg/nft.png",
+  "tokenId": 9,
+  "description": "",
+  "nftContractAddress": "0x73509e51e8fc20f58978a86206b7a225a5116ee6",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #9",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Carmine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Gray Leopard"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigar"
+    }
+  ]
+}

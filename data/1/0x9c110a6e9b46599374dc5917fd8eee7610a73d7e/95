@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY94UnQzzatzAJVYvTAucaHqbjXGarJgwwg6DfLjjFAcu/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 95,
+  "chainId": "1",
+  "name": "POCO_Romaine",
+  "description": "Romaine-Chan\n",
+  "attributes": [
+    {
+      "value": "Earnest",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

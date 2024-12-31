@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV1hhyYfUFY535t8a3i1WK7BeHczYECa5441A4XMGerBA/nft.jpg",
+  "nftContractAddress": "0xc698c3fefc643eb9de33258cf10314836eb6be14",
+  "animationUrl": "https://ipfs.io/ipfs/QmYT8yutxyMXA7359mE6arPxaHhc4feUuVupfWgTYMmXE2/nft.glb",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "＃002 Forest Dragon [ Gold ]",
+  "description": "[ Bringer D ]\nThis dragon is called Bringer D because it brings a bountiful harvest to the land where it lives.\nThat is not true. The dragon needs a rich hunting ground to sustain its massive size. To the land of abundance they come.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Dragon",
+      "trait_type": "Tribe"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Base plate"
+    }
+  ]
+}

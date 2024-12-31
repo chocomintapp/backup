@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR2scJKy5ehNNUdZg43ZdEZhuztqWTUUAr3KE7DDoLciA/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 368,
+  "chainId": "1",
+  "name": "May 18 チューリップ（赤）Ver.3",
+  "description": "",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "18",
+      "trait_type": "日"
+    },
+    {
+      "value": "永遠の愛",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "チューリップ",
+      "trait_type": "花"
+    },
+    {
+      "value": "3",
+      "trait_type": "Ver"
+    }
+  ],
+  "minted": "✅"
+}

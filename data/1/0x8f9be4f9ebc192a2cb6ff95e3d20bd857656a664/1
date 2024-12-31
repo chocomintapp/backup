@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYvv8vrpVH1RVE9EZQMNdTxifUDM36FwsRxVLktaGWfZ6/nft.png",
+  "nftContractAddress": "0x8f9be4f9ebc192a2cb6ff95e3d20bd857656a664",
+  "animationUrl": "https://ipfs.io/ipfs/QmYvv8vrpVH1RVE9EZQMNdTxifUDM36FwsRxVLktaGWfZ6/nft.png",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "NEOTOKYOMELTDOWN#1",
+  "description": "People sleeping in NEOTOKYO",
+  "attributes": []
+}

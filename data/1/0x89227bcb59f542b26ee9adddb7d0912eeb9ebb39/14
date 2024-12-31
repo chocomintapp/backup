@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXpiAUgaWHrDKH8BqZJdRnn9Hx7wpWMyhatR8VkUGhGCz/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "#014-Kanagawa-",
+  "description": "#014-Kanagawa-",
+  "attributes": [
+    {
+      "value": "Aqua",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kanto",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Kanagawa",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

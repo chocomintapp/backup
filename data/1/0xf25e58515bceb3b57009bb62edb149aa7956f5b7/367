@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYhf3Ef2QribemeDTbaK88StsRejHdjBjLyY85rgHbo6U/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 367,
+  "chainId": "1",
+  "name": "MII",
+  "description": "■ミー",
+  "attributes": [
+    {
+      "value": "Hanabi",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Too much of a surprise",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-Full",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Round glasses-red(NE)Shining",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Stuffed Zombie2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

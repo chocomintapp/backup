@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcWwh3qiQdre4yEoAuMVEzhonAm9UZX4Z161VCZHnMkJv/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 389,
+  "chainId": "1",
+  "name": "RINNE",
+  "description": "■リンネ",
+  "attributes": [
+    {
+      "value": "Demon World Entrance",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "OkameSmile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0005Eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Maid robot",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Mitama-Ani(N)R",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

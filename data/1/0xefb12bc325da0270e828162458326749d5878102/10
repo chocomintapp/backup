@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWoDEEbLVhQ4KTyyJMMaUtdb19UMisMrbbaxNCzNmLQau/nft.png",
+  "nftContractAddress": "0xefb12bc325da0270e828162458326749d5878102",
+  "animationUrl": "https://ipfs.io/ipfs/QmfWnpperA1Tp54WyHtowTBHvKVr8ks9tT3oUApKAdu2U6/nft.glb",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "Ballerbit #62C Ttum",
+  "description": "50-goal game, the most in Celtic history.",
+  "attributes": []
+}

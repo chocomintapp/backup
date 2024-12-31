@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPWUy8B1tj6GtGsRdNEeoQpvut9FMq4S3ryNtEkHoofG1/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "1",
+  "name": "POCO_Seven Tailed Kitsune",
+  "description": "@USDC_Maximalist Commission\noriginal:https://opensea.io/assets/ethereum/0x8634c23d5794ed177e9ffd55b22fdb80a505ab7b/7",
+  "attributes": [
+    {
+      "value": "Commission",
+      "trait_type": "RARITY"
+    }
+  ],
+  "minted": "✅"
+}

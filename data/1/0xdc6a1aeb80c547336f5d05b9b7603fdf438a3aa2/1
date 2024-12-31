@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQtZYnRnyi5538wBAmbMPn2jUfwvgnUqi6T5yy9rm3ARQ/nft.png",
+  "tokenId": 1,
+  "description": "a",
+  "nftContractAddress": "0xdc6a1aeb80c547336f5d05b9b7603fdf438a3aa2",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "a",
+  "attributes": [
+    {
+      "trait_type": "q",
+      "value": "1"
+    },
+    {
+      "trait_type": "e",
+      "value": "2"
+    },
+    {
+      "trait_type": "f",
+      "value": "4"
+    }
+  ]
+}

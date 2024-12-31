@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdVFuscBnRiNRKG9zVYGZ1bvX87qNrsRHed4JAncnnvBb/nft.png",
+  "tokenId": 4,
+  "description": "Akame-chan doll.",
+  "nftContractAddress": "0x5ed7274b0a49928b8d645e71f10a0d82c78e923c",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Akame-chan doll",
+  "attributes": []
+}

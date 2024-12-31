@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmaci4JZVWuqVLke18FzxpP1ryqHk3xmLfBiXme85srm8E/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 94,
+  "chainId": "1",
+  "name": "POCO_Radia",
+  "description": "@Radiapyon Commission",
+  "attributes": [
+    {
+      "value": "Commission",
+      "trait_type": "RARITY"
+    }
+  ],
+  "minted": "✅"
+}

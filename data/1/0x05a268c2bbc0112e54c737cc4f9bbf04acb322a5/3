@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQGdzMWfE8nX2eNp8sBy7iT7aRAKa21iDRFGLkSbgGubR/nft.png",
+  "nftContractAddress": "0x05a268c2bbc0112e54c737cc4f9bbf04acb322a5",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "#003_MELLOW",
+  "description": "MELLOW is a witch girl who sleeps anytime, anywhere.  \n---Witch Girls Collection",
+  "attributes": [
+    {
+      "value": "Witch Girls Collection",
+      "trait_type": "Collection"
+    },
+    {
+      "value": "Mellow",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Lavender",
+      "trait_type": "Background"
+    }
+  ]
+}

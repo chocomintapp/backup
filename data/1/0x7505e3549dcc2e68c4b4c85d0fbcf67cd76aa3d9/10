@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRfPZzzYoLQQBSCfevUD6ZpPjGiZBqUXjzuhUBNGdX3Ru/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "Winged Fish はねのついたさかなさん #213",
+  "description": "【にじいろのさかなさん】のゆめがかなって\nはねのついたさかなさんにしんかしました。\n\nはねが水色で\n天国にいっちゃったのかなって思ったけど\nおかあさんたちはいないからちょっとさみしいけど\nなんとかお友だちとかつれていきたかった。\n\nみんなを天国のほうにもち上げました。\n\nそこはいえとかもちゃんとあります。\n空にすめるようになりました。\nおかあさんたちもまたよべるようになりました。\n\n☆小学2年生13番目の作品なので213のナンバーをふりました♪\n\nThe dream of \"Rainbow Fish\" came true.\nShe have changed into a fish with wings.\n\nHer wings were light blue, and she thought she had gone to heaven.\nShe was going to miss her mother.\nAnd she wanted her friends to go with her.\n\nShe lifted everyone up toward heaven.\n\nThere is a house and everything.\nAnd now everyone could live in the sky.\nHer mother could also come to the sky.\n\n☆This is the 13th work of the 2nd grade of elementary school, so I numbered it 213.",
+  "attributes": [
+    {
+      "value": "Gold",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Kawaii",
+      "trait_type": "Category"
+    }
+  ],
+  "minted": "✅"
+}

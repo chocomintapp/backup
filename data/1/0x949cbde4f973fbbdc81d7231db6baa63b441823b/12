@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcVRSG8qAEaaskHghtaPUEbzWP3CZjAZJWeve3iWuQjs7/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "SI #12",
+  "description": "",
+  "attributes": [
+    {
+      "value": "I",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "S",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "I",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "si",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

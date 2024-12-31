@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaZn4eurdi4Ap5SH9JsmRxtEeZwJwNJpiN6AXDHdwmAw9/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmTnEaLLEq4KTAB3WYFgPZZTHkrcDUkK5qq4Bk9dM5bPwt/nft.mp4",
+  "tokenId": 590,
+  "chainId": "1",
+  "name": "THE JEWEL #590",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Grandidierite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

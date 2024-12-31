@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYc9KAWweVx8bGsb7Hp6W5XnB6yZLjCCgZLeXQbLhYUfd/nft.gif",
+  "tokenId": 4,
+  "description": "Original animation",
+  "nftContractAddress": "0xd7ea9cbfbfa53f7087c33640a8f1e9f8c0bfe47e",
+  "animationUrl": "https://ipfs.io/ipfs/QmPCmcCHTNHUSN23w2VrUzYq5CvPAsEhguTYE1KvdK39CQ/nft.mp4",
+  "chainId": "1",
+  "name": "dream"
+}

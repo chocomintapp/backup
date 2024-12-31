@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRwGy9o2W7ReowN5cWdYyNWySTu1wAYVg76kArXpFJNnN/nft.png",
+  "tokenId": 10,
+  "description": "\"Shambler\" = \"Alraune\" x \"Zombie\" Trogia Sakata\n\n「シャンブラー」メイン種族アルラウネ、サブ種族ゾンビ。名前はトロギア坂田。\n\nシャンブラーは、きのこのモンスター娘。アルラウネ種族から植物要素を、ゾンビ種族から「毒」の特性を引き継いでいる。お腹を空かせた人を見ると、頭のきのこをむしって食べさせようとしてくるが、致死性が高いので絶対に食べてはいけない。なお本人に悪気はなく「ぼくのかおをおたべ」程度の親切心である。\n\n\"Shambler\" is the monster girl of Mushroom. She has inherited the plant element from \"Alraune\" species and the \"poison\" property from \"Zombie\" species. When she sees a hungry person, she plucks a mushroom from her head and tries to make them eat it, but it is highly lethal and must not be eaten. However, she has no ill intentions, and it's only trying to be kind.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#035 \"Shambler\" Trogia Sakata",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Alraune"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

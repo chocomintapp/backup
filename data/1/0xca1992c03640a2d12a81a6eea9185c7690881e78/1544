@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfM9AiVfEVsD5VrGTbFS7MiHFoxj8VZuSukgEasTTW64u/nft.png",
+  "tokenId": 1544,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1544",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Braid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Cyber Eyes"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Apron"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold 3 Hoop"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Angel"
+    }
+  ]
+}

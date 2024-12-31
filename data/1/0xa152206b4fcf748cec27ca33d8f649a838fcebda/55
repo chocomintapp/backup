@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXpyMNAZiW3xm1FdBuJe4e9tf8A2FfagVvKwMnscLASh3/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 55,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "僕のシンボル",
+  "attributes": [
+    {
+      "value": "ヨシザワ",
+      "trait_type": "人物"
+    },
+    {
+      "value": "学ラン",
+      "trait_type": "服装"
+    },
+    {
+      "value": "XYM",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

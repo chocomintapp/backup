@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRDQS48AHpDEp8aw2834TkrwjettKomq6mXVBx8kNTi5X/nft.png",
+  "tokenId": 23,
+  "description": "She is #pict_chan dressed as a masked hero. She hides her true face and fights evil.",
+  "nftContractAddress": "0xf4d5c20c1dba92b04a7387f22437903cc5bd41da",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#pict_chan_21_maskedhero",
+  "attributes": [
+    {
+      "trait_type": "#pict_chan",
+      "value": "owner"
+    }
+  ]
+}

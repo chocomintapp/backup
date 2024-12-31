@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQR8orHnjTVjDF6g6PpyN9Eeakxrb54Tz6KTpN5VekQrF/nft.png",
+  "tokenId": 748,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #748",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovely Madness"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Knit Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Coconut Water"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Plumeria"
+    }
+  ]
+}

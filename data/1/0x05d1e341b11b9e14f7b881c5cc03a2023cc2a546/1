@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdsEdBaNPHqme2cYLqh8aoXxaPuMxwSAB8nCyftqfPsWW/nft.gif",
+  "tokenId": 1,
+  "description": "Null  \n何色にも染まらない始まりの色  \nThe color of the beginning that cannot be dyed in any color.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmSYEpLcNpsN9ts2f7ypPUKEFdGqEAvose2wWfAccfZGYR/nft.mp4",
+  "chainId": "1",
+  "name": "Null #001",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    }
+  ]
+}

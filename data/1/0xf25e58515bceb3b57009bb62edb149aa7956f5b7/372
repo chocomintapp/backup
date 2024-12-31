@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdjGAoZXAZPrwLtV1ntY6LRHEGVuyXRCzfWg29qihVVei/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 372,
+  "chainId": "1",
+  "name": "九条畑　葱",
+  "description": "■NEGI　KUJYOBATAKE\n■クジョウバタケ　ネギ\n■CNPR優先権付ファンアート",
+  "attributes": [
+    {
+      "value": "half-broken",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Anisu-Hostess",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "AnisuBody3",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Round glasses-red(NE)",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Mitama-Makoto(H)W",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-DeepPurple",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

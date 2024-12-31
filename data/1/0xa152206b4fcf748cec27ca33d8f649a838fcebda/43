@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYDBgbzuPfTE7y2vRm3Ku4SNyixmBhqGEJAogNZZafLFj/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "二刀流",
+  "attributes": [
+    {
+      "value": "オオニタ",
+      "trait_type": "人物"
+    },
+    {
+      "value": "ベースボールユニフォーム",
+      "trait_type": "服装"
+    },
+    {
+      "value": "野球ボール",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "バット",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQm55kfaVQvbidZTyy4qVHz4yYc6fwkkDAtJLXFthWVWZ/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 53,
+  "chainId": "1",
+  "name": "KATE",
+  "description": "She is a big fighter and has the fighting strength of 10 androids.\n\nShe will attack you as soon as she lays eyes on you, so be careful.\n■ケイト\n彼女は大の喧嘩好きで、アンドロイド10体分の戦闘力を持っている。\n\n目が合えばすぐに襲ってくるので、気を付けましょう。",
+  "attributes": [
+    {
+      "value": "MIX1",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Red",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Tail-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-Orange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-R",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-3EYES",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Angel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Meta tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

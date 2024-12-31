@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaTa1pzpC7VLHryX5yPXXCTaqJbdKKtiGSNUVd73nqXaU/nft.png",
+  "tokenId": 12,
+  "description": "",
+  "nftContractAddress": "0x73509e51e8fc20f58978a86206b7a225a5116ee6",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #12",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovely Madness"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ears",
+      "value": ""
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Ben Franklin"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Heart Silver"
+    }
+  ]
+}

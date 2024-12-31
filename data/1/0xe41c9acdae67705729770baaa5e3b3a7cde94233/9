@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSeEJtKvQwG5vXPQCmzdrDxTHU6yDjRHqUw4URZiYu1YW/nft.jpg",
+  "tokenId": 9,
+  "description": "1| \"Anonymous Air\" is an NFT sound collectible. \n2| Duration: 10sec. \n3| Nothing happens. \n4| You can modify/remix/combine. \n5| Available for commercial use (if possible). \n6| What can we own, though? \n7| 35.64417400059627, 139.72223808294004\n8| 2022011901",
+  "nftContractAddress": "0xe41c9acdae67705729770baaa5e3b3a7cde94233",
+  "animationUrl": "https://ipfs.io/ipfs/QmPZ8sA1rbAD1WEhrEbGBTuBsV7aZcyhh6RUtcFCPVRpmz/nft.mp4",
+  "chainId": "1",
+  "name": "AnonymousAir_#007",
+  "attributes": []
+}

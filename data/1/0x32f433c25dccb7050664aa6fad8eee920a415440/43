@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW4WWm8X4gZhtuKr8kLay2YNUa8XwYsjViS2vUfcoaiYQ/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmeKkVXfYL1wSMMAFVoF7dna29JjoDzjtqoMvRcSbzLbHB/nft.mp4",
+  "tokenId": 43,
+  "chainId": "1",
+  "name": "THE JEWEL #043",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Amethyst",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "purple",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

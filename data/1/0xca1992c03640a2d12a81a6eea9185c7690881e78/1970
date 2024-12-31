@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYuxfAHC1BKUz57Y8a6PcJXg8edmZnLLjRGRQLqntafdo/nft.png",
+  "tokenId": 1970,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1970",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Rainbow Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Slip"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Circle"
+    }
+  ]
+}

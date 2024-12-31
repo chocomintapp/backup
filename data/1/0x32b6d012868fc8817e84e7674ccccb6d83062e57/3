@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaQZ5JNPPejDuAEiRz6MprvFYtekCzTMooVjbqRrHimQP/nft.png",
+  "nftContractAddress": "0x32b6d012868fc8817e84e7674ccccb6d83062e57",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Rabbit girl #6『紫陽花』\"Sweet magic\"",
+  "description": "Rabbit girl #6『紫陽花』\n\"Sweet magic\"\n\nA girl serving at a maid cafe.\nToday's signboard menu is her specialty, fluffy pancakes. \nEnjoy with sweet magic!",
+  "attributes": [
+    {
+      "value": "Hydrangea",
+      "trait_type": "Character"
+    },
+    {
+      "value": "illustration",
+      "trait_type": "Type"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

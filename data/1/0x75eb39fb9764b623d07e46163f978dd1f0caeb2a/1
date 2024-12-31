@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNjLKvHa1ZVYg9Pzq7jpuFuzNJRNA25QLK7DyUe3wVLEa/nft.jpg",
+  "nftContractAddress": "0x75eb39fb9764b623d07e46163f978dd1f0caeb2a",
+  "animationUrl": "https://ipfs.io/ipfs/QmcUThSBgmoHczpScGdJdGMe3iMeuXA17xbnxY4iX4WU6g/nft.mp4",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Dazzling MISAKIJO",
+  "description": "MISAKIJO dazzling in the night.",
+  "attributes": []
+}

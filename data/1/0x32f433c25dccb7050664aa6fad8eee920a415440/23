@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSr1wfgFLKxcCWYrASzEWW4jRYSzbGrLr5EtHFeg5e71J/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmT2cfwDCuGNUd7BQHEdnerQmync8SCf3Ya9i6CfL4vwww/nft.mp4",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "THE JEWEL #023",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "champagne topaz",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbgTX7GHowEXzrotPnACAQ9MqTovHYAnArZrnxgbByasB/nft.gif",
+  "tokenId": 1,
+  "description": "This video is based on the AAVE motif.",
+  "nftContractAddress": "0x801676ef5a5df4579d55fc26767b96da9512d5a5",
+  "animationUrl": "https://ipfs.io/ipfs/QmNjgEBJQ7zrus7tJcuechumFcrqXvdLfB5PpNxse7sk4m/nft.mp4",
+  "chainId": "1",
+  "name": "AAVE",
+  "minted": "✅"
+}

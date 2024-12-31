@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaHPLcbatA3pYAnTFbrJJTnypfeBMsTLgTPzSSwtHwZxW/nft.png",
+  "tokenId": 1084,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1084",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Wild Green"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Carmine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Knit Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver 3 Hoop"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Black Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "French Fries"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Captain Hat"
+    }
+  ]
+}

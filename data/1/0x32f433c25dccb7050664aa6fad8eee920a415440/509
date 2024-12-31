@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYjJM1EitHPiSorKma5PjfjsQudz8NCQSUg8rJknZPP8q/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmYnvEoAg9j9BTdExXeLB7Wtu4n3oNKuEWADjeLZFQyM6S/nft.mp4",
+  "tokenId": 509,
+  "chainId": "1",
+  "name": "THE JEWEL #509",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Clear Purple",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmea4zpxgQQnTBnXUsRYN8mGmW295PKjwSJavwdHnmDCJh/nft.png",
+  "nftContractAddress": "0x89da7153f3602fa4dca6740346ef75e5ff162837",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "CG Campers feat. Halloween Night",
+  "description": "「CoolGirl秋のファンアートコンペ2023」に応募したイラスト。",
+  "attributes": [
+    {
+      "value": "Halloween",
+      "trait_type": "Favorite"
+    },
+    {
+      "value": "trick or treat",
+      "trait_type": "Hobby"
+    }
+  ]
+}

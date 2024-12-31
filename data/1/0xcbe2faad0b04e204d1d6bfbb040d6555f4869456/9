@@ -1,0 +1,20 @@
+{
+  "image": "https://copper-causal-piranha-111.mypinata.cloud/ipfs/QmbueGpU7ma6iSzqGXxjdGkQAraqbVmmqpLeQENQPDZczt",
+  "nftContractAddress": "0xcbe2faad0b04e204d1d6bfbb040d6555f4869456",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "CoolGirl Campers #009",
+  "description": "",
+  "attributes": [
+    {
+      "value": "portable battery",
+      "trait_type": "Favorite"
+    },
+    {
+      "value": "Programming",
+      "trait_type": "Hobby"
+    }
+  ],
+  "minted": "✅"
+}

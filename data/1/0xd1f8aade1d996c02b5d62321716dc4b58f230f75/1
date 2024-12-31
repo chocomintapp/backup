@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZJTdzn6RTrs1bhG3CPGY2q7QRWCi1BTX1dFwxDG9oA9V/nft.PNG",
+  "nftContractAddress": "0xd1f8aade1d996c02b5d62321716dc4b58f230f75",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Hamburger Town #001",
+  "description": "Hamburger Kingdom",
+  "attributes": [
+    {
+      "value": "Hamburger Kingdom",
+      "trait_type": "TYPE"
+    }
+  ]
+}

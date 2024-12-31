@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRL9Kv4CW1hfD1DS1aRFUA2n1EjjaDvkYEB6mGPmqRWEm/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 159,
+  "chainId": "1",
+  "name": "October 23 パセリ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "月"
+    },
+    {
+      "value": "23",
+      "trait_type": "日"
+    },
+    {
+      "value": "逆境からの勝利",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "パセリ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

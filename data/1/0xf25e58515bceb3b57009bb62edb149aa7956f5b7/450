@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmawcp3rWrb6MxnaZRSEevy1CwqYGvWvPbuNxSh99hinUE/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 450,
+  "chainId": "1",
+  "name": "LAM",
+  "description": "■ラム\n@alicelamart1　コラボ作品\nhttps://opensea.io/collection/cupdoll",
+  "attributes": [
+    {
+      "value": "Bright-Blue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Lightblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-URed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Winter",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "A cup of doll 1",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Silver",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

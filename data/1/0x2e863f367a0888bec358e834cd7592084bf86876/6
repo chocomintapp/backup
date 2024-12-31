@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdHyyozdzjsbXQR7iBCzQFpb6xWzS6uKT1Ggb2oMsjRo4/nft.JPG",
+  "tokenId": 6,
+  "description": "What lies on the other side of the Space Portal? Is it more space or will we finally find the answers we have been looking for.\n\nOriginally sold with the painting\nPainted in 2021\nKrs",
+  "nftContractAddress": "0x2e863f367a0888bec358e834cd7592084bf86876",
+  "animationUrl": "https://ipfs.io/ipfs/QmdHyyozdzjsbXQR7iBCzQFpb6xWzS6uKT1Ggb2oMsjRo4/nft.JPG",
+  "chainId": "1",
+  "name": "The Portal",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

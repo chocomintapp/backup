@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPJQmJQN4q2gCX4PxLVZAivr2mji4G62D3wo2j2dX8Mbk/nft.jpg",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 319,
+  "chainId": "1",
+  "name": "Vanks",
+  "description": "New life born the coexistence with human and date. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.",
+  "attributes": [
+    {
+      "value": "Devil",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "None",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Distorted  Gradation",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Black",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Studs Choker",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "3LOM",
+      "trait_type": "PROTO VALUE"
+    },
+    {
+      "value": "Gravity",
+      "trait_type": "SPELL"
+    }
+  ]
+}

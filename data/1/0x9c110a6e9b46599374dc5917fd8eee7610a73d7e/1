@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX6oKdxzkQGcBnzpcs6EgvdajWbBZkLn5f6kWepyVoXsS/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Conspiracy",
+  "description": "Even when sleepy, I am good at pulling pranks. GUFUFU~",
+  "attributes": [
+    {
+      "value": "Limited",
+      "trait_type": "RARITY"
+    },
+    {
+      "value": "Overburdened",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Black",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    }
+  ]
+}

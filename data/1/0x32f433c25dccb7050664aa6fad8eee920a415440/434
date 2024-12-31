@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcyPgHBrSN9ZGfQLjaow6E2nsSwLCBDrX11escA18jCmN/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmXai3BzFVsryeH1hHDjEDDEuDHGk69GUs2i5r9rEgEL8M/nft.mp4",
+  "tokenId": 434,
+  "chainId": "1",
+  "name": "THE JEWEL #434",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Baraka Garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

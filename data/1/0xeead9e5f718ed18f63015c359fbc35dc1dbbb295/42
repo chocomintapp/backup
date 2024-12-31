@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZg6qFcotpuaiG57TouSyJYweW4TZbLPYBbyatF8fNkku/nft.png",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "https://ipfs.io/ipfs/QmeQijp1D5tKB9yK2YDyGnuDZhabaXzv2xydCW4Ja9r9Vr/nft.mp4",
+  "tokenId": 42,
+  "chainId": "1",
+  "name": "VOiD-IN-THE-PUNKS 03",
+  "description": "[ENG]\n\nThe year is 2090 A.D., and this is a world derived from a specific parallel world.\nHe found a broken device marked \"NTP\" in the rubble.\n\nHe organized VOiD to liberate the government-controlled multiverse.\nHe modified the device marked \"NTP\" and created a test device and four avatars for VOiD.\n\nThe time for a counterattack is close.\n\n\n[JPN]\n\n西暦2090年、ここはとある平行線から派生した世界。\n\n彼は、瓦礫の中から「NTP」と書かれた壊れたデバイスを見つけた。\n\n彼は、政府によって支配されたマルチバースを解放すべく、VOiDを組織した。\n\nNTPと書かれたデバイスを改造し、VOiDのテストデバイスと4基のアバターを製作した。\n\n反撃の時は近い。",
+  "attributes": [
+    {
+      "value": "Neo Tokyo Punks",
+      "trait_type": "COLLABORATION"
+    }
+  ]
+}

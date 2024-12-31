@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfRuWne7s9Q5F7uAhH4H3wi1oLT2op4F4GCg3nTtLmHf1/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWFnGAgKa8FLpmLaHEPwv2eQsyqyH8ibazf6KweqitTLC/nft.mp4",
+  "tokenId": 600,
+  "chainId": "1",
+  "name": "THE JEWEL #600",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Red Scorpion",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Bloody Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

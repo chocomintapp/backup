@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPXaHVqthrNBKqphZYcGocX1Mqo8FGfmWhabycwVyTXXA/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "#015-Niigata-",
+  "description": "#015-Niigata-",
+  "attributes": [
+    {
+      "value": "Aqua",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Chubu",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Niigata",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPkCqnNeB8SxoPHB3G4PcZvhvUqKzNNGB5DMo3CoN44hT/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "Beach Borne Bae #49",
+  "description": "Beach Borne Bae #49\nInspired by Loggerhead turtle / アカウミガメ",
+  "attributes": [
+    {
+      "value": "Short",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Turtleneck",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Orange",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Sea Turtle",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRRx3feXxLHmfbwrFz5vNNkNEKuxkw56HtDXTwA5ccdPK/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 58,
+  "chainId": "1",
+  "name": "July 14 ヒルガオ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "7",
+      "trait_type": "月"
+    },
+    {
+      "value": "14",
+      "trait_type": "日"
+    },
+    {
+      "value": "優しい愛情",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ヒルガオ",
+      "trait_type": "花"
+    }
+  ]
+}

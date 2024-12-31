@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbHPsqNB6Egvb8LK6ZLCtdhGurbwiVsWjn48A7BnijJQY/nft.gif",
+  "nftContractAddress": "0x14df01ddadf042d171a95f0ca8a3911a3c3457ab",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "#4",
+  "description": "人を喜ばせるなら、なんでもするぜ！！\n喜劇だろうが、奇術だろうが。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Silk hat",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Black beard",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Morning",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Stick",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Alien ",
+      "trait_type": "Option "
+    },
+    {
+      "value": "Chick",
+      "trait_type": "Option"
+    },
+    {
+      "value": "Comedian",
+      "trait_type": "Job"
+    }
+  ]
+}

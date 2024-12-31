@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTyJ9fX9bNMGoFNcVKrgu85VvRbkkMmK9L6oh5GD7t4Cw/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "うめがなる木 Tree bearing plum fruits",
+  "description": "梅の実が成る木です。\n梅が成ると空からも梅が降ってきます。\n鳥の群れが集合しています。みんなで食べられます。\n\n▶︎ XANALIA NFTART AWARDS 2021 で ノミネート作として掲載いただいた作品です。100以上のいいねをいただきありがとうございました！\n\n掲載期間満了にて、OpenSeaに出せるよう、 Chocofactory経由の独自コントラクトにしました。\n\nAs the plums bear fruit, they fall from the sky as well.\nFlocks of birds are also gathering.\nHumans, birds, animals, and insects can all eat together.\nLet's all eat!\n\nThis work was published as a nominee in the XANALIA NFTART AWARDS 2021. Thank you very much for more than 100 likes!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Tree",
+      "trait_type": "Type"
+    },
+    {
+      "value": "bird",
+      "trait_type": "Animal"
+    },
+    {
+      "value": "Fruit",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Japanese apricot",
+      "trait_type": "Fruit Types"
+    },
+    {
+      "value": "Art",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Color"
+    }
+  ]
+}

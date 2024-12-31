@@ -1,0 +1,67 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme6PSaKFtz2Ahxn8AfNc9KdL6U3kqpLPtonQcHBx4GmNr/nft.png",
+  "nftContractAddress": "0x08853526dc120c16bbc587436993278e52f9eb80",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "夣雅",
+  "description": "Villain side hideout #6\n\n\"6FU\"(Six feet under) \nClub, and jack of all trades It`s where all the bad stuff happens...\n\n\"I can treat anything, \nbut cannot promise that it will become the way it was...\"\n\n敵側 アジト#6\n\nアンダーグラウンドに位置する６FU. \nクラブ、薬屋、何でも屋、 \n油断すると魂を持っていかれるかも…\n\n\"ワタシにかかればどんなものでも治療出来ますよ。\nまあ、元に戻るかのお約束は出来かねますが…\"",
+  "attributes": [
+    {
+      "value": "?",
+      "trait_type": "Character"
+    },
+    {
+      "value": "none",
+      "trait_type": "Belief"
+    },
+    {
+      "value": "6FU",
+      "trait_type": "Location"
+    },
+    {
+      "value": "?",
+      "trait_type": "Species"
+    },
+    {
+      "value": "medicine",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "5",
+      "trait_type": "apearance"
+    },
+    {
+      "value": "5",
+      "trait_type": "charisma"
+    },
+    {
+      "value": "8",
+      "trait_type": "intelligence"
+    },
+    {
+      "value": "6",
+      "trait_type": "luck"
+    },
+    {
+      "value": "8",
+      "trait_type": "mana"
+    },
+    {
+      "value": "4",
+      "trait_type": "speed"
+    },
+    {
+      "value": "2",
+      "trait_type": "spirit"
+    },
+    {
+      "value": "4",
+      "trait_type": "toughness"
+    },
+    {
+      "value": "3",
+      "trait_type": "strength"
+    }
+  ]
+}

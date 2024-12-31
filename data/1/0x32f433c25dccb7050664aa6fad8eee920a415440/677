@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf4HSVDGTHsnnLgTeJ7wPicqg2WwSh4kwWvL86PKoEPdc/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmdXG9wLHDm9nutG6VUtbp1aSotDF9SxkinfzRuQidXWX3/nft.mp4",
+  "tokenId": 677,
+  "chainId": "1",
+  "name": "THE JEWEL #677",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Clear Pink",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

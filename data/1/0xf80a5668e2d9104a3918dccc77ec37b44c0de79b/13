@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXPTRHXvyfuVhxTsof4DjbWzXgcUNbtU1DdV3qGLyFw6s/nft.png",
+  "nftContractAddress": "0xf80a5668e2d9104a3918dccc77ec37b44c0de79b",
+  "animationUrl": "https://ipfs.io/ipfs/QmXPTRHXvyfuVhxTsof4DjbWzXgcUNbtU1DdV3qGLyFw6s/nft.png",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "Bikkuri_Girl #012",
+  "description": "びっくりした仕草をしている女の子のコレクション第12弾です\n恋に落ちたのか、何か見つけたのか、何にびっくりしているか…捉え方はあなた次第！\n\nThis is the 12th collection of girls making surprised gestures.\nWhether they've fallen in love, found something, or are surprised by what... it's up to you!",
+  "attributes": [
+    {
+      "value": "OtoHime☆",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "A class",
+      "trait_type": "CLASS"
+    },
+    {
+      "value": "Akira",
+      "trait_type": "NAME"
+    }
+  ],
+  "minted": "✅"
+}

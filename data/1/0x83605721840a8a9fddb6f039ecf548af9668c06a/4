@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRv853kJfm2LX9eSDDRx7VHNB81YBET7ZikpCEGdN3ofG/nft.png",
+  "nftContractAddress": "0x83605721840a8a9fddb6f039ecf548af9668c06a",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "CryptoNinja #033",
+  "description": "033",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Saika - 雑賀",
+      "trait_type": "Clan"
+    },
+    {
+      "value": "Onibi - 鬼火",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "A Cat's Eye Choice - 猫の目の選択",
+      "trait_type": "Ninjutsu"
+    }
+  ]
+}

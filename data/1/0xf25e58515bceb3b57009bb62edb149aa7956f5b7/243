@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaAxYWU2oZg3ZPpWuUQh3p4T8UqbppKpnuxA7g9ZzynCU/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 243,
+  "chainId": "1",
+  "name": "ANIEL",
+  "description": "■アニエル",
+  "attributes": [
+    {
+      "value": "MIX3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Duckstyle-B",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Curling-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-ZBlack",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "West High School",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-anger",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Duck Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcchUnC1jq9EKVsjNJia5pa9qPxkMbXszhmgrWfEPEJT9/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 85,
+  "chainId": "1",
+  "name": "POCO_Cleo",
+  "description": "Cleo-Chan",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Introverted",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Sci-Fi",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Sleeper",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

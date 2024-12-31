@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPQpk1fhA2GugqAo963HxAqY9iVikC9yZrxRLgrp7X1Cj/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 123,
+  "chainId": "1",
+  "name": "September 17 ベゴニア",
+  "description": "",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "17",
+      "trait_type": "日"
+    },
+    {
+      "value": "好きな人",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ベゴニア",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

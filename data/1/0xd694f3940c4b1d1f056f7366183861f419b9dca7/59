@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ8Bja9VULpEwjCVvxDqTojh56fZAZjC6A4P2iyEjunVT/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 59,
+  "chainId": "1",
+  "name": "July 15 アスター・エゾギク",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "7",
+      "trait_type": "月"
+    },
+    {
+      "value": "15",
+      "trait_type": "日"
+    },
+    {
+      "value": "信じる心",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "アスター・エゾギク",
+      "trait_type": "花"
+    }
+  ]
+}

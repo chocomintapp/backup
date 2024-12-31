@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTragAPUQeBgWvU9Vo5pcWKG28tZnA793Et31CroW9dZ5/nft.jpg",
+  "tokenId": 1,
+  "description": "Cyber ​​cat",
+  "nftContractAddress": "0x6e4cc7ea0ef26466b50280d70119403f89fe2971",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Cyber ​​cat",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

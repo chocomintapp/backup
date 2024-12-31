@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVo592NbH21gJGR8k3WBZ1rwhxE4nySPMDq5wnFqEAeVp/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmXBx9EHLPXFQzh9VtBanY7Cj3LCPzVYCvKM7pmoahmTDi/nft.mp4",
+  "tokenId": 52,
+  "chainId": "1",
+  "name": "THE JEWEL #052",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Sphene",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "silver ",
+      "trait_type": "Control device"
+    }
+  ]
+}

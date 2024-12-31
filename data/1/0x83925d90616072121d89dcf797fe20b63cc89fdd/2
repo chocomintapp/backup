@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWEq4vzjZrjM8DNSgifoumCLScdgQwTebN4nn8Eon2ZUA/nft.gif",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0x83925d90616072121d89dcf797fe20b63cc89fdd",
+  "animationUrl": "https://ipfs.io/ipfs/QmQDXpS8RfxBo5Agpx6jtUjNXcMacrLHbXgMnbWxdGEpCY/nft.mp4",
+  "chainId": "1",
+  "name": "halloween"
+}

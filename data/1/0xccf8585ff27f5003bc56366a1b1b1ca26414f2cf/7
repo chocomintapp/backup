@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWFx4bNMK7F5vLX7ptzKcMZ1CyJAJ3M2dgVeQDEkWY9Dm/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "WEAR BEAR #093 ”BARTON\" FOODIE&SCHNAUZER",
+  "description": "WEAR BEAR 第10弾は原点であるFOODIEをオーソドックスにスタイリングしたベア達がなんとお供を連れて登場！\n“BARTON”はブラックのBEAR FOODIEを着用し、BUDDYのシュナウザーと登場\n",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "“PLAY BEAR” Foodie",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Denim pants black",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "“MIKE” Cortez",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Barton",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Schnauzer",
+      "trait_type": "Buddy"
+    }
+  ],
+  "minted": "✅"
+}

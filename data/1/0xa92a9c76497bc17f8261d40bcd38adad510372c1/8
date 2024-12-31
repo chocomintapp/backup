@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVF63F294qcgkigHS8yWB6mFWxedFYFGVh2r8obTTrmPH/nft.png",
+  "nftContractAddress": "0xa92a9c76497bc17f8261d40bcd38adad510372c1",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "Petit_Mia",
+  "description": "This is Mia-chan.\n\nSpecial respect for the *FuChiMing* v2.\n(URL: https://opensea.io/collection/fuchimingv2)",
+  "attributes": [
+    {
+      "value": "light brown",
+      "trait_type": "heir"
+    },
+    {
+      "value": "fox",
+      "trait_type": "animal"
+    },
+    {
+      "value": "balloon",
+      "trait_type": "accessory"
+    }
+  ]
+}

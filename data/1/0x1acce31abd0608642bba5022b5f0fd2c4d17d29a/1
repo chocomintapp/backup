@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSWrn8jTaG6hxm5GDAiEPB2tvK3RdqBnMBzyY6tuMFveX/nft.ico",
+  "tokenId": 1,
+  "description": "arkbfm",
+  "nftContractAddress": "0x1acce31abd0608642bba5022b5f0fd2c4d17d29a",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "arkbfm",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

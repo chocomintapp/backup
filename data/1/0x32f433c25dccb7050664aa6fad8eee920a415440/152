@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWzK5rEi9pbS8DAy6EMGhTNcy7pAiKBVSbXC6CnR4U3Ax/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmNPcwNgXWDLy1eFejJ8SwC5p3bghwwopFzD4hm71uLGzX/nft.mp4",
+  "tokenId": 152,
+  "chainId": "1",
+  "name": "THE JEWEL #152",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Canary Tourmaline",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver ",
+      "trait_type": "Control device"
+    }
+  ]
+}

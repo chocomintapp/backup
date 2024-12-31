@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW5v8NkEv7gv4CQ25UFU6gYgRa29v6NM23AW1tzHFmPU5/nft.gif",
+  "nftContractAddress": "0xf1147db1775de6ff5f44c74336ce24e56da2a686",
+  "animationUrl": "https://ipfs.io/ipfs/QmW5v8NkEv7gv4CQ25UFU6gYgRa29v6NM23AW1tzHFmPU5/nft.gif",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Nora Kung Fu",
+  "description": "Chakra",
+  "attributes": [],
+  "minted": "✅"
+}

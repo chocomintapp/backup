@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVmPegXYkB3Qg8qRkrA9Xk8sRP3rfmwiRJfUXhmTg1AHA/nft.jpg",
+  "nftContractAddress": "0x0e801ee8706f41ca3b1b98571eb1312c7fc32482",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "strolling around",
+  "description": "Illustrations are created using AI from the original shooting data.",
+  "attributes": []
+}

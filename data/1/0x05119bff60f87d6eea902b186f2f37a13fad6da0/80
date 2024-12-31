@@ -1,0 +1,28 @@
+{
+  "image": "QmRqXUYN1aSVh5fApTe4FaSC2e2k4r9yW5DR9eT5uDfMqm",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 80,
+  "chainId": "1",
+  "name": "POPET No.80",
+  "description": "【物語】この村の明るい未来のために！僕はあの島へ旅に出る！まずは仲間を集めなきゃ。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "剣士",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "川",
+      "trait_type": "origin"
+    },
+    {
+      "value": "勇敢",
+      "trait_type": "personality"
+    }
+  ]
+}

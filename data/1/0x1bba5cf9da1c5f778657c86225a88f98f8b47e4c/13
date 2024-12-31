@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZECpfCcHfXwZRRXC5iGnVt8QVaP2AKsE5uw6v6JjvcFV/nft.png",
+  "nftContractAddress": "0x1bba5cf9da1c5f778657c86225a88f98f8b47e4c",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "#022 Tim Fan Art of The Mafia Animals(No.024 Under)",
+  "description": "Tim is dressed as Mr.Under of the Mafia.\nHe bought rabbit acrylic stands on the EC site and completed them.\nThey are very rare.",
+  "attributes": [
+    {
+      "value": "Tim",
+      "trait_type": "CHARACTER"
+    },
+    {
+      "value": "Fan Art",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Mr.Under of the Mafia",
+      "trait_type": "JOB"
+    }
+  ]
+}

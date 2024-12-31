@@ -1,0 +1,16 @@
+{
+  "image": "https://bronze-general-tyrannosaurus-873.mypinata.cloud/ipfs/QmZddUNdAohYs9ocifhLajrgMUJW3MLM1CguF8XpzhnC4p",
+  "nftContractAddress": "0xf0be1c519642688870b6f32c4bbdf989173d4843",
+  "animationUrl": "",
+  "tokenId": 68,
+  "chainId": "1",
+  "name": "MINTED EDITION 003 #2",
+  "description": "N.HOOLYWOOD TEST PRODUCT EXCHANGE SERVICE×MetaSamurai\nNFT limited edition cover of “Numéro TOKYO”\nThis commemorative NFT has been airdropped to the holder of MINTED EDITION 002.\nThis NFT is limited novelty product.",
+  "attributes": [
+    {
+      "value": "N.HOOLYWOOD",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": ""
+}

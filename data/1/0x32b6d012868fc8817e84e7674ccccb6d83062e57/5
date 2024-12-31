@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWNmKew7stdyAi3Xw7JmTqrNp9FvLjKuaJfsTMaEyTWBU/nft.png",
+  "nftContractAddress": "0x32b6d012868fc8817e84e7674ccccb6d83062e57",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "RabbitGirls #12『CosplayerGirl』\"Dream\"",
+  "description": "RabbitGirls #12『CosplayerGirl』\"Dream\"\n\n A girl who dreams of becoming the best cosplayer in the world 🐰\n\n 『Japanese NFT world』\nWorks exhibited in collaboration.",
+  "attributes": [
+    {
+      "value": "CosplayerGirl",
+      "trait_type": "Character"
+    },
+    {
+      "value": "illustration",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYogrCp3KBsxpPRMr2jP5w9fFAc811p5jkdyDEEf6GH1p/nft.jpg",
+  "nftContractAddress": "0xfb20e2fffb2ed8ad43f705656ebe80dc24fb399f",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "NAKAI#001",
+  "description": "中井のNFT",
+  "attributes": [
+    {
+      "value": "Special",
+      "trait_type": "Grade"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Main Color"
+    },
+    {
+      "value": "Android",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SHIMAZ",
+      "trait_type": "Outerwear"
+    },
+    {
+      "value": "SAGA",
+      "trait_type": "Innerwear"
+    }
+  ],
+  "minted": ""
+}

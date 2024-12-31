@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeUYuKf3Tz1zr9jxVyuk1P6VNLNzLhpFLdbSSANfQvFmS/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 347,
+  "chainId": "1",
+  "name": "April 28 ライラック（白）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "4",
+      "trait_type": "月"
+    },
+    {
+      "value": "28",
+      "trait_type": "日"
+    },
+    {
+      "value": "美しい契り",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ライラック",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

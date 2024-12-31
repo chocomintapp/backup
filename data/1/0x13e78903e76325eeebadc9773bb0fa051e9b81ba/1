@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZvsTE6nazRVduC67ezbdbWsbm3goGHNVpCf9SAFyMEKd/nft.jpg",
+  "nftContractAddress": "0x13e78903e76325eeebadc9773bb0fa051e9b81ba",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Fukko Sports Fes Supporter Pass",
+  "description": "福幸SPORTSフェス サポーターパス\n\n会場や限定イベントでデジタル会員証としてお使いいただけます。\n公式キャラクター「ふく丸」\n\nFukko Sports Fes Supporter Pass\n\nIt can be used as a digital membership card at venues and limited events.\nOfficial character \"Fukumaru\"",
+  "attributes": []
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPqWpgQavvTcryDSCpwBrW5VMPuNqg54M1kmRsQv5BqMq/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmPyqnX9nmMT1eeg4emqX5ANRxSDgigbdkkxysoxJd68F7/nft.mp4",
+  "tokenId": 387,
+  "chainId": "1",
+  "name": "THE JEWEL #387",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Emerald",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT3axE2tJUkkpw5h2PQtSxrEtLUHNNiVgmqmF9sfDYHnF/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 339,
+  "chainId": "1",
+  "name": "MIYUU",
+  "description": "■ミユウ",
+  "attributes": [
+    {
+      "value": "murmuring of a river",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew3",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0001Eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-tobitashinchi",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Raaamen-Agodasi",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "glasses-red(NE)",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "HeadbandｰBB",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

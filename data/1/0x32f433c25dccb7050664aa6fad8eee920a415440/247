@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmet96Vxp7sc9BJhApJST1tKRMT1fFgtG8uH6r9h3AzEwD/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmSFw4cHDvoZ1vzU5pYve7mtqpy9FMdoxQUV9HYwA1jqGJ/nft.mp4",
+  "tokenId": 247,
+  "chainId": "1",
+  "name": "THE JEWEL #247",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Zoisite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Control device"
+    }
+  ]
+}

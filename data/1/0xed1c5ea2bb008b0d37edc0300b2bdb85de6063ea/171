@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWYU1vDC3BFcwGbUJakgifxwZ1eiRNnbruF1szuAzdfKd/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 171,
+  "chainId": "1",
+  "name": "GROMIT",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "Scorpius",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

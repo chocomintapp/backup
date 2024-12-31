@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcNQLQdbfWqjgqLA3ogz67EfAGqvJZAYjRfpT6tqXd5S4/nft.png",
+  "tokenId": 1411,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1411",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Apron"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Circle"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Gold Top Heart"
+    },
+    {
+      "trait_type": "Item",
+      "value": "French Fries"
+    }
+  ]
+}

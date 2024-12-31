@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRyYFYzSSAYmMYmCKeJDbAu4hh61XnSSbSor5QTSVyBBM/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 93,
+  "chainId": "1",
+  "name": "POPET No.93",
+  "description": "【物語】",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "",
+      "trait_type": "origin"
+    },
+    {
+      "value": "",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

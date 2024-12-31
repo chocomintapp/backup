@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeuPkFNTCVt9oL2e8BX5xQsJfhKtyxxdnguqNDYcMzEmt/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "Doge idkwtd",
+  "description": "PNG 1024x1024  \nTotal supply 1/1  \nYou're not the only one who doesn't know what to do. Doge neither. No worries. ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "Face",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "Emoji",
+      "trait_type": "object(s)"
+    },
+    {
+      "value": "Mother",
+      "trait_type": "generation"
+    }
+  ]
+}

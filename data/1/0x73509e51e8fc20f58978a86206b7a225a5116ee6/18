@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYssrepCLcVohZ3KGHbeeLdRkA8eo2hm3obGTnMDpciyt/nft.png",
+  "tokenId": 18,
+  "description": "",
+  "nftContractAddress": "0x73509e51e8fc20f58978a86206b7a225a5116ee6",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #18",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovey Dovey"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": ""
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Lollipop"
+    }
+  ]
+}

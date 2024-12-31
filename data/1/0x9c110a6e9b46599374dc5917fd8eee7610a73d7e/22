@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf4CkpXfbnabbSsgjLEHS4R2GDsQgnSTbDXhBvhDontZD/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "POCO_Cecily",
+  "description": "Cecily-Chan",
+  "attributes": [
+    {
+      "value": "Polite",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

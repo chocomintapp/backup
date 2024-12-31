@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZoE5zw62RevDeJpm7rdCzVj1MsoVvhEehmWtXEV6jXJU/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "1",
+  "name": "NOAH",
+  "description": "NOAH was born into a family of exorcists and has been trained in demon extermination since before he can remember.\n\nNowadays, he hates androids so much that he has been losing his business because mysterious androids are killing demons all over the place.\n\nNOAH is good friends with HANA, who bullies angels, but he is unaware that she is an android.\n■ノア\n\nノアはエクソシストの家系に生まれ、物心つく前から悪魔退治のやり方を叩き込まれていた。\n\n最近じゃ謎のアンドロイドが悪魔を退治しまくるもんだから商売あがったりで、アンドロイドをひどく憎んでいる。\n\nノアは天使をいじめるハナと大の仲良しなのだが、ハナがアンドロイドだと気づいていない。",
+  "attributes": [
+    {
+      "value": "Chess",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllEmerald",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-Full",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-tiger",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Devil",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

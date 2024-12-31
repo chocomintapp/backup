@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc8JcZi6CJrqU47Fy7tMSWRC4kx7RGdF3bC7427vJQWE1/nft.png",
+  "tokenId": 6,
+  "description": "She is #pict_chan dressed as a classical musician. Her violin will lull you into a supreme sleep.",
+  "nftContractAddress": "0xf4d5c20c1dba92b04a7387f22437903cc5bd41da",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#pict_chan_05_classic",
+  "attributes": [
+    {
+      "trait_type": "#pict_chan ",
+      "value": "owner"
+    }
+  ],
+  "minted": "✅"
+}

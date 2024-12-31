@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYzw66RYw3CU7gRmz7swh1AYCJV6diMCcyzbmVyf5BQPd/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 76,
+  "chainId": "1",
+  "name": "POPET No.76",
+  "description": "【物語】秘密結社POPEXの営業担当。瞬間移動することができるエリートサラリーマン。",
+  "attributes": [
+    {
+      "value": "POPEX",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "秘密基地",
+      "trait_type": "origin"
+    },
+    {
+      "value": "真面目",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

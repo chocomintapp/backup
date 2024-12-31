@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRpjps3bKZbVhZkvs3cxhKHmVDcHAE9ECuPA2Avz5SXz8/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 444,
+  "chainId": "1",
+  "name": "HELEN",
+  "description": "■ヘレン",
+  "attributes": [
+    {
+      "value": "deep in the countryside",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Green",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-Uperple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees-Pink",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Orange",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-red",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Narukami-Shima(N)Y",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Orange",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

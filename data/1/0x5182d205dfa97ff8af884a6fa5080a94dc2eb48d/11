@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSKMrPbJwjezZc2deDzkcAxWvGTDGTaDtEqkcPacswmmy/nft.gif",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "Working Ganmichan #36",
+  "description": "日本の伝統芸能であるひょっとこの舞をマスターしたがんみちゃん。\nGanmi has mastered the traditional Japanese dance of Hyottoko.",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "hyottoko",
+      "trait_type": "situation"
+    },
+    {
+      "value": "shiba inu",
+      "trait_type": "bro"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVGwSxNBjviDJWtyt6ohzU6qv9B7uHbZfFEYoTvzCSxqf/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 352,
+  "chainId": "1",
+  "name": "CARMEN",
+  "description": "■カルメン",
+  "attributes": [
+    {
+      "value": "spread of infection6",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.0",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "OkameSmile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Purple",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "RobotEye1",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Robody-GreenRabbit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-red(NE）",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Money",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

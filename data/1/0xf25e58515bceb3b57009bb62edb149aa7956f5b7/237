@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR8H4fC9WLmkFMhpw89FuDUBHvoUKtgUTvZAsJwutq264/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 237,
+  "chainId": "1",
+  "name": "HOLLY",
+  "description": "■ホリー",
+  "attributes": [
+    {
+      "value": "Dot9",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "CurlingTsuno-Skyblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie9(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

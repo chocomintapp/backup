@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYBFmAfdHVQifryirMxoeJnwbPGm9fE84vBsT9YEa4WBu/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 203,
+  "chainId": "1",
+  "name": "December 6 スイートアリッサム",
+  "description": "",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "6",
+      "trait_type": "日"
+    },
+    {
+      "value": "価値あるもの",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "スイートアリッサム",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUR1GXSZSZNnNUGFjvB8g8xTjEUne2PJBHdBiwMoxusZg/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmQRM2mippMbqqBywcQwwa2okhAdynn1NkRaMsR2w7hDs7/nft.mp4",
+  "tokenId": 762,
+  "chainId": "1",
+  "name": "THE JEWEL #762",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Green Amethyst",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Iridium",
+      "trait_type": "Control device"
+    }
+  ]
+}

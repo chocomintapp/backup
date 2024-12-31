@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWGTZMgAb4cavKcnEpDNXTD9M5v3YsoyM1WsNTJtLDJZ8/nft.png",
+  "nftContractAddress": "0xf88c26af1a6167dcc82860aba0924c287840db21",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "JapanFireCat1",
+  "description": "cat and fireworks.",
+  "attributes": [],
+  "minted": ""
+}

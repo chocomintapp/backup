@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma8wfeYoS1fZcL55SbkabX4U98g1iWHbJTT3gRAj7e5Nt/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 152,
+  "chainId": "1",
+  "name": "RENA",
+  "description": "■レナ",
+  "attributes": [
+    {
+      "value": "Demon World Entrance2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Green",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Green",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-G",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dominion",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTKbn1Vd1Z6SUjRaP8k2iP9NXSe9DXRehyGPBFMuvbX7R/nft.PNG",
+  "nftContractAddress": "0xd1f8aade1d996c02b5d62321716dc4b58f230f75",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "Halloween Robot Family #018",
+  "description": "Halloween Robot Family",
+  "attributes": [
+    {
+      "value": "Event",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQbY2u4pV6H4wQYabSe3B6qDQd5qtxtZ1M7EAUVSpzqKw/nft.png",
+  "tokenId": 13,
+  "description": "She is #pict_chan dressed as a medusa. If you stare at her, you'll turn to stone.",
+  "nftContractAddress": "0xf4d5c20c1dba92b04a7387f22437903cc5bd41da",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#pict_chan_11_medusa",
+  "attributes": [
+    {
+      "trait_type": "#pict_chan",
+      "value": "owner"
+    }
+  ]
+}

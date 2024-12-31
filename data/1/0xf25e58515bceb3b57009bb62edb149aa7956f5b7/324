@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPg3ERuKbKYPYz2cjN9nS73SYnxrtvFQQZA3s7hvUP26Y/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 324,
+  "chainId": "1",
+  "name": "UTA",
+  "description": "■ウタ",
+  "attributes": [
+    {
+      "value": "bubble8",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-green",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye7",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "BTC High School",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-happy",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Ribon-Red",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

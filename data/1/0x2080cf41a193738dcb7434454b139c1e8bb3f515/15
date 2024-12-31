@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXqWyt9X7AsmDFc3JXAEvGtuf7nZK3TLJG5eaPeuP8dFo/nft.png",
+  "tokenId": 15,
+  "description": "\"Mimic\" = \"Golem\" x \"Unknown\" Yliaster Takarajima\n「ミミック」メイン種族ゴーレム、サブ種族Unknown。ゴーレムの特殊亜種。名前はイリアステル宝島。\n\n強力な擬態能力を持ったモンスター。物体に命が宿るゴーレム種族の中でも、特に高価な宝物が変異したものをミミックと呼ぶ。\nコミュニケーションを取ることは困難。歴史上数多くのモンスター娘が発見されてきたが、ミミックは未だに謎の多い種族である。\n\nA monster girl with powerful mimetic abilities. Among the \"Golem\" species, in which objects come to life, especially expensive treasures are called \"Mimic\".\nIt is difficult to communicate with her. Although many monster girls have been discovered throughout history, \"Mimic\" are still a mysterious species.\n",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#040 \"Mimic\" Yliaster Takarajima",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Golem"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

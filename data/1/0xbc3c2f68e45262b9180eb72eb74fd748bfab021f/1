@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP84XSrLKTekBeuZbafFUjmAgYTVGByBiQXvwNTqgqbtt/nft.jpg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xbc3c2f68e45262b9180eb72eb74fd748bfab021f",
+  "animationUrl": "https://ipfs.io/ipfs/QmP84XSrLKTekBeuZbafFUjmAgYTVGByBiQXvwNTqgqbtt/nft.jpg",
+  "chainId": "1",
+  "name": "shadow"
+}

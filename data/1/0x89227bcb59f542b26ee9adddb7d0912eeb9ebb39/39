@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWtNWM3MhRJeSJPPQCdVKYmV4bwEohP35XH3Vdt5seFZh/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "1",
+  "name": "#039-Kochi-",
+  "description": "#039-Kochi-",
+  "attributes": [
+    {
+      "value": "Flare",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Shikoku",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Kochi",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

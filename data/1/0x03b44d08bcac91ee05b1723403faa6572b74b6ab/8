@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWCGADdyoEWeCKyHREasRKNcn9s1qKxdBANuLgxT79rZD/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmPxfTSQoTTopHtc5wFenmqbETF6ueB6z8eX1MTaQELHtB/nft.mp4",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "#040 NeedleMan",
+  "description": "NeedleMan\n\n- Incredible Series\n- 3DCG Turntable\n- 1920 x 1920px",
+  "attributes": [
+    {
+      "value": "Incredible",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQBF6aBLsmVL7dxxbpKG2F2ZCoNbAdLRB2ktAECoer5Bc/nft.PNG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 79,
+  "chainId": "1",
+  "name": "August 4 スウィートチェストナット",
+  "description": "",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "4",
+      "trait_type": "日"
+    },
+    {
+      "value": "正当な扱い",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "スウィートチェストナット",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

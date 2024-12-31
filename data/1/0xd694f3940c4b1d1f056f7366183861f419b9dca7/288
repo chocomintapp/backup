@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYrLykkmq7aURN2A8tG5CLBg6src8rcmeVFKQjqASdiX7/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 288,
+  "chainId": "1",
+  "name": "February 29 デイジー",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "月"
+    },
+    {
+      "value": "29",
+      "trait_type": "日"
+    },
+    {
+      "value": "無邪気",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "デイジー",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

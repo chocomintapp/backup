@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmaa1u5ytSjpzofSUSKmnHoQ9aGpY6qBA2WSmCA7djtWau/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 159,
+  "chainId": "1",
+  "name": "DEJA",
+  "description": "■デジャ",
+  "attributes": [
+    {
+      "value": "Deep-Yellow(HumanR)",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Destructive ray",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Winter",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Arkdemon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

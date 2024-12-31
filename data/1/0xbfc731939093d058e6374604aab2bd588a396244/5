@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPxyXo2XJhFRzZfZVkubPRijue6L4KeuHA1JXGJhMmE6e/nft.png",
+  "nftContractAddress": "0xbfc731939093d058e6374604aab2bd588a396244",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Data transmission #Diamond",
+  "description": "This is the first edition of this artwork on display at M.A.D.S.'s International Mixed Reality Art Exhibition. \n-----------------\nIs there anyone you would like to talk to across time and space? Do you remember that day when you could talk on a pay phone for 10 yen? I would like to look once again from\nthe future to see the memories that come back to me and that voice.",
+  "attributes": [
+    {
+      "value": "April 2022",
+      "trait_type": "YEAR PUBLISHED"
+    }
+  ]
+}

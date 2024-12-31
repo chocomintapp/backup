@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSW3T1drVBnGf7pJGkpmNKyTfn96Wkb4zT1caESp2nNCo/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 365,
+  "chainId": "1",
+  "name": "IOVIO",
+  "description": "■イオビオ",
+  "attributes": [
+    {
+      "value": "space-time transfer2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Short",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "composed-smile",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie9",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Blue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury-Red",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-SnowWhite",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

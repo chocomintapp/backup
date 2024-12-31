@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaV7ATVbJiweBzeTHy7DNfmhAPQHjnXJ6gXudztNX9pU4/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "O #5",
+  "description": "",
+  "attributes": [
+    {
+      "value": " O",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "none",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": " O",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "o",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

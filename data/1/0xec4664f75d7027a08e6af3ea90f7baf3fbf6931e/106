@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUgFxHXfQaevPPQEH2xP7qovDLcXVTZdatQtWEf4UKLR2/nft.jpg",
+  "nftContractAddress": "0xec4664f75d7027a08e6af3ea90f7baf3fbf6931e",
+  "animationUrl": "",
+  "tokenId": 106,
+  "chainId": "1",
+  "name": "LAYLA Vol.1 #106",
+  "description": "Neo Cyber Girls Collection\nMIRAKO. fan art",
+  "attributes": [
+    {
+      "value": "Engine",
+      "trait_type": "Background"
+    },
+    {
+      "value": "MIRAKO. Lightning",
+      "trait_type": "ThemeColor"
+    },
+    {
+      "value": "ShortBob",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "MarchingBandHat MRK",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Goggles01",
+      "trait_type": "Eyewear"
+    },
+    {
+      "value": "Bodysuits01 Jacket01",
+      "trait_type": "Ware"
+    },
+    {
+      "value": "Basic",
+      "trait_type": "Pose"
+    },
+    {
+      "value": "MIRAKO.",
+      "trait_type": "Collaboration"
+    }
+  ]
+}

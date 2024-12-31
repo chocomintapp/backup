@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSAhSkXsx5M9aEhSyQ6d4mejvEnmsj1V1hznZ71Yw4bwT/nft.JPG",
+  "tokenId": 2,
+  "description": "It is an ant which is not an ant but a mutant ant. Maybe in the future we will have insects like this picking up our trash or helping us clean our houses.\n\nInitially sold together with the original piece\n\nPainted in 2021\nKrs",
+  "nftContractAddress": "0x2e863f367a0888bec358e834cd7592084bf86876",
+  "animationUrl": "https://ipfs.io/ipfs/QmSAhSkXsx5M9aEhSyQ6d4mejvEnmsj1V1hznZ71Yw4bwT/nft.JPG",
+  "chainId": "1",
+  "name": "Artificial Ant",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmas79UDQ7BFa7zjemJ3EA3eEeaQ8QcGUCHUhop8FrAege/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 308,
+  "chainId": "1",
+  "name": "March 20 ブルーデイジー",
+  "description": "",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "月"
+    },
+    {
+      "value": "20",
+      "trait_type": "日"
+    },
+    {
+      "value": "協力的",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ブルーデイジー",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

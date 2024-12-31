@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTgdKnaQhb8KUYUT2HjMGegEZQvmGW9xtw799G3o87hVd/nft.png",
+  "nftContractAddress": "0x99c91fc98d7c3f297108615c2cd97cdfe38b9a4d",
+  "animationUrl": "",
+  "tokenId": 47,
+  "chainId": "1",
+  "name": "LOM Elixir Petit #7",
+  "description": "Located east of the MOL Dimension The forbidden elixir is said to have been created by the \"Witch of Innocence\" who lives in the \"Garden of Arcane\" located in the east of the Dimension. The forbidden elixir is said to have been created by a \"pure witch\" who lives in the \"Garden of Arcane\" located east of the MOL Dimension. The magic that she, an apprentice witch, refines is pure to the end and gives a smile to those who see it. The magic that she refines is pure and gives a smile to those who see it. It is a precious elixir limited to 12 bottles.",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "White",
+      "trait_type": "COLOR"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVw4k6FSA11AZU3zwJ8QhEUR3qoPXjqsSrCdHy1rwKDbt/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 57,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "暗号研究者",
+  "attributes": [
+    {
+      "value": "ベービット",
+      "trait_type": "人物"
+    },
+    {
+      "value": "ワイシャツ",
+      "trait_type": "服装"
+    },
+    {
+      "value": "ネクタイ",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "日本酒",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

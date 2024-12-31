@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme8ZL9seNrujhqHrsBH193b88MWygfLVJR3i6GsaxhHLe/nft.png",
+  "tokenId": 130,
+  "description": "",
+  "nftContractAddress": "0xa3504b583db9090d46bb3c97e04eae5e61e3dfce",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #130",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Scarlet"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Gold Peace"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Pink Gold Chain"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Spoon"
+    }
+  ]
+}

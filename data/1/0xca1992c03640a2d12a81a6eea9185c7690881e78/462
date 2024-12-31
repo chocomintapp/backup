@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXc6LRBmzKJK48Bbpbx6T4nwQpx2oUmqf2h78j8uakE5L/nft.png",
+  "tokenId": 462,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #462",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rock Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Knit Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Heart"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Pop Ribbons"
+    }
+  ]
+}

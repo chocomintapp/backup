@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdwtX9tVxpAts6ZzBtyByTiT6hGKd9gCXHiPJ1fTi29Um/nft.png",
+  "tokenId": 43,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #43",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cutout Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Ear Cuff"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Pink Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigar"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW3bS2peML2VdbWFpVwBh9Ftmu8kQhz6TdX6tzaRryxE4/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 496,
+  "chainId": "1",
+  "name": "KANADE",
+  "description": "■カナデ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "composed-smile",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie8(BL)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Chihuahua Blue",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Blue Family",
+      "trait_type": "TYPE"
+    }
+  ]
+}

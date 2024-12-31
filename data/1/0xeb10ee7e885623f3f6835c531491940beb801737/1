@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSWncg56nS3Er6GRUF38mxwfMoeye5yMXs9r1dKZDDNvW/nft.png",
+  "nftContractAddress": "0xeb10ee7e885623f3f6835c531491940beb801737",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "#001-Lantern",
+  "description": "CoolGirl Campers #001のPFP用NFT。お気に入りギアは「赤いランタン」。",
+  "attributes": [
+    {
+      "value": "Ice-skating",
+      "trait_type": "Hobby"
+    },
+    {
+      "value": "Lantern",
+      "trait_type": "Favorite"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNaBnFjo79k1hK5a8ERQsXf9qg4mZahi7yXDBFGXTFjVL/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "1",
+  "name": "POCOEMOJI_saw",
+  "description": "Sascha-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

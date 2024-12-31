@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVPno8Ap85aeRjBy9zNrYbo73shHMqkwXtoJqxxjSBxdQ/nft.png",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "牡丹[Botan]",
+  "description": "「私が大人になった、忘れられないあの日晴れ着の日のこと」 \n年に一度の成人の日、大人になる彼女たちはその日に何を思うのか。",
+  "attributes": [
+    {
+      "value": "花",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

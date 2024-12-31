@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeZkpWFBaAHY6HUWrBtAHYYi9K7oh8y7EsRDpaimVu2Bz/nft.gif",
+  "tokenId": 4,
+  "description": "Stela  \n壁画の象形文字に興味をもったようだ  \nHe was interested in the hieroglyphics on the mural.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmP8Y4xzWn92YnZq4epRb3mwfZBm3szrr3CJBe7K4U9m8A/nft.mp4",
+  "chainId": "1",
+  "name": "Stela #004",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Ancient"
+    }
+  ]
+}

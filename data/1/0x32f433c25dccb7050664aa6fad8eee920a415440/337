@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZieaGy8pguBi8WzkXpuDjheYGjMXEECBFez2oTstFMEY/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmdGTQyfvKDU4U9bMwgDH1tJMsQzyPhJRU9UMn2NmkcfJA/nft.mp4",
+  "tokenId": 337,
+  "chainId": "1",
+  "name": "THE JEWEL #337",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Pink Sapphire",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

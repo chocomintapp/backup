@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPuZY3uWPNwd8ZKDTEZPGVTW9E1YpkeZ4DqTf4yoXVTzJ/nft.gif",
+  "tokenId": 13,
+  "description": "Akbal  \n暦に関係のある遺跡を見つけたようだ  \nIt seems he's found a relic related to the calendar.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmdpBzCMgBMYjrHrCZR6sKRGpU8mHQgUPRSQfgB4Qu9CzV/nft.mp4",
+  "chainId": "1",
+  "name": "Akbal #013",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Ancient"
+    }
+  ]
+}

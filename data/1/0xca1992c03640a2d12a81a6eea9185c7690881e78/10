@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZcGkUtG2hHEAfbSoThE3GGL95Whh26ZaaujuWGRH19je/nft.png",
+  "tokenId": 10,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #10",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Summer Kimono"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Peace"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Lemon Slice"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Plumeria Rubra"
+    }
+  ]
+}

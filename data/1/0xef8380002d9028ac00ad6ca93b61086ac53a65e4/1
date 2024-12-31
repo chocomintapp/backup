@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTcPXX47PZR7ARXndzmYEn3z1iJYNoxU3SojaRxJosEaz/nft.png",
+  "tokenId": 1,
+  "description": "The CUPANIMALS live inside the cup.",
+  "nftContractAddress": "0xef8380002d9028ac00ad6ca93b61086ac53a65e4",
+  "animationUrl": "https://ipfs.io/ipfs/QmTcPXX47PZR7ARXndzmYEn3z1iJYNoxU3SojaRxJosEaz/nft.png",
+  "chainId": "1",
+  "name": "THE CUP ANIMALS #001",
+  "attributes": [],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNMhyrQMtLxFAzAPdJbnbe5mW1wNwBmvD7ww5zroMVue2/nft.png",
+  "nftContractAddress": "0x4b7f6c4f47c4f6157f0efae9b3946e15c1b24184",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "METAKAWAII × TAKANOTSUME HAKASE #2",
+  "description": "A collaboration with DROP'S - META KAWAII.\n\nContract Address：0x7867B3aC827426fE68a308E1011394f688CB7EC5",
+  "attributes": [
+    {
+      "value": "METAKAWAII",
+      "trait_type": "TYPE"
+    }
+  ]
+}

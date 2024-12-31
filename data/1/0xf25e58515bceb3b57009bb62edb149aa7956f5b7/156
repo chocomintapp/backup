@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTU2evwrjXURbBLfbmc4X9anjBKjzyynNua2wkLoZChis/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 156,
+  "chainId": "1",
+  "name": "SENA",
+  "description": "■セナ",
+  "attributes": [
+    {
+      "value": "Deep-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sunglass-B4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "ETH High School",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

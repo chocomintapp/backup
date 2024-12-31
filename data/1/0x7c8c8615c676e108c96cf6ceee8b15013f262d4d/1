@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW5Rm9373HnXqbrKRdQhCeQseWxazCh1cgnaL4RhgTDXc/nft.gif",
+  "tokenId": 1,
+  "description": "time: 35seconds\nsize: 600px×600px",
+  "nftContractAddress": "0x7c8c8615c676e108c96cf6ceee8b15013f262d4d",
+  "animationUrl": "https://ipfs.io/ipfs/QmUQBTt8jcakpppZW2rojticjGvunwFn8fGsurNZLgAYPM/nft.mp4",
+  "chainId": "1",
+  "name": "starry night",
+  "minted": "✅"
+}

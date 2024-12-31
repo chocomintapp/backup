@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRxJ8FZaMW3TNhZwFi1r4yKAV4XrpxRD3dJnp9Hs9fRxW/nft.png",
+  "nftContractAddress": "0xe2215863fb63a2d700918b13555f5101f290ad31",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "YAMA Quartet 08",
+  "description": "#テーマ：四元素「水」\n\n旅の途中で出会ったペンギンくん。  \n仲良くなったアルパカくんと一緒に水中遊泳。  \n2人はクラゲの間を泳いで、誰かに花を届けに行くようです。\n\n#THEME: The Four Elements \"Water\"\n\nA penguin in the middle of a journey met new friend Alpaca Go Go and have fun swimming together in the water.  \nIn a shoal of jellyfish they seem to be on their way to deliver flowers to someone.\n\n---\n\nMain Character: Mai Kano  \nSub Character: Alpaca Go Go   \nCharacter coloring: Aoyoko  \nBackground: YO-CO  ",
+  "attributes": [
+    {
+      "value": "Mai Kano",
+      "trait_type": "Main Character"
+    },
+    {
+      "value": "Alpaca Go Go",
+      "trait_type": "Sub Character"
+    },
+    {
+      "value": "Aoyoko",
+      "trait_type": "Character coloring"
+    },
+    {
+      "value": "YO-CO",
+      "trait_type": "Background"
+    }
+  ]
+}

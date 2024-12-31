@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcUotwNmsPWo7ceteLRPWpAryH5kT5RbW1XnLGrAgPwfE/nft.jpeg",
+  "tokenId": 2,
+  "description": "※こちらの映像はOpenSeaオークション形式最高入札者のみが観れる仕様になっております。\n邪神ちゃんドロップキック第一期1話の作品の演出上、映像内の様々な箇所にモザイク処理を行なっておりましたが、この映像はモザイク処理を行なっていないテレビでは放送できない内容となっています。\nThis video has been designed to be viewed only by the highest bidder in the 「OpenSea」 auction format.\nFor the production of the first episode of the first season of Jashinchan Dropkick(Dropkick on My Devil!!), various parts of the video were mosaicked, but this video cannot be broadcast on TV without mosaicking.",
+  "nftContractAddress": "0x82eddd517751519c0af07b026f175928c11c394b",
+  "animationUrl": "https://ipfs.io/ipfs/QmaXFuf2jh3PyReKXTeXkNULXffksctD4ERDHdvUGjmtiJ/nft.mp4",
+  "chainId": "1",
+  "name": "邪神ちゃんドロップキック1話（無修正版）\" Jashinchan Dropkick(Dropkick on My Devil!!) First episode(Uncorrected version )\"",
+  "attributes": [],
+  "minted": ""
+}

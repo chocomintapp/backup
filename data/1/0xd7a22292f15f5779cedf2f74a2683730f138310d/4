@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRgGwKvjJN8Kp89aQ9T9ErpDezpqMUbQWTXaTKASRoiYx/nft.png",
+  "nftContractAddress": "0xd7a22292f15f5779cedf2f74a2683730f138310d",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "BTK#14",
+  "description": "けんちゃんは冬のカナダにやってきました。バンフ国立公園の大自然はまさに絶景ですね。そして、寒い季節でもダウンに包まれながらビールをいただきます。なにやらメープルシロップが入ったビールだとか。現地で出会ったヘラジカもめずらしそうにビールを見ていますよ！ \n\nKen-chan came to Canada in winter. The wilderness of Banff National Park is just spectacular. And even in the cold season, we will have a beer while wrapped in down. I heard that this beer contains maple syrup. The moose we met at the site also looked at the beer in a curious way! ",
+  "attributes": [
+    {
+      "value": "Ice Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Brown Ale With Maple Syrup ",
+      "trait_type": "Beer Style"
+    },
+    {
+      "value": "Canada",
+      "trait_type": "Country"
+    },
+    {
+      "value": "Canada",
+      "trait_type": "Decoration"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Eye"
+    },
+    {
+      "value": "Tulip",
+      "trait_type": "Glass"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Tongue"
+    }
+  ]
+}

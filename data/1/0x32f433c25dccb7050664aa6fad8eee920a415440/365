@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT2DbbsCFi3ZuiSAyCxZgyWaqwJWRDZRu27s5rgZQ8T59/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmSuShmmDrTDeTst6LHdu3hwif4GRsvr94Vf511GcWZT51/nft.mp4",
+  "tokenId": 365,
+  "chainId": "1",
+  "name": "THE JEWEL #365",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Green Turquoise",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

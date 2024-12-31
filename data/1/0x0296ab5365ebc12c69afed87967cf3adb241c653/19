@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbXzZRJ23FTXc3MbEbZQKuWRkSht7mQToZYAuThHJ12DM/nft.png",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "浦凪[Urana]",
+  "description": "「あぁ、神よどうか鎮まりたまえ」\n\n神を鎮めるための禁書目録、この力を使う代償は...。",
+  "attributes": [
+    {
+      "value": "波",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

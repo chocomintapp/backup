@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbLNWVeAD5AsrFA9KKWUnRc8Libs84EdWbtcLohaFhjt7/nft.jpg",
+  "nftContractAddress": "0xdcbbd79e20c1ea86680ed83c872e8786f5f578f1",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "#10 VILLAINS BEAN THE ONI",
+  "description": "Beans in 3D are here!! The second series is VILLAINS. They are MAMENGERS enemy.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Oni Horn",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "None",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "None",
+      "trait_type": "EAR ACCESSORY"
+    },
+    {
+      "value": "Soul Ball",
+      "trait_type": "BODY ACCESSORY"
+    },
+    {
+      "value": "Oni Red",
+      "trait_type": "BODY COLOR"
+    },
+    {
+      "value": "Tough Skin",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "Oni Ironclub",
+      "trait_type": "ARTICLES"
+    },
+    {
+      "value": "Villains Sky",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

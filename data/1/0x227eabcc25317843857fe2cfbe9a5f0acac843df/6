@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaX7PLUNwpvRa3JgRGme7onw4GpyTJ7b3R7VZans9je4t/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Beach Borne Bae #34",
+  "description": "Beach Borne Bae #34\nInspired by Moon jellyfish / ミズクラゲ",
+  "attributes": [
+    {
+      "value": "Wolf",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Frill",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Jellyfish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

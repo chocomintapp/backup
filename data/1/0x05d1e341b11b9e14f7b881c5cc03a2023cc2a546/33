@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb1AnTbfYZRGrV5PZyq5UH7vC4HqHooqLr6CucQyQf825/nft.gif",
+  "tokenId": 33,
+  "description": "Sweets  \n003と012から産まれた新しいMIMI  \nNew MIMI spawned from 003 and 012",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmTKAC2eKA5UCv4hYmHAC4u7CXaUDwzfSFP65bkHthC4Xe/nft.mp4",
+  "chainId": "1",
+  "name": "Sweets #033",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Creator"
+    },
+    {
+      "trait_type": "VOICE",
+      "value": "Mimi"
+    }
+  ]
+}

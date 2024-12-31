@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYhN8sJjdDge64cR4U9dsVW3rmXb9uxRZAB4gTs5VUQRz/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 312,
+  "chainId": "1",
+  "name": "RAIRA",
+  "description": "■ライラ",
+  "attributes": [
+    {
+      "value": "raser",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Pink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Atype",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "glasses-red(NE)",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Stuffed Zombie",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "MIRAKO-Antenna-A",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

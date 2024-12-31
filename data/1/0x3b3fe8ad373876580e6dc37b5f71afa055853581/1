@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbbjhqH9j6jG86dGeefmMSDwN2xjz8Zw9GJ4tehVX2scw/nft.mp4",
+  "nftContractAddress": "0x3b3fe8ad373876580e6dc37b5f71afa055853581",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Day0S ",
+  "description": "🗓Thu 15th, Sep '22＊Aware\n\nOn a beautiful beach, one sight shocked a drool's heart. The beach seemed beautiful, the truth was different. There were tons of litter on the beach, which shocked the drool so much that he started to pick up litter every day. Since that moment, the drool has picked up litter and made litter-art every day.Twitterhttps://twitter.com/DJ_Drool/status/1570386736647393283?s=20&t=iSf_bLFO6H8PX85B46RNbA",
+  "attributes": [
+    {
+      "value": "SOUND",
+      "trait_type": "GOMINOTE"
+    },
+    {
+      "value": "Thu 15th, Sep '22",
+      "trait_type": "DATE"
+    },
+    {
+      "value": "OSAKA",
+      "trait_type": "PREFECTURE"
+    },
+    {
+      "value": "MableBeach🏖",
+      "trait_type": "PLACE"
+    },
+    {
+      "value": "JAPAN",
+      "trait_type": "COUNTRY"
+    },
+    {
+      "value": "東洋水産",
+      "trait_type": "MAKER"
+    },
+    {
+      "value": "TAPIOCA🥤",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "SENNAN",
+      "trait_type": "CITY"
+    }
+  ]
+}

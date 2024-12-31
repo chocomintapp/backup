@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYXys25Vopz9oYNikQfCk5Z5eKed2jihL9U3o3ZKFWP8g/nft.gif",
+  "tokenId": 28,
+  "description": "Alulim  \nペルシャ湾近くの古代都市を発見した  \nAncient city discovered near Persian Gulf",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmWUzGhugqQXeRp98NzT7QxnvEjN1KU6Viugu94NwRkQkY/nft.mp4",
+  "chainId": "1",
+  "name": "Alulim #028",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Ancient"
+    }
+  ]
+}

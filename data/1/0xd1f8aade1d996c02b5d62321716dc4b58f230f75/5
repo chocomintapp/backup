@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQnSc9N8ak3KeFYrzWTmdzpi3bxyWTdXj2BqCKJibJYBG/nft.JPG",
+  "nftContractAddress": "0xd1f8aade1d996c02b5d62321716dc4b58f230f75",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Castle Girl #005",
+  "description": "Hamburger Kingdom",
+  "attributes": [
+    {
+      "value": "Hamburger Kingdom",
+      "trait_type": "TYPE"
+    }
+  ]
+}

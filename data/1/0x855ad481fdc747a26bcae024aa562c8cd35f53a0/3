@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVGNmFtSso3oWzkuyWXtVvyc3yeZQLUXBSRhbuWj9qktL/nft.png",
+  "nftContractAddress": "0x855ad481fdc747a26bcae024aa562c8cd35f53a0",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "VIM",
+  "description": "Virtual Identity Manager",
+  "attributes": [],
+  "minted": ""
+}

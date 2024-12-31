@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVkPK6t9xTsMwfkzbTPdK6aRiBveo1HxEXR7yRo5awiB5/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 349,
+  "chainId": "1",
+  "name": "XANXANMI",
+  "description": "■シャンシャンミィ",
+  "attributes": [
+    {
+      "value": "Hydrangea2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Lolitahair",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "RobotEye4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Whitepink(BLU)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "NARUKAMI-P",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Blue Family",
+      "trait_type": "TYPE"
+    }
+  ]
+}

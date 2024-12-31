@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNhiWJce6nytzeV9Dnpg2HYKZPqsnaTokEVwjtx7wzS35/nft.gif",
+  "tokenId": 42,
+  "description": "Ivan  \n綺麗な鉄板を組み合わせて遊んでいる  \nPlaying with a combination of beautiful steel plates.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmP2t5kFjc2ruQi3TXscAnYgQrEQxERLAXxzRBKmnPNB1F/nft.mp4",
+  "chainId": "1",
+  "name": "Ivan #042",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Construct"
+    }
+  ]
+}

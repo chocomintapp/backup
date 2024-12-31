@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS1N9nJrAvcDHn1gpPu81XPAxvVrhC5LEbmxiTR6jxQgH/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "アリタ",
+  "attributes": [
+    {
+      "value": "gz",
+      "trait_type": "人物"
+    },
+    {
+      "value": "Ｔシャツ",
+      "trait_type": "服装"
+    },
+    {
+      "value": "リムレス型",
+      "trait_type": "メガネ"
+    },
+    {
+      "value": "BNB",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "CAKE",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

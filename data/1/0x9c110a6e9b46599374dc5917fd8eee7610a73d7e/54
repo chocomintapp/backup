@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYxb7bYyWV78Bupzz8naS9WMwtRZbyM4huVrqpGcxBvHZ/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 54,
+  "chainId": "1",
+  "name": "POCO_Ricarda",
+  "description": "Ricarda-Chan",
+  "attributes": [
+    {
+      "value": "Lime",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Cheerful",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Sci-Fi",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

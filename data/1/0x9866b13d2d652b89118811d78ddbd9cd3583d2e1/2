@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWguTwi1zLKtxcRZNFjMfawceuy7oUo8TAHK1rtLKo2Yt/nft.png",
+  "tokenId": 2,
+  "description": "寄付プラットフォームKizunaのロゴ",
+  "nftContractAddress": "0x9866b13d2d652b89118811d78ddbd9cd3583d2e1",
+  "animationUrl": "https://ipfs.io/ipfs/QmWguTwi1zLKtxcRZNFjMfawceuy7oUo8TAHK1rtLKo2Yt/nft.png",
+  "chainId": "1",
+  "name": "Kizunaのロゴ"
+}

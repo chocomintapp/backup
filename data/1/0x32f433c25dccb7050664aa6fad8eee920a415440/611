@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfLTYMEgARNwtvXwNQmmDTR4npzJyFpTp2pG3zYdxYbHQ/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmeVX6JxZsQ3hKc3HzSLeCMG89EbamHQwEz6gytko8JphG/nft.mp4",
+  "tokenId": 611,
+  "chainId": "1",
+  "name": "THE JEWEL #611",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Pink Spinel",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

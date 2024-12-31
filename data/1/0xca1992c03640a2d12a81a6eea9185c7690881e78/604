@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS1EMXwubg1zwhbmAvJbwmyaUx9S2HgXiGVshRQ7UZrVy/nft.png",
+  "tokenId": 604,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #604",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Strawberry"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Smartphone"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Glasses"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Orange Hibiscus"
+    }
+  ]
+}

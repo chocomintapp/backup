@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZzTrPY7qE45ybyRHc3sqn5kCLc3NmdtYZWJuEDp6R2Zz/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 435,
+  "chainId": "1",
+  "name": "ISABEL",
+  "description": "■イザベル",
+  "attributes": [
+    {
+      "value": "Hanabi",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-URed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Anisu-Lolita(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Luna-panda",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-SnowWhite",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

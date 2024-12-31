@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP8u6kVeWjvWL1pQfJx9J1zRqAmbHQQPFLsFaNc9ZNXUx/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmS3vj1qrmm9MQUogLL8pXXURzDh9VW1v4o2QbmYcwkVBt/nft.mp4",
+  "tokenId": 119,
+  "chainId": "1",
+  "name": "THE JEWEL #119",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "green",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSzidMU2vLbbpWozGfwJHMKZWsbVkP8tBD2qJn7PZfMn3/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 180,
+  "chainId": "1",
+  "name": "MISATO",
+  "description": "■ミサト",
+  "attributes": [
+    {
+      "value": "Middle of the heavens.(HumanR)",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Blue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllBlue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Normal-AllBlue",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Green",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "BlueLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Deepblue",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWPxcr56SQHWyUCfu7shUZeAC9zYSdovwU5SLKGUT24if/nft.jpg",
+  "nftContractAddress": "0xc2b27dae83be44233fd522047a471637545231ac",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Crypto\"WAFUKU\" #025",
+  "description": "025\nShe is a little devil.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "tail - 尻尾",
+      "trait_type": "accessory"
+    },
+    {
+      "value": "little devil - 小悪魔",
+      "trait_type": "character"
+    },
+    {
+      "value": "original",
+      "trait_type": "originality"
+    },
+    {
+      "value": "horn - 角",
+      "trait_type": "individuality"
+    },
+    {
+      "value": "kimono - 着物",
+      "trait_type": "wafuku"
+    }
+  ]
+}

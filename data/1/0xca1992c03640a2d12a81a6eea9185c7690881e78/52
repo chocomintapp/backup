@@ -1,0 +1,56 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcLeBwEWXgx53SQEvcNvZnRrqGCpfQeQjqNjqgKQTJQM5/nft.png",
+  "tokenId": 52,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #52",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Wild Green"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovey Dovey"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "White Pearls"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cookie"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Heart"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWoi42jKuf2M5oWbV24EytGHPBnXmrjFhbfQbT1J8ygN7/nft.png",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "真[Mana]",
+  "description": "「月にいるのは可愛い兎なんかじゃない」\n\n月を率いる。月は、古来より兎がいると信じられていたが、月で真と遭遇する。\n\nリーダーとしての高い才能をもっており、皆が真を一目おいた目で見ている。\n\n地球への強い憧れがある。",
+  "attributes": [
+    {
+      "value": "月",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

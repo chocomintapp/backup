@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZX2vp9zsKYfQ2ST4G2n1XkqJMvGhFQSkhohwa9bsr4dh/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 500,
+  "chainId": "1",
+  "name": "LOVERI",
+  "description": "■ラベリ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open5",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "AnisuHair(W)",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Light eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Redwhite(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "TMA mafiamouse2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-SnowWhite",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Asiatic peoples",
+      "trait_type": "TYPE"
+    }
+  ]
+}

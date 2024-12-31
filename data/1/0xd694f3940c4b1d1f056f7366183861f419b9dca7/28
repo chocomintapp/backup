@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdWj8bi5cNStX775Hempfq8Nzb7AgHBe4wUae7UNswByr/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "1",
+  "name": "June 14 レモンバーベナ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "14",
+      "trait_type": "日"
+    },
+    {
+      "value": "神聖",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "レモンバーベナ",
+      "trait_type": "花"
+    }
+  ]
+}

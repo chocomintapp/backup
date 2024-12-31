@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYt56w629XKXicXCkUcNT4rTBhzoUAc7oA31UiHeZcS3R/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmZpE5S2wLYimrMy3BnMmZag9c4P7MGCJ8wP6nVavq1Dce/nft.mp4",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "#050 MechaLightningMan",
+  "description": "MechaLightningMan\n\n- Hero Series\n- MIRAKO. Fun art\n- 3DCG Turntable\n- 1920 x 1920px",
+  "attributes": [
+    {
+      "value": "Hero",
+      "trait_type": "Type"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ul.h3z.jp/b9P79DNY.png",
+  "nftContractAddress": "0xecc7d7df7966b56b55f43f6f88b891da263ff5fc",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "none",
+  "description": "あなたオリジナルのNIWA PETを育ててみよちん！   \nプランクトンNFTのコペポを集めて進化できまちん！ \n   \n   \ntype:5コペポでkidsへ！ \nBG color:10コペポでお好きな色へ！ \ncolor:10コペポでお好きな色へ！ \nname:10コペポで名付け！ \nburrow home:50コペポでサーバーをIPFSへ！ ",
+  "attributes": [
+    {
+      "value": "baby",
+      "trait_type": "type"
+    },
+    {
+      "value": "aqua blue",
+      "trait_type": "BG color"
+    },
+    {
+      "value": "white",
+      "trait_type": "color"
+    },
+    {
+      "value": "none",
+      "trait_type": "name"
+    },
+    {
+      "value": "not quite sure",
+      "trait_type": "burrow home"
+    }
+  ]
+}

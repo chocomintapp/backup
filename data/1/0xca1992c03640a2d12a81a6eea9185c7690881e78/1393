@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQZGmGnPqyzqKrsYP78fhwXwu8k6UairEdxeHGAarnzyi/nft.png",
+  "tokenId": 1393,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1393",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Apron"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Olive Green"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Tassel"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Wood Beads"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Spoon"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Round"
+    }
+  ]
+}

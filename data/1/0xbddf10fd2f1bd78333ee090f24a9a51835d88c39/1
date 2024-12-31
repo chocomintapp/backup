@@ -1,0 +1,16 @@
+{
+  "image": "",
+  "nftContractAddress": "0xbddf10fd2f1bd78333ee090f24a9a51835d88c39",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "drawing#001",
+  "description": "3000×3000pxl\nEdition:1/1\n\nOriginal artwork by 即席出口入口",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": ""
+}

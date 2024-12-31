@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNaTA7jx4Cx6myPubNaVTm8TxFaGsi9wabzvqQLeb8ew7/nft.png",
+  "nftContractAddress": "0xca6aec18e85c23583d98ae65f78080fcedb046a4",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "1",
+  "name": "039 One-side Lovers : Series02-Beach [Skateboard]",
+  "description": "■Fukuyoshi Rokka's Artwork collection \n\"One-side Lovers”\nSeries02-Beach\n\n福吉ロッカのアートワークコレクション\n「One-side Lovers」\nシリーズ２-Beach",
+  "attributes": [
+    {
+      "value": "Beach",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "Hair-color"
+    },
+    {
+      "value": "Long hair",
+      "trait_type": "Hair-style"
+    },
+    {
+      "value": "Cola/Personal Stereo/Skateboard",
+      "trait_type": "Item"
+    },
+    {
+      "value": "02/Beach",
+      "trait_type": "Series-number"
+    },
+    {
+      "value": "Blue sky",
+      "trait_type": "Sky"
+    },
+    {
+      "value": "Blue/white",
+      "trait_type": "Swimsuit-color"
+    },
+    {
+      "value": "Twisted bandeau bikini",
+      "trait_type": "Swimsuit-type"
+    }
+  ],
+  "minted": "✅"
+}

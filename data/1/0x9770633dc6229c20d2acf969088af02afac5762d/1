@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdzm4YPdbkQV9Wr1tfXNzCoP3wGUaHmTKpJF4Gkw6T5Cm/nft.png",
+  "nftContractAddress": "0x9770633dc6229c20d2acf969088af02afac5762d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "BirdMan",
+  "description": "Only 2,500 BirdMen in the world. If you buy it , I will open the BirdMan's shop in the near feature. This is my dream so BirdMan is the key for my life.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

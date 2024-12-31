@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfK6QGFZJdzd9hZTnm6seYSw8SckCqHorqcLddiu7b1KC/nft.JPEG",
+  "nftContractAddress": "0x35fe70703731ceaf4da675c01c60db2bd24157e9",
+  "animationUrl": "https://ipfs.io/ipfs/QmaPdF3GaHo6WcYA7RE8DweXs6778rCJtNDqwTyviZVYFP/nft.mp4",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "KYOSO",
+  "description": "KYOSO - Fire : TOKYOITE Music NFT Project\nMusic : MURPH , EdoLena \nArtworks : EdoLena \nVVAVE3 Live Limited Edition for onicyandesu\nThis full length music is available for one year CC0 from the date of airdropping.",
+  "attributes": [
+    {
+      "value": "Fire",
+      "trait_type": "KYOSO"
+    }
+  ]
+}

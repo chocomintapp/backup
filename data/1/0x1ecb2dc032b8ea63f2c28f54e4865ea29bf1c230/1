@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPkQsHUJBtcGtXSQNqfkhsbqHf3M6SNksUgyUp9y3JBsX/nft.jpg",
+  "tokenId": 1,
+  "description": "Thanks for finding it for me.\nThanks to you, who noticed me when I was a nobody, I exist today.\nThis is the work I plan to make my last portrait when I die as a creator.",
+  "nftContractAddress": "0x1ecb2dc032b8ea63f2c28f54e4865ea29bf1c230",
+  "animationUrl": "https://ipfs.io/ipfs/QmdLFat8zTqKUn5Zdf74s9GFg3Djo9FNbJgWgPwMV9wjpX/nft.JPG",
+  "chainId": "1",
+  "name": "meow",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

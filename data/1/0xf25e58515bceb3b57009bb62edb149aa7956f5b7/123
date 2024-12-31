@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTvUXcRntc5UsVkLiW71MbyF2rpZcF29CQcMirzuBtusF/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 123,
+  "chainId": "1",
+  "name": "ARE",
+  "description": "■アレ",
+  "attributes": [
+    {
+      "value": "Dot7",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-ZombieAllwhite",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "LoliFoodie-White(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Groggyman",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Asiatic peoples zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfXfzq1PnBjdPJGo7CyqQYzy3QjwmL6MgeyzcHshJi3Df/nft.gif",
+  "tokenId": 3,
+  "description": "without thinking",
+  "nftContractAddress": "0x9d34ce30852e6bd480a0355afb4ba81643c5e78d",
+  "animationUrl": "https://ipfs.io/ipfs/QmfXfzq1PnBjdPJGo7CyqQYzy3QjwmL6MgeyzcHshJi3Df/nft.gif",
+  "chainId": "1",
+  "name": "Flock",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

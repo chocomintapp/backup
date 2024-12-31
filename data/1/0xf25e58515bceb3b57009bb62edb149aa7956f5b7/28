@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYs4UZQYAUWacgoQ3LuRYC1CFAJ5LRJVGmZf6wVxjmUyY/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "1",
+  "name": "MAYU",
+  "description": "MAYU has inherited her former actress mother's looks in abundance.\n\nShe is one of the top ten most beautiful women in the world, and is courted by men on a daily basis, but her dog, Leon, always protects her.\n\nShe has a special pair of eyes among her family members who can use magic, and can emit cold air from her right eye and fire from her left eye without consuming any magic power.\n\nHowever, the power is not so great.\nIt may become a little better with training, but since he has unprecedented eyes, it is unknown how to train him.\n\nAt his current level, he can only produce one piece of ice and a match-like fire.\n■マユ\n\n元女優の母親の容姿を濃く受け継いだ、マユ。\n\n世界でもトップ10に入る美貌の持ち主で、毎日のように男性から言い寄られるが愛犬のレオンがいつも守ってくれる。\n\n魔法が使える家系の中でも更に特殊な目の持ち主で、魔力の消費無しに右目からは冷気を、左目からは炎を出すことができる。\n\nただし、威力は大したことない。\n訓練すれば少しはマシになるのかもしれないが、前例のない目の持ち主なので訓練方法も不明。\n\n現在のレベルでは氷を1個とマッチのような火を出すことができるくらいだ。",
+  "attributes": [
+    {
+      "value": "Rainbow-MIx",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-Odd3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-BL",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Leon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Pink",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

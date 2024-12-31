@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXe84spaqkYS2Pq5WHRYJeu2Du2aWtLWqPyF8rbNZmM6h/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 66,
+  "chainId": "1",
+  "name": "ASA",
+  "description": "ASA android made by AKO that retains much of its human part.\n\nBy keeping more of the human part, it is a little less capable of fighting, but it can be more flexible and can even go on missions on its own.\n\nHowever, it is sometimes deceived by bad guys, so it needs to be improved.\n\n■アサ\n人間の部分が多く残っているアコ製のアンドロイド。\n\n人間部分を多く残したことによって、戦闘力は多少落ちるものの臨機応変な対応が可能になり単独でのミッションも可能。\n\nただ、たまに悪者に騙されてしまう部分もあるので改良は必要。",
+  "attributes": [
+    {
+      "value": "Deep-Skyblue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Eyes-Of-Flame",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Etype(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Arkdemon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "MIRAKO-Head-B",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

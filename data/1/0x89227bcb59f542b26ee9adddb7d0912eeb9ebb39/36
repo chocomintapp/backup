@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS6fSqiHFUHZyyzi7cZ1CAQWzNCat1gCd9nny2sVSeJSm/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "1",
+  "name": "#036-Tokushima-",
+  "description": "#036-Tokushima-",
+  "attributes": [
+    {
+      "value": "Gaia",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Shikoku",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Tokushima",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

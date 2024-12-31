@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWzNkwCeFVW43GyX4Kv7Z7Kro8u4KqtL2X3FPXiVqWKtj/nft.png",
+  "nftContractAddress": "0xee38353e74e04b1fb7fa99c2ce78e93fb6e09b99",
+  "animationUrl": "",
+  "tokenId": 108,
+  "chainId": "1",
+  "name": "#0108 Series000 No.006",
+  "description": "未来の自律型電脳ゲーミングPC『Chirobo.』\n\nNOAK×OTO Patten   \nPortable Network Graphics       \n2048×2048px",
+  "attributes": [
+    {
+      "value": "Series 000",
+      "trait_type": "Series"
+    },
+    {
+      "value": "MIMINOAG",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Xenotics type A",
+      "trait_type": "CPU"
+    },
+    {
+      "value": "Square type A",
+      "trait_type": "GPU"
+    },
+    {
+      "value": "DeltaTechnology type A",
+      "trait_type": "RAM"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "Background"
+    },
+    {
+      "value": "F.Yellow×Blue",
+      "trait_type": "LED"
+    }
+  ],
+  "minted": "✅"
+}

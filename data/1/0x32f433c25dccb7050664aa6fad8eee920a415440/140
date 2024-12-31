@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNZjRNi271NyPcstaLsj9x4C6D31wkgXCHb7mf27wpXW7/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWTPvKLpgNH8Tb2rcEJsm4SL2XRNUbwkDiiYcFBmeUCji/nft.mp4",
+  "tokenId": 140,
+  "chainId": "1",
+  "name": "THE JEWEL #140",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Emerald",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

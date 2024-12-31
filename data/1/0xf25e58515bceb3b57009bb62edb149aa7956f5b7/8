@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY9eGmGZa4Pwwypf3KRjg52yBs6G6pYM3EXy1aZWFgYdZ/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "RISA",
+  "description": "RISA loves saury anyway.\n\nOriginally, she could not eat much, but she asked YUDA to make her an android so that she could eat as much saury as she wanted.\n\nWhen she catches a saury, it turns pink for some reason, and even YUDA can't seem to figure out why.\n■リサ\nRISAはとにかくサンマが好きで好きでしょうがない。\n\n元々あまり量を食べれない身体だったが、YUDAに頼んで好きなだけサンマを食べれるアンドロイドにしてもらった。\n\n彼女がサンマを獲ると、なぜかピンクに変色するのはYUDAにも原理がわからないようだ。",
+  "attributes": [
+    {
+      "value": "Bright-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.4",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Lightpink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-ALLPink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Robody-PinkRabbit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury-Pink",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

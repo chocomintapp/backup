@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmeurzz9i8c8h6BbmBVEyKmrCzs8rCCYcYEAnxKyczQRRH/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "Original picture of \"A girl who made her hair out of snakes\" かみのけがなくてへびでかみをつくった女の子 原画2",
+  "description": "この作品は「かみのけがなくてへびでかみをつくった女の子」の原画です。髪の色までついたバージョンです。\n\nhttps://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/81008035297171467106590010615634195776700641120937970484020149222371598794753/\n\nこの子は犬をかってたのに犬がいなくなっちゃったから\nヘビと友だちになってヘビを頭にかぶせて髪を作ったの。\n\nへびといっしょにこれを作るのに１週間もかかったの。\n\n完成できてうれしいなと思ってる子でした。\n\nThis girl had a dog, but the dog disappeared. \nSo she made friends with a snake and put it on her head to make her hair. \nIt took me a week to make this with the snake. She was so happy to have finished it.",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Girl",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Snake",
+      "trait_type": "Animal Type"
+    },
+    {
+      "value": "Kawaii",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Animal",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

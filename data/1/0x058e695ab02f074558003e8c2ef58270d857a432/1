@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXS4inRgkiCYxnK9oKW2joUk7ZPDLVDWWkbWJdBtwiy6d/nft.jpg",
+  "nftContractAddress": "0x058e695ab02f074558003e8c2ef58270d857a432",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "不退転#001",
+  "description": "発したら、もう戻れない",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY6WUv13zBKRLHs6iVVCekCBF3344nDW7f7JX9AECa67g/nft.png",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 45,
+  "chainId": "1",
+  "name": "Tokyo Expanding People 2099 #30 POST-HUMANITY",
+  "description": "[日本語]\n\n科学技術の進歩は凄まじい。\n\n将来人間が人間である事を強いられなくなるとしたら、電源プラグがよく似合う身体になることもできるだろう。\n\nだが、人間が主観だからこその「機械」という捉え方であった従来の考え方は転換し、更新される技術に併せて新しいフォーマットの内にある「人間性とは」という問いを永遠に続けなければならない。\n\n優しさを持ち人に寄り添う機械、殺戮のために技術を操る機械、ファッションアイコンであり続けようとする機械、それぞれのフォーマット。\n\nいずれはやって来るPOST-HUMANITYに対する答えは実際に自身が機械の心臓を装着するまでは分からない。\n\nだからこそ、自身が人間であると認識しているうちに備えておくべきだろう。\n\n\n[EN]\n\nThe progress of science and technology is tremendous.\n\nIf humans are no longer forced to be put in a flesh cage in the future, it will be possible to become a body that looks good with a power plug.\n\nHowever, the traditional way of thinking of humans as “machines” because they are subjective must be shifted, and the question of “what is humanity” within the new format must continue forever along with the updated technology.\n\nMachines that have kindness and are close to people, machines that manipulate technology to kill, and machines that try to remain fashion icons, each in its format. \n\nThe answer to the POST-HUMANITY that will eventually come will not be known until the heart of the machine is fastened.\n\nTherefore, we should be prepared for it while we are still aware that we are human.",
+  "attributes": [
+    {
+      "value": "POST-HUMANITY",
+      "trait_type": "Mechahuman"
+    }
+  ]
+}

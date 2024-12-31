@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdKQHWw81v9pjEbsCkkGHMMYg6ZWmp5upsnPRhHcX4NQ6/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 86,
+  "chainId": "1",
+  "name": "August 11 ヘザー（白）",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "11",
+      "trait_type": "日"
+    },
+    {
+      "value": "追求者",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ヘザー",
+      "trait_type": "花"
+    }
+  ]
+}

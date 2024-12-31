@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZLaatjFJ3mrbZRHnQtYt3eP4ZGU7nCH7x6Dg7twnAjAd/nft.PNG",
+  "tokenId": 2,
+  "description": "Umeko's friend who has traveled back in time since the Edo period in Japan. She takes care of many princesses in a big castle. She has love and rigor.\n<br>\n日本の江戸時代からタイムスリップしてきたウメコの友人。大きなお城で、多くのお姫様のお世話をしているんだって。愛と厳しさを持ち合わせたお局様。",
+  "nftContractAddress": "0xe83a1416676bf391d3d83bfd2c0cfa80f28baa26",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Umeko Space Colony NFT #102 Koto",
+  "attributes": [
+    {
+      "trait_type": "Helmet",
+      "value": "Clear octagon"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Earthling"
+    },
+    {
+      "trait_type": "Space suit type",
+      "value": "Kimono"
+    },
+    {
+      "trait_type": "Relationship with Umeko",
+      "value": "Time Traveler Friends from the Past"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Edo women's hairstyle"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Smile eyes"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Open mouth"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold hairpin"
+    }
+  ]
+}

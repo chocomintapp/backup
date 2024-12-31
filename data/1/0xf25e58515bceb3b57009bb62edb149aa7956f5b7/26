@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUVGq79JRciqNEqAkp4G4oCBvR5Yi7x2ZXMhU19QVQ6aj/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "1",
+  "name": "RICO",
+  "description": "Rico's father, who always seems dazed, is named Zod.\n\nHe loved his daughter to death, so after his death, he possesses a penguin hairpin and is always watching over Rico.\n\nThanks to this, she has never had a boyfriend and Daikon is her only friend.\n■リコ\n\nいつも呆けてるように見えるリコの父の名はゾッド。\n\n娘を死ぬほど愛していたため、死後はペンギンのヘアピンに憑依して、いつもリコを見守っている。\n\nおかげで彼氏ができたことがなく、大根が唯一の友達。",
+  "attributes": [
+    {
+      "value": "Deep-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Orange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Redblack",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Zod",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-surprised",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

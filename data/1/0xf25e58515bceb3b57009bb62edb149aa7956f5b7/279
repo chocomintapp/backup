@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTgj3x4TbLmz8E7YxbmnkTdo1DshChF464vZP81VVAdfz/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 279,
+  "chainId": "1",
+  "name": "HEIDI",
+  "description": "■ハイジ",
+  "attributes": [
+    {
+      "value": "Salad2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open4",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-ZRed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Winter",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Devil",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

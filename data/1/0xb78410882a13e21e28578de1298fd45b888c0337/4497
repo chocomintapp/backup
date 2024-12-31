@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQZLt4k7Y2GNsx2JcW6huLDdeWNijxWoVLSbwTbzBaj7C/nft.png",
+  "nftContractAddress": "0xb78410882a13e21e28578de1298fd45b888c0337",
+  "animationUrl": "",
+  "tokenId": 4497,
+  "chainId": "1",
+  "name": "",
+  "description": "",
+  "attributes": [
+    {
+      "value": "PURPLE",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "面足尊",
+      "trait_type": "面足尊"
+    }
+  ]
+}

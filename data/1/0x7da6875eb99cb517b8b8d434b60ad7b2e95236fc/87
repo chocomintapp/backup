@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWemje92FPZiWqF8NhaJAftwvFQDdxjhFK6qi9PmWypsd/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 87,
+  "chainId": "1",
+  "name": "KAIKA #87",
+  "description": "",
+  "attributes": [
+    {
+      "value": "halo",
+      "trait_type": "energy"
+    },
+    {
+      "value": "tears of blood",
+      "trait_type": "extra"
+    },
+    {
+      "value": "sleepy",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "blue",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "slicked back",
+      "trait_type": "hair"
+    },
+    {
+      "value": "underlayer",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "smile",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "dark",
+      "trait_type": "skin tone"
+    }
+  ]
+}

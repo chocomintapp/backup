@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUWHVPTsrdmrVZzmDBVKn1VfghEGkpeUJ2vcPFL27FUia/nft.png",
+  "nftContractAddress": "0xcc3d1d61934ca3470c25bd6c18ae5be72806870a",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "#010 汗/焦り",
+  "description": "",
+  "attributes": [
+    {
+      "value": "感情",
+      "trait_type": "Category"
+    },
+    {
+      "value": "吹き出し",
+      "trait_type": "Accessory"
+    }
+  ]
+}

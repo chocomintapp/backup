@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaNpQRiUH5npmpzMSMrzjBc9caUCtJRzuxxrmadhM5pEG/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "1",
+  "name": "WEAR BEAR #117 “CHRIS” BLACK SHIRTS&CAP",
+  "description": "WEAR BEAR 第12弾はHIP HOPクルー“BEAR HOP”として音楽シーンに鮮烈デビュー！オールブラックコーデでクールに登場\n“CHRIS”は”BEAR HOP”オフィシャルミリタリーシャツにベアクローキャップを合わせたカジュアルなスタイルで登場\n",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "“BEAR HOP” SHIRTS",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Black Track pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "“MIKE” Bear force 1",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Chris",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Microphone",
+      "trait_type": "Accessories"
+    }
+  ]
+}

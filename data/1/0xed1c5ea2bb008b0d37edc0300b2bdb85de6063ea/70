@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfSCZpyqgggNJ6hYnpehSxSYtzUzmiCtaRbq29vcLTMXE/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 70,
+  "chainId": "1",
+  "name": "Kyla",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "sunburn_strong",
+      "trait_type": "skin"
+    },
+    {
+      "value": "normal_brown",
+      "trait_type": "eye"
+    },
+    {
+      "value": "black03",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_glass",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Virgo",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

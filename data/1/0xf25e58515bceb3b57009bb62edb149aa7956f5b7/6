@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRGLsAdMCodCYcfTBpFAXS2bEhw8pFawQmaimi9Liws9b/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "YUDA",
+  "description": "She is one of the five geniuses in the world, but a mad scientist.\n\nShe loves her cat GREED and her love of turning humans into androids.\n\nShe is very concerned about turning herself into an android as she has recently started to feel old.\n■ユダ\n世界で5本の指に入る天才だがマッドサイエンティスト。\n\n彼女は愛猫のGREEDと、人間をアンドロイドにするのが好きで好きでたまらない。\n\n最近歳をとったと感じてきたことから自身もアンドロイド化しようか非常に悩んでいる。",
+  "attributes": [
+    {
+      "value": "Chess",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Red",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Madness",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Mix2",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-Shine",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-W",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Greed",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "EyeBall3",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVTsf5UE4JgHfaCAk1H28qjK74mzgjfWq4tgQcJsEhU4r/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 336,
+  "chainId": "1",
+  "name": "CINDY",
+  "description": "■シンディー",
+  "attributes": [
+    {
+      "value": "spread of infection5",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "OkameSmile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Edo-wigRed",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye6",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-sakuramachi",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Arkdemon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

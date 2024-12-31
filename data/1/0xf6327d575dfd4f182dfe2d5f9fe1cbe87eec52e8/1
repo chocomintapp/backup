@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc7EyxKFrNC4AaqsTnNgqq28aF8P8ymtizJNmfYU999EK/nft.gif",
+  "nftContractAddress": "0xf6327d575dfd4f182dfe2d5f9fe1cbe87eec52e8",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc7EyxKFrNC4AaqsTnNgqq28aF8P8ymtizJNmfYU999EK/nft.gif",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "DD #001",
+  "description": "モンスターダギーダギー",
+  "attributes": []
+}

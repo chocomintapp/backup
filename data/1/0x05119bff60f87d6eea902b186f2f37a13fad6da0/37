@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPEa4HWYWGzCygyMsJzBEW9XP1Y2Y5TwvN6zyypQJF3GQ/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "1",
+  "name": "POPET No.37",
+  "description": "【物語】\n\nつまみ食いが止まらない。\n「料理できたのにまた無くなっている、、、」\n厨房にお化けがいると怯えながら料理を作る。",
+  "attributes": [
+    {
+      "value": "コック",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "レストラン",
+      "trait_type": "origin"
+    },
+    {
+      "value": "大食い",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRJBbrHeBGQAEf5im5mfKeutRmHiwDYwn86wUiMcwdNp9/nft.png",
+  "nftContractAddress": "0x964c68219e6fdf7c41ba0f8449090bca8348557d",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "MIRAKO. TEST VER #002",
+  "description": "検証用",
+  "attributes": [
+    {
+      "value": "Test",
+      "trait_type": "Grade"
+    },
+    {
+      "value": "Test",
+      "trait_type": "Main color"
+    }
+  ],
+  "minted": "✅"
+}

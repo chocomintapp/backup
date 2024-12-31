@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaUvnR5DdKwBacmd9zmEwE8DLmfYM4j1xUAoQt1DLHYj7/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 44,
+  "chainId": "1",
+  "name": "ALBIO",
+  "description": "A warrior of the N'mou tribe.\n\nHe seems to be good at fighting with a spear, but he prefers pole vaulting with a spear.\n■アルビオ\n\n”ン・モウ族”の戦士。\n\n槍を使っての戦闘に適正があるようだが、本人は槍を使って棒高跳びをする方が好きなようだ。",
+  "attributes": [
+    {
+      "value": "Deep-Orange",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Silver",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-W",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Black",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury-Red",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "EyeBall2",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

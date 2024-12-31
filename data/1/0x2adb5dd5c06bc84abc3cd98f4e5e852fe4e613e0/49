@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVXppztx7MovvwkP1JyKD8uP1qLQ867eV2m8Vp43p9Rh1/nft.png",
+  "nftContractAddress": "0x2adb5dd5c06bc84abc3cd98f4e5e852fe4e613e0",
+  "animationUrl": "",
+  "tokenId": 49,
+  "chainId": "1",
+  "name": "Love [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nLove\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR]",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Two-Tone",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Green",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Gradation",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "6LOM",
+      "trait_type": "PROTO VALUE"
+    },
+    {
+      "value": "Unity",
+      "trait_type": "SPELL"
+    },
+    {
+      "value": "Free",
+      "trait_type": "DRESS CODE"
+    },
+    {
+      "value": "ELIXIR",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXnHXGapWBhb6JiPbPdNVHCFpDUBruMMkKvi9JBiVXCAL/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 46,
+  "chainId": "1",
+  "name": "GILUBIO",
+  "description": "GILUBIO is the biggest laugh of the N'mou tribe.\n\nHe is especially bad when he drinks, and has nearly died from laughing too much more than once or twice.\n\nShe has a habit of picking up anything that falls out of the ground, and most of the things she wears are things she picked up from the ground.\n\nShe takes very good care of her things.\n■ギルビオ\n\nン・モウ族で一番の笑い上戸。\n\nお酒を飲むと特にひどく、笑いすぎて死にかけたことは1度や2度では済まない。\n\n落ちてる物をなんでも拾う癖があり、身に着けてる物はだいたい拾ってきたものだ。\n\n彼女は物をとても大事にする。",
+  "attributes": [
+    {
+      "value": "Land",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sunglass-B3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-B",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-Zombie2",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury-Red",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "MIRAKO-AntennaRight-Akaoni",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

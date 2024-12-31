@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYFEsn1RBNsPxfkw3vFyphttQmygtxYFrEhexaPTYZSZ1/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 107,
+  "chainId": "1",
+  "name": "September 1 ハニーサックル",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "1",
+      "trait_type": "日"
+    },
+    {
+      "value": "崇拝",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ハニーサックル",
+      "trait_type": "花"
+    }
+  ]
+}

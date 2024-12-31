@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc1EVJ7FDdQVkuUUdniZSnTngDZzcjqcoJ2jm4SHvif45/nft.jpg",
+  "nftContractAddress": "0xc900a2032f588e79b995cf452fe9b77b0b98b051",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "MUTRON portrait",
+  "description": "Created by [Koutarou Machiyama](http://www.loopool.info/) .  \nThe model is me, Yasuyuki Hirata as [MUTRON](https://mutron.org/) .  \n  \nThe original pencil drawings were the basis for this image, which was then coloured in.  ",
+  "attributes": [
+    {
+      "value": "15/01/2019",
+      "trait_type": "Created date"
+    },
+    {
+      "value": "1/1",
+      "trait_type": "Edition"
+    }
+  ]
+}

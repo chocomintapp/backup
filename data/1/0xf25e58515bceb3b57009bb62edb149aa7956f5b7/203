@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmceXRUfU9HgLTc5WkPMD3M6vj9rZz6vobvGiqezUqa4nE/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 203,
+  "chainId": "1",
+  "name": "EMA",
+  "description": "■エマ",
+  "attributes": [
+    {
+      "value": "Deep-Red（made by YUDA）",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Skybluekpink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllPurple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Robody-WhiteRabbit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Arkdemon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

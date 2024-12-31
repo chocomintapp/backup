@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSDf78YPa5PRDQXaF2HKsM1y2ixkTVXgnspBXWvBoAwnh/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 60,
+  "chainId": "1",
+  "name": "ROSE",
+  "description": "She is very athletic, but not good at studying.\n\nPlaying with her dog is her only time of relaxation.\n\nWhen she goes outside, she gets nervous and is always less than half of what she is capable of.\n■ロゼ\n運動神経抜群だが、勉強は苦手。\n\n愛犬と遊んでいる時だけが彼女の唯一の憩いの時間。\n\n外に出ると緊張してしまって、いつも半分以下しか実力を出し切れないでいる。",
+  "attributes": [
+    {
+      "value": "Rainbow-VerticalWhiteStripe",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-UEmerald",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Btype(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-Flower",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcXRM8KSMS5ehkbqAt9VQhJ62Jvj2sQXtqHRpHPLc8njB/nft.png",
+  "nftContractAddress": "0xf80a5668e2d9104a3918dccc77ec37b44c0de79b",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "Bikkuri_Girl #017",
+  "description": "びっくりした仕草をしている女の子のコレクション第17弾です\n恋に落ちたのか、何か見つけたのか、何にびっくりしているか…捉え方はあなた次第！\n\nThis is the 17th collection of girls making surprised gestures.\nWhether they've fallen in love, found something, or are surprised by what... it's up to you!\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Sara",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "A class",
+      "trait_type": "CLASS"
+    }
+  ]
+}

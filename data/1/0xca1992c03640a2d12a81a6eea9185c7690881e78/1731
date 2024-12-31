@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVAeEQuvbnMFoWK4bamGh9qQ7WfzFDRpmYCYQwvfdyEHF/nft.png",
+  "tokenId": 1731,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1731",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Side Tail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cutout Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "White Pearls"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cookie"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "White Cat Ears"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Siamese Cat"
+    }
+  ]
+}

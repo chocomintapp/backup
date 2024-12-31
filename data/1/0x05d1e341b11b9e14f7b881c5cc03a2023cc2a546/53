@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNytUH8FdC44s5WKAJ1gx6kZ9KWy9QT2fCfuRDBH1UD6L/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmajZ8jqkRgvVywzHECnRbhzMfT7dxy146bxphRL5qQTit/nft.mp4",
+  "tokenId": 53,
+  "chainId": "1",
+  "name": "Kazi #053",
+  "description": "Kazi  \n純粋無垢に憧れをもつ  \nHe has a yearning for purity and innocence.",
+  "attributes": [
+    {
+      "value": "Construct",
+      "trait_type": "TYPE"
+    }
+  ]
+}

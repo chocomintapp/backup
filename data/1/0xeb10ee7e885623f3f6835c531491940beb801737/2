@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZKEvd4SfArhySLeLXomT9MvyHVuUUGDQAbpzeTREdTLZ/nft.png",
+  "nftContractAddress": "0xeb10ee7e885623f3f6835c531491940beb801737",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "#002-Hammock",
+  "description": "CoolGirl Campers #002のPFP用NFT。お気に入りギアは「ハンモック」。",
+  "attributes": [
+    {
+      "value": "Reading",
+      "trait_type": "HOBBY"
+    },
+    {
+      "value": "Hammock",
+      "trait_type": "FAVORITE"
+    }
+  ]
+}

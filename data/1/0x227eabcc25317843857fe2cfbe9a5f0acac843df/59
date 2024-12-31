@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWNWSBGM8m764Q8TB6KdsrkrDTgXeNPhWAuegiC83cKf9/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 59,
+  "chainId": "1",
+  "name": "Beach Borne Bae #87",
+  "description": "Beach Borne Bae #87\nInspired by Pacific spaghetti eel / シンジュアナゴ",
+  "attributes": [
+    {
+      "value": "Bun",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Frill",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

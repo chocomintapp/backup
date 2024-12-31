@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNVWZoF24rLLHp2wviS8LqWjR3G3zxYf6HXPPAsoNygd2/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "WEAR BEAR #101 “STEVE” ×”LION” from TMA",
+  "description": "WEAR BEAR 第11弾はクールなTHE MAFIA ANIMALSとのコラボシリーズ！それぞれがMAFIA幹部の衣装をまとって登場！\n “STEVE”は幹部NO.001 ”レオン”の衣装で登場\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Jacket&Stripe shirts",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Slacks ",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Dress shoes",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Steve",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Cigar",
+      "trait_type": "Accessories"
+    }
+  ]
+}

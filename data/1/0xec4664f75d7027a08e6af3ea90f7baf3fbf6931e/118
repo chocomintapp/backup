@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWktKUeY7cMQr8PzEFH3wm6hf4dYzV7oxsvHRC1hLCpwo/nft.jpg",
+  "nftContractAddress": "0xec4664f75d7027a08e6af3ea90f7baf3fbf6931e",
+  "animationUrl": "",
+  "tokenId": 118,
+  "chainId": "1",
+  "name": "LAYLA Vol.2 #009",
+  "description": "Neo Cyber Girls Collection\nJUNK STREET",
+  "attributes": [
+    {
+      "value": "Plain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "OrangePurple",
+      "trait_type": "ThemeColor"
+    },
+    {
+      "value": "PonytailPartBangs",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "JacketCroppedtop",
+      "trait_type": "Ware"
+    },
+    {
+      "value": "GlassesMask",
+      "trait_type": "Outfit"
+    },
+    {
+      "value": "HairSweep",
+      "trait_type": "Pose"
+    }
+  ]
+}

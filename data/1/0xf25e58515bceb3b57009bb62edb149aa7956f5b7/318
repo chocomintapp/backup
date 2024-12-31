@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTwM3YQMa6MusjxDbPVbFpxPPLXm1kgqrE11jv3iuJWKs/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 318,
+  "chainId": "1",
+  "name": "RAN",
+  "description": "■ラン",
+  "attributes": [
+    {
+      "value": "bubble7",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Red",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew3",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye6",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Magic-user",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-3EYES",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Round glasses-red Shining right",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Arkdemon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Meta tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

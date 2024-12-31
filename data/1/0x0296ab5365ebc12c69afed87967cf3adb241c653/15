@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYASAro4LzQag3CSbtojhB8PjUfjsYPKsHGTktnwqh8dm/nft.jpg",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "御穂[Miho]",
+  "description": "「天人の舞をお見せいたします！」\n\n温厚な性格で人当たりがとても良い。\nダンスがとても得意で彼女の踊りに一目惚れをして告白し、撃沈した男性は星の数ほどいるとか。",
+  "attributes": [
+    {
+      "value": "波",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

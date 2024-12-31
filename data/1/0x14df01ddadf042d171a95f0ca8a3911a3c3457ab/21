@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWiniapS97MbBrarivb2P7WiDPjDj3KN54g374rAqmjQB/nft.gif",
+  "nftContractAddress": "0x14df01ddadf042d171a95f0ca8a3911a3c3457ab",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "#21",
+  "description": "海を漂う海月のように。\nCryptoの波を漂うおじじ。",
+  "attributes": [
+    {
+      "value": "Jellyfish",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Jellyfish",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Jellyfish",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Jellyfish",
+      "trait_type": "Job"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW5wXJbA4gtstdB1vnrA32W2QRyLgW1F6DyQ5mY9bLAdN/nft.png",
+  "tokenId": 4,
+  "description": "A series of illustrations on the theme of death\n\n「Bouquet of hands」\n\nillustration: ooshima",
+  "nftContractAddress": "0xf34edd3fff9231ed28beb9572b7378f997ec7003",
+  "animationUrl": "https://ipfs.io/ipfs/QmW5wXJbA4gtstdB1vnrA32W2QRyLgW1F6DyQ5mY9bLAdN/nft.png",
+  "chainId": "1",
+  "name": "Bouquet of hands"
+}

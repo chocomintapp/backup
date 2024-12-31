@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQz4gjqambYXtobtRtWunvmjC4DLFY1WH5xqP2cbaqPvb/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 463,
+  "chainId": "1",
+  "name": "EMERSON",
+  "description": "■エマーソン",
+  "attributes": [
+    {
+      "value": "Middle of the heavens2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-UPink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Black-SSP（B）",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Hat-D-white",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPehMsbMXW8AnaiKgGupyL6A3myDsWseACbxLBM8ewrDp/nft.png",
+  "tokenId": 12,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #12",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cardigan"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Pearl Studs"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "White Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Orange Slice"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Black Cat Ears"
+    }
+  ]
+}

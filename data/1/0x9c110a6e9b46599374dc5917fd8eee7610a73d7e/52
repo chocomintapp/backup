@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUG8Dm1bJgVJZnAZrKLqMF79dKzkeXGa6p4D3bWvZ6z2B/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 52,
+  "chainId": "1",
+  "name": "POCO_Marcela",
+  "description": "Marcela-Chan",
+  "attributes": [
+    {
+      "value": "Violet",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Mischievous",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRGEW4o8846fGRiMC9vdv2iS4Bn1uW5YZiSmCNmFa6WhU/nft.png",
+  "nftContractAddress": "0xa093a27b5ebe897d1a9bb42d6f69595ddb336431",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "SAMPLE #2",
+  "description": "This Nanvolian fossil sample is called Gemini because of its characteristic feature of two nearly identical structures.\n\nNo unified view has been reached as to whether Gemini is a single individual or a fusion of two individuals.\n\n---\n\nこのナンボリア生物のサンプルは、ほぼ同じ構造が2つ連なったその特徴からナンボリア研究者にGeminiと呼ばれている。\n\nGeminiが1つの個体なのか、2つの個体の融合体なのかは統一した見解を得られていない。",
+  "attributes": []
+}

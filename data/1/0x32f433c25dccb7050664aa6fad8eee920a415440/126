@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbdGn6iaYDjefMeHX7zozLAaYJExLny8vLwwLMQSFXmPx/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmbiDUd1Nq3baWEsXBakq8DERsx9yanDnikBngBYAEXWMS/nft.mp4",
+  "tokenId": 126,
+  "chainId": "1",
+  "name": "THE JEWEL #126",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "amethyst",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "silver ",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXtc1LaNuSPpa6axUoZgccMtMdKbaKWLpvf6GAVAKab4r/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 153,
+  "chainId": "1",
+  "name": "SANA",
+  "description": "■サナ",
+  "attributes": [
+    {
+      "value": "Entrance Heavenly2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Tail-LightRed",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllOrange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Spring",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

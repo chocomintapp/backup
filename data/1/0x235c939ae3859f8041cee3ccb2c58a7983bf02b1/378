@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRzmEdZVxfwab9THqJdjJX8FajSJKc81aF8DPVCfizk6u/nft.jpg",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 378,
+  "chainId": "1",
+  "name": "Palma",
+  "description": "New life born the coexistence with human and date. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "White",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "White",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Moon",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Solar Eclipse",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "3LOM",
+      "trait_type": "PROTO VALUE"
+    },
+    {
+      "value": "Hair Tie",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Ribbon",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Sun",
+      "trait_type": "SPELL"
+    }
+  ]
+}

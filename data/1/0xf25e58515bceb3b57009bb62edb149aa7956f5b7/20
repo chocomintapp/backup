@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmde1GVJLBX9TePm1si4CjdJXR93SxFap3qkTqxeKY5UfM/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "EMMA",
+  "description": "Emma is fluent in languages, athletic, brilliant, and good-looking.\n\nShe is the center of attention wherever she goes, and the number of men who want to be dragged in place of Jack the dog is rapidly increasing.\n\nEmma's special eyes, said to be one of only three in the world, captivate all who see them.\n■エマ\n語学堪能・運動神経抜群・秀才・容姿端麗なエマ。\n\nどこに行っても注目の的で、犬のジャックに代わって引きずられたい男性急増中。\n\nエマの瞳は世界に3人しかいないと言われている特別な目で、見るもの全てを魅了する。",
+  "attributes": [
+    {
+      "value": "Rainbow-VerticalWhiteStripe",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Eyes-Of-Flame",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WBB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Skyblue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Jack",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Yellow",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

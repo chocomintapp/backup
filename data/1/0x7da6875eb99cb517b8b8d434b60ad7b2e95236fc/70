@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWN6iejK4ni7uFXx1mQ18og88t58UrJkvGhym8C7sJ3WL/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 70,
+  "chainId": "1",
+  "name": "KAIKA #70",
+  "description": "",
+  "attributes": [
+    {
+      "value": "fragment",
+      "trait_type": "energy"
+    },
+    {
+      "value": "none",
+      "trait_type": "extra"
+    },
+    {
+      "value": "almond",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "heterochromia",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "buzz cut",
+      "trait_type": "hair"
+    },
+    {
+      "value": "black",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "lip bite",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "bruise",
+      "trait_type": "skin tone"
+    }
+  ]
+}

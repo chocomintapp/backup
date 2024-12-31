@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXLCnwhiC6VGqiJLEaVPo4NHQP8c7i3959FD87WwFxyfu/nft.gif",
+  "nftContractAddress": "0xa0fdc64060ca093e35475d59ec321ab7233e6a87",
+  "animationUrl": "https://ipfs.io/ipfs/QmXLCnwhiC6VGqiJLEaVPo4NHQP8c7i3959FD87WwFxyfu/nft.gif",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "NAMAIKI mode",
+  "description": "SHIRO's \"NAMAIKI GIRLS fan art\".\n\n@namaiki_girls\n#ナマイキちゃんは推されたい",
+  "attributes": []
+}

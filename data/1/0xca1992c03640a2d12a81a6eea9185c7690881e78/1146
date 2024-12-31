@@ -1,0 +1,63 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdFU67SHCAL999JHpL6iSByyss6HgV4Ej65GrqSBrskyV/nft.png",
+  "tokenId": 1146,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1146",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovely Madness"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Rhombus"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Taupe Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Letter"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Glasses"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Orange Hibiscus"
+    },
+    {
+      "trait_type": "Feature",
+      "value": "Face Painting"
+    }
+  ]
+}

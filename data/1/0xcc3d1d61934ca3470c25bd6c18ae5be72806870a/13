@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPUHHHmRViQazzcC8MmDCy5zAeCfp6Ttue9WYi8S6XCby/nft.png",
+  "nftContractAddress": "0xcc3d1d61934ca3470c25bd6c18ae5be72806870a",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "#007 おはよう",
+  "description": "",
+  "attributes": [
+    {
+      "value": "挨拶",
+      "trait_type": "Category"
+    },
+    {
+      "value": "吹き出し",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdWHgraWNrZJurtwbzveiGmbYMbPgdkBxesxyHotSh9yc/nft.png",
+  "tokenId": 31,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #31",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Carmine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cutout Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Circle"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "White Pearls"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Officer Hat"
+    }
+  ]
+}

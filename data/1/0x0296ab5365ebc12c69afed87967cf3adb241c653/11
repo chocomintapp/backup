@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXpGSbXFsCGrnoetZzQQwS1q5FFGcsJxLGYXM2iZjay91/nft.jpg",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "雪歩[Yukiho]",
+  "description": "「・・・あつい？雪・・・いる？」\n\n\n寒い日でも寒そうな格好をしている彼女、雪歩。\n\n雪が大好きなのか、よく雪だるまを作ったり、雪で寝っ転がったりしている。\n\nちょっと不思議なところもまた彼女の可愛さである。",
+  "attributes": [
+    {
+      "value": "雪",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

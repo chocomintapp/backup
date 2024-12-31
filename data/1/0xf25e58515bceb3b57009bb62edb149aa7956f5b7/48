@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYChdJtoxDcxsomiGW1kFQyuzwMfPLMuUJS6Y8ghx83KW/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 48,
+  "chainId": "1",
+  "name": "RIRI",
+  "description": "She is the owner of a rare odd eye and the daughter of one of the richest men in the world.\n\nShe loves space travel and travels 361 times a year.\n\nSince she only stays on earth for about 4 days, she is almost like an alien already.\n\nHer dog, Akashi, also loves space and lives with her in the spaceship.\n■リリ\n彼女は珍しいオッドアイの持ち主であり、世界有数の富豪の娘でもある。\n\n宇宙旅行が大好きで、年に361回は宇宙旅行をしている。\n\n地球に滞在しているのが4日程度なので、もうほとんど宇宙人みたいなものだが。\n\n愛犬のアカシも宇宙が大好きで一緒に宇宙船の中で生活している。",
+  "attributes": [
+    {
+      "value": "Dot1",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-Odd4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Btype",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Akashi",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Ribon-RedDR",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

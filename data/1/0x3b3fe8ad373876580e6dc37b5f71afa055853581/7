@@ -1,0 +1,63 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU72tfMvRDpaMkCtPDR7MkvRWFv3DQ39N4hfQPuKytoCB/nft.png",
+  "nftContractAddress": "0x3b3fe8ad373876580e6dc37b5f71afa055853581",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "Day6",
+  "description": "🗓Wed, 21th Sep '22🤖A Doll\n\nDear doll, I felt a little bit scared to pick you up. Wonder why you are laid on the side of the path? What kind of story do you have？ May be carried by the typhoon？ I wish you would sleep and be alive in the art forever.------------------------------------------⏳25min⏳??g・Fag-ends🚬×6・Non-woven fabric😷×3・non-woven wet tissue・KALDY Coffee wrapping（ https://www.kaldi.co.jp/ ）・MouthWash pack・Karaage-Japanese fried chicken- pack・Silken Tofu #SATONOYUKIFOOD（ https://www.satonoyuki.co.jp/lineup/lineup_category/kinugoshi/ ）・Reciept🧾・Styrofoam・Doll🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖Day6＊人形🤖22.9.21.水人形さん ちょっと拾うの怖った〜 なんで捨てられてたんかなあ？どんな物語があるんだろう？台風で運ばれてきた？安らかに眠ってくれアートの中で生き続けてね------------------------------------------⏳ごみ拾い25分⏳??g⇨公園ゴミ箱廃棄・#ポイ捨てたばこ ×6・#不織布マスク ×3以下1点・#不織布ウェットティッシュ・#カルディ #コーヒーパック・口内洗浄パック・#唐揚げパック・絹ごし豆腐パック　#自然派style #さとの雪食品・領収書🧾・発泡スチロール・人形#ごみアート#litter#NFTart#generativeart🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖Tweetshttps://twitter.com/DJ_Drool/status/1572438744011247616?s=20&t=iSf_bLFO6H8PX85B46RNbAhttps://twitter.com/DJ_Drool/status/1572688780540067840?s=20&t=iSf_bLFO6H8PX85B46RNbA",
+  "attributes": [
+    {
+      "value": "ART",
+      "trait_type": "GOMINOTE"
+    },
+    {
+      "value": "JAPAN",
+      "trait_type": "COUNTRY"
+    },
+    {
+      "value": "OSAKA",
+      "trait_type": "PREFECTURE"
+    },
+    {
+      "value": "Non-woven fabric😷",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "SUITA",
+      "trait_type": "CITY"
+    },
+    {
+      "value": "さとの雪食品",
+      "trait_type": "MAKER"
+    },
+    {
+      "value": "MouthWash",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Fag-ends🚬",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Styrofoam",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "KALDI",
+      "trait_type": "MAKER"
+    },
+    {
+      "value": "DOLL",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Reciept",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Non-woven wet tissue",
+      "trait_type": "TYPE"
+    }
+  ]
+}

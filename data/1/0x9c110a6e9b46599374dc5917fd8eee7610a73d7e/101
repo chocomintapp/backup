@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSfhB1nXuKBkW3LKaPBeCK1zVBWZbHiJRjhyzVXGEEXvF/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 101,
+  "chainId": "1",
+  "name": "POCO_Marion",
+  "description": " Marion-Chan",
+  "attributes": [
+    {
+      "value": "Unruly",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Violet",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Sci-Fi",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Splatter",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

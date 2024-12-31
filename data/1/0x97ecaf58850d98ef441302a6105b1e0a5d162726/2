@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXhKGzaLcSCAvMrk2Fs5jJnn4GCaWFbLBVamLgugGBtw7/nft.jpg",
+  "tokenId": 2,
+  "description": "test2",
+  "nftContractAddress": "0x97ecaf58850d98ef441302a6105b1e0a5d162726",
+  "animationUrl": "https://ipfs.io/ipfs/QmXhKGzaLcSCAvMrk2Fs5jJnn4GCaWFbLBVamLgugGBtw7/nft.jpg",
+  "chainId": "1",
+  "name": "Portrait #2 \"Cry\"",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

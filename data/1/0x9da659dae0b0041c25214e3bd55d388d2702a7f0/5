@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmboXx5DkAdmXpEfthg1K657UNAt1N25ZDzM8USqPVUVk8/nft.jpg",
+  "nftContractAddress": "0x9da659dae0b0041c25214e3bd55d388d2702a7f0",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "CALM MALICE",
+  "description": "\"......Execution.....\"",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

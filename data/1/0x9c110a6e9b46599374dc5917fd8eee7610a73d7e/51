@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNyXf5h7H9vkLmPUQzjpJa48ZrypPCBD8mRg3ToLKVuvo/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 51,
+  "chainId": "1",
+  "name": "POCO_Pearl",
+  "description": "Pearl-Chan",
+  "attributes": [
+    {
+      "value": "White",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Pure",
+      "trait_type": "PERSONALITY"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWBuXU3xUoHMAMX7gPuLpXHcKefa8ymfM74nvkdEyFN8b/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Beach Borne Bae #29",
+  "description": "Beach Borne Bae #29\nInspired by Ocellated eagle ray / マダラトビエイ",
+  "attributes": [
+    {
+      "value": "Ponytail",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Off Shoulder",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Ray",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

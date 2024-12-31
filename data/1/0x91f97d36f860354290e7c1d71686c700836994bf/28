@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfErSxS8FXRgbTGguKmiMQniNe2vwF8ckfbQ2omKkkbT1/nft.png",
+  "nftContractAddress": "0x91f97d36f860354290e7c1d71686c700836994bf",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "1",
+  "name": "#AKANE-015",
+  "description": "濱野あかね（HOOKY!） ーーーーーーーー 「HOOKY!」とは・・・ 応援できるアイドル！ファン参加型NFT「HOOKY!project」です。 彼女たちと一緒に、夢をつかんでみませんか？ あなたの応援で、彼女たちはどんどん大きくなっていきます。 ロードマップの最終目標は「フィジカルライブ」です。 ※お迎え頂いた際のウォレットアドレス宛にチェキ券をお送りします（2次流通以降も対象） ※チェキ券は、集めて頂いた枚数によってチェキNFTと交換できます ※購入金額に応じて不定期開催の「人気投票」にてご利用いただける投票権利付NFTもお送りします（2次流通以降も対象）",
+  "attributes": [
+    {
+      "value": "costume",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "AKANE",
+      "trait_type": "member"
+    },
+    {
+      "value": "HOOKY!",
+      "trait_type": "group"
+    },
+    {
+      "value": "small",
+      "trait_type": "series"
+    }
+  ],
+  "minted": "✅"
+}

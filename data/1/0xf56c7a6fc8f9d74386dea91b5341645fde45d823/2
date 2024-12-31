@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb522J95gfabq9ZePcJeXuq2yUBtSTzAvELoowVQq9q2R/nft.png",
+  "nftContractAddress": "0xf56c7a6fc8f9d74386dea91b5341645fde45d823",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "CoolGirl Weapons #002",
+  "description": "CoolGirlNFT×武器のファンアート作品",
+  "attributes": [
+    {
+      "value": "rifle",
+      "trait_type": "Weapons"
+    },
+    {
+      "value": "dragon",
+      "trait_type": "Summon"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,27 @@
+{
+  "image": "",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "https://ipfs.io/ipfs/QmP912j5Yd6YTUmQbZtC8GwAKbTRUzuhvwymR8L7hqD6od/nft.mp4",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": " Holographic Animation of Vil A Eisen",
+  "description": "It is a purchase privilege of GENESIS NFT # 4 Vil A Eisen of Ambitious One City\n\nAmbitious One CityのGENESIS NFT #4 Vil A Eisenの購入特典です",
+  "attributes": [
+    {
+      "value": "NATURAL",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "KINAGASHI",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "CYBER ARMOR",
+      "trait_type": "ITEM"
+    }
+  ]
+}

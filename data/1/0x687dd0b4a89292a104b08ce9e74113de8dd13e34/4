@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTXtDztuY1rowa8aJHgCiuivTGTUnBKTE3CdeodsdPQkR/nft.jpg",
+  "nftContractAddress": "0x687dd0b4a89292a104b08ce9e74113de8dd13e34",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Alpaca Go Go #4 Japan",
+  "description": "A shy alpaca has so much fun outdoor at Shizuoka, Japan! There are lots of beautiful campgrounds near Mt.Fuji. \n\n---\n\n#Alpaca Go Go\nI am a shy alpaca who want to be someone else. I’m traveling around the world to change my mind & clothes!",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": "LOCATION"
+    },
+    {
+      "value": "White",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Cheeks",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Haired",
+      "trait_type": "TOP"
+    },
+    {
+      "value": "Jacket",
+      "trait_type": "SHIRT"
+    },
+    {
+      "value": "Mountain",
+      "trait_type": "ACCESSORY"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "BACKGROUND2"
+    }
+  ]
+}

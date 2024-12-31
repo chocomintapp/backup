@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd4F8DxGb3sLEB2u3cE824tyDM9QahyySaeXhx2H6EuQ7/nft.jpg",
+  "nftContractAddress": "0x9da659dae0b0041c25214e3bd55d388d2702a7f0",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "ATTIC VILLAIN",
+  "description": "\"……mischief……\"",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

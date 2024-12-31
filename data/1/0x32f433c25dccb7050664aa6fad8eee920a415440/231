@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUvpi8adqbNbVYmNiknXnBBVS8TbqXpa4jpxkr86ZME2D/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmTNNge7ixJPkNZeertRKKAZd42G8ATWG2SCeuAvxb4TME/nft.mp4",
+  "tokenId": 231,
+  "chainId": "1",
+  "name": "THE JEWEL #231",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Yellow",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

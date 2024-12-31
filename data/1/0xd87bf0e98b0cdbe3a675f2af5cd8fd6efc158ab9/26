@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQaA3bsPW7zFtrpG8rn8uxQw2D7MPYzArdoQcjDAfyFWk/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "1",
+  "name": "THS #061",
+  "description": "【説】",
+  "attributes": [
+    {
+      "value": "crow",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "goldfish",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "octopus",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

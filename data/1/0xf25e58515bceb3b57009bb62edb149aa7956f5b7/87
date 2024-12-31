@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSNtczRuKaGx8vVyj1ywQTGfJ34TwhJdHNxbUp1MYMZrf/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 87,
+  "chainId": "1",
+  "name": "DIAMOND",
+  "description": "The undisputed diva of the world.\n\nHer beautiful voice and jewel-like odd eyes are so famous that there is no one who doesn't know her.\n\nShe is also a cat lover who even has her cat, Felix, appear on TV.\n\nShe has survived in the tough entertainment industry and has a lot of courage.\n■ダイアモンド\n\n世界の誰もが認める歌姫。\n\nその美声と宝石のようなオッドアイを知らない者はいないくらい有名。\n\n猫のFelixをテレビに出演させるほどの愛猫家でもある。\n\n厳しい芸能界で生き抜いてきただけあって、胆力は相当なもの。",
+  "attributes": [
+    {
+      "value": "Deep-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Brightblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Odd2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-Blue(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-N",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Felix",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Ribon-Polkadots",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

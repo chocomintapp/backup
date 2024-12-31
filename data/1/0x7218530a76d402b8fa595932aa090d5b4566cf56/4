@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQg1gfzADeKy8nHsd3P1n2RUonfaqFo8B4Yzk2k7mufyZ/nft.png",
+  "nftContractAddress": "0x7218530a76d402b8fa595932aa090d5b4566cf56",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Platina\"mon rêve\"Girl",
+  "description": "ずっと憧れていたこの舞台  \n  \nあの子に追いつくため通ったこの道は  \n  \n振り向かず走ってきたこの道は  \n  \n応援してくれる　みんなと歩んできた私の夢そのものなんだ  \n\n---  \n  \nC'est la scène sur laquelle j'ai toujours voulu être.\n\nCette route que j'ai prise pour la rattraper\n\nCe chemin que j'ai parcouru sans regarder en arrière\n\nc'est mon rêve que j'ai réalisé avec tous ceux qui me soutiennent.  \n  \n---  \n  \n2894x4093 px  ",
+  "attributes": [
+    {
+      "value": "18",
+      "trait_type": "AGE"
+    },
+    {
+      "value": "Platina",
+      "trait_type": "COLOR GIRL"
+    },
+    {
+      "value": "Mint Green",
+      "trait_type": "EYE"
+    },
+    {
+      "value": "Platina",
+      "trait_type": "HARE"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTeQDtwrVzkcxCKJNtsJ1NHR2q2fekoyWuBAMCavUQFiw/nft.jpeg",
+  "tokenId": 1,
+  "description": "A fictitious beautiful flower",
+  "nftContractAddress": "0x2a92884a5a2cd73b0f6a813f3e87badd75de314f",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Black flower"
+}

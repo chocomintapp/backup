@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSFKKJ36uXN4qNQBwAbVgCG3GewMNLwfWbQVtNmEc9oDz/nft.jpg",
+  "tokenId": 1,
+  "description": "aro's NFT starts here",
+  "nftContractAddress": "0xe5b2623d03246dff9b9cfee3824d2e5d731ef8b3",
+  "animationUrl": "https://ipfs.io/ipfs/QmSFKKJ36uXN4qNQBwAbVgCG3GewMNLwfWbQVtNmEc9oDz/nft.jpg",
+  "chainId": "1",
+  "name": "arousal",
+  "minted": ""
+}

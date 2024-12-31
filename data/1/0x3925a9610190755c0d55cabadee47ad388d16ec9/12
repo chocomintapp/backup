@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRQhSStRicvGi9UFthqsHTmyu9suzoMvdgebC3Wc4fbLx/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "Yomogi",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "KUSUSHI",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Hige-azarashi",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "NATURAL",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "KISERU",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    }
+  ]
+}

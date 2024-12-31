@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNhSno8L49VVr2DdURuBhpfw4docYtepwweRuaugFonFc/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmRMr6zCSgPf44HwMtVKhbPpScoF8mTopjwaop94mRNsLJ/nft.mp4",
+  "tokenId": 382,
+  "chainId": "1",
+  "name": "THE JEWEL #382",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Bicolor Tsovolite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

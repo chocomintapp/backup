@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYS68mg4h3goLspRu9XfgK9qhSZzxeWCacrG49qePw3Wo/nft.png",
+  "nftContractAddress": "0xefb12bc325da0270e828162458326749d5878102",
+  "animationUrl": "https://ipfs.io/ipfs/Qmb1AEHteqfUGwk5eYQrzTqFr9yzG3iu6cEHunRKchLTQL/nft.glb",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "Ballerbit #94C Peyto",
+  "description": "The greatest QB of all time, holding many all-time records",
+  "attributes": []
+}

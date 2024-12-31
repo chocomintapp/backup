@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPfjk4w4Lux78qcnbBt2RorqqPEj6RS1cUmD1hkx8A9oV/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "炭素冷凍",
+  "attributes": [
+    {
+      "value": "朝日山",
+      "trait_type": "人物"
+    },
+    {
+      "value": "着物",
+      "trait_type": "服装"
+    },
+    {
+      "value": "刀",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "XYM",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

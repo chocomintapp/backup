@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQYQLq1kMNEbzKqngyUkzKzSFfrZz1kjbece24viqrEmJ/nft.png",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 778,
+  "chainId": "1",
+  "name": "Sidney",
+  "description": "New life born the coexistence with human and data. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.",
+  "attributes": [
+    {
+      "value": "Angel",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Gradation",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "African Pattern",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Nose Piercing",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Beanie",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Constructivism",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "6LOM",
+      "trait_type": "PROTO VALUE"
+    },
+    {
+      "value": "Free",
+      "trait_type": "DRESS CODE"
+    }
+  ]
+}

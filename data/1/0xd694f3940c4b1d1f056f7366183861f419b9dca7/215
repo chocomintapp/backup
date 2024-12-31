@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXUzuSzAjWhNkdfEnD82zvD3fdoaj3aQb3Yd1AD2vdrKL/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 215,
+  "chainId": "1",
+  "name": "December 18 プリムラポリアンサ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "18",
+      "trait_type": "日"
+    },
+    {
+      "value": "運命を切り開く",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "プリムラ",
+      "trait_type": "花"
+    }
+  ]
+}

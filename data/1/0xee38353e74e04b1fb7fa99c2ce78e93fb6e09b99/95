@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNv7d8Zp5CqK8KZjs5obPgC9b4ThtUPyEvTePVRGAxsXJ/nft.png",
+  "nftContractAddress": "0xee38353e74e04b1fb7fa99c2ce78e93fb6e09b99",
+  "animationUrl": "",
+  "tokenId": 95,
+  "chainId": "1",
+  "name": "#0095 Series002 No.043",
+  "description": "未来の自律型電脳ゲーミングPC『Chirobo.』\n   \nPortable Network Graphics       \n2048×2048px",
+  "attributes": [
+    {
+      "value": "Series 002",
+      "trait_type": "Series"
+    },
+    {
+      "value": "Fusion",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Square type A",
+      "trait_type": "CPU"
+    },
+    {
+      "value": "DeltaTechnology type A",
+      "trait_type": "GPU"
+    },
+    {
+      "value": "DeltaTechnology type A",
+      "trait_type": "RAM"
+    },
+    {
+      "value": "PaleColor",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Blue×F.Yellow",
+      "trait_type": "LED"
+    }
+  ],
+  "minted": "✅"
+}

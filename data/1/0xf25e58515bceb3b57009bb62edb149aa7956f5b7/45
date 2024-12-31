@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSbD4toYGfnn8Y2uN3cwytTLACgteCAhuA5hDiCQq2rFN/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 45,
+  "chainId": "1",
+  "name": "HIKARI",
+  "description": "She is half human and half god of health.\n\nHer hairpin cat lucy, given to her by her father, is always watching over her, so she never suffers from accidents or bad luck.\n\nShe plays with an angel every day and is still growing up in good health.\n\n■人間(ﾊｰﾌ)\n■ヒカリ\n\n健康を司る神様と、人間のハーフ。\n\nパパンがくれたヘアピン猫のlucyがいつも見守ってくれているから、事故や不運に見舞われることがない。\n\n天使と毎日戯れる可愛い人気者。今もスクスク元気に育っている。",
+  "attributes": [
+    {
+      "value": "Rainbow-MIx",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Tail-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-Odd5",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-White",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-lucy",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Archangel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

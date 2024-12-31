@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWbvbov3C2D7EDEpswzFHUNBMriYwQhwtW7DBDaZEr9sQ/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 110,
+  "chainId": "1",
+  "name": "POCO_Flora",
+  "description": "Flora-Chan",
+  "attributes": [
+    {
+      "value": "Curious",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Sci-Fi",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Schema-Chan Remake ",
+      "trait_type": "SERIES"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXVnHpttLwJZXDT63GooVHgSPRhf8QHKKnjTG6ZNC9yuP/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 198,
+  "chainId": "1",
+  "name": "ECHIDNA",
+  "description": "■エキドナ",
+  "attributes": [
+    {
+      "value": "MIX2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.6",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Madness",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Redaura",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Despair",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Devil-aura(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dominion",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Hornes-B",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Hell Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc73Tf1aVaQ94KBhGiVDVgUdoEQrMjdNnywiPMKtxvb1y/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmbzPdb7VtTXaDn6GW1ohHaVEPJj3inM8NvMi1caSFEuto/nft.mp4",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "THE JEWEL #012",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "paraiba tourmaline",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

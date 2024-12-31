@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUDtCodCfx2TdaoHmHPbHrTZ8Mk5CGeE3eSRPNdfdSSnm/nft.png",
+  "tokenId": 150,
+  "description": "",
+  "nftContractAddress": "0xa3504b583db9090d46bb3c97e04eae5e61e3dfce",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #150",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Faint Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Knit Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Light Gray"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Lollipop"
+    }
+  ]
+}

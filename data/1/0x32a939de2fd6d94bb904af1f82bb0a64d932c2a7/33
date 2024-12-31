@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUtpMffqzbwjMiDSaXXy2HW7eCUiXC2xXyiJHYStJ7eur/nft.png",
+  "nftContractAddress": "0x32a939de2fd6d94bb904af1f82bb0a64d932c2a7",
+  "animationUrl": "https://ipfs.io/ipfs/QmcJcifFw8if3Rz2qZommQbsEYYE8h6T4E1GHTnrJHZLhh/nft.mp4",
+  "tokenId": 33,
+  "chainId": "1",
+  "name": "ATUM #033",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SKY ANTHONY6",
+      "trait_type": "Type"
+    },
+    {
+      "value": "GOLD",
+      "trait_type": "Color"
+    }
+  ],
+  "minted": ""
+}

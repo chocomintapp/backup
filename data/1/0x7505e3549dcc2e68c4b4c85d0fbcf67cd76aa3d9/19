@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUF3a71K4EsQNPgwjpo5yaEAHSLWpgxLT1nQVqsTkvLTm/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "ともだちとハロウィンをやった Halloween with friends #217",
+  "description": "【#ハロwiiiiiin イベント参加作品】2022.10/1〜10/9\n\nハロウィンパーティで友だちと約束したからコスチュームを決めました。\n友だちからいっぱいこわい古いお人形をもらいました。\nそんなふうに楽しかった後のできごとです。\n\n友だちからここら辺にお化けがいると言われました。\nそんなわけないと思って行ってみました。\nそうしたらほんとにおばけがいてドキドキ！\nこわーいとほっぺが赤くなってる。\n\nだけど強い子だから大丈夫って思ってる！\n\n☆小学2年生17番目の作品なので217のナンバーをふりました♪\n\nThis girl decided on a costume because I promised my friends a Halloween party.\nThis was after she had enjoyed receiving lots of scary old dolls from her friends.\n\nA friend told her there was a ghost around here and she thought there was no way that was true, so she went there.\n\nThen she was surprised to find a real ghost!\n\nShe feels scared and her cheeks are red.\nBut she's a strong girl, so I know she'll be okay!\n\n☆This is the 17th work in the second grade of elementary school, so I put the number 217 on it.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Bear",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Ghost",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Halloween",
+      "trait_type": "Event Types"
+    },
+    {
+      "value": "Girl",
+      "trait_type": "Type"
+    },
+    {
+      "value": "zombie",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Kawaii",
+      "trait_type": "Category"
+    },
+    {
+      "value": "little Scary",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Color"
+    }
+  ]
+}

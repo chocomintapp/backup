@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZQo5U1QCZYNmuEAgH4qv47RnfsgjYok3hMGeLnDBMuBe/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWVY6FW4k7caN53mMzVT4SeSYLUJ4pi7xdamCQiE9UpnG/nft.mp4",
+  "tokenId": 695,
+  "chainId": "1",
+  "name": "THE JEWEL #695",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Patina Iron",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfAXRsRytWALKu87QWWco7D89RqEgCEea4bQ2ZQ71GLHc/nft.png",
+  "nftContractAddress": "0x89da7153f3602fa4dca6740346ef75e5ff162837",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "CG Campers feat. ICC「焚」",
+  "description": "ICHIYA Calligraphy Collection (ICC)の「焚」とコラボした作品。",
+  "attributes": [
+    {
+      "value": "Karate",
+      "trait_type": "HOBBY"
+    },
+    {
+      "value": "Axe",
+      "trait_type": "FAVORITE"
+    },
+    {
+      "value": "焚",
+      "trait_type": "ICC"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdMpP1yedt2N3BpD2omGZ1FE2Sm7dXAnuN3EqNbteNxQd/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 75,
+  "chainId": "1",
+  "name": "TIARA",
+  "description": "TIARA was born and raised in an ordinary family.\n\nBut her life is full of ups and downs.\n\nJust by going shopping in town, she is escorted by a prince, almost made to eat a poisoned apple by a witch, and other events that make her seem like the hero of a fairy tale.\n■ティアラ\n生まれも育ちも平凡なティアラ。\n\nだが、その生活は毎日が波乱万丈。\n\n街に買いものに出かけただけで王子様にエスコートされたり、魔女に毒リンゴを食べさせられそうになったりと、まるでメルヘン世界の主人公のようなイベントが毎日起こる。\n",
+  "attributes": [
+    {
+      "value": "Deep-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Odd3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees-Pink(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-tragic",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

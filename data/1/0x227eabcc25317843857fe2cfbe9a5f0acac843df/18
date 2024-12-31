@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYZyhtDvddzWwFGEsLNX7cJXENUz924KRncUkso6ahWnG/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "Beach Borne Bae #46",
+  "description": "Beach Borne Bae #46\nInspired by Blue sea dragon / アオミノウミウシ",
+  "attributes": [
+    {
+      "value": "Double Bun",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Off Shoulder ",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Sea Slug",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

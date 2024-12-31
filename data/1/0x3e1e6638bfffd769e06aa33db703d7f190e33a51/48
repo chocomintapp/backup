@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaW6y6VrzNbyKG4sWkHKo3JSCMmuZbjuxR7Tq1PBU28aq/nft.png",
+  "nftContractAddress": "0x3e1e6638bfffd769e06aa33db703d7f190e33a51",
+  "animationUrl": "",
+  "tokenId": 48,
+  "chainId": "1",
+  "name": "Wb#47",
+  "description": "Created by Wonder baby.",
+  "attributes": [
+    {
+      "value": "SNOW",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "BODY A",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "HOODIE WB B",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "FLOWER",
+      "trait_type": "WEAPON"
+    },
+    {
+      "value": "BEANIE BLACK",
+      "trait_type": "HAT"
+    },
+    {
+      "value": "CIGAR",
+      "trait_type": "MOUTH"
+    }
+  ]
+}

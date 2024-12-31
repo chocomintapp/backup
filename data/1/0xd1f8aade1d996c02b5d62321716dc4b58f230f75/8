@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYZau3UPp2G3wy7PxD16EbfY66rq127wziPvuUQW1tVv4/nft.PNG",
+  "nftContractAddress": "0xd1f8aade1d996c02b5d62321716dc4b58f230f75",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "TOKYO2052 #008",
+  "description": "TOKYO2052",
+  "attributes": [
+    {
+      "value": "TOKYO2052",
+      "trait_type": "TYPE"
+    }
+  ]
+}

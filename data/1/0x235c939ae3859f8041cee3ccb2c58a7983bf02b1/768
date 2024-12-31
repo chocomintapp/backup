@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUsHxASP9m32pNp8a3ECAgCt4srVdGsrWhgYTujsd2eGH/nft.png",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 768,
+  "chainId": "1",
+  "name": "Simone",
+  "description": "New life born the coexistence with human and data. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.",
+  "attributes": [
+    {
+      "value": "Poison",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Gradation",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Green",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Gradation",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Gas Mask",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "6LOM",
+      "trait_type": "PROTO VALUE"
+    },
+    {
+      "value": "Ogre",
+      "trait_type": "SPELL"
+    },
+    {
+      "value": "Free",
+      "trait_type": "DRESS CODE"
+    }
+  ]
+}

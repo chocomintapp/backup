@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbk98Y89L4vdXANjuuZfVSkVzhZ7pUN5HFoxfsy7m5M8D/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "1",
+  "name": "Beach Borne Bae #57",
+  "description": "Beach Borne Bae #57\nInspired by Fire goby / ハタタテハゼ",
+  "attributes": [
+    {
+      "value": "Bob",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Turtleneck",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

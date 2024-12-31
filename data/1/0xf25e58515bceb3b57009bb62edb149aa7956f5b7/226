@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPjdkaLyteoNGSie2f2so1AwJ6gfcHvyLrVMdD5wwrgfE/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 226,
+  "chainId": "1",
+  "name": "EYAEL",
+  "description": "■アイアエル",
+  "attributes": [
+    {
+      "value": "Cell division",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Deepblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-Zombieorange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie4",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

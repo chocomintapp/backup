@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZLRmaaH2vLofKGsvihbUbXrsnGAARZ1QhGfNxtJfRbxL/nft.png",
+  "nftContractAddress": "0x6aefa5d0bd4bb65333ac0b4be2ac6a22065f6cad",
+  "animationUrl": "https://ipfs.io/ipfs/QmZLRmaaH2vLofKGsvihbUbXrsnGAARZ1QhGfNxtJfRbxL/nft.png",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "Rabbit girl #22『Dotted bridal veil』PFP",
+  "description": "Rabbit girl #22『Dotted bridal veil』\nShe wishes everyone happiness on Christmas night.\nShe is looking forward to choosing an outfit for a photoshoot at her best friend's house.\n\"I hope everyone has a wonderful Christmas with a smile!\"",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "PFP",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Dotted bridal veil",
+      "trait_type": "Character"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcazx4RaRCutjJHHmnCgqhELRmgGbXj7MDgCthLmhDiJc/nft.GIF",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "1",
+  "name": "Working Ganmichan #43",
+  "description": "バンパイアがんみちゃん！！！\n血〜吸うたろか〜",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "vampire",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

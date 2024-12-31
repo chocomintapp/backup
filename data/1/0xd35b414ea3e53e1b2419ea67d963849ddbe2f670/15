@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRn62GBB88khFRwHXk6ttt9ZUhPYqRYQ5AN1gmSkrnB7M/nft.png",
+  "tokenId": 15,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #15",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Sabi"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Red Ring"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_3"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bell"
+    }
+  ],
+  "minted": "✅"
+}

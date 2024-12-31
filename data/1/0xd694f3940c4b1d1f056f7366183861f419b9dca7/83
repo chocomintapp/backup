@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSwZNDhTrXAYhUCsynE6FuPbpNsu4ivKDNfPMfJL9nZhS/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 83,
+  "chainId": "1",
+  "name": "August 8 アグリモニー",
+  "description": "",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "8",
+      "trait_type": "日"
+    },
+    {
+      "value": "多彩",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "アグリモニー",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

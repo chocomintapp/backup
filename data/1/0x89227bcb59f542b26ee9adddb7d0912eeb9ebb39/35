@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmat91Japkor4MFpBXosrz8N2i52c9KoJRUdwwt2PTAHRu/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "1",
+  "name": "#035-Yamaguchi-",
+  "description": "#035-Yamaguchi-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Gaia",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Chugoku",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Yamaguchi",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

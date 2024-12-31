@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXtvqraKxFXihWqafcuT79sYmyiSQCm5RAnYRkFpZNvUM/nft.png",
+  "nftContractAddress": "0x3e1e6638bfffd769e06aa33db703d7f190e33a51",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "Wb#13",
+  "description": "Created by Wonder baby.",
+  "attributes": [
+    {
+      "value": "GRAY B",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "BODY C",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "SHIRT C",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "KNIFE",
+      "trait_type": "WEAPON"
+    },
+    {
+      "value": "BEANIE YELLOW",
+      "trait_type": "HAT"
+    },
+    {
+      "value": "SMOKING A",
+      "trait_type": "MOUTH"
+    }
+  ]
+}

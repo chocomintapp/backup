@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTjAf6XgHWKynoDsbNq4sjqu7xExRJZVfMrCfePm7cAs5/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Titi",
+  "description": "He is one of the AlternativeVerth, which emerged when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "blue",
+      "trait_type": "skin"
+    },
+    {
+      "value": "noemal_another_brown",
+      "trait_type": "eye"
+    },
+    {
+      "value": "white04",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_glass",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Cepheus",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

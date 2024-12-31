@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU5LqzqbEB1GXfVJHwvJ4a4sxrV4G1yeYUjNAof1kAiEv/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmbVWgMjjeGXnQjK5Gnk3KpthkEb6osmKyYiFM1C22YsL1/nft.mp4",
+  "tokenId": 616,
+  "chainId": "1",
+  "name": "THE JEWEL #616",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Alexandrite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Zirconium",
+      "trait_type": "Control device"
+    }
+  ]
+}

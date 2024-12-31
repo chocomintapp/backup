@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYF7cQmQb9MNMXPXXSCnW5ooXkYedM7eRB5dugj65qrbv/nft.jpg",
+  "nftContractAddress": "0xdcbbd79e20c1ea86680ed83c872e8786f5f578f1",
+  "animationUrl": "https://ipfs.io/ipfs/QmYF7cQmQb9MNMXPXXSCnW5ooXkYedM7eRB5dugj65qrbv/nft.jpg",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "#09 VILLAINS BEAN THE WITCH",
+  "description": "Beans in 3D are here!!\nThe second series is VILLAINS.\n They are MAMENGERS enemy.   \nAnd THE WITCH is special one for Halloween event 2022.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Witch Hat",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Stitches",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Pumpkins",
+      "trait_type": "EAR ACCESSORY"
+    },
+    {
+      "value": "None",
+      "trait_type": "BODY ACCESSORY"
+    },
+    {
+      "value": "Witch Purple",
+      "trait_type": "BODY COLOR"
+    },
+    {
+      "value": "Witch Cloak",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "Magic crystal",
+      "trait_type": "ARTICLES"
+    },
+    {
+      "value": "Villains Sky",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Magical Broom",
+      "trait_type": "ARTICLES"
+    }
+  ]
+}

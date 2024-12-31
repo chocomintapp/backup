@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmduK7BT55y5ZKNgT1qyeS5tW4cxTnfqdCjzdG5J644y4y/nft.png",
+  "tokenId": 37,
+  "description": "\"Grimalkin\" = \"Cait Sith\" x \"Succubus\" Poppy Aoki\n「グリマルキン」メイン種族ケットシー、サブ種族サキュバス。名前はポピー青木。\n\nグリマルキンとは、魔女の使い魔となった猫の総称。男性を誘惑して魂を奪う能力がある。片付けが滅茶苦茶苦手。\n\n\"Grimalkin\" is a general term for cats that have become the messengers of witches. They have the ability to seduce men and steal their souls. She is messy at cleaning up.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#061 \"Grimalkin\" Poppy Aoki",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Cait Sith"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Succubus"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

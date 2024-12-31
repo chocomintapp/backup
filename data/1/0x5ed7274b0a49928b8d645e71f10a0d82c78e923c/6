@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWizPhyeE16G988USMUU5SDJPqdANh3iadZCNLkA3YCHK/nft.png",
+  "nftContractAddress": "0x5ed7274b0a49928b8d645e71f10a0d82c78e923c",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Shoe skipping",
+  "description": "Shoe-skipping Akame-chan.",
+  "attributes": []
+}

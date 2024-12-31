@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZqGU1tx4wcQEb47utLzufVCKVepMY5nMFSx5s2TL1zze/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "Beach Borne Bae #51",
+  "description": "Beach Borne Bae #51\nInspired by Bottlenose dolphin / ハンドウイルカ",
+  "attributes": [
+    {
+      "value": "Bob with Straight Bangs",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "T-shirt",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Marine Mammal",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

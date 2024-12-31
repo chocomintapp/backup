@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRjVqSDEd3ik95tebew75G9reKPRm8DPKj6cxfjKHnYKY/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "WEAR BEAR #103 “BARTON” ×”Via” from TMA",
+  "description": "WEAR BEAR 第11弾はクールなTHE MAFIA ANIMALSとのコラボシリーズ！それぞれがMAFIA幹部の衣装をまとって登場！\n “BARTON”は幹部NO.034 \"Via\"の衣装で登場\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Fur coat & Stripe jacket",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Stripe slacks ",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Dress shoes",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Barton",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Cigar",
+      "trait_type": "Accessories"
+    }
+  ]
+}

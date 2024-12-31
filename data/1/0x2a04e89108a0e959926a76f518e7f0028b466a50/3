@@ -1,0 +1,15 @@
+{
+  "image": "",
+  "tokenId": 3,
+  "description": "Artist : ATH Sisters\nRarity : Legendary\nMint :  1/ 1\n\nThe first title of ATH Sisters, a unit of Miss Bitcoin and Ven, is 【Explore the history of Bitcoin with Satoshi!】\nYou can collect part of the Bitcoin's history to have this NFT art ! \n＊20% of sales and 50% of the royalties will be donated to a non-profit organization that supports teens who are having trouble in living because of Covid-19.\n\n ミスビットコインとベンのユニット、ATH Sisters の最初の作品は【Explore the history of Bitcoin with Satoshi!（サトシと共にビットコインの歴史を探検しよう！） 】です。\nNFTを手に入れて、あなたもビットコインの歴史の参加者になってください(^^)\n＊売上の20％ 及びロイヤリティーの50%は、コロナ禍で生活に困っている10代の若者を支援する非営利団体に寄付されます。\n\nATHS_001",
+  "nftContractAddress": "0x2a04e89108a0e959926a76f518e7f0028b466a50",
+  "animationUrl": "https://ipfs.io/ipfs/QmTj9mmrND9qrh1Lnq6FKkPZ22yLGSAs6qPZEMMbT9c6qB/nft.mp4",
+  "chainId": "1",
+  "name": "Explore the history of Bitcoin with Satoshi! 2009 - 2140",
+  "attributes": [
+    {
+      "trait_type": "Voxel",
+      "value": "Legendary"
+    }
+  ]
+}

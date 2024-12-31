@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmayPw4B3RzNgxkRxYorucczRJQC3PY1sFME1mwvzNAxy4/nft.png",
+  "nftContractAddress": "0x3b3fe8ad373876580e6dc37b5f71afa055853581",
+  "animationUrl": "https://ipfs.io/ipfs/QmSNaaVyWawjzGNahMxcF8m88L1VzNHERwaFVCh3SEcic3/nft.JPG",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Day2",
+  "description": "🗓Sat, 17th Sep '22＊Litter-Meeting\n\nToday I did litter picking at the same forest - the firefly forest - as yesterday.\nThe typhoon is expected to hit our region so before that, I picked up litter that I found when I walked with my dog cinnamon in the morning. \n\nThe amount of litter was bigger than I expected looking at it from far away in the morning, which almost breaks off my heart but I managed to pick except one litter - an ICEBOX cup - that I couldn't pick in the thicket. （I wore a tight-fitting jersey so got a lot of mosquito bites.）\n\nAbout the detail of litter, a continuation from the last day there were lots of ICEBOX cups and Pino ice candy wrapping and plus, about 20 plastic bottles of KIRIN water.\n\nIt seemed littered by the team of football or baseball.\n\n-1360g-\n・Tennis ball×1\n・Plastic bottle×23 \n#KIRIN （ https://www.kirin.co.jp/softdrink/alkali/ ）\n#SUNTORY（ https://www.suntory.co.jp/softdrink/natchan/products/ ）\n#LAWSON Green Tea 🍵 by ITOEN（ https://www.lawson.co.jp/recommend/original/detail/1400053_1996.html ）\n・Plastic bag ×2\n・Polyester Shirt\n・Cigarette Boxes\n・Cod roe-Rice Ball 🍙 Wrapper（ https://www.izasa.co.jp/shop/tokyo.html ）\n・Empty Kan \n#Monster×2 （ https://www.monsterenergy.com/jp/ja/products/monster-energy ）\n#Coca Cola×1（ https://www.cocacola.co.jp/brands/coca-cola ）\n・Ice Candy #PINO  #MORINAGA（ https://www.pinoice.com/ ）\n・ #ICEBOX Cup ×8 #MORINAGA（ https://www.morinaga.co.jp/ice/icebox/ ）\n\n・・・・・・・・・・・・・・・・・・\nDay2＊「ごみ会議」\n2022.9.17.Sat\n\nごみ拾い2日目も家から徒歩30秒の姫蛍の森（通称裏山）で。\nこの日は台風が来る前に、朝犬の散歩中に見つけた森の奥のゴミ拾いに。\n遠目で見るより物凄いゴミの量で心が折れそうになりながら気合いでひらう。\niceBoxの空容器１つだけどうしても取れず。（少しタイトなジャージだったからジャージの上から藪蚊に刺されて痒い。）\n前日に引き続き多くのアイスボックスの空コップとピノのごみがあり、さらにはKIRINのアルカリイオン水が大量（20本近く）に捨てられてた...\nこれはおそらく、野球やサッカーのチームスポーツで、チームで飲んだ分をまとめて捨てたんだと思われます。\n・・・・・・・・・・・・・・・・・・\n-310g-\n・テニスボール×1\n・ペットボトル23本 \n@sokenbichajapan \n#なっちゃんオレンジ🍊 @cocacola_japan @ccbji_official\n#ローソン　緑茶（伊藤園）\n@aquarius_jp ×2 \n@seven_eleven_japan \n#アルカリイオンの水 @kirin_brewery @kirin_beverage\n\n・プラ袋×2\n・ポリエステルシャツ\n・たばこ箱\n・明太子おにぎり袋　#中谷本舗\n・#モンスター 空き缶×2\n・#コカ・コーラ 空き缶×1\n・アイスクリーム包みプラスチック #pino #森永乳業\n・アイスボックス×8 #森永製菓\n\n・・・・・・・・・・・・・・・・・・\n\nTweets \n\nJPN\n1st litter picking\nhttps://twitter.com/DJ_Drool/status/1570933323182264321?s=20&t=iSf_bLFO6H8PX85B46RNbA\n\n2nd litter picking\nhttps://twitter.com/DJ_Drool/status/1571016053425315840?s=20&t=iSf_bLFO6H8PX85B46RNbA\n",
+  "attributes": [
+    {
+      "value": "ART",
+      "trait_type": "GOMINOTE"
+    },
+    {
+      "value": "Sat, 17th Sep '22",
+      "trait_type": "DATE"
+    },
+    {
+      "value": "OSAKA",
+      "trait_type": "PREFECTURE"
+    },
+    {
+      "value": "JAPAN",
+      "trait_type": "COUNTRY"
+    },
+    {
+      "value": "KIRIN ",
+      "trait_type": "MAKER"
+    },
+    {
+      "value": "Coca-Cola",
+      "trait_type": "MAKER"
+    },
+    {
+      "value": "LAWSON",
+      "trait_type": "Convenience Store"
+    },
+    {
+      "value": "ITOEN",
+      "trait_type": "MAKER"
+    },
+    {
+      "value": "中谷本舗",
+      "trait_type": "MAKER"
+    },
+    {
+      "value": "MORINAGA",
+      "trait_type": "MAKER"
+    },
+    {
+      "value": "SUITA",
+      "trait_type": "CITY"
+    }
+  ]
+}

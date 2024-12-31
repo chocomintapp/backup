@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSoo11mX6qCxdwpZw88Ff3qWFPcP5GNxcyMnQQpntmVzL/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 66,
+  "chainId": "1",
+  "name": "POCO_Cassandra",
+  "description": "Cassandra_Chan",
+  "attributes": [
+    {
+      "value": "White",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Unruly",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Splatter",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

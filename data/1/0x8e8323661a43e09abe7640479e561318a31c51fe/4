@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQTxVzZ2vDuuzGDVGbWASgz2jVnknwQjAZGnvR18jSVsa/nft.jpeg",
+  "nftContractAddress": "0x8e8323661a43e09abe7640479e561318a31c51fe",
+  "animationUrl": "https://ipfs.io/ipfs/QmQTxVzZ2vDuuzGDVGbWASgz2jVnknwQjAZGnvR18jSVsa/nft.jpeg",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "PFP3",
+  "description": "illustration",
+  "attributes": []
+}

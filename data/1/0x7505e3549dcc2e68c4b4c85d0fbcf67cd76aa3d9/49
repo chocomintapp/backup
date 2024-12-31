@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQsvs8D2gxaVj1zT3heuUjZQP4tRJQ9Nr3bKWukoT7Tz4/nft.mp4",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 49,
+  "chainId": "1",
+  "name": "Time Plus 30-sec ver. Magic earrings given to me by my mom おかあさんにもらったまじっくピアス #226",
+  "description": "[Magic earrings given to me by my mom おかあさんにもらったまじっくピアス #226](https://opensea.io/assets/ethereum/0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9/47/) の作成していく過程の動画です✨ 30秒バージョンです。",
+  "attributes": [
+    {
+      "value": "kawaii",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Rainbow",
+      "trait_type": "Color"
+    },
+    {
+      "value": "human",
+      "trait_type": "Category"
+    }
+  ],
+  "minted": "✅"
+}

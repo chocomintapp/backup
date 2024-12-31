@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSiMNzH28Kc7Xq4dCZJ4LkwaA5aTCY44FkSBdvKYYWuau/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 426,
+  "chainId": "1",
+  "name": "TOKIMI",
+  "description": "■トキミ",
+  "attributes": [
+    {
+      "value": "deep in the countryside3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Deeppink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie9(G)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Skyblue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Narukami-Miya(N)Y",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "The Greens",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcAGD4eBHfRENg8GFj2Yeif453Kmt8XHLU3NYnm76DV6J/nft.jpg",
+  "tokenId": 1,
+  "description": "A live-action image of a fox in a meta-mask.\nWhat is the fox, with its indescribable human-like expression, thinking about?\n\nメタマスクの狐を実写化したイメージ。\n人のようななんとも言えない表情を浮かべる狐は何を考えているのでしょうか？",
+  "nftContractAddress": "0x6a636270ed7bd37cfcde63e8387998da18daa074",
+  "animationUrl": "https://ipfs.io/ipfs/QmcAGD4eBHfRENg8GFj2Yeif453Kmt8XHLU3NYnm76DV6J/nft.jpg",
+  "chainId": "1",
+  "name": "MMFox",
+  "attributes": [],
+  "minted": "✅"
+}

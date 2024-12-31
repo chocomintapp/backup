@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcZ7V7h3Wsp8uiStPjSczkdsew7BjQEBdFghhASBZgVnf/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 512,
+  "chainId": "1",
+  "name": "MIKOTO",
+  "description": "■ミコト",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile of room",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Purple",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Destructive ray",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-Light",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

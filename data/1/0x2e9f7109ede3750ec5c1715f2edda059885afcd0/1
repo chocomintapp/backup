@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ5EcQACdwendLFNvufnJyNf8C7ccYnzpbc2bhMedPFYA/nft.png",
+  "nftContractAddress": "0x2e9f7109ede3750ec5c1715f2edda059885afcd0",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "auru_name_test",
+  "description": "auru_description_test",
+  "attributes": [],
+  "minted": ""
+}

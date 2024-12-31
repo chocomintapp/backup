@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdpa84u3DNWppnzBQmRVj2homiosPuLD7WReo4aY2pT2x/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 475,
+  "chainId": "1",
+  "name": "KITONA",
+  "description": "■キトナ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Duckstyle-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye11",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "West High School",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Black-SSP",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Candle Head (ほわりす）",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Duck Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

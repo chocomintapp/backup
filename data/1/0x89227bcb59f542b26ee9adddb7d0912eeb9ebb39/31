@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP4n2fWmNADNbdpsmDsePRkUK9hwj39nw3UAGSZghoRWH/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "1",
+  "name": "#031-Tottori-",
+  "description": "#031-Tottori-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Aqua",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Chugoku",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Tottori",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

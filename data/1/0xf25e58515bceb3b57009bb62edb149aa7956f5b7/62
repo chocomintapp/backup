@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVAcMY5Tw3N32EingqwgPdLC9REmqQWpuTvCzt5ZJ6gvs/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 62,
+  "chainId": "1",
+  "name": "YUA",
+  "description": "Even as an android, Yua has a clear sense of joy, anger, sorrow, and pleasure, and her emotions are as rich as those of a human being.\n\nWhen asked to do something, she has a character that makes it difficult to refuse.\n■ユア\nアンドロイドになっても喜怒哀楽がハッキリしていて、感情が人間と同じくらい豊か。\n\nお願いをされると断りにくい性格。",
+  "attributes": [
+    {
+      "value": "Bright-Green",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "RobotEye2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Dtype",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Black",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Arkdemon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "MIRAAKO-AntennaRight-Akaoni",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

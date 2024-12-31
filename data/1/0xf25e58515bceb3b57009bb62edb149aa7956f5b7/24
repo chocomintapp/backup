@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTjFDQZE96zp9XoPWCT3rt9xeXLj64aydZFy2ArCzPkqb/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "KUMI",
+  "description": "KUMI has absolutely no taste in clothes anyway.\n\nShe is often made fun of because she is always dorky, but people who know her well never make fun of her.\n\nYes...because Kumi has a very good personality.\n\nHowever, she is often seen tearing up the radish fields, although we don't know what she has against radishes.\n■クミ\nクミはとにかく洋服のセンスが全くない。\n\nいつもダサイからバカにされることもよくあるが、彼女のことをよく知る人間は絶対にバカにしない。\n\nそう･･･なぜならクミは性格がものすごくいいからだ。\n\nただし、大根になんの恨みがあるのかはわからないが、度々だいこん畑を荒らしている姿を目撃されている。",
+  "attributes": [
+    {
+      "value": "Bright-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Shine-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-Y",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-anger",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Skyblue",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmStcynJn7VtV64cMFBfYx2GLfXzw67VLdwtXgTZcygNrV/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "1",
+  "name": "UnknownB",
+  "description": "A businessman who is constantly drinking is dragged into a different space at night.\n\nThere have been many sightings in the western part of the city, and the police are trying to track him down, but there are no clues as to his whereabouts.\n\nThe businessmen who have been dragged into the other space have all said that they were continuously given intoxicants to sober them up.\n■未知B\n飲み歩いてばかりいるサラリーマンを夜な夜な、異空間に引きずり込む。\n\n西の都で目撃例が多く、警察も行方を追っているが手がかりすら無い状態である。\n\n異空間に引きずり込まれたサラリーマンは、みんな口を揃えて「酔い覚ましを飲まされ続けた」と言っている。",
+  "attributes": [
+    {
+      "value": "MIX7",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Blue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Zombieblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-Blue",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-Zombie2",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Businessperson",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Deepblue",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Unknown",
+      "trait_type": "TYPE"
+    }
+  ]
+}

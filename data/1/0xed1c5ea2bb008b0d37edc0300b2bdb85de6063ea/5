@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXX3dCgCpUpPUHWyKUwwvGq7AXA9KmkS5RswtKXiYifW2/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Mannie",
+  "description": "He is one of the AlternativeVerth, which emerged when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "red",
+      "trait_type": "skin"
+    },
+    {
+      "value": "odd_red_blue2",
+      "trait_type": "eye"
+    },
+    {
+      "value": "enji09",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_emblem",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Ursa Major",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

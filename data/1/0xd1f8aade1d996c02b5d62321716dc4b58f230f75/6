@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX3Uv4csua4yS5em22Kx43TV6cvmCwzCuePyXQ7hHApqt/nft.PNG",
+  "nftContractAddress": "0xd1f8aade1d996c02b5d62321716dc4b58f230f75",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Invitation Girl #006",
+  "description": "Hamburger Kingdom",
+  "attributes": [
+    {
+      "value": "Hamburger Kingdom",
+      "trait_type": "TYPE"
+    }
+  ]
+}

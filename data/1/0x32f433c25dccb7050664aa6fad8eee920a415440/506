@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmefdbSbrrXZG6WRUMpjU5Qppi4CKgWGLC6NramvsJgVyr/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmeCxyrthbYkCY4KnHx1ZvLLp4RgJ6dGX2srVQjL8oyqKE/nft.mp4",
+  "tokenId": 506,
+  "chainId": "1",
+  "name": "THE JEWEL #506",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Purple sapphire",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

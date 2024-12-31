@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTsf9NZCc7stwJ846jRR7JqUka2RQE1t5GmAufyuXsQBD/nft.gif",
+  "nftContractAddress": "0x14df01ddadf042d171a95f0ca8a3911a3c3457ab",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "#13",
+  "description": "俺の名はGoroIshihata。\nかの名高きくれいじーおじじだ。\n世界中のGororianが俺に血眼。\n ",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Goro",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Goro",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Gun",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "Searchlight",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Master thief",
+      "trait_type": "Job"
+    }
+  ]
+}

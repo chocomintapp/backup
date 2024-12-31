@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbTrLUr7yh9i7h5GEiWkaCC9MEpkQz6ciSGnzQXctx8cb/nft.jpg",
+  "nftContractAddress": "0xe91a82f59a10ca27264b041de8e9a26052a7761e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "POPET Collaboration No.001",
+  "description": "NFT Collection ： moopy × POPETコラボレーション\n\n✅POPET Collaboration ホルダーさん プレゼント特典\n◯コミュニティ内でロール『POPET Collab バッジ』\n◯メダル１０枚\n◯メダル３５枚で貰えるヘッダー：POPET Collaboration ver",
+  "attributes": [
+    {
+      "value": "moopy",
+      "trait_type": "job"
+    }
+  ],
+  "minted": "✅"
+}

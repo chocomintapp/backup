@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcGRyHx8JZ2czyZnutCD8KUSAGCaELzBdTdeF3En3sBec/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "#002-Aomori",
+  "description": "#002-Aomori-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Aqua",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Tohoku",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Aomori",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

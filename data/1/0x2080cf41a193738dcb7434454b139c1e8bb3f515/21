@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaDw2F6naJ95RWFDvb44ZLQ9SUuRMJTQ8wCQKEyYUoAgh/nft.png",
+  "tokenId": 21,
+  "description": "\"Spartoi\" = \"Golem\" x \"Dragon\" Antigone Kataoka\n「スパルトイ」メイン種族ゴーレム、サブ種族ドラゴン。名前はアンティゴネ片岡。\n\nドラゴンの牙から産まれたモンスター娘。竜牙兵やドラゴントゥースウォリアーとも呼ばれる。ゴーレム種から物質の特性を、ドラゴン種から竜族の特性を引き継いでいる。乾燥肌が悩みの種。\n\nA monster girl born from the fangs of a dragon. Also called Dragon Tooth Warrior. \"Spartoi\" inherited the characteristics of matter from the \"Golem\" species and the characteristics of the dragon tribe from the \"Dragon\" species. She suffers from dry skin.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#046 \"Spartoi\" Antigone Kataoka",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Golem"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbdzKRhC352YQn2hMhPetR4Rypsh7fChAoHWmRAk8qXku/nft.png",
+  "nftContractAddress": "0x581db54a07c524683563f8305d4ce7fc23dd6b0a",
+  "animationUrl": "https://ipfs.io/ipfs/QmSZ2bktoigqwpgBe61ivjLF2vNck6so2gSw15Pkb1UEFA/nft.mp4",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "Misorin#0022",
+  "description": "We're stuck in a bind with the truth\n\nWe can only create another world\n\nCreated by the destructive impulse\n\nIt is the most sacred act\n\n\nSomeday falsehood will be transformed here\n\nUncivilized art in chains\n\nA flight of souls so free as to be shit\n\nWhoever you are, come dance here\n\n\nPaint it black\n\n\nShattering values\n\n\n真実に縛られて身動きとれない\n\nもう一つの世界を創造するしかない\n\n破壊衝動により創り上げる\n\nそれはなによりも神聖な行為\n\n\nいつかの偽りここで化ける\n\n鎖につながれた　未開のアート\n\nクソほど自由な　魂の飛翔\n\nだれでもいいからここで踊りな\n\n\nPaint it black\n\n\n価値観を砕く\n",
+  "attributes": [
+    {
+      "value": "sunglasses",
+      "trait_type": "item"
+    },
+    {
+      "value": "Paint it black",
+      "trait_type": "song"
+    }
+  ]
+}

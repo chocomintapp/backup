@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcPfEzug6t5m2tq8E9EuBSqbaqrFhVx4Lp1gMnAoy7LBS/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "THS #036",
+  "description": "【眼】",
+  "attributes": [
+    {
+      "value": "eye",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "butterfly",
+      "trait_type": "Mimicry"
+    }
+  ],
+  "minted": "✅"
+}

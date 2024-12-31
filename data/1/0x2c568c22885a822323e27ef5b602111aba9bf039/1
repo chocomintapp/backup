@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmReQEhdfvXgxyh9pCVWenMRKGMrPkooh72tsQspBCmfC4/nft.jpg",
+  "nftContractAddress": "0x2c568c22885a822323e27ef5b602111aba9bf039",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "coffee break",
+  "description": "Welcome to Chibi Okabe's Cafe.\nChibi Obake's daily life series.\nRe-emerging in the ETH Collection!",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

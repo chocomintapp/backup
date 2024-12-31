@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbzT3kM12oRVMfeNfQYvG1N8199bfj6o4Ywjkt8CUH9fB/nft.png",
+  "tokenId": 153,
+  "description": "",
+  "nftContractAddress": "0xa3504b583db9090d46bb3c97e04eae5e61e3dfce",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #153",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovely Passion"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Knit Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Rock Gray"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Strawberry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Round Silver"
+    }
+  ],
+  "minted": ""
+}

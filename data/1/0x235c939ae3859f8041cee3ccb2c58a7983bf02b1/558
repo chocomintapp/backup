@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaJkGg5b6Kv4u1ATZHSiRafzwkNZGQ1BRSAo6nGj9YyiQ/nft.png",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 558,
+  "chainId": "1",
+  "name": "Mauve",
+  "description": "New life born the coexistence with human and date. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.",
+  "attributes": [
+    {
+      "value": "Devil",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Mesh Gradation",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "8LOM",
+      "trait_type": "PROTO VALUE"
+    }
+  ]
+}

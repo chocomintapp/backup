@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcCdZTaNxYjc2r67btEnigjq9TBhyZqLfyfJ121GaSfQ8/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmaKvf1tmaxR1qCZMJHahLDpnYm82LSgPbuYyQCE6CFZ4x/nft.mp4",
+  "tokenId": 626,
+  "chainId": "1",
+  "name": "THE JEWEL #626",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "White Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

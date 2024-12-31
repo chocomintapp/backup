@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVtKXCV7DGsdSWeStuJV8A9MqTaojJzhhPAdLNrTGU1NM/nft.png",
+  "nftContractAddress": "0xd7db7e7a2e4ae0b74e7cd9a30fdd18895bc80ab9",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "MonochromeMEGAMI #001",
+  "description": "Megami #09714 × Megami #02451",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

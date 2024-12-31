@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmakoJz8KU8mNcmVNoTZ5zspnSBdByaMfYNh37uFtCEYn1/nft.png",
+  "tokenId": 125,
+  "description": "",
+  "nftContractAddress": "0xa3504b583db9090d46bb3c97e04eae5e61e3dfce",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #125",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Lizard"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovely Madness"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Carmine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Orange Slice"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square Shades"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf9bJyK384ir8JV4ePzLkF9uDc65rm7ySoENwBFbXWHUx/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 44,
+  "chainId": "1",
+  "name": "KAIKA #44",
+  "description": "",
+  "attributes": [
+    {
+      "value": "halo",
+      "trait_type": "energy"
+    },
+    {
+      "value": "fissure",
+      "trait_type": "extra"
+    },
+    {
+      "value": "almond",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "yellow",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "covering one eye",
+      "trait_type": "hair"
+    },
+    {
+      "value": "ombre",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "smooch",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "tan",
+      "trait_type": "skin tone"
+    }
+  ]
+}

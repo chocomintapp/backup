@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcLnsRjvRaTsyfHrAFYgyxZKM3EufjCVJ3vcicdwDsjmw/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "1",
+  "name": "NO #25",
+  "description": "",
+  "attributes": [
+    {
+      "value": "O",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "N",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "O",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "no",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

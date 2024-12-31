@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSNC2L8FHgtBvKmSURag3RPB2KLJnYH5iemoj4dGyWgtV/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 78,
+  "chainId": "1",
+  "name": "POCO_Frances",
+  "description": "Frances-Chan\n",
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Peculiar",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Doctor",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

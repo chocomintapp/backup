@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRpw6eavSW7J3r5jjW8JN8a4h55RrDgqCvHKataVtpm7m/nft.jpg",
+  "nftContractAddress": "0xc698c3fefc643eb9de33258cf10314836eb6be14",
+  "animationUrl": "https://ipfs.io/ipfs/QmPiwQm1nPEMLuSxsdM1K53edBKVLJM2VpJ7rw7DLX9vPc/nft.glb",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "#004 Ifrit [ Stone ]",
+  "description": "[ Ifrit ]\nDo not yield to the power within you.\nWith great power comes great price. It may become a blade that hurts you.",
+  "attributes": [
+    {
+      "value": "jinn‎",
+      "trait_type": "Tribe"
+    },
+    {
+      "value": "Stone",
+      "trait_type": "Base plate"
+    }
+  ]
+}

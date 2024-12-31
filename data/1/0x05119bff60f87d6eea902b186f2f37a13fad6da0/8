@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUJFeXukq7hF3hrhq7aEtmWJq1EpMErfkCaFKma7Kmmkj/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "POPET No.8",
+  "description": "【物語】\n\nお菓子をもらうまでゆるさない。みんなのお菓子はわたしのもの。",
+  "attributes": [
+    {
+      "value": "いたずら",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ハロウィンキャッスル",
+      "trait_type": "origin"
+    },
+    {
+      "value": "強気",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

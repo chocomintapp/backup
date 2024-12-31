@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYkPA4HteY8kqtRdYE1zS13K21RU8vjHVPfJxA8kkoABz/nft.png",
+  "tokenId": 1,
+  "description": "NFT is a new collectible.",
+  "nftContractAddress": "0xd376250fccfc1eb9db4ae018c5390637bcd8d84b",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "NFT's NFT"
+}

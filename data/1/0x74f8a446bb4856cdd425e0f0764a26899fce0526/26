@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZBRfPiroWhL67gE54sxEMaCMH8PwN8sUUa78cedN8ea7/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "1",
+  "name": "POCOEMOJI_girori",
+  "description": "Lucie-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

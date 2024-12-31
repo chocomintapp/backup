@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRePe26HseMo7X5wFPAkjksukCjTWk7dPJrdqasKZKqY3/nft.gif",
+  "tokenId": 2,
+  "description": "VREmoji are three-dimensional pictograms that can be used in virtual spaces. You can use it to express your feelings in a space also create something new based on this data. Anyway, have fun!\n\nThis file is a 3d model data in glb format.\nThe owner should perform the following steps to obtain the 3D model data.\n\n1, Go to this page and sign your wallet. ( https://lock.chocomint.app/locks/96eaec4d-9687-415b-b6a9-88ce376b4ac8 )\n\n2, Click on the \"unlock\" button to display the Password.\n\n3, Go to the \"locked content\" page, \n\n4, Enter the password you got, and click \"password\". Go to the next page.\n\n5, Click \"Click here\" to download the 3D model data.",
+  "nftContractAddress": "0x32562debdced046758828f639658dd173164e2e8",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "VREmoji#001 : slight smile"
+}

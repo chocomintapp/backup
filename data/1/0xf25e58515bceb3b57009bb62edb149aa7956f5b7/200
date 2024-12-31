@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmReDGmr6WPgTyMouANrF228aKzCpHzt5Rz66sMzpwR17Z/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 200,
+  "chainId": "1",
+  "name": "KAORI",
+  "description": "■カヲリ",
+  "attributes": [
+    {
+      "value": "Middle of the heavens.(HumanR)",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Madness",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Deeppink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-Pink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-RBR",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "AkaOni",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

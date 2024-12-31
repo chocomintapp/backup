@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNcz1uvLTTzGyWGY2TDp1BipWRdaw8qej14tF6DT6zXTn/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 60,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "プルーフなステーク",
+  "attributes": [
+    {
+      "value": "チャースルホチキスン",
+      "trait_type": "人物"
+    },
+    {
+      "value": "ワイシャツ",
+      "trait_type": "服装"
+    },
+    {
+      "value": "ADA",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

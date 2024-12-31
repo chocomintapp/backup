@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRZ6N8d8SFKiasJcRz8S7FYAMq6xGk11qh5xRigM2DEzx/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "オフ会",
+  "attributes": [
+    {
+      "value": "ステップン男子",
+      "trait_type": "人物"
+    },
+    {
+      "value": "Buy GST Ｔシャツ",
+      "trait_type": "服装"
+    },
+    {
+      "value": "ビール",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "シューズ",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

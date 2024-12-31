@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNRS1S28wL5XXRiFjEWZN1qSi6R5eswSFzYsLZhph4N59/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 236,
+  "chainId": "1",
+  "name": "HARIEL",
+  "description": "■ハリエル",
+  "attributes": [
+    {
+      "value": "Deep-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Curling-White",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Zombiewhite",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Mitama-nihility",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Devil-hornesN",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

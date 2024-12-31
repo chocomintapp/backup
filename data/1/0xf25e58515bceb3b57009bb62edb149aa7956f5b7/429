@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfMa91BpHMNdFg6U3izktRAT599vWmS4cnqgrD6sz2irx/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 429,
+  "chainId": "1",
+  "name": "NANASE",
+  "description": "■ナナセ",
+  "attributes": [
+    {
+      "value": "space-time transfer",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Deepgreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-UEmerald",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-kabukicho(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "KuroShiba-Toypoodle",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Pink",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

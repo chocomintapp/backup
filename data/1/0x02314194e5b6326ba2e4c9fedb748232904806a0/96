@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS7deGgndiBidGTkY9cbPpoKZxxbud8pzBYLutkvHuSuh/nft.png",
+  "nftContractAddress": "0x02314194e5b6326ba2e4c9fedb748232904806a0",
+  "animationUrl": "",
+  "tokenId": 96,
+  "chainId": "1",
+  "name": "#004-藤[凪]",
+  "description": "",
+  "attributes": [
+    {
+      "value": "凪",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": "✅"
+}

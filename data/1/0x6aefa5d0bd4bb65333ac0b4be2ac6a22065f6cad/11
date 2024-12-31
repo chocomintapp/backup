@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeNqvaKMcBt97FBv28hJnxF7ZqdcrmVy2xQc2ZgjEvk41/nft.png",
+  "nftContractAddress": "0x6aefa5d0bd4bb65333ac0b4be2ac6a22065f6cad",
+  "animationUrl": "https://ipfs.io/ipfs/Qmf4KRoCYmy9DtwHvUvEqGV56ftK48d42X5tuB7bMHBb7V/nft.png",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "Rabbit girl #6『紫陽花』PFP",
+  "description": "Rabbit girl #6『紫陽花』PFP\n\nToday she came to buy goods for her favorite girl. All of them are cute, and she is lost while her eyes are shining.",
+  "attributes": [
+    {
+      "value": "PFP",
+      "trait_type": "Type"
+    },
+    {
+      "value": "紫陽花",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Hydrangea",
+      "trait_type": "Character"
+    }
+  ],
+  "minted": "✅"
+}

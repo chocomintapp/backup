@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNeYtD7XGichAiakuCn4hamZLfv146Z3c8wVUfBivSkye/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Beach Borne Bae #31",
+  "description": "Beach Borne Bae #31\nInspired by Japanese whiting / シロギス",
+  "attributes": [
+    {
+      "value": "Long",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Off Shoulder ",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Red",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

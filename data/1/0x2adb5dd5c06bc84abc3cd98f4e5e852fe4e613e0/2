@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUH4iXtvvgGCaAWuPMYG9DDxBPxUtssPFDennFziE6dz1/nft.png",
+  "nftContractAddress": "0x2adb5dd5c06bc84abc3cd98f4e5e852fe4e613e0",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Rem [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nRem\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR]",
+  "attributes": [
+    {
+      "value": "Reaper",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Twinkle",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Navy",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Cosmos",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "ELIXIR",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

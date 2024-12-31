@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVA4kJ7zdPi6SNdYuadvdGKkWbpQBoqfw5e5eLgPGJ1wa/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 196,
+  "chainId": "1",
+  "name": "AZAZEL",
+  "description": "■アザゼル",
+  "attributes": [
+    {
+      "value": "Demon World Entrance2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-Whiteblood",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Devil",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Angel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Hornes-N",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Hell Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

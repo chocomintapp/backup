@@ -1,0 +1,31 @@
+{
+  "image": "",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "https://ipfs.io/ipfs/QmQQxQWACPBGax1MGijF36o8JoaiHy4kwi9ehQWxCxPn4E/nft.gif",
+  "tokenId": 34,
+  "chainId": "1",
+  "name": "Doge Plunge Shirome ",
+  "description": "File: GIF  \nSize: 600x600  \nTotal Supply: 1  \nThat's life.",
+  "attributes": [
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "Face",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "GIF",
+      "trait_type": "file"
+    },
+    {
+      "value": "Exceptional",
+      "trait_type": "genaration"
+    },
+    {
+      "value": "Shirome",
+      "trait_type": "object(s)"
+    }
+  ]
+}

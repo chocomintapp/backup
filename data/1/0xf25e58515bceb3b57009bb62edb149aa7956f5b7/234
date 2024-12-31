@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdhUCECRM9y3G2UgjirgVMvgq12wpqgy8wYpSQm6Lc2Gu/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 234,
+  "chainId": "1",
+  "name": "ALADIAH",
+  "description": "■アラディア",
+  "attributes": [
+    {
+      "value": "Entrance Heavenly3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "CurlingTsuno-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Shine-ZombieSkyblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Redwhite",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "SensorC",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

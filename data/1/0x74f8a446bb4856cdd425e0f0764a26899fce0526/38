@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUXwWspkKyYQGh1puuHXUWSgRy3eQMNKghFn7gySqtLZ8/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "1",
+  "name": "POCOEMOJI_gomen",
+  "description": "漏洩ちゃん/Roei-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    },
+    {
+      "value": "Scala",
+      "trait_type": "SERIES"
+    }
+  ]
+}

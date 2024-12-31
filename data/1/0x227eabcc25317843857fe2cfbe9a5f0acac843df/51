@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd4aNcqiSudKdm9fpRLAyhWxoNGJKXnFMg1zdM6MYEyrW/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 51,
+  "chainId": "1",
+  "name": "Beach Borne Bae #79",
+  "description": "Beach Borne Bae #79\nInspired by Sakura shrimp / サクラエビ",
+  "attributes": [
+    {
+      "value": "Long Wavy",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "V-Neck Dress",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Salmon",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Shellfish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

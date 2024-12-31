@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmemhRpQF8okmkdn5a9qeFFXYMj2mv2BzM5U12P7ptWzVp/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmXtPZGXeQ7iqbo22Hh1i8xLVUeW837VWLDpoA55zeGBcH/nft.mp4",
+  "tokenId": 469,
+  "chainId": "1",
+  "name": "THE JEWEL #469",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Control device"
+    }
+  ]
+}

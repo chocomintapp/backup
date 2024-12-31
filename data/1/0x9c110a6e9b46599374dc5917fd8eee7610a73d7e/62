@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU2XAHkB5bm2BybUd8naBv1qE1rqEzwAgNAYAqU9nuuY9/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 62,
+  "chainId": "1",
+  "name": "POCO_Calista",
+  "description": "Calista-Chan",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Easygoing",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Maid",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

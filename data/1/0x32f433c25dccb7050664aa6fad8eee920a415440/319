@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQXx1KaS8yHe9LRiqbMcJBRAPTrym3cG4XQ3iigEfnTWd/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmQrgnpY5iKvY8RfbZcv84AfcWMg4ryx7bftPf6K8BFa3h/nft.mp4",
+  "tokenId": 319,
+  "chainId": "1",
+  "name": "THE JEWEL #319",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Malaya Garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

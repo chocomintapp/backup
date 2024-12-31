@@ -1,0 +1,23 @@
+{
+  "image": "ipfs://QmYidJ527Zk2nEW8NRa2SnUzuZVWAZ4s9LTquzt16TCta5/nft.png",
+  "nftContractAddress": "0x8e729f1a76615a5946debaac3cef112e19768a3b",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Panny",
+  "description": "She is also known as \"PancakeArtisan\".\nShe loves eating and making pancakes.\nHowever, she always seems to make a little too many.\nListen to her theme track : [\"Panny in the Kitchin\"](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/108166958112520494863791058685566282124917034736759554581194984553128573009930)",
+  "attributes": [
+    {
+      "value": "BNB Chain",
+      "trait_type": "Blockchain"
+    },
+    {
+      "value": "Frying Pan",
+      "trait_type": "Items"
+    },
+    {
+      "value": "Governance Token",
+      "trait_type": "Types of Cryptocurrencies"
+    }
+  ]
+}

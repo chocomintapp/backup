@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ5DcYavh1d4o8Sn38SGJTV8Axm7s1Vmd647DCf71t77q/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 173,
+  "chainId": "1",
+  "name": "AYAME",
+  "description": "■アヤメ",
+  "attributes": [
+    {
+      "value": "Fullmoon",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Lightblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Ftype(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Archangel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "SensorA",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

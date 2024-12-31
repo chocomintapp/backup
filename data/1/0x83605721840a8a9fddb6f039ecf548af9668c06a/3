@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb8aTnyWq9DBL4TtiXdDB8UtxMem6xTxUnjFByruUE9UP/nft.png",
+  "tokenId": 3,
+  "description": "031",
+  "nftContractAddress": "0x83605721840a8a9fddb6f039ecf548af9668c06a",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "CryptoNinja #031",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Iga - 伊賀"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Iron Claw - 鉤爪"
+    },
+    {
+      "trait_type": "Ninjutsu",
+      "value": "Wild Thistle - 野アザミ"
+    }
+  ]
+}

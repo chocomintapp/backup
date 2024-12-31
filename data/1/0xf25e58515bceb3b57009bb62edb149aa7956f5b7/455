@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRYPfLSZMKJUtnu7LTZr1gGToiJemPK1WDTSyGAxthQL1/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 455,
+  "chainId": "1",
+  "name": "SOY",
+  "description": "■ソイ\nFan art of MIRAKO\nhttps://opensea.io/collection/mirako\nWorks with WL by MIRAKO.Lightning\n\n■MIRAKOのファンアート\nhttps://opensea.io/collection/mirako\nMIRAKO.LightningのWL付き作品",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Long2",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0004Miracle",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-Light",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Toypoodle",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

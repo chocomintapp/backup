@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTJRchvs1yBkFXrXDoNFv1JDRgWFboePpsj45gQHwks95/nft.jpg",
+  "nftContractAddress": "0xb633dbee65f5f2218284c8d775f7efe33570179e",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Eggbird #047 Bull-headed Shrike",
+  "description": "Eggbird #047 『モズ』",
+  "attributes": [
+    {
+      "value": "Nature 野鳥",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Shrike　モズ",
+      "trait_type": "Species"
+    }
+  ]
+}

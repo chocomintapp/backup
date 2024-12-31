@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmchHdeb7bLxinzyghCsg7QQSjoexcRmfUqTkmdoezVAQY/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 372,
+  "chainId": "1",
+  "name": "November 29 バーベナ（紫）Ver.2",
+  "description": "",
+  "attributes": [
+    {
+      "value": "11",
+      "trait_type": "月"
+    },
+    {
+      "value": "29",
+      "trait_type": "日"
+    },
+    {
+      "value": "真実を守る",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "バーベナ",
+      "trait_type": "花"
+    },
+    {
+      "value": "2",
+      "trait_type": "Ver"
+    }
+  ],
+  "minted": "✅"
+}

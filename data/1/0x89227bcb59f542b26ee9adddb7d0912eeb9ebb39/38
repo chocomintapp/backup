@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPB5G3bVFdc83GC5SEdZZFa6YmCnQYQKAkNvP3d3fwXFc/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "1",
+  "name": "#038-Ehime-",
+  "description": "#038-Ehime-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Aqua",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Shikoku",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Ehime",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

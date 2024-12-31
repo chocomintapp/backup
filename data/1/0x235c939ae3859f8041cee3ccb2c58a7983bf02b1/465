@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPGgPSZMrmu3kiRkHwhbsoVY3Sebmq8qyhRd7x7dAswbe/nft.jpg",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 465,
+  "chainId": "1",
+  "name": "Camille",
+  "description": "New life born the coexistence with human and date. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "White",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Studs Bangle",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "3LOM",
+      "trait_type": "PROTO VALUE"
+    },
+    {
+      "value": "Weather",
+      "trait_type": "SPELL"
+    }
+  ]
+}

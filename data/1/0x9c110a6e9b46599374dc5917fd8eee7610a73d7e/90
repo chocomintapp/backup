@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaP7VUsobxF9M2Qh1b3VLNvyEoC9Nkz6qDEYKzRybkJFC/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 90,
+  "chainId": "1",
+  "name": "Elation",
+  "description": "Today I feel quite good.",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Overburdened",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

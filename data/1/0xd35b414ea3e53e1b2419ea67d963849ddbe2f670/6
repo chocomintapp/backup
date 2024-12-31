@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVjUAMmQJfRUSyaRDYt2iVmUB26B8HoUb7qzMhMAXGGLL/nft.png",
+  "tokenId": 6,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #6",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Calico"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Purple Flower"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shining Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_1"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bell"
+    }
+  ]
+}

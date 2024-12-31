@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ2zhR6p51vmkVKh6BMPFNa2CHUoHa2DxporCKTaCj1ZD/nft.png",
+  "nftContractAddress": "0x9a4a5c83466bbdd138da480708067242c7ff341a",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": " BirthdayWish#14",
+  "description": "流れ星のように卵が降ってくるBirthdayWishの世界。\nBirthdayWishのウィッシュ(子供)たちは、いつもお気に入りのウィズ(ペット)と\n出会える日を楽しみにお願い事をしながら暮らしています。\n\nproduced by [@paykoya](https://twitter.com/paykoya) & [@peihaha_oekaki](https://twitter.com/peihaha_oekaki)\n\nThe world of BirthdayWish where the kids called \"Wishes\" live. They always wish to meet their favorite \"WITH(The pets)\" in the eggs to fall from the sky like a shooting star.",
+  "attributes": [
+    {
+      "value": "Famale",
+      "trait_type": "GENDER"
+    },
+    {
+      "value": "Flower garden",
+      "trait_type": "PLACE"
+    }
+  ]
+}

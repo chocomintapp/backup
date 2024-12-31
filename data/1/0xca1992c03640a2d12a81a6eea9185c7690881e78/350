@@ -1,0 +1,63 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRJUQiY3BvkQponbMSXb6aK6QzShbdWamw9kpFs51oJ5d/nft.png",
+  "tokenId": 350,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #350",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Cyber Eyes"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Faint Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Camisole"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Baby Bottle"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Heart"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Lime Bunny"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Calico Cat"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Rainbow Angel"
+    },
+    {
+      "trait_type": "Feature",
+      "value": "Face Painting"
+    }
+  ]
+}

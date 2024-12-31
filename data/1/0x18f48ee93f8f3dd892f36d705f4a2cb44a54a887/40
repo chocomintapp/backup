@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU7oh7ep1YoypKgxaxSZ6yBL42HbVKYFSPhpZDBxgsAH6/nft.png",
+  "tokenId": 40,
+  "description": "Inspired by Munch this painting has been printed only once by Lazlo D. Plumber \nKrs 2008",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmU7oh7ep1YoypKgxaxSZ6yBL42HbVKYFSPhpZDBxgsAH6/nft.png",
+  "chainId": "1",
+  "name": "Spooked"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXF9FmmpxKpHRw4TtiXFEx8BSgruENTrNhux7vJzFE499/nft.jpg",
+  "nftContractAddress": "0xf28b8fc938d3183d20895823a049785e25fbafc9",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "KCU×HAPPYKING　麗",
+  "description": "Z世代の大学生書道家「香菜」と、多才なアーティスト「HAPPY KING」。勢いのあるニューカマー2人によるアツいコラボ作品。",
+  "attributes": [
+    {
+      "value": "0.01",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaczzuJ8PY17Lr4hBEF5YrcgW2TUDAmERGcL7toJjwcsE/nft.png",
+  "nftContractAddress": "0x25147e135da46f0fb62850c24137b68d7ffc7d07",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "BE KOBE NFT CREATIVE AWARD #11",
+  "description": "第1回 BE KOBE NFT CREATIVE AWARD 『王子公園ハイム』マクアート部門 応募作品\n\n【タイトル】\n「北野坂」\n\n【制作者】\nmorry 様\n\n【コンセプト】\n北野坂のスターバックスを背景に少女漫画の一コマのようなイメージで描きました。",
+  "attributes": [
+    {
+      "value": "『王子公園ハイム』マクアート",
+      "trait_type": "部門"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQr4GqE6CwYQGwMQE73e6iSewnvRdLYDZtMDQSDR67c3e/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 166,
+  "chainId": "1",
+  "name": "KACO",
+  "description": "■カコ",
+  "attributes": [
+    {
+      "value": "MIX7",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Duckstyle-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Zombiered",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Matchingcloth-05(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "GreenLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Duck Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

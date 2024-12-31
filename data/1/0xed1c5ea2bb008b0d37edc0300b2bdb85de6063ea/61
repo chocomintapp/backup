@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRGJctjKU7ZaPv7X1jdioPSmqEpyFfnS2o1FZE3USBfdd/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 61,
+  "chainId": "1",
+  "name": "Mitchell",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "light",
+      "trait_type": "skin"
+    },
+    {
+      "value": "normal_gold",
+      "trait_type": "eye"
+    },
+    {
+      "value": "cyan06",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_glass",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Orion",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

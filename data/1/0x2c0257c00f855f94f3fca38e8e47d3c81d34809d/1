@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmce9u45GiVac3MnJFTnqtVaKHXzVgUSCGiJJLeCadetGg/nft.jpg",
+  "nftContractAddress": "0x2c0257c00f855f94f3fca38e8e47d3c81d34809d",
+  "animationUrl": "https://ipfs.io/ipfs/QmYCbjKBqtT4bdXCkifam37qQuqMxnh9xAErE4uEVEV5Wc/nft.jpg",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "イーサ",
+  "description": "イーサ独コン                                                                                                         \n両方貼り",
+  "attributes": [
+    {
+      "value": "Rare",
+      "trait_type": "レア度"
+    }
+  ]
+}

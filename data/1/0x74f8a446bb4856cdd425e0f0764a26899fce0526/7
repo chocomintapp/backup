@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRsuhEpvK45EMvZoXX8VzG632bEoBLyZLidH18gNVZHYr/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "POCOEMOJI_uruuru",
+  "description": "Sofia_Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

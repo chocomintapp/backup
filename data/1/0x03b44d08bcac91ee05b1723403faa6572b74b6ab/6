@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZH6FNqxQMdMgie4UxsH7hRDv6fW4E2xNVW9t49TRFf7p/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmYdQrUxG94zNHDmDgL1vYHXHV1xwE5vA6M9oLQZhSvysh/nft.mp4",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "#038 DarkMan",
+  "description": "DarkMan\n\n- Nature Series\n- 3DCG Turntable\n- 1920 x 1920px",
+  "attributes": [
+    {
+      "value": "Nature",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

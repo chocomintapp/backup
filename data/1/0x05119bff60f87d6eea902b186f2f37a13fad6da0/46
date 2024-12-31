@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPnFLbXDVjEgqduCMv35kEqN1re14BtSjtKcGp4boAgGP/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 46,
+  "chainId": "1",
+  "name": "POPET No.46",
+  "description": "【物語】\n次のフライトはあのリゾートまで。理想の仕事。私の人生ファーストクラス。",
+  "attributes": [
+    {
+      "value": "キャビンアテンダント",
+      "trait_type": "job"
+    },
+    {
+      "value": "みんなの人生ファーストクラス",
+      "trait_type": "skill"
+    },
+    {
+      "value": "エアポート",
+      "trait_type": "origin"
+    },
+    {
+      "value": "高潔",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

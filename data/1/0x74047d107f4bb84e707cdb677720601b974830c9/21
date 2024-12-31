@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVyQ9Mtge2duNNnr8vBC8pYYEuBmbsj9582PiHeU8zbDt/nft.png",
+  "nftContractAddress": "0x74047d107f4bb84e707cdb677720601b974830c9",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "CYCLOPSTAR #0021",
+  "description": "Limited 1/1\n\nCyclopstar is a Japanese Kawaii NFT collections, And minted by their original contract (CLS).\n\nThis is Fanart of \"Alian_eyes_bear's collection [A.E.B](https://opensea.io/collection/aeb)\"",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "A.E.B",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Pullover",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "CYCLOPSTAR x A.E.B",
+      "trait_type": "DESIGN"
+    },
+    {
+      "value": "Badge",
+      "trait_type": "ACCESSORYS"
+    }
+  ]
+}

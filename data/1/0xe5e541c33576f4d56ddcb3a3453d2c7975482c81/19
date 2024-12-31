@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYqqazUSVqHVYUzZMvrjMnbHCePnDTNzjeRCNxNRqock8/nft.mp4",
+  "nftContractAddress": "0xe5e541c33576f4d56ddcb3a3453d2c7975482c81",
+  "animationUrl": "https://ipfs.io/ipfs/QmYqqazUSVqHVYUzZMvrjMnbHCePnDTNzjeRCNxNRqock8/nft.mp4",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "Festival ticket No.69",
+  "description": "Twitterスペースで開催されるイベントの発表権付きチケットです。\n\nThis ticket grants the right to present an event in the Twitter space.",
+  "attributes": [],
+  "minted": "✅"
+}

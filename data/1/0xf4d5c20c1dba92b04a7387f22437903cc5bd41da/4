@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSpw6L4aWYJToaaxapHTokwSPxrEoQFGTsXcGtzE5sXCf/nft.png",
+  "tokenId": 4,
+  "description": "She is #pict_chan dressed as a hip hopper. Her rhymes are very intelligent.",
+  "nftContractAddress": "0xf4d5c20c1dba92b04a7387f22437903cc5bd41da",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#pict_chan_03_hiphop",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "#pict_chan",
+      "value": "owner"
+    }
+  ]
+}

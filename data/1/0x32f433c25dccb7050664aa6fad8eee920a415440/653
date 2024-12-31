@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZhVF5pZWeZsmTo4R1PKNvcymtTq7kTCZGPdKcJqdR9Lo/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmQ6MnZ6K6R1WzMHAmSRD9ZfARRxsnLE2TLjV8SWKP4hZZ/nft.mp4",
+  "tokenId": 653,
+  "chainId": "1",
+  "name": "THE JEWEL #653",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Charoite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

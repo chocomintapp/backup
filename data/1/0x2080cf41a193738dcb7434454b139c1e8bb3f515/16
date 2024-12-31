@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSojdcfYARaEdCS2C2psdEAgEzDhHsGVzRkCc8HxLrred/nft.png",
+  "tokenId": 16,
+  "description": "\"Carbuncle\" = \"Dragon\" x \"Goblin\" Sentinel Nishiyama\n「カーバンクル」メイン種族ドラゴン、サブ種族ゴブリン。名前はセンチネル西山。\n\nカーバンクルは、額に赤い宝石を持つ伝説上の生物。その宝石を手に入れると富と名声を得られると言い伝えられており、多くの冒険家がカーバンクルを探して旅に出たという。ドラゴン種から角と翼を、ゴブリン種から小型の特性を引き継いでいる。大型のモンスター娘が多いドラゴン種にしては珍しく小型ですばしっこく、かくれんぼが得意。\n\n\"Carbuncle\" is a legendary creature with a red jewel on its forehead. It is said that obtaining the jewel would bring wealth and fame, and many adventurers set out on a journey in search of the \"Carbuncle\". It inherited its horns and wings from the \"Dragon\" species and its small size from the \"Goblin\" species. Unusually for a \"Dragon\" species, which has many large monster girls, they are small and quick, and are good at hide-and-seek.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#041 \"Carbuncle\" Sentinel Nishiyama",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Goblin"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

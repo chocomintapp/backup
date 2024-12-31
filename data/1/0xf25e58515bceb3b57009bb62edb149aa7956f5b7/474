@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTRTyEJox9xxUx8eBHnRnWPL9FYBN6G3CAiYn71JcrhmV/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 474,
+  "chainId": "1",
+  "name": "IROHA",
+  "description": "■イロハ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Duckstyle-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Long2",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye9",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-R",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dogs",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Duck Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

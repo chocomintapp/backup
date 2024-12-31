@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb6Db6ZJv4AAxyDzpyREJS5k6ZDfRXdvjijDNrTBSS4cA/nft.png",
+  "nftContractAddress": "0x02314194e5b6326ba2e4c9fedb748232904806a0",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "#001-藍鼠 [凪]",
+  "description": "",
+  "attributes": [
+    {
+      "value": "凪",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": "✅"
+}

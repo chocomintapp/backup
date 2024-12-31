@@ -1,0 +1,16 @@
+{
+  "image": "https://s3.ap-northeast-1.amazonaws.com/metadata.nft-studio.com/assets/1block/atmosx1Block_NFT_FINAL.mp4",
+  "tokenId": 2,
+  "description": "atmos First NFT (Virtual Sneakers) With the theme of \"What if sneakers were given life?\", and Atmos' iconic elephant design, inspiration for \"ATMOS ELEPHANT\" was drawn. This pair has been brought to life, and the spirit of the \"ELEPHANT\" is represented by the smoke that shrouds it. \n\n「スニーカーに生命を宿したら？」をテーマに、atmosの象徴的なエレファント柄を用いた\"アトモス エレファント\"からインスパイアを受け、一足のスニーカーが生命を宿し、スニーカーの精霊である \"ELEPHANT\"が煙に包まれて現れる。",
+  "nftContractAddress": "0xe988a19284cc9ed7512a7d13c61278b6eab873f8",
+  "animationUrl": "https://s3.ap-northeast-1.amazonaws.com/metadata.nft-studio.com/assets/1block/atmosx1Block_NFT_FINAL.mp4",
+  "chainId": "1",
+  "name": "atmos x 1Block \"ELEPHANT\" ",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWR4so7vC8KJWLLV2t9aczPFksQbj4cqsCszJhjVfpe3d/nft.jpg",
+  "nftContractAddress": "0x845d831928c7ee67496fe18857aab85c52617e23",
+  "animationUrl": "https://ipfs.io/ipfs/QmWR4so7vC8KJWLLV2t9aczPFksQbj4cqsCszJhjVfpe3d/nft.jpg",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Original_Duck",
+  "description": "The first duck ever made",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

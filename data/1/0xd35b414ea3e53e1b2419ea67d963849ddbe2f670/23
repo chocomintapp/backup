@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSiBbJH2HATHbzqQs9jpcKto5nSKyaRtSd7eHZ23gAWY8/nft.png",
+  "tokenId": 23,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #23",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bamboo Green Polka dots"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Black Baseball cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Like a Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_5"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Heart"
+    }
+  ]
+}

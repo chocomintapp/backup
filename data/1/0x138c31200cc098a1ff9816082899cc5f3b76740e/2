@@ -1,0 +1,11 @@
+{
+  "image": "https://metakawaii-api.vercel.app/api/drop/png/1",
+  "nftContractAddress": "0x138c31200cc098a1ff9816082899cc5f3b76740e",
+  "animationUrl": "https://metakawaii-api.vercel.app/api/drop/mp4/1",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "2",
+  "description": "2",
+  "attributes": [],
+  "minted": "✅"
+}

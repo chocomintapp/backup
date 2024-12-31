@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPLcgxUKsXB2hPzTSnrNhJmyvzXbcVNkwkBQsxZpFf3NR/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 91,
+  "chainId": "1",
+  "name": "MARGARET",
+  "description": "MARGARET is quiet and always calm.\n\nShe sometimes seems to dream, and it is often a positive dream.\n■マーガレット\n\n物静かで、常に冷静なマーガレット。\n\nたまに夢を見るようで、正夢になることが多い。",
+  "attributes": [
+    {
+      "value": "Deep-Orange",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sharp-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-Pink",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bunny-Pink",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Pink",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

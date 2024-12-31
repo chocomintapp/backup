@@ -1,0 +1,63 @@
+{
+  "image": "https://ipfs.io/ipfs/QmctNgBo6eWVpGGC5mD4VBBXEhk13aqSMpfqQWjXjBY8qg/nft.png",
+  "tokenId": 793,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #793",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cardigan"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Pearl Studs"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Blue Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "French Fries"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Round"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Pink Ribbons"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Drink Cup"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbmEGU1NDYKMkZMrPDoc2wBkTJPYdA7fPUq78wQWqzc4B/nft.png",
+  "tokenId": 853,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #853",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Summer Kimono"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Peace"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Taupe Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Frappuccino"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Pink Ribbons"
+    }
+  ]
+}

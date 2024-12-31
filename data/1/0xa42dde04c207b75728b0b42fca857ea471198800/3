@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZvHbtXqG47dNQ9K1u44H8V1CJDj3fCSuqbW3jBwdXkvz/nft.gif",
+  "tokenId": 3,
+  "description": "POiNT image movie ballet in Akihabara",
+  "nftContractAddress": "0xa42dde04c207b75728b0b42fca857ea471198800",
+  "animationUrl": "https://ipfs.io/ipfs/QmNqxYX6ezPHHPMsJnZbdpH38D5GFuHPdTkb2jjF5QFHSj/nft.mp4",
+  "chainId": "1",
+  "name": "Tokyo Landing Strip AKIHABARA"
+}

@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYEYArbSHfV1Re27ohRckwCc4noAtTRJNzWF4GeTpen5f/nft.png",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "White"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Gold Ring"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_2"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "No Accessory"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Like a Robot"
+    }
+  ],
+  "minted": "✅"
+}

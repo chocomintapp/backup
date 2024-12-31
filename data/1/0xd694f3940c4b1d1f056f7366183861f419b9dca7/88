@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUt9tUovRjpWs7LiKsNBWveSm4YzWteneMoeb3k2BLHUg/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 88,
+  "chainId": "1",
+  "name": "August 13 グロリオーサ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "13",
+      "trait_type": "日"
+    },
+    {
+      "value": "栄光に満ちた世界",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "グロリオーサ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

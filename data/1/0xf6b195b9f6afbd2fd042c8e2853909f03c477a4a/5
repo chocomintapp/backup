@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV9dKgn1xck3Gvnta3oedhMGtS1oQf1nsBGmP869biYsz/nft.png",
+  "tokenId": 5,
+  "description": "100 Dreams\n\n \n\n100 Dreams is an NFT and a metaverse exhibition of the Swedish artist Kristoffer Kullengren that selects his most representative artworks between 2016 and 2021. Firstly launched in China, the exhibition takes audience through a journey of his best creative state: between dream and reality. 100 Dreams as the NFT is a collective artworks of 100 artworks that symbolize what’s between dream and reality.",
+  "nftContractAddress": "0xf6b195b9f6afbd2fd042c8e2853909f03c477a4a",
+  "animationUrl": "https://ipfs.io/ipfs/QmV9dKgn1xck3Gvnta3oedhMGtS1oQf1nsBGmP869biYsz/nft.png",
+  "chainId": "1",
+  "name": "100 Dreams",
+  "attributes": []
+}

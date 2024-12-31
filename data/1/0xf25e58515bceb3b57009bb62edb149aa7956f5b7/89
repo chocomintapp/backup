@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP5yqNYDwyoL3xmsSLpdRMLHB4kmo84h5FKzxKCR7FSm8/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 89,
+  "chainId": "1",
+  "name": "XAO",
+  "description": "She is skilled in flying and instantaneous movement.\n\nXAO's father always oversleeps in the morning, so she has to transport him to the office every morning.\n■シャオ\n\n彼女は空を飛んだり、瞬間移動したりする能力に長けている。\n\nシャオの父はいつも朝寝坊するので、毎朝会社まで父を移動させるのが彼女の日課だ。",
+  "attributes": [
+    {
+      "value": "Light-Purple",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-RWR(BLU)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "RedLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Ribon-Red",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Blue Family",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPJk33LG3rZpWPTx238fCBxLVCgurxUqYqY7zCa9KeHYU/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 129,
+  "chainId": "1",
+  "name": "September 23 リンドウ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "23",
+      "trait_type": "日"
+    },
+    {
+      "value": "甘い夢",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "リンドウ",
+      "trait_type": "花"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZw6M61nuA6oqQdMmkyB1jwxrY4UcUrZKEFLQoAkgWnYx/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "1",
+  "name": "POCOEMOJI_tsun",
+  "description": "Cecily-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

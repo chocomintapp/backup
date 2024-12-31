@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbjxPdhJr7CjdodCdNotJpRHsXPYwrnc9W6xhLXYSBDaT/nft.png",
+  "tokenId": 11,
+  "description": "\"Mormo\"= \"Lamia\" x \"Succubus\" Meroe Ohkubo\n\n「モルモー」メイン種族ラミア、サブ種族サキュバス。名前はメロエ大久保。\n\nモルモーはラミア種のモンスター。サキュバスの亜種「エンプーサ」リリン早乙女とは近い血縁関係にある。ラミア種族から蛇と鱗要素を、サキュバス種族から舌ピアスやハート宝石の外見特性を引き継いでいる。「男を惑わすこと」にかけては非常に高い能力を持っている。冥界では、早乙女と共に戯れに男を引っ掛けて遊ぶ姿を度々目撃されている。ガチの悪女モンスター娘なので、育成の際は男性ブリーダーは気をつけよう！\n\n\"Mormo\" is a monster of the Lamia species, it is closely related to \"Empusa\" Lilin Saotome. \"Mormo\" inherited the snake and scale elements from the Lamia species, and the tongue piercing and heart jewel appearance characteristics from the Succubus species.\nShe has a very high ability to deceive men. In the Hades, Ohkubo and Saotome are often seen playing with men for fun. She's a hellcat monster girl, so male breeders should be careful when training \"Mormo\"!",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#036 \"Mormo\" Meroe Ohkubo",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Lamia"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Succubus"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

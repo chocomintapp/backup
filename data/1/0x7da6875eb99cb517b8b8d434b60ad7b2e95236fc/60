@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQGe9P3hotQGDQZpLs6Hcemwn7BGg5s8kBa9k2feCzeZE/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 60,
+  "chainId": "1",
+  "name": "KAIKA #60",
+  "description": "",
+  "attributes": [
+    {
+      "value": "chain",
+      "trait_type": "energy"
+    },
+    {
+      "value": "none",
+      "trait_type": "extra"
+    },
+    {
+      "value": "droopy",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "blue",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "covering one eye",
+      "trait_type": "hair"
+    },
+    {
+      "value": "yellow",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "open smile",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "light",
+      "trait_type": "skin tone"
+    }
+  ]
+}

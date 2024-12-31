@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX6q7TvyfBtRdK51wB87RBNcAF25fWa3ojEeQmK4xmax7/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 437,
+  "chainId": "1",
+  "name": "CARABIO",
+  "description": "■カラビオ",
+  "attributes": [
+    {
+      "value": "half-broken2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Green",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye7",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WG",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Green",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-red(NE）",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Devil",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

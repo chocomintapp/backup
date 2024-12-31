@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcvgknUMgKKqR21rDjFZZfVVtZjjgvQDb5tMpssiTiTVs/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 100,
+  "chainId": "1",
+  "name": "MIYUKI",
+  "description": "MIYUKI love spicy food anyway.\n\nI definitely eat kimchi for breakfast.\n\nI must have hot rice crackers for a snack.\n■みゆき\n\n辛い物がとにかく大好き。\n\n朝ごはんには絶対キムチ。\n\n間食に激辛おせんべいは欠かせない。",
+  "attributes": [
+    {
+      "value": "Bright-Green",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Scornful-Yellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-Y",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Angel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYzSQPkhoxdVcpJcLmGexuj3Fka6ztVtK1eGKwVwwRED8/nft.png",
+  "nftContractAddress": "0x3b3fe8ad373876580e6dc37b5f71afa055853581",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Day3",
+  "description": "🗓Sun, 18th Sep '22＊Convinient microplastic\n\nBecause the typhoon didn't hit my town, today I can do litter picking at the same place as yesterday.  Without the ICEBOX litter that  I gave up picking up cause of a lot of obstructions yesterday, there was much other litter.  One of them, a worn-out Seven eleven plastic bag was buried in the ground and this is the microplastics' true character that I saw the first time.  When I heard the word microplastics, it was soooo difficult that I couldn't imagine or feel what it was but now I can come to the realization that microplastics are very close to us. Oh, it's very of course.   -960g trash- ・Seven eleven plastic bag becoming microplastics×2 ・IceBox ×1 #MORINAGA ・Hunger×1 ・Familymart Fresh and delicious Ham cheese egg plastic wrapping×1 ・Plastic pipe×1   ・・・・・・・・・・・・・・・・・・・・・・・・・Day3＊「コンビニマイクロプラスチック」 2022.9.18.Sun台風が来なかったのでゴミひろい〜昨日おとといと全く同じ場所。 昨日障害物が多すぎ諦めたICEBOX以外にもまだ色々あります。 ボロボロのセブンの袋が土に埋まってて、これが #マイクロプラスティック の正体。難しくて初めてその単語を聞いた時は遠く感じたがめっちゃ近くにあった。当たり前か〜  -960g trash- ・プラ袋（#セブンイレブン）×2 ・ #IceBox 空容器×1  森永製菓・ハンガー×1 ・ファミリーマート Fresh and delicious ハムチーズたまご×1 ・プラスチックの管×1  ・・・・・・・・・・・・・・・・・・・・・・・・・Tweets  https://twitter.com/spicecurrypri/status/1571357100101758976?s=46&t=_Ndmx2aQ67x2AQ07IAWDfQ  https://twitter.com/spicecurrypri/status/1571418999392735235?s=46&t=_Ndmx2aQ67x2AQ07IAWDfQ  https://twitter.com/DJ_Drool/status/1571427070034739200?s=20&t=iSf_bLFO6H8PX85B46RNbA  https://twitter.com/DJ_Drool/status/1571507444622462978?s=20&t=iSf_bLFO6H8PX85B46RNbA",
+  "attributes": [
+    {
+      "value": "ART",
+      "trait_type": "GOMINOTE"
+    },
+    {
+      "value": "Sun, 18th Sep '22",
+      "trait_type": "DATE"
+    },
+    {
+      "value": "OSAKA",
+      "trait_type": "PREFECTURE"
+    },
+    {
+      "value": "JAPAN",
+      "trait_type": "COUNTRY"
+    },
+    {
+      "value": "MORINAGA",
+      "trait_type": "MAKER"
+    },
+    {
+      "value": "Seven-Eleven",
+      "trait_type": "Convenience Store"
+    },
+    {
+      "value": "FamilyMart",
+      "trait_type": "Convenience Store"
+    }
+  ]
+}

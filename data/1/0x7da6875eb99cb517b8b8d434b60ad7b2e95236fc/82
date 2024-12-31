@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTovtPBKsfVfAUuJFjHedsXkAJnn77vp6R8qxTa23zYJL/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 82,
+  "chainId": "1",
+  "name": "KAIKA #82",
+  "description": "",
+  "attributes": [
+    {
+      "value": "thunder",
+      "trait_type": "energy"
+    },
+    {
+      "value": "none",
+      "trait_type": "extra"
+    },
+    {
+      "value": "doll",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "red",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "long wavy",
+      "trait_type": "hair"
+    },
+    {
+      "value": "brown",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "open smile",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "medium",
+      "trait_type": "skin tone"
+    }
+  ]
+}

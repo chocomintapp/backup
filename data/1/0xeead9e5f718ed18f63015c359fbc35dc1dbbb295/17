@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbm3dtk9AtMkeVZCW6fDdHvYUtJeAi2So2bkEpm2tGP5A/nft.png",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "Tokyo Expanding People 2099 #14 Sheriff",
+  "description": "[日本語]\n\nこの仕事に誇りを持てなくなったのはいつからだろうか。\n\n数年前に奴らがこの町に来てからというものの、同僚や上司は奴らの顔色ばかり伺っている。\n俺がつけているこのバッジもただのおもちゃに成り下がってしまった。\n\nあぁ、またあいつらだ。\n今朝、町に来たばかりの若者と揉めている。\nああやってこの町を去った者はもう数えきれない。\n一応、形だけでも注意しにいくか。\n\n----------------------------------------------------------\n\nSheriff「おい、君。大丈夫かね。」\n\nRogue「これぐらい大丈夫だ。ところで奴らはなんなんだよ。」\n\nSheriff「この町を牛耳るギャングどもさ。」\n\nRogue「あんた保安官だろ？さっさと奴らを捕まえろよ。」\n\nSheriff「言っただろ、牛耳っているとな。捕まえたところで、上層部が釈放するだろう。」\n\nRogue「保安官がいる意味がないじゃないか。」\n\nSheriff「この町は腐っちまった。あんな幼い子まで娼婦として働いて親が遺した借金を返している始末だ。」\n\nRogue「なんだって？その話、詳しく聞かせろ。」\n\n\n[English]\n\nWhen did I stop taking pride in my work?\n\nEver since they came to town a few years ago, co-workers and bosses  became hanging their smiles with a different meanings.\nThe  badge I’m wearing has become just a toy.\n\nAh, it’s those guys again.\nThey’re having a row with a young man who just arrived in town this morning.\nI can’t count the number of people who have left this town, because of them.\nLet’s go give them a heads up, even if it’s just a formality.\n\n----------------------------------------------------------\n\nSheriff “Hello sir, Are you okay?”\n\nRogue “Yeah,I’m pretty much fine. What are they anyway?”\n\nSheriff “The gangsters who run this town.”\n\nRogue “You’re the sheriff, right? Then do your job.”\n\nSheriff “Told you, they are boss here. Nobody can resist.”\n\nRogue “What’s the point of having a sheriff?”\n\nSheriff “This town has gone rotten. Even a little girl like are working to repay the debt that her mother left behind for her.”\n\nRogue “What ? What’s going on here?”\n\n　---To be continued—",
+  "attributes": [
+    {
+      "value": "Sheriff",
+      "trait_type": "Character 2"
+    },
+    {
+      "value": "Rogue",
+      "trait_type": "Character 4"
+    },
+    {
+      "value": "#15 へ続く",
+      "trait_type": "To be continued"
+    }
+  ],
+  "minted": "✅"
+}

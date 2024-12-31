@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcsLoTSraNqpUrBiPuERooUNknBfi1L7wuBK6drbQHmNX/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "MAI",
+  "description": "MAI is a person nicknamed \"Abnegation MAI\".\n\nBecause he never suspects anything, he often falls prey to scams.\n\nThe total amount of damage is quite large, but she has no trouble making a living because she often catches saury, which is traded at a very high price.\n\nIf she had not been cheated by anyone and saved her money, her balance would have been tremendous!\n■MAI\n\n”無欲のMAI”という異名をもつ人間。\n\nなにも疑わないので、普段からよく詐欺に合う。\n\n被害総額はかなりのものだが、超高額で取引されるサンマをよく釣るので生活には困らない。\n\nもしも彼女が誰からも騙されず、貯金をしていたらその残高は凄まじいものになっていただろう。",
+  "attributes": [
+    {
+      "value": "Bright-Green",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Catstyle",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Blondepink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doteye-Yellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-Y",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Goldsaury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Orange",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

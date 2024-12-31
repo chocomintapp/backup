@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZjET1W6aJLPHgQp8b6u5aQDGGsxLuctqrEjE44zzvjoc/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "MAKI",
+  "description": "MAKI is an occult maniac.\n\nOne day, she found a book on magic circles at a used bookstore, and while trying it out at night, she accidentally succeeded in summoning a demon.\n\nShe claims to have summoned the king of the demon world (Satan), but what she summoned was just a small demon.\n\nIncidentally, the demon she summoned was named Satan without her permission, and she is very troubled.\n■マキ\n\nオカルトマニアのマキ。\n\nある時古本屋で、魔法陣の本を見つけ、夜な夜な試していたら偶然、悪魔の召喚に成功。\n\n彼女は魔界の王（サタン）を召喚したと言い張っているが、召喚したのはただの小物の悪魔。\n\nちなみに召喚した悪魔は勝手にサタンと命名され、非常に困っている。",
+  "attributes": [
+    {
+      "value": "Bright-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Blue",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Scornful-Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-B",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Black",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Devil",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

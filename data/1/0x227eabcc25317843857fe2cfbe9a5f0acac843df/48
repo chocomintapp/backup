@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS1tbqexFXJqkT62PikLeE9tyu2mc1JABnFrgfoynGU2z/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 48,
+  "chainId": "1",
+  "name": "Beach Borne Bae #76",
+  "description": "Beach Borne Bae #76\nInspired by Trapania naeva / パンダツノウミウシ",
+  "attributes": [
+    {
+      "value": "Double Bun",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "T-shirt",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Sea Slug",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

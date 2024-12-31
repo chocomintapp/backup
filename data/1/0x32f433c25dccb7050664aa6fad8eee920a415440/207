@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZxRw2oFLH1Z3XSSeH9WyfeQFCgvCP7oygTf9kX2AK6iw/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmP9PkxpDAHMYHHwn1jgzXyrW2c9kHv4B4o35kApotQUdT/nft.mp4",
+  "tokenId": 207,
+  "chainId": "1",
+  "name": "THE JEWEL #207",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

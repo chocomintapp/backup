@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWWcSBSaJ3Ej2U9zc9Vp6P8UqPnQqGHATRoz1nBMHiniw/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWq2UZepuT7Aso1oanJds4Lq4JDbEhgXTHWp6vfCoecoW/nft.mp4",
+  "tokenId": 134,
+  "chainId": "1",
+  "name": "THE JEWEL #134",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Andalusite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "tantalum",
+      "trait_type": "Control device"
+    }
+  ]
+}

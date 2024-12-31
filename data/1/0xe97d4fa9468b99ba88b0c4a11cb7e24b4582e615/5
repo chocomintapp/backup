@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSYb8A2dikyVTeArWQUuVmQrGvLaL6S2aGh5WiRAvMBUH/nft.png",
+  "nftContractAddress": "0xe97d4fa9468b99ba88b0c4a11cb7e24b4582e615",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "#005_Aobazuku",
+  "description": "神社付近に住んでいる忍者の末裔。 コノハズクのお姉さん役として教育しようとするが、推しに弱くコノハズクのおねだりによく負けてしまう。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "Forest",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "Ficedula narcissina Ninox japonica",
+      "trait_type": "Scientific name"
+    },
+    {
+      "value": "Summer",
+      "trait_type": "Season"
+    }
+  ]
+}

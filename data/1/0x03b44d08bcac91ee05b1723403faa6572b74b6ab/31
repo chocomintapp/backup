@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX62ag2eNxveY1vA8rEi1Xu125udPtSgi9eDY8eKL84os/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmWXaiN7jRcwRFJtKJvMWuFonwPbrYB6wf3KAReMJ2Cadi/nft.mp4",
+  "tokenId": 31,
+  "chainId": "1",
+  "name": "#057 MagmaMan",
+  "description": "MagmaMan\n\n- Nature Series\n- 3DCG Turntable\n- 1920 x 1920px",
+  "attributes": [
+    {
+      "value": "Nature",
+      "trait_type": "Type"
+    }
+  ]
+}

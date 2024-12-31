@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSmazFkiwYZjgwL6oS2JeErX5JNkhK5L365bhkMrLNFfY/nft.png",
+  "tokenId": 12,
+  "description": "",
+  "nftContractAddress": "0x8cebe4e66e3ae0730112d63f54daf26139f30544",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "CryptoSisters #12",
+  "attributes": [
+    {
+      "trait_type": "CHARACTER",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "PRICE",
+      "value": "Down"
+    }
+  ],
+  "minted": "✅"
+}

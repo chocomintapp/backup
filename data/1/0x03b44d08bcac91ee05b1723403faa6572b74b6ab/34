@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPijSprB8YGnpcC7boSaDX6T6BMD7TYT9KTXnwzsEG74P/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmVoP3GgjyV4ma1ZUPdrzjSRyNYke7sntSEepDEgKKHSRg/nft.mp4",
+  "tokenId": 34,
+  "chainId": "1",
+  "name": "#060 KetchupMan",
+  "description": "KetchupMan\n\n- Food Series\n- 3DCG Turntable\n- 1920 x 1920px",
+  "attributes": [
+    {
+      "value": "Food",
+      "trait_type": "Type"
+    }
+  ]
+}

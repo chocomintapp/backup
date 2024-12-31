@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZaiEAWiPKHNJJTCiLh4jxqwUAcS4gbTZ2mAR1kNF9V1K/nft.png",
+  "nftContractAddress": "0xb5cb3dd623d47b082261d24f8368ac9d542e7850",
+  "animationUrl": "https://ipfs.io/ipfs/QmPHLshTBxLB6FSq34yk9uSiWaDfbqynNyi5Pf1m8RZa5e/nft.mp4",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "Retrocausal Convergence Space / 逆因果収束空間",
+  "description": "時空を遡行する点粒子の収束地点。\n\"The Convergence Point of Time-Traversing Point Particles.\"",
+  "attributes": [],
+  "minted": ""
+}

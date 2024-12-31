@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXxGqgGC3KqXSRX4kuczacKUuB2WL1TvyWSQx9ZBhMVBR/nft.jpg",
+  "tokenId": 25,
+  "description": "When I was young I saved money to buy an Ethanol powered racing car that I never really used at all since I couldn't figure it out....but it was really cool\nKrs\n2008",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmXxGqgGC3KqXSRX4kuczacKUuB2WL1TvyWSQx9ZBhMVBR/nft.jpg",
+  "chainId": "1",
+  "name": "Radiocar"
+}

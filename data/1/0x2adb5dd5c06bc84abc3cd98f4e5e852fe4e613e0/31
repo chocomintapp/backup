@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma9aQNZWzToTJCZ9fjuxXk2Ym4XAqHXHt9dMpyxv1EiuK/nft.png",
+  "nftContractAddress": "0x2adb5dd5c06bc84abc3cd98f4e5e852fe4e613e0",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "1",
+  "name": "Shandy [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nShandy\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR EVO]",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Green",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Black",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Bubble Gum",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Heart Sunglasses",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Distored Gradation",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Trimūrti",
+      "trait_type": "SPELL"
+    },
+    {
+      "value": "EVO",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

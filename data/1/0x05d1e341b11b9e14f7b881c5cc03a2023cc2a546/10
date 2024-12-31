@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaNvtSAuXGvSHzD58iHRyU7Ap8GCxShSPcDg3a13VDriA/nft.gif",
+  "tokenId": 10,
+  "description": "Fuji  \n癒しと見透かす力を持ち合わせている  \nHe has the power to heal and the power to see.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmXVefpbgADS2ug7pt5iofiX1pk8h7enbxcEv5hUkCD2HC/nft.mp4",
+  "chainId": "1",
+  "name": "Fuji #010",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "VOICE",
+      "value": "Mimi"
+    },
+    {
+      "trait_type": "EYE",
+      "value": "Three-Eyes"
+    }
+  ]
+}

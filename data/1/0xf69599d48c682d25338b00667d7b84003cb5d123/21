@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfHov5jhbtFQeiK5oZCCPMFsqPrE5CJnYSPrUqqDiCy3M/nft.jpg",
+  "nftContractAddress": "0xf69599d48c682d25338b00667d7b84003cb5d123",
+  "animationUrl": "https://ipfs.io/ipfs/QmfHov5jhbtFQeiK5oZCCPMFsqPrE5CJnYSPrUqqDiCy3M/nft.jpg",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "Striders Laurel",
+  "description": "An NFT of the painting with the same name. Created by Kristoffer, Krs, Kullengren to commemorate our meeting on 2023/05/14\n\nDigital rights transfered along with this NFT\nThe owner may create printed material both for personal and commercial use\nThe owner may make, or commission, derivatives of the artwork\nThe digital copy may be displayed online",
+  "attributes": []
+}

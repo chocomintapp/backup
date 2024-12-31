@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU8QAJCoqjYK3YVCJT9FCVPVcfPHBwYgwZYQzft2DukNb/nft.gif",
+  "tokenId": 38,
+  "description": "Kaminari  \nトゲトゲは柔らかいので触っても痛くない  \nThe spikes are soft and not painful to the touch.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmXY8Nf1wWcePgiH3kLtJe4VyAwq8bE2HH5hrXK373Fv54/nft.mp4",
+  "chainId": "1",
+  "name": "Kaminari #038",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    }
+  ]
+}

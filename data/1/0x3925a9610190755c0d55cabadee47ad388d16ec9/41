@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSg5xAYHqDvH4gtWM5WtppLeLKtTtcUTQZ9b2Zn8oxvXA/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 41,
+  "chainId": "1",
+  "name": "Oboro",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "KIMONO",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Ai Naito",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "SLIGHT SMILE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "SAKAKI TREE",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "SPIRIT",
+      "trait_type": "RACE"
+    }
+  ]
+}

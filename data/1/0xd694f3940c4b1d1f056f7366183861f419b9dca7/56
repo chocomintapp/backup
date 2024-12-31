@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPwTygEUHeSf9FEafpt4PQW6z49H9wAMC2FxLdWZTvJiy/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 56,
+  "chainId": "1",
+  "name": "July 12 パキラ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "7",
+      "trait_type": "月"
+    },
+    {
+      "value": "12",
+      "trait_type": "日"
+    },
+    {
+      "value": "幸運",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "パキラ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

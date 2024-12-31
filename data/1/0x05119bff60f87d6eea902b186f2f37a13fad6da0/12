@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSDE9VXgJvDpaQNXxae5RcEA26D5yo6LgrJZQwU77w2Ka/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "POPET No.12",
+  "description": "【物語】\n\n成績はいつも私が1番。毎日予習復習を欠かさない、宿題も忘れないでやってるもん。だけどたまには、、、",
+  "attributes": [
+    {
+      "value": "優等生",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "学校",
+      "trait_type": "origin"
+    },
+    {
+      "value": "真面目",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

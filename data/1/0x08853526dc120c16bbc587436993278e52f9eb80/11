@@ -1,0 +1,67 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcJrbn9A4xA9J3jrm7waGTRR2FJ41rpX7EWdsRkSExHwB/nft.png",
+  "nftContractAddress": "0x08853526dc120c16bbc587436993278e52f9eb80",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "皇右",
+  "description": "Villain side hideout #6\n\n\"6FU\"(Six feet under) \nA Club, bar, or jack of all trades.\nIt`s where all the bad stuff happens...\n\n\"Don`t trouble me, or I`ll reap your soul.\"\n\n敵側 アジト#6\n\nアンダーグラウンドに位置する６FU. クラブ、何でも屋、 油断すると魂を持っていかれるかも…\n\n\"ごたごた言ってると刈りますよ？\"",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Lord",
+      "trait_type": "Belief"
+    },
+    {
+      "value": "6FU",
+      "trait_type": "Location"
+    },
+    {
+      "value": "death",
+      "trait_type": "Species"
+    },
+    {
+      "value": "knife",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "6",
+      "trait_type": "apearance"
+    },
+    {
+      "value": "6",
+      "trait_type": "charisma"
+    },
+    {
+      "value": "6",
+      "trait_type": "intelligence"
+    },
+    {
+      "value": "6",
+      "trait_type": "luck"
+    },
+    {
+      "value": "6",
+      "trait_type": "mana"
+    },
+    {
+      "value": "6",
+      "trait_type": "speed"
+    },
+    {
+      "value": "6",
+      "trait_type": "spirit"
+    },
+    {
+      "value": "6",
+      "trait_type": "toughness"
+    },
+    {
+      "value": "6",
+      "trait_type": "strength"
+    }
+  ]
+}

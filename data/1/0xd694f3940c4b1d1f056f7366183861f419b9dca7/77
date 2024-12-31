@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXQrx5K4X7kiLEpKjbVww6QeXb6NzHQHAFc2HycZ125Ei/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 77,
+  "chainId": "1",
+  "name": "August 2 ヤグルマハッカ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "2",
+      "trait_type": "日"
+    },
+    {
+      "value": "柔らかな心",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ヤグルマハッカ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

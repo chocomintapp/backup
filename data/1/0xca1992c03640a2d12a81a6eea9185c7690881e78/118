@@ -1,0 +1,63 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXUdM7D3mEkJPS7BNxA57vMofF5H9W3aYpCe52SvKk5wr/nft.png",
+  "tokenId": 118,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #118",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovely Madness"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Camisole"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Rhombus"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "White Leather"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cookie"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Round"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Coconut Water"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Siamese Cat"
+    }
+  ]
+}

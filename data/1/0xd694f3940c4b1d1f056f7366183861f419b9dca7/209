@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRSvFpbKMr2kjH3WZLkjTxbYFiDj13hFzh3Egd6VXy1rQ/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 209,
+  "chainId": "1",
+  "name": "December 12 オドントグロッサム",
+  "description": "",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "12",
+      "trait_type": "日"
+    },
+    {
+      "value": "特別な存在",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "オドントグロッサム",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

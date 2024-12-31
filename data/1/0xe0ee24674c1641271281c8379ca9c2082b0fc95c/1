@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbeLurrgLMkjJnwJmodabP9UYqJYrrgnzkeHQRixjA2JE/nft.png",
+  "nftContractAddress": "0xe0ee24674c1641271281c8379ca9c2082b0fc95c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Love it♡Rabbit",
+  "description": "The zodiac for 2023 is the Rabbit.\nMay the new year be a special one for us ♡",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

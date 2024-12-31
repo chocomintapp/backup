@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY9FMF19u7hdJ466oMKJUFqS5XG5tiJf6JAZU6FFMQdD9/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 481,
+  "chainId": "1",
+  "name": "YUKARI",
+  "description": "■ユカリ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.6",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Egreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sunglass-B4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Machimusume2",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNP-Luna-P(crying)",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Candle Head (火の用心）",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

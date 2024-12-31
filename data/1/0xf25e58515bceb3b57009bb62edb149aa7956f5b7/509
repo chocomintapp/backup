@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP8mM8pWCQZxD8SyrgDJwGUtacnM2Wq6KzSyGjVpoiJb9/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 509,
+  "chainId": "1",
+  "name": "KASUMI",
+  "description": "■カスミ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Lolitahair-Mixpink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0004Eye2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "JK2(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Luna-Pink（moon)",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

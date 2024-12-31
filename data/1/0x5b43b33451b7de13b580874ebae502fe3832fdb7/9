@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbAFbYDScbZirgUu6SxhvACLF1N1CHsa4Mc9uhFds9Z75/nft.PNG",
+  "nftContractAddress": "0x5b43b33451b7de13b580874ebae502fe3832fdb7",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "Toy 9",
+  "description": "Let's play with wisdom toys!",
+  "attributes": []
+}

@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaKgSxMYmwR5jbgxeU1S8AZgWj8MaXTLBqvhZEL5SE4BH/nft.png",
+  "tokenId": 116,
+  "description": "",
+  "nftContractAddress": "0xa3504b583db9090d46bb3c97e04eae5e61e3dfce",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #116",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Lizard"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Pearl Necklace"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Ethereum"
+    }
+  ],
+  "minted": ""
+}

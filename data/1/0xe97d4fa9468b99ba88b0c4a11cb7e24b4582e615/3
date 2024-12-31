@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma4NT1YwAt6N7Zy7oJ6L4FpVtCWJpYAjGwXQww49Z2egD/nft.png",
+  "nftContractAddress": "0xe97d4fa9468b99ba88b0c4a11cb7e24b4582e615",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "#003_Kibitaki",
+  "description": "おとなしそうに見えて実はいたずら好きなお嬢様。誰かの声真似をしてはおどろかせるのが彼女の密かな趣味。\nたまにそれが役に立つことも…？",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "Forest",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "Town",
+      "trait_type": "habitat"
+    },
+    {
+      "value": "Ficedula narcissina",
+      "trait_type": "Scientific name"
+    },
+    {
+      "value": "Summer",
+      "trait_type": "Season"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQu7i4Sm6o6fxuLmMbVySY6n81r6Jtzg7JEhvyNkf5U1g/nft.mp4",
+  "nftContractAddress": "0x58d900cae7a1e1703e8ad2470915741d4aee4794",
+  "animationUrl": "https://ipfs.io/ipfs/QmQu7i4Sm6o6fxuLmMbVySY6n81r6Jtzg7JEhvyNkf5U1g/nft.mp4",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Chapter 1",
+  "description": "The universe is an ocean filled with matter unknown to mankind.  \nWe can swim in it without knowing what it is.",
+  "attributes": []
+}

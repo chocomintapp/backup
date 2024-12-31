@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ6PizPGf2kZaUxyiDWMVT4eFDJxo2uoK1BvSx12xQd9C/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmUEYgdNdXcCVZ56QR4c2qXzLmYZq4KDDfjgmEUvNbSPZL/nft.mp4",
+  "tokenId": 704,
+  "chainId": "1",
+  "name": "THE JEWEL #704",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Kunzite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

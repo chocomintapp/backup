@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcdcWxU2s9Gscg4Fs1quhyqMHgrYLGC4JZDsiETyh2wK9/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 339,
+  "chainId": "1",
+  "name": "April 20 ボリジ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "4",
+      "trait_type": "月"
+    },
+    {
+      "value": "20",
+      "trait_type": "日"
+    },
+    {
+      "value": "才能",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ボリジ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

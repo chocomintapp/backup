@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYc5euwunXyhJrBSPy6ZptT3K3B4jzJnWGqLhVioQH7mp/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 176,
+  "chainId": "1",
+  "name": "Magdalena",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "Snake",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaJc5qBDuX1otZpawtSDcMcCh4toeUJYm4wcXheFu2eH8/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmPiShQkirR7XYc2Tpy7PsQKY379546Uaf4AjrxtamsETG/nft.mp4",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "#041 MetalMan",
+  "description": "MetalMan\n\n- Incredible Series\n- 3DCG Turntable\n- 1920 x 1920px",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Incredible",
+      "trait_type": "Type"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUrnavvHbTpg3FtgY5LXVDarBKZAob7pjBzqag8u4M3LE/nft.png",
+  "nftContractAddress": "0x5852fa524d5815d31df842804de68aa96b4352fa",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "admission ticket",
+  "description": "",
+  "attributes": []
+}

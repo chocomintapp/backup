@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmShcAZXUAxR6vps94LhaTur38vf2JvRhFcWrBCep8TLfT/nft.png",
+  "nftContractAddress": "0xa0fdc64060ca093e35475d59ec321ab7233e6a87",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "bright",
+  "description": "To be able to shine without color.",
+  "attributes": []
+}

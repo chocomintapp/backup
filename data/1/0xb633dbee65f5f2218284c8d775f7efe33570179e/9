@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRU14MH7SAAVy1cfXQyzKftRBjapWTk6oBy1bXQsRdPpt/nft.jpg",
+  "nftContractAddress": "0xb633dbee65f5f2218284c8d775f7efe33570179e",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "Eggbird #050 Budgerigar Blue-2",
+  "description": "Eggbird #050 『セキセイインコ　青2』 ",
+  "attributes": [
+    {
+      "value": "Pets ペット",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Budgie　セキセイインコ",
+      "trait_type": "Species"
+    }
+  ]
+}

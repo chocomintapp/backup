@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbbBMgUfbiDQsSTe8G1z8QU7HFL8ZfjPBigD9xFgGjApQ/nft.png",
+  "tokenId": 13,
+  "description": "\"Satyros\" = \"Demon\" x \"Werewolf\" Puck Yamazaki\n\n「サテュロス」メイン種族デーモン、サブ種族ワーウルフ。名前はパック山崎。\n\nサテュロスは、ギリシャ神話に登場する、ヤギの特徴を持った山野の精。陽気で快楽を好む。デーモン種から大きな悪魔角を、ワーウルフ種から獣の特徴を引き継いでいる。直情径行なタイプで、本能の赴くままに行動する。すごく寝相が悪い。\n\n\"Satyros\"  is a mountain spirit in Greek mythology that has the characteristics of a goat. She is cheerful and pleasure-loving. \"Satyros\" inherited the large horns from the Demon species and the beastly features from the Werewolf species. She is an intuitive type and acts according to her instincts. She is a very bad sleeper.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#038 \"Satyros\" Puck Yamazaki",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Werewolf"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

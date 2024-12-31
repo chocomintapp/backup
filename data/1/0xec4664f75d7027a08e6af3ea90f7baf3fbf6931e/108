@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVNieqbUcbhY5vBuLaSZesA6CijSNYzSqqSM3oA4iMRfA/nft.jpg",
+  "nftContractAddress": "0xec4664f75d7027a08e6af3ea90f7baf3fbf6931e",
+  "animationUrl": "",
+  "tokenId": 108,
+  "chainId": "1",
+  "name": "LAYLA Vol.1.5 Xmas #108",
+  "description": "Neo Cyber Girls Collection \nXmas!",
+  "attributes": [
+    {
+      "value": "Plain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Xmas",
+      "trait_type": "ThemeColor"
+    },
+    {
+      "value": "TwintailBangs",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "GarrisonCap",
+      "trait_type": "Head"
+    },
+    {
+      "value": "SantaClaus",
+      "trait_type": "Ware"
+    },
+    {
+      "value": "Basic",
+      "trait_type": "Pose"
+    }
+  ]
+}

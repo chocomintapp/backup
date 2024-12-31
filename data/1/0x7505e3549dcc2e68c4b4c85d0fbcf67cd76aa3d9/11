@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY5qXcJDcNx32fraWh9K4ZYhtd5UwZHkaEhbpwdNoA33K/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "Momo-chan ももちゃん #214",
+  "description": "この子はどうぶつの国にいたんだけど\nにんげんのせかいにいってみたかった。\n\nまほうのおばあさんがにんげんのせかいにいけるまほうのドアを作ってくれて、にんげんのせかいにいった。\n\nけっこうなれてきて空をながめています。\n\nちっちゃいときにはどうぶつのせかいにひっしで、\n空を見るきかいもなかったけど、\nいまは見れるようになって、キレイだなと思っている。\n\nおかあさんがハート好きで、むねにハートがついて生まれてきた。\nハートのリボンはどうぶつのしんゆうからもらった。\n\n☆小学2年生14番目の作品なので214のナンバーをふりました♪\n\nThis child was in Animal Kingdom.\nShe wanted to visit the world of humans.\n\nA magical grandmother made a magic door to the world of humans, and she went to the world of humans.\n\nShe was getting used to the human world and gazing up at the sky.\n\nWhen she was tiny, she struggled to survive in the animal world.\nShe never had a chance to look at the sky, but now she can.\nShe thinks the sky is beautiful.\n\nShe was born with a heart on her chest because her mother loves hearts.\nThe heart ribbon was given to her by her best friend who is an animal.\n\n☆This is the 14th work in the second grade of elementary school, so I put the number 214 on it.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Animal",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Rabbit",
+      "trait_type": "Animal Type"
+    },
+    {
+      "value": "Kawaii",
+      "trait_type": "Category"
+    }
+  ]
+}

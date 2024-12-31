@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVnacQzvDp5Na6NTWDobbPBbL5XtCVf4tqQKanR5FimCi/nft.png",
+  "tokenId": 124,
+  "description": "",
+  "nftContractAddress": "0xa3504b583db9090d46bb3c97e04eae5e61e3dfce",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #124",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Leather Choker"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigarette"
+    }
+  ]
+}

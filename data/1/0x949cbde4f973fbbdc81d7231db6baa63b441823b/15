@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNw2VwgMe6ZAfPime6BujLGoXxs56678ZHUYUUfaYgnu4/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "SO #15",
+  "description": "",
+  "attributes": [
+    {
+      "value": "O",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "S",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": " O",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "so",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

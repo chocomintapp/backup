@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQG1AEPjAYggAaxgn9k4nUCnyVaV8nhFHvkrBs2NrnB7s/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 361,
+  "chainId": "1",
+  "name": "May 12 アルストロメリア",
+  "description": "",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "12",
+      "trait_type": "日"
+    },
+    {
+      "value": "小悪魔的な思い",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "アルストロメリア",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT2ZHmCCzS1rLthJ77X6ukGASGAZdSbLv11FM5CcZsUny/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmctUNNMnSQ4NJeop4cdZUtj65w3ZJDMabxgTktTYob4Rd/nft.mp4",
+  "tokenId": 732,
+  "chainId": "1",
+  "name": "THE JEWEL #732",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Purple Zoisite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

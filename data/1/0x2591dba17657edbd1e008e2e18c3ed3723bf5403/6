@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXKLTY1sF6eNsUZCFJtB7xAFwANcfSU2JAsC8GFBuEyYC/nft.PNG",
+  "nftContractAddress": "0x2591dba17657edbd1e008e2e18c3ed3723bf5403",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Fungi Girl #6",
+  "description": "Mushroom, Female, Fungi Girl, Cute, AI Art, AI Drawing",
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "Colors"
+    },
+    {
+      "value": "Mountain",
+      "trait_type": "Background type"
+    }
+  ]
+}

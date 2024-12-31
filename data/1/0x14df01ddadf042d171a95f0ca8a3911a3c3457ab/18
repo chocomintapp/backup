@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYtrzAr5mCtrKkDmUpnrete9akxxKh1v429Et5qDZwiWj/nft.gif",
+  "nftContractAddress": "0x14df01ddadf042d171a95f0ca8a3911a3c3457ab",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "#18",
+  "description": "過去へダイブだ。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Goro",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Goro",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Guitar",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "3D glass",
+      "trait_type": "Option"
+    },
+    {
+      "value": "Night",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Guitarist",
+      "trait_type": "Job"
+    }
+  ]
+}

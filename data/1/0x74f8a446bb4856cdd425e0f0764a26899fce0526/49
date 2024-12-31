@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU4RBtuidtGdvSDdy1HAHUKYdQFr2VPWQ39WRSx5PxSMt/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 49,
+  "chainId": "1",
+  "name": "POCOEMOJI_mikanclose",
+  "description": "Mimimikan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

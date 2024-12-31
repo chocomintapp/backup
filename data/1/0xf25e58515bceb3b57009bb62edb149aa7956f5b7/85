@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSwPLwah6KRN7t6LhXNHsrE8aYmyyp9AhfdgjDWqxmWTh/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 85,
+  "chainId": "1",
+  "name": "TSUMI",
+  "description": "TSUMI is a crying baby.\n\nHe drinks every night and complains to his pet lizard.\n\nHis latest problem is that he is not good with lizards.\n■ツミ\n\n泣き上戸のツミ。\n\n毎晩酒を飲んではペットのトカゲに愚痴を言う。\n\n最近の悩みはトカゲが苦手なこと。",
+  "attributes": [
+    {
+      "value": "Deep-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Blondepink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cry-ZombieYellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-Y(G)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "BlueLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "HeadbandｰShine",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "The Greens zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

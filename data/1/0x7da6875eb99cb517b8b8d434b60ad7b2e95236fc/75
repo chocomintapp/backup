@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXQz14R1QeMNvPx7BVC4vFov8CJPTP9zQpi5xMdscggVi/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 75,
+  "chainId": "1",
+  "name": "KAIKA #75",
+  "description": "",
+  "attributes": [
+    {
+      "value": "water",
+      "trait_type": "energy"
+    },
+    {
+      "value": "none",
+      "trait_type": "extra"
+    },
+    {
+      "value": "droopy",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "blue",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "wolf",
+      "trait_type": "hair"
+    },
+    {
+      "value": "purple",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "lick",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "tan",
+      "trait_type": "skin tone"
+    }
+  ]
+}

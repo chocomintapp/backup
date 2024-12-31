@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSPzFUGdCM5A2HrdN3jDxPbXTSsfHfGJNvKJLxjV1tUu8/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 95,
+  "chainId": "1",
+  "name": "MIRA",
+  "description": "MIRAKO Fan art work part 3.\n■ミラ\n\nMIRAKOファンアート作品パート3。\n\n■MIRAKO↓\nhttps://opensea.io/collection/mirako",
+  "attributes": [
+    {
+      "value": "MIRAKOBack",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Pink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-FULLSUIT-AType",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Arkdemon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

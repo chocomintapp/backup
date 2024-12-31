@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNLn5kapAHu794KFWVcLXrvfgLZdLKGZhC6udpr9W1sAC/nft.gif",
+  "nftContractAddress": "0x14df01ddadf042d171a95f0ca8a3911a3c3457ab",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "#6",
+  "description": "イケおじじは考古学者になった。",
+  "attributes": [
+    {
+      "value": "Hat",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Goro",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Whip",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "3D glass",
+      "trait_type": "Option"
+    },
+    {
+      "value": "Archaeologist",
+      "trait_type": "Job"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Background"
+    }
+  ],
+  "minted": "✅"
+}

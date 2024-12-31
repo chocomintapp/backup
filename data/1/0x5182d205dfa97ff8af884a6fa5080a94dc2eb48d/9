@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme5y4cA2DndDmHaHJnVSamVadK79whdM1uDX1sUskm7cw/nft.gif",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "Working Ganmichan#34",
+  "description": "アメ村のショップ「いろは屋」でアルバイトをする傍ら、B-BOY達とフリースタイルラップを楽しむがんみちゃん。波動を巧みに操り、言い寄ってくる男達をバッタバッタと薙ぎ倒す",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "sales associate",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

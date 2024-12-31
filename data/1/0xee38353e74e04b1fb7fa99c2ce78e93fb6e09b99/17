@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNRgMXKSsV849xiE4RViDoL2y3AaPe6woyF9ers6Ay4hb/nft.png",
+  "nftContractAddress": "0xee38353e74e04b1fb7fa99c2ce78e93fb6e09b99",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "#0017 Series001 No.015",
+  "description": "\n未来の自律型電脳ゲーミングPC『Chirobo.』\n   \nPortable Network Graphics       \n2048×2048px",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Series 001",
+      "trait_type": "Series"
+    },
+    {
+      "value": "Camouflage",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Square type A",
+      "trait_type": "CPU"
+    },
+    {
+      "value": "CircleIndustry type A",
+      "trait_type": "GPU"
+    },
+    {
+      "value": "DeltaTechnology type A",
+      "trait_type": "RAM"
+    },
+    {
+      "value": "PaleColor",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Cyan×Magenta",
+      "trait_type": "LED"
+    },
+    {
+      "value": "Wi-Fi Adapter type A",
+      "trait_type": "USB01"
+    }
+  ]
+}

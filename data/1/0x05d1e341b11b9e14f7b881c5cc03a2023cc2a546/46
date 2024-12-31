@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfB9bVgpcfwRk6Y7PV3R6SbheLfCJps6ucQe8yMWX7DbM/nft.gif",
+  "tokenId": 46,
+  "description": "Niko  \n新しいタイプの芸術を発見した  \nHe discovered a new type of art.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmT2mdmUK3SrKq4WiMQhZm8Z1U31oc5vMNXxjrXqXghK3Q/nft.mp4",
+  "chainId": "1",
+  "name": "Niko #046",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Construct"
+    }
+  ]
+}

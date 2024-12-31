@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaFJPQxAPjLVMUPGMoNUHgmTgKs7kNf1nesdHYfVm51JM/nft.gif",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Working Ganmichan #30",
+  "description": "こ、これはたまたま強盗がいたからつい…！",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "hero",
+      "trait_type": "situation"
+    }
+  ]
+}

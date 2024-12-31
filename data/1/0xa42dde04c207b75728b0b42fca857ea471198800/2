@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS5ZVj7CPbrncZpTJHSUYoDHfXEerqpqCFfJo7svxfrdh/nft.gif",
+  "tokenId": 2,
+  "description": "POiNT image movie ballet in Shibuya",
+  "nftContractAddress": "0xa42dde04c207b75728b0b42fca857ea471198800",
+  "animationUrl": "https://ipfs.io/ipfs/QmPLkugwNMUkQHqFQnwkufKQzQNEv4mqUbGeDiqvZzRzH1/nft.mp4",
+  "chainId": "1",
+  "name": "Tokyo Landing Strip SHIBUYA"
+}

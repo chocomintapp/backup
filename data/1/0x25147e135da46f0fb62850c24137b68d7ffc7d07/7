@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVCmZSJbE3wxkbpKmmxKJF6NUhAEex393CKV7zE7WuDxD/nft.png",
+  "nftContractAddress": "0x25147e135da46f0fb62850c24137b68d7ffc7d07",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "BE KOBE NFT CREATIVE AWARD #7",
+  "description": "第1回 BE KOBE NFT CREATIVE AWARD 『王子公園ハイム』マクアート部門 応募作品\n\n【タイトル】\n『脱力と自由』\n\n【制作者】\nnofukyon 様\n\n【コンセプト】\nクラゲには見る人を幸せな気持ちにしてくれるヒーリング作用があります。\n神戸がいつまでも癒しの街でありますようにとの願いを込めて制作致しました。",
+  "attributes": [
+    {
+      "value": "『王子公園ハイム』マクアート",
+      "trait_type": "部門"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTdGZs8wcKk6wYY5fHxBqYpBN8uNF35gzkZ5F1rt3xxUw/nft.jpeg",
+  "nftContractAddress": "0x146525ac3773b60f4609a85080270401124e99d2",
+  "animationUrl": "https://ipfs.io/ipfs/Qmcn97yeSDvbyKBwhpVDuZq5xdt766smTPrhdqUC2fBCpY/nft.gif",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Forestune Collection 3",
+  "description": "Forestune is a coined word that combines forest and luck, meaning to be happy. We wish you good luck and hope that something good will happen to you.What encounters await you in the Forestune?",
+  "attributes": []
+}

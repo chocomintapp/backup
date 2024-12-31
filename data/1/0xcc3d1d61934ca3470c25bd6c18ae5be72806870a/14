@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbjGKvTkhY52oqTfaLMxXgDyCfTXERu1Z8NNd2PFX8xZn/nft.png",
+  "nftContractAddress": "0xcc3d1d61934ca3470c25bd6c18ae5be72806870a",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "#008 おやすみ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "挨拶",
+      "trait_type": "Category"
+    },
+    {
+      "value": "吹き出し",
+      "trait_type": "Accessory"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYHvSTwTTYEbw7N9vyxZQonLvkXNcYYmzCm9s79WhxGCG/nft.png",
+  "tokenId": 149,
+  "description": "",
+  "nftContractAddress": "0xa3504b583db9090d46bb3c97e04eae5e61e3dfce",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #149",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovey Dovey"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rock Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Olive Green"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Silver Ear Cuff"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Round Silver"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP5tURHzSoveosPZRyt1sHKNUZU65iQJwyDb8HW419eEH/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 236,
+  "chainId": "1",
+  "name": "January 8 スイセン",
+  "description": "",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "月"
+    },
+    {
+      "value": "7",
+      "trait_type": "日"
+    },
+    {
+      "value": "自己愛",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "スイセン",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

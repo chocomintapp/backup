@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYo2XcQBCX9xMysWdm59pG7nA8DRznVHFBKXXbiMpSscj/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 48,
+  "chainId": "1",
+  "name": "WO #48",
+  "description": "",
+  "attributes": [
+    {
+      "value": "O",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "W",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "O",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "wo",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

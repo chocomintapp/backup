@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYAdjKj7DwFQe2VZJFNJroVdjcMvDdw33tceCWRuXif6f/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 164,
+  "chainId": "1",
+  "name": "BAOBIO",
+  "description": "■バオビオ",
+  "attributes": [
+    {
+      "value": "Change",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Blue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Too much of a surprise",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-GB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Blue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury-Blue",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

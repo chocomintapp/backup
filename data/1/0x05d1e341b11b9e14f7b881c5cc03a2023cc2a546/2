@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPYLkyi7GAihvQ1Rih43zECHxUZm8CVSGF4SZedZHwajt/nft.gif",
+  "tokenId": 2,
+  "description": "Lemon  \n好奇心に満ち溢れている  \nI'm full of curiosity. ",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmaJLfCsq8q8RKBwyb8hLXx7Rt7m5farnD41wSzoHsRd2x/nft.mp4",
+  "chainId": "1",
+  "name": "Lemon #002",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "VOICE",
+      "value": "Mimi"
+    }
+  ]
+}

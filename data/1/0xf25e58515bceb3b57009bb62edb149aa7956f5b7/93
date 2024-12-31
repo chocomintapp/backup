@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZCT1HjuJRF3ixMPzLtyDiJXQdXECW2S5c5Bgz7tGpVhK/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 93,
+  "chainId": "1",
+  "name": "ZIWON",
+  "description": "A new cleaner who has come to Tokyo from the countryside.\n\nHe mainly specializes in exterminating demons that have stuck to the walls.\n■ジウォン\n\n田舎から上京してきた新米の掃除屋さん。\n\n主に、壁にこびりついた悪魔を専門で退治している。",
+  "attributes": [
+    {
+      "value": "Dot3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Orange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees-Red(BLU)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Brown",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Arkdemon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Ribon-Blue",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Blue Family",
+      "trait_type": "TYPE"
+    }
+  ]
+}

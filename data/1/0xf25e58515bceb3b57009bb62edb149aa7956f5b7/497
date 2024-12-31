@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRFne3x2NiyQzU3jp9v5ZDnuKL7Dxtk15uwFhq1CZXLnx/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 497,
+  "chainId": "1",
+  "name": "KANON",
+  "description": "■カノン",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Scornful-Yellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-Light3(BL)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "husky",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Hat-D-white(BL)",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Blue Family",
+      "trait_type": "TYPE"
+    }
+  ]
+}

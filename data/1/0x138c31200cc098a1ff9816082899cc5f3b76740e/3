@@ -1,0 +1,11 @@
+{
+  "image": "https://firebasestorage.googleapis.com/v0/b/metakawaii-pj.appspot.com/o/drops-randomize-2%2Fpng%2Fpng%2F1.png?alt=media",
+  "nftContractAddress": "0x138c31200cc098a1ff9816082899cc5f3b76740e",
+  "animationUrl": "https://metakawaii-api.vercel.app/api/drop/mp4/1",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "3",
+  "description": "3",
+  "attributes": [],
+  "minted": "✅"
+}

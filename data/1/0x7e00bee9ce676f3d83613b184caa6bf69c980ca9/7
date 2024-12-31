@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcvsRXXxGsXGD5kJLjGK4wNHJ5jErSbiTbgEaeMXkg9Ph/nft.png",
+  "nftContractAddress": "0x7e00bee9ce676f3d83613b184caa6bf69c980ca9",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "CyberAnimeDOLL #001 Tigris ( チグリス )_Model1",
+  "description": "#001 Tigris ( チグリス )_Model1\nキャラクター設定詳細は、Discordに掲載。",
+  "attributes": [
+    {
+      "value": "Fascinating with Handheld Sequencer",
+      "trait_type": "ABILITY"
+    },
+    {
+      "value": "Circuit Cougar - サーキットクーガー_回路玖牙",
+      "trait_type": "CLAN"
+    },
+    {
+      "value": "Human - ヒト",
+      "trait_type": "Entity Concept"
+    },
+    {
+      "value": "Blue - 青",
+      "trait_type": "EYE COLOR"
+    },
+    {
+      "value": "White-based mix - 白色系ミックス",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Asymmetry - アシンメトリー",
+      "trait_type": "Hairstyle"
+    },
+    {
+      "value": "Sonic Symphony - ソニックシンフォニー",
+      "trait_type": "PTAA Name"
+    },
+    {
+      "value": "Musician and Electronic Equipment Engineer - 音楽家 兼 電子機器エンジニア",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "Hacker Cat - ハッカーキャット",
+      "trait_type": "Autonomous Mechanical Pet"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUmLosN6G54oDK3do42iPLm5X8XHnsc3JW5He9wzvGvCN/nft.jpg",
+  "tokenId": 25,
+  "description": "",
+  "nftContractAddress": "0xa65a0fc671524b2bf4eea210f381d76b0ade7392",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Gas Mask Challenge No.98",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

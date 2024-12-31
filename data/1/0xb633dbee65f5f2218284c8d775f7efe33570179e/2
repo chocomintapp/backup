@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQzKqY8gTAEbktcn9URJxeT65TruGVkQGzXGxooYAx9fr/nft.jpg",
+  "nftContractAddress": "0xb633dbee65f5f2218284c8d775f7efe33570179e",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Eggbird #045 Yellow-crested Cockatoo",
+  "description": "Eggbird #045 『コバタン』\n",
+  "attributes": [
+    {
+      "value": "Pets ペット",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Cockatoo オウム",
+      "trait_type": "Species"
+    }
+  ]
+}

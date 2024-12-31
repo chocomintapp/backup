@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUz3gBEAogGKcXhgFcZXDVdXZAaDgG1ZDxNm7JSHADWgb/nft.jpg",
+  "nftContractAddress": "0xdcbbd79e20c1ea86680ed83c872e8786f5f578f1",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "#12 VILLAINS BEAN THE CAT MASK",
+  "description": "Beans in 3D are here!! The second series is VILLAINS. They are MAMENGERS enemy.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "None",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Cat Mask",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "None",
+      "trait_type": "EAR ACCESSORY"
+    },
+    {
+      "value": "Bell Choker",
+      "trait_type": "BODY ACCESSORY"
+    },
+    {
+      "value": "Villains Mintgreen",
+      "trait_type": "BODY COLOR"
+    },
+    {
+      "value": "Cat Pants",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "Weapon Tail",
+      "trait_type": "ARTICLES"
+    },
+    {
+      "value": "Villains Sky",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

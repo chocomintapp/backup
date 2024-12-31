@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUkfY4yq3pr2w3brMfRT9zUQZjemo6UHrQgEh3RUnVujr/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 216,
+  "chainId": "1",
+  "name": "EME",
+  "description": "■エメ",
+  "attributes": [
+    {
+      "value": "Cell division",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Emeraldgreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-UEmerald",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Maid robot",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

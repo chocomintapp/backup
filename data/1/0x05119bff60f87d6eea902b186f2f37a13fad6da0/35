@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbA8dqpmLSTiX1L2r398GMXUNHJaWqTw23br2XS9vthPb/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "1",
+  "name": "POPET No.35",
+  "description": "【物語】\n\n何をやっても失敗ばかりの僕だけど、\n僕の失敗で笑ってくれる人もいる、、、。",
+  "attributes": [
+    {
+      "value": "ピエロ",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "根暗",
+      "trait_type": "origin"
+    },
+    {
+      "value": "路上",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

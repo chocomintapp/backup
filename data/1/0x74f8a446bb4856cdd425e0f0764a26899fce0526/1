@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRyN4unxhkQu74M1aWt3WzSjjKk9gR9Y3QyZ9YmKtvdjV/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "POCOEMOJI_wao",
+  "description": "Clara-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

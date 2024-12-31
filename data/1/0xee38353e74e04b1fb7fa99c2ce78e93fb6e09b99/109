@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbyEnoLSvC2Qn3gssevLosHMJe8vgsLpUF9AKfQqjUNun/nft.png",
+  "nftContractAddress": "0xee38353e74e04b1fb7fa99c2ce78e93fb6e09b99",
+  "animationUrl": "",
+  "tokenId": 109,
+  "chainId": "1",
+  "name": "#0109 Series000 No.007”Christmas2022”",
+  "description": "未来の自律型電脳ゲーミングPC『Chirobo.』\n   \nPortable Network Graphics       \n2048×2048px",
+  "attributes": [
+    {
+      "value": "Series 000",
+      "trait_type": "Series"
+    },
+    {
+      "value": "Christmass2022",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Xenotics type A",
+      "trait_type": "CPU"
+    },
+    {
+      "value": "Square type A",
+      "trait_type": "GPU"
+    },
+    {
+      "value": "Square type A",
+      "trait_type": "RAM"
+    },
+    {
+      "value": "PaleColor",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Orange×Green",
+      "trait_type": "LED"
+    },
+    {
+      "value": "ChristmasParts2022",
+      "trait_type": "Other"
+    }
+  ],
+  "minted": "✅"
+}

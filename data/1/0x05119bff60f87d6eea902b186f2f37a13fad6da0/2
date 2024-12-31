@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeXw8XFvDYVWu9L4PhKXc5cCqD2p6cGR2kHbK47mktiwp/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "POPET No.2",
+  "description": "【物語】\n\nやっとついた島。\n人はいないようだ。\n遠くに見えるあの建造物はどこかで見た気がする。\nなんだろうか。",
+  "attributes": [
+    {
+      "value": "冒険家",
+      "trait_type": "job"
+    },
+    {
+      "value": "ラッキー方向音痴",
+      "trait_type": "skill"
+    },
+    {
+      "value": "無人島",
+      "trait_type": "origin"
+    },
+    {
+      "value": "探究心",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

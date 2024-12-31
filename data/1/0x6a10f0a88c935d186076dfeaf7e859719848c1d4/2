@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQa7pghnjsRPo3GnmTXhWLgntf62YMyb7N81esPrfMjr3/nft.png",
+  "tokenId": 2,
+  "description": "Delicious pork directly from the production area.",
+  "nftContractAddress": "0x6a10f0a88c935d186076dfeaf7e859719848c1d4",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Umaiton",
+  "attributes": [
+    {
+      "trait_type": "Deliciousness",
+      "value": "100"
+    },
+    {
+      "trait_type": "Weight(g)",
+      "value": "300"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pork"
+    }
+  ]
+}

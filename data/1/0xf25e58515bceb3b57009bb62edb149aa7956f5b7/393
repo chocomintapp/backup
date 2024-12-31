@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcYimyNptBoLS4mz4oDTfRHkQ176qwJMyREWoKhRPi5CG/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 393,
+  "chainId": "1",
+  "name": "MOMIJI",
+  "description": "■モミジ",
+  "attributes": [
+    {
+      "value": "deep in the countryside",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Short(MIX1)",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye2(m)",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-kanazawa",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "LeeLee-Red",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

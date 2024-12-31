@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZndmLdMAgBUJbFp9Pu1TU9pjXbRst7AbUgLFgbxGvVpa/nft.png",
+  "nftContractAddress": "0x3e1e6638bfffd769e06aa33db703d7f190e33a51",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Wb#2",
+  "description": "Created by Team Wonder baby.",
+  "attributes": [
+    {
+      "value": "GRAY A",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "BODY A",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "BABY ZIPPER A",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "KATANA B",
+      "trait_type": "WEAPON"
+    },
+    {
+      "value": "BEANIE YELLOW",
+      "trait_type": "HAT"
+    },
+    {
+      "value": "CIGAR",
+      "trait_type": "MOUTH"
+    }
+  ],
+  "minted": ""
+}

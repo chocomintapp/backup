@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdTw4MkhySQtUJwnjhVYwPYrMSXFLftEHh5rN2w9wscR9/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "TA #16",
+  "description": "",
+  "attributes": [
+    {
+      "value": "A",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "T",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "A",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "ta",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

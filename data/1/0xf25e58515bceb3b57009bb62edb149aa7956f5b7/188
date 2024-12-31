@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdrSBzuGoS4ieDPBPVoGQpLr4GMZWd1WohsKKC8AG3beS/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 188,
+  "chainId": "1",
+  "name": "ALBIANA",
+  "description": "■アルビアナ",
+  "attributes": [
+    {
+      "value": "Deep-Orange",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Tail-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cry-BloodyPink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Autumn",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmerm7Jzdi3XGtsfU74P4rix8KKHF7UhL43YYn8VxHiCoY/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "#019-Yamanashi-",
+  "description": "#019-Yamanashi-",
+  "attributes": [
+    {
+      "value": "Gaia",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Chubu",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Yamanashi",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

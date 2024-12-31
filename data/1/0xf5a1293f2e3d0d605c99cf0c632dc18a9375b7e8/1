@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdWgCTvUE7RWFZxB1DJfQT7sGkQ4C9CXwYZxaMhFRoXmm/nft.jpg",
+  "nftContractAddress": "0xf5a1293f2e3d0d605c99cf0c632dc18a9375b7e8",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Test",
+  "description": "Test",
+  "attributes": [
+    {
+      "value": "Onsen",
+      "trait_type": "Hotel"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUz9NU3TRzrsyv5mk4FVjTNjixFvEdoHJ1iDyEYCr1Y8b/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmbbAfT2NTL2H7BAiTrgxUK2HgSUqF7Q7Xm2E7T4HuA5gF/nft.mp4",
+  "tokenId": 69,
+  "chainId": "1",
+  "name": "Herb #069",
+  "description": "Herb  \n好奇心とユーモラスに溢れている  \nCuriosity and humor abound.",
+  "attributes": [
+    {
+      "value": "Haus",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSpDCNgkiE4USYYBGezr7fvhQ5e3k3Vc2TfUqjoGyW8iq/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 344,
+  "chainId": "1",
+  "name": "FUKI",
+  "description": "■フキ",
+  "attributes": [
+    {
+      "value": "space-time transfer",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.2",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Egreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye7",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Ftype",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Round glasses-red Shining right",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Stuffed Zombie",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Ribon-Polkadots",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

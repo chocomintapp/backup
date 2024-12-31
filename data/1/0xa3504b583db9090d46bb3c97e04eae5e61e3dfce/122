@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNrQkVwc6TDWwFrA26s3KoYc2aKWnWQd5vo9fF9tcsteB/nft.png",
+  "tokenId": 122,
+  "description": "",
+  "nftContractAddress": "0xa3504b583db9090d46bb3c97e04eae5e61e3dfce",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #122",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Silver Ear Cuff"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Leather Choker"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigar"
+    }
+  ]
+}

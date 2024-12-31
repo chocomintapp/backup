@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdeSx2B5YrTk9Yr4cotDQJz94zG5P182SoF4AvYsQ1us4/nft.png",
+  "nftContractAddress": "0x7e00bee9ce676f3d83613b184caa6bf69c980ca9",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "CyberAnimeDOLL #003 Asada ( アサダ )_Model1",
+  "description": "#003 Asada ( アサダ )_Model1のPFPです。3DCGアバター1次販売購入者特典として発行。キャラクター背景設定の詳細は、Discord内に掲載。\n.\n#003 Asada ( Asada )_Model1 PFP, issued as a benefit for the primary 3DCG avatar sales purchaser. Details of the character background settings are available in the Discord.",
+  "attributes": [
+    {
+      "value": "Forest Recovery Herb Witch - 森の回復薬師",
+      "trait_type": "Ability - 能力"
+    },
+    {
+      "value": "Ursa - ウルサ",
+      "trait_type": "Autonomous mechanical pet - 自律型機械ペット"
+    },
+    {
+      "value": "Eternal Forest - 永遠の森 - エターナルフォレスト",
+      "trait_type": "Clan - クラン"
+    },
+    {
+      "value": "elf - エルフ",
+      "trait_type": "Entity concept - 存在概念_種族"
+    },
+    {
+      "value": "Green - みどり",
+      "trait_type": "Eye color - 目の色"
+    },
+    {
+      "value": "Green - みどり",
+      "trait_type": "Hair color - 髪色"
+    },
+    {
+      "value": "Half Up Bun Pigtails - お団子ツインテール",
+      "trait_type": "Hairstyle - 髪型"
+    },
+    {
+      "value": "Healing Herb Witch - 回復薬師",
+      "trait_type": "Occupation - 職業"
+    },
+    {
+      "value": "Healing Heart - ヒーリングハート",
+      "trait_type": "Ptaa name - PTAA名"
+    },
+    {
+      "value": "Wind spirit magic - 風の精霊魔法",
+      "trait_type": "Art of self-defense - 護身術"
+    }
+  ]
+}

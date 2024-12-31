@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNfXNgspFm261LP2FDbmrogr3pa5hFiPCvWLSaGNNvwrp/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 221,
+  "chainId": "1",
+  "name": "December 24 クリスマスローズ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "24",
+      "trait_type": "日"
+    },
+    {
+      "value": "私の心配をやわらげて",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "クリスマスローズ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

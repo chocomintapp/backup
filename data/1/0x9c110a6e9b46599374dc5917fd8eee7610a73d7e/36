@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcBJbz5wz58GKtV29YSwekxdD6fL7PqffHTK9h1hFQmyh/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "1",
+  "name": "POCO_Salome",
+  "description": "Salome \"SchemeAlias_#03\" Remake",
+  "attributes": [
+    {
+      "value": "Blond",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Frisky",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Halloween",
+      "trait_type": "EVENT"
+    },
+    {
+      "value": "Witch",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

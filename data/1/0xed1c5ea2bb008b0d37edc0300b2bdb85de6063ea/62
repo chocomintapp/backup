@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPQVr6jkPeNDqGTzo7kq2hVJuPBbw8xp2HXEvp5p9Z4jN/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 62,
+  "chainId": "1",
+  "name": "VARTA",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "red",
+      "trait_type": "skin"
+    },
+    {
+      "value": "stylish_red",
+      "trait_type": "eye"
+    },
+    {
+      "value": "green02",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_ear",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Taurus",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

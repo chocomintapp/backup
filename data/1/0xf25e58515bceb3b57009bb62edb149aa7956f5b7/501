@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ1bUGa4bhybh7jUeKMpPEd22X1xpXmtF88i13dQsWyA4/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 501,
+  "chainId": "1",
+  "name": "MISAKI",
+  "description": "■ミサキ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "VRgoggles-black(NFT)",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Black-SSP（W）",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Chihuahua",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Hat-D-white",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Asiatic peoples",
+      "trait_type": "TYPE"
+    }
+  ]
+}

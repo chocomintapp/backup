@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdyuXdomBiFtES2afP5VSLW8JvPom9XhSPc88GVx6jJAo/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "1",
+  "name": "MI #32",
+  "description": "",
+  "attributes": [
+    {
+      "value": "I",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "M",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "I",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "mi",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

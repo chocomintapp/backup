@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmekF7mPxYkJYMy4F3KKCXB1cGMbarvbNGvxsBjZZYdZSV/nft.png",
+  "tokenId": 1,
+  "description": "Test",
+  "nftContractAddress": "0x69f57b6d940e32543b972ced04e26f0ba10e8908",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Mei Test",
+  "attributes": []
+}

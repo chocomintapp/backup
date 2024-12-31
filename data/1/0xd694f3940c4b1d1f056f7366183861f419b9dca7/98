@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ1UK8HdD65NKiugvjChzCzdea1L48cRPn7i1xdmJ2YbE/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 98,
+  "chainId": "1",
+  "name": "August 23 ニチニチソウ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "23",
+      "trait_type": "日"
+    },
+    {
+      "value": "楽しい思い出",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ニチニチソウ",
+      "trait_type": "花"
+    }
+  ]
+}

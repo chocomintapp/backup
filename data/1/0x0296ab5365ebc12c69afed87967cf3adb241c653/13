@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWKnUCUgfCNjWZamj9p5A1fMf43ZWFHyi1WvTdzKvv74K/nft.jpg",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "七々瀬[Nanase]",
+  "description": "「お暑いですね、仰いで差し上げましょうか？」\n\nとてもやさしいお姉さんポジションの七々瀬。お団子屋さんの看板娘もしている。\n\n非常にしっかりとしており、周りから「完璧美人の団子屋の看板娘」と評されている。",
+  "attributes": [
+    {
+      "value": "波",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

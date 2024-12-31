@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZaaLHxAQoBwd3PAvFvdXeJkqdZx8WXPsuyGzyryhqMkw/nft.png",
+  "nftContractAddress": "0x581db54a07c524683563f8305d4ce7fc23dd6b0a",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Misorin#0003",
+  "description": "MiiiisoooooooooooooooooooooMisoMisoooooooooo",
+  "attributes": [
+    {
+      "value": "ETH",
+      "trait_type": "item"
+    }
+  ],
+  "minted": ""
+}

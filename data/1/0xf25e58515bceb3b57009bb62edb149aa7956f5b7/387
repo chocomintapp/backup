@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd9sSAqxHTtBrKWxxiofD9uczf26TMVJCZUedfRTbfp4n/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 387,
+  "chainId": "1",
+  "name": "TSUKI",
+  "description": "■ツキ",
+  "attributes": [
+    {
+      "value": "half-broken2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-Big",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Lolitahair",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0004Eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-PinkblackH",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Mitama-Momo(N)W",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

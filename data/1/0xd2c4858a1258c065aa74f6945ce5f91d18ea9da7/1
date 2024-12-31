@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQhzodku1g71qewZkL8hnK2i8fyDujD7o6VkC7Xtfe4Hp/nft.jpg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xd2c4858a1258c065aa74f6945ce5f91d18ea9da7",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Smile",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

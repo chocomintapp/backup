@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNiWC4hZ53bqm6ggCKBY9yREvYp4Lm46vkNz66GREer4U/nft.gif",
+  "tokenId": 1,
+  "description": "we love choco",
+  "nftContractAddress": "0x5a912ab8704fcc9f95175698c13af0f2fbef1fbd",
+  "animationUrl": "https://ipfs.io/ipfs/QmXBDc9279vznWVr7xcX5SwHaDwj3puJwBiSxBYgykVk2N/nft.mp4",
+  "chainId": "1",
+  "name": "boom"
+}

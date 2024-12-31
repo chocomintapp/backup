@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZuyRDeFXsqJkfu7Fw663mtcQLW6TG4jVenRyyM45XFP7/nft.jpg",
+  "nftContractAddress": "0x9da659dae0b0041c25214e3bd55d388d2702a7f0",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "HELL'S KITCHEN",
+  "description": "\"......Yam......Yam....\"",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

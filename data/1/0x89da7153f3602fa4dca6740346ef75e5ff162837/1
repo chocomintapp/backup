@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPyJqMKHfp52jCJcMFuH653JEYyrxktPpTq6WE3C5R5LQ/nft.png",
+  "nftContractAddress": "0x89da7153f3602fa4dca6740346ef75e5ff162837",
+  "animationUrl": "https://ipfs.io/ipfs/QmUwRfLKZZA1CtVW8GWCQUM6r1uP1mAmuXBqpBAUWU56Bb/nft.mp4",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "slowly days-CG Campers",
+  "description": "曲のタイトル：slowly days   \n「くるきゃん×ボカロ」。CoolGirl Campersのイラストに、おらさんが楽曲を提供してくださいました。",
+  "attributes": [
+    {
+      "value": "Ice-skating",
+      "trait_type": "HOBBY"
+    },
+    {
+      "value": "Lantern",
+      "trait_type": "FAVORITE"
+    },
+    {
+      "value": "Ora",
+      "trait_type": "WITH"
+    }
+  ],
+  "minted": "✅"
+}

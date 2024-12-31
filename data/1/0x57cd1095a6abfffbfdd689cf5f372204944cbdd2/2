@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT7MvW9bHBkz2H33nrf8VoR5rQwdHiyxSRtSMmph4UyQ3/nft.png",
+  "nftContractAddress": "0x57cd1095a6abfffbfdd689cf5f372204944cbdd2",
+  "animationUrl": "https://ipfs.io/ipfs/QmT7MvW9bHBkz2H33nrf8VoR5rQwdHiyxSRtSMmph4UyQ3/nft.png",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Rabbit Girl #0",
+  "description": "🐰",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

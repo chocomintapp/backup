@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWzKDrHcWYQDkWYQcuGWtSapXL4yamryk8zmYfqAaY3em/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "Beach Borne Bae #38",
+  "description": "Beach Borne Bae #38\nInspired by Nembrotha cristata / トサカリュウグウウミウシ",
+  "attributes": [
+    {
+      "value": "Double Bun",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "T-shirt",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Green",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Sea Slug",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

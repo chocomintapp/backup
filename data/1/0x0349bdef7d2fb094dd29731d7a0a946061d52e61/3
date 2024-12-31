@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVoUVMPTGYQAj9tXVRkTZrJ25zFXFQ3VbC1RjtxAQX4tL/nft.jpg",
+  "tokenId": 3,
+  "description": "KIRIE Maps #1 MAP - Den lille havfrue DD 55.6911, 12.5949 Langelinie, 2100 København Ø MapData ©︎ OpenStreetMap Contributors. aikautau",
+  "nftContractAddress": "0x0349bdef7d2fb094dd29731d7a0a946061d52e61",
+  "animationUrl": "https://ipfs.io/ipfs/QmXfwMZaA5Ysi9tV7oq6hSmssAhXP3PmngDdkCRiEykpNE/nft.glb",
+  "chainId": "1",
+  "name": "#1 | Den lille havfrue",
+  "attributes": []
+}

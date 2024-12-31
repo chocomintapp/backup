@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmevLXBe1YEWcBVr3MvndcahS6U2h5ztcqVkfwRyfiXVf7/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "1",
+  "name": "POPET No.36",
+  "description": "【物語】\n\n全てを捧げた。\n私の価値をまだ誰も知らない。\n失敗は許されない。",
+  "attributes": [
+    {
+      "value": "バレリーナ",
+      "trait_type": "job"
+    },
+    {
+      "value": "カモミール・ピルエット",
+      "trait_type": "skill"
+    },
+    {
+      "value": "オペラハウス",
+      "trait_type": "origin"
+    },
+    {
+      "value": "神経質",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

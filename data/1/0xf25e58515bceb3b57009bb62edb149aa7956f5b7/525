@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTixJ8ABEpTvRS4LA92kESUsuwHZjNsEm5MMwc2zCTTWt/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 525,
+  "chainId": "1",
+  "name": "TINAMI",
+  "description": "■チナミ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Catstyle",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Curling-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "pankopa-foodie2",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "asobineko",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc9wKY3WX5Bvs5DPoJXpJ2NYF6uYpvjwYCGje4fQGqwuW/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmViG8LEqfAe7KfxkyTPKcg7feEmw1y4KjzRdzejhv8fi3/nft.mp4",
+  "tokenId": 379,
+  "chainId": "1",
+  "name": "THE JEWEL #379",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Dumortierite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

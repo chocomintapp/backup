@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdQdjATUGGXoxTgRHjC9MLzxDsxycdFghiD4x1JpbCQ9w/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "June 2 フィーバーフュー",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "2",
+      "trait_type": "日"
+    },
+    {
+      "value": "不死",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "フィーバーフュー",
+      "trait_type": "花"
+    }
+  ]
+}

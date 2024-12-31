@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS8AC4WTxVoFkT7WewMvLjjJLceddHfwqgk7Qkz9bPbvs/nft.png",
+  "nftContractAddress": "0x945c4ac0c4ab8556acfb71d34f97626647576c07",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "Samurai Menbou #14",
+  "description": "This is one in a series of generative NFT art \"Samurai Menbou\" minted in Ethereum.",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Suzu",
+      "trait_type": "NAME"
+    }
+  ]
+}

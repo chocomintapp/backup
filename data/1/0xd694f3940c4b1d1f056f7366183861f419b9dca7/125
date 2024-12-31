@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma9BbE1qfaTc5wwy44SZWKdkNEQriEbkyd9gvEPLg48sq/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 125,
+  "chainId": "1",
+  "name": "September 19 スカビオサ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "19",
+      "trait_type": "日"
+    },
+    {
+      "value": "風情",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "スカビオサ",
+      "trait_type": "花"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT3E9AiMGeXY1XRjKpzprt5kGbKagbB2E9zrKVZKF9cuD/nft.png",
+  "nftContractAddress": "0x25147e135da46f0fb62850c24137b68d7ffc7d07",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "BE KOBE NFT CREATIVE AWARD #14",
+  "description": "第1回 BE KOBE NFT CREATIVE AWARD Discordスタンプ部門 入賞作品\n\n【タイトル】\n肉いこうべ\n\n【制作者】\nmackoto_art 様\n\n【コンセプト】\n神戸ビーフ、焼肉、すき焼きなどの肉料理を食べに神戸にいこうべ、と食べたくなったときに使うスタンプです。もちろん食べた後にも使ってください！",
+  "attributes": [
+    {
+      "value": "Discordスタンプ",
+      "trait_type": "部門"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVjAt1msQVzvBrtCdD8qBzSVCZqr3SqLELmLfnmsqojBN/nft.png",
+  "nftContractAddress": "0x1235ea10331fd6ecd3fd1bada7e28a8bd5fd55c9",
+  "animationUrl": "https://ipfs.io/ipfs/QmfLbkr3VXFrmq5mnVYoaTm3y2sC9uEENpvkBWPnob94R8/nft.wav",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "ChromeMainNet",
+  "description": "ChromeMainNet",
+  "attributes": []
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcUav5rAsyCok8Lx3CjrB65AfBFHXwPWAoEazBZiNp6Hn/nft.gif",
+  "nftContractAddress": "0xe59d6a2d32113de5dd99ba564bbffc92d135d7d8",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "#0019 java curry with thick vegetables",
+  "description": "京都で創業40年以上のパン屋チロル。\nこちらのパンを使ったNFTアート『Chirol-BreadHeadFriends.-』です。\n\nGraphics Interchange Format\n1024×1024px",
+  "attributes": [
+    {
+      "value": "series001",
+      "trait_type": "Series"
+    },
+    {
+      "value": "java curry with thick vegetables",
+      "trait_type": "BreadType"
+    },
+    {
+      "value": "anim005",
+      "trait_type": "Animation"
+    }
+  ],
+  "minted": "✅"
+}

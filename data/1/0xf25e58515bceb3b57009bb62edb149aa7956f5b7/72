@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSEaKNVuuAztmbak3PNEBmnwo2nfKYKRUZ3eWCXfV4XCL/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 72,
+  "chainId": "1",
+  "name": "RINA",
+  "description": "RINA is a rival of Imani.\n\nShe is as passionate about working in the fields as Imani.\n\nShe struggles every day to make Iimani's crops, which are sold all over the world, into Rina's. She has many plans to kick out Iimani, but she is not so successful because she has a gentle heart.\n\nShe tries various schemes to kick Imani's butt, but because of her gentle nature, she is not able to kick Imani's butt very well.\n■リナ\nイマニをライバル視しているリナ。\n\nイマニに負けないくらい畑仕事に熱中している。\n\n世界中に出回るイイマニ産の農作物をリナ産にしたいと日々奮闘中。\n\nイマニを蹴落とすために色々画策するも、性根が優しいため、あまりうまく蹴落とすことができない。",
+  "attributes": [
+    {
+      "value": "Deep-Skyblue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-UBlue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees-camouflage",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "HappyCarrot",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Ribon-GrOr",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

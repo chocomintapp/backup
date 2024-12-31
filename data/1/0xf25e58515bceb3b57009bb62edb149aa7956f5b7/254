@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbGHaZTa8p2yLie28Tz9TZCEkPSKEnYhxyDLRvDFe9sSw/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 254,
+  "chainId": "1",
+  "name": "ADELINE",
+  "description": "■アデリン",
+  "attributes": [
+    {
+      "value": "Light-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks2",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "CurlingTsuno-Egreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sad",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WBW",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Archangel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

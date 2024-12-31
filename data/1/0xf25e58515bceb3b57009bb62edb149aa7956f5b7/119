@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUMvF61SZhCrKXz31TFVZJjZApaNsxLSKkQEv25cPXmXe/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 119,
+  "chainId": "1",
+  "name": "SAMI",
+  "description": "■サミ",
+  "attributes": [
+    {
+      "value": "GOLD",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees-Pink(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Blue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury-Green",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Pink",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

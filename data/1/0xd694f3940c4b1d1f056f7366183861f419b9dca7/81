@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfTVfAxWvyadEXv4erRgj2fTr9CwtqBWSgqu7rZeegMkN/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 81,
+  "chainId": "1",
+  "name": "August 6 チューブローズ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "6",
+      "trait_type": "日"
+    },
+    {
+      "value": "危険な楽しみ",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "チューブローズ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

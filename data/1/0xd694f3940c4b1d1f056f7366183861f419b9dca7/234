@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXY75zCbXmG3ML2GRdHp7z5GGj48D1G4n3SeKpTXYPcMV/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 234,
+  "chainId": "1",
+  "name": "January 6 エビネ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "月"
+    },
+    {
+      "value": "6",
+      "trait_type": "日"
+    },
+    {
+      "value": "真実",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "エビネ",
+      "trait_type": "花"
+    }
+  ]
+}

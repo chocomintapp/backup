@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfQdQcsMJrcvmoGjNKiADnmazFXrXFpzqnDbeeA1qQ1Nm/nft.png",
+  "tokenId": 35,
+  "description": "\"Dullahan\" = \"Golem\" x \"Zombie\" Anthy Harada\n「デュラハン」メイン種族ゴーレム、サブ種族ゾンビ。名前はアンシー原田。\n\n首の無い身体が生首を持っている姿のモンスター。首なし騎士としてよく知られる。実は、身体が夫で首が妻。仲睦まじい夫婦モンスターなのだが、1体のモンスターと間違われることが多い。夫にゾッコンラブ。\n\nA monster in the form of a headless body holding a fresh head. Often known as a headless knight. In fact, the body is the husband and the head is the wife. They are often mistaken for one monster. She is madly in love with her husband.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#059 \"Dullahan\" Anthy Harada",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Golem"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

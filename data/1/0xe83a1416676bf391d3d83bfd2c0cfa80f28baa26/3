@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmarmrS5WA2dNPfEBtniQfEr8Gy9htix5cSskU5XYy7A2T/nft.PNG",
+  "tokenId": 3,
+  "description": "Neptune aliens. He is extremely big. He can fly freely in the sky.\n<br>\n海王星のエイリアン。とてつもなく体が大きい。自由自在に空も飛べるアベさん。",
+  "nftContractAddress": "0xe83a1416676bf391d3d83bfd2c0cfa80f28baa26",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Umeko Space Colony NFT #103 Ave",
+  "attributes": [
+    {
+      "trait_type": "Helmet",
+      "value": "Clear octagon"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Neptune alien"
+    },
+    {
+      "trait_type": "Space suit type",
+      "value": "Clear"
+    },
+    {
+      "trait_type": "Relationship with Umeko",
+      "value": "Space friends"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Black mascara"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Open mouth"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Lightning belt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Jade necklace"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Body paint"
+    }
+  ]
+}

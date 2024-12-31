@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNoknyrEbofAQkYqNwa6ReJZG7popdfJoDeDmkqy5QjW4/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmXudcmtXTAqFuaE3qCQr3WaTcr9hb2a1665cvjZWtzBRD/nft.mp4",
+  "tokenId": 586,
+  "chainId": "1",
+  "name": "THE JEWEL #586",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Clear Purple",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Purple Copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

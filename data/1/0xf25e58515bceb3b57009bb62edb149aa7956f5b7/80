@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcPYchMAf6rjGU95nuaF1NgUeEV4BGi3p9xYdyumWUGvS/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 80,
+  "chainId": "1",
+  "name": "ELIJAH",
+  "description": "She hides the fact that she is a Meta from everyone around her, but if she is found out, she is a dangerous guy who will destroy the whole city.\n\nElijah, who longs to be a fragile girl, usually speaks to you in a cat-like voice.\n\nHer latest craze is hunting angels.\nHe catches angels like he catches insects.\n■エライジャ\n\n彼女は周囲に自分がメタ族だというのを隠しているが、もしバレた時は、その街ごと破壊してしまう危ない奴。\n\nか弱い女の子に憧れているエライジャは普段、猫なで声のような声で話しかけてくる。\n\n彼女の最近のマイブームは天使狩り。\n虫を捕まえてくるかのように天使を捕まえてくる。",
+  "attributes": [
+    {
+      "value": "Bright-Green",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Red",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Shine-Orange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees-Red",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-3EYES",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Angel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Meta tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

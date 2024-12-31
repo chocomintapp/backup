@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaQuchVYA7sQ4RAjoUQxP8qxKoCLAM8UvWwrSyeb49ZBn/nft.png",
+  "nftContractAddress": "0xf56c7a6fc8f9d74386dea91b5341645fde45d823",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "CoolGirl Weapons #001",
+  "description": "CoolGirlNFT×武器のファンアート作品",
+  "attributes": [
+    {
+      "value": "guns",
+      "trait_type": "Weapons"
+    }
+  ],
+  "minted": "✅"
+}

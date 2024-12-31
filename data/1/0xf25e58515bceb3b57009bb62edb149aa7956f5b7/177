@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYS9oRtDXxr38KY4yzuVykbLDeT4iEa1cGLJUen3awZUc/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 177,
+  "chainId": "1",
+  "name": "NATSUMI",
+  "description": "■ナツミ",
+  "attributes": [
+    {
+      "value": "Ninja3-Pastel",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllBlack",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Matchingcloth-06",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Piyochi-shock",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "none",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

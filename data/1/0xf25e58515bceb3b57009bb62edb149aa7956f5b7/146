@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW6LkHBdnQw9QQRYiHaWRzDJfD7Pn3M3ixnAj9xAPpDQr/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 146,
+  "chainId": "1",
+  "name": "KATELYNE",
+  "description": "■カテリーヌ",
+  "attributes": [
+    {
+      "value": "Rainbow-Mix3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Deeppink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Purple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Winter",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "EyeBall3",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

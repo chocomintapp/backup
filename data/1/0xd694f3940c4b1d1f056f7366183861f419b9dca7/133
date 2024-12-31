@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSSJkD3DXzjBRWTLiPvRFMtEFM5RNtexxBuU2mTs1qhCm/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 133,
+  "chainId": "1",
+  "name": "September 27 サルビア（紫）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "27",
+      "trait_type": "日"
+    },
+    {
+      "value": "尊敬",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "サルビア",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

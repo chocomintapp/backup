@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeuHBYDrEojMvmQg173Ewr4USi2YYEd2Rz43g6cw4dm3r/nft.png",
+  "tokenId": 3,
+  "description": "",
+  "nftContractAddress": "0x1502c2cfff5f5a1a429dd2a1a445fdba280a4cfc",
+  "animationUrl": "https://ipfs.io/ipfs/QmeuHBYDrEojMvmQg173Ewr4USi2YYEd2Rz43g6cw4dm3r/nft.png",
+  "chainId": "1",
+  "name": "comming soon",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeV9kRYAZZwzo8DkxqDnUf7kg8qkLrWK6oh2B9b947ynZ/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmSfNDgDV6hTekZTUcaq7eqKoeJi8uPmc1XZAmQaY953JY/nft.mp4",
+  "tokenId": 210,
+  "chainId": "1",
+  "name": "THE JEWEL #210",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Demantoid Garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Palladium",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

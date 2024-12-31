@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT4WxNdbkJPVKgugCeMArnQMQ7XnjiDdgezmACiBfvWn3/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "MocoPFP",
+  "description": "SNSアイコン用非売品NFT",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

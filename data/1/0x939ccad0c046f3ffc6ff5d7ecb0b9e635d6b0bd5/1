@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPAcReBHpq8Y5U8zw672nvoLbdB4cph93M1q6z3HGhijN/nft.jpg",
+  "tokenId": 1,
+  "description": "This is BlockBase Genesis #1",
+  "nftContractAddress": "0x939ccad0c046f3ffc6ff5d7ecb0b9e635d6b0bd5",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "BlockBase Genesis#1"
+}

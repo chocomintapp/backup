@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTnokXxYwQ5UQmwPUkkejXgYCA5SJNjRyQNfDCCQX17aj/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWX7Bb7nb3LVCmkSf6zZo26v5mZNKsQNVniKqfEuJDkUu/nft.mp4",
+  "tokenId": 128,
+  "chainId": "1",
+  "name": "THE JEWEL #128",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "ruby",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

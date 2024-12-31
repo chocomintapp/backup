@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeZeSorXcWa9HDUVUk3qpdCWPeMzpGdXU8XVN2yt7vjjv/nft.mp4",
+  "tokenId": 1,
+  "description": "This is 3D drawing in Virtual Relity Space.\nYatagarasu is a three-legged crow that appears in Japanese mythology. It is called the God of Guidance. \nMay your path be wonderful and full of possibilities, at all times and in all places.\n\nVR空間に３Dの絵を描いています。\n八咫烏は日本神話に登場する三本の足を持つカラスです。導きの神と言われています。いつの世でもどんな場所でも、あなたの進むべき道が可能性に満ち溢れた素晴らしいものでありますように。\n\nLIMITED 1/1",
+  "nftContractAddress": "0x3eb39fab23a7fb724080ed8c3b0bc4c5201e223c",
+  "animationUrl": "https://ipfs.io/ipfs/QmeZeSorXcWa9HDUVUk3qpdCWPeMzpGdXU8XVN2yt7vjjv/nft.mp4",
+  "chainId": "1",
+  "name": "Tokyo Yatagarasu"
+}

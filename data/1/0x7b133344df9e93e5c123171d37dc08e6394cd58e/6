@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUmAPhriEbYsHxRgNw7Kpj4jGP1tVdKAgeAjLpnN7is42/nft.png",
+  "nftContractAddress": "0x7b133344df9e93e5c123171d37dc08e6394cd58e",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Black panther #066",
+  "description": "This collection is inspired by the graffiti of a young boy playing in a back alley. 「Our playfield is now too small. We draw to play in the last playfield. Our town will be beautifully revitalized from now on. This is our memory.」 \n路地裏で遊ぶ少年の落書きをモチーフにしたコレクション。\n1/1art",
+  "attributes": [
+    {
+      "value": "Black panther ",
+      "trait_type": "Animals"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Steel door",
+      "trait_type": "Wall"
+    },
+    {
+      "value": "Nose piercing",
+      "trait_type": "Accessory"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNSx9fXmPKEx7hvcPHrrxKx2MYeZUuJnZx2keReqcUXKv/nft.png",
+  "tokenId": 47,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #47",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "White"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Big Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil make-up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_2"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Rainbow Bell"
+    }
+  ]
+}

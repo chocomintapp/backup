@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVECZYmX49JN7bTBxnVDPPZtNxhMzDJhgBq2r6RzSJqtH/nft.png",
+  "tokenId": 1205,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1205",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rose Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cutout Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Pacifier"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Baby Bottle"
+    }
+  ]
+}

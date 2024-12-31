@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmexbUzGsmXa9898L3LSuHLQQF8WsdqJ2yEsz6oZFtJxhB/nft.png",
+  "tokenId": 12,
+  "description": "",
+  "nftContractAddress": "0x7e21f24a0253d67aa54d1ce0a12203f51dbd6ff3",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Punk Monkeys #12",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Male"
+    }
+  ],
+  "minted": ""
+}

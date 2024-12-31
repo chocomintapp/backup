@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTEAhSaXUJ9Uo8SoF44P5ZeLnv7RmyNtmAkSNowstkXQV/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 61,
+  "chainId": "1",
+  "name": "July 17 カンナ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "7",
+      "trait_type": "月"
+    },
+    {
+      "value": "17",
+      "trait_type": "日"
+    },
+    {
+      "value": "情熱と快活",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "カンナ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

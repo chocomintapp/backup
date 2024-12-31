@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRUU5D85H1oYgsvAxc9owFZHuzJ78WpehS6y5JtLuwWbp/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 41,
+  "chainId": "1",
+  "name": "#041-Saga-",
+  "description": "#041-Saga-",
+  "attributes": [
+    {
+      "value": "Gaia",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kyushu",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Saga",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

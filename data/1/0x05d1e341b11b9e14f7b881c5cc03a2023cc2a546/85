@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYWwKsuXEh9HoGWVphowtagCV7CpqYRobjk5bHmxRdk2s/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmXSCwtE2G3LjafSGznNhAD9qBFNRRemh8WiT6S3TohY7f/nft.mp4",
+  "tokenId": 85,
+  "chainId": "1",
+  "name": "Erich #085",
+  "description": "Erich  \nおっちょこちょいな革命児  \nA carefree revolutionary",
+  "attributes": [
+    {
+      "value": "Haus",
+      "trait_type": "TYPE"
+    }
+  ]
+}

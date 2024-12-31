@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNnbDcKSNLyCL831JbnCogbCyTggyADj92Ei6qMAJ1Z55/nft.png",
+  "nftContractAddress": "0x25147e135da46f0fb62850c24137b68d7ffc7d07",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "BE KOBE NFT CREATIVE AWARD #16",
+  "description": "第1回 BE KOBE NFT CREATIVE AWARD 『王子公園ハイム』マクアート部門 応募作品\n\n【タイトル】\nBE KOBE\n\n【制作者】\nOkowatabetaina 様\n\n【コンセプト】\n神戸の夜空に光り輝くBE KOBE✨",
+  "attributes": [
+    {
+      "value": "『王子公園ハイム』マクアート",
+      "trait_type": "部門"
+    }
+  ],
+  "minted": "✅"
+}

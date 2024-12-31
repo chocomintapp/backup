@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTuG2gGHrjtZuEk1QoJKmphfCMBrLn8q5AV3NzpWjM5EK/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 115,
+  "chainId": "1",
+  "name": "POCO_Moa",
+  "description": "Moa-Chan",
+  "attributes": [
+    {
+      "value": "Eccentric",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Ghost",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

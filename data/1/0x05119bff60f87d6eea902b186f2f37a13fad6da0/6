@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZL5anxeC59qypk5tTko5hzXy9i3EiAK6Cx5JPkCjGJGv/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "POPET No.6",
+  "description": "【物語】\n\nこの街では日夜なにか起こる。\nそれを届けるのがボクの仕事だ。\n「なんだって？　これは大スクープの予感」",
+  "attributes": [
+    {
+      "value": "カメラマン",
+      "trait_type": "job"
+    },
+    {
+      "value": "ポッピンリサーチ",
+      "trait_type": "skill"
+    },
+    {
+      "value": "放送局",
+      "trait_type": "origin"
+    },
+    {
+      "value": "アグレッシブ",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmekxH6MF5x7uM7AWM1zp8UvR5o5rZZ2mVzq7rAQY4nmii/nft.png",
+  "nftContractAddress": "0xb78410882a13e21e28578de1298fd45b888c0337",
+  "animationUrl": "",
+  "tokenId": 2682,
+  "chainId": "1",
+  "name": "",
+  "description": "",
+  "attributes": [
+    {
+      "value": "BLUE PURPLE",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "沙土煮尊",
+      "trait_type": "SIGNATURE STAMP"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWX5QPPB8GMf6MWVeWBRZ2Yr4MT7CtmQAsHcwpk9WsPfD/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 77,
+  "chainId": "1",
+  "name": "JASMIN",
+  "description": "JASMIN is from everlasting summer.\n\nShe made her debut in the movie \"The Tailwind and the Headwind\".\n\nShe has appeared in many famous movies and is now a top star recognized by the world.\n\nHer sexy dance moves and beautiful voice attract people all over the world.\n\nHer cat Poppy is always with Jasmine.\n■ジャスミン\n常夏出身のジャスミン。\n\n映画「追い風と向かい風」でデビュー。\n\n数々の名作に出演し、今や世界が認めるトップスター。\n\nセクシーなダンスと、美声で世界中を魅了している。\n\n愛猫のポピーはいつもジャスミンと一緒。",
+  "attributes": [
+    {
+      "value": "Dot2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Star&tear1",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Green",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sunglass-B2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Redblack(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-Flower",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Poppy",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

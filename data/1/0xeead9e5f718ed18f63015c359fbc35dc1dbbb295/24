@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW1mKZZFT6o1kXghKRy1CyLb2jw8Ec7cpvh3CS7u6KPdH/nft.jpg",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "Tokyo Expanding People 2099 #20 Poverty",
+  "description": "[日本語]\n\n鎖は様々な場面で用いられる。\n\n何か重量のある物を吊るしあげたり、破壊できないよう縛ったりと。\n\n身近に存在を感じられない感覚、メディアを通して知る海の向こうに暮らす人々のリアルさは山霧以上に不透明だ。\n\n我々からすれば唯一の窓口であるはずのスパチャシステムは彼らの生活向上のために本当に機能しているのだろうか。\n\n権力のクサリが彼らの生活を非常線で囲っているのか、はたまた我々がメディアやネットに縛られているだけなのだろうか。\n\n--------------------------------------------------------------\n\n[En]\n\nChains are used in a variety of situations.\n\nThey are used to hang heavy objects or bind them so that they cannot be destroyed.\n\nThe sense of not being able to feel their presence close at hand, and the reality of people living beyond the sea that we know through the media is more opaque than mountain mist.\n\nIs the Social tipping, which from our point of view should be the only window into their lives, really working to improve their lives?\n\nAre the chain of power surrounding their lives with a cordon, or are we just bound by the media and the Internet?",
+  "attributes": [
+    {
+      "value": "Poverty",
+      "trait_type": "Manifesto"
+    }
+  ],
+  "minted": "✅"
+}

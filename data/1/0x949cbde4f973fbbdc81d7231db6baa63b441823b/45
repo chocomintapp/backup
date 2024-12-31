@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYYxivf7yotdvKDotsKXeRZDgyY8XtSXCF3DBstW8j1bq/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 45,
+  "chainId": "1",
+  "name": "RO #45",
+  "description": "",
+  "attributes": [
+    {
+      "value": "O",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "R",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "O",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "ro",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

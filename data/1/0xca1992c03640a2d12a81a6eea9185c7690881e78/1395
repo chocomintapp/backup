@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme5mk9TLdrgLjqMmH2bQu2sDMarY6TycRzkqDrYCxEmVC/nft.png",
+  "tokenId": 1395,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1395",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Faint Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Gold Dog Tag"
+    }
+  ]
+}

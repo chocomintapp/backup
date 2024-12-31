@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP867MDJZsAfP23AWsydGKu9BZ5LsbiVHErDPN6VppKjb/nft.gif",
+  "nftContractAddress": "0x8618ed4546797fb910120e9c718926bdd8ed0375",
+  "animationUrl": "https://ipfs.io/ipfs/QmP867MDJZsAfP23AWsydGKu9BZ5LsbiVHErDPN6VppKjb/nft.gif",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "VEN icon",
+  "description": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

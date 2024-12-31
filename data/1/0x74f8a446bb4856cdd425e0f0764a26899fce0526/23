@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfY6qtciaDavErsQAMR13iHdF8GbmaztxYF6xwRiN6NJ5/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "POCOEMOJI_syobon",
+  "description": "Chloe-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

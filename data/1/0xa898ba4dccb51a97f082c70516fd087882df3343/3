@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRPrT91dH6yGkBHZ9eAaaXbQrT7ECL8kGiKdnLWcHnc3h/nft.png",
+  "tokenId": 3,
+  "description": "Elemental Frog researcher.",
+  "nftContractAddress": "0xa898ba4dccb51a97f082c70516fd087882df3343",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Elemental Frogs Successor #0002",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "HAIR",
+      "value": "MIDDLE PARTED HAIR"
+    },
+    {
+      "trait_type": "EMOTION",
+      "value": "FREE"
+    },
+    {
+      "trait_type": "HEADGEAR",
+      "value": "BLUE LINK DEVICE #2"
+    },
+    {
+      "trait_type": "ELEMENT SUIT",
+      "value": "WATER SUIT BASIC #2"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWoipkz4q6wkLyXaAeYehpNvZshgf4tJUYBemaExAhNLj/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "1",
+  "name": "Beach Borne Bae #54",
+  "description": "Beach Borne Bae #54\nInspired by Sperm whale / マッコウクジラ",
+  "attributes": [
+    {
+      "value": "Bob",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "School girl",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Marine Mammal",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

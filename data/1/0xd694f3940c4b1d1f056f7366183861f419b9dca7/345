@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmde1fcWknxqq5DAEUToJwxg3AMtSwVEY16j9LGHoUWfM4/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 345,
+  "chainId": "1",
+  "name": "April 26 サクラソウ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "4",
+      "trait_type": "月"
+    },
+    {
+      "value": "26",
+      "trait_type": "日"
+    },
+    {
+      "value": "若い時代と苦悩",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "サクラソウ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

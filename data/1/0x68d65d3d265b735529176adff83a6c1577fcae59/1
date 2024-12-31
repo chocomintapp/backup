@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZtrt6d8BQGHjqaVAyHkwHKiNJrTPnRQnTaRqD7KqgYmH/nft.png",
+  "tokenId": 1,
+  "description": "Parody of famous manga's character and CryptoPunks.",
+  "nftContractAddress": "0x68d65d3d265b735529176adff83a6c1577fcae59",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "KurapikaPunks"
+}

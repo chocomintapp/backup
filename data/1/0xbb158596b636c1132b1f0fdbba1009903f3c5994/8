@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcfpJxe9SC7CmeA9qys17bqfnWuqN6hHJuuaiVn8KyZoM/nft.png",
+  "nftContractAddress": "0xbb158596b636c1132b1f0fdbba1009903f3c5994",
+  "animationUrl": "https://ipfs.io/ipfs/QmcfpJxe9SC7CmeA9qys17bqfnWuqN6hHJuuaiVn8KyZoM/nft.png",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "NFTJPN Official #8",
+  "description": "NFTJPN official NFT #8 created exclusively for the sponsor of the 10th Curation Event on August 13, 2022. - Title: LINK Producer: MYINK @MYINK_world Artist: snail @meaw0w0",
+  "attributes": [
+    {
+      "value": "MYINK",
+      "trait_type": "PRODUCER"
+    },
+    {
+      "value": "snail",
+      "trait_type": "ARTIST"
+    },
+    {
+      "value": "August 13, 2022",
+      "trait_type": "DATE"
+    },
+    {
+      "value": "10th Curation",
+      "trait_type": "EVENT"
+    }
+  ]
+}

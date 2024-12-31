@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfX7uhfqHSJYi6Q2V9rGvo81D3Xs2Zk2wckkkhu8X1u9H/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 352,
+  "chainId": "1",
+  "name": "May 3 ルピナス",
+  "description": "",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "3",
+      "trait_type": "日"
+    },
+    {
+      "value": "多くの仲間",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ルピナス",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

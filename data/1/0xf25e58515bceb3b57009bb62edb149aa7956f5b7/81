@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSzKLr6VZ98F4WF1cqDnhquvWwfun5YVvNJZkP8S5cvug/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 81,
+  "chainId": "1",
+  "name": "DENDY",
+  "description": "DENDY lives peacefully in a remote backcountry.\n\nHe rarely speaks to people, and if he speaks more than 300 words, his throat dries up.\n\nThere is a rumor that if you give him 7 saury, he will give you a saury of rainbow colors.\n■デンディー\n人里離れた奥地で平和に過ごすデンディー。\n\n人とほとんど会話をしない生活なので300文字以上喋ると喉が枯れてしまう。\n\n7匹のサンマを渡すと、虹色のサンマをくれるという噂がある。",
+  "attributes": [
+    {
+      "value": "Ninja2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Green",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-UEmerald",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees-camouflage(G)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Rainbowsury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "HeadbandｰGG",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "The Greens",
+      "trait_type": "TYPE"
+    }
+  ]
+}

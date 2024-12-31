@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS6wL9f9DkWJTtkc8KjzkidMoRhsVLtoqzf3j2y3KtYh9/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 61,
+  "chainId": "1",
+  "name": "YUI",
+  "description": "YUI loves to tan.\n\nAfter my grandfather told me, \"You'll get a tan working in the fields, right?\"\n\nAfter her grandfather told her that, the cost of tanning salons became ridiculous.\n\nNow she helps her grandfather with his farm work every day after school.\n■ユイ\n\n日焼けするのが大好きなユイ。\n\n「畑仕事は日焼けするぞい？」\n\nと、祖父に言われてからは、日焼けサロン代がバカバカしくなる。\n\n今では学校帰りに毎日のように、祖父の農作業を手伝っている。",
+  "attributes": [
+    {
+      "value": "Dot3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Star&tear1",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Bluepink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-Zombiegreen",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-BBW(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-N",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-happy",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

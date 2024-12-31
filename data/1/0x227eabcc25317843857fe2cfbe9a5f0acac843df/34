@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQdTgxLs78My9T1fXrUQ5ydDnKuZyEZkxEFB9f6jd4Qm5/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "1",
+  "name": "Beach Borne Bae #62",
+  "description": "Beach Borne Bae #62\nInspired by Frosted nudibranch / フロストウミウシ",
+  "attributes": [
+    {
+      "value": "Double Bun",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "See Through",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Sea Slug",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

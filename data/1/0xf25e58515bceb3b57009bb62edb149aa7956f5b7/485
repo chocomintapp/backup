@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ6VREx89kuKgQ3PYDBMfkjARDznDThm7HprU7MV9G79z/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 485,
+  "chainId": "1",
+  "name": "EDEN",
+  "description": "■エデン",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.1",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Mix2",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-yokohama",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

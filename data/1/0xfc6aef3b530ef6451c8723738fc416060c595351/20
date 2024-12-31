@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWDMJVQfJUAQzpd6dGHqoa2udmm4H8fo8gUtQoLtPBZ59/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "Doge Flying Jars in the Sandy Wind",
+  "description": "PNG 2048x2048  \nTotal supply 1/1  \nGreat Mother Doge is watching over her kids flying from wallet to wallet.  ",
+  "attributes": [
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "Face",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "Mini",
+      "trait_type": "genaration"
+    }
+  ]
+}

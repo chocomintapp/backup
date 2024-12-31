@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQkSfqStRnGGcAcXkuQaiLStUDnqWSeRP44VTD4uZ4SsY/nft.gif",
+  "tokenId": 35,
+  "description": "Marimo  \n海の中に潜るのが大好き  \nLove to dive in the ocean.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmTxCx18gnvMdnEKUQfCaaHiFDgvHa2H7opV3PiHFgzMzJ/nft.mp4",
+  "chainId": "1",
+  "name": "Marimo #035",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "VOICE",
+      "value": "Mimi"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmey34i8ZfLJwAnK3fHb6TgES8n283yHYHubboEFiYYeid/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 105,
+  "chainId": "1",
+  "name": "KATIE",
+  "description": "■ケイティ",
+  "attributes": [
+    {
+      "value": "Deep-Yellow(HumanR)",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Burstout-Laughing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-Purple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-PU",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Black",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Toy box",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Black",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

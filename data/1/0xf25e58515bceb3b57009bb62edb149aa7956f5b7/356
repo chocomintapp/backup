@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTft9Dp1kU7QKPfRBsCwAEci71uF3t8yjVKWqDnEKqtrN/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 356,
+  "chainId": "1",
+  "name": "AKARI",
+  "description": "■アカリ",
+  "attributes": [
+    {
+      "value": "spread of infection",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Ponytail-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Winered",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-Black(NE）Shining",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Piyochi-cry",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

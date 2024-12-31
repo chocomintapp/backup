@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNe7EWhXWc6FQbpMbVC38pnvhQcTTrbz7aDE3X51Lrvpx/nft.png",
+  "tokenId": 1,
+  "description": "Moving picture book",
+  "nftContractAddress": "0x4d141463f0cf3098be45ec3261e1617a3d8dd359",
+  "animationUrl": "https://ipfs.io/ipfs/QmZ3SoZdZ9YHHKB1nYoJmpUP43AtG3JC4Bnc7Hmte1f45o/nft.mp4",
+  "chainId": "1",
+  "name": "everyones_play_classic",
+  "attributes": []
+}

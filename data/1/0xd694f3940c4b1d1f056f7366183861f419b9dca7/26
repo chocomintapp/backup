@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNYqPERabzmucjqH1UqdNYhWQJvJawcNN9AGqwjfrazQx/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "1",
+  "name": "June 12 セージ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "12",
+      "trait_type": "日"
+    },
+    {
+      "value": "家庭の徳",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "セージ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

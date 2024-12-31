@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQzdcr9smW2RW5uiGapZbrt1RFtfn2M545Fhvnp15FNaM/nft.png",
+  "nftContractAddress": "0x1edad377a1e97d2cc8a5997af61f6cd0a0cc1a73",
+  "animationUrl": "https://ipfs.io/ipfs/Qmd6woeR8tKjZRYqDFpoEeGj4mHZAKZ9NLfVPmLtSeJkL7/nft.mp4",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "MayDoll-GA-2023-Holders-001",
+  "description": "Shiba-Friends-GA",
+  "attributes": []
+}

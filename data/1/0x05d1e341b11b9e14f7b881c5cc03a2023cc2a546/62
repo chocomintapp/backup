@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeThQQQBzx7MFDwwvSLYyZPpJRHm2D7b3VSCjdXgbc9m8/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmNye8fpvR3BWJe2oBSresbdPMRA9XhYjkK3nZHQDqgFpZ/nft.mp4",
+  "tokenId": 62,
+  "chainId": "1",
+  "name": "Puni #062",
+  "description": "Puni  \n前衛的で新しいもの好き  \nAvant-garde and new things lover",
+  "attributes": [
+    {
+      "value": "Construct",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Mimi",
+      "trait_type": "VOICE"
+    }
+  ]
+}

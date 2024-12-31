@@ -1,0 +1,27 @@
+{
+  "image": "",
+  "nftContractAddress": "0xe6b4359dd8f5375e795a70bc1674dbab3237b6c6",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "none",
+  "description": "",
+  "attributes": [
+    {
+      "value": "aqua blue",
+      "trait_type": "BG color"
+    },
+    {
+      "value": "baby",
+      "trait_type": "type"
+    },
+    {
+      "value": "white",
+      "trait_type": "body color"
+    },
+    {
+      "value": "none",
+      "trait_type": "name"
+    }
+  ]
+}

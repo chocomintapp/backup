@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZAowkH6AihGNj3LZAzHntBNPwQTx4fhPxZPd86i7tjjw/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "1",
+  "name": "June 15 アヤメ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "15",
+      "trait_type": "日"
+    },
+    {
+      "value": "優雅",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "アヤメ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

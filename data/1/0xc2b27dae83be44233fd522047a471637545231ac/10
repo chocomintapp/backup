@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdAAYdob7FF2qwWyDsaMFnmpHxwkLLYU4Gt8Nabj9ZBui/nft.jpg",
+  "nftContractAddress": "0xc2b27dae83be44233fd522047a471637545231ac",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "\"WAFUKU\"ART #002",
+  "description": "002\n\nRED illuminates her and begins",
+  "attributes": [
+    {
+      "value": "coarse oilpaper umbrella - 番傘",
+      "trait_type": "accessory"
+    },
+    {
+      "value": "ogre - 鬼",
+      "trait_type": "character"
+    },
+    {
+      "value": "FND",
+      "trait_type": "originality"
+    },
+    {
+      "value": "Red - 赤",
+      "trait_type": "individuality"
+    },
+    {
+      "value": "kimono - 着物",
+      "trait_type": "wafuku"
+    }
+  ]
+}

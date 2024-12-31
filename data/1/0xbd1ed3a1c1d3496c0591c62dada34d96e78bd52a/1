@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX9GfgDD24zVL6qjWkuL4Y4m3DJHcmGtcTvB6avezKmpe/nft.png",
+  "tokenId": 1,
+  "description": "This is Nobuo. ",
+  "nftContractAddress": "0xbd1ed3a1c1d3496c0591c62dada34d96e78bd52a",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Nobuo"
+}

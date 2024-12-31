@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZTHtEJyNdBfjrpkAo2D3bV1piLWCeqVB8VSjhAFtL6mb/nft.png",
+  "tokenId": 6,
+  "description": "",
+  "nftContractAddress": "0x73509e51e8fc20f58978a86206b7a225a5116ee6",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #6",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": ""
+    },
+    {
+      "trait_type": "Ears",
+      "value": ""
+    },
+    {
+      "trait_type": "Neck",
+      "value": ""
+    },
+    {
+      "trait_type": "Item",
+      "value": ""
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

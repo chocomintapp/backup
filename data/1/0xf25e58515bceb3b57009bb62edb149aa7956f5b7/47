@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXK4TLNtMFEJJkczd3RsX9dUN2ttR82YoELCjz5TCzuMP/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 47,
+  "chainId": "1",
+  "name": "AVA",
+  "description": "She is just a normal girl around but she is just not good at loud noises.\n\nHer natural enemy is crackers.\n\nShe is always on the verge of losing her soul during celebrations such as birthdays.\n■アヴァ\n\nよくいる普通の女の子だけど、大きな音がとにかく苦手。\n\n天敵はクラッカー。\n\n誕生日などのお祝い事の時には、いつも魂が抜けそうになっている。",
+  "attributes": [
+    {
+      "value": "MIX2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Souleat",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-B",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Cat",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

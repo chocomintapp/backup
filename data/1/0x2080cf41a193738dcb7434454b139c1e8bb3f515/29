@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeC3Kq5JFHwPJou2TiNGH1LnmJvkyD1DvsmkpnTKhhsuj/nft.png",
+  "tokenId": 29,
+  "description": "\"Barometz\" = \"Alraune\" x \"Cait Sith\" Rico Yoshida\n「バロメッツ」メイン種族アルラウネ、サブ種族ケットシー。名前はリコ吉田。\n\nバロメッツは羊の実がなる植物。植物でもあり動物でもある、不思議なモンスター娘。草を好んで食べるが、エネルギーは光合成しており、草を食べる意味は分かっていない。\n\n\"Barometz\" are plants that bear sheep's fruit. She is both plant and animal, a mysterious monster girl. She prefers to eat grass, but her energy is photosynthetic, and the meaning of her grass-eating is not known.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#054 \"Barometz\" Rico Yoshida",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Alraune"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Cait Sith"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVXLs5cgcBzNHVekx2DgkDs2u8CWmjme9ajzvKqx4Vorf/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 145,
+  "chainId": "1",
+  "name": "October 9 エキナセア",
+  "description": "",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "月"
+    },
+    {
+      "value": "9",
+      "trait_type": "日"
+    },
+    {
+      "value": "痛みを癒す",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "エキナセア",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

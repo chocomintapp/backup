@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUzQ7okLuRhp9XWk4xbn7JfWB3B8hwjrDD6qi2xWbSFu2/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 51,
+  "chainId": "1",
+  "name": "POPET No.51",
+  "description": "【物語】本当はこんなこと\n僕にできるわけない。\n膝がふるえて動けないや。",
+  "attributes": [
+    {
+      "value": "サーカス団・綱渡り",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "サーカス小屋",
+      "trait_type": "origin"
+    },
+    {
+      "value": "臆病",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

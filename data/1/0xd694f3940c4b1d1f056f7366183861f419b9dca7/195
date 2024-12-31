@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU2zFWTx2TGMjYHZC1DYnZoz9beSC16wQs6rLM6mcuzXZ/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 195,
+  "chainId": "1",
+  "name": "November 28 シクラメン（赤）",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "11",
+      "trait_type": "月"
+    },
+    {
+      "value": "28",
+      "trait_type": "日"
+    },
+    {
+      "value": "感情の手放し",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "シクラメン",
+      "trait_type": "花"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWDwo2maB6mQL3PhBBi1ReCxMheGh9QdK53DuRLTuFjUm/nft.png",
+  "tokenId": 18,
+  "description": "Get the grail to unveil,\nYour Toad! A football Superstar!  \n\nOnce this thing’s in your possession,\nYour CrypToadz sole obsession,\nwill be to become stitched and nouned,\nand equipped for the Superbowl!",
+  "nftContractAddress": "0x1c5e010251afa4165068c66fd3d32807e0372081",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "StitchToadz Grail",
+  "attributes": []
+}

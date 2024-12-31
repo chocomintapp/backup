@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdNHbDJDX26nKCq6m3c6LByTKJFN27qqqXuJQNxfJuJV8/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 51,
+  "chainId": "1",
+  "name": "USAGI",
+  "description": "People around me make all sorts of unreasonable demands on me because I seem to have appeared in a Japanese folk tale.\n\nHowever, she loves rice cakes and carrots.\n\nShe says...\n\n\"Living on the moon is structurally impossible.\nThis is just a catsuit.\n\nHowever, she loves rice cakes and carrots.\n■ウサギ\n日本の民話に登場してそうだということから、周りから色々と無理難題を言われる。\n\nでも一切関係ありません。\n\n彼女曰く・・・\n\n「月に住むとか身体の構造的に不可能」\n「これは、ただのカチューシャ」\n\nただ、餅つきと人参は大好きとのこと。",
+  "attributes": [
+    {
+      "value": "Fullmoon",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-White",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-USilver",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-White",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "HappyCarrot",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-SnowWhite",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

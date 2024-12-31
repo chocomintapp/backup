@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmatvM1gWCYbAocm9rh8tB6W5ZY3d6FD6i784r2b2N8z26/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmUWhggTqB3Bv84cW6SttXogqivmcU6MnbYw8tYDq8C7a9/nft.mp4",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "THE JEWEL #010",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Gold K22",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "silver",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

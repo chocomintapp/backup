@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmREnDnXiRsgJVZ6JCFRqK1mYFqpP5DhKdBUsEUjXRCGMJ/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmYjaGXEEqpNPNdozqmN2MmVLNzUv2bVWDu9UWSxswWx9h/nft.mp4",
+  "tokenId": 89,
+  "chainId": "1",
+  "name": "Dessa #089",
+  "description": "Dessa  \n勉強熱心な明るい子  \nBright personality with a passion for learning",
+  "attributes": [
+    {
+      "value": "Haus",
+      "trait_type": "TYPE"
+    }
+  ]
+}

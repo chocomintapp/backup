@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaUxFT2Z7Uh9iKPpPqJ5hEf4dedVwddXUkYZcH34pPAwm/nft.jpg",
+  "tokenId": 1,
+  "description": "023She'll fight.",
+  "nftContractAddress": "0xc2b27dae83be44233fd522047a471637545231ac",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Crypto\"WAFUKU\" #023",
+  "attributes": [
+    {
+      "trait_type": "accessory",
+      "value": "japanese sword - 日本刀"
+    },
+    {
+      "trait_type": "character",
+      "value": "human - 娘"
+    },
+    {
+      "trait_type": "originality",
+      "value": "original"
+    },
+    {
+      "trait_type": "individuality",
+      "value": "mask - お面"
+    },
+    {
+      "trait_type": "wafuku",
+      "value": "kimono - 着物"
+    }
+  ],
+  "minted": "✅"
+}

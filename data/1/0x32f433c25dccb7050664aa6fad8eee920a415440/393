@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaqUEzejVY25bTxXAtfj3mRepgKe7vKrRLvFbMextnxKh/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmfSuwraprcnZvikTx4H8Hv4sNW7XNsK9tnvsasdKnaePN/nft.mp4",
+  "tokenId": 393,
+  "chainId": "1",
+  "name": "THE JEWEL #393",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Purple Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Control device"
+    }
+  ]
+}

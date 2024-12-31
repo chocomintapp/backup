@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU2aMJaRQc3zokRSQTp5oVVLCmi5fdv5TVjrQk1zRX2PS/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 402,
+  "chainId": "1",
+  "name": "MIKURI",
+  "description": "■ミクリ",
+  "attributes": [
+    {
+      "value": "deep in the countryside2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-Big",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cry-Yellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WYB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-neko",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Italian Greyhound",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Ribon-PiYe",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcpioKUzUeSyB77ZZAb4BWqoDXqta9jBZp3T3YAXrFFKP/nft.png",
+  "tokenId": 983,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #983",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cardigan"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Bit Coin"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Glasses"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Blue Bunny"
+    }
+  ]
+}

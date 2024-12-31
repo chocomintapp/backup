@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdGhHcwY2c7mVBQvvpN7fjoYnm6AqDRQnXRFKB6PYMeYb/nft.jpg",
+  "nftContractAddress": "0x3862f486ffe3a406a14a69737a63e6b3ace72b97",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "#00 NFT hug pillow: Eiko Shibusawa／NFT抱き枕：渋沢栄子",
+  "description": "Purchase Benefits:Printing place hugging pillow data\n\n購入特典:印刷所用抱き枕データ\n\nEiko Shibusawa / female / 14 years old / daughter of capitalism /.\nHer favorite thing to do is to make money, and her motif is a beckoning cat in Osu.\nShe loves cash more than virtual currency or electronic money.\nShe is based on Eiichi Shibusawa, the father of capitalism in Japan.\n\n渋沢栄子／女／14歳／資本主義の娘／\n好きな事はお金を稼ぐことで大須の招き猫がモチーフ。\n仮想通貨や電子マネーよりも現金が大好き。\n元ネタはに日本の資本主義の父と言える渋沢栄一様。",
+  "attributes": [
+    {
+      "value": "shibuzawa",
+      "trait_type": "girl"
+    },
+    {
+      "value": "dakimakura",
+      "trait_type": "otaku"
+    }
+  ]
+}

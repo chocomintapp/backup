@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme7hqVYTtJioLLK4rk2oD2JEET5VPWBb8wyA778miaLUZ/nft.gif",
+  "tokenId": 18,
+  "description": "Marine  \n南国の海のように開放的でマイペースな性格  \nHe is as open-minded and self-paced as the tropical ocean.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmW7pffRHyEfj4Uwhv7AecHJZtbzQD4UVGyVJY9PuV3MSf/nft.mp4",
+  "chainId": "1",
+  "name": "Marine #018",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    }
+  ]
+}

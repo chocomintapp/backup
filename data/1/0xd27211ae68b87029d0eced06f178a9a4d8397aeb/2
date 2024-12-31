@@ -1,0 +1,19 @@
+{
+  "image": "",
+  "nftContractAddress": "0xd27211ae68b87029d0eced06f178a9a4d8397aeb",
+  "animationUrl": "https://ipfs.io/ipfs/QmRZwsBny8ATCSExevGxjPtzNZLsJA2JwvnweBKX3VJEJ2/nft.gif",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "POC第1章No.2　DNA",
+  "description": "高度知的生命体になるよう、地球環境に適したチキンDNAを開発。\n高度な知能、切り拓く力、思いやりの心を持たせた。",
+  "attributes": [
+    {
+      "value": "第1章",
+      "trait_type": "章"
+    },
+    {
+      "value": "支配者",
+      "trait_type": "チキン種別"
+    }
+  ]
+}

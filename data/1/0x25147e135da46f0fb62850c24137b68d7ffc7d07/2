@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcZBeR4GojyMBLRM45ua8qeiheNcXTDt3ECAixbPSFnWR/nft.png",
+  "nftContractAddress": "0x25147e135da46f0fb62850c24137b68d7ffc7d07",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "BE KOBE NFT CREATIVE AWARD #2",
+  "description": "第1回 BE KOBE NFT CREATIVE AWARD 『王子公園ハイム』マクアート部門 応募作品\n\n【タイトル】\nR.L.N Unit2 in KOBE\n\n【制作者】\nhisa_LIONS carrying 様\n\n【コンセプト】\n『LIONS carrying』の逞しく力強く色々な物や建物をライオンが担くをコンセプトで描いてます。\n今回神戸の代表的な観光地南京町を力強くライオンが担ぐ姿を描きました。",
+  "attributes": [
+    {
+      "value": "『王子公園ハイム』マクアート",
+      "trait_type": "部門"
+    }
+  ],
+  "minted": "✅"
+}

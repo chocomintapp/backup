@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdsYXeiFSN5GQYJUebZqPZDfD12c8zuArgPsqKyUmR3rq/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "E #4",
+  "description": "",
+  "attributes": [
+    {
+      "value": "E",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "none",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "E",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "e",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

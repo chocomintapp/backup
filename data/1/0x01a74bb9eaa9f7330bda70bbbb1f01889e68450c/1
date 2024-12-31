@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXw7nTGkKJKE3pkUf8pse7sB1X5TrVa2ondUnGuupAtGx/nft.jpg",
+  "tokenId": 1,
+  "description": "It's a hot summer day. Cats cool themselves in shade of bushes.",
+  "nftContractAddress": "0x01a74bb9eaa9f7330bda70bbbb1f01889e68450c",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Cats in Bushes"
+}

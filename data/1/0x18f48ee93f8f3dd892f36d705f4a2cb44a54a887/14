@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfB2wD7NW9K9eryWsaWca2RazB19hyVKqRsnjK6CXDTPJ/nft.jpg",
+  "tokenId": 14,
+  "description": "Fenris is the sun that sets in the ocean and the wolf that lives by the sea. His inspiration comes from Nordic Mythology",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmfB2wD7NW9K9eryWsaWca2RazB19hyVKqRsnjK6CXDTPJ/nft.jpg",
+  "chainId": "1",
+  "name": "Fenris"
+}

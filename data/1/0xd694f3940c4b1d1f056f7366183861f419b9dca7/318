@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXVzxxfEy8s3nnoSFbVsUfCtYXbykuN6DFL6au8J9Lhix/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 318,
+  "chainId": "1",
+  "name": "March 30 ジンジャー",
+  "description": "",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "月"
+    },
+    {
+      "value": "30",
+      "trait_type": "日"
+    },
+    {
+      "value": "信頼しています",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ジンジャー",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

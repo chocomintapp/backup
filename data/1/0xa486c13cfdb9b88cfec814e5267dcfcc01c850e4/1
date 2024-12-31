@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmefp98k7y5GFnEgKKA3RQk6LQHwXEoTKLEfQNTHGqpsbz/nft.png",
+  "nftContractAddress": "0xa486c13cfdb9b88cfec814e5267dcfcc01c850e4",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "#1 KASOTARO",
+  "description": "He keeps animals.\nAnd the animals are always playing tricks on him.\nHe is the owner and keeper of Kasotaro Farm.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "KASOTARO"
+    }
+  ]
+}

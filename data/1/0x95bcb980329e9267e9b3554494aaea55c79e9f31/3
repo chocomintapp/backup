@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmabqdUrdxap34aQARLgTp9j7hnkzcEZRLCoUG7cD4iDsy/nft.png",
+  "nftContractAddress": "0x95bcb980329e9267e9b3554494aaea55c79e9f31",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "#003F~emotional summer and your kimono~",
+  "description": "This work is a fan art of Crypto WAFUKU Generative\n  ",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Crypto WAFUKU Generative",
+      "trait_type": "Fanart"
+    },
+    {
+      "value": "WAFUKU",
+      "trait_type": "Costume"
+    },
+    {
+      "value": "summer",
+      "trait_type": "season"
+    }
+  ]
+}

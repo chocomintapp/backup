@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPNiaeeSGrhCE9krY7aMiDXF9qfeNR6kbAu2VLjD6NRQ5/nft.png",
+  "nftContractAddress": "0x8e729f1a76615a5946debaac3cef112e19768a3b",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Bicco",
+  "description": "She is a very energetic girl with a bright and open personality, loved by all\nOn the other hand, she is guarded and is treated by boys as a high class girl",
+  "attributes": [
+    {
+      "value": "Bitcoin",
+      "trait_type": "Blockchain"
+    },
+    {
+      "value": "Hardware Wallet",
+      "trait_type": "Items"
+    },
+    {
+      "value": "Store of Value",
+      "trait_type": "Types of cryptocurrencies"
+    }
+  ]
+}

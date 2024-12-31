@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY38v474RaPpKcfx6jA1G65tU2p1a4atn1encemQvvEXW/nft.jpg",
+  "nftContractAddress": "0x0e801ee8706f41ca3b1b98571eb1312c7fc32482",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "sorceress",
+  "description": "Illustrations are created using AI from the original shooting data.",
+  "attributes": []
+}

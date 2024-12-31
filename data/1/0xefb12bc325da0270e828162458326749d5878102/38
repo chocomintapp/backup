@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQkheb7ej32gc66qBVgQzUZz9BWFC6KDGZX1JpqCU3t1E/nft.png",
+  "nftContractAddress": "0xefb12bc325da0270e828162458326749d5878102",
+  "animationUrl": "https://ipfs.io/ipfs/QmdGfX4sSoewr6SJbK5EVJMbwKRTtqjMLwBhDUvj6QtJhi/nft.glb",
+  "tokenId": 38,
+  "chainId": "1",
+  "name": "Ballerbit #17C Show",
+  "description": "We Love Show!!!",
+  "attributes": []
+}

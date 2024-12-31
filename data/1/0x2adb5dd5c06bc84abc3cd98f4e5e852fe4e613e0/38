@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdHvXXvU8nHdqgA5Gsc8azTeue6ScHp7b9MJL6c4zhh5V/nft.png",
+  "nftContractAddress": "0x2adb5dd5c06bc84abc3cd98f4e5e852fe4e613e0",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "1",
+  "name": "Borage [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nBorage\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR PETIT]",
+  "attributes": [
+    {
+      "value": "Fallen Angel",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "White",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Black",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Bordeaux",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Choker",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Halo",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Black",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "PETIT",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

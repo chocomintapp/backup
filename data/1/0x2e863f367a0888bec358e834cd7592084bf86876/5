@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTa4tFANVCwDR6rN8m5TNVdDH2xvJfdBZyNGAv7spjQhT/nft.JPG",
+  "tokenId": 5,
+  "description": "Technology should always be the servant of humanity and not the other way around. We are in control\n\nOriginally sold with the painting\nPainted in 2021\nKrs",
+  "nftContractAddress": "0x2e863f367a0888bec358e834cd7592084bf86876",
+  "animationUrl": "https://ipfs.io/ipfs/QmTa4tFANVCwDR6rN8m5TNVdDH2xvJfdBZyNGAv7spjQhT/nft.JPG",
+  "chainId": "1",
+  "name": "Humanity on Technology",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

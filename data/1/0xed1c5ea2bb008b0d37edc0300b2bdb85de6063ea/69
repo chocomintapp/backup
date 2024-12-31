@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR3yiza1hwpqherkMBAVmxtUcLEAkwMi9j5CHrBu1pDQZ/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 69,
+  "chainId": "1",
+  "name": "Havoc",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "normal",
+      "trait_type": "skin"
+    },
+    {
+      "value": "normal_blue2",
+      "trait_type": "eye"
+    },
+    {
+      "value": "flamingo03",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_ear",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Cassiopeia",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYque6Q6t87VUEc4L4aYpC5VbWCZb5e3XpssKKLACQ1SE/nft.png",
+  "tokenId": 27,
+  "description": "\"Fenrir\" = \"Werewolf\" x \"Zombie\" Freki Sakagami\n「フェンリル」メイン種族ワーウルフ、サブ種族ゾンビ。名前はフレキ坂上。\n\n北欧神話に現れる、強力な力を持った狼。何度も拘束されながらも生き延びた逸話があるように、非常にタフ。朝ごはんを食べ終わると昼ごはんのことが気になるタイプ。\n\n\"Fenrir\" is a powerful wolf that appears in Norse mythology.\nIt is extremely tough, as an anecdote tells of its survival despite being restrained many times. She is the type of monster girls who worries about lunch after finishing breakfast.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#052 \"Fenrir\" Freki Sakagami",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Werewolf"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

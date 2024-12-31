@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQpBe4WyK6UrFijJoAf5L5Df69w7hdBxaMAJmbQ8ssBid/nft.png",
+  "nftContractAddress": "0x6aefa5d0bd4bb65333ac0b4be2ac6a22065f6cad",
+  "animationUrl": "https://ipfs.io/ipfs/QmQpBe4WyK6UrFijJoAf5L5Df69w7hdBxaMAJmbQ8ssBid/nft.png",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Rabbit girl #26『BlueZircon』PFP",
+  "description": "Rabbit girl #26『BlueZircon』PFP\n\nA girl who wants to see the wide world 🎀 \nKnowing Mea's secret, she was able to avoid going missing, but at the cost of that, the light in her eyes, which shined brighter than anyone else, has now disappeared.\nThe members of RabbitGirl hope that the light will return to her eyes. The first RabbitGirls leader 🐰 ",
+  "attributes": [
+    {
+      "value": "BlueZircon",
+      "trait_type": "Character"
+    },
+    {
+      "value": "PFP",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcangRVPMARW1kWzHAHpfXYg7uBAqgbVPDkRgWjj86vQ1/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 91,
+  "chainId": "1",
+  "name": "POCO_Kaylee",
+  "description": "Kaylee_Chan",
+  "attributes": [
+    {
+      "value": "Lime",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Mischievous",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "V1 Remake",
+      "trait_type": "SERIES"
+    }
+  ],
+  "minted": "✅"
+}

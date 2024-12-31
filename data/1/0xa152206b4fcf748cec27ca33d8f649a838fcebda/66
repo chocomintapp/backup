@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRsb4Bgf8yHerqoFeAchPADLqF5tmD6LM9i78LohWqgm7/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 66,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "伸びしろ",
+  "attributes": [
+    {
+      "value": "本堂",
+      "trait_type": "人物"
+    },
+    {
+      "value": "ミックミク",
+      "trait_type": "服装"
+    },
+    {
+      "value": "ネギ",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

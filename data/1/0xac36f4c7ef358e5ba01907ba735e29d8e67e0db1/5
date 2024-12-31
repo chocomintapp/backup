@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQTLwEC8J46yoHtF9nsiq5jhh3aQqndq5rhPBc6PAhjUy/nft.jpg",
+  "nftContractAddress": "0xac36f4c7ef358e5ba01907ba735e29d8e67e0db1",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Eye",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Combatant",
+      "trait_type": "POSITION"
+    },
+    {
+      "value": "Near future",
+      "trait_type": "TEAM"
+    }
+  ]
+}

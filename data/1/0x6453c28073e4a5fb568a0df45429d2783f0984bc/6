@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRaU3cKxrXsV6whQFxT3cg8iHbg86KgiH7bJqdLPWhQqr/nft.gif",
+  "nftContractAddress": "0x6453c28073e4a5fb568a0df45429d2783f0984bc",
+  "animationUrl": "https://ipfs.io/ipfs/QmRaU3cKxrXsV6whQFxT3cg8iHbg86KgiH7bJqdLPWhQqr/nft.gif",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "HuntingTrophy_Ziz",
+  "description": "Defeated a swarm of monsters. Got the Ziz Hunting Trophy. \n \nモンスターのむれをたおした。ジズのハンティングトロフィーをてにいれた。  \n  \n**Charisma**: 13 of 25  \n**Intelligence**: 17 of 25  \n**Luck**: 11 of 25  \n**Power**: 18 of 25  \n**Speed**: 15 of 25",
+  "attributes": [
+    {
+      "value": "Bird",
+      "trait_type": "DEPARTMENT"
+    },
+    {
+      "value": "Mythical monsters",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "Sacred beast",
+      "trait_type": "STATUS"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRRDYjVFWuwmWjMy9AmPiLmQYzMyRRhS4Xi24pewogouP/nft.png",
+  "tokenId": 1,
+  "description": "https://twitter.com/PlayStation_jp",
+  "nftContractAddress": "0xa13b254a1912a3275a5e8acd466b1a30accc1b83",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "nft-adam"
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRm3oU4xywZDoM7i9C2ngY8kEna9KQjgimQmdrPM8S2d9/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "KA #6",
+  "description": "",
+  "attributes": [
+    {
+      "value": "A",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "K",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "A",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "ka",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

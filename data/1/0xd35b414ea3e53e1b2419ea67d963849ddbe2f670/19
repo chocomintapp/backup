@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdih2b3py3bYyqPVET4gwaaKNthV4jQDQ6DAgtSTu7iFQ/nft.png",
+  "tokenId": 19,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #19",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Red Tabby"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Mouse"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shining Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_1"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "No Accessory"
+    }
+  ]
+}

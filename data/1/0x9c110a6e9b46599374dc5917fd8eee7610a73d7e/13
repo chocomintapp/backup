@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQXRBX6g9fVsqNLptNcvWRG7BFkWwdYKTA1mjfysNFkpi/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "POCO_Nicola",
+  "description": "Nicola-Chan",
+  "attributes": [
+    {
+      "value": "Cheerful",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Cyan",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

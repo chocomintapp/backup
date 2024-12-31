@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSGJP394gNTRS1Z7NmDgCzrbBGxN6rzWGLiwaNf9cuc1p/nft.png",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0x73509e51e8fc20f58978a86206b7a225a5116ee6",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #2",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Lizard"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Scarlet"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Gold Peace"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

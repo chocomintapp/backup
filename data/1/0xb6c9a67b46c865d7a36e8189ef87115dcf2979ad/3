@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSLPmojw5tGBNiH16YEwqPBUHwnJa66NSnMdKYsLxJ6fs/nft.jpg",
+  "nftContractAddress": "0xb6c9a67b46c865d7a36e8189ef87115dcf2979ad",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "noodlef zozozo_miso",
+  "description": "A Gourmet Pixie character by Noodle (Ramen) and Wolf (Wolf).\nThe color of the body and shoes changes depending on the ramen soup (soy sauce, salt, miso, tantanmen, and more!)\nI love using kung fu shoes with donburi tights (tracksuits).\nA dark weapon (hidden weapon) is topped (equipped). (Menma three-section staff, Naruto shuriken, char siu...?)\nThere are sharp eyes shining behind the long hair of the noodles...!?",
+  "attributes": [
+    {
+      "value": "miso",
+      "trait_type": "TASTE"
+    }
+  ],
+  "minted": "✅"
+}

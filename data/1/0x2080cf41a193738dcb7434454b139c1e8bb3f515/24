@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNpNeEazt1aosRXz4hFR7AVfFc8pYGimgu2hpN4Rapeye/nft.png",
+  "tokenId": 24,
+  "description": "\"Gryphon\" = \"Harpy\" x \"Cait Sith\" Nemesis Hatta\n「グリフォン」メイン種族ハーピー、サブ種族ケットシー。名前はネメシス八田。\n\nグリフォンは、鷲と獅子が融合したキメラモンスター。知識や王家を象徴するとされており、紋章の意匠として好まれる。ハーピー種から鳥の特性を、ケットシー種から獅子の特性を引き継いでいる。水浴びは好きだがお風呂は嫌い。\n\n\"Gryphon\" is a chimeric monster that is a fusion of an eagle and a lion. It is believed to symbolize knowledge and royalty, and is favored as a design for heraldry. She inherited the characteristics of a bird from the \"Harpy\" species and the characteristics of a lion from the \"Cait Sith\" species. She likes showers but hate hot tubs. \n",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#049 \"Gryphon\" Nemesis Hatta",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Harpy"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Cait Sith"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "minted": "✅"
+}

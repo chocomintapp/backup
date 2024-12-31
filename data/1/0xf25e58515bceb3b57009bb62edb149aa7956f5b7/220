@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRQx2YevgwhV5B5p2XCohEY4E9YCeKYCioRH5Xy5i8Q5A/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 220,
+  "chainId": "1",
+  "name": "ALICE",
+  "description": "■アリス",
+  "attributes": [
+    {
+      "value": "Rainbow-MIx",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Drool",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Rainbow",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-OddPS",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie3",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bored Ape7",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

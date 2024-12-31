@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXrZGAwXSzRuwhzNmb84KzngMZNTArvBGF4wACp75PuL9/nft.jpeg",
+  "nftContractAddress": "0x9ecb46c1f00ea663a50e520175b93c05b133f714",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "crimson #02 coldly",
+  "description": "ずっと欲しかったはずなのに、いざ手に入ってしまえば興味がなくなるの。\n\nYou've always wanted it, but when you get it, you lose interest.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeS4YHcLr3RVQXhVFPWf5sE3yBfsmmYyYtGUk5e2bWTi8/nft.png",
+  "tokenId": 101,
+  "description": "",
+  "nftContractAddress": "0xa3504b583db9090d46bb3c97e04eae5e61e3dfce",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #101",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Gray Leopard"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Leather Choker"
+    },
+    {
+      "trait_type": "Item",
+      "value": "French Fries"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square Shades"
+    }
+  ],
+  "minted": ""
+}

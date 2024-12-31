@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdvcuMb8zjtAY6Fyc9srsQL5VFpEjnDXhyTJpB1HN7ejV/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmemAdvVMszgVb7bLWZmfZGj1sQ2vVU3FuB8k9M3tHaZSS/nft.mp4",
+  "tokenId": 656,
+  "chainId": "1",
+  "name": "THE JEWEL #656",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Triplite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Bronze",
+      "trait_type": "Control device"
+    }
+  ]
+}

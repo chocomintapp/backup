@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTs8yXkC43DZ6Akn44gQ7UGk9TUhT1g1jcn1UDUJktj5n/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "POPET No.18",
+  "description": "【物語】\n\n大変だ！\n遅刻しちゃう！\nあの人にしかられる！",
+  "attributes": [
+    {
+      "value": "サーカス団・団長",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "サーカス小屋",
+      "trait_type": "origin"
+    },
+    {
+      "value": "せっかち",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

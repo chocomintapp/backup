@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQMuufGX2yS8fK25kDjFQh494Yduq3kFJCDZcd9sRxv9H/nft.png",
+  "nftContractAddress": "0x8c05b3169ff90017b7475efb0139f99bae17554a",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Argento-C #004",
+  "description": "Silver hair girls are very cute and coooooool.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "1"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUdRXNT8wNFBTcF4ecFZLYHShAk3KUuV1NTWsqjQE7NmB/nft.gif",
+  "tokenId": 7,
+  "description": "Seiran  \n頭脳明晰で思慮深く遠くを見ている  \nClear-headed, thoughtful, far-sighted.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmZWmRgsgAfkkvXKGbbqcwK6rs31RDwyD5ybwwAthw6aNK/nft.mp4",
+  "chainId": "1",
+  "name": "Seiran #007",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTidLrbXtTa7BWeyZ3bwX7FBt1w4umv8SpDNG38ve6h9Z/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 129,
+  "chainId": "1",
+  "name": "Tamara",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "Pegasus",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcM8cKWhQCu4gyzUnheBjqS3ZxXcUKaRwCgMwgXjND7MZ/nft.png",
+  "nftContractAddress": "0x11b76fe1a12fce04049605cd2c245bcd44e2fc2b",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "ぷりんすユニコーンちゃん",
+  "description": "彼女は｢ぷりんすユニコーンちゃん｣です。  \nキラキラでツヤツヤな髪とふわふわのマント、頭の小さな王冠がチャームポイントです。  \n彼女はまるで王子様のような見た目のユニコーンちゃんです。所作がカッコイイので他のユニコーンちゃんからも大人気。ユニコーンに乗る姿も様になっています。  \n彼女がなぜ王子様の格好をしているのか…それは…謎に包まれているのです…！！  \n彼女と仲良くしてくださいね。  \n  \nShe is \"Prince Unicorn-chan\".  \nShe has sparkling, shiny hair, a fluffy cape, and a small crown on her head.  \nShe is a unicorn who looks like a prince. She is very popular among other unicorns because of her cool behavior. She also looks very cool riding on her unicorn.  \nWhy she is dressed like a prince... that is a mystery...!  \nPlease get along with her.  ",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

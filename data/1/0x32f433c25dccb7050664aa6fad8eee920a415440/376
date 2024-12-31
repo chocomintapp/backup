@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPaHtFhrWKt3M3Tc46UwKW6AJ5wMemxPPMVahtesnb8sg/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmZrgLzfL2VDcLf76za9ErS5V7WPNTpb2i27xzAgZPErF4/nft.mp4",
+  "tokenId": 376,
+  "chainId": "1",
+  "name": "THE JEWEL #376",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

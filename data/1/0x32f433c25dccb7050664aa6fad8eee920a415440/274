@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdYKn5cMCtWg3Hr6D3G55dug5r8U9Q1AP7LfwHmSSNwdk/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmPSLrjeHvzwu2ueE8FpQuqP5Uy1U2WQZd2yAmRwXd1sET/nft.mp4",
+  "tokenId": 274,
+  "chainId": "1",
+  "name": "THE JEWEL #274",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Diaspore",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Palladium",
+      "trait_type": "Control device"
+    }
+  ]
+}

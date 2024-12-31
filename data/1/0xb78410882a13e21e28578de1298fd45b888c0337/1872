@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ4ZCANxmZiPAyeU92zoY5jV1DDGFRCv9i5HWonHE4YcV/nft.png",
+  "nftContractAddress": "0xb78410882a13e21e28578de1298fd45b888c0337",
+  "animationUrl": "",
+  "tokenId": 1872,
+  "chainId": "1",
+  "name": "",
+  "description": "",
+  "attributes": [
+    {
+      "value": "RED BLACK",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "伊弉冉尊",
+      "trait_type": "SIGNATURE STAMP"
+    }
+  ]
+}

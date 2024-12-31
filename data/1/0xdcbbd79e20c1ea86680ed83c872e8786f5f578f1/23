@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQLP4mEyPef34Ay7388pkoj7ndeHFFLQDXhpq1k6ujmdF/nft.jpg",
+  "nftContractAddress": "0xdcbbd79e20c1ea86680ed83c872e8786f5f578f1",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "#20 IRON ANIMAL BEAN THE DOG",
+  "description": "Beans in 3D are here!!\nThe 3rd series is Iron animal with wings.",
+  "attributes": [
+    {
+      "value": "None",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Gas mask",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Dog ear gadget",
+      "trait_type": "EAR ACCESSORY"
+    },
+    {
+      "value": "Machine part",
+      "trait_type": "BODY ACCESSORY"
+    },
+    {
+      "value": "Iron",
+      "trait_type": "BODY COLOR"
+    },
+    {
+      "value": "Machne wings",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "None",
+      "trait_type": "ARTICLES"
+    },
+    {
+      "value": "Electronic substrate",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

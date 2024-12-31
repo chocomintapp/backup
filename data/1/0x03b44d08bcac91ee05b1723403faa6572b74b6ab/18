@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTUDi2Qgp84tQ3kDMYqLw8NdpwNcmCeSnfKibhqLpj22d/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/Qmbsy2DsnTDgG1ybHDk4oMouPVkKv6LcPioQTBmykBj7tK/nft.mp4",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "#044 CornChocoMintMan",
+  "description": "CornChocoMintMan\n\n- Food Series\n- 3DCG Turntable\n- 1920 x 1920px",
+  "attributes": [
+    {
+      "value": "Food",
+      "trait_type": "Type"
+    }
+  ]
+}

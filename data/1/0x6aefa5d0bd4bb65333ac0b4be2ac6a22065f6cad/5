@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmThLvRJMtsB4Tp3nt5AR9W3fwJeBA69BadFU8RWmYMxZv/nft.png",
+  "nftContractAddress": "0x6aefa5d0bd4bb65333ac0b4be2ac6a22065f6cad",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Rabbit girl #15『Maple』PFP",
+  "description": "Rabait girl #15 『Maple』\n\nA girl who loves punk fashion with a soft atmosphere.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "PFP",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Maple",
+      "trait_type": "Character"
+    }
+  ]
+}

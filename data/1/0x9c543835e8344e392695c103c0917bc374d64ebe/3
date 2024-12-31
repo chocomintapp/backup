@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPjQuLu9E8KJAtLw8giYB4LfeogAhXQ2ASGHU37dZAcWM/nft.png",
+  "tokenId": 3,
+  "description": "Takashi Asada Portrait 001",
+  "nftContractAddress": "0x9c543835e8344e392695c103c0917bc374d64ebe",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Takashi Asada Portrait",
+  "attributes": []
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf4UN786dRB7v1ao6Dyz9XWghHvLHVuFALqV7G4F6AMW5/nft.png",
+  "nftContractAddress": "0x7b133344df9e93e5c123171d37dc08e6394cd58e",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Naughty Monkey #057",
+  "description": "The collection is based on the concept of graffiti drawn by boys playing in back alleys. 100 animal portraits.All are one-of-a-kind.路地裏で遊ぶ少年たちが描いたグラフィティというコンセプトのコレクション。100枚の動物の肖像画。すべて一点ものです。\n\n",
+  "attributes": [
+    {
+      "value": "monkey",
+      "trait_type": "animals"
+    },
+    {
+      "value": "yellow",
+      "trait_type": "color"
+    },
+    {
+      "value": "concrete",
+      "trait_type": "wall"
+    }
+  ],
+  "minted": "✅"
+}

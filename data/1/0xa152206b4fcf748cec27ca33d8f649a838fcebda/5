@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQJEK1v5eQUrdeHMkwPF23BFpJeeT7qDeefhNPTCepR8M/nft.jpeg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "OYAZI ",
+  "description": "サトシに会った",
+  "attributes": [
+    {
+      "value": "北尻",
+      "trait_type": "人物"
+    },
+    {
+      "value": "スーツ",
+      "trait_type": "服装"
+    },
+    {
+      "value": "オウム",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf5fVr6m6fJf7Zc1PnFzSuJ5oxp6qfkcMuLfTGBT7Qw7i/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmToGxNrhvoRx5UPtrwpaBo7Chg4xGzRShkrEYeAi5ZsMV/nft.mp4",
+  "tokenId": 540,
+  "chainId": "1",
+  "name": "THE JEWEL #540",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Rubellite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Palladium",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeeMfyZ2gbP3jdd28NiBxfkF2q6zJGVgoXd45TA3Mn6eU/nft.png",
+  "nftContractAddress": "0x08853526dc120c16bbc587436993278e52f9eb80",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "妖鬼丸",
+  "description": "Villain side hideout #1\n\nPack of oni.　Kijin. \nThey gather around to have a feast every night at Japanese restaurant Ichika.\nHello pretty, don't be scared! Come on in!\nWe were craving for a human like you\n\n敵側 アジト#1\n\n鬼の集団 鬼神　「炎帰万象」 \n高級料亭一花にて夜な夜な集い、夜通し宴が開かれる。\n\nこんばんは可愛い人！怖がらないで、入って入って！\nみんな君みたいな人間を待っていたんだ。\n\n満開の　目が合う梅の　絶望と",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "炎帰万象",
+      "trait_type": "Belief"
+    },
+    {
+      "value": "Ichika",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Oni/demon",
+      "trait_type": "Species"
+    },
+    {
+      "value": "none",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "7",
+      "trait_type": "apearance"
+    },
+    {
+      "value": "8",
+      "trait_type": "charisma"
+    },
+    {
+      "value": "7",
+      "trait_type": "intelligence"
+    },
+    {
+      "value": "3",
+      "trait_type": "luck"
+    },
+    {
+      "value": "8",
+      "trait_type": "mana"
+    },
+    {
+      "value": "6",
+      "trait_type": "speed"
+    },
+    {
+      "value": "5",
+      "trait_type": "spirit"
+    },
+    {
+      "value": "5",
+      "trait_type": "toughness"
+    },
+    {
+      "value": "5",
+      "trait_type": "strength"
+    }
+  ]
+}

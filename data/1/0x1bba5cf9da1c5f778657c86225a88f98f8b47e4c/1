@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPsbnDY8auDLZFkAoNBRX64tiB3DuD8KpR94vCr5gYibk/nft.png",
+  "nftContractAddress": "0x1bba5cf9da1c5f778657c86225a88f98f8b47e4c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "#010 Tim Journalist",
+  "description": "Tim is a journalist who travels the world to tell everyone the truth!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Job",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Journalist",
+      "trait_type": "Job"
+    },
+    {
+      "value": "Tim",
+      "trait_type": "Character"
+    }
+  ]
+}

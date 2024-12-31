@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTNkzBhRd5uUEdpEbgK9NEJJLA63EG28D1nAYYBwRkqC7/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "Doge in The Mirror in A Classic Room",
+  "description": "PNG 1024x1024  \nTotal supply 1/1  \nDoge is strong, beautiful and elegant. ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "Face",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "Mother",
+      "trait_type": "genaration"
+    }
+  ]
+}

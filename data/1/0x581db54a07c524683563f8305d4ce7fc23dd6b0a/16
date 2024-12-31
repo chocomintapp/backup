@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP3ATKu7CcTdBXtbqG6D531EyxoJWkY8n3msBpfLp7UfW/nft.png",
+  "nftContractAddress": "0x581db54a07c524683563f8305d4ce7fc23dd6b0a",
+  "animationUrl": "https://ipfs.io/ipfs/QmRbmpMF2DjFxKTVK2q74S58B3riZzVVnq9dWJbJpemcQM/nft.mp4",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": " Misorin#0016",
+  "description": "Heaven or hell, it's your call\n\nThe street that pops up STEP to win\n\nFalse escape, aim for the moon, FIRE\n\n\nA story to be created from here\n\nGathering up what's missing\n\nInvisible emotions loop in agony\n\nCreation and destruction create a groove\n\n\nThe plan is on track, there's more to come\n\nArt is resisting, the times are changing\n\n\nBecause there's no future in deceit\n\nHelping each other, it's all about love\n\nLack always gives us ideas\n\nDecisions are necessary, sometimes disappointments\n\n\nWe go through the darkness with our eyes wide open\n\nA sixth sense and research are all we need\n\nThere are no holds barred, but there are morals.\n\nSpeed is justice, the view is flowing\n\n\nHeaven or hell, it's your call\n\n飛び出す通り　勝つためのSTEP\n\n偽り脱出　月目指しFIRE\n\n\nこっから創る物語\n\n足りないものはを集めてく\n\n見えない感情が悶々とループ\n\n創造と破壊が生み出すグルーブ\n\n\n計画は順調だ　その先はある\n\n芸術で抵抗する　時代は変わる\n\n\n騙し合いに　その先は無いから\n\n助けあい　結局愛\n\n欠落がいつもアイデアをくれる\n\n決断は必要　時には失望\n\n\n目を見開いて　暗闇を進む\n\n第六感とリサーチが頼り\n\n禁じ手は無いがモラルはあるんだ\n\nスピードは正義　流れてく景色",
+  "attributes": [
+    {
+      "value": "mushroom",
+      "trait_type": "item"
+    },
+    {
+      "value": "Heaven or hell",
+      "trait_type": "song"
+    }
+  ]
+}

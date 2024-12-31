@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUvksCzfCJjJWFGgvkub8pAFrkkLcDFSUd2g759r34rYw/nft.png",
+  "tokenId": 1,
+  "description": "Matsumoto Castle, Japan's national treasure.",
+  "nftContractAddress": "0x33b0b4950bee0987f3fc8d4dd7395ce6e2f096aa",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Matsumoto Castle"
+}

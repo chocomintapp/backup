@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTp6mu1vJo4PDGi4Y13ZWcR1GgR23aDUERz66pv81NH5g/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "POCOEMOJI_kukuku",
+  "description": "Priscila-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

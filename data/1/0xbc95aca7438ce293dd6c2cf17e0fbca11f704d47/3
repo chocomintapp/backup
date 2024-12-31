@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW3ENxsbuD5PyuMWNinkwd4CbfMNjRY9jxiGiKS2T4x2S/nft.png",
+  "nftContractAddress": "0xbc95aca7438ce293dd6c2cf17e0fbca11f704d47",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "OFFkai",
+  "description": "Commemorative NFT for Tokyo & Osaka off-line meeting participants.",
+  "attributes": []
+}

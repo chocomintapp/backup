@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQCW9udAq7qiH4p8UHW4fe9YP9cqHusgu4Xuaq4W6xSDV/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmU7Ps2h8JWiEkMUf3bktVX6DpRaLrTuVky5NR5g2koMgQ/nft.mp4",
+  "tokenId": 61,
+  "chainId": "1",
+  "name": "THE JEWEL #061",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "red",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "gold",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

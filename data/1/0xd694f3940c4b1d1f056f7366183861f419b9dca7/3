@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRsdQK6osJ2Sw24FcrVgYo2pkm7f9xUHYgTYmWRUV93Es/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "May 20 シャクヤク",
+  "description": "",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "20",
+      "trait_type": "日"
+    },
+    {
+      "value": "必ず来る幸福",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "シャクヤク",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

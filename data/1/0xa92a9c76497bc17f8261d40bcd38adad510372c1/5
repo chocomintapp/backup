@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNhhLJkZWs3gcLtRjuKzxo5X8d8S6oNtAaS112wKrdXM2/nft.png",
+  "nftContractAddress": "0xa92a9c76497bc17f8261d40bcd38adad510372c1",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Petit_Shiina",
+  "description": "This is Shiina-chan.\n\nSpecial respect for the *FuChiMing* v2.\n(URL: https://opensea.io/collection/fuchimingv2)",
+  "attributes": [
+    {
+      "value": "brown",
+      "trait_type": "heir"
+    },
+    {
+      "value": "kimono",
+      "trait_type": "clothes"
+    },
+    {
+      "value": "dog",
+      "trait_type": "animal"
+    },
+    {
+      "value": "winter",
+      "trait_type": "season "
+    }
+  ]
+}

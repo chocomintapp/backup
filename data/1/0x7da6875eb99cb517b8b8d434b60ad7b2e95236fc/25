@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeyRpxcPBbL3fS4yVDwwqFW8ARDNr2uJuvy7WfHrxaANx/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "1",
+  "name": "KAIKA #25",
+  "description": "",
+  "attributes": [
+    {
+      "value": "light",
+      "trait_type": "energy"
+    },
+    {
+      "value": "freckles",
+      "trait_type": "extra"
+    },
+    {
+      "value": "doll",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "white",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "slicked back",
+      "trait_type": "hair"
+    },
+    {
+      "value": "orange",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "open smile",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "pale",
+      "trait_type": "skin tone"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcAVrHNdYhsk2JL4HxZSZiQxgFyAbNeLfrjg3RsCuga6E/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmYKdupwnMYoXoru9meaUQGwoCCVxLjHfW9Evj4CnQBi8m/nft.mp4",
+  "tokenId": 345,
+  "chainId": "1",
+  "name": "THE JEWEL #345",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Emerald",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfBqWmKFrQi7NNmGMda9h23VVoMcjAZW9MbNFLSPoDfjm/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "1",
+  "name": "Beach Borne Bae #66",
+  "description": "Beach Borne Bae #66\nInspired by Verconia nivalis / シラユキウミウシ",
+  "attributes": [
+    {
+      "value": "Double Bun",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Sleeveless",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Orange",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Sea Slug",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

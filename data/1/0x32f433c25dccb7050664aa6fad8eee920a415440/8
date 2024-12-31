@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmStkMEiYWAsWzGyAw68ofGCaZw8upBTFX7y4NGjqFs81p/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmQUQKaQ5TKDcX967nRM9wJZo4LARio5hEUAEoLVsbJW7F/nft.mp4",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "THE JEWEL #008",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "White Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "silver",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

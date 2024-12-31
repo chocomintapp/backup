@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW8vHJTKkTscp2JbTa6vBb6noQboirgpXvyofFHJRBfTW/nft.jpg",
+  "nftContractAddress": "0xc2b27dae83be44233fd522047a471637545231ac",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Crypto\"WAFUKU\" #024",
+  "description": "024\n\nShe's an angel.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "folding fan - 扇子",
+      "trait_type": "accessory"
+    },
+    {
+      "value": "angel - 天使",
+      "trait_type": "character"
+    },
+    {
+      "value": "original",
+      "trait_type": "originality"
+    },
+    {
+      "value": "halo - 天使の輪",
+      "trait_type": "individuality"
+    },
+    {
+      "value": "shiromuku - 白無垢",
+      "trait_type": "wafuku"
+    }
+  ]
+}

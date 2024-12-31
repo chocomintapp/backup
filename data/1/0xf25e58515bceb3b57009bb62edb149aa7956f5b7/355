@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU9pH1AG6Dn2osQ1CWYHbvkp2xKjVopsAdtjWkSRLopCd/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 355,
+  "chainId": "1",
+  "name": "SEIRA",
+  "description": "■セイラ",
+  "attributes": [
+    {
+      "value": "yami",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Short",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Shine-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-Black",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Round glasses-red(NE)Shining",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Stuffed Zombie2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

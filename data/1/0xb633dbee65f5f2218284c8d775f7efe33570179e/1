@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ69EmFdi24u5w3GcDz7dkH2c6YLFLpeKmazcezjnFyKV/nft.jpg",
+  "nftContractAddress": "0xb633dbee65f5f2218284c8d775f7efe33570179e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Eggbird #013-Flying Brown-eared Bulbul",
+  "description": "Eggbird #013-Flying『ヒヨドリ』",
+  "attributes": [
+    {
+      "value": "Nature 野鳥",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Bulbul ヒヨドリ",
+      "trait_type": "Species"
+    }
+  ]
+}

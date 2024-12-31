@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWpzErFwAQGXsL8GNuVf6XqG31Mrg9PWC3zdzRuoiKHa9/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 76,
+  "chainId": "1",
+  "name": "August 1 タンジー",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "1",
+      "trait_type": "日"
+    },
+    {
+      "value": "滅びることのない愛",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "タンジー",
+      "trait_type": "花"
+    }
+  ]
+}

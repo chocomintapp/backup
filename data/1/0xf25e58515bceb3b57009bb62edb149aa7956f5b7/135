@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUV6MnCvb4M7Qvy1pYuThkTCiNNqxQ4jC97pUx9zaX7p8/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 135,
+  "chainId": "1",
+  "name": "VARBIO",
+  "description": "■ヴァルビオ",
+  "attributes": [
+    {
+      "value": "Change",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Darkblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-ZombieAllblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Blue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Purple",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

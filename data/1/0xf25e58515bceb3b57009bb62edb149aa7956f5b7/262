@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS5WKZ9skgffhauaJrd6eZaMyLFrEkNZxev3KPQRTGCVv/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 262,
+  "chainId": "1",
+  "name": "CELIA",
+  "description": "■セリア",
+  "attributes": [
+    {
+      "value": "Bright-Green",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Drool",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Deeppink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "SuperSurprised-P",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees-Skyblue",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Orochi-drunk",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Skyblue",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

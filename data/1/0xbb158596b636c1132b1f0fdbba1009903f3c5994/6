@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc9hEAenFTAbdDjd8P34pEre7JWf2xXJhku1b2R5LU97e/nft.png",
+  "nftContractAddress": "0xbb158596b636c1132b1f0fdbba1009903f3c5994",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc9hEAenFTAbdDjd8P34pEre7JWf2xXJhku1b2R5LU97e/nft.png",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "NFTJPN Official #6",
+  "description": "NFTJPN official NFT #6 created exclusively for the sponsor of the 8th Curation Event on June 11, 2022. - Artist: Kura Matsuko @kura_matsuko",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Kura Matsuko",
+      "trait_type": "ARTIST"
+    },
+    {
+      "value": "June 11, 2022",
+      "trait_type": "DATE"
+    },
+    {
+      "value": "8th Curation",
+      "trait_type": "EVENT"
+    }
+  ]
+}

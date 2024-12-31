@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUeoGSDCtBd2B4NFwtBuFjNMiHAY9mP9ivMh5RU8Kdshm/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 162,
+  "chainId": "1",
+  "name": "MIKI",
+  "description": "■ミキ",
+  "attributes": [
+    {
+      "value": "Light-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Skyblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Straight-Skyblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "BTC High School",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Blue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-anger",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Skyblue",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

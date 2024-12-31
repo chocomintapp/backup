@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcc7ZV5SEdjD8zhsv1GTa9Uo8m4v82meVtzXWLMP6URSA/nft.gif",
+  "tokenId": 7,
+  "description": "Squidots go to Thailand!",
+  "nftContractAddress": "0x4d1273fa32cd441d8ca97ba0741134f3f30e9532",
+  "animationUrl": "https://ipfs.io/ipfs/QmU1xsGviBz5rqktrjSaWDA6fwBUWkb2WxPyonA8VzXJYG/nft.gif",
+  "chainId": "1",
+  "name": "Squidots Thailand"
+}

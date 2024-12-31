@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXKRwADkUra3SX62khvwydPBRSbvqMMogcQB7V9bRAroW/nft.png",
+  "tokenId": 1,
+  "description": "a photo i took in apa room",
+  "nftContractAddress": "0x04489364cc4ae1e0d96244798949feae121d4056",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "apaphoto",
+  "attributes": []
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ5LUUrEFBMftrCtixUTKwKTqZarrvzp5PXJj4mY9ckMo/nft.png",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "Tokyo Exopanding People 2099 #4 Mecha-human",
+  "description": "English\nThis model is probably the easiest to understand in terms of visual representations of human expansions.\nIt is said that what humans create becomes the future, but science fiction films often present a blueprint to reality.\nIdeas constructed in the mind eventually become real through the future.\nBeing able to represent this model on the screen may be an opportunity to actually put the future in your hands.\n日本語\n人体拡張の視覚的表現ではこのモデルは一番理解しやすいだろう。\n人間が作るものが未来になると言われるがSF映画は現実へブループリントを提示していることが多々ある。\n頭の中で構築されたアイデアは未来を介しやがて実在するものとなる。\nスクリーンでこのモデルを表現できるということは、未来のあり方を実際に貴方の手の中に委ねる好機なのかもしれない。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Mechahuman"
+    }
+  ]
+}

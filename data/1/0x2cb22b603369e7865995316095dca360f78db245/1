@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf7jCkGKQB7bg9Aq4ZyJWpKEoVJbTiWjsWqzbyUhawZBg/nft.png",
+  "nftContractAddress": "0x2cb22b603369e7865995316095dca360f78db245",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "neko",
+  "description": "This is a cat.",
+  "attributes": [
+    {
+      "value": "cat",
+      "trait_type": "ANIMAL"
+    },
+    {
+      "value": "blue",
+      "trait_type": "BACK GROUND"
+    },
+    {
+      "value": "bird",
+      "trait_type": "FRIENDS"
+    },
+    {
+      "value": "bag",
+      "trait_type": "ACCESSORIES"
+    }
+  ]
+}

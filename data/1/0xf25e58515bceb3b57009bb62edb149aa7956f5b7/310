@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbmyaPmrAPART12aybfnASe9Dvo2AooxmA5sS3tjrsSPe/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 310,
+  "chainId": "1",
+  "name": "EVIE",
+  "description": "■エヴィ",
+  "attributes": [
+    {
+      "value": "spread of infection",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Madness",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-UYellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Magic-caster（B）",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Round glasses-red Shining right",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Orochi-drunk",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

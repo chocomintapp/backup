@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNWvLTmbUYcWmQdNdLtRprVZBJJodu4ggtvbotWLMTTxB/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "のみこまれたけどたのしい風 The girl was swallowed but fun wind",
+  "description": "3作つづいた物語のさいごの作品です。\n\n❶[嵐の女の子](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/81008035297171467106590010615634195776700641120937970484020149143206761594881/)\n\n❷[のみこまれていく暗い風](https://opensea.io/assets/ethereum/0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9/15/)\n\n❸のみこまれたけどたのしい風（本作）\n\n人間だった女の子が、のみこまれてから風の仲間になった。 \nこの子は「また生きれてうれしい」と思っている。 \nくらいせかいにいたけどカラフルにできるようになった。\n\n\n※元々ポリゴンで出していましたが、❶、❷に合わせてイーサリアムにしました。\n作成日時保持のため、[元々ポリゴンで出していたNFTも残しています](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/81008035297171467106590010615634195776700641120937970484020149190485761589249/\n)が\n今後リストすることはありません。\n\nこちらの独自コントラクトETH作品が１点ものになります。\n\n\nThis is the last of a series of three stories.\n\n\n❶Storm Girl\n\n❷The Dark Wind of Being Swallowed\n\n❸The girl was swallowed but fun wind\n\nA girl who was human became a companion of the wind after being engulfed. \n\nThis girl is happy to be alive again.\n \nShe was in a dark world, but now she can be colorful.",
+  "attributes": [
+    {
+      "value": "Wind",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Typhoon",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Art",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Color"
+    }
+  ],
+  "minted": "✅"
+}

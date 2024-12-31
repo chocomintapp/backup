@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaPPb7RExtSCUQUkmADwcRNNXtV2vcTXDNHSgesFAdiVi/nft.png",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "Tokyo Exopanding People 2099 #8 Flying-amroed-mankind",
+  "description": "English\n\n“If I could fly.”\nThe act of flying means a release from the human species and society. Along with this, there will be changes in the physical characteristics of the body.\nAs long as we are confined by our human frame of reference, we may be rejected by those around us when we try to accomplish something new. That is not evolution. And so on.\nBut what about “degeneration” and “suspension”? Isn’t it a part of evolution?\nIn this model, I would like to propose such sociality.\n\n日本語\n\n「もし空を飛べたら。」\n空を飛ぶという行為は人間という種、そして社会からの離脱、解放を意味する。それに伴って身体の特徴にも変化があるだろう。\n人間という枠に囚われている限り、何か新しいことを成す時に周囲から拒絶されるかもしれない。「それは進化ではない。」と。\nしかし「退化」や「停留」はどうだろう。進化の内にあるのではないだろうか。\nこのモデルではそんな社会性を投げかけたい。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Flyinghuman"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdc3kDVGgMGgVg1NqKHLZJ1P1V53Ude49vr6F1qTFuHYq/nft.jpg",
+  "nftContractAddress": "0xdcbbd79e20c1ea86680ed83c872e8786f5f578f1",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "#19 IRON ANIMAL BEAN THE CAT",
+  "description": "Beans in 3D are here!!\nThe 3rd series is Iron animal with wings.",
+  "attributes": [
+    {
+      "value": "None",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Gas mask",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Cat ear gadget",
+      "trait_type": "EAR ACCESSORY"
+    },
+    {
+      "value": "Machine part",
+      "trait_type": "BODY ACCESSORY"
+    },
+    {
+      "value": "Iron",
+      "trait_type": "BODY COLOR"
+    },
+    {
+      "value": "Machine wings",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "None",
+      "trait_type": "ARTICLES"
+    },
+    {
+      "value": "Electronic substrate",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

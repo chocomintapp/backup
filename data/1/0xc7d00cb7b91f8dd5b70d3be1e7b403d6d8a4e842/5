@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbegj72p5GhaFwhPH6noWJNDRjrE66fbPAf63pkBWndp9/nft.png",
+  "nftContractAddress": "0xc7d00cb7b91f8dd5b70d3be1e7b403d6d8a4e842",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "AstroYdolph",
+  "description": "AstroOTTO 2001は、「HOPE」をテーマにした2001体の宇宙開拓民（AstroOTTO）のPFPNFTアートコレクションです。AstroOTTO 2001 is a PFPNFT art collection of 2001 space pioneers (AstroOTTO) with the theme 'HOPE'.",
+  "attributes": [
+    {
+      "value": "NONE",
+      "trait_type": "BACKITEM"
+    },
+    {
+      "value": "Moon",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Peace of mind",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Apple",
+      "trait_type": "HELMET"
+    },
+    {
+      "value": "Heart badge",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Striped pattern",
+      "trait_type": "SPACE SUIT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWrTzDJ1pe5t1FXZRSMrB6ZeMK8rWBWbWnCopGHdpWAwW/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 46,
+  "chainId": "1",
+  "name": "July 2 スイレン",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "7",
+      "trait_type": "月"
+    },
+    {
+      "value": "2",
+      "trait_type": "日"
+    },
+    {
+      "value": "清純な心",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "スイレン",
+      "trait_type": "花"
+    }
+  ]
+}

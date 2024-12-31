@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeLXcsQDNKL96nQnXtdHRJwsGYEowsZKGbHZ9qSt7FU5V/nft.png",
+  "tokenId": 1,
+  "description": "Created by kimizuka_JP\nCuriosity about death.",
+  "nftContractAddress": "0xa9477e0b8d8d36100252c9dacab0f1f99c91a020",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#001",
+  "attributes": [
+    {
+      "trait_type": "Body-Color",
+      "value": "#84cbffff"
+    },
+    {
+      "trait_type": "Face-Color",
+      "value": "#ffffccff"
+    },
+    {
+      "trait_type": "Background-Color",
+      "value": "#ffb391ff"
+    },
+    {
+      "trait_type": "Mind",
+      "value": "Curiosity about death"
+    },
+    {
+      "trait_type": "Mind-Shape",
+      "value": "Shape001"
+    },
+    {
+      "trait_type": "Mind-Color",
+      "value": "#f0c700ff"
+    },
+    {
+      "trait_type": "Eye-Type",
+      "value": "Eye001"
+    },
+    {
+      "trait_type": "Eye-Color",
+      "value": "#000000ff"
+    }
+  ]
+}

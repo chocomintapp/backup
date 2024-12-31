@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZp1poV1bKwZwDA8TMWtvWHBW1agxDqatbFf1ARKH2vFr/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 298,
+  "chainId": "1",
+  "name": "RINON",
+  "description": "■リノン",
+  "attributes": [
+    {
+      "value": "Dot2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Madness",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Lightgreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "composed-smile",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-RBR(G)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Round glasses-red(GE)",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Angel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "The Greens",
+      "trait_type": "TYPE"
+    }
+  ]
+}

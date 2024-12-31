@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVVru2KotwY94YRTeUfUWvF1STbjmAQ9NFD7hbxxFq9aM/nft.png",
+  "tokenId": 12,
+  "description": "\"Yuki Onna\" = \"Ghost\" x \"Ogre\" Tsulala Kudou\n\n「雪女」メイン種族ゴースト、サブ種族は鬼。名前は工藤つらら。\n\n雪女は日本発祥のモンスター娘で、寒い地方に出現する雪の化身。雪を思わせる真っ白な肌に死装束を身にまとっており、死の象徴と考えられている。ゴースト種から「死」を、鬼種から「和風」の特徴を引き継いでいる。箱入り娘として育てられてきたので男性免疫が無い。子どもと遊ぶのが好き。実は冷え性に悩まされている。\n\n\"Yuki Onna\" is a monster girl from Japan, an incarnation of snow that appears in cold regions. She has pure white skin reminiscent of snow and wears a deadly costume, which is thought to be a symbol of death. \"Yuki Onna\" has inherited \"death\" from the Ghost species and \"Japanese style\" from the Ogre species. Tsulala was raised as a girl in a box, so she is not immune to men. She likes to play with children. In fact, she suffers from a sensitivity to cold. ",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#037 \"Yuki Onna\" Tsulala Kudou",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Ogre"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "minted": "✅"
+}

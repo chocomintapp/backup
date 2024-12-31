@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcR6yK9bz6nxat1jk2598BJv4bAGmcXHABjkRQFygttox/nft.gif",
+  "nftContractAddress": "0x9dc339b235910416bcd9d4c5f3cba8bb481eea51",
+  "animationUrl": "https://ipfs.io/ipfs/QmcR6yK9bz6nxat1jk2598BJv4bAGmcXHABjkRQFygttox/nft.gif",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "#003 Class1-A Yuko Shiraishi",
+  "description": "She is energetic and lively, and her classmates admire her.  \n-------------------------------  \n元気で活発な彼女は、クラスの憧れの存在です。",
+  "attributes": [
+    {
+      "value": "Miyabi High School",
+      "trait_type": "School"
+    },
+    {
+      "value": "Class 1-A",
+      "trait_type": "Grade"
+    },
+    {
+      "value": "Volleyball club",
+      "trait_type": "Role"
+    }
+  ]
+}

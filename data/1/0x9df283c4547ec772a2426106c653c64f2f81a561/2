@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYhnNaBiuNPsrq4PosKE3Ba8TPtexWCk9Hym1nGmX93XT/nft.jpg",
+  "nftContractAddress": "0x9df283c4547ec772a2426106c653c64f2f81a561",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "sakana icon",
+  "description": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

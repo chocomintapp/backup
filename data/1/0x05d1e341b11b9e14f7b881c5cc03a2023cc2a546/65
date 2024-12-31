@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYKGUS12pv7zs7Cpt1sx7NF8ZXEGM51WJibC6694Fxek4/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmeC61vGLKmWZ8EQeLmZbggTVLyv2gLtH7YfvyVX31mxaX/nft.mp4",
+  "tokenId": 65,
+  "chainId": "1",
+  "name": "Proun #065",
+  "description": "Proun  \nシンプルながらも力強いメッセージを発する  \nA simple but powerful message.",
+  "attributes": [
+    {
+      "value": "Construct",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Mimi",
+      "trait_type": "VOICE"
+    }
+  ]
+}

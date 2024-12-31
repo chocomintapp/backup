@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma6gQb9LQj1YqX6A6JGvxwnQHcmC7tkH3ciqadJmr3LDs/nft.png",
+  "tokenId": 2,
+  "description": "\"Cu Sith\" = \"Werewolf\" x \"Cait Sith\" Bandog Morimoto\n\n「クーシー」メイン種族ワーウルフ、サブ種族ケットシー。名前はバンドッグ森本。\n\nクーシーは、犬の妖精。ワーウルフの外見に、ケットシーの獣型妖精の血が混ざったハイブリッド種です。主人の命令に非常に従順です。\n\n\"Cu Sith\" is a dog fairy. They are a hybrid species with the appearance of a Werewolf and the beastly fairy blood of a Cait Sith. They are very obedient to their master's commands.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#027 \"Cu Sith\" Bandog Morimoto",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Werewolf"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Cait Sith"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

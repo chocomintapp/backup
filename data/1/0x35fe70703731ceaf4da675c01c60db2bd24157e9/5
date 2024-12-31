@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZZKESyxsp12kmWL3779h2WLd6MUU1CMBHdyHrM1EXNbn/nft.JPEG",
+  "nftContractAddress": "0x35fe70703731ceaf4da675c01c60db2bd24157e9",
+  "animationUrl": "https://ipfs.io/ipfs/QmPgMAKrJ6Hwkt1YYodjVKUmAVapvZGtaHTn46xCrUPAjq/nft.mp4",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "KYOSO ",
+  "description": "KYOSO - Earth : TOKYOITE Music NFT Project\nMusic : MURPH , EdoLena \nArtworks : EdoLena \nVVAVE3 Live Limited Edition for Syo_Saida\nThis full length music is available for one year CC0 from the date of airdropping.",
+  "attributes": [
+    {
+      "value": "Earth",
+      "trait_type": "KYOSO"
+    }
+  ]
+}

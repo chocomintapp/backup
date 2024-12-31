@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmevVbMtRRooneddphasscy7jjQ2bvszy3M1uMkfnXi8EN/nft.png",
+  "nftContractAddress": "0x3862f486ffe3a406a14a69737a63e6b3ace72b97",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "#00 渋沢栄子 shibuzawa eiko資本主義思想の女の子「渋沢栄子」",
+  "description": "Eiko Shibusawa, the girl of capitalist thought.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Anime",
+      "trait_type": "girl"
+    },
+    {
+      "value": "Heisei",
+      "trait_type": "pop"
+    },
+    {
+      "value": "kawaii",
+      "trait_type": "Japan"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXahhTFJXSt8U8RbbU4B8wXZT8NRWQ2kai3yMDdD491Um/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 297,
+  "chainId": "1",
+  "name": "March 9 モクレン",
+  "description": "",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "月"
+    },
+    {
+      "value": "9",
+      "trait_type": "日"
+    },
+    {
+      "value": "崇高",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "モクレン",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

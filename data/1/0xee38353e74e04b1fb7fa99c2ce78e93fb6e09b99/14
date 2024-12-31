@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRd7HmSfdsCphQa31S4NtCJXpcApwjPc6F3JxbLbRTQh3/nft.png",
+  "nftContractAddress": "0xee38353e74e04b1fb7fa99c2ce78e93fb6e09b99",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "#0014 Series001 No.012",
+  "description": "未来の自律型電脳ゲーミングPC『Chirobo.』\n   \nPortable Network Graphics       \n2048×2048px",
+  "attributes": [
+    {
+      "value": "Series 001",
+      "trait_type": "Series"
+    },
+    {
+      "value": "Camouflage",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Square type A",
+      "trait_type": "CPU"
+    },
+    {
+      "value": "Xenotics type A",
+      "trait_type": "GPU"
+    },
+    {
+      "value": "CircleIndustry type A",
+      "trait_type": "RAM"
+    },
+    {
+      "value": "PaleColor",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Yellow×Purple",
+      "trait_type": "LED"
+    }
+  ],
+  "minted": "✅"
+}

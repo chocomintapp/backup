@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme8AZpPZbjSstJTDBY3MLrbSeLWpJ6vqwts3DvTdiKK6C/nft.png",
+  "tokenId": 1,
+  "description": "肉のためなら、どこへでも飛んでいくよ。\n\nFor meat, I will fly anywhere.",
+  "nftContractAddress": "0xe5c629f18a0b3325faa3f2914fad6e5a056b1913",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Pteranodon（プテラノドン）",
+  "attributes": [
+    {
+      "trait_type": "WHO",
+      "value": "Dinosaur"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVcQ7in6HQoe52Um144zvGHCArFv9xfbZSY32T9VPzVYG/nft.png",
+  "nftContractAddress": "0xa92a9c76497bc17f8261d40bcd38adad510372c1",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Petit_Karen",
+  "description": "This is Karen-chan.\n\nSpecial respect for the *FuChiMing* v2.\n(URL: https://opensea.io/collection/fuchimingv2)",
+  "attributes": [
+    {
+      "value": "brown",
+      "trait_type": "heir"
+    },
+    {
+      "value": "cat",
+      "trait_type": "animal"
+    },
+    {
+      "value": "student",
+      "trait_type": "job"
+    },
+    {
+      "value": "winter",
+      "trait_type": "season "
+    }
+  ]
+}

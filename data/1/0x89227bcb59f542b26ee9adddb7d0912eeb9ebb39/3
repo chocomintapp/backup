@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNW6PQWMcM1FtMicyuZqx8Ln1w8wZXMsa16F1ppBiX4oR/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "#003-Iwate-",
+  "description": "#003-Iwate-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Gaia",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Tohoku",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Iwate",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

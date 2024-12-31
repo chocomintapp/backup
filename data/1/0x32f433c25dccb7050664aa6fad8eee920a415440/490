@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUB5kNu4fthkVRLR5Q3sLLQ6H6wj9HbzgDLihuKxikdxp/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmSeJAscMYAbvd3xoHGv5rdz4oxypc7KXx8Gcc8V3E3WGL/nft.mp4",
+  "tokenId": 490,
+  "chainId": "1",
+  "name": "THE JEWEL #490",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Green Gold K18",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

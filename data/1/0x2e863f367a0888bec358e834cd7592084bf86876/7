@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWwpVPqhbfBTTecLLHj64DBmDjNfYd7uh3sxy274C3m8Q/nft.JPG",
+  "tokenId": 7,
+  "description": "To be human is to have both the cold and calculating logic as well as the hot and fiery emotional part. To keep the balance is the really tricky part.\n\nOriginally sold with the painting\nPainted in 2019\nKrs",
+  "nftContractAddress": "0x2e863f367a0888bec358e834cd7592084bf86876",
+  "animationUrl": "https://ipfs.io/ipfs/QmWwpVPqhbfBTTecLLHj64DBmDjNfYd7uh3sxy274C3m8Q/nft.JPG",
+  "chainId": "1",
+  "name": "Logic & Emotion",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

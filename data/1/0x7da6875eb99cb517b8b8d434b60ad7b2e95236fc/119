@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbFgXHTwABq37SVv2YhY6wDEjhN4Pj1bznoUvSR6KBLni/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 119,
+  "chainId": "1",
+  "name": "KAIKA #119",
+  "description": "",
+  "attributes": [
+    {
+      "value": "earth",
+      "trait_type": "energy"
+    },
+    {
+      "value": "halloween blood",
+      "trait_type": "extra"
+    },
+    {
+      "value": "almond",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "heterochromia",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "straight",
+      "trait_type": "hair"
+    },
+    {
+      "value": "underlayer",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "lick",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "pale",
+      "trait_type": "skin tone"
+    }
+  ]
+}

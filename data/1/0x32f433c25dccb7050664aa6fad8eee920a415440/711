@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma2w5w7NzCGjume5Uhp1fDE7vBPg7kizoGGuvqBNnLT4V/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmYgMCbRRsEwooL4KZHALtyf4BqEZ7XA1NNepzktFv7dmF/nft.mp4",
+  "tokenId": 711,
+  "chainId": "1",
+  "name": "THE JEWEL #711",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Black Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

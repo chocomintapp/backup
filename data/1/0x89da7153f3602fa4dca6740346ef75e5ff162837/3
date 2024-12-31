@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVLYKYiA4EBwQvRwH7CCHiyt38XfKvPruHrdA6aU9drCf/nft.png",
+  "nftContractAddress": "0x89da7153f3602fa4dca6740346ef75e5ff162837",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "CG Campers #033 with Kamogashira",
+  "description": "鴨頭さんがCoolGirlNFT#033を購入し、CoolGirlNFTのtotal volumeが100を超えた記念に作成したNFT。",
+  "attributes": [
+    {
+      "value": "Nihon Buyo",
+      "trait_type": "HOBBY"
+    },
+    {
+      "value": "Mr. Kamogashira",
+      "trait_type": "WITH"
+    }
+  ],
+  "minted": "✅"
+}

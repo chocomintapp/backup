@@ -1,0 +1,67 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdxHj5MHUqjb7jgTQqo3fk7fyaujwFgtarsXv6jozCqoz/nft.png",
+  "nftContractAddress": "0x08853526dc120c16bbc587436993278e52f9eb80",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "森羅宇須鬼",
+  "description": "Villain side hideout #1\n\nPack of oni.　Kijin. \nThey gather around to have a feast every night at Ichika. \nHurting myself, full of envy,I hope to become a human again...\n\n\n敵側 アジト#1\n\n鬼の集団 鬼神　「炎帰万象」 \n\n有涯無常　人をうらやみ　身そこなひ",
+  "attributes": [
+    {
+      "value": "male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "?",
+      "trait_type": "Belief"
+    },
+    {
+      "value": "ichika",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Oni/demon",
+      "trait_type": "Species"
+    },
+    {
+      "value": "?",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "6",
+      "trait_type": "apearance"
+    },
+    {
+      "value": "5",
+      "trait_type": "charisma"
+    },
+    {
+      "value": "6",
+      "trait_type": "intelligence"
+    },
+    {
+      "value": "5",
+      "trait_type": "luck"
+    },
+    {
+      "value": "4",
+      "trait_type": "mana"
+    },
+    {
+      "value": "8",
+      "trait_type": "speed"
+    },
+    {
+      "value": "5",
+      "trait_type": "spirit"
+    },
+    {
+      "value": "8",
+      "trait_type": "toughness"
+    },
+    {
+      "value": "8",
+      "trait_type": "strength"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZnP5fetfrzNkha32RFeLNug82JypiQXXUwQE6Pt2aptj/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 199,
+  "chainId": "1",
+  "name": "ARIEL",
+  "description": "■アリエル",
+  "attributes": [
+    {
+      "value": "Chess",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Mix1aura",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Odd1",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Angel-aura",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Aqua",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Angel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Heavenly Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfKMingQEd5uq5kKk3vuGKdJN3ef59wbT4ujJz3KHeHkJ/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "THS #043",
+  "description": "【色】",
+  "attributes": [
+    {
+      "value": "jewel beetle",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "peacock",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

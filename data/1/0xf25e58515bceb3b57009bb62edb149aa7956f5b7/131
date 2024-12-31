@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQefU2ghDR9aYF41tRVTfk1Xju9WB2e8dDGemPah7irMk/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 131,
+  "chainId": "1",
+  "name": "WHITNEY",
+  "description": "■ホイットニー",
+  "attributes": [
+    {
+      "value": "Right side of the heavens",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sharp-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WYB(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dominion",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

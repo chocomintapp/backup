@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSF4US7PWGmhXosFXkbPddXV8QqWRRfo2kUtAU7PXcnaf/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "1",
+  "name": "Doge Hoops Blue Night",
+  "description": "File: PNG  \nSize: 2048x2048  \nTotal supply: 1/1  ",
+  "attributes": [
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "w/ body",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "Mini",
+      "trait_type": "genaration"
+    },
+    {
+      "value": "ISS",
+      "trait_type": "object(s)"
+    }
+  ]
+}

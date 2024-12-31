@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmea6ySjoK8MD1R11arAKL9atnCAtU8Dr5JMHYGXmVQpSC/nft.mp4",
+  "nftContractAddress": "0xdb4969706380e8ffbbcb9226278f5701f93dec74",
+  "animationUrl": "https://ipfs.io/ipfs/Qmea6ySjoK8MD1R11arAKL9atnCAtU8Dr5JMHYGXmVQpSC/nft.mp4",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Moving Craftwork #003 peanut father and his son",
+  "description": "Peanut's father and his son sing songs of peace today.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

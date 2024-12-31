@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmekZiai111eXpkzNvpbnRDhLdQAN3WwjV2sPuoCjyJq1B/nft.png",
+  "nftContractAddress": "0xfacffaef675dc80498dbde2d390bbd0f3f677079",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "202307141401",
+  "description": "",
+  "attributes": [
+    {
+      "value": "202307141401",
+      "trait_type": "date"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

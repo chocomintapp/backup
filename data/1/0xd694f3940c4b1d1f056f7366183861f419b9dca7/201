@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXNDrC9bu7uHL11JZLJUH2wAvboW5UcANDiuxNEYs9kwp/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 201,
+  "chainId": "1",
+  "name": "December 4 パンジー（アプリコット）",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "4",
+      "trait_type": "日"
+    },
+    {
+      "value": "楽しい気分",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "パンジー",
+      "trait_type": "花"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXMzodbeuqW7a3z8hSavJCjEdncs46uKdP4hQPwsMg34j/nft.png",
+  "tokenId": 527,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #527",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Cyber Eyes"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square Shades"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Bengal Cat"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Fallen Angel"
+    }
+  ]
+}

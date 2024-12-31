@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbGFucd5NYzrNWxpCnnBxVY92jfAgkWbcZ167t1wmvi7D/nft.mp4",
+  "tokenId": 2,
+  "description": "Collaboration with https://opensea.io/ikehaya_JP\n\ntheme by https://opensea.io/collection/crypto-ninja-nft\n\nThis was created as the theme music for the Crypt Ninja Collection.\nIt is inspired by modern technology like Ninpo.\n\nクリプト忍者コレクションのテーマ曲として制作しました。\n忍法のような現代テクノロジーをイメージしています。",
+  "nftContractAddress": "0xa88c1bb24a3936377a232b3a64f56a50ca33b14d",
+  "animationUrl": "https://ipfs.io/ipfs/QmbGFucd5NYzrNWxpCnnBxVY92jfAgkWbcZ167t1wmvi7D/nft.mp4",
+  "chainId": "1",
+  "name": "Ninpo",
+  "attributes": []
+}

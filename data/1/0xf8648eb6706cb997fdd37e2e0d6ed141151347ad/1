@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcQrY2vM7j8HYinE4hLVH327nRQs8DGHAie1a7L8oPU6Q/nft.png",
+  "nftContractAddress": "0xf8648eb6706cb997fdd37e2e0d6ed141151347ad",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Cryptomasks Samurai #002",
+  "description": "A series of Cryptomasks Samurai-7 in seven different colors. The Kanji character \"Bu\" on the sphere of the head is pronounced \"Bu\" and means \"STRONG AND FIERCE\" as well as being a symbol for the samurai.\n\nThis piece with its aqua blue background, represents \"pure of heart”.",
+  "attributes": [
+    {
+      "value": "CS7",
+      "trait_type": "Cryptomasks Samurai"
+    },
+    {
+      "value": "Aqua Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Bu",
+      "trait_type": "Kanji"
+    }
+  ]
+}

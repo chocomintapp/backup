@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSH4289FnsrRRhYSS6zpgeGgjAFCA6QQeRXzbPaaRkcLz/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 70,
+  "chainId": "1",
+  "name": "OYAZI ",
+  "description": "Out Flow",
+  "attributes": [
+    {
+      "value": "和口",
+      "trait_type": "人物"
+    },
+    {
+      "value": "着物",
+      "trait_type": "服装"
+    },
+    {
+      "value": "XEM",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "刀",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

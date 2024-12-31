@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb5Yi9YXXidttZctHqjh1E7q8xQ2FWWm5ByuVXsC4A8G3/nft.PNG",
+  "nftContractAddress": "0xbef3916df835b234c3d510d59a04d0e59730bad4",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "MMM #014",
+  "description": "MMM COLLECTION",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "C",
+      "trait_type": "TYPE"
+    }
+  ]
+}

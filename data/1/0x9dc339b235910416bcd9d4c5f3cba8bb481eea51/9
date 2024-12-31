@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXVfKUyh25DVsHufbYrp2m2HeoRT1RZmiMDDecyeNKfe8/nft.gif",
+  "nftContractAddress": "0x9dc339b235910416bcd9d4c5f3cba8bb481eea51",
+  "animationUrl": "https://ipfs.io/ipfs/QmXVfKUyh25DVsHufbYrp2m2HeoRT1RZmiMDDecyeNKfe8/nft.gif",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "#009 Class2-A Hitomi Kinoshita",
+  "description": "She is obsessed with romance novels and comics.  \n------------------  \n彼女は恋愛小説や漫画に夢中です。",
+  "attributes": [
+    {
+      "value": "Izumo High School",
+      "trait_type": "School"
+    },
+    {
+      "value": "Class 2-A",
+      "trait_type": "Grade"
+    },
+    {
+      "value": "Literature club",
+      "trait_type": "Role"
+    }
+  ]
+}

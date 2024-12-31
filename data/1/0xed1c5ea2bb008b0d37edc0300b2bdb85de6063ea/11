@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNTjx9FuoZC8xsDJgAYULbuR5hDgrFtkzvRFFLZdK6xpW/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "Augu",
+  "description": "He is one of the AlternativeVerth, which emerged when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "normal",
+      "trait_type": "skin"
+    },
+    {
+      "value": "normal_brown2",
+      "trait_type": "eye"
+    },
+    {
+      "value": "lpurple03",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_glass",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Taurus",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

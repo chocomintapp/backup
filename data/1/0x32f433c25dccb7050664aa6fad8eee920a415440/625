@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQHKdvqzxaJbNeU6rTSHhP4ht55bypjQV2E7c5zUj4VdA/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmb5fpADqTT1DFemgP1F17zZ1FGafEf9gauwidZgY4xx2A/nft.mp4",
+  "tokenId": 625,
+  "chainId": "1",
+  "name": "THE JEWEL #625",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Black Blue Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Tantalum",
+      "trait_type": "Control device"
+    }
+  ]
+}

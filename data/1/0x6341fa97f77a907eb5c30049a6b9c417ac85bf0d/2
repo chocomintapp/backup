@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRA9N4wZPQRCGjdPbjP6Dxm8zofD8a86wJYqMKKZAUiCe/nft.gif",
+  "tokenId": 2,
+  "description": "L's Dark Art Collection #２ ~ Reaper ~\n\nThe Dark Art Collection is a mysterious work with Gothic movies and horror tastes with forests and scenes as motifs. We will continue to increase the number of works in the future. It is finished in a painting style based on the photograph, and combines animation composition and sound. Please add a dark piece to your collection.\n\n1080 x 1612 30fps MP4 30sec",
+  "nftContractAddress": "0x6341fa97f77a907eb5c30049a6b9c417ac85bf0d",
+  "animationUrl": "https://ipfs.io/ipfs/QmYoeYdGHyquS5ZWUN3zRmrbHDipQFRTEAZFiWPjZknGAG/nft.mp4",
+  "chainId": "1",
+  "name": "Reaper",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

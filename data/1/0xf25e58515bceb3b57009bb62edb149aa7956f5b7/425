@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSVqopzNcJbD6Jg7UeuJJKHvqiAhPqQtgZcvQQtuq6mjy/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 425,
+  "chainId": "1",
+  "name": "TAMA",
+  "description": "■タマ",
+  "attributes": [
+    {
+      "value": "bubble9",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks2",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Duckstyle-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Edo-wigRed",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0002Eye5",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-ryugujyo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Duck Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

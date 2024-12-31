@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXvMJSC7rLZv5PKEue5g3RvTNKLxGpZkP6vy4mbLsUmB3/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 105,
+  "chainId": "1",
+  "name": "August 30 ヘザー（赤）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "30",
+      "trait_type": "日"
+    },
+    {
+      "value": "頼もしい",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ヘザー",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

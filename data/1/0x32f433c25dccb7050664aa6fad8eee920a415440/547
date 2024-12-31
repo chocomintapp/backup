@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcAxZdv8Tjov5RQ3MAhRDXTSntTzSRqrWdGg9MXFueUVy/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWmbb4e32K55te76ejXtuWQ1iWiD94iu5R45aW62gpYCB/nft.mp4",
+  "tokenId": 547,
+  "chainId": "1",
+  "name": "THE JEWEL #547",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Gold K18",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

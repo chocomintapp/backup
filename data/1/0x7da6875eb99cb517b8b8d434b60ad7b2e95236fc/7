@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme6AuZxN9irXHRuaLFQvukgc8G9ntxdzxJBxNfDbzbiez/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "KAIKA #8",
+  "description": "",
+  "attributes": [
+    {
+      "value": "earth",
+      "trait_type": "energy"
+    },
+    {
+      "value": "freckles",
+      "trait_type": "extra"
+    },
+    {
+      "value": "doll",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "white",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "wolf",
+      "trait_type": "hair"
+    },
+    {
+      "value": "purple",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "lip bite",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "light",
+      "trait_type": "skin tone"
+    }
+  ]
+}

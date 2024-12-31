@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYvtMDVm3pms7R6ym5pyfZwbfAi9P4g38Q6ZKaoXGKLHH/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 247,
+  "chainId": "1",
+  "name": "January 19 セントポーリア",
+  "description": "",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "月"
+    },
+    {
+      "value": "19",
+      "trait_type": "日"
+    },
+    {
+      "value": "小さな愛",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "セントポーリア",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

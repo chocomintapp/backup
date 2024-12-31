@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXWLtuaDFnLR3WBjCjcbjK4sUykqzKDzZL7YWcukGVU1e/nft.png",
+  "nftContractAddress": "0xa92a9c76497bc17f8261d40bcd38adad510372c1",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Petit_Beatrix",
+  "description": "This is Beatrix-chan.\n\nSpecial respect for the *FuChiMing* v2.\n(URL: https://opensea.io/collection/fuchimingv2)",
+  "attributes": [
+    {
+      "value": "light brown",
+      "trait_type": "heir"
+    },
+    {
+      "value": "idol",
+      "trait_type": "job"
+    },
+    {
+      "value": "dog",
+      "trait_type": "animal"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdC5PQdwqEfkN4dn51su5Unib12T8GmngXFj3AgdhVAkj/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 48,
+  "chainId": "1",
+  "name": "Saki-chan gets excited when it snows ゆきがふるとわくわくするさきちゃん #227",
+  "description": "Saki is a \"snow child\".\n\nThis is because she can color the snow with rainbow colors.\nShe dances a dance that makes snow fall.\nAnd they can make the snow bloom rainbow-colored flowers.\n\nThat is why they are called \"saki-chan,\" which means blooming.\n\nThey are also called \"winter child\" because they were born on a winter morning.\nWe do not know why this kind of magic is possible.\nIs it because the whole family is born in winter?\n\nThis child is an evolved child.\n\nShe was bought clothes for his birthday, but he wears them without washing them.\nShe likes it too much to wash it.\n\nさきちゃんはゆきの子です。\n\nなんでゆきの子かというと、ゆきをにじいろにかえられるんです。\nゆきふれだんごダンスをおどります。\nそうするとゆきににじいろの花をさかせます。\n\nだからさきちゃんです。\n\nしかもこの子はふゆになったあさに生まれたからふゆの子ともいわれています。\nなぜこのようなまほうがつかえるかというとわからないのです。\nかぞくぜんいんふゆに生まれているからつかえるのかもしれません。\n\nこの子は、しんかバージョンです。\n\nおたんじょうびにようふくをかったけどせんたくせずにきています。\nおきにいりすぎてあらえないのです。\n\n※小学2年生27番目の作品なので#227の番号をふっています。",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Girl",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Rainbow",
+      "trait_type": "Color"
+    },
+    {
+      "value": "kawaii",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

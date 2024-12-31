@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVn4W9k6cm4K3gc4Lq9JReqnVPfCVaVsSEBokFg672b1E/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "The Planet Doge And Rockets",
+  "description": "PNG 1024x1024  \nTotal supply 1/1  \nRockets fly around and are attracted by The Planet Doge which is beautiful and glossy in the light and the darkness.",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "Face",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "Rockets",
+      "trait_type": "object(s)"
+    },
+    {
+      "value": "Mother",
+      "trait_type": "generation"
+    }
+  ]
+}

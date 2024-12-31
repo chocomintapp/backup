@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQDUmtLRrCWFpt4GMAf8TfxuaVoJpni49wj19BzRUx5v2/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "Meco",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "SHIROMUKU",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Coche",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "SLIGHT SMILE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "FAN",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "SPECTER",
+      "trait_type": "RACE"
+    }
+  ]
+}

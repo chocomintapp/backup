@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRLs22EW8qZs7L3awGJSVLtzrr1iC1krpQScY1F8j2PHJ/nft.PNG",
+  "nftContractAddress": "0x039ad6000d8ec1081c4c57fe9d6b791ffb36cf8a",
+  "animationUrl": "",
+  "tokenId": 63,
+  "chainId": "1",
+  "name": "mecha kawaii boy #2",
+  "description": "ユイ。28歳。庭師。木を丸く刈るのが得意。一見怖そうに見えるが、酒も煙草もギャンブルもやらない。お気に入りのファッションアイテムはシルバーのアーマーリング。",
+  "attributes": [
+    {
+      "value": "mecha kawaii boy",
+      "trait_type": "naco no art"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVV6k63Nk7CArxRKG24i9Hzhf7rL3qF5sQA5zEAGKKZkF/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 280,
+  "chainId": "1",
+  "name": "GIGI",
+  "description": "■ジジ",
+  "attributes": [
+    {
+      "value": "Fall into place",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks2",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-Big",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-ZYellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "LoliFoodie-Black",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-kevin",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Mitama-shock",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

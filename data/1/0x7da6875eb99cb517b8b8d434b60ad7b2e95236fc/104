@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXZYBctkbLHLb7cdepCUod8xU2hRZyE5q3pMsvnJ6PcQU/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 104,
+  "chainId": "1",
+  "name": "KAIKA #104",
+  "description": "",
+  "attributes": [
+    {
+      "value": "earth",
+      "trait_type": "energy"
+    },
+    {
+      "value": "none",
+      "trait_type": "extra"
+    },
+    {
+      "value": "sleepy",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "brown",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "mid bang",
+      "trait_type": "hair"
+    },
+    {
+      "value": "brown",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "open smile",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "light",
+      "trait_type": "skin tone"
+    }
+  ]
+}

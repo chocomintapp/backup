@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPasJKadAqM61s7GH3DuRGVgRymsi1NQcLWBHhXtmXyRb/nft.png",
+  "nftContractAddress": "0x45d12b2952bf9ffcc6f98195e82e9cba897ecf14",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "egg animals #5",
+  "description": "They are egg-shaped animals. This is \"egg animals\" drawn by a Japanese person who loves cute things.",
+  "attributes": []
+}

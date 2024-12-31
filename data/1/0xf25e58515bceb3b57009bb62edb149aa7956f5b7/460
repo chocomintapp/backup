@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf9RGJQr2FnDkGQgize4E2qqowJfk3qvEz2hPgyGqNC74/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 460,
+  "chainId": "1",
+  "name": "NAGI",
+  "description": "■ナギ\nSSPファンアート",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "AnisuHair(Mix2)",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-OddGR",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Black-SSP",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Black-SSPmask",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Black-Sickle",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

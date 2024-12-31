@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTZuvW4H4g7mjVMXVHxWt1gRPg3aZrJy2D2syFktdpE1L/nft.png",
+  "nftContractAddress": "0xe6961ae83a76c35839eb8626115c25287a27583c",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "PixelCollectorSaga #013 mato",
+  "description": "",
+  "attributes": [
+    {
+      "value": "reclining dragon",
+      "trait_type": "clan"
+    },
+    {
+      "value": "human",
+      "trait_type": "race"
+    },
+    {
+      "value": "male",
+      "trait_type": "sex"
+    },
+    {
+      "value": "lance",
+      "trait_type": "wepon"
+    },
+    {
+      "value": "aqua",
+      "trait_type": "element"
+    },
+    {
+      "value": "revolutionary",
+      "trait_type": "job"
+    },
+    {
+      "value": "none",
+      "trait_type": "cryptid"
+    },
+    {
+      "value": "trident",
+      "trait_type": "special"
+    }
+  ]
+}

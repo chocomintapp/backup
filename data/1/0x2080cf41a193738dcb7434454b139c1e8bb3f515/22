@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd7edbt3k81m1NYq734XVCcute8ht123MJHdQSG8x2YSQ/nft.png",
+  "tokenId": 22,
+  "description": "\"Phoenix\" = \"Harpy\" x \"Zombie\" Amrta Kubo\n「フェニックス」メイン種族ハーピー、サブ種族ゾンビ。名前はアムリタ久保。\n\nエジプト伝承に現れる不死鳥。寿命を迎えると自ら炎に飛び込んで死に、炎の中から蘇る。ハーピー種の鳥類の特性と、ゾンビ種の不死の特性を引き継いでいる。フェニックスを飼育する際は不燃性の家具を用意しよう。火の用心！\n\n”Phoenix\" is a deathless bird that appears in Egyptian folklore.\nWhen it reaches the end of its life span, it dives into the flames to die and then rises from the flames. She inherit the avian characteristics of the \"Harpy\" species and the immortality of the \"Zombie\" species. When breeding \"Phoenix\", be sure to provide them with nonflammable furniture. Beware of fire!",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#047 \"Phoenix\" Amrta Kubo",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Harpy"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "minted": "✅"
+}

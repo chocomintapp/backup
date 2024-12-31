@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTmzukatorDmQzrWfixgdZzJq8MpWXLpMj9Maf4MfdTYj/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 436,
+  "chainId": "1",
+  "name": "HAYASHI",
+  "description": "■ハヤシ\n■collaboration whith @Crypto_Hayashi\nhttps://opensea.io/collection/hayashi-rice-collection",
+  "attributes": [
+    {
+      "value": "Motokare-pink",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew3",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Deepblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Pink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Machimusume1",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Hayashrice",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Candle Head (てんちゅー）",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

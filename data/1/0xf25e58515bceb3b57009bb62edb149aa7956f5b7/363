@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYDQK7U61vp97LFhKbuxm6WUgQAtjwEjT1gA672Db8NX1/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 363,
+  "chainId": "1",
+  "name": "KIRALI",
+  "description": "■キラリ",
+  "attributes": [
+    {
+      "value": "magamaga2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile of room",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Skybluekpink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sad",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie2(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-oscar",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Round glasses-black",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

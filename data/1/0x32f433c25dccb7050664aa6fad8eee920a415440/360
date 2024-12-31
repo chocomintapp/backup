@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfPDokmiFHdf9S54ymbCJMEcreRuksw42UGEpXeGqBpu5/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmNNFzrKNaFc7XJvS6TMaTE8pKNJRifW8F5a65fzJJBbYu/nft.mp4",
+  "tokenId": 360,
+  "chainId": "1",
+  "name": "THE JEWEL #360",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Zirconium",
+      "trait_type": "Control device"
+    }
+  ]
+}

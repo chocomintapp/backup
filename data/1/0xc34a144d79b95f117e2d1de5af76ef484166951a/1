@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT7XVNhEPb96urPC7sdTMJxwFpLtGg8YLdnxrwGJKE7Yr/nft.jpg",
+  "nftContractAddress": "0xc34a144d79b95f117e2d1de5af76ef484166951a",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "muh",
+  "description": "Original",
+  "attributes": []
+}

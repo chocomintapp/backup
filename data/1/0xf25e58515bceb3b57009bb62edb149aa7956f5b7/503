@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcDVCsuvbvbpmb6uGEvy3qd3gjmgsyXvPJfEjC89z9gpB/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 503,
+  "chainId": "1",
+  "name": "ATSU",
+  "description": "■アツ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Black",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Deeppink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sunglass-B3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Anisu-tatoo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "TMA mafiamouses",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-SnowWhite",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

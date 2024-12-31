@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPMfEwMBhvNxro4g5nEsZEc3XTVx3JMfVxjLTqyBQ3Kme/nft.png",
+  "nftContractAddress": "0x855ad481fdc747a26bcae024aa562c8cd35f53a0",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "VITO",
+  "description": "Virtual Identity Token",
+  "attributes": []
+}

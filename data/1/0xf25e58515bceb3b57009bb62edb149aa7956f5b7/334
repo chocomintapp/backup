@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUcUcaQyka5xfWr4WAxBMS3LojENfQfyNVk1rxHHezxPX/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 334,
+  "chainId": "1",
+  "name": "HONO",
+  "description": "■ホノ",
+  "attributes": [
+    {
+      "value": "spread of infection3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks2",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Short",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye8",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Maid robot",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Blue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Stuffed Zombie",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "EyeBall1",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

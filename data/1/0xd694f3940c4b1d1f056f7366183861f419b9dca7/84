@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY1UTWANXdivBTjyTKVVo2X8LBa9gaWicWz6N1esBLFyg/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 84,
+  "chainId": "1",
+  "name": "August 9 メドウスイート",
+  "description": "",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "8",
+      "trait_type": "日"
+    },
+    {
+      "value": "心の支え",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "メドウスイート",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

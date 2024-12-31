@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVbSBDxp24QwYFWH8BPdY8bUwGWKHFqML9eWi8Ffwk5Br/nft.JPG",
+  "tokenId": 1,
+  "description": "This is a test NFT",
+  "nftContractAddress": "0x8ff22782c4d2b73a51e10b3dd96422af9d3222bb",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Chris Test",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Key 1",
+      "value": "Pair 1"
+    },
+    {
+      "trait_type": "Key 2",
+      "value": "Pair 2"
+    }
+  ]
+}

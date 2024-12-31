@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbRP9wVt3FYScmxmTYokQg7ooNa3T3UufK1GbJj6CnhfK/nft.png",
+  "nftContractAddress": "0xefb12bc325da0270e828162458326749d5878102",
+  "animationUrl": "https://ipfs.io/ipfs/Qmcvv86s4qJkajGvCkm75jhUEqTiyBShrMkJbcufy6E5UC/nft.glb",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Ballerbit #63C LeBs",
+  "description": "As you know. I am the king of the basketball world!",
+  "attributes": []
+}

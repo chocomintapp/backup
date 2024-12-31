@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPYcEVU5GDd5TEEernsHnmXkJbWzmJHgmFXeSsfoR2qmx/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "1",
+  "name": "2 AM Doge",
+  "description": "File: PNG  \nSize: 2048x2048  \nTotal Supply: 1  \nBlue light takes us higher and higher.",
+  "attributes": [
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "w/ body",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "Mini",
+      "trait_type": "generation"
+    },
+    {
+      "value": "Smart Phone",
+      "trait_type": "object(s)"
+    },
+    {
+      "value": "Unhealthy",
+      "trait_type": "status"
+    },
+    {
+      "value": "High",
+      "trait_type": "status"
+    }
+  ]
+}

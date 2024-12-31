@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPCuivdduUjZAFnwTLV4Fnbbbnbw28E4LtT43QuK64kwo/nft.png",
+  "nftContractAddress": "0x91f97d36f860354290e7c1d71686c700836994bf",
+  "animationUrl": "",
+  "tokenId": 45,
+  "chainId": "1",
+  "name": "#006 NAMAIKI HOOKY!",
+  "description": "「HOOKY!」とは・・・ 応援できるアイドル！ファン参加型NFT「HOOKY!project」です。 彼女たちと一緒に、夢をつかんでみませんか？ あなたの応援で、彼女たちはどんどん大きくなっていきます。 ロードマップの最終目標は「フィジカルライブ」です。",
+  "attributes": [
+    {
+      "value": "costume",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "AKANE",
+      "trait_type": "member"
+    },
+    {
+      "value": "HOOKY!",
+      "trait_type": "group"
+    },
+    {
+      "value": "Full",
+      "trait_type": "series"
+    },
+    {
+      "value": "FUMIKO",
+      "trait_type": "member"
+    },
+    {
+      "value": "MIKA",
+      "trait_type": "member"
+    },
+    {
+      "value": "KOMACHI",
+      "trait_type": "member"
+    },
+    {
+      "value": "SAYAKA",
+      "trait_type": "member"
+    }
+  ]
+}

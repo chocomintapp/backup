@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVZiUS1GfGDdLaqzWbb6aTocaRfJMt1uLF8s7ua6rBqyx/nft.jpg",
+  "nftContractAddress": "0x374d2fa55b4ecdf65174a95e1f8d9c7a1f22d2d5",
+  "animationUrl": "https://nxln2cmip6obi53oqgbzer6csdwxyqvnty4bvxuaojhazd6n2lkq.arweave.net/bdbdCYh_nBR3boGDkkfCkO18Qq2eOBregHJODI_N0tU",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "The Sleeping Beauty/眠り姫　＃14",
+  "description": "The value of the brand lies within the individual.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSVXCWLRMvvguGqDyA3GXJSyJwCBFKy783dbmw2oQWDNe/nft.gif",
+  "tokenId": 8,
+  "description": "Nerems  \n海の近くの遺跡だろうか、波や渦巻模様が見える  \nMaybe it's a ruin near the sea. I can see waves and spiral patterns.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmRnahMFfG9ZtCGjv9aVUuGmAn8qA6cqtbFy9WYhpfiUjJ/nft.mp4",
+  "chainId": "1",
+  "name": "Nerems #008",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Ancient"
+    }
+  ]
+}

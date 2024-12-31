@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmau5tFEWcswRUeCnmVKAnJqdGak1eyxkAXHyWe7ahcH4Z/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmaU17oiAp8omBRVbCTogvXLbfFfyoAzFXh4NXGs463Yxm/nft.mp4",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "THE JEWEL #018",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "red spinel",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "gold",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTMX7obQ1uC5vAaqnUU9yGH77kqpPMefWwhQ7JcnzCpVL/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 323,
+  "chainId": "1",
+  "name": "YUURI",
+  "description": "■ユウリ",
+  "attributes": [
+    {
+      "value": "bubble6",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-Big",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-White",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Silver",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "AnisuBody3(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-RED",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "glasses-yellow(WE)",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Piyochi-shock",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Asiatic peoples",
+      "trait_type": "TYPE"
+    }
+  ]
+}

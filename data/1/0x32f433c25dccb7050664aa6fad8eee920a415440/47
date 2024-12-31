@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRHbuSo2VWD8QkWvctUz4vCUTTEfFtNk1cntB84o46WbR/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmcZFmWWJ1DW2BuoCBakftb92R4x42o2Yq52jDoVwacghv/nft.mp4",
+  "tokenId": 47,
+  "chainId": "1",
+  "name": "THE JEWEL #047",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": " Black Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Tantalum",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "dragon scales",
+      "trait_type": "Shine"
+    }
+  ]
+}

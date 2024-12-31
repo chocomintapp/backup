@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd69ALvcdiaYEpKZa4ShGGc2rJbnCpYhGiFKRisLF8PA6/nft.jpg",
+  "nftContractAddress": "0x88b5881e91b1f5d4bbc793e542b964268560a5d1",
+  "animationUrl": "https://ipfs.io/ipfs/QmQNmg34GiVf9Ffs3M48y7nCa1nEk72Q4ApffHrBFgKphy/nft.mp4",
+  "tokenId": 141,
+  "chainId": "1",
+  "name": "Crystal Ethereum Laboratory #141",
+  "description": "Crystal Ethereum Laboratory is a work produced by Eri Momoeda of Japan.\n\nThis eternally shining crystal consists of 999 items.",
+  "attributes": []
+}

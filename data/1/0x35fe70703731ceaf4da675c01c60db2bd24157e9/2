@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeuNkB3Ytz5dejwbw2qBMQ2iayEnM3ZYmApeTTWoB174X/nft.JPEG",
+  "nftContractAddress": "0x35fe70703731ceaf4da675c01c60db2bd24157e9",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc2fT8i3DGgSXRxpoRmJ2ZQ9v64N2v7wEchnDxBcSPsH6/nft.mp4",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "KYOSO ",
+  "description": "KYOSO - Tree : TOKYOITE Music NFT Project\nMusic : MURPH , EdoLena \nArtworks : EdoLena \nVVAVE3 Live Limited Edition for SHIS\nThis full length music is available for one year CC0 from the date of airdropping.",
+  "attributes": [
+    {
+      "value": "Tree",
+      "trait_type": "KYOSO"
+    }
+  ]
+}

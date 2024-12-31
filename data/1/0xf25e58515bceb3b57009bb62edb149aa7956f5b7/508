@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXZoLE69nR7ECCy16ttgiqoiHr2uDBCmUhPApcqktXtB6/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 508,
+  "chainId": "1",
+  "name": "KEIKO",
+  "description": "■ケイコ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Face",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open4",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Big",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WPB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Mitama-Dan(HM)R",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Pink",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

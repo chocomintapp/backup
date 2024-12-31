@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPAnKmgMNWBPAbUPc2X4zQKNGwiXE1tc55aCPeCeAm5Nu/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 168,
+  "chainId": "1",
+  "name": "ASIA",
+  "description": "■アジア",
+  "attributes": [
+    {
+      "value": "GOLD",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Drool",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Ponytail-Emeraldgreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-UBrightgreen",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Green",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Mitama-shock",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Green",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

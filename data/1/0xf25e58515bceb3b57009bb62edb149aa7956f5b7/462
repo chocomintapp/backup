@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYVtq8FYhkqsJMSuVtipWAvrJSPwXSEUNCiK7hypQbbo1/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 462,
+  "chainId": "1",
+  "name": "CLARISSA",
+  "description": "■クラリッサ",
+  "attributes": [
+    {
+      "value": "Black Sickle-Back",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0005Eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "JK2",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-Purple(NE）",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Piyochi-cry",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Hat-D-white",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

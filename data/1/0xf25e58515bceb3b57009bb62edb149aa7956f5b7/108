@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWbutp2RgEJnSSYtZGvdJ1mQQZPptoKKNShJhxmrMBAqW/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 108,
+  "chainId": "1",
+  "name": "PARIS",
+  "description": "■パリス",
+  "attributes": [
+    {
+      "value": "Left side of the heavens",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Madness",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Green",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-ZRed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-Black(BLU)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Black",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dominion",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Green",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Blue Family zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXzKyzBCHZC4DxEtDcCRemrS6nWCobq1fpXfKdNW9um4D/nft.jpeg",
+  "nftContractAddress": "0xc569310254decd072424f6a41bb95e484c18d403",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "Livvy Pfps  #013",
+  "description": "Pfps collection arranged in oil painting style.\nAll works are one-of-a-kind!  \nAfter the sale, we do not resell the same works!\nPlease use them as your profile picture on SNS‼︎\n\nAll of NFT ART's works are portraits.\nThe composition of the paintings is based on the classical style. I design thecomposition, female motifs, colors and textures myself, and edit them on my PC to create my works.\n",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Gender"
+    },
+    {
+      "value": "Tiara",
+      "trait_type": "Head Accessory"
+    },
+    {
+      "value": "Blond",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Right",
+      "trait_type": "Face Direction"
+    },
+    {
+      "value": "Look",
+      "trait_type": "Gesture"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Makeup"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Eyes Color"
+    },
+    {
+      "value": "Diamond",
+      "trait_type": "Earrings"
+    },
+    {
+      "value": "Shinny",
+      "trait_type": "Lipstick Color"
+    },
+    {
+      "value": "Diamond",
+      "trait_type": "Necklace"
+    },
+    {
+      "value": "Princess",
+      "trait_type": "Status"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfMimf1FwEmHHdEQRMo8MJAwWYRHYatJHg4zZX4HFoW5q/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 277,
+  "chainId": "1",
+  "name": "February 18 カトレア",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "月"
+    },
+    {
+      "value": "18",
+      "trait_type": "日"
+    },
+    {
+      "value": "成熟した大人の魅力",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "カトレア",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

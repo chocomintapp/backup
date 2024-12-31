@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUmhLMYW4P6zw68LbLryXdXkg42kczT1rPt7YQoznmBFj/nft.jpg",
+  "nftContractAddress": "0xaeffac8ae74b20c57200fc14fed713ea0bf012d3",
+  "animationUrl": "",
+  "tokenId": 49,
+  "chainId": "1",
+  "name": "schnapoon_crowdfundingNFT",
+  "description": "Crowdfunding NFT for schnapoon to go to Las Vegas and attend SplinterFest!\n\nIf I win the competition at SplinterFest, I will give away a special NFT to anyone who has this NFT. If you don't win, I will give it to you if you win a future tournament. Also, my dream is to create the number one gaming guild in Asia, so you will be able to get preferential treatment there.",
+  "attributes": []
+}

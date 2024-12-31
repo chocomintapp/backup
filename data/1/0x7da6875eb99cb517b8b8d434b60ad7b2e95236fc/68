@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfWdYw2XBr9ZxBmGHjz8qG5RPgxUxCQAuBFDV5KtZ7hrB/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 68,
+  "chainId": "1",
+  "name": "KAIKA #68",
+  "description": "",
+  "attributes": [
+    {
+      "value": "fragment pink",
+      "trait_type": "energy"
+    },
+    {
+      "value": "none",
+      "trait_type": "extra"
+    },
+    {
+      "value": "closed",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "long",
+      "trait_type": "hair"
+    },
+    {
+      "value": "yellow",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "smile",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "light",
+      "trait_type": "skin tone"
+    }
+  ]
+}

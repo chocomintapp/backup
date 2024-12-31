@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPUpiHT7g6GRd17hZe8g2wvvtGuB51v3t54thyDKcmdwP/nft.png",
+  "tokenId": 1,
+  "description": "Happyman makes you happy!",
+  "nftContractAddress": "0x6ab7834ec3b65dd230cdbde6959a92709e573d14",
+  "animationUrl": "https://ipfs.io/ipfs/QmPUpiHT7g6GRd17hZe8g2wvvtGuB51v3t54thyDKcmdwP/nft.png",
+  "chainId": "1",
+  "name": "Happyman",
+  "attributes": []
+}

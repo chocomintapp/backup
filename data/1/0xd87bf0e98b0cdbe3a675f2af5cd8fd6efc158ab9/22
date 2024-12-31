@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZLRXAdUeqTGVnYM8zU8pDMzw6vZ4juqD7NiExsd6As1Q/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "THS #057",
+  "description": "【菩】",
+  "attributes": [
+    {
+      "value": "dragonfly",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "eggplant flower",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "goldfish",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

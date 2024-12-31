@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ4MsRJ1d96fXdjv9dL6mWV8KcHZ7ogPjX8EtatCb4GRX/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 171,
+  "chainId": "1",
+  "name": "AGNES",
+  "description": "■アグネス",
+  "attributes": [
+    {
+      "value": "Bright-Green",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Egreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "clairvoyant",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Spring",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-N",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Mitama tomato-shock",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUqWZWLzwV7QXCVRbM9ATBAwc3AStrudP4aVCnnHVYGeH/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 136,
+  "chainId": "1",
+  "name": "MINAMI",
+  "description": "■ミナミ",
+  "attributes": [
+    {
+      "value": "Bright-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Purple",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Purple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WPuB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Black",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Maron",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

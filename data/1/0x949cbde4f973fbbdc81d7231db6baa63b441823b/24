@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNSNQL6vrEPNZw5K7mQdUkkr2frA6k8n23oEbi6XZsK8p/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "NE #24",
+  "description": "",
+  "attributes": [
+    {
+      "value": "E",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "N",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "E",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "ne",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

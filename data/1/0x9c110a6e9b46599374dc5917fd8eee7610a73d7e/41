@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSDW6kJXP8zyPt7pKgLYKrgVxZVu1QrYjkN4U2tNBNc7f/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 41,
+  "chainId": "1",
+  "name": "POCO_Felipa",
+  "description": "Felipa-Chan",
+  "attributes": [
+    {
+      "value": "Gray",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Curious",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeCevZuuWFNBtHJYVpyV4WQYcCDmywKBkr6rf8EppxtXF/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 468,
+  "chainId": "1",
+  "name": "INORI",
+  "description": "■イノリ",
+  "attributes": [
+    {
+      "value": "yami",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.5",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew3",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "AnisuHair(Mix2)",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "composed-smile",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-tobitashinchi",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Arkdemon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

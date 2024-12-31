@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRzUGkZtgMS9eQeB57aevWYYt3BtrjJARTugAnjxxgReG/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "AOI",
+  "description": "AOI, which has acquired a mechanical body.\nIn good shape, he flew to the heavenly realm where God is and captured an angel.\nSeeing the sad-looking angel, he wonders whether he should release it or not.\n■アオイ\n機械の身体を手に入れたAOIちゃん。 調子に乗って神様のいる天界まで飛んでいき、天使を捕まえてきたのはいいが、 悲しそうにしてる天使を見て解放しようかどうか悩んでいる。",
+  "attributes": [
+    {
+      "value": "Bright-Pink",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.6",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllOrange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Robody-BlackRabbit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Archangel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

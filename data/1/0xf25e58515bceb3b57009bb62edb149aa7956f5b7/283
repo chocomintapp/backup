@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVrQGTbKmrQzawdMtEh4dAx81C4Ku54QxuaCwEL9KtSWw/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 283,
+  "chainId": "1",
+  "name": "ISLA",
+  "description": "■イスラ",
+  "attributes": [
+    {
+      "value": "Beauty and Beauty",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Green",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "composed-smile",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Magic-user",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-N",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Orochi-drunk",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "EyeBall2",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

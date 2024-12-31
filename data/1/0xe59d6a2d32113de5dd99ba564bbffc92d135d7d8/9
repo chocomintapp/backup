@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVw99vkjXR72AtMArUNHQswNSn74r25ipbmoD2DUkkTHe/nft.gif",
+  "nftContractAddress": "0xe59d6a2d32113de5dd99ba564bbffc92d135d7d8",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "#0009 curry naan",
+  "description": "京都で創業40年以上のパン屋チロル。\nこちらのパンを使ったNFTアート『Chirol-BreadHeadFriends.-』です。\n\nGraphics Interchange Format\n1024×1024px",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "series001",
+      "trait_type": "Series"
+    },
+    {
+      "value": "curry naan",
+      "trait_type": "BreadType"
+    },
+    {
+      "value": "anim007",
+      "trait_type": "Animation"
+    }
+  ]
+}

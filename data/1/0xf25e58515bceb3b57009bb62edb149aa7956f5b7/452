@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmctRJvaH8bc2DPNbQCoeuEpXBGmNRw9mwKKprqt3Ypj1U/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 452,
+  "chainId": "1",
+  "name": "Yuriko Ishihata",
+  "description": "■イシハタ　ユリコ\nGoroIshihataファンアート作品\nhttps://linktr.ee/goroishihata",
+  "attributes": [
+    {
+      "value": "magamaga",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Green pepper4",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Goro Style",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "JK2",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "GORO ISHIHATA3",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc3TSZgL3Sq5zVvYQi6Tv51R3t7TDJMdPEY6RYxnC9NH1/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmegz9cAh7BvtmDJC4zZky2oKCgT1LoB8cT1EuexM8fGdh/nft.mp4",
+  "tokenId": 164,
+  "chainId": "1",
+  "name": "THE JEWEL #164",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Bicolor Emerald",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver ",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWEdqKh4EpKdrUNqQfPeas862eDBCgmkjbeY3RvcoZim4/nft.png",
+  "tokenId": 15,
+  "description": "",
+  "nftContractAddress": "0x8cebe4e66e3ae0730112d63f54daf26139f30544",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "CryptoSisters #15",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "CHARACTER",
+      "value": "Doge Coin"
+    },
+    {
+      "trait_type": "PRICE",
+      "value": "ATH"
+    }
+  ]
+}

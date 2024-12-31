@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTfGetUzrNNStxsuHGGXrLhfyW4Zk1nNd7LMVqzqk7Sqr/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "キングオブミーム",
+  "attributes": [
+    {
+      "value": "ペペ",
+      "trait_type": "人物"
+    },
+    {
+      "value": "",
+      "trait_type": "secret"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb1NWNSj8CBwgMUJAyMtTbJdrTorM59kyoVUyqTEUFxxt/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "KU #8",
+  "description": "",
+  "attributes": [
+    {
+      "value": " U",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "K",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "U",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "ku",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUkwv4fMqdhzppfjWPesoE6rkRcXJYmjXELxByAHHZqHE/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "June 3 ブドウ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "3",
+      "trait_type": "日"
+    },
+    {
+      "value": "元気",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ブドウ",
+      "trait_type": "花"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVyyR12RjXyFCF84o8ZQpcCR3FuZkoLDKNpYRRoeTEQxA/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 315,
+  "chainId": "1",
+  "name": "BAKUBIO",
+  "description": "■バクビオ",
+  "attributes": [
+    {
+      "value": "spread of infection2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Anisu-china",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-BGreen",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie4",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Stuffed Zombie",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

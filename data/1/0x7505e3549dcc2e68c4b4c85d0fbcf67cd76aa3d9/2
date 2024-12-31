@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXmLoA3ATcepDHDi9mPNCtCxNoQuj8d6HazyBeprRSZYj/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "でかちゃん Deka-chan #205",
+  "description": "ぷんぷんしてるけど、かおはいつもやさしい。\nだけど力はつよい。おこるとほんとうにこわい。\n\n左手はおこってるからぶんぶんまわしてる。\nぶんぶんしてるときはあぶないじょうきょうだけど\nこの子はめったにたたかない。\n\nじつはじぶんのかおが大きいと気にしておこっています。\n\n☆小学２年生５番目の作品なので205のナンバーをふりました♪\n\nThis girl is in a huff, but her face is always kind.\nBut she is very strong. \n\nShe is so angry that she is twirling her left hand.\nIt's a dangerous situation when she's humping, but  she does not take it out on anyone.\n\nActually, she is angry because she is worried that her face is too big.",
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Girl",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Kawaii",
+      "trait_type": "Category"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRbWEL13uQDNpBjoMfn1HUpDLSpriqyv6Q8mrUsXGhH3G/nft.jpg",
+  "nftContractAddress": "0xec4664f75d7027a08e6af3ea90f7baf3fbf6931e",
+  "animationUrl": "",
+  "tokenId": 124,
+  "chainId": "1",
+  "name": "LAYLA Vol.2 #015",
+  "description": "Neo Cyber Girls Collection\nJUNK STREET",
+  "attributes": [
+    {
+      "value": "Plain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "YellowOrange",
+      "trait_type": "ThemeColor"
+    },
+    {
+      "value": "PonytailBangs",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "UnderwareBikini",
+      "trait_type": "Ware"
+    },
+    {
+      "value": "GogglesMask",
+      "trait_type": "Outfit"
+    },
+    {
+      "value": "Basic",
+      "trait_type": "Pose"
+    }
+  ]
+}

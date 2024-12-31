@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeK9AmR5nNmuPFdZKENG5Z21jiEwaRoW7kDgqerTSxtcX/nft.jpg",
+  "nftContractAddress": "0x815c4f6b8c29f0ed47ea55b61209c3cd7f74d311",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "third eel",
+  "description": "A spotted garden eel is third wheel.",
+  "attributes": []
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdt9qsbGNJhN2EVL58CofQTkMLvWSvRmmqALEZHzSMu6e/nft.png",
+  "nftContractAddress": "0xa92a9c76497bc17f8261d40bcd38adad510372c1",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Petit_Glory",
+  "description": "This is Glory-chan.\n\nSpecial respect for the *FuChiMing* v2.\n(URL: https://opensea.io/collection/fuchimingv2)",
+  "attributes": [
+    {
+      "value": "purple",
+      "trait_type": "heir"
+    },
+    {
+      "value": "squirrel",
+      "trait_type": "animal"
+    },
+    {
+      "value": "student",
+      "trait_type": "job"
+    },
+    {
+      "value": "autumn",
+      "trait_type": "season "
+    }
+  ]
+}

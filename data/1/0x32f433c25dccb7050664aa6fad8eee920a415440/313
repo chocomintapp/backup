@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQHWu5yHLKES7R4NM3zCQEk3ThYbJ63zSpQ1eQCaoJeyV/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmTB9vBedJceqnZVSxvfDYThya7DPY9eGqvZvZLnUSwE9E/nft.mp4",
+  "tokenId": 313,
+  "chainId": "1",
+  "name": "THE JEWEL #313",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Mint Garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Control device"
+    }
+  ]
+}

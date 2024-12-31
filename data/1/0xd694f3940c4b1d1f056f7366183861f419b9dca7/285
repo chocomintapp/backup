@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcLn6zt74S7FqJJZS7pWNqUWFqttvRxwEmmk3KQyWnPxV/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 285,
+  "chainId": "1",
+  "name": "February 26 ミモザ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "月"
+    },
+    {
+      "value": "26",
+      "trait_type": "日"
+    },
+    {
+      "value": "秘密の愛",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ミモザ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

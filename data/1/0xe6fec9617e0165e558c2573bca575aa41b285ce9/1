@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd9UXAbr4dirhuY2E1dqvLLHB6bf8Zvf7cEwa1oKDtMcS/nft.png",
+  "tokenId": 1,
+  "description": "The First SARU Token on Original Contract",
+  "nftContractAddress": "0xe6fec9617e0165e558c2573bca575aa41b285ce9",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "SARU Token",
+  "minted": "✅"
+}

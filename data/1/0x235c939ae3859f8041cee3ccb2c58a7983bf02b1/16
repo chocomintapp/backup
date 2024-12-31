@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmenA3vfMzTF521d1B3XzvZUy37ojNuvmWX8c4CHPMkvJe/nft.jpg",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "Roll",
+  "description": "New life born the coexistence with human and data. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.\n[Human]DNA\n???",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Inner Rainbow",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Close",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "White Dress",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Winter Star",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "6LOM",
+      "trait_type": "PROTO VALUE"
+    }
+  ]
+}

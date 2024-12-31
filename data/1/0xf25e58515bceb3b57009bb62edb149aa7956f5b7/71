@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUmsyP1VjWtf47S2yqJCCTf6JZ7rgpfxaH9VAXELCni9W/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 71,
+  "chainId": "1",
+  "name": "IMANI",
+  "description": "IMANI is the hardest worker in everlasting summer.\n\nHer crops are traded all over the world under the IMANI brand.\n\nImani's crops are traded all over the world under the Imani brand name.\n■イマニ\nイマニは常夏一の働き者\n\n彼女が管理する畑の作物は評判がよく、海外から直接仕入れにくる業者までいりほどだ。\n\nイマニブランドとして彼女の農作物は世界中で取引されている。",
+  "attributes": [
+    {
+      "value": "Light-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smiling-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Blue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllBlue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Brown",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-surprised",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

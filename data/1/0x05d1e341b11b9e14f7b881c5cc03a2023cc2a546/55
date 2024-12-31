@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZsCjjawtd5vgkLEgddVvGE17pKJkkd8sGpnLngSgTPqe/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmcVZgBbahxdv8gztptRiTLRHJTf7P3jjJyQTwngWbn6N9/nft.mp4",
+  "tokenId": 55,
+  "chainId": "1",
+  "name": "Wsly #055",
+  "description": "Wsly  \n静かに自分の内面を見ている  \nQuietly looks inside himself.",
+  "attributes": [
+    {
+      "value": "Construct",
+      "trait_type": "TYPE"
+    }
+  ]
+}

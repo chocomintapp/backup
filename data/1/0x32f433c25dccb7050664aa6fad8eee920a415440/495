@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU7pMtBXX8uxiQM1PvKhRLxKxVEVxzDeMdhRMtfLbQ1JX/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmVo91ne6KxUZixrxeHACwcYbeXFgAx214zK1LnGcHaPzb/nft.mp4",
+  "tokenId": 495,
+  "chainId": "1",
+  "name": "THE JEWEL #495",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Clino Humite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Zirconium",
+      "trait_type": "Control device"
+    }
+  ]
+}

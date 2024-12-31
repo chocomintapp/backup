@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSDRrTRH9tXcnyyySCdo2QSJbXXxSBWjE8v4k1E3E78uT/nft.gif",
+  "tokenId": 29,
+  "description": "Siraai  \nトゲに見えるものは柔らかいので触っても痛くはない  \nWhat looks like spikes are soft and do not hurt when touched.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmU9uZpEPqbnqySqRVMDdMcYdrkUKTs8ayoY7QWYtsM5fV/nft.mp4",
+  "chainId": "1",
+  "name": "Siraai #029",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    }
+  ]
+}

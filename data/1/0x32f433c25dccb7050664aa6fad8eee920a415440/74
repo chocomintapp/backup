@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNWuprpgdoxBphTFHkcENZ82d8RfptxEMtr15zzxkd9R7/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmZagdDWQawHhnRN7v3tQCzEDTUo9txTmfuJLHVA8wD3Jm/nft.mp4",
+  "tokenId": 74,
+  "chainId": "1",
+  "name": "THE JEWEL #074",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "brown",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "tantalum",
+      "trait_type": "Control device"
+    }
+  ]
+}

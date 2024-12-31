@@ -1,0 +1,39 @@
+{
+  "image": "",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "1",
+  "name": "WEAR BEAR #113 “BARTON” BLACK BASEBALL JACKET",
+  "description": "WEAR BEAR 第12弾はHIP HOPクルー“BEAR HOP”として音楽シーンに鮮烈デビュー！オールブラックコーデでクールに登場\n“TONY”は”BEAR HOP”オフィシャルFOODIEにオリジナルスタジャンで登場\n",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "“BEAR HOP” Foodie & Baseball jacket",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Black Trousers",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "“MIKE” Bear force 1",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Barton",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gold chain",
+      "trait_type": "Accessories"
+    }
+  ]
+}

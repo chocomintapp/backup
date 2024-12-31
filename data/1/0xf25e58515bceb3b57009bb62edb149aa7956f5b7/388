@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfESZafhDbx4P72GmSjxpqAzm6gasUqY8LaFdJe7NiJLC/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 388,
+  "chainId": "1",
+  "name": "RIRA",
+  "description": "■リラ",
+  "attributes": [
+    {
+      "value": "spread of infection5",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.10",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "licking one's lips",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Short(MIX1)",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Robody-RedRabbit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Orochi-Hyou(H)S",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

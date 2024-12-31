@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTrD6AurfKEbZuxGMyRiHtUSLckfbBZ9zMThusUPm9xc3/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "TI #17",
+  "description": "",
+  "attributes": [
+    {
+      "value": "I",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "T",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": " I",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "ti",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

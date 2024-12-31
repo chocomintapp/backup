@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS7jrMyvzrbXwre81F6tkGQMagPHGTac5uzvYp2TfFa7q/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "1",
+  "name": "#026-Kyoto-",
+  "description": "#026-Kyoto-",
+  "attributes": [
+    {
+      "value": "Flare",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kansai",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Kyoto",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXKFdyYkZiatF4EkwkrEqVD9f5eJGxYiHbRr99TyP6UY2/nft.png",
+  "tokenId": 5,
+  "description": "\"Draculea\" = \"Vampire\" x \"Unknown\" Nosferatu Yagami\n\n「ドラキュリア」メイン種族バンパイア、サブ種族Unknown。バンパイアの特殊亜種。名前はノスフェラトゥ八神。\n\n非常に強力な魔力を持った伝説のバンパイア。高飛車で唯我独尊。\nただし不老不死ゆえに少女の肉体で成長が止まっており、凄んでも可愛くなってしまうのを深刻に悩んでいる。\n\nA legendary vampire with extremely powerful magical powers. She is high-handed and self-important.\nHowever, because of her immortality, she has stopped growing in the body of a girl, and she is seriously worried that she looks cute even when she is scary.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#030 \"Draculea\" Nosferatu Yagami",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

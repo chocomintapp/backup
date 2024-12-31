@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVhewU1uPGXGWU2wEwmT6z91sr8z9tjjMSr4iXrWWwNT1/nft.gif",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "1",
+  "name": "Ganmi three sisters #1",
+  "description": "ganmichan=https://opensea.io/collection/ganmichannft\njitomichan=https://nft.hexanft.com/users/Hp8ux9402eKDBX\nnidomichan=https://magiceden.io/ordinals/marketplace/nidomi",
+  "attributes": [
+    {
+      "value": "special",
+      "trait_type": "series"
+    },
+    {
+      "value": "Macbeth",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": ""
+}

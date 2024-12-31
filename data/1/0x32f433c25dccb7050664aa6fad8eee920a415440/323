@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPoJaiPW4abQiDKvCjxVhRQJV3hwsPRxHqjsk6QYBQZj1/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmb5p8wmfoKFbNjhSwQbewamJE4jGpvWGkNFH5BHFJFfsT/nft.mp4",
+  "tokenId": 323,
+  "chainId": "1",
+  "name": "THE JEWEL #323",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Grape Garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

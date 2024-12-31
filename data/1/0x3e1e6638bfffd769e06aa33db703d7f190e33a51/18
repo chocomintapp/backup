@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdBd3eeLSewGxZ2TuQ6vuwrkrN2SJLjhztzozQpFRmzz2/nft.png",
+  "nftContractAddress": "0x3e1e6638bfffd769e06aa33db703d7f190e33a51",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "Wb#17",
+  "description": "Created by Wonder baby.",
+  "attributes": [
+    {
+      "value": "GRAY B",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "BODY C",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "SUIT CAMO Flower",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "SKATEBOARD",
+      "trait_type": "WEAPON"
+    },
+    {
+      "value": "BEANIE BLACK",
+      "trait_type": "HAT"
+    },
+    {
+      "value": "SMILE",
+      "trait_type": "MOUTH"
+    }
+  ]
+}

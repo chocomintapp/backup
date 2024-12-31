@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXxHyEoqZoHHtnsQAqpXxartXCeijWBb4N84NsrwNd8eT/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 272,
+  "chainId": "1",
+  "name": "February 13 ウメ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "月"
+    },
+    {
+      "value": "13",
+      "trait_type": "日"
+    },
+    {
+      "value": "澄んだ心",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ウメ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

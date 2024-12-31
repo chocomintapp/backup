@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWsWn9iG4ddqhjYe9bQVDBcKcZNdmD7zdSE157x3CG5iv/nft.jpg",
+  "nftContractAddress": "0x45b576105ed3863a04542315bd2d42dadee13a8f",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "#2 Kosuke Nishino dakimakura／西野浩介抱き枕",
+  "description": "インターネット廃人少年:西野浩介\nInternet Cripple Boy: Kosuke Nishino\n\n西野浩介／男／16歳／インターネット廃人少年／\n小さい頃からインターネットとゲームに没頭している。\nしかし将来に向けてIT系のビジネスもしている。\nKosuke Nishino／Male／16／Internet Abuse Boy／\nHe has been immersed in the Internet and games since he was a child.\nHowever, he is also working on an IT business for the future.",
+  "attributes": [
+    {
+      "value": "moe",
+      "trait_type": "dakimakura"
+    }
+  ]
+}

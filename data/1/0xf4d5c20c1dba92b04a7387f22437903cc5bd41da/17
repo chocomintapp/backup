@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVF587ocbWWm9WTXxHsYcciBq2dmoGY6inzyYcWP5v1dv/nft.png",
+  "tokenId": 17,
+  "description": "She is #pict_chan dressed as a frankenstein. She is very strong and has a kind heart.",
+  "nftContractAddress": "0xf4d5c20c1dba92b04a7387f22437903cc5bd41da",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#pict_chan_15_frankenstein",
+  "attributes": [
+    {
+      "trait_type": "#pict_chan",
+      "value": "owner"
+    }
+  ]
+}

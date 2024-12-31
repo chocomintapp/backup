@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdPsDUfjiMev7BQqwvDDdDV1PGe3NtuTszrw3AeDdbmt8/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmS9PRw9c9637N4arp5PBMALEJUXsR8WJhZZ5YvFhnRmtF/nft.mp4",
+  "tokenId": 90,
+  "chainId": "1",
+  "name": "O-F #090",
+  "description": "O-F  \n059とオリジナルアートを揃える事で産まれた新しいMIMI  \nNew MIMI spawned by collecting 059 and original art",
+  "attributes": [
+    {
+      "value": "Hidden",
+      "trait_type": "TYPE"
+    }
+  ]
+}

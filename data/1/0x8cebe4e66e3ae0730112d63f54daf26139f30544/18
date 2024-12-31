@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfG6bJNpfwqp5H2UraDyEjG5n5JQ8DZJS5BQzieyik2e1/nft.png",
+  "tokenId": 18,
+  "description": "",
+  "nftContractAddress": "0x8cebe4e66e3ae0730112d63f54daf26139f30544",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "CryptoSisters #18",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "CHARACTER",
+      "value": "Doge Coin"
+    },
+    {
+      "trait_type": "PRICE",
+      "value": "Down"
+    }
+  ]
+}

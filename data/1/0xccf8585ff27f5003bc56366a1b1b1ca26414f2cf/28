@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUoPyZUMfur5TbMfgkvksjC3GZB2ra4XS4fr7vvPCE8HP/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "1",
+  "name": "WEAR BEAR #109 “BENEDICT\" from TMA GECKO",
+  "description": "WEAR BEAR 第11弾はクールなTHE MAFIA ANIMALSとのコラボシリーズ！レア枠のBENEDICTは仮想通貨で一財を築いたビリオネア。TMA幹部Geckoのいとこだとか。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Billionaire fur coat",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Billionaire slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Dress shoes",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Charcoal gray",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Benedict",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Sunglasses",
+      "trait_type": "Accessories"
+    }
+  ]
+}

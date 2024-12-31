@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVX4EsCXhmtMzAEjRgMmPPzJp7knqJ31Ajyu7yMdMt2Xs/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 124,
+  "chainId": "1",
+  "name": "September 18 バラ（黒赤色）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "18",
+      "trait_type": "日"
+    },
+    {
+      "value": "神秘",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "バラ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

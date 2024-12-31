@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPymBhkvw3wkpXSJW9Lj5ABA2evYra2t12FXad6kCRLg8/nft.png",
+  "nftContractAddress": "0xa5c0ff339c448421cc05e0dedfcccc7d017a3612",
+  "animationUrl": "https://ipfs.io/ipfs/QmNckjJG3puewFQnU3XiQeD9ndp4B9sK8K2UYXTqM4aPvk/nft.glb",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "MiraBo#009",
+  "description": "A boy born from a disco ball\nTired of illuminating the disco, he set out to make the life of future owners fascinating.",
+  "attributes": [],
+  "minted": "✅"
+}

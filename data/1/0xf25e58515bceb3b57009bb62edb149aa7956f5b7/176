@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT2mJ9P117X3Eg4V4WToivXDUYNTcMa2Dc3nR2RsNdsbB/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 176,
+  "chainId": "1",
+  "name": "JAYMEE",
+  "description": "■ジェイミー",
+  "attributes": [
+    {
+      "value": "NInja3-Skyblue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Deeppink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Purple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "LoliFoodie-White(G)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Mitama black-nihility",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "The Greens",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXvcoLPN1ke92a5SSUKkJkikc4aJFQdSnTqCZggXMidiX/nft.png",
+  "tokenId": 3,
+  "description": "Hello. I am Sato Tanaka. #0002",
+  "nftContractAddress": "0xaca13a43a412eb5cc9b065607a2ef32b8c1b2a32",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "I am Sato Tanaka #0002",
+  "attributes": [
+    {
+      "trait_type": "I am",
+      "value": "#0002"
+    },
+    {
+      "trait_type": "CATEGORY",
+      "value": "JOB"
+    },
+    {
+      "trait_type": "JOB",
+      "value": "Businessman"
+    },
+    {
+      "trait_type": "ITEM",
+      "value": "1 Pint Beer"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Pink"
+    }
+  ]
+}

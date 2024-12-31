@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUGJeXBFRFWGZqFoNUMgEqZCkhLY6V9Gyh94kX5feQuWU/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "Kii",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "KIMONO DRESS",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Chiaki Kuryu",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "SMILE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "DRUM",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    }
+  ]
+}

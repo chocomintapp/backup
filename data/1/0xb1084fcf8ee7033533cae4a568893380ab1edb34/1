@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf9w9BUXsCLtTBJjnQfdBM2NiukQBcG3y4U9jJRfrBjdj/nft.jpg",
+  "nftContractAddress": "0xb1084fcf8ee7033533cae4a568893380ab1edb34",
+  "animationUrl": "https://ipfs.io/ipfs/QmPmHFmJPSryw9BiBA9CRci6EzoyGvsRU74BWNt9WpdF9t/nft.gif",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "SMILESCULL",
+  "description": "Tokyo NFT Club fecit primum NFT opus",
+  "attributes": []
+}

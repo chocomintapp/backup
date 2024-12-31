@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYeeMo8syWVKfdLFjNuVgp8ir2ag37kxM9ukQFKPPe4fL/nft.png",
+  "nftContractAddress": "0xefb12bc325da0270e828162458326749d5878102",
+  "animationUrl": "https://ipfs.io/ipfs/QmZ86jRWAJzVmeNY4xzX6GxCv6HXdyMQcW9JnCLc3opW1W/nft.glb",
+  "tokenId": 39,
+  "chainId": "1",
+  "name": "Ballerbit #67C Laball",
+  "description": "Young stars! Three brothers with great basketball sense",
+  "attributes": []
+}

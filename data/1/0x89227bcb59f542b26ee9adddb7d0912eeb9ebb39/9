@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP93kpzvdF6mwyjCGoxQehXkkJWof6KNVmaLast9RZ3S5/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "#009-Tochigi-",
+  "description": "#009-Tochigi-",
+  "attributes": [
+    {
+      "value": "Flare",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kanto",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Tochigi",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

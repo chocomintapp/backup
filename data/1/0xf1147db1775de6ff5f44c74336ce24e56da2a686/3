@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcBDFwhG8GTAykiR3hc47hvacJ3N4obEbATNDEPDdbQmB/nft.png",
+  "tokenId": 3,
+  "description": "Battle day",
+  "nftContractAddress": "0xf1147db1775de6ff5f44c74336ce24e56da2a686",
+  "animationUrl": "https://ipfs.io/ipfs/QmcBDFwhG8GTAykiR3hc47hvacJ3N4obEbATNDEPDdbQmB/nft.png",
+  "chainId": "1",
+  "name": "Sky Whale watch",
+  "attributes": [],
+  "minted": "✅"
+}

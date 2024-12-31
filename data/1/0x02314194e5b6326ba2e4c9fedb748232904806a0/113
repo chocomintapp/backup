@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmduJXkK4CqUX9n5oMtLG1KZDe36jHA8hMLReuaPehe9dW/nft.png",
+  "nftContractAddress": "0x02314194e5b6326ba2e4c9fedb748232904806a0",
+  "animationUrl": "",
+  "tokenId": 113,
+  "chainId": "1",
+  "name": "#007 [凪] 「修羅道」",
+  "description": "修羅の道を行くものよ、この世界を乗り越え欲望に抗うのだ。",
+  "attributes": [
+    {
+      "value": "凪",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": "✅"
+}

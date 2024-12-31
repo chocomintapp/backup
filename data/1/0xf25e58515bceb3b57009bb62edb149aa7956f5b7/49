@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdmUTbDJLPVAtaroQfsH4YvHdf6xcebo3D1wS77EmKw3F/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 49,
+  "chainId": "1",
+  "name": "UnknownD",
+  "description": "Unknown D has the mountainous region in the west as its territory.\n\nDoes he have a deep grudge against radishes? He comes all the way down to the foot of the mountain to attack the daikon radish fields.\n\nAfter unknown D leaves, the field is full of daikon radishes that have been pulled out here and there.\n■未知D\n\n西の山岳地帯を縄張りにしている未知D。\n\n大根に相当深い恨みでもあるのだろうか？わざわざ麓までおりてきて大根畑を襲いに来る。\n\n未知Dが去った後はあちこちに引っこ抜かれた大根でいっぱいだ。",
+  "attributes": [
+    {
+      "value": "Night2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Green",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Wide-Green",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-G",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-Zombie4",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-tragic",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Green",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Unknown",
+      "trait_type": "TYPE"
+    }
+  ]
+}

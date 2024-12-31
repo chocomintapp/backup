@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYiEZyCP8r3DwXMUYCRjebhEeJfy7SUVM14MS5c6qRmdQ/nft.jpg",
+  "nftContractAddress": "0x687dd0b4a89292a104b08ce9e74113de8dd13e34",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Alpaca Go Go #5 Japan",
+  "description": "A shy alpaca came to the summer festival at Niigata, Japan wearing nishikigoi patterned yukata! Niigata is well known for producing rice. you will be able to eat lots of food like sake, rice cake and so on!\n\n---\n\n#Alpaca Go Go\nI am a shy alpaca who want to be someone else. I’m traveling around the world to change my mind & clothes!",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": "LOCATION"
+    },
+    {
+      "value": "Beige",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Gape",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Haired",
+      "trait_type": "TOP"
+    },
+    {
+      "value": "Yukata",
+      "trait_type": "SHIRT"
+    },
+    {
+      "value": "Mask",
+      "trait_type": "ACCESSORY"
+    },
+    {
+      "value": "White",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

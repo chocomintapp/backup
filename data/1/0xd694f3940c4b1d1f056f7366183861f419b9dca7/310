@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfUeBwSvMAuR8Vw5oFiciqbCgEUVcjBBJUHpb7whqhGLZ/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 310,
+  "chainId": "1",
+  "name": "March 22 ハクモクレン",
+  "description": "",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "月"
+    },
+    {
+      "value": "22",
+      "trait_type": "日"
+    },
+    {
+      "value": "慈悲心",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ハクモクレン",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

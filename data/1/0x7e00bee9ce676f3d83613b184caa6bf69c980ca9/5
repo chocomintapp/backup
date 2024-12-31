@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQm1KWs1odZcEt9SCV6mApTmPmSLe1V1EM1f6hdJhAFYU/nft.png",
+  "nftContractAddress": "0x7e00bee9ce676f3d83613b184caa6bf69c980ca9",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "CyberAnimeDOLL x CryptoNinja #029 \"Aum (アウン)\"_Model 1",
+  "description": "This is \"CryptoNinja NFT\" derivative work (fan art). This work is in keeping with the world view of CyberAnimeDOLL. \n\nこの作品は、「CryptoNinja NFT」のファンアートですが、CyberAnimeDOLLの世界観に合わせています。",
+  "attributes": [
+    {
+      "value": "Ogre - 鬼",
+      "trait_type": "Entity Concept"
+    },
+    {
+      "value": "One Horn Blue Oni - 一角青鬼",
+      "trait_type": "OGRE TYPE"
+    },
+    {
+      "value": "A Titan's Blow - 巨人の一撃",
+      "trait_type": "ABILITY"
+    },
+    {
+      "value": "Fuma - 風魔",
+      "trait_type": "CLAN"
+    },
+    {
+      "value": "Golden Ponytail - ゴールデンポニーテール",
+      "trait_type": "Hairstyle"
+    },
+    {
+      "value": "Navy Blue - 濃紺",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Red - 赤",
+      "trait_type": "EYE COLOR"
+    }
+  ],
+  "minted": "✅"
+}

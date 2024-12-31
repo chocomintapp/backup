@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ9tBQLyGYCLotYn7Tobgndk1zMamweTMD95kwrGjuuhv/nft.PNG",
+  "nftContractAddress": "0x039ad6000d8ec1081c4c57fe9d6b791ffb36cf8a",
+  "animationUrl": "",
+  "tokenId": 62,
+  "chainId": "1",
+  "name": "mecha kawaii boy #1",
+  "description": "けんと。21歳。犬が大好きすぎて犬の散歩代行のバイトをしている。SNSのフォローはほぼ犬関係。お気に入りのファションアイテムは伯父のお下がりのデニム。",
+  "attributes": [
+    {
+      "value": "mecha kawaii boy",
+      "trait_type": "naco no art"
+    }
+  ]
+}

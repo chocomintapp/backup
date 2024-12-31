@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQEFL8LE3gb6sqUopcZKdXAMaaFxCus1x4zhKbX4JAKEf/nft.PNG",
+  "nftContractAddress": "0x039ad6000d8ec1081c4c57fe9d6b791ffb36cf8a",
+  "animationUrl": "",
+  "tokenId": 61,
+  "chainId": "1",
+  "name": "magical kawaii girl black \"zuzu\"",
+  "description": "マジかわガールズ、ブラックのズズ。\n\n肌が冷たい。仲のいい鴉がいる。ホワイトと仲が悪い。",
+  "attributes": [
+    {
+      "value": "magical kawaii girl",
+      "trait_type": "naco no art"
+    }
+  ]
+}

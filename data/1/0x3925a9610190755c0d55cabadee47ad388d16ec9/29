@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcjVwKhRLdaE3N5XubnR6e4n43B91LhsMkKdVa1KoseU9/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "1",
+  "name": "Xiaolan",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "LONG COAT",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": " Psychopathpistachio",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "NATURAL",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "SAMURAI SWORD",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    }
+  ]
+}

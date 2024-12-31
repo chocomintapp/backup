@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVy9S4YUQsjr4a58NbNPnEkhVXRZT783ogtFtSaYEUU9R/nft.gif",
+  "tokenId": 26,
+  "description": "Io  \n昼間は大人しいが夜になるとひょうきんな性格  \nQuiet during the day, but has a funny personality at night.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmRz6gyUhphB4wMpXy7HuQpPd6MduhQt8vy89Ba23w2oqq/nft.mp4",
+  "chainId": "1",
+  "name": "Io #026",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "VOICE",
+      "value": "Mimi"
+    },
+    {
+      "trait_type": "EYE",
+      "value": "One-Eye"
+    }
+  ]
+}

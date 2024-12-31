@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcF48AKm5VEaJGcQwUnpHojppaUV8hrww7sc3ZtTbqhzQ/nft.gif",
+  "nftContractAddress": "0xe59d6a2d32113de5dd99ba564bbffc92d135d7d8",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "1",
+  "name": "#0025 sweet potato",
+  "description": "京都で創業40年以上のパン屋チロル。\nこちらのパンを使ったNFTアート『Chirol-BreadHeadFriends.-』です。\n\nGraphics Interchange Format\n1024×1024px",
+  "attributes": [
+    {
+      "value": "series001",
+      "trait_type": "Series"
+    },
+    {
+      "value": "sweet potato",
+      "trait_type": "BreadType"
+    },
+    {
+      "value": "anim006",
+      "trait_type": "Animation"
+    }
+  ],
+  "minted": "✅"
+}

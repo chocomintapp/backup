@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTLnnaYeBAyYVHQk81ZEEr8RxZPhLxFy9g3aVEuKMrMVc/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 103,
+  "chainId": "1",
+  "name": "POCO_Tecla",
+  "description": "Tecla-Chan",
+  "attributes": [
+    {
+      "value": "Shrewd",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

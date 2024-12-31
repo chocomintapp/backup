@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWHzpamJ4kTWbzRUt6cTZMb8CC2aURhVJz6E4DQiuNAVN/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 44,
+  "chainId": "1",
+  "name": "Ginevra",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "yellow",
+      "trait_type": "skin"
+    },
+    {
+      "value": "normal_orange",
+      "trait_type": "eye"
+    },
+    {
+      "value": "white05",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "mars_ear",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Gemini",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU6dL2t2jWXf6Krpg3sPaPFx49usFU8F81qEroRHPPRQt/nft.jpg",
+  "nftContractAddress": "0x4598a820c8f17a54aa0bf6191f626ec94939892e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "frog of DOKUJI",
+  "description": "frog of DOKUJI!!!!!",
+  "attributes": [
+    {
+      "value": "Frog",
+      "trait_type": "cute"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

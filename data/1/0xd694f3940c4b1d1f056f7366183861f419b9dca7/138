@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPCyf2ALzDE19wUH6d6jUmRHb78XJp7gJMVyuW1qf9N6a/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 138,
+  "chainId": "1",
+  "name": "October 2 ポーチュラカ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "月"
+    },
+    {
+      "value": "2",
+      "trait_type": "日"
+    },
+    {
+      "value": "チャーミング",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ポーチュラカ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

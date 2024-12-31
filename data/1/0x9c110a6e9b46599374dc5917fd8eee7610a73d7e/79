@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeB2rB7VGwUs2bpw9BM1MkvMMwTHHfEGLqJWyq8nJa8wf/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 79,
+  "chainId": "1",
+  "name": "POCO_Piedad",
+  "description": "Piedad-Chan\n\n",
+  "attributes": [
+    {
+      "value": "White",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Spirited",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Sci-Fi",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSsewDWi52GU7gFse13EHdkYH4GmbBtcX7nBUra7EcuJN/nft.gif",
+  "tokenId": 3,
+  "description": "material: animation\nsize: 2048×2048\ntime: 29 seconds",
+  "nftContractAddress": "0x7c8c8615c676e108c96cf6ceee8b15013f262d4d",
+  "animationUrl": "https://ipfs.io/ipfs/QmaM825qGViCoDtDFVcV2TMNnQRqrKb3dzS9xspcmB3CLS/nft.mp4",
+  "chainId": "1",
+  "name": "sunday garden"
+}

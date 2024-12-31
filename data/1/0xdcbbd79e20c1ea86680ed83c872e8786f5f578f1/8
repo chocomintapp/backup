@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWreAnePdn7WNZf32qyTT22BAgGUGBWcmWGZmcJ7K1jbx/nft.jpg",
+  "nftContractAddress": "0xdcbbd79e20c1ea86680ed83c872e8786f5f578f1",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "#08 MAMENGER WHITE",
+  "description": "Beans in 3D are here!!\nThe first series is MAMENGER.\nSuper sentai MAMENGER keeps the peace of the metaverse.  ",
+  "attributes": [
+    {
+      "value": "Ranger met",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Super cute",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "None",
+      "trait_type": "EAR ACCESSORY"
+    },
+    {
+      "value": "Ranger badge",
+      "trait_type": "BODY ACCESSORY"
+    },
+    {
+      "value": "Ranger white",
+      "trait_type": "BODY COLOR"
+    },
+    {
+      "value": "Ranger suit",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "Big syringe&First-aid kit",
+      "trait_type": "ARTICLES"
+    },
+    {
+      "value": "Rangers hideout",
+      "trait_type": "BACKGROUND"
+    }
+  ],
+  "minted": "✅"
+}

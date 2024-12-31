@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTcjHViJmhRYkgLH9YCTcMkEGcVd3hGi5sh1VneyiAD7F/nft.png",
+  "nftContractAddress": "0x0d0d0b831fff6df660671df2aedd9eae76c3a712",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Thank you Kusari",
+  "description": "Collaboration Creator Kusari https://twitter.com/chainkusari A memorable collaboration with Mr. Kusari.I hope you will get to know both of us through this work!",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

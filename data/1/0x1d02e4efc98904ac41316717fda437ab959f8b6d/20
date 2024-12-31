@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf99LzwyVnMkqivfYhHaJTBsfP35kDbt5vBCXByThYSRA/nft.png",
+  "nftContractAddress": "0x1d02e4efc98904ac41316717fda437ab959f8b6d",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "Monsters #20",
+  "description": "Digital illustration and AI Generated.\n\nMonster, Female, Woman, Cute, Art, Drawing,",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "Monster Color"
+    }
+  ]
+}

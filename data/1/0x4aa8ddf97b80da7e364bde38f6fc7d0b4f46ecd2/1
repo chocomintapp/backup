@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmahDijPGH9qhgcSKvsi5Ydw9S5FgAkc4Ftturedv3EWG7/nft.png",
+  "nftContractAddress": "0x4aa8ddf97b80da7e364bde38f6fc7d0b4f46ecd2",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Smiling!!!",
+  "description": "Life is beautiful~~~!!!",
+  "attributes": [
+    {
+      "value": "osashimi-chan",
+      "trait_type": "GIRL"
+    }
+  ]
+}

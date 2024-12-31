@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQuG83tiWv1rbeL4jxZjd7dHb9aQUz1Xd8JAWWvUioY1a/nft.png",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 898,
+  "chainId": "1",
+  "name": "Neri",
+  "description": "New life born the coexistence with human and data. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.",
+  "attributes": [
+    {
+      "value": "Devil",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Gradation",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Close",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Skull Ribbon",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Nose Piercing",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Empty83",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "6LOM",
+      "trait_type": "PROTO VALUE"
+    },
+    {
+      "value": "Polycrystalline",
+      "trait_type": "SPELL"
+    },
+    {
+      "value": "Free",
+      "trait_type": "DRESS CODE"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "",
+  "nftContractAddress": "0x166a864f50726562311d2273d7b0bf3f28f24c8e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "sd",
+  "description": "sd",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "fsdfsdfs",
+      "trait_type": ""
+    }
+  ]
+}

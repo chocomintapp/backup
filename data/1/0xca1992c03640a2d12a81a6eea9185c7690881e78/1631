@@ -1,0 +1,63 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbi1JztkPF7khWfCFi6HNNXvRdzWCysZgkxyhRHEfMHgD/nft.png",
+  "tokenId": 1631,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1631",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Scarlet"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold 3 Hoop"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Bit Coin"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Pistol"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Round"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Gold Cat Ears"
+    }
+  ]
+}

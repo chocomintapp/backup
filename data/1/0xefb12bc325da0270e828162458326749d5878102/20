@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWMjrRm1tupffDbugGChFif6SGa71enLS9JTM1jL8nWKc/nft.png",
+  "nftContractAddress": "0xefb12bc325da0270e828162458326749d5878102",
+  "animationUrl": "https://ipfs.io/ipfs/QmYvdXS3rbj38hAXz3qPKsS11eFmhQZULUTVLpJdLtaaEK/nft.glb",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "Ballerbit #65C Step",
+  "description": "Set a new record for 3-point shooting! We're going to make it even better!",
+  "attributes": []
+}

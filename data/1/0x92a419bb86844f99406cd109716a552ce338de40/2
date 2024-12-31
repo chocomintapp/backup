@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZuhzLix9jPDjZeSiyEFcnxEom9ng2ZiXxyv7ThPHUYcM/nft.jpg",
+  "tokenId": 2,
+  "description": "This is the second in the dog series. #CryptoBabyAnimals",
+  "nftContractAddress": "0x92a419bb86844f99406cd109716a552ce338de40",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "CryptoBabyAnimals #002",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

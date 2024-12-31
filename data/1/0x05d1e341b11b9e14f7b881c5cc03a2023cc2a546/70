@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdQzzdy3XDi2krJDnG5oicxQ3prd6FDesa3QecMrps3kk/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmRK678PtPbqwkNDonV3MV8GfJeJBLpes1p29GFzKo8YSo/nft.mp4",
+  "tokenId": 70,
+  "chainId": "1",
+  "name": "Kin #070",
+  "description": "Kin  \n013と037から産まれた新しいMIMI  \nNew MIMI spawned from 013 and 037",
+  "attributes": [
+    {
+      "value": "Player",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Mimi",
+      "trait_type": "VOICE"
+    }
+  ]
+}

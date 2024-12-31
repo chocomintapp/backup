@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTnYaAcgprShxMexm65LvrudX1GKhc466yksTe8wdxX7w/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "1",
+  "name": "Kokugo-en",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "KIMONO",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Ai Naito",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "NATURAL",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "TAIL",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "SPIRIT",
+      "trait_type": "RACE"
+    }
+  ]
+}

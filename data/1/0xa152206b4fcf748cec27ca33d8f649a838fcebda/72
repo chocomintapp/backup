@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX7TwFL6ufhNv4NNHfAXdd8Ld6yzMFKdFQGhZeTqMtqkq/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 72,
+  "chainId": "1",
+  "name": "OYAZI ",
+  "description": "ビットコイン教祖",
+  "attributes": [
+    {
+      "value": "ロシャーパー",
+      "trait_type": "人物"
+    },
+    {
+      "value": "キント",
+      "trait_type": "服装"
+    },
+    {
+      "value": "Bitcoin",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "光輪",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

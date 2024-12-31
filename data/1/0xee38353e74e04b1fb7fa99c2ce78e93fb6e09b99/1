@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUbhqcLCyQmejcj5oeZL5sEZ49Bf5fNzyfUW2kTxjwDak/nft.png",
+  "nftContractAddress": "0xee38353e74e04b1fb7fa99c2ce78e93fb6e09b99",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "#0001 Series000 No.001 \"MIRAKO.\"",
+  "description": "未来の自律型電脳ゲーミングPC『Chirobo.』\n\nMIRAKO. Lightning Fun art       \nPortable Network Graphics       \n2048×2048px",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "MIRAKO. ",
+      "trait_type": "Sticker"
+    },
+    {
+      "value": "Wi-Fi Adapter Limited\"MIRAKO.\"",
+      "trait_type": "USB02"
+    },
+    {
+      "value": "Wi-Fi Adapter Limited\"MIRAKO.\"",
+      "trait_type": "USB01"
+    },
+    {
+      "value": "CircleIndustry Limited\"MIRAKO.\"",
+      "trait_type": "RAM"
+    },
+    {
+      "value": "CircleIndustry type A-custom\"MIRAKO.\"",
+      "trait_type": "GPU"
+    },
+    {
+      "value": "CircleIndustry type A-custom\"MIRAKO.\"",
+      "trait_type": "CPU"
+    },
+    {
+      "value": "MIRAKO. ",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Series 000",
+      "trait_type": "Series"
+    },
+    {
+      "value": "Blue×Blue Green",
+      "trait_type": "LED"
+    }
+  ],
+  "minted": "✅"
+}

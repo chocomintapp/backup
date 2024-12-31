@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ4neRKziDhD9TjU5iqJaBzHQPumm2bb7SenUC2BFSqeH/nft.gif",
+  "tokenId": 40,
+  "description": "O-C-T  \n019とオリジナルアートを揃える事で産まれた新しいMIMI  \nNew MIMI spawned by collecting 019 and original art",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmNRmr6sQ6YdBojcEeZpTbr3T668aazZXJXuSxpj1ZtxaX/nft.mp4",
+  "chainId": "1",
+  "name": "O-C-T #040",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Hidden"
+    }
+  ]
+}

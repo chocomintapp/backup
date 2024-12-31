@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeWmdj1fBtFnU5jxj69K4PnhXTtNdw1msjDRLP3ap28Y9/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmR3W22Ui1Eyfs3Ua5km4an5Czpec8QKFLTR8KHC68zHFx/nft.mp4",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "THE JEWEL #005",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Red tourmaline",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Hematite",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

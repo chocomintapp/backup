@@ -1,0 +1,67 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYt4ZadbciCNX1AfLi24tmhPgBuWcrawJYzFacvaiRdD2/nft.png",
+  "nftContractAddress": "0x08853526dc120c16bbc587436993278e52f9eb80",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "羽鬼",
+  "description": "Villain side hideout #1\n\nPack of oni.　Kijin. They gather around to have a feast every night at Ichika. A first time customer? Welcome Welcome! Let us dance till dawn.\n\n敵側 アジト#1\n\n鬼の集団 鬼神　「炎帰万象」 一花にて夜な夜な集まり、夜通し宴が開かれる。 一見さん？大歓迎！\n\n幕開き　踊り狂うわ　花形戯",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Character"
+    },
+    {
+      "value": "炎帰万象",
+      "trait_type": "Belief"
+    },
+    {
+      "value": "Ichika",
+      "trait_type": "Location"
+    },
+    {
+      "value": "Oni/demon",
+      "trait_type": "Species"
+    },
+    {
+      "value": "Sensu",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "6",
+      "trait_type": "apearance"
+    },
+    {
+      "value": "4",
+      "trait_type": "charisma"
+    },
+    {
+      "value": "3",
+      "trait_type": "intelligence"
+    },
+    {
+      "value": "4",
+      "trait_type": "luck"
+    },
+    {
+      "value": "3",
+      "trait_type": "mana"
+    },
+    {
+      "value": "7",
+      "trait_type": "speed"
+    },
+    {
+      "value": "5",
+      "trait_type": "spirit"
+    },
+    {
+      "value": "5",
+      "trait_type": "toughness"
+    },
+    {
+      "value": "7",
+      "trait_type": "strength"
+    }
+  ]
+}

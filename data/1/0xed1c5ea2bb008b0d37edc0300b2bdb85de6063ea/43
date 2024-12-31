@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVvdgN4Z73NfuNP9dbphHovfQ2LFPCghY4KAQwvXqudKD/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "1",
+  "name": "Amy",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "yellow",
+      "trait_type": "skin"
+    },
+    {
+      "value": "albino_normal_red",
+      "trait_type": "eye"
+    },
+    {
+      "value": "purple11",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "mars_ear",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Ursa Minor",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

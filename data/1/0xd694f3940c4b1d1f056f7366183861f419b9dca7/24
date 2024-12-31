@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQGTwa9Q397S2L9NYeWv7CTA5A2Dj3FfcZhj3pzGstcpC/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "June 10 オダマキ（赤）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "10",
+      "trait_type": "日"
+    },
+    {
+      "value": "素直",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "オダマキ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

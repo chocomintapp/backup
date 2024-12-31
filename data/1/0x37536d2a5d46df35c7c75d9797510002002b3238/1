@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRJMzBiPV8p1HyVYS2UWyuw8c8v8dH5C75yky9yVkKqQh/nft.gif",
+  "tokenId": 1,
+  "description": "Japanese NFT Artist - A.Mashiro Art Works",
+  "nftContractAddress": "0x37536d2a5d46df35c7c75d9797510002002b3238",
+  "animationUrl": "https://ipfs.io/ipfs/QmRJMzBiPV8p1HyVYS2UWyuw8c8v8dH5C75yky9yVkKqQh/nft.gif",
+  "chainId": "1",
+  "name": "2021-10-03-16-32-1",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

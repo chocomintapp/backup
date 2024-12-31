@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYSa63NFfpVLEtJ6YPFV9Zwjek4qxLFDScyoyTPaQTQZ8/nft.png",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 937,
+  "chainId": "1",
+  "name": "937",
+  "description": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

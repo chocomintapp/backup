@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX9hpiT5a5vR2A8LQcqEvGsNsPEDkcFUtydiCqJ7pwS4z/nft.png",
+  "tokenId": 2,
+  "description": "You will always be here.\nA legend that needs to be told.",
+  "nftContractAddress": "0xefb12bc325da0270e828162458326749d5878102",
+  "animationUrl": "https://ipfs.io/ipfs/QmVJt4wJtsy5e7dWzZmh3LRbNkocihrVo2A7eeS2hJQ8YN/nft.glb",
+  "chainId": "1",
+  "name": "Ballerbit #1R Kobio",
+  "attributes": []
+}

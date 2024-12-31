@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeXdFbwxciRB62bQQzbFzV3bAqdGzbefyVFmqYNpoTQxj/nft.png",
+  "nftContractAddress": "0x6c9fafd68809c2d4e1964d5b5bcda40f03884168",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "葛藤 / Conflict",
+  "description": "人には歴史があり、葛藤がある。\n時に闇に飲み込まれ、時に光を放つ。それをどう受け止め、何を選択するかは、あなた次第です。\n\nPeople have histories and conflicts.\nSometimes they are swallowed by darkness, and sometimes light shines through. It is up to you how you perceive it and what you choose to do with it.",
+  "attributes": []
+}

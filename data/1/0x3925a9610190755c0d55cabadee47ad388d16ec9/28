@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSH3xQLdrQjgvHCgcDcLj4mHK3tKSA4mR7sGiUhRpLYFx/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "1",
+  "name": "Shirayuki",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "KIMONO",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Yukiti Asakura",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "NATURAL",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "SAMURAI SWORD",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    }
+  ]
+}

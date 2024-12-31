@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmThDZ8cDoLRLaSbYcwgFmyQoHWWPX4xPS27NtEjwKEjvR/nft.jpg",
+  "nftContractAddress": "0x72f477d2f866c3c22694f23ad5e3792bd93d2cff",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "Alpaca Woo Hoo #11",
+  "description": "シャイで内気なアルパカくん。\nかき氷のひんやりビーチでのんびりまったり。\nそよ風がとっても心地良くてしあわせ！\n\n---\n\nA Shy alpaca has a relaxing time on the shaved ice beach.\nThe light breeze feels lovely.",
+  "attributes": [
+    {
+      "value": "Food",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Sailor",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Sky Blue",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

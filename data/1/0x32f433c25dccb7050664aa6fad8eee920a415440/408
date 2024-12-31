@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWcuDdRr8DPMfdGpir1aYjFq3tGTyNc34e3LtDhfwWwYV/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmTBdQjWtvytmYoikn4Wx681bRykfNQC2ZoN9WjBRwjMKR/nft.mp4",
+  "tokenId": 408,
+  "chainId": "1",
+  "name": "THE JEWEL #408",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Mint Green Beryl",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Iridium",
+      "trait_type": "Control device"
+    }
+  ]
+}

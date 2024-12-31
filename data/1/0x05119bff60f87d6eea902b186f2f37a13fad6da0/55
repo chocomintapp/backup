@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPp4MD2rwdGWTb9fE343NuQU31CzAcYMkaMHx9CGv2Gqr/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 55,
+  "chainId": "1",
+  "name": "POPET No.55",
+  "description": "【物語】　POPTOWNに暮らす兄妹のPOPET。お兄ちゃんのヤーと妹のミャー。いつもどこでもふたり一緒。",
+  "attributes": [
+    {
+      "value": "兄妹",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ダウンタウン",
+      "trait_type": "origin"
+    },
+    {
+      "value": "仲良し",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRtYZHXCY2sdHu411GbSKZ6KqhBW4Z6yVXmqQy3UtCegx/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 127,
+  "chainId": "1",
+  "name": "Rhiannon",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "Aries",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

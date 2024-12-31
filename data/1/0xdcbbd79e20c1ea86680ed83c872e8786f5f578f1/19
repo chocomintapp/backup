@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSUHGcsJDAEeyEwJzSxz11WAYMLgv5UbL65FTuUA5Jjr8/nft.jpg",
+  "nftContractAddress": "0xdcbbd79e20c1ea86680ed83c872e8786f5f578f1",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "#16 VILLAINS BEAN THE SPIRIT OF THUNDER",
+  "description": "Beans in 3D are here!! The second series is VILLAINS. They are MAMENGERS enemy.\nThis BEAN is The elite four of VILLAINS.",
+  "attributes": [
+    {
+      "value": "None",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Thunder symbol",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Spirit Rings",
+      "trait_type": "EAR ACCESSORY"
+    },
+    {
+      "value": "Spirit Rings",
+      "trait_type": "BODY ACCESSORY"
+    },
+    {
+      "value": "Elite Yellow",
+      "trait_type": "BODY COLOR"
+    },
+    {
+      "value": "Elemental Source",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "Thunder Drum Circle",
+      "trait_type": "ARTICLES"
+    },
+    {
+      "value": "Villains Sky V2",
+      "trait_type": "BACKGROUND"
+    }
+  ],
+  "minted": "✅"
+}

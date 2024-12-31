@@ -1,0 +1,19 @@
+{
+  "image": "",
+  "nftContractAddress": "0xd27211ae68b87029d0eced06f178a9a4d8397aeb",
+  "animationUrl": "https://ipfs.io/ipfs/QmWjakj67rSgWKjkSk1REpUzXC17VLJfeHbVyKJSM3XTcM/nft.gif",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "POC第1章No.5　HAPPY ANIMALS",
+  "description": "始祖鳥からの報告により地球上にあった生命にマイクロキチンを進化させ、多様な種、多様な生息地、多様な世界を楽しめる惑星へと進化させた。\n作戦名は…\nHAPPY ANIMALS",
+  "attributes": [
+    {
+      "value": "第1章",
+      "trait_type": "章"
+    },
+    {
+      "value": "支配者チキン",
+      "trait_type": "チキン種別"
+    }
+  ]
+}

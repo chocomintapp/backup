@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaHctCG6tZW4Fm47ouU3E5ZcrRoPh5GHVQewNSemyrsZt/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Akari/UDA Special Edition",
+  "description": "Neo Tokyo Punks × Ambitious One CityのSpecial Giveaway",
+  "attributes": [
+    {
+      "value": "Takota Isaki",
+      "trait_type": "CREATOR"
+    }
+  ]
+}

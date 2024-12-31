@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR6Nt2gmcaQVYz7MLB9koJDUj1jx9scwrQmZtYG4hgaEP/nft.gif",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "Working Ganmichan#35",
+  "description": "丸の内OLのがんみちゃん（登場2回目）。同僚の馬場君が突然踊りだすが、一切動じない強靭なメンタルを持ち合わせている",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "OL",
+      "trait_type": "situation"
+    },
+    {
+      "value": "baba",
+      "trait_type": "bro"
+    }
+  ],
+  "minted": "✅"
+}

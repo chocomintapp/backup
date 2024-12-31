@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSF3SyAd6Mt1NPxVv8u4f3jGvc2p7WtubDaFWgkf862zL/nft.gif",
+  "tokenId": 3,
+  "description": "Squidots go to UK!",
+  "nftContractAddress": "0x4d1273fa32cd441d8ca97ba0741134f3f30e9532",
+  "animationUrl": "https://ipfs.io/ipfs/QmfKYJfUY95oA1jWkyejZhHjNLjgppPfB1uuMb1z242rfq/nft.gif",
+  "chainId": "1",
+  "name": "Squidots UK"
+}

@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQpkUBpC6JWkEXNEHwxAnBJzst7Zq62QEeuPUDhHUnYry/nft.jpg",
+  "nftContractAddress": "0xae833d9846385ec4a84465e33dc1a25401148b2c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Dakko ex #001",
+  "description": "MIRAKO.LIGHTNING VER. fan art\n",
+  "attributes": [
+    {
+      "value": "Ex",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "MIRAKO.",
+      "trait_type": "THEME"
+    },
+    {
+      "value": "Ponytail",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Pajamas",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Charger",
+      "trait_type": "HUG"
+    }
+  ],
+  "minted": "✅"
+}

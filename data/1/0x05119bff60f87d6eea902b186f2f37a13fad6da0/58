@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZLpsZtQf6h7mtBuwkLuTiZj3RQX5dVRy9cbnKBcPKef9/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 58,
+  "chainId": "1",
+  "name": "POPET No.58",
+  "description": "【物語】見習いホテルマン。「失敗した時に甘え上手な性格と愛嬌でのりきる器用さには光るものがある。」オリヴァーは言う。",
+  "attributes": [
+    {
+      "value": "見習いホテルマン",
+      "trait_type": "job"
+    },
+    {
+      "value": "立ち寝",
+      "trait_type": "skill"
+    },
+    {
+      "value": "市役所",
+      "trait_type": "origin"
+    },
+    {
+      "value": "甘えん坊",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

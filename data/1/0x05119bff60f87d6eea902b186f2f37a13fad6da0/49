@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmakssw8uyKm8WEUq6WeRjjSjhNq3CNszatadsWgctCBgg/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 49,
+  "chainId": "1",
+  "name": "POPET No.49",
+  "description": "【物語】\n苦悩を突き抜けば、歓喜になる。\n耳が聞こえずとも、\n天才は音楽を創り続けた。",
+  "attributes": [
+    {
+      "value": "音楽家",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "教会",
+      "trait_type": "origin"
+    },
+    {
+      "value": "情熱的",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

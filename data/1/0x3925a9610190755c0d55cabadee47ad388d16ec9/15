@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNYUG5P754i1BdVQYNqXEFoC4TBchG8qYBwqDoG17VXMq/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "Sakura",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "HAPPI COAT",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Yukiti Asakura",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "NATURAL",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "HAND GUN",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    }
+  ]
+}

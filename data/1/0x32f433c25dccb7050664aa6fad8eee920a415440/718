@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdjc95gpUvamXXT9AtTKC5UyuPC2EA1ZfTa1x6NHqkCKQ/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmVrpFGAME2GxoL34U32X9AAfsNihccbxtkHUczSjzZ5at/nft.mp4",
+  "tokenId": 718,
+  "chainId": "1",
+  "name": "THE JEWEL #718",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Amethrin",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Brass",
+      "trait_type": "Control device"
+    }
+  ]
+}

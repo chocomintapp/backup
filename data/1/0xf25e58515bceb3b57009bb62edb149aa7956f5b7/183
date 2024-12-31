@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVdjCLCSnWXikkcmjorzY1eVpKZAwBgTiecUTqmYCiLMQ/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 183,
+  "chainId": "1",
+  "name": "Eiger",
+  "description": "■アイガー",
+  "attributes": [
+    {
+      "value": "Ninja3-Pastel",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Eyes-Of-Flame",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Fenix",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Hornes-R",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Phoenix",
+      "trait_type": "TYPE"
+    }
+  ]
+}

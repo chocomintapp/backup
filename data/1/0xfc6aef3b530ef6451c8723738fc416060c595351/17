@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf9sBzSMASSYDs5HSwy8g2k2qq3vo7gh2M8dMQxTtTohc/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "Doge Mining Space Complex",
+  "description": "PNG 2048x2048  \nTotal supply 1/1  \nDoge mining facilities are like a city yet like a fairy tale in the space.",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "Face",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "Rocket, UFO(s), Planets, Virus",
+      "trait_type": "object(s)"
+    },
+    {
+      "value": "Mother",
+      "trait_type": "generation"
+    }
+  ]
+}

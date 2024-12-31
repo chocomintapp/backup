@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTKZZ2v4GhQcHWQJRkumT92qyQzabTktpAGB3NJFUvmVA/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 122,
+  "chainId": "1",
+  "name": "POCO_Loviisa",
+  "description": "Loviisa-Chan",
+  "attributes": [
+    {
+      "value": "Curious",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

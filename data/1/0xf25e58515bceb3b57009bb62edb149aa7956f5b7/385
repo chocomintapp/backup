@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU2tPizX4nXMfPyU5ahBuHwTCxEN4Q35R8atxpPfZzE9B/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 385,
+  "chainId": "1",
+  "name": "RABIO",
+  "description": "■ラビオ",
+  "attributes": [
+    {
+      "value": "Ninja4",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Long-Deeppink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-White",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Anisu-tatoo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-Black(NE）",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Narukami-Su(M3)Y",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Hornes-N",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

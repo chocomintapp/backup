@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRahdZjkXBfvzRQk3mmsC17kW5iJcLfu9WxGxBbFfiS9o/nft.png",
+  "nftContractAddress": "0x50d35987c2f34c621d81618497fce5a396d8b0e3",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "test",
+  "description": "初めてのMint",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmemv4DivJvkNS2kefse1JybmF3hy4cyZZdtBrdXXMXxR9/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 207,
+  "chainId": "1",
+  "name": "WAKAMEI",
+  "description": "■ワカメイ",
+  "attributes": [
+    {
+      "value": "MIX2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "mushroomhair",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Go around",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Tama",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

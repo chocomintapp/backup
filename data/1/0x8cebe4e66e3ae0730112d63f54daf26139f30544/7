@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP1FzPT1HXEaMtd4sU823t7FNmbQ7A4KNGmxKX4viQkkS/nft.png",
+  "tokenId": 7,
+  "description": "",
+  "nftContractAddress": "0x8cebe4e66e3ae0730112d63f54daf26139f30544",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "CryptoSisters #7",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "CHARACTER",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Super Shiny"
+    },
+    {
+      "trait_type": "PRICE",
+      "value": "ATH"
+    }
+  ]
+}

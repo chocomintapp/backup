@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmREP3EJErNDXWo48BeoSibk8PoCRCrxFZubNeesFAyAgv/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmP3KiAZq7J6U4C9X3PpTMy3uW3Nm58VM4QMuqQ4VQ4kn4/nft.mp4",
+  "tokenId": 706,
+  "chainId": "1",
+  "name": "THE JEWEL #706",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "road night",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Control device"
+    }
+  ]
+}

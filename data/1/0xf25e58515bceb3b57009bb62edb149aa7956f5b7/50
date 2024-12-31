@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeJEJYk9aWMyd3esymJS6WwuDpbgBreeEhRPjcj1kZgut/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 50,
+  "chainId": "1",
+  "name": "EVABIO",
+  "description": "The fourth head of the N'mou tribe.\n\nHe was a ninja and died when he accidentally fell off a cliff while training to become one.\n\nSince then, he has been revered as the god of the N'mou tribe.\n\nSome of the N'mou wandered around the edge of death, and were seen playing happily in the river with Kiroro, the beloved dog of the third head of the N'mou tribe.\n■エヴァビオ\n\nン・モウ族の第4代当主。\n\n忍者に憧れ、特訓中に誤って崖から転落し死亡。\n\n以降、ン・モウ族の神として崇められるようになる。\n\n死の縁を彷徨ったン・モウ族の何人かが第三代当主の愛犬キロロと楽しそうに川で遊んでいるのを目撃している。",
+  "attributes": [
+    {
+      "value": "Dream-River",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Yellow",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Scornful-Yellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-White",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Kiroro",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Angel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

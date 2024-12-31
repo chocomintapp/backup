@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSyhArveu9QaaC4hX1ceXbKw3NZaZNEHdd5CDSQoptiD4/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 109,
+  "chainId": "1",
+  "name": "September 3 キク（黄）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "3",
+      "trait_type": "日"
+    },
+    {
+      "value": "いつも満たされる",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "キク",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

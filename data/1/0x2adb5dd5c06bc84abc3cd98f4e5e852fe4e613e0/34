@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc178CM5sPWfyvnSwkj1bSUyKCqFQwpd2ZDXVK1XMHR9e/nft.png",
+  "nftContractAddress": "0x2adb5dd5c06bc84abc3cd98f4e5e852fe4e613e0",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "1",
+  "name": "Suzu [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nSuzu\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR EVO]",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Black",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Black",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Cap",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Gas Mask",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Caution",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "EVO",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmctGL78DjkdAcjVx9Qg1M17EDXMvZLVJPLEHiqKh6DpMQ/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 178,
+  "chainId": "1",
+  "name": "November 11 サンビタリア",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "11",
+      "trait_type": "月"
+    },
+    {
+      "value": "11",
+      "trait_type": "日"
+    },
+    {
+      "value": "私を見つめて",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "サンビタリア",
+      "trait_type": "花"
+    }
+  ]
+}

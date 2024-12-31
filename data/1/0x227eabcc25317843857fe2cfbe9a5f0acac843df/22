@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVwfZcGFogtiN5tD4VkTJxMtFKuEktb8hzCVYZTSVaph1/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "Beach Borne Bae #50",
+  "description": "Beach Borne Bae #50\nInspired by Oarfish / リュウグウノツカイ",
+  "attributes": [
+    {
+      "value": "Ponytail ",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Cross Wrap",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

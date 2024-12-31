@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd5f5HVjBUpgEcxvZJs52p3phxijUtm9ujaGFiemogHZj/nft.gif",
+  "nftContractAddress": "0x9dc339b235910416bcd9d4c5f3cba8bb481eea51",
+  "animationUrl": "https://ipfs.io/ipfs/Qmd5f5HVjBUpgEcxvZJs52p3phxijUtm9ujaGFiemogHZj/nft.gif",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "#011 Class2-A Arisa Hiiragi",
+  "description": "She often posts scenes from her classroom on social media.  \n------------------    \n彼女はよく教室の風景をSNSに投稿しています。",
+  "attributes": [
+    {
+      "value": "Izumo High School",
+      "trait_type": "School"
+    },
+    {
+      "value": "Class 2-A",
+      "trait_type": "Grade"
+    },
+    {
+      "value": "Photography Club",
+      "trait_type": "Role"
+    }
+  ]
+}

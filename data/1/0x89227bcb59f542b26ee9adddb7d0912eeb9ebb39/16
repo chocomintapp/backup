@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZPLQhmi6DK9x7nrYV7RRS7QQqweHnsntHjf2d7xXq5Ra/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "#016-Toyama-",
+  "description": "#016-Toyama-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Gaia",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Chubu",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Toyama",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

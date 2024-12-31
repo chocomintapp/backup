@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWxdo42LCkbRQwPYPorqCsFQWcZi6ufeivogQhW33jDZf/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "Yahiko",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "JACKET",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Nimu Harumi",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "SMILE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "KUNAI",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    }
+  ]
+}

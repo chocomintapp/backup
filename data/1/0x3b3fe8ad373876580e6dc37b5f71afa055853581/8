@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmco1xYzvRoWLks18iufQmGvB3UanuxQkzbSGKfW4nph5u/nft.png",
+  "nftContractAddress": "0x3b3fe8ad373876580e6dc37b5f71afa055853581",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "Day7-1",
+  "description": "🗓Thu, 22th Sep '22🍫BLACK THUNDER on Back Road\n\nThis day I did litter picking at 3 places ( though each picking is finished in just a few min). The 1st place is the Back Road, there is a tunnel, where found an empty pack of BLACK THUNDER which is one of the most famous Japanese snacks.\nI like its black and red package design very much😋 and this time the contrast of weeds green and the red-black color was very artistic.\n\n------------------------------------------------------------\n\n・BLACL THUNDER🍫（ https://blackthunder.jp/ ）\n・MUJI Gummy chocolate（ https://www.muji.com/jp/ja/store/cmdty/detail/4550182146325 ）\n・🍙 pack\n・Plastic bag×2\n\n🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫🍫\n\n🧱Day7-1st＊裏道ブラックサンダー🍫\n🗓22.9.22.木\n\nこの日は3回ごみ拾いをしました（それぞれ数分ずつだけど）。\n最初の場所はトンネルのある裏道。\n日本で一番有名な駄菓子の「ブラックサンダー 」の殻が草むらに捨てられてました。\n赤黒のデザイン大好きなんですが、この時の草の緑と赤黒のコントラストがとっても芸術的でした😋\n\n------------------------------------------------------------\n\n・ #ブラックサンダー🍫\n・グミチョコレート #無印良品 #MUJI\n・おにぎりパック\n・ポリ袋×2",
+  "attributes": [
+    {
+      "value": "ART",
+      "trait_type": "GOMINOTE"
+    },
+    {
+      "value": "Thu, 22th Sep '22",
+      "trait_type": "DATE"
+    },
+    {
+      "value": "OSAKA",
+      "trait_type": "PREFECTURE"
+    },
+    {
+      "value": "JAPAN",
+      "trait_type": "COUNTRY"
+    },
+    {
+      "value": "BLACKTHUNDER",
+      "trait_type": "MAKER"
+    },
+    {
+      "value": "MUJI",
+      "trait_type": "MAKER"
+    },
+    {
+      "value": "Plastic Bag",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "SUITA",
+      "trait_type": "CITY"
+    }
+  ]
+}

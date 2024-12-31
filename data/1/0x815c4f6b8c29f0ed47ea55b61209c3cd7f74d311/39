@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmacvCTqzRfZ77fkE98rF4ehSX3QzzNPRVDBQGDxSuiDB5/nft.jpg",
+  "nftContractAddress": "0x815c4f6b8c29f0ed47ea55b61209c3cd7f74d311",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "1",
+  "name": "Irish turtle",
+  "description": "The turtle wears the Irish flag colored turtle shell.",
+  "attributes": []
+}

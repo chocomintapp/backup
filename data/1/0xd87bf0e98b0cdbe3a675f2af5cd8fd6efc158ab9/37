@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUW1K1KyouxbkxzivhKBTqTeYxYpLz4ErR3zk1awtczt8/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "1",
+  "name": "THS #072",
+  "description": "【若】",
+  "attributes": [
+    {
+      "value": "deer",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "eggplant flower",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "wild bird",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

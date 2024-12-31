@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXPSZ2YzJsxoP3dthMbLfSFM65A1ZFKdsK6haXgDiCV54/nft.PNG",
+  "nftContractAddress": "0xcc97ae94401d8f212d1e167e80c2a210cbeb5f88",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Red panda",
+  "description": "",
+  "attributes": [],
+  "minted": ""
+}

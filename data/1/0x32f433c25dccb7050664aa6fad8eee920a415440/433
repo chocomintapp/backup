@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTqBtheSYWHdpFUm3QCKVT2gMxAoVvtEVGKXg82GBSXrc/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmTLKc1VaSRtN7kq4eVoJei6smRQH2AG72i4VFxiZdtphQ/nft.mp4",
+  "tokenId": 433,
+  "chainId": "1",
+  "name": "THE JEWEL #433",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Zirconium",
+      "trait_type": "Control device"
+    }
+  ]
+}

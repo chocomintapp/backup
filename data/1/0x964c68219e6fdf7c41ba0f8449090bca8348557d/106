@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb7kCvBXfu1WwpkGDDFQWns6uLmdiBfW3ZHHaiCdQPUWB/nft.jpg",
+  "nftContractAddress": "0x964c68219e6fdf7c41ba0f8449090bca8348557d",
+  "animationUrl": "",
+  "tokenId": 106,
+  "chainId": "1",
+  "name": "test3",
+  "description": "検証",
+  "attributes": [
+    {
+      "value": "test",
+      "trait_type": "Grade"
+    }
+  ]
+}

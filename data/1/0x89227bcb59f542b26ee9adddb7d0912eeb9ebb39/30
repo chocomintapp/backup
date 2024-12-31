@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNbtxw8uB2Z2qVowPbt4xcuv8c6NMDpvq77MeetvM3phb/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "1",
+  "name": "#030-Wakayama-",
+  "description": "#030-Wakayama-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Flare",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kansai",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Wakayama",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

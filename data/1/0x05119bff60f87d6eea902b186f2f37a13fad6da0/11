@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRFnXDkAv5QHAdb4TRQC56ubZUgrQDZ3QQvBYPAhVNiCQ/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "POPET No.11",
+  "description": "【物語】\n\nポップタウンの最新テクノロジーはすべて私が開発した。尽きることのないアイディアがつねに頭に湧き上がる。",
+  "attributes": [
+    {
+      "value": "プログラマー",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "技術局",
+      "trait_type": "origin"
+    },
+    {
+      "value": "天才",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZKQgS2ekEk9fqG8Jgv1TSAXzZxDXDjf9E9pzEtdpZcZb/nft.png",
+  "nftContractAddress": "0x1bba5cf9da1c5f778657c86225a88f98f8b47e4c",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "#014 Tim Plumber",
+  "description": "This is Tim, a plumber.\nHe works day and night to bring peace to the world by cleaning and repairing not only water pipes but also pipes in the underworld.",
+  "attributes": [
+    {
+      "value": "Tim",
+      "trait_type": "CHARACTER"
+    },
+    {
+      "value": "Job",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Plumber",
+      "trait_type": "JOB"
+    }
+  ]
+}

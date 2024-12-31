@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZiKtqr5s6ixoMLNZBUB4w5yGZXHz4cRLM3NJAQoRPUZk/nft.png",
+  "tokenId": 7,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #7",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "White"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Black Baseball Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sun Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_4"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "GoldNecklace"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQNxGj5n6LNmL8oUs514xdoVcPoShK9faDUvMpeSGScnJ/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "1",
+  "name": "Doge's Dawn To The Moon In Antarctica",
+  "description": "File: PNG  \nSize: 2048x2048  \nTotal Supply: 1  \nIt's always darkest before the dawn.",
+  "attributes": [
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "w/ body",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "All",
+      "trait_type": "genaration"
+    },
+    {
+      "value": "Moon",
+      "trait_type": "object(s)"
+    },
+    {
+      "value": "Ladders",
+      "trait_type": "object(s)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbVL4BBYTBHRw5gtyzHEW4nfMrpuA6yX2JAR2hFy84eeE/nft.mp4",
+  "nftContractAddress": "0xdb4969706380e8ffbbcb9226278f5701f93dec74",
+  "animationUrl": "https://ipfs.io/ipfs/QmbVL4BBYTBHRw5gtyzHEW4nfMrpuA6yX2JAR2hFy84eeE/nft.mp4",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Moving Craftwork #001 Flowers 1",
+  "description": "This is a series of moving folk art objects.",
+  "attributes": [],
+  "minted": "✅"
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ4JHfQSt8TmhQZojJggtv7QPsgi8Ndv58H5gcvydYGwW/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "1",
+  "name": "スーパーカラフルまじっくむらちゃん Super Colorful Magic Violet-chan #sp35",
+  "description": "スペシャル版です！\n\nすでに半年前の特典を贈らせていただいた後も\nカラ作をご購入してくださった方へ\n\nカラとカラママンで一緒に相談して\nおひとりずつに合いそうなのを\n贈らせていただきました♪\n\n2021年9月24日からデジタルの絵をはじめて６か月の時に、 \n成長したことを買ってくれた人に見てほしくて作りました。 \n\"にじいろきょうだい\" のシリーズです。\n\n11ヶ月になって、背景とまゆげの一部をかえたシリーズを足しました♪\n\nぜひご自由にお楽しみいただけますように✨\n\n\nSpecial Edition!\n\nEven after we already gave away the special edition six months ago\nto those who have purchased COLOR artwork.\n\nCOLOR and COLOR Maman will consult together to give a special edition that will suit each and every one of you.\n\nCOLOR made this piece six months after I started digital painting on September 24, 2021, because I wanted the people who bought it to see how it had grown.\n\nWe hope you enjoy it!",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Girl",
+      "trait_type": "Type"
+    },
+    {
+      "value": "kawaii",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Violet",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Colorful",
+      "trait_type": "Color"
+    }
+  ]
+}

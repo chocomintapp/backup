@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWjbeTu6rT3xjpjFk1iABQeABBZuGzxDK2wsPVcENLztx/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 50,
+  "chainId": "1",
+  "name": "POPET No.50",
+  "description": "【物語】 一流のバーテンダーを目指して今日もシェイカーを振るんだ。\n\nお待たせいたしました。\nオレンジジュースのネクター割りです。\n\n彼はお酒が飲めない。",
+  "attributes": [
+    {
+      "value": "見習いバーテンダー",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "BarPOPNIGHT",
+      "trait_type": "origin"
+    },
+    {
+      "value": "社交的",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

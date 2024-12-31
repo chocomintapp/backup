@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRibBuRNwKhpD566GxhFTbHBrajbUWPbJWbN9cgx7KHLB/nft.png",
+  "nftContractAddress": "0x02d427fe92cd218e6f43337db8b32acce03cc68e",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "TEST2",
+  "description": "２個目のテストです",
+  "attributes": [
+    {
+      "value": "E",
+      "trait_type": "alpha"
+    }
+  ]
+}

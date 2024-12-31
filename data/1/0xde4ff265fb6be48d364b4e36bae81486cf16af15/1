@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSXHALFcLwHja6S6b7xJKXpd49cAP6kTDQRekxsWF64gD/nft.png",
+  "nftContractAddress": "0xde4ff265fb6be48d364b4e36bae81486cf16af15",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "WE'RE 碁LOVERS!　〜TMA version〜",
+  "description": "TMAジェネfanart第2弾へ投稿した作品です。\nMAGIA IGO Fightersでは初作品となります。\n中央はTMAのVia。\n周りはIGO-CNPのリーリーとルナです。",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbKFmnbHbGXwgbaeTBf7AH7nEnsGFgfgDFLTWG2ieKAF7/nft.jpg",
+  "nftContractAddress": "0x72f477d2f866c3c22694f23ad5e3792bd93d2cff",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "Alpaca Woo Hoo #10",
+  "description": "ぬいぐるみに憧れる、世界地図をまとったアルパカくん。\n旅するときは僕も連れてってね。まずはどこに行ってみる？\n\n---\n\nA Shy alpaca in a world map hoodie wants to be a toy.\nWhen you go traveling take me with you. Where would you like to go around first?",
+  "attributes": [
+    {
+      "value": "Toy",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Light Yellow",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

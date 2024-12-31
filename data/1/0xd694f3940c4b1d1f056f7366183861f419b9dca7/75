@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf1zUYwUpf9bnHWHtCTyonwLpMRBX4UyMjMDJBee8w27P/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 75,
+  "chainId": "1",
+  "name": "July 31 ザクロ（花）",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "7",
+      "trait_type": "月"
+    },
+    {
+      "value": "31",
+      "trait_type": "日"
+    },
+    {
+      "value": "円熟の美",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ザクロ",
+      "trait_type": "花"
+    }
+  ]
+}

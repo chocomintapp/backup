@@ -1,0 +1,20 @@
+{
+  "image": "ipfs://bafybeibfsenssbnoqs2ypgqqzwefeeafld3btj2kyxnxswlcj43ytbkr6q",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "1",
+  "name": "Working Ganmichan #42",
+  "description": "マッハキックからのコンビネーションキックがんみちゃん！！\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "fighter",
+      "trait_type": "situation"
+    }
+  ]
+}

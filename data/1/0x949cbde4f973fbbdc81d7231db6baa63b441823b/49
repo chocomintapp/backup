@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTv8Lba6gTHbRCv14qcqfmRNxknxm9ggiB9mAzcaD6eYv/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 49,
+  "chainId": "1",
+  "name": "W-Blank2 #49",
+  "description": "",
+  "attributes": [
+    {
+      "value": "none",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "none",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "none",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "none",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

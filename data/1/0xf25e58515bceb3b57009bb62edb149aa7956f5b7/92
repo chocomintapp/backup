@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNvX3cjHCb4FrCXdaNWcTDPfdm5HC1CPGpS4oZYefNd5N/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 92,
+  "chainId": "1",
+  "name": "LUNA",
+  "description": "LUNA love charts and investing too much to sit in front of a computer every day.\n\nWhen I'm concentrating in front of the PC, I'm always soothed by the Shiba Inu that comes out from between my legs.\n\n■ルナ\n\nチャートと投資が好きすぎて、毎日PCの前にかじりついている。\n\nPCの前で集中してる時に、足の間から顔を出してくる柴犬にいつも癒されてる。",
+  "attributes": [
+    {
+      "value": "Light-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-Blackblood",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-O",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Orange",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXf2Cux9eEbtkEyf3cibur8u8uSzv8sbG5BLH6vxVP33e/nft.png",
+  "tokenId": 13,
+  "description": "Hello. I am Sato Tanaka. #0012\n\n#日本NFT化計画 2021参加NFT",
+  "nftContractAddress": "0xaca13a43a412eb5cc9b065607a2ef32b8c1b2a32",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "I am Sato Tanaka #0012",
+  "attributes": [
+    {
+      "trait_type": "I am",
+      "value": "#0012"
+    },
+    {
+      "trait_type": "CATEGORY",
+      "value": "Fairy"
+    },
+    {
+      "trait_type": "FAIRY",
+      "value": "Bambooman"
+    },
+    {
+      "trait_type": "ITEM",
+      "value": "KING OF TAKENOKO"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Pink"
+    }
+  ]
+}

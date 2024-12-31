@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaUSWwDGYroCXGigNg16q6LGcQhL9GuyxpAmg8QPLwFHg/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "#011-Saitama-",
+  "description": "#011-Saitama-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Aqua",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kanto",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Saitama",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

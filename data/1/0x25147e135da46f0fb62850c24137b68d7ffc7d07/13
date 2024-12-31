@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcTCXV9ZhkY9dmC33pJxnswW98S49HanGM5sveqfKRBwm/nft.png",
+  "nftContractAddress": "0x25147e135da46f0fb62850c24137b68d7ffc7d07",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "BE KOBE NFT CREATIVE AWARD #13",
+  "description": "第1回 BE KOBE NFT CREATIVE AWARD Discordスタンプ部門 入賞作品\n\n【タイトル】\n『I♥KOBE』\n\n【制作者】\nえど★ざわ 様\n\n【コンセプト】\nI♥️KOBEで神戸愛アピールです！\n南京町とか船長さんとかセーラー服とか神戸っぽいねこちゃんで愛を叫びます～。\nIの部分がポートタワーになってるのがポイントです😄",
+  "attributes": [
+    {
+      "value": "Discordスタンプ",
+      "trait_type": "部門"
+    }
+  ],
+  "minted": "✅"
+}

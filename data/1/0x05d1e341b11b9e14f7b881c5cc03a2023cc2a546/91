@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmceZD99YUyET6q6jSc4NM2RKpzZk6ek3yv7gntY4i4u7p/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmRMAHpqdQLKGg54TpSqWcMgZy6K7sT4KaDvcz9TsZiP9u/nft.mp4",
+  "tokenId": 91,
+  "chainId": "1",
+  "name": "Raph #091",
+  "description": "Raph  \n007と060から産まれた新しいMIMI  \nNew MIMI spawned from 007 and 060",
+  "attributes": [
+    {
+      "value": "Player",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Mimi",
+      "trait_type": "VOICE"
+    },
+    {
+      "value": "Three-Eyes",
+      "trait_type": "EYE"
+    }
+  ]
+}

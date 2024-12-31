@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZo5V5iE2nfd8xSPkjGtxcufGsBrbrzNj9ieMqoU4Hibh/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 74,
+  "chainId": "1",
+  "name": "OYAZI ",
+  "description": "自称評論家",
+  "attributes": [
+    {
+      "value": "満足",
+      "trait_type": "人物"
+    },
+    {
+      "value": "ワイシャツ",
+      "trait_type": "服装"
+    },
+    {
+      "value": "MMT",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

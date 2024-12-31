@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQFLwHkbJdDy5gaNURa4xZ8VNY9uf5r6zUXEhDtvKMFZK/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 279,
+  "chainId": "1",
+  "name": "February 20 ローズマリー",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "月"
+    },
+    {
+      "value": "20",
+      "trait_type": "日"
+    },
+    {
+      "value": "あなたは私を蘇らせる",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ローズマリー",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

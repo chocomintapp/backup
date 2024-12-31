@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ13YwX9ZGWYjro6Lo55pG6UZeEtVBAhM6SQHoos5yvvv/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "Shiori Kinumaki",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "KIMONO",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Coche",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "SLIGHT SMILE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "SEWING",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "DEMI-GHOST",
+      "trait_type": "RACE"
+    }
+  ]
+}

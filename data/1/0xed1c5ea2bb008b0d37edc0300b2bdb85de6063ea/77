@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdHnggNTNSSwE8ty7kgM3HZ91GxM5XHN9LhDrVh7WWmiz/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 77,
+  "chainId": "1",
+  "name": "Anna",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "asia",
+      "trait_type": "skin"
+    },
+    {
+      "value": "stylish_blue2",
+      "trait_type": "eye"
+    },
+    {
+      "value": "gold11",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "mars_glass",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Capricorn",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

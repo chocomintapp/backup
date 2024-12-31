@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXoztaU3PneENcn4BDHk6ZJaEzBE4u1h3FaxC1GCEQwvD/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 360,
+  "chainId": "1",
+  "name": "MOMI",
+  "description": "■モミ",
+  "attributes": [
+    {
+      "value": "bubble3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Edo-wigBlue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Purple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-kyoto(G)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "The Greens",
+      "trait_type": "TYPE"
+    }
+  ]
+}

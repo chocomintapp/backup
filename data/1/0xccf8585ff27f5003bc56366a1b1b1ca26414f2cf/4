@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdcCCVgrfHAyKJgfo6Z5tmgnUinFeNJTe79J62sv2xniy/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "WEAR BEAR #SP 1YEAR MEMORIAL \"GOLD STEVE\"",
+  "description": "WEAR BEAR1周年を記念したメモリアル限定STEVE",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Foodie",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Old Sneaker",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Steve",
+      "trait_type": "Model"
+    }
+  ]
+}

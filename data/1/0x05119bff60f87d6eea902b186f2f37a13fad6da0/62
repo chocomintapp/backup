@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma2UqdQH8UcMcrPTYaKfgFVvqX5SennwJ6oeGRTv5bM9W/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 62,
+  "chainId": "1",
+  "name": "POPET No.62",
+  "description": "【物語】\n\nメタバース探検隊POPETsの隊員。クール。未開の地を日々旅をしている。",
+  "attributes": [
+    {
+      "value": "探検隊員",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "メタバース",
+      "trait_type": "origin"
+    },
+    {
+      "value": "寡黙",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

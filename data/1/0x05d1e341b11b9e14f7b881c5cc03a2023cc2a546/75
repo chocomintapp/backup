@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPqc47DsrPm6etjFAno93PwWhw6qrUxkDJQb6TidgByUp/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmckD6xP2gXVVXEgaih2zM6PnmwVYBud5x8f3ofKZCq3zb/nft.mp4",
+  "tokenId": 75,
+  "chainId": "1",
+  "name": "Lapi #075",
+  "description": "Lapi  \n015と036から産まれた新しいMIMI  \nNew MIMI spawned from 015 and 036",
+  "attributes": [
+    {
+      "value": "Player",
+      "trait_type": "TYPE"
+    }
+  ]
+}

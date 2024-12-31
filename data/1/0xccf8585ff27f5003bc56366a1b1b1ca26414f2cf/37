@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQc55r78Yu47ioWb3Qb38ydFb96tZgeHUSase2QHGiYaX/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "1",
+  "name": "WEAR BEAR #118 “SAM” BLACK LEATHER BASEBALL JACKET",
+  "description": "WEAR BEAR 第12弾はHIP HOPクルー“BEAR HOP”として音楽シーンに鮮烈デビュー！オールブラックコーデでクールに登場\n“SAM”は”BEAR HOP”オフィシャルFOODIEにオールレザースタジャンを合わせたストリートスタイルで登場\n",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "“BEAR HOP” Foodie & Leather Baseball jacket",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Black sweat pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "“MIKE” Bear force 1",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Sam",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Microphone",
+      "trait_type": "Accessories"
+    }
+  ]
+}

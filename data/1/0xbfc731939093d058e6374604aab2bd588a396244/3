@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXfC38CxZPtqoRXxHzbLmEK4FBQuyowH3YYumwpjAahc7/nft.png",
+  "nftContractAddress": "0xbfc731939093d058e6374604aab2bd588a396244",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "A city where dreams come true… #Diamond",
+  "description": "This is the first edition of this artwork on display at M.A.D.S.'s International Mixed Reality Art Exhibition. \n-----------------\nTokyo Shinjuku is one of Japan's most popular downtown areas, and many people use the town at night. People with dreams from all over Japan move into this town. The glittering neon lights hold the dreams and futures of various people.",
+  "attributes": [
+    {
+      "value": "April 2022",
+      "trait_type": "YEAR PUBLISHED"
+    }
+  ]
+}

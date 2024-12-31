@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTof1bNUirxL19DhahcfRDiSSp4aXJp8MJGQmn4WLma7W/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWpBHhYip1B9kBHiaMWzhAsCJJaZbsZZgquccRintsNQY/nft.mp4",
+  "tokenId": 369,
+  "chainId": "1",
+  "name": "THE JEWEL #369",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Rhodochrosite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Control device"
+    }
+  ]
+}

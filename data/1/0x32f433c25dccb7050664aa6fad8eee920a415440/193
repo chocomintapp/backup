@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWA3Bsv77JtMF5VwEogZAxey9o5E32c4dfsP4z8F4Ziv9/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmQpFmb2hSe5XaCTCsrGB2D42Kp6dkpcVxuVZeiUUj6X6Q/nft.mp4",
+  "tokenId": 193,
+  "chainId": "1",
+  "name": "THE JEWEL #193",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Pink Imperial Topaz",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

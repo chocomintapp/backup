@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUkD7B5Y4VRp16p4XZG8pv43xj7YkvtQeta8S13yxhMeR/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmcpGcPHJNX64BfKokSLqw9uL9QTuiqCgPi3NU4Erp8FXp/nft.mp4",
+  "tokenId": 198,
+  "chainId": "1",
+  "name": "THE JEWEL #198",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

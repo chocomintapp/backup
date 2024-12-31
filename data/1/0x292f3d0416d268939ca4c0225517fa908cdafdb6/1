@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQQoq8hpnYnZihgMNNttvssQPRSKFKsTWoxGghR2QUur6/nft.png",
+  "tokenId": 1,
+  "description": "Flower pattern",
+  "nftContractAddress": "0x292f3d0416d268939ca4c0225517fa908cdafdb6",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "花模様",
+  "attributes": []
+}

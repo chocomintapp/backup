@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdFEFoWmkdPrEvNhGXyMLw74QgfFzPuAGkyR1FHtXqec9/nft.png",
+  "nftContractAddress": "0x1d02e4efc98904ac41316717fda437ab959f8b6d",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "Monsters #7",
+  "description": "Digital illustration and AI Generated.\n\nMonster, Female, Woman, Cute, Art, Drawing,",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Monster Color"
+    }
+  ]
+}

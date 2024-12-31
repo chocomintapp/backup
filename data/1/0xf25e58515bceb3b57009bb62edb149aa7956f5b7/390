@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma5qsL25K33j4aUnKUHjot6U8bLJsMcjby88JCTtRhcvp/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 390,
+  "chainId": "1",
+  "name": "YORU",
+  "description": "■ヨル",
+  "attributes": [
+    {
+      "value": "Ninja3-Rainbow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Star&tear3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Long-Joker",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-OddGR",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-B",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Mitama-Momo(NA)W",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

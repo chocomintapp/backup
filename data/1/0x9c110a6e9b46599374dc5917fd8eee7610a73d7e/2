@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmccsmxgyy8bsxqzGcqwTvgmqpLCL7BTZkQ3u6TXmBiiwC/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "POCO_Acco",
+  "description": "Acco \"POCO_#01\" Remake",
+  "attributes": [
+    {
+      "value": "POCO Remake",
+      "trait_type": "SERIES"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Spirited",
+      "trait_type": "PERSONALITY"
+    }
+  ],
+  "minted": "✅"
+}

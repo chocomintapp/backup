@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmchiyRT5ZuWpfxDEKQ5bY7u9pMyW5EuEXxAVmXwdJybR3/nft.png",
+  "nftContractAddress": "0x32a939de2fd6d94bb904af1f82bb0a64d932c2a7",
+  "animationUrl": "https://ipfs.io/ipfs/QmesfRhxdzjbGxtFxSsaR9sX1MS8NE3Uc4DQ9Ms7h6ZFrB/nft.mp4",
+  "tokenId": 65,
+  "chainId": "1",
+  "name": "ATUM #065",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SKY ANTHONY1",
+      "trait_type": "Type"
+    },
+    {
+      "value": "RED×BLUE×BLACK",
+      "trait_type": "Color"
+    }
+  ]
+}

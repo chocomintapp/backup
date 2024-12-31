@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWDYvhhLw5GAKakk66ptzsAW6DoenYg5BD4TYSya9txcZ/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 466,
+  "chainId": "1",
+  "name": "HARUKA",
+  "description": "■ハルカ",
+  "attributes": [
+    {
+      "value": "Black Sickle-Back",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile of room",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Lightred",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Shine-Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Black-SSP",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Black",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "LeeLee-nihility",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

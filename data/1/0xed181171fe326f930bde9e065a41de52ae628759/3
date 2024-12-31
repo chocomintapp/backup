@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmad39jBQUKBtyDiTXZADaoeF2AeBDwrV77n7BBXhAUrJb/nft.jpg",
+  "nftContractAddress": "0xed181171fe326f930bde9e065a41de52ae628759",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "VOE talisman",
+  "description": "居酒屋 THE HOODさん江\n\n祝 開店\n\n三毛ヒゲ与利\n\n商売繁盛！",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

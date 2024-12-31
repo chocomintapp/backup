@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSgySAE5BRS9xTCTXDBQkTd9xPtZZfJSFcAb14wt22f4J/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "POCOEMOJI_hogee",
+  "description": "Vaclava_Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

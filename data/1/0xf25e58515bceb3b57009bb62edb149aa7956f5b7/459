@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNZyQtE5Y1frgVqPNvvMgiH64AQuxm59wwruia5tyJTsC/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 459,
+  "chainId": "1",
+  "name": "NARU",
+  "description": "■ナル\nSSPファンアート",
+  "attributes": [
+    {
+      "value": "Purple Sickle-Back",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Madness",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Egreen",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Purple-SSP",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Purple-SSPmask",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-red(NE）",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bord-Purple",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

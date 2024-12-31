@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdYTzWH6hpGWZUvAXTLSq2MNU1HWBccanQ1KyoY5P4c1K/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 217,
+  "chainId": "1",
+  "name": "December 20 プリムラ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "20",
+      "trait_type": "日"
+    },
+    {
+      "value": "初恋",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "プリムラ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

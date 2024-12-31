@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcf7VwNvT122m787cDkp2Hsh8X23h24aN8VNvS8R3yyj3/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 111,
+  "chainId": "1",
+  "name": "POCO_Jocelyn",
+  "description": "Jocelyn-Chan",
+  "attributes": [
+    {
+      "value": "Responsible",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "White",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Sci-Fi",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Schema-Chan Remake",
+      "trait_type": "SERIES"
+    }
+  ],
+  "minted": "✅"
+}

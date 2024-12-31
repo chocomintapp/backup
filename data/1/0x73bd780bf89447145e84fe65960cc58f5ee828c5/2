@@ -1,0 +1,19 @@
+{
+  "image": "",
+  "nftContractAddress": "0x73bd780bf89447145e84fe65960cc58f5ee828c5",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "test",
+  "description": "",
+  "attributes": [
+    {
+      "value": "aaa",
+      "trait_type": "Favorite"
+    },
+    {
+      "value": "bbb",
+      "trait_type": "Hobby"
+    }
+  ]
+}

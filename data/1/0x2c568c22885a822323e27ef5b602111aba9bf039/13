@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSvVdDu41szFdNQxT7d9gonBBzyR88nGnYogirbG25jTq/nft.png",
+  "nftContractAddress": "0x2c568c22885a822323e27ef5b602111aba9bf039",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "Spring flowerpot",
+  "description": "These little ghosts are looking forward to the arrival of spring by filling their flowerpots with lots of spring flowers!",
+  "attributes": []
+}

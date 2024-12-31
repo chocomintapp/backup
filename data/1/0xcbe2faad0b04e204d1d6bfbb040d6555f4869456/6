@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTsCKn254WfchTeANymgfAqfcgaEf2WHnADSixCJR8ZvV/nft.png",
+  "nftContractAddress": "0xcbe2faad0b04e204d1d6bfbb040d6555f4869456",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "CoolGirl Campers #006",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Kermit Chair",
+      "trait_type": "Favorite"
+    },
+    {
+      "value": "Paint",
+      "trait_type": "Hobby"
+    }
+  ],
+  "minted": "✅"
+}

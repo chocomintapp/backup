@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZgfMTyrtyg8MVufsyGhsMV7jK2kK6FyexEE59zMjV5Dg/nft.png",
+  "nftContractAddress": "0x2adb5dd5c06bc84abc3cd98f4e5e852fe4e613e0",
+  "animationUrl": "",
+  "tokenId": 41,
+  "chainId": "1",
+  "name": "Fragile [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nFragile\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR PETIT]",
+  "attributes": [
+    {
+      "value": "Angel",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Fragile",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "White",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fragile",
+      "trait_type": "SPELL"
+    },
+    {
+      "value": "Anchor",
+      "trait_type": "SPELL"
+    },
+    {
+      "value": "PETIT",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

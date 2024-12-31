@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc521eBdFzmbrgFugXQZuLqvnttY8yFDfLLFxo2YCLBRM/nft.gif",
+  "tokenId": 1,
+  "description": "rrrrrrrroll_gif_01\n\nFormat : GIF\nDimension : 500 x 281",
+  "nftContractAddress": "0x4adc419e742bb06972597985ff1bd452bebb6d05",
+  "animationUrl": "https://ipfs.io/ipfs/QmSr7Td22TkfVuGXr2yqa3WzBiQ81krvKuo5TpDUdSbFPz/nft.gif",
+  "chainId": "1",
+  "name": "R_01"
+}

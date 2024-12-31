@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd3Mq5JfMEXPThKttDNoBsaiPt5poF2ZeFMKpirMQnexr/nft.jpg",
+  "nftContractAddress": "0x687dd0b4a89292a104b08ce9e74113de8dd13e34",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Alpaca Go Go #2 Japan",
+  "description": "A shy alpaca wears an emblem jacket with escargot pattern, inspired by the fact that Paris has twin city relationship with Kyoto, Japan.\n\n---\n\n#Alpaca Go Go\nI am a shy alpaca who want to be someone else. I’m traveling around the world to change my mind & clothes!",
+  "attributes": [
+    {
+      "value": "Japan",
+      "trait_type": "LOCATION"
+    },
+    {
+      "value": "Beige",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Good",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Haired",
+      "trait_type": "TOP"
+    },
+    {
+      "value": "Jacket",
+      "trait_type": "SHIRT"
+    },
+    {
+      "value": "Cigarette",
+      "trait_type": "ACCESSORY"
+    },
+    {
+      "value": "Wing",
+      "trait_type": "ACCESSORY"
+    },
+    {
+      "value": "White",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

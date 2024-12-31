@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQrVsjkiRJKbhbzUKAnyduAsYWZS3mYrnJ22oNoQhmp3p/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 480,
+  "chainId": "1",
+  "name": "YUZUHA",
+  "description": "■ユズハ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.7",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile of room",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Ponytail-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye5",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-Light2",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-happy",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "EyeBall3",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

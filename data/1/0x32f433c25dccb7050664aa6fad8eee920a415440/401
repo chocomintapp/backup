@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdrfwgnEoVP1Ub1mmj8wdgUGb5jr8kmG1YpSLzhxwYGDX/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmPF4orEeTeuw5pNLtpLcnpFHyWSV4GMKpWGJYuLJ15QT2/nft.mp4",
+  "tokenId": 401,
+  "chainId": "1",
+  "name": "THE JEWEL #401",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Rhodolite Garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

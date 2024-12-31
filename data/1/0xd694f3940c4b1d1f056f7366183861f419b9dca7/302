@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSgpcT3vuTRTsAo89e1FPKX2RWGGdcKvD7trHE6HzWVsh/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 302,
+  "chainId": "1",
+  "name": "March 14 マジョラム",
+  "description": "",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "月"
+    },
+    {
+      "value": "14",
+      "trait_type": "日"
+    },
+    {
+      "value": "恥じらい",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "マジョラム",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

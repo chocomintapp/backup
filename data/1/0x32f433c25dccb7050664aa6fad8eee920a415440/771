@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdLVC7icJ5nzqz1jXkz2sK5XDSkYeibcC3mdM3aZKGU3U/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qme8nGUCeZFkDHy48nF2Umox2FVoWaCpYMLvTLVAcfCg2U/nft.mp4",
+  "tokenId": 771,
+  "chainId": "1",
+  "name": "THE JEWEL #771",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Pink Topaz",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Hematite",
+      "trait_type": "Control device"
+    }
+  ]
+}

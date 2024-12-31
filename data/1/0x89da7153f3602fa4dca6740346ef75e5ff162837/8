@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRRqRKwbMf7rVrwWnd2ettaMvs8ca8df3cCC47ACKE62L/nft.png",
+  "nftContractAddress": "0x89da7153f3602fa4dca6740346ef75e5ff162837",
+  "animationUrl": "https://ipfs.io/ipfs/Qme7gWUQQiue4q7xqqMQfM1mw5F8K6bFQUDuyJFWphfjAz/nft.mp3",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "slowly days-voice-CG Campers",
+  "description": "曲のタイトル：slowly days",
+  "attributes": [
+    {
+      "value": "Ice-skating",
+      "trait_type": "HOBBY"
+    },
+    {
+      "value": "Lantern",
+      "trait_type": "FAVORITE"
+    }
+  ],
+  "minted": "✅"
+}

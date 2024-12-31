@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUPi4ctZrBGsM3rrfkpqUgUrZaGQUGxp3KiNVZ34M85Rk/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "POCOEMOJI_ok",
+  "description": "Corinna-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

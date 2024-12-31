@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbvNL92ez22sTSHa2cbdVqNP7Z6xtkgnSE8bw1zcEQgrS/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 76,
+  "chainId": "1",
+  "name": "BIOBIO",
+  "description": "Biobio is a member of the N'mou tribe.\n\nShe has not been good at sports since she was a child, is sickly and has never been able to eat a whole saury, but she is very good at games.\n\nThere is no one in the N'mou tribe who can beat her in a fighting game.\n■ビオビオ\n\nン・モウ族のビオビオ。\n\n小さい頃から運動が苦手で、病弱でサンマも1匹丸々食べれたことがないがゲームがとても得意。\n\n格闘ゲームで彼女に勝てるン・モウ族は一人もいない。",
+  "attributes": [
+    {
+      "value": "Deep-Blue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Tail-White",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cry-Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WRB(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Raaamen",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury-Red",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

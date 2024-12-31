@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRH6joBqAh7y1DoTTW2fgGc5wCHTFRgstL83qF2oiRxgB/nft.jpg",
+  "nftContractAddress": "0x0e801ee8706f41ca3b1b98571eb1312c7fc32482",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "Perplexed",
+  "description": "Illustrations are created using AI from the original shooting data.",
+  "attributes": []
+}

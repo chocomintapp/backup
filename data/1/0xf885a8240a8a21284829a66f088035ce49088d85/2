@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeCdwdo5mPpVkbShruS87vmnCQXY7CAuhGovFsCCp9WiA/nft.png",
+  "nftContractAddress": "0xf885a8240a8a21284829a66f088035ce49088d85",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": " KING-NOSEEDsama",
+  "description": "This is  KING-NOSEEDsama! Yeah!",
+  "attributes": [
+    {
+      "value": "Seed",
+      "trait_type": "Type"
+    },
+    {
+      "value": "King",
+      "trait_type": "Category"
+    }
+  ]
+}

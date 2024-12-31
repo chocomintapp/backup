@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcgJdDBqpG9ieLoB12BPxgmZ1bUPYXyxMCRvjSizYemSB/nft.PNG",
+  "nftContractAddress": "0xcc3d1d61934ca3470c25bd6c18ae5be72806870a",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "#001 襷 Red",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Genesis",
+      "trait_type": "Category"
+    },
+    {
+      "value": "襷",
+      "trait_type": "Accessory"
+    }
+  ]
+}

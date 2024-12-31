@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb1xLknCfpmTFFqzkzufKaE7DgpGK5c2iBqS8Vy8whwFC/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "1",
+  "name": "#034-Hiroshima-",
+  "description": "#034-Hiroshima-",
+  "attributes": [
+    {
+      "value": "Flare",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Chugoku",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Hiroshima",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

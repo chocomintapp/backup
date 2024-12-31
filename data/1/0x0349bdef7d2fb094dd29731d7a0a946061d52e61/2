@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcyxcgAX4aiqwLhR8w7vpRDfQsPxRAGkvpabp9yAYZxnu/nft.jpg",
+  "tokenId": 2,
+  "description": "KIRIE Maps #5 MAP - Nishi-Fujinomiya Station DD 35.2125, 138.5881 Fujinomiya-city, Shizuoka, Japan Map data©︎OpenStreetMap Contributors.",
+  "nftContractAddress": "0x0349bdef7d2fb094dd29731d7a0a946061d52e61",
+  "animationUrl": "https://ipfs.io/ipfs/QmT59cd5MKVRAUcCBF5PaJ1D1HtiiVCAu3pwH3nPRnXrnE/nft.glb",
+  "chainId": "1",
+  "name": "#5 | Nishi-Fujinomiya Station",
+  "attributes": []
+}

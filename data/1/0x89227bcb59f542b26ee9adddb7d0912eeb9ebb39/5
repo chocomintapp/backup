@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZhcpSRRzdFkpC259UAsA9xE8uAxCM6rsCudbE4CuAcog/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "#005-Akita-",
+  "description": "#005-Akita-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Aqua",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Tohoku",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Akita",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

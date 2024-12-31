@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfXr4M6w3LcVF7iX4rPJrfs1XqJpKgWt45oUKQD9RS35h/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmb5hYpAFrsmLEQFj9VCyu2BrFondSHhvVaf8Ek5QWRyCE/nft.mp4",
+  "tokenId": 457,
+  "chainId": "1",
+  "name": "THE JEWEL #457",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Red Spinel",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWK5nKzRuy6muL3TGhR2vwSWBLuE8FCFv8zM9ntozbkSU/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "1",
+  "name": "なつまつりにいるゆきちゃん Snow-chan at the Summer Festival #216",
+  "description": "じぶんでためてたおかねでかき氷やバナナチョコをいっぱいかったんだよ♪\nお友だちのかれんちゃんとまなちゃんといっしょに食べたからぜんぶ食べられたよ！\nひとりで食べようとおもったけど、いっしょに食べたほうがおいしいから、それぞれ買ったものをわけました♡\n\n☆小学2年生16番目の作品なので216のナンバーをふりました♪\n\nI bought a lot of shaved ice and banana chocolates with the money I saved up.\nI ate them all with my friends Karen and Mana-chan!\nI was going to eat it by myself, but it tasted better together, so we each shared what we bought.\n\n☆I put the number 216 on the picture because it is the 16th work of the 2nd grade of elementary school.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Girl",
+      "trait_type": "Type"
+    },
+    {
+      "value": "kawaii",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Colorful",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Summer",
+      "trait_type": "Season"
+    }
+  ]
+}

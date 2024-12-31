@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbsNDfk5Wk9iuPVETaC1xqKSsMXbwJLHkFmWau2KrnAoE/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 96,
+  "chainId": "1",
+  "name": "POCO_Ilona",
+  "description": "Ilona-Chan",
+  "attributes": [
+    {
+      "value": "Cheerful",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Lime",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

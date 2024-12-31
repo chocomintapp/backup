@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX8ckVuaeLSMsJAhz1NKXjBsuY6uiV2AmzWigp9SgzQUR/nft.png",
+  "nftContractAddress": "0x02314194e5b6326ba2e4c9fedb748232904806a0",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "1",
+  "name": "#002-秘色[凪]",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "凪",
+      "trait_type": "属性"
+    }
+  ]
+}

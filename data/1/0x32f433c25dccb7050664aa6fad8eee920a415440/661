@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdH1ehminYmwKaybqVbDuS3RHvnoTW4AipikQntfUYAqf/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmUj2LMgMy9t61GkqLhNGCeu28reQjAqFnMshTSovYGhi4/nft.mp4",
+  "tokenId": 661,
+  "chainId": "1",
+  "name": "THE JEWEL #661",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Euclase",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Palladium",
+      "trait_type": "Control device"
+    }
+  ]
+}

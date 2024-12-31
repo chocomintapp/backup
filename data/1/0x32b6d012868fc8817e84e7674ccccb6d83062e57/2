@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXh7fudeuM6E2dTpTHh7swmnAvE2L63AZc8szycnDWrv4/nft.png",
+  "nftContractAddress": "0x32b6d012868fc8817e84e7674ccccb6d83062e57",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Rabbit girl #10『Yuri』\"夏\"",
+  "description": "Rabbit girl #10『Yuri』\"夏\"\n\nSummer memories with you.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Illustration",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Yuri",
+      "trait_type": "Character"
+    }
+  ]
+}

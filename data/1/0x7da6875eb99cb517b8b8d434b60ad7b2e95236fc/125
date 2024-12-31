@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaLJ5G8h7ow3fi7WPomvqrsN3BcGxugtVAmD7ibQcppy2/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 125,
+  "chainId": "1",
+  "name": "KAIKA #125",
+  "description": "",
+  "attributes": [
+    {
+      "value": "earth",
+      "trait_type": "energy"
+    },
+    {
+      "value": "tears of blood",
+      "trait_type": "extra"
+    },
+    {
+      "value": "almond",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "Heterochromia",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "long layerd",
+      "trait_type": "hair"
+    },
+    {
+      "value": "half and half",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "relaxed",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "light",
+      "trait_type": "skin tone"
+    }
+  ]
+}

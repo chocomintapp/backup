@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWERXzxFq9svWhsSSmAYFkvH2dCjmE5qDNBukHeviFhuB/nft.jpg",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "月舟[Gessyu]",
+  "description": "「よお、元気にしているか！オレが来たぜ。」\n\nいつも元気なムードメーカー。月舟がいるとなんだか笑顔になるとみんながいう。\n\n周りからすごい可愛がられているが、本人にそのことを伝えると怒る。",
+  "attributes": [
+    {
+      "value": "雲",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

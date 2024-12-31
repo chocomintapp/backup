@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaTwBL3vXdqec5LSYcjDpTwon5k2sR9teDuDnZjeoZxuU/nft.png",
+  "tokenId": 1,
+  "description": "This is the first number",
+  "nftContractAddress": "0xf96d499d3de9089c5cf98fabfe2573160537a8d1",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Number 1",
+  "minted": ""
+}

@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYb379Ghq8n4MaQrXTU4KmdbYC4YyZaijV5SjNU3TkXN7/nft.png",
+  "nftContractAddress": "0x3e1e6638bfffd769e06aa33db703d7f190e33a51",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "Wb#22",
+  "description": "Created by Wonder baby.",
+  "attributes": [
+    {
+      "value": "FIRE",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "BODY B",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "HOODIE Flower B",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "NECKLACE SILVER",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "RIFLE B",
+      "trait_type": "WEAPON"
+    },
+    {
+      "value": "HEADPHONE B WHITE",
+      "trait_type": "HAT"
+    },
+    {
+      "value": "POKER",
+      "trait_type": "MOUTH"
+    }
+  ]
+}

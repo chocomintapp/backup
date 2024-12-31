@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYW1MpQFEnq1BbDZVmmMVnciT5aaaaD24LxyXMEP1L232/nft.png",
+  "tokenId": 9,
+  "description": "\"Valkyrie\" = \"Angel\" x \"Ghost\" Reginleif Kaneko\n\n「ヴァルキリー」メイン種族エンジェル、サブ種族ゴースト。名前はレギンレイヴ金子。\n\nヴァルキリーは、戦場で命を落とした死者の運命を司るエンジェル種族。エンジェル族の外見的特徴と、ゴースト族の「魂」特性を引き継いでいる。神聖な雰囲気を醸し出しているが、こう見えていつもぼーっとしている天然すっとぼけガールである。\n\n\"Valkyrie\" is an Angel species that controls the fate of the dead who lost their lives on the battlefield. \"Valkyrie\" has inherited the external characteristics of \"Angel\" species and the \"soul\" characteristics of \"Ghost\" species. She is always in a daze, even though she exudes a sacred atmosphere.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#034 \"Valkyrie\" Reginleif Kaneko",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Angel"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

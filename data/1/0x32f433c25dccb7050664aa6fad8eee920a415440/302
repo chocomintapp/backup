@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYqZ53CjLGG7oozkTbJTPenusy1S3ffxq1BQgzTBxSRgQ/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmdqKLuFVymsuxoso7Jx7NyzZ4ffXr8RdULjEt2992zReq/nft.mp4",
+  "tokenId": 302,
+  "chainId": "1",
+  "name": "THE JEWEL #302",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

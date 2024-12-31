@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPeKFEXkdXbiVut3t81BvEsGWQX1wfRvHumEEUT1MAD9Y/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 44,
+  "chainId": "1",
+  "name": "#044-Kumamoto-",
+  "description": "#044-Kumamoto-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Flare",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kyushu",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Kumamoto",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

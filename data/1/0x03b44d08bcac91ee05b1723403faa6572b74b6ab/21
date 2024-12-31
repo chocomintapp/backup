@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZsLtW5tEwnH2NGiU8LoUbRbS4yFKZ5V3TzZGUZMxqojg/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmaNPDzRp467odvZQTLBCJ4yb9vmmsqMfHbCqzKsLrertt/nft.mp4",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "#047 MustardMan",
+  "description": "MustardMan\n\n- Food Series\n- 3DCG Turntable\n- 1920 x 1920px",
+  "attributes": [
+    {
+      "value": "Food",
+      "trait_type": "Type"
+    }
+  ]
+}

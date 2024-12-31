@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbJZSZDzvVG3of2boBKwCphaggDXxEoFrcdyLZMt6nWPm/nft.png",
+  "nftContractAddress": "0xe2215863fb63a2d700918b13555f5101f290ad31",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "YAMA Quartet 09",
+  "description": "#テーマ：四元素「火」\n\n宝を探しに洞窟へやってきた二人。  \nずんずん進む猫と、美しい光に目を奪われるBA。  \n二人はこの先で宝を見つけられるのでしょうか？\n\n#THEME: The Four Elements \"Fire\"\n\nWe are here in the cave in search of treasures.  \nCat keeps going on and BA becomes captivated by the beautiful lights.  \nWill they be able to find out treasures?\n\n---\n\nMain Character: YO-CO  \nSub Character: Aoyoko  \nCharacter coloring: Alpaca Go Go   \nBackground: Mai Kano  ",
+  "attributes": [
+    {
+      "value": "YO-CO",
+      "trait_type": "Main Character"
+    },
+    {
+      "value": "Aoyoko",
+      "trait_type": "Sub Character"
+    },
+    {
+      "value": "Alpaca Go Go",
+      "trait_type": "Character coloring"
+    },
+    {
+      "value": "Mai Kano",
+      "trait_type": "Background"
+    }
+  ]
+}

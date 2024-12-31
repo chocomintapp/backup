@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWGUzApH7QT6VZxgU2GFLv6ELeu9kEX4AqJCg13FRaVKL/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "1",
+  "name": "June 26 カルミア",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "26",
+      "trait_type": "日"
+    },
+    {
+      "value": "大きな希望",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "カルミア",
+      "trait_type": "花"
+    }
+  ]
+}

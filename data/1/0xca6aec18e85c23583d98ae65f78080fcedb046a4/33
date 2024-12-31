@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTBCGs4bxUD9nZxrsw8QS8iMtmGtHXoR1c7B4jFdSUpaa/nft.png",
+  "nftContractAddress": "0xca6aec18e85c23583d98ae65f78080fcedb046a4",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "1",
+  "name": "033 One-side Lovers : Series02-Beach [Personal Stereo]",
+  "description": "■Fukuyoshi Rokka's Artwork collection \n\"One-side Lovers”\nSeries02-Beach\n\n福吉ロッカのアートワークコレクション\n「One-side Lovers」\nシリーズ２-Beach",
+  "attributes": [
+    {
+      "value": "Beach",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "Hair-color"
+    },
+    {
+      "value": "Long hair",
+      "trait_type": "Hair-style"
+    },
+    {
+      "value": "Personal Stereo",
+      "trait_type": "Item"
+    },
+    {
+      "value": "02/Beach",
+      "trait_type": "Series-number"
+    },
+    {
+      "value": "Blue sky",
+      "trait_type": "Sky"
+    },
+    {
+      "value": "Blue border/white",
+      "trait_type": "Swimsuit-color"
+    },
+    {
+      "value": "Triangle bikini",
+      "trait_type": "Swimsuit-type"
+    }
+  ],
+  "minted": "✅"
+}

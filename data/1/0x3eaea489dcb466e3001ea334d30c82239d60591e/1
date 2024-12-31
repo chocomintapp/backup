@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXsccN1Mk6NCep9jVNyUEULzFspFVux7Scd53RKNG893N/nft.png",
+  "nftContractAddress": "0x3eaea489dcb466e3001ea334d30c82239d60591e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Smilin Token",
+  "description": "https://tetphilosopher.com/",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": ""
+}

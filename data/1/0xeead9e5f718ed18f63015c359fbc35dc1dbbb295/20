@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWZeVVmL4guJ45YGRUSAXbvzunRUD3vdS6vw77cBLKEG4/nft.png",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "Tokyo Expanding People 2099 #Mandy",
+  "description": "[日本語]\n\n人間関係は鏡である。\n\n人間には、外見だけでは分からない混沌とした内部が、喜怒哀楽をはじめとした7色の感情が入り混じっている。\n\nその核には鏡でできた自己があり常に内側の感情を反射させ少しずつ体内に吸収し解釈する。\n\nさらに一度解釈した感情を体外へ、相対する他者に伝えようとする。行動や態度とは自己で独立しておらず他者との相互関係によって生まれるのだ。\n\n----------------------------------------------------------------\n\n[En]\n\nHuman relationships are mirrors.\n\nHumans have a chaotic interior that cannot be seen only from the outside, but is a mixture of seven colours of emotions, including joy, anger, sorrow and pleasure.\n\nAt its core is a self made of mirrors, which constantly reflects the inner emotions and gradually absorbs and interprets them in the body.\n\nIt also tries to transmit these feelings once interpreted out of the body to the relative others. Actions and attitudes are not independent of the self, but are created through interrelationships with others.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Model",
+      "trait_type": "Custom"
+    }
+  ]
+}

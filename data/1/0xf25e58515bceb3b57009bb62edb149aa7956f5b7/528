@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW5kiCZg2uSGWtpqDBuCXzobSKH8L98TBFggXkzEchjzW/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 528,
+  "chainId": "1",
+  "name": "SHIZUKU",
+  "description": "■シズク",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile of room",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Skyblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-Pink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "pankopa-foodie3",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "matatabineko2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Blue",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

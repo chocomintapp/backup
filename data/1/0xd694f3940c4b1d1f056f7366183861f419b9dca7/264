@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZEfHP43QC3cu7GyKDB8ACBuCNfh6VTF2r1A61JWhse1C/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 264,
+  "chainId": "1",
+  "name": "February 5 ヒヤシンス（白）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "月"
+    },
+    {
+      "value": "5",
+      "trait_type": "日"
+    },
+    {
+      "value": "心静かな愛",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ヒヤシンス",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

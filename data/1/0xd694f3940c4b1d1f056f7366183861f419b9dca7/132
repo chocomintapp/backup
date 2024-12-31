@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUVMnMdccU88rNctpG9Z9PcAV5NofCxarQi7nxWhF2yJp/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 132,
+  "chainId": "1",
+  "name": "September 26 キンモクセイ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "26",
+      "trait_type": "日"
+    },
+    {
+      "value": "志の高い人",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "キンモクセイ",
+      "trait_type": "花"
+    }
+  ]
+}

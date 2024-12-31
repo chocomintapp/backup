@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXne5igzDSncskreZB9R4brpguwy9WQGf8Cj4eZxHjYNh/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "Chika Momochika",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "SUIKAN",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Yui Ao",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "SMILE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "DRONE",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfYHTkCrW8gAyCvD7Gz8wApQoBXiiEXDgxdZyZXCux5ca/nft.png",
+  "nftContractAddress": "0xe2215863fb63a2d700918b13555f5101f290ad31",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "YAMA Quartet 10",
+  "description": "#テーマ：四元素「風」\n\n海辺でたたずむBA。  \n突風に飛ばされてきたタコさんと、舞い上がった草花。  \nまるでBAの心模様をうつしているよう。  \n一体何があったのでしょう？  \n\n#THEME: The Four Elements \"Wind\"\n\nBA standing by the seaside.  \nOctopuses blown off by a gust of wind,  \nand flowers have flown up.  \nSeems like a mirror of BA's heart.  \nWhat happened to them?  \n\n---\n\nMain Character: Aoyoko  \nSub Character: Mai Kano  \nCharacter coloring: YO-CO  \nBackground: Alpaca Go Go   ",
+  "attributes": [
+    {
+      "value": "Aoyoko",
+      "trait_type": "Main Character"
+    },
+    {
+      "value": "Mai Kano",
+      "trait_type": "Sub Character"
+    },
+    {
+      "value": "YO-CO",
+      "trait_type": "Character coloring"
+    },
+    {
+      "value": "Alpaca Go Go",
+      "trait_type": "Background"
+    }
+  ]
+}

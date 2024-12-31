@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQJ5Quu7eNC2Xe7dn7mofv4jNBbB58SmQpW2Sr53z22W3/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 93,
+  "chainId": "1",
+  "name": "KAIKA #93",
+  "description": "",
+  "attributes": [
+    {
+      "value": "fragment",
+      "trait_type": "energy"
+    },
+    {
+      "value": "none",
+      "trait_type": "extra"
+    },
+    {
+      "value": "doll",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "blue",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "slicked back",
+      "trait_type": "hair"
+    },
+    {
+      "value": "yellow",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "open smile",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "light",
+      "trait_type": "skin tone"
+    }
+  ]
+}

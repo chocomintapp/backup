@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY9mHiT13KFJuBS6fNAZdqZVEE7H7aXMWQZrqHU6Av4xu/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 187,
+  "chainId": "1",
+  "name": "November 20 サフラン",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "11",
+      "trait_type": "月"
+    },
+    {
+      "value": "20",
+      "trait_type": "日"
+    },
+    {
+      "value": "歓喜",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "サフラン",
+      "trait_type": "花"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmekL36tBtU7yfkjxDsFnjZQdXa1LEYYEHgCfW8AmFMoYo/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "1",
+  "name": "Doge in Everyday Life",
+  "description": "File: PNG\nSize: 2048x2048\nTotal Supply: 1\nThe People's Crypto is The Everyday Crypto.",
+  "attributes": [
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "Face",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "Mother",
+      "trait_type": "genaration"
+    },
+    {
+      "value": "Clothespins",
+      "trait_type": "object(s)"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ6ehHivJSJURifArUA5SpRUtmx8qKzjh9y9eaUBwJHqc/nft.png",
+  "nftContractAddress": "0xbc95aca7438ce293dd6c2cf17e0fbca11f704d47",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "brocco",
+  "description": "He who dose not work, neither shall he eat.\nLive on broccoli.\n30% of this world is made up of broccoli.\n\nIt's cold today, isn't it?\n\nOh, I was naked.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmas2mp9QQ6y9tUGXF9Z4hw8f3iFfAZ2Nm2dMxTnVfG5Bz/nft.PNG",
+  "nftContractAddress": "0x917f03c55323207ef49b50bdc48bb088b55fe230",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "MMM #009",
+  "description": "Mask ! Mask ! Mask ! Collection drawn with AI.",
+  "attributes": [
+    {
+      "value": "C",
+      "trait_type": "TYPE"
+    }
+  ]
+}

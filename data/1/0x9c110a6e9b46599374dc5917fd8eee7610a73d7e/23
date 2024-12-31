@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUm5q6w6yHCbAejUjFWtwpSeyEkzrd4dpHVWLm4CjG4Vi/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "POCO_Becky",
+  "description": "Becky-Chan",
+  "attributes": [
+    {
+      "value": "Easygoing",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Round",
+      "trait_type": "EAR"
+    }
+  ],
+  "minted": "✅"
+}

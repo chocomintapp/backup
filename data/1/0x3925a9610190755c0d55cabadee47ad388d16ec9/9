@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNRrvvWJcrWmVybR7KLoFyBH5YE3PxoANcr1b1QBCw3RG/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "Koo",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "KIMONO",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Takota Isaki",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "NOMAL",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "HAGOROMO",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "ONI",
+      "trait_type": "RACE"
+    }
+  ]
+}

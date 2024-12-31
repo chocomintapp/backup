@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVQG28Pnban5rt75VGbRJoA9HMBjqxHszwnedm4F8m6kP/nft.png",
+  "tokenId": 133,
+  "description": "",
+  "nftContractAddress": "0xa3504b583db9090d46bb3c97e04eae5e61e3dfce",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #133",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Faint Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Pearl Necklace"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Spoon"
+    }
+  ],
+  "minted": ""
+}

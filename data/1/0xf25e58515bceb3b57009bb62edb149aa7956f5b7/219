@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP8jGpsLLsk56n3CLHecdrwQj4esJsbj31Ro5YpwF1F61/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 219,
+  "chainId": "1",
+  "name": "ADALYNN",
+  "description": "■アダリン",
+  "attributes": [
+    {
+      "value": "Bright-Green",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Drool",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-Zombiedeepred",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Spring(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bored Ape1",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Pink",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

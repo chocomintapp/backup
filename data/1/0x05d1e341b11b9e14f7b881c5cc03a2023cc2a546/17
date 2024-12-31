@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPzBujoXg3B6KKc2tspHpJAwhpZqZrhr7bcaMS3JEsQN7/nft.gif",
+  "tokenId": 17,
+  "description": "Cream  \nやんちゃに見えて優しいMIMI  \nHe looks naughty, but he is kind.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmWoAuTruMiUEr9RZLCFfRWQkh5pYmuBH61pD1LxjPsTtz/nft.mp4",
+  "chainId": "1",
+  "name": "Cream #017",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    }
+  ]
+}

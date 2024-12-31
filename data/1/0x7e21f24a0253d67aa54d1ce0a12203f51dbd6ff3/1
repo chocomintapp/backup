@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeDozevKT3Y8RPnyT7AyAoCDuKn9qW5WKP4uCnUXQDYFG/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x7e21f24a0253d67aa54d1ce0a12203f51dbd6ff3",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Punk Monkeys #1",
+  "attributes": [
+    {
+      "trait_type": "GENDER",
+      "value": "Male"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "Brown"
+    }
+  ],
+  "minted": "✅"
+}

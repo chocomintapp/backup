@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbAdVaWWzQdqi3fsLLTS21v2SAUp9Rco83JBZtTXUdGyi/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 354,
+  "chainId": "1",
+  "name": "May 5 カーネーション（ピンク）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "5",
+      "trait_type": "日"
+    },
+    {
+      "value": "母の愛",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "カーネーション",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSSCE71nky3oLPNHeUmXRpfdxku2amRSQB2vjh2Rosnxe/nft.gif",
+  "tokenId": 11,
+  "description": "Nefer  \nどこかの王国の壁画を見ているようだ  \nIt's like looking at a mural from some kingdom.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmZc9YMWjTVCdtmLbHvVtBNUZUHg6oyVC11Xe2yd4QLDzN/nft.mp4",
+  "chainId": "1",
+  "name": "Nefer #011",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Ancient"
+    }
+  ]
+}

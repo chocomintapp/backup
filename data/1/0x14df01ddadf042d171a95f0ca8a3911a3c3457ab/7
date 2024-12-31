@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNnjAKfz4HNRHNiuwozgjfxJJm6RbaD6L9qrbACtYNsz3/nft.gif",
+  "nftContractAddress": "0x14df01ddadf042d171a95f0ca8a3911a3c3457ab",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "#7",
+  "description": "ねこねこねこねこねこねこー‼️",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Cat",
+      "trait_type": "Head"
+    },
+    {
+      "value": "No eyebrows",
+      "trait_type": "Face"
+    },
+    {
+      "value": "KUMADA",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Sky",
+      "trait_type": "Background"
+    },
+    {
+      "value": "ねこのおじさん",
+      "trait_type": "Job"
+    },
+    {
+      "value": "Alien",
+      "trait_type": "Option"
+    }
+  ]
+}

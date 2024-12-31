@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWjBXNWGi4VnLduH3LPTv9F5H8Lcpg69zb2B8FGZXCc3n/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 68,
+  "chainId": "1",
+  "name": "NIA",
+  "description": "She is just so popular.\n\nNot a day goes by that she doesn't hear a confession of love.\n■ニア\n彼女は、とにかくモテる。\n\n愛の告白を聞かない日は一日たりとてない。",
+  "attributes": [
+    {
+      "value": "Deep-Orange",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-USilver",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "LoliFoodie-Red(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Ribon-Red",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

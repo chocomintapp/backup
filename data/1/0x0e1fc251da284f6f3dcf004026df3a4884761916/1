@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcnnwXCwzDShbcW9BAXrDqNkmGaMCAz5NCqsvMyRRR9m1/nft.png",
+  "nftContractAddress": "0x0e1fc251da284f6f3dcf004026df3a4884761916",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Bad Mood #1 Mao Art Gallery",
+  "description": "cat, woman, girl, ",
+  "attributes": [
+    {
+      "value": "Portrait",
+      "trait_type": "Dimensions"
+    }
+  ]
+}

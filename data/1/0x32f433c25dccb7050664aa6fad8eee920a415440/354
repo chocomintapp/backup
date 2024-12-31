@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaqzNY1d4NbL3MjpGAEsMpDaeTF2vAW9T1cUpkRmw5sEs/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmPr5JBMJDhYhrycBjFASe1sEyyBLMCWj7ZPeiHcSucyZ6/nft.mp4",
+  "tokenId": 354,
+  "chainId": "1",
+  "name": "THE JEWEL #354",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

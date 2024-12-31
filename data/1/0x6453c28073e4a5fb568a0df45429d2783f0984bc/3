@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcLR1jkbA4PXFqyZDHp2dWzJ4GUf8fqVrnLAn6T7UUhCZ/nft.gif",
+  "nftContractAddress": "0x6453c28073e4a5fb568a0df45429d2783f0984bc",
+  "animationUrl": "https://ipfs.io/ipfs/QmcLR1jkbA4PXFqyZDHp2dWzJ4GUf8fqVrnLAn6T7UUhCZ/nft.gif",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "HuntingTrophy_Gremlin",
+  "description": "Defeated a swarm of monsters. Got the Gremlin Hunting Trophy. \n \nモンスターのむれをたおした。グレムリンのハンティングトロフィーをてにいれた。  \n  \n**Charisma**: 8 of 25  \n**Intelligence**: 16 of 25  \n**Luck**: 16 of 25  \n**Power**: 4 of 25  \n**Speed**: 19 of 25",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Subhuman",
+      "trait_type": "DEPARTMENT"
+    },
+    {
+      "value": "Monsters Of Lore",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "fairy",
+      "trait_type": "STATUS"
+    }
+  ]
+}

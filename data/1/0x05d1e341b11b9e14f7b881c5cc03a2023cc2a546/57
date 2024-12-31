@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUYos3XwkgMRghBsmqneAM8msRVW7oMmxjJkybPhBdzwN/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmRkRVN3P987Q48VnJ4aFc6vtNRevi5te69xAQrtGqPZiH/nft.mp4",
+  "tokenId": 57,
+  "chainId": "1",
+  "name": "O-A #057",
+  "description": "O-A  \n032とオリジナルアートを揃える事で産まれた新しいMIMI  \nNew MIMI spawned by collecting 032 and original art",
+  "attributes": [
+    {
+      "value": "Hidden",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmejDoq2GYCgw6ekGwAwGqXkD73Xq5g5vTgubksCjMm8fD/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/Qmen165xzLtBrSBriTBwGBScQUkJfJpjr7ZQ56UsWisxWY/nft.mp4",
+  "tokenId": 81,
+  "chainId": "1",
+  "name": "Otti #081",
+  "description": "Otti  \n計算されたリズムとハーモニー  \nCalculated rhythm and harmony",
+  "attributes": [
+    {
+      "value": "Haus",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Mimi",
+      "trait_type": "VOICE"
+    }
+  ]
+}

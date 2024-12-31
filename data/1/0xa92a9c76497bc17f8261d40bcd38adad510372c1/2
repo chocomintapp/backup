@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf9jsqdQ1vFoSceCyKKZHh5K9Usp5w3X1Vg9ocpYsQ6NK/nft.png",
+  "nftContractAddress": "0xa92a9c76497bc17f8261d40bcd38adad510372c1",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Petit_Peach",
+  "description": "This is Peach-chan.\n\nSpecial respect for the *FuChiMing* v2.\n(URL: https://opensea.io/collection/fuchimingv2)",
+  "attributes": [
+    {
+      "value": "pink",
+      "trait_type": "heir"
+    },
+    {
+      "value": "angel",
+      "trait_type": "attribute"
+    },
+    {
+      "value": "nurse",
+      "trait_type": "job"
+    }
+  ]
+}

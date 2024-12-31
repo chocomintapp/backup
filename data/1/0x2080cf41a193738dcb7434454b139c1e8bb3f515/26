@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRrfGywYEAu5fAKGogQvtBX37Vdn9toTaadnesmDduUvd/nft.png",
+  "tokenId": 26,
+  "description": "\"Echidna\" = \"Succubus\" x \"Lamira\" Fatale Shiraishi\n「エキドナ」メイン種族サキュバス、サブ種族ラミア。名前はファタール白石。\n\nエキドナは、蛇の下半身を持つモンスター娘。ケルベロスやキマイラなど、多くの伝説的な怪物を産んだ。偉大なる怪物の母としての高貴な振る舞いを心がけているが、イケメンを見るとすぐに恋してしまうので上手く行かない。\n\n\"Echidna\" is a monster girl with the lower body of a snake. She gave birth to many legendary monsters, including Cerberus and the Chimera. She strives to act nobly as the mother of great monsters. However, when she sees a handsome man, she immediately falls in love with him, and her plans are foiled.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#051 \"Echidna\" Fatale Shiraishi",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Succubus"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Lamia"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "minted": "✅"
+}

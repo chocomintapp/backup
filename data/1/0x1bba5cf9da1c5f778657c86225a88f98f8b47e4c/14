@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ6z17PbozCrCLZ1aQPMyEZvYNqs75a9R2U9q1ss3w6LJ/nft.png",
+  "nftContractAddress": "0x1bba5cf9da1c5f778657c86225a88f98f8b47e4c",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "#023 Tim Fan Art of The Mafia Animals(#003 Member)",
+  "description": "Tim is dressed as #003 member.\nAlthough he seems unmotivated, he blends into the city and gathers information.\nHe won't be an executive for a while because he takes pride in his work.",
+  "attributes": [
+    {
+      "value": "Tim",
+      "trait_type": "CHARACTER"
+    },
+    {
+      "value": "Fan Art",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "#003 Member of the Mafia Animals",
+      "trait_type": "JOB"
+    }
+  ]
+}

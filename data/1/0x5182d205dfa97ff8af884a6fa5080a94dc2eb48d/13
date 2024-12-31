@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSWRci2K8khufYu91xMk5cW9RcUAWKz5vvmZRHcy5QkbF/nft.gif",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "https://ipfs.io/ipfs/QmaysFUi7vHPDxoMU1kzXMx9SAgZhHesSAa1oC2A4PHhYB/nft.mp4",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "Ganmichan quest #1 feat.name-kraken",
+  "description": "勇者がんみちゃんは、相棒のはなたんと壮大な冒険の途中、だるまのモンスター、ダルマー俺達。に襲われた！！\nBGMを音楽NFTの実力派、krakenさんの力を借りてついに爆誕！！\nspecial thanks! name-kraken.eth\n",
+  "attributes": [
+    {
+      "value": "special",
+      "trait_type": "series"
+    },
+    {
+      "value": "ganmichan quest",
+      "trait_type": "situation"
+    },
+    {
+      "value": "name-kraken",
+      "trait_type": "bro"
+    },
+    {
+      "value": "hanatan",
+      "trait_type": "bro"
+    }
+  ],
+  "minted": "✅"
+}

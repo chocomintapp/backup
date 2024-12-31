@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXaHtozXVMqNGSRdEigPaKuWiakZBiDtU7kkPg9ciCSpi/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 359,
+  "chainId": "1",
+  "name": "RIMU",
+  "description": "■リム",
+  "attributes": [
+    {
+      "value": "magamaga2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Time",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Lolitahair",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-BBlack",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-B(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-surprised",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

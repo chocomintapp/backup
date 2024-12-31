@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW8dBLpReHQj7aqV1T4PcMy9furBBA69gTHdYVT8AiwJk/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "POCOEMOJI_kansya",
+  "description": "Esperanza-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

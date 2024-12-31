@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS7evRMxKVNdgfHuAfFABBMXTUTgU3DW6CiXp2ee5R9aR/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 502,
+  "chainId": "1",
+  "name": "MIYAKO",
+  "description": "■ミヤコ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Edo-wigWhite",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Odd2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-ryugujyo(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "LongEar(W)",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "full of dogs",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Asiatic peoples",
+      "trait_type": "TYPE"
+    }
+  ]
+}

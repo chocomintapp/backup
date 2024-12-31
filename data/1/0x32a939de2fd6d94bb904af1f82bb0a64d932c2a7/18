@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUZyN8EHhrc8V6G1h5khQV8TU6GaJGNKUXGrtyo9FqYZF/nft.png",
+  "nftContractAddress": "0x32a939de2fd6d94bb904af1f82bb0a64d932c2a7",
+  "animationUrl": "https://ipfs.io/ipfs/QmWSBE3YF3xGSBwdCdKLqDYDHqv8WHuhjduSg2qtxaSBh7/nft.mp4",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "ATUM #018",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SKY ANTHONY6",
+      "trait_type": "Type"
+    },
+    {
+      "value": "LIGHTBLUE×WHITE",
+      "trait_type": "Color"
+    }
+  ],
+  "minted": "✅"
+}

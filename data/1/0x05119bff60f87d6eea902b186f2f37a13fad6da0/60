@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNjFXZ3FHfze7ccJ5n2CpsBBW7gtaVbUHcSS4eH6VTttG/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 60,
+  "chainId": "1",
+  "name": "POPET No.60",
+  "description": "【物語】\n\nメタバース探検隊POPETsのリーダー。しっかりもの。未開の地を日々旅をしている。",
+  "attributes": [
+    {
+      "value": "探検隊員",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "メタバース",
+      "trait_type": "origin"
+    },
+    {
+      "value": "リーダーシップ",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

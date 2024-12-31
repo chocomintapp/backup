@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVMdNCWm3Aetoj5NmQ2GjnnwXR34W1Q1gPRx3MhnZdHsg/nft.jpg",
+  "nftContractAddress": "0x1ab49e6456ae26da8169f09f531e36657df0785d",
+  "animationUrl": "https://ipfs.io/ipfs/QmaXYH34XRACXhBagPmr3jZv3EHexRX98W3k3f5NVej3jz/nft.mp3",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Revontulet",
+  "description": "「revontulet」とはフィンランド語でオーロラのを意味する。\nフィンランド語では「狐の」（revon）+「火」（tulet）。\nくろつきさんのイラスト×KUさんのピアノのMUSIC NFT。",
+  "attributes": []
+}

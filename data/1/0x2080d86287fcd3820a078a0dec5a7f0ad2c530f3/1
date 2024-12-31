@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPpaxQmg23cLQBVHw5EcdETQLt6EEhidFJuFMgwn673gJ/nft.jpg",
+  "tokenId": 1,
+  "description": "Gymnastics art",
+  "nftContractAddress": "0x2080d86287fcd3820a078a0dec5a7f0ad2c530f3",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Vault",
+  "attributes": []
+}

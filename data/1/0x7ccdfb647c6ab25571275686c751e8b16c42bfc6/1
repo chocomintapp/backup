@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNQU5vFNNqKCGEYxkUCrymzCiwb7khhWEPrLWYK2qTYch/nft.png",
+  "nftContractAddress": "0x7ccdfb647c6ab25571275686c751e8b16c42bfc6",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "ヨコヨコラガマン",
+  "description": "yokoyoko",
+  "attributes": [
+    {
+      "value": "0.1%",
+      "trait_type": "hat"
+    },
+    {
+      "value": "10%",
+      "trait_type": "back ground"
+    },
+    {
+      "value": "80%",
+      "trait_type": "grass"
+    },
+    {
+      "value": "5%",
+      "trait_type": "smork"
+    }
+  ]
+}

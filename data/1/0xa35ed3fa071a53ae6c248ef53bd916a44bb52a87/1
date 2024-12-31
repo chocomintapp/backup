@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW9hKJWZPztWYBqJcZ1Uf97kpTCk8CqRb7SKFENtCfAGB/nft.jpg",
+  "tokenId": 1,
+  "description": "道端にはゴミが落ちている。そのゴミを撮り、分別し、加工し、新たなゴミを生み出した。そうして出来たゴミはここに捨てられ、また利用される。その繰り返しなのだ。",
+  "nftContractAddress": "0xa35ed3fa071a53ae6c248ef53bd916a44bb52a87",
+  "animationUrl": "https://ipfs.io/ipfs/QmW9hKJWZPztWYBqJcZ1Uf97kpTCk8CqRb7SKFENtCfAGB/nft.jpg",
+  "chainId": "1",
+  "name": "輪廻転生",
+  "minted": ""
+}

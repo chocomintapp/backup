@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcx7ny86pduHT5xxfrwyZXF2aTRnE4WFdanb1vavoazf4/nft.jpg",
+  "tokenId": 2,
+  "description": "Is it an animal that moves in front of his eyes? Or the landscape outside? Or what?",
+  "nftContractAddress": "0xe1c8a51e0a0270ea0a7e15915e830fa356b3bf95",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "profile2",
+  "attributes": []
+}

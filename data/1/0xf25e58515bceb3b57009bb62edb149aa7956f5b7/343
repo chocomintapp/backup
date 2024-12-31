@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcD9ptLHwxKeVWoCPuQKVxAs4YGYxdSLGisiJBJ6tCQbr/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 343,
+  "chainId": "1",
+  "name": "FUTABA",
+  "description": "■フタバ",
+  "attributes": [
+    {
+      "value": "half-broken",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Edo-wigPink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-nakamachi",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Piyochi-cry",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW1rxnMk9TDUbqzVJh7wjhdeNoFtT2TZzaKmkD6ZpCTxC/nft.png",
+  "tokenId": 5,
+  "description": "She is #pict_chan dressed as a techno musician. Her digital sound will make you trip.",
+  "nftContractAddress": "0xf4d5c20c1dba92b04a7387f22437903cc5bd41da",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#pict_chan_04_techno",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "#pict_chan ",
+      "value": "owner"
+    }
+  ]
+}

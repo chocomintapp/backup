@@ -1,0 +1,67 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeuWuvzDFWqz9F9HhtfGfRFqMZE2gYnnnhdJLZrk7kpEw/nft.png",
+  "nftContractAddress": "0x08853526dc120c16bbc587436993278e52f9eb80",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "小林かるま",
+  "description": "Villain side hideout #2\n\n\"Double quote\"\nOfficially, a finance business organization.\n\nTouta-senpai , you`re so cool!\n\n\n敵側 アジト#2\n\n表向きは金融業、\n『ダブルクオート』\n\nトータ先輩、かっけーっす！",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Character"
+    },
+    {
+      "value": "the MAN",
+      "trait_type": "Belief"
+    },
+    {
+      "value": "Double quote",
+      "trait_type": "Location"
+    },
+    {
+      "value": "human",
+      "trait_type": "Species"
+    },
+    {
+      "value": "none",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "7",
+      "trait_type": "apearance"
+    },
+    {
+      "value": "6",
+      "trait_type": "charisma"
+    },
+    {
+      "value": "8",
+      "trait_type": "intelligence"
+    },
+    {
+      "value": "6",
+      "trait_type": "luck"
+    },
+    {
+      "value": "4",
+      "trait_type": "mana"
+    },
+    {
+      "value": "6",
+      "trait_type": "speed"
+    },
+    {
+      "value": "5",
+      "trait_type": "spirit"
+    },
+    {
+      "value": "5",
+      "trait_type": "toughness"
+    },
+    {
+      "value": "4",
+      "trait_type": "strength"
+    }
+  ]
+}

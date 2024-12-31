@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbCAFoj9mixT59y7p7GJxAdCpCNTSCXdvNcNywdFEtu6V/nft.png",
+  "tokenId": 713,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #713",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovely Madness"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Pearl Studs"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Flower Lei"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Heart"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Orange Hibiscus"
+    }
+  ]
+}

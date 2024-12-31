@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV2mVJKP8gSQrjr96njHodHUord4pSyohYAY4JzUSNtee/nft.png",
+  "nftContractAddress": "0x2adb5dd5c06bc84abc3cd98f4e5e852fe4e613e0",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "1",
+  "name": "Ren [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nRen\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR EVO]",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Green",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Web3.0 :]",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Bandana",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Pueple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "EVO",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

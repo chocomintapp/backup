@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbMBbjgr5N9suWXo1g5Wh6xt6GLXqDrQsFDnWtCBgW27e/nft.jpg",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "Tokyo Expanding People 2099 #18 Religion",
+  "description": "[日本語]\n\nモノを崇拝する、人を崇拝する。\n\n信仰する対象は人々の心の相応しい拠り所であるべきだ。\n\nもはや、信仰心に金銭的価値を植え付ける人間が高い権力を持ち合わせていることは稀ではない。\n\n何かを信じようともがく無数の手、それを抑えつけるべく背中から伸びる大きな手。\n\n木造千手観音菩薩立像が人々を救う慈悲心を表す手を備えているならば、現代の人々を救う黄金色の手は必死に抑圧しようと乱れているに感じる。\n\n--------------------------------------------------------------\n\n[En]\n\nWorship of objects, worship of people.\n\nThe object of worship should be a worthy stronghold of people’s hearts.\n\nIt is no longer rare that people who instill a monetary value in their beliefs have a high degree of power.\n\nCountless hands struggle to believe in something, and large hands extend from their backs to restrain them.\n\nIf the standing wooden statue of the Thousand-Armed Avalokitesvara Bodhisattva has hands that express compassion to save people, the golden hands that save people today feel desperately disorganized in their attempts to suppress.",
+  "attributes": [
+    {
+      "value": "Religion",
+      "trait_type": "Manifesto"
+    }
+  ],
+  "minted": "✅"
+}

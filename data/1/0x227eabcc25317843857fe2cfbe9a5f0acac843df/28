@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSD4fqgWQ1TqeJU9hFYddsEkvZp3Q3ChgTU5B7DReVihr/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "1",
+  "name": "Beach Borne Bae #56",
+  "description": "Beach Borne Bae #56\nInspired by Frilled shark / ラブカ",
+  "attributes": [
+    {
+      "value": "Medium Bob",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Frilled Crop Top",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Dark",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Shark",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

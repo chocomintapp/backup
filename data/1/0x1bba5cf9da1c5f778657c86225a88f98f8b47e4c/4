@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb8RAXNPpt4jEw5QRM12pPirAAM5tmH61sYinZMfvMw5p/nft.png",
+  "nftContractAddress": "0x1bba5cf9da1c5f778657c86225a88f98f8b47e4c",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "#013 Tim Salesman!",
+  "description": "Tim is in the business of selling dreams and making everyone happy!\nBut his dream to sell is expensive!",
+  "attributes": [
+    {
+      "value": "Tim",
+      "trait_type": "CHARACTER"
+    },
+    {
+      "value": "Job",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Salesman",
+      "trait_type": "JOB"
+    }
+  ]
+}

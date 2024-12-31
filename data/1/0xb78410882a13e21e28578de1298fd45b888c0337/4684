@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUtjjWKMYESXs8t65AnjCnMhhY96Rofg9KULy5Md8ytWn/nft.png",
+  "nftContractAddress": "0xb78410882a13e21e28578de1298fd45b888c0337",
+  "animationUrl": "",
+  "tokenId": 4684,
+  "chainId": "1",
+  "name": "",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SILVER",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "SIGNATURE STAMP",
+      "trait_type": "SIGNATURE STAMP"
+    }
+  ]
+}

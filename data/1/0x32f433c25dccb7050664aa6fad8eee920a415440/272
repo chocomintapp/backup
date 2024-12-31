@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmecnU6x9mpx5pjLbZtPotek9EyHvPsNbg4DhwG2mDYxED/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmXqmLmsY7rxgx5hmKqbxNxaYa5jix7LEqUqi34jBxut2R/nft.mp4",
+  "tokenId": 272,
+  "chainId": "1",
+  "name": "THE JEWEL #272",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Brown Zircon",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

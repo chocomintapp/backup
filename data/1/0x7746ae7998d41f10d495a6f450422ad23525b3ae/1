@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSatY2EfFG1NCAxACsBpN2MaLP488bqR2eEMQyiqN4qSm/nft.jpeg",
+  "nftContractAddress": "0x7746ae7998d41f10d495a6f450422ad23525b3ae",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Relicvision",
+  "description": "Journey",
+  "attributes": [
+    {
+      "value": "4100",
+      "trait_type": "1"
+    }
+  ],
+  "minted": ""
+}

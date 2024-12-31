@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTYQp11tCcyrugWvPnmt5b1r4387b1ahT6jKPJDwFDB8g/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 51,
+  "chainId": "1",
+  "name": "DELILAH",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "zombie2",
+      "trait_type": "skin"
+    },
+    {
+      "value": "normal_orange_star",
+      "trait_type": "eye"
+    },
+    {
+      "value": "brown11",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_emblem",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Aquarius",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

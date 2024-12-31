@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQCx7FumgZ7z9dbLQAh1QjxorBDA5fchQufGE1x2FvgvG/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmXip2AxitYGAvvWmhkGfasnbWEC2AURVe5e7tHoeZtkkB/nft.mp4",
+  "tokenId": 36,
+  "chainId": "1",
+  "name": "Okame #036",
+  "description": "Okame  \n面白おかしく踊るのが得意  \nGood at dancing funny.",
+  "attributes": [
+    {
+      "value": "Solid",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Four-Eyes",
+      "trait_type": "EYE"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ7LisfMAiXbPw9G8iQTECcxArRuqkkEUR856Y1zhsj9a/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 253,
+  "chainId": "1",
+  "name": "BLAIR",
+  "description": "■ブレア",
+  "attributes": [
+    {
+      "value": "Deep-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Open4",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Green",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "SuperSurprised-G",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Summer",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

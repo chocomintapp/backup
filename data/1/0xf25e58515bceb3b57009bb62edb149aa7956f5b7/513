@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeygRW5aqKN2w5ZkgGjMLetwNJimeSZazJL2Zm4416A6H/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 513,
+  "chainId": "1",
+  "name": "MIYU",
+  "description": "■ミユ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.9",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Blue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-UBlue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-sakuramachi",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Arkdemon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

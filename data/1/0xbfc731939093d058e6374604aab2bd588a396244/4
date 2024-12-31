@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcz9VS2ZqP8bbAKsLvvMHqA4bVjy7gWVhUrpXJoDKdZLR/nft.png",
+  "nftContractAddress": "0xbfc731939093d058e6374604aab2bd588a396244",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Youngest Daughters Dream #Diamond",
+  "description": "This is the first edition of this artwork on display at M.A.D.S.'s International Mixed Reality Art Exhibition. \n----------------- \nHozenji Koisan Dori is located in the heart of downtown Osaka. Koisan&quot; means &quot;youngest daughter. The scenery dreamed up by the tomboyish youngest daughter is a world where Osaka&#39;s retro and modern styles are combined. \nThe girl wonders whether to return to reality, which is right next door, or to continue on in the world of her dreams.",
+  "attributes": [
+    {
+      "value": "April 2022",
+      "trait_type": "YEAR PUBLISHED"
+    }
+  ]
+}

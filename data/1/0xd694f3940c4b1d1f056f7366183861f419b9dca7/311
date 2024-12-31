@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXar4RprsohvMpfNaDhZQ9E1mFaUX9Tri4LfMk1BYmrhP/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 311,
+  "chainId": "1",
+  "name": "March 23 フリージア",
+  "description": "",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "月"
+    },
+    {
+      "value": "23",
+      "trait_type": "日"
+    },
+    {
+      "value": "あどけなさ",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "フリージア",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

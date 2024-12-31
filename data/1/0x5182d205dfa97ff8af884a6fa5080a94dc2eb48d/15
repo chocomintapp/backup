@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUa759nuLNvLRNkGYVUgahVL2JC3ML5b7Wef6HSq3pY1J/nft.gif",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "https://ipfs.io/ipfs/QmbgdEVhHk9eTEBJxYTFVNtjuVSSrVMvH5W1n3JTNN7z9R/nft.mp4",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "Ganmichan quest #2 feat.name-kraken",
+  "description": "ヴァルキリーがんみちゃんが縦横無尽に駆け回る！！krakenさんとのコラボ第二弾はNFT紅白スペシャルver！！",
+  "attributes": [
+    {
+      "value": "special",
+      "trait_type": "series"
+    },
+    {
+      "value": "ganmichan quest",
+      "trait_type": "situation"
+    },
+    {
+      "value": "kraken",
+      "trait_type": "bro"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaUi7gxjQzeVSTsi8TJQzDarBubiBKxa7z6QUwyPBpPrY/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 128,
+  "chainId": "1",
+  "name": "SARABIO",
+  "description": "■サラビオ",
+  "attributes": [
+    {
+      "value": "GOLD",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Star&tear3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-Skyblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Ftype(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Raaamen-Agodasi",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dominion",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Yellow",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

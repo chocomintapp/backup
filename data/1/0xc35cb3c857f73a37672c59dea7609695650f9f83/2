@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYEMnBocr1tqNkzTJjVLd8idvCRTDhHns4xb5NHPpk2Gp/nft.jpg",
+  "nftContractAddress": "0xc35cb3c857f73a37672c59dea7609695650f9f83",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "AMF 10TH ANNIVERSARY #2",
+  "description": "AMF 10周年 記念NFT\n\nAppreciation / Modesty / Full power",
+  "attributes": [
+    {
+      "value": "10TH",
+      "trait_type": "TYPE"
+    }
+  ]
+}

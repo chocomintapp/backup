@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdgnikRtu9GgGL96i8RqcvHWM1PPAcAgfT5L8wJdtu3QU/nft.png",
+  "nftContractAddress": "0x09f49d21f95bd8c4234dcfa1c741e4e9ff6c7e2a",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "1",
+  "name": "ChiBikkuri_Girl  #030",
+  "description": "びっくりした女の子がちっちゃくなっちゃった！\n\nSurprised girls have gone tiny!\n",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "CLASS",
+      "trait_type": "A class"
+    },
+    {
+      "value": "Special",
+      "trait_type": "Super"
+    }
+  ],
+  "minted": "✅"
+}

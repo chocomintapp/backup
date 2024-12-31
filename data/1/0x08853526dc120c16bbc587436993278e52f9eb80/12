@@ -1,0 +1,67 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcqCGkf2Tj4SNAr2Q3wJTavXARgveXXUVKEuNxSCgNKLd/nft.png",
+  "nftContractAddress": "0x08853526dc120c16bbc587436993278e52f9eb80",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "飯野カシラ",
+  "description": "Villain side hideout #1\n\nPack of oni.　Kijin. \nThey gather around to have a feast every night at Ichika.\nA first time customer? \nWelcome Welcome!\nLet's have fun tonight...\n\n敵側 アジト #1\n\n鬼の集団 鬼神　「炎帰万象」\n 一花にて夜な夜な集まり、夜通し宴が開かれる。\n\n一見は　女子学生の　戯れよ",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "Appearance"
+    },
+    {
+      "value": "Female",
+      "trait_type": "Character"
+    },
+    {
+      "value": "炎帰万象",
+      "trait_type": "belief"
+    },
+    {
+      "value": "8",
+      "trait_type": "charisma"
+    },
+    {
+      "value": "8",
+      "trait_type": "intelligence"
+    },
+    {
+      "value": "Ichika",
+      "trait_type": "location"
+    },
+    {
+      "value": "4",
+      "trait_type": "luck"
+    },
+    {
+      "value": "4",
+      "trait_type": "mana"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "species"
+    },
+    {
+      "value": "5",
+      "trait_type": "speed"
+    },
+    {
+      "value": "4",
+      "trait_type": "spirit"
+    },
+    {
+      "value": "3",
+      "trait_type": "strength"
+    },
+    {
+      "value": "3",
+      "trait_type": "toughness"
+    },
+    {
+      "value": "dagger",
+      "trait_type": "weapon"
+    }
+  ]
+}

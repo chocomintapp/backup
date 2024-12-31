@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVh5N3AT1VrDcsGd6NkNrJ24vJ7fYjWjgzWLZ9fdzQHDd/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 50,
+  "chainId": "1",
+  "name": "N #50",
+  "description": "",
+  "attributes": [
+    {
+      "value": "none",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "N",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "N",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "n",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

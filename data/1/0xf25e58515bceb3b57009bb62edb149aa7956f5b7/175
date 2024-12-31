@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNYQ1SytovC4s7g3XtGxkcRhMdnWmwvZMUQLi5oCn5xuh/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 175,
+  "chainId": "1",
+  "name": "NATSUME",
+  "description": "■ナツメ",
+  "attributes": [
+    {
+      "value": "Ninja3-Rainbow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Matchingcloth-05",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Black",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Mitama tomato-shock2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "EyeBall2",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

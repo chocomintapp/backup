@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPd1U1FgvqLmt6XG5C4fsuFo4KCHeYptZAZPpCe9FrxgZ/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 46,
+  "chainId": "1",
+  "name": "Beach Borne Bae #74",
+  "description": "Beach Borne Bae #74\nInspired by Footballfish / チョウチンアンコウ",
+  "attributes": [
+    {
+      "value": "Bob with Straight Bangs",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "T-shirt",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

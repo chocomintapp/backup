@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeZjrCja1VSS2cEq57Lu5izKQvZg2KCTtQMWkYEaEb1rP/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "THS #056",
+  "description": "【想】",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

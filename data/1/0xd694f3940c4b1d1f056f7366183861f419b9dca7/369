@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmaa2jCyHFgajXJvHJJeaw7zqcSWncEWNYK4wkGsjLzpDp/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 369,
+  "chainId": "1",
+  "name": "June 9 デルフィニウム Ver.2",
+  "description": "",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "9",
+      "trait_type": "日"
+    },
+    {
+      "value": "変わりやすい心",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "デルフィニウム",
+      "trait_type": "花"
+    },
+    {
+      "value": "2",
+      "trait_type": "Ver"
+    }
+  ],
+  "minted": "✅"
+}

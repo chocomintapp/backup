@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRw81GxsozS7dATxnRENjvfyunrSKhvMvTEnHvyTVJx1w/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 209,
+  "chainId": "1",
+  "name": "DABIO",
+  "description": "■ダビオ",
+  "attributes": [
+    {
+      "value": "Entrance Heavenly3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Mix1",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-ZombieAllyellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-R",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "SandLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "HeadbandｰYY",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUfH4161GnGZ5RKBQJVjmA5yGwyFxfkPigJhPrz1Sptxt/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 59,
+  "chainId": "1",
+  "name": "KAIKA #59",
+  "description": "",
+  "attributes": [
+    {
+      "value": "wave",
+      "trait_type": "energy"
+    },
+    {
+      "value": "jewel freckles",
+      "trait_type": "extra"
+    },
+    {
+      "value": "droopy",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "blue",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "blunt bob",
+      "trait_type": "hair"
+    },
+    {
+      "value": "underlayer",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "closed",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "tan",
+      "trait_type": "skin tone"
+    }
+  ]
+}

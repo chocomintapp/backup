@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWtWGBk4Dm5d2moPsxSzmrUvUYRraEjyXG3a1raHyraCA/nft.png",
+  "tokenId": 19,
+  "description": "She is #pict_chan dressed as a ninja. She can sneak into any place she wants.",
+  "nftContractAddress": "0xf4d5c20c1dba92b04a7387f22437903cc5bd41da",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#pict_chan_17_ninja",
+  "attributes": [
+    {
+      "trait_type": "#pict_chan",
+      "value": "owner"
+    }
+  ]
+}

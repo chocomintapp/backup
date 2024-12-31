@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSS6PQi9r4dAzHBt9YMGQerrxTxowYY9ErMtrqWAVES5Z/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 307,
+  "chainId": "1",
+  "name": "March 19 シダレヤナギ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "月"
+    },
+    {
+      "value": "19",
+      "trait_type": "日"
+    },
+    {
+      "value": "嘆き",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ヤナギ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

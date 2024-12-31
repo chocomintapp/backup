@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXpTCvHYvxE3m5QvvEdk2NCsLB8jTdmP9cTw9wYgJqFSB/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "1",
+  "name": "Beach Borne Bae #68",
+  "description": "Beach Borne Bae #68\nInspired by Blobfish / ニュウドウカジカ",
+  "attributes": [
+    {
+      "value": "Medium Bob",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "T-shirt",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

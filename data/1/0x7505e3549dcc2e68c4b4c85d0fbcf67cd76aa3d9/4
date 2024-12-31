@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXKKYp3mhxoakAPLht1MYdykkevHcfAQKjKyxpjAGZtH6/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Pimpin ピンピンちゃん #207",
+  "description": "ピンピンちゃんはロボットです。\nでもこの子はめっちゃうさぎとにていて、だけどほんとうのうさぎみたいにふわふわしていません。\nこの子はおしばいが大好きで、ある日、思っていた夢がかないました。\nそれがうれしくておたんじょう日におかあさんありがとうといいました。\n\nピンピンちゃんが歌うと、ピミンちゃんはおしばいをしながらおどります。\n\n中の子はいもうとににているように作ってくれたピミンちゃんです。\nほんとうのピミンちゃんではありません。\nほんとうのいもうともいます。\n\nこれはおたんじょう日のときにとったしゃしんです。\n\nこれはむかしのやつです。\n今はピンピンちゃんは、もう12さいではたらいています。\nダンスかいじょうでしゅやくをしています。\nミュージカルをやったりしてすごいはたらいています。\n\nピミンちゃんはまだロボットのままでかわいいです。\nいろんなことをやっています。\n\nピミンちゃんは今は８さい。おたんじょう日に大すきな本を１０さつもかってもらいました。\nおんがくの本が大すきで、おんがくの本をいっぱい見ています。\n\n手が小さいのにおねえちゃんのおしごとを手つだいます。\nピアノや、ドラムやバイオリンや、カスタネット、\nタンバリンとけんばんのハーモニカもリコーダーやっています。\n\n二人ではたらいてかせいでいます。\n\nピミンちゃんは一人だけでぜんぶやっています。\n一人でたいへんなときはおねえちゃんもやっています。\n\nふたりはえんそうが大すきです。\nもっとやっていたいくらいです。\nしょうらいはもっとすてきなおんがくをとどけたいとおもっています。\n\nロボットだけどおかあさんはロボットをうみたくてがんばりました。\nおかあさんとおとうさんはロボットのけんきゅうをしています。\nいぬやねこのロボットも作れます。\n\n☆小学２年生7ばん目の作品なので207のナンバーをふりました♪\n\nPimpin-chan is a robot.\nBut it looks like a rabbit. But she is not fluffy like a real rabbit.\nPimpin-chan loves to put on a play.\nOne day, her dream came true.\nShe was so happy that she said, \"Thank you, mother,\" on her birthday.\n\nWhen Pimpin-chan sings, her sister Pimin-chan dances while performing a play.",
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Robot",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Kawaii",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Color"
+    }
+  ],
+  "minted": "✅"
+}

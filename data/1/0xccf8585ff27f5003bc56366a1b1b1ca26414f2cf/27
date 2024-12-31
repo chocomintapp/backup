@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWckZ5HiR4LnPx8VCwJmzSJsA5LC7KJumB4RzoDRRC22n/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "1",
+  "name": "WEAR BEAR #107 “CHRIS” ×”MUKAI” from TMA",
+  "description": "WEAR BEAR 第11弾はクールなTHE MAFIA ANIMALSとのコラボシリーズ！それぞれがMAFIA幹部の衣装をまとって登場！\n “CHRIS”は幹部NO.040 \"MUKAI\"の衣装で登場\n",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "White Coat & Gray jacket",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Gray pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Dress shoes MONK",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Chris",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Cigar",
+      "trait_type": "Accessories"
+    }
+  ],
+  "minted": "✅"
+}

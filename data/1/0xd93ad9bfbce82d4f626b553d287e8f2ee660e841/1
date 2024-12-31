@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRYGYGkC7GV86Z3cJQDnfZQbZENmDZmj1mVtvdAPTcZkB/nft.png",
+  "nftContractAddress": "0xd93ad9bfbce82d4f626b553d287e8f2ee660e841",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Dragonmate",
+  "description": "3D cute and freaky dragon series",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "3d"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

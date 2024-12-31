@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUt4D3vZjXdm6fdjuF9cRSkcowp87B8GwE7UovxJ3Ckrz/nft.jpg",
+  "tokenId": 33,
+  "description": "Beware the white tiger at the peak of the mountain in Magic Forest",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmUt4D3vZjXdm6fdjuF9cRSkcowp87B8GwE7UovxJ3Ckrz/nft.jpg",
+  "chainId": "1",
+  "name": "TigerRoar"
+}

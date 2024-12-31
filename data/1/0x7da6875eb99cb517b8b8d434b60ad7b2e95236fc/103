@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcqKZuZEVp5EMJ8frYFU7oMZEkpX9RrdDQ7UWf71kfQ3F/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 103,
+  "chainId": "1",
+  "name": "KAIKA #103",
+  "description": "",
+  "attributes": [
+    {
+      "value": "fragment",
+      "trait_type": "energy"
+    },
+    {
+      "value": "fissure",
+      "trait_type": "extra"
+    },
+    {
+      "value": "foxy",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "blue",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "wolf",
+      "trait_type": "hair"
+    },
+    {
+      "value": "half and half",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "lip bite",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "dark",
+      "trait_type": "skin tone"
+    }
+  ]
+}

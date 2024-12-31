@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPSyTFXSQ4jkn1QapTDbSkSDXiBvoHhJM9xwcWG9eoB4n/nft.png",
+  "nftContractAddress": "0x21ac824c1b1369971e437c5e92a84a136da1b1eb",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Hello World #002",
+  "description": "#【I wonder if it will be sunny tomorrow.】\n\nUsing her favorite umbrella is a daily pleasure for Shijimi.\n\nI'm actually very proud of this magnificent umbrella!\nBut it's not cool to brag about it, so I'm patient and patient.\n\nShe casually carries an umbrella with her at all times, sunny days or rainy days.\n\nShe may look cool, but she really wants everyone to admire her.\n\n\n  \n#【明日も晴れるかな】\n\nお気に入りの傘をさすのが\nしじみの毎日の楽しみ。\n\nこの立派な傘が本当はとっても自慢！\nだけど自慢するのはカッコ悪いから我慢 我慢。\n\n晴れの日も雨の日もいつでも\nさりげなく持ち歩いています。\n\nクールな表情だけど\n本当はたくさんみんなに\n褒めてほしいの。",
+  "attributes": [
+    {
+      "value": "Chlorophyllum molybdites（オオシロカラカサタケ）",
+      "trait_type": "MUSHROOM"
+    },
+    {
+      "value": "SHIJIMI（しじみ）",
+      "trait_type": "CAT NAME"
+    },
+    {
+      "value": "Watercolor",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Pigment ink",
+      "trait_type": "TYPE"
+    }
+  ],
+  "minted": "✅"
+}

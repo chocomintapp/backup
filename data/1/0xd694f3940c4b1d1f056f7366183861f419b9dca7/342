@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWJm7VVKEk6Zk4yJ9b7zB3it59VqgEHJQA4ZcW3D7JZMY/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 342,
+  "chainId": "1",
+  "name": "April 23 アンズ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "4",
+      "trait_type": "月"
+    },
+    {
+      "value": "23",
+      "trait_type": "日"
+    },
+    {
+      "value": "強い印象",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "アンズ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

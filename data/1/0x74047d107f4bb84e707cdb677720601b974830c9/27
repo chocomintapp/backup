@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWt3g5nqBLXY7rVPSJvVMKvnzmrWVDS6tUPyecseDU4C2/nft.png",
+  "nftContractAddress": "0x74047d107f4bb84e707cdb677720601b974830c9",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "1",
+  "name": "CYCLOPSTAR #0027",
+  "description": "Limited 1/1\n\nCyclopstar is a Japanese Kawaii NFT collections, And minted by their original contract (CLS).\n\nThis is Fanart of “BHM’s collection [Samurai Monkeys](https://opensea.io/collection/bighatmonkeys)\"",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "BHM",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Zipup",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "BHM",
+      "trait_type": "DESIGN"
+    },
+    {
+      "value": "Weapon",
+      "trait_type": "ACCESSORYS"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNmDqaC9bu1jvLzQV4JNj8j4ghCxnvztV3RketJkxtvsZ/nft.PNG",
+  "nftContractAddress": "0xd1f8aade1d996c02b5d62321716dc4b58f230f75",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "B : Traveling Girl #023",
+  "description": "Traveling Girl",
+  "attributes": [
+    {
+      "value": "Traveling",
+      "trait_type": "TYPE"
+    }
+  ]
+}

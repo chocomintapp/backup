@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRqTeYZUGy4DxDQjfTrftE5bVjmukCoMVe872XXu473WN/nft.png",
+  "nftContractAddress": "0xc7dbd708916829172a3ff8a16a0ed4659a6fd46f",
+  "animationUrl": "https://gateway.pinata.cloud/ipfs/QmPW4rHdCN9zpfDXrujLVwGw7eN3bUDRLDHXb83Z159q1y/",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "GreenBlink",
+  "description": "green blink",
+  "attributes": [],
+  "minted": ""
+}

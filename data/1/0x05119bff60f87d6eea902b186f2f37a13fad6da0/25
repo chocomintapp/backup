@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSw4AEewH2C4NYDbvGsw98phR3QxFnhUit58M8kujLA2K/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "1",
+  "name": "POPET No.25",
+  "description": "【物語】\n\nわたしより速いやつはもういない。\nこの街の全てをおいこして、あたらしい場所へ。",
+  "attributes": [
+    {
+      "value": "レーサー",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "サーキット",
+      "trait_type": "origin"
+    },
+    {
+      "value": "ストイック",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

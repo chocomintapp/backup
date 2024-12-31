@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcXZs3JU9jSSUFKSvGXNDL6uXvvJ9Hu6X8g7usj2ni1pG/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 270,
+  "chainId": "1",
+  "name": "February 11 デンファレ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "月"
+    },
+    {
+      "value": "11",
+      "trait_type": "日"
+    },
+    {
+      "value": "お似合いの二人",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "デンファレ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVjAt1msQVzvBrtCdD8qBzSVCZqr3SqLELmLfnmsqojBN/nft.png",
+  "nftContractAddress": "0xc95f3d92bd8a66dd22ff94961a3d648b554e3b06",
+  "animationUrl": "https://ipfs.io/ipfs/QmfLbkr3VXFrmq5mnVYoaTm3y2sC9uEENpvkBWPnob94R8/nft.wav",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "wait",
+  "description": "wait",
+  "attributes": [
+    {
+      "value": "koto",
+      "trait_type": "Inst"
+    },
+    {
+      "value": "h",
+      "trait_type": "player"
+    }
+  ]
+}

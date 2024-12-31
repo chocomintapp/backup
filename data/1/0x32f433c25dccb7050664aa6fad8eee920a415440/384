@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNeEZ5Bi8zAD3jtFStHppPRGWFvkhqJYgVMhSHCtK6Vr3/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmZq1xZr3p6yQtBupPvrnQk4bcVG4vNB6Z6rnXWqwx5uAr/nft.mp4",
+  "tokenId": 384,
+  "chainId": "1",
+  "name": "THE JEWEL #384",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Amblygonite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Palladium",
+      "trait_type": "Control device"
+    }
+  ]
+}

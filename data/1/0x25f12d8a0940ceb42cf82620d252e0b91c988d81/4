@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmadY9WT2u9Mq9RJh6m4mfne5CdnjjaY2a6TEgjjHWUZkk/nft.mp4",
+  "nftContractAddress": "0x25f12d8a0940ceb42cf82620d252e0b91c988d81",
+  "animationUrl": "https://ipfs.io/ipfs/QmadY9WT2u9Mq9RJh6m4mfne5CdnjjaY2a6TEgjjHWUZkk/nft.mp4",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "METASAMURAI #4",
+  "description": "METASAMURAI will not only function as a collectable NFT, but also have utility through partnerships with various IP holders and a Wear-To-Earn mechanism. Through acquired METASAMURAI and digital fashion items, there's an opportunity to create new experiences and value.\n\nDownload your METASAMURAI as a PFP ready avatar. \nhttps://bit.ly/3KCBGze\n\nVisit us on Twitter, Discord, and our website. https://www.metasamurai.world/",
+  "attributes": [
+    {
+      "value": "Genesis",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "BASIC  WHITE",
+      "trait_type": "LEGENDARY"
+    }
+  ],
+  "minted": "✅"
+}

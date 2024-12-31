@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXmheLH5JYiFUgZMdcbmTUQL6wB8pKkqgLa2qTyJSNFDQ/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmcR6gCuccxoD4Cbzxc3vCakdvRuoic2VKtZ4MHxmZucvD/nft.mp4",
+  "tokenId": 237,
+  "chainId": "1",
+  "name": "THE JEWEL #237",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Grandidierite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

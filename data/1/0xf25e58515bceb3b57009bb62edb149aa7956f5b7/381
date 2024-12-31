@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfCrhQg6avP9xwBGmqXtMTxkMq8S1d38XWy7YrSiXeTof/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 381,
+  "chainId": "1",
+  "name": "YUME",
+  "description": "■ユメ",
+  "attributes": [
+    {
+      "value": "Bright-Pink",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "AnisuHair2",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Orange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Machimusume1",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Mitama-Momo(M)W",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

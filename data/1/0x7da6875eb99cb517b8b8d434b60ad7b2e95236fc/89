@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb58mby4VKgr8aJwX4JfsmZQk1CJuXGnXLLo91h5k9Y3c/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 89,
+  "chainId": "1",
+  "name": "KAIKA #89",
+  "description": "",
+  "attributes": [
+    {
+      "value": "water",
+      "trait_type": "energy"
+    },
+    {
+      "value": "freckles",
+      "trait_type": "extra"
+    },
+    {
+      "value": "almond",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "purple",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "blunt bob",
+      "trait_type": "hair"
+    },
+    {
+      "value": "underlayer",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "open smile",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "light",
+      "trait_type": "skin tone"
+    }
+  ]
+}

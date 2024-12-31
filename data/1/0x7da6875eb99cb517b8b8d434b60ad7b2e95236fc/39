@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVGfeqMjqdzLbQ1oz4phh2tuqYTiLH4FnszJCkPV4KZwH/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "1",
+  "name": "KAIKA #39",
+  "description": "",
+  "attributes": [
+    {
+      "value": "stone",
+      "trait_type": "energy"
+    },
+    {
+      "value": "none",
+      "trait_type": "extra"
+    },
+    {
+      "value": "droopy",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "brown",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "bowl",
+      "trait_type": "hair"
+    },
+    {
+      "value": "brown",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "open smile",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "medium",
+      "trait_type": "skin tone"
+    }
+  ]
+}

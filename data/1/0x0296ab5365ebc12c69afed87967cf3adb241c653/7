@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdbtmm1CTguRuQ9jxfCKZZSm7mWcEv8yC3Yrb3UcQVvSc/nft.jpg",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "星奈[Sena]",
+  "description": "「星々に願いを込めて、さあ行きましょう」\n\n雲の世界のキャラクター、星に最も近い存在とされている。\n\n彼女が願うと星になり、その星が流れると願いが叶うとまで言われている。",
+  "attributes": [
+    {
+      "value": "雲",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

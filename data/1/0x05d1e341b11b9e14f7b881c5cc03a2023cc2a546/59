@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZL7Texiyk5sMqCYuDV6kXQM367RHZVGuwLSGsmzh6qbf/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/Qmd3YUwJKL6Mv1EqzzxmAoiJ7vupELKTkv7AZhQzeJYrUP/nft.mp4",
+  "tokenId": 59,
+  "chainId": "1",
+  "name": "O-F #059",
+  "description": "O-F  \nMIMIMATES collection に擬態している  \nMimicking the MIMIMATES collection",
+  "attributes": [
+    {
+      "value": "Hide",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Hide",
+      "trait_type": "MIMIC"
+    },
+    {
+      "value": "Three-Eyes",
+      "trait_type": "EYE"
+    }
+  ]
+}

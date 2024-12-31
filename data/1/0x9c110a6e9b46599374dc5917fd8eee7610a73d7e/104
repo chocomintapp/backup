@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTVVTYx7EsP2Nd448dVfiEGVXuDsar3JZVc4dy3nvQz1t/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 104,
+  "chainId": "1",
+  "name": "POCO_Isidora",
+  "description": "Isidora-Chan",
+  "attributes": [
+    {
+      "value": "Fickle",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

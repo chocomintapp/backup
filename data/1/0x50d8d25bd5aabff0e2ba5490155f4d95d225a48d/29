@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP7i65d96oWCMoGMNm15iqdqck6WKvTsu73iYYpDsZBCu/nft.png",
+  "nftContractAddress": "0x50d8d25bd5aabff0e2ba5490155f4d95d225a48d",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "1",
+  "name": "#29 Meco",
+  "description": "This is a project to create a new city in Metaverse by forming a community under “Ambitious One City”, a new city created by ambitious creators, centered on creators from Japan and overseas. All the works created by the artists participating in the community have been converted to NFT. A world full of creativity, with the entire city made of “NFT”. It is an art tourist spot that visitors can purchase or sell on their own.\n\n国内外のクリエイターを中心に 「Ambitious One City ” 野心的なクリエイターが創り上げる新たな街“」のもとにコミュニティを形成し、メタバースに新しく街を作っていくプロジェクトです。 コミュニティに参加するアーティストが⼿掛けた作品を全てNFT化。 街全てが「NFT」で出来ており、クリエイティビティ溢れる世界。 訪れたユーザーが⾃由に購⼊したり、⼆次販売出来るアート観光スポットを⽬指す。",
+  "attributes": [
+    {
+      "value": "SLIGHT SMILE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "SPECTER",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "SHIROMUKU",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "FAN",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Coche",
+      "trait_type": "CREATOR"
+    }
+  ]
+}

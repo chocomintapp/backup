@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTNQb1dZn187gy1EzwZ944ebrzQXLBMZb7XLHWXrh3fWu/nft.png",
+  "tokenId": 28,
+  "description": "\"Leanan-Sidhe\" = \"Vampire\" x \"Succubus\" Forte Sasayama\n「リャナンシー」メイン種族バンパイア、サブ種族サキュバス。名前はフォルテ笹山。\n\nリャナンシーは、男性を惑わし魂を吸い取る、バンパイア系のモンスター娘。サキュバスとの混血。惚れた男は血の果てまで追いかけていく。本人は自覚がないが、かなりのヤンデレ。\n\n\"Leanan-Sidhe\" is a Vampire monster girl that deceives men and sucks their souls. She is mixed blood with \"Succubus\" species. She chases after the man she falls in love with until the end of her blood. Although she is unaware of it, she is quite a \"yandere\".",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#053 \"Leanan-Sidhe\" Forte Sasayama",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Succubus"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "minted": "✅"
+}

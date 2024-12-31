@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfDAreQ2w2EcFdVbvJ7CuR8Qw5wck8S4n65XWDhMR7oZc/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 258,
+  "chainId": "1",
+  "name": "CHRISTA",
+  "description": "■クリスタ",
+  "attributes": [
+    {
+      "value": "Light-Purple",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mind's-eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie8",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dominion",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "SensorF",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

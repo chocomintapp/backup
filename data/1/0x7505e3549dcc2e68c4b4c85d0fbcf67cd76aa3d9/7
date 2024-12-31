@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdmXPyMiPhqrCGHWzj9rT9BvWYLtLa4nMnTnVP9wnN4oq/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "４しまい Four Sisters #210",
+  "description": "この子たちはおかあさんはいません。\nうちゅうからつれてきてくれた。\nでもこの子たちは、ある日人げんの子にかわったんです。みんな。\nみんな女の子です。\n\nあさはいつもげんきです。\nたまにケンカをしています。\nケンカのばめんをかきました。\nいちばん上と２ばんめのおねえちゃんがケンカしていました。\n下の二人はなかよしです。😂\n\n☆小学2年生10番目の作品なので210のナンバーをふりました♪\n\nThese children do not have a mother.\nThey came from outer space.\nThey changed one day into human children.\nThey are all girls.\n\nThey are always cheerful in the morning.\nSometimes they fight.\nI drew the fight scene.\nThe top girl and the second girl were fighting.\nThe bottom two are good friends.",
+  "attributes": [
+    {
+      "value": "Girl",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Kawaii",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Alien",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmewiatkxoKJbhhqWDyzcsYYt6vi2uBad6TxKKVzzqCR7E/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "1",
+  "name": "HARUMI",
+  "description": "HARUMI is a very ordinary girl.\n\nShe loves to watch theater and named her cat Simba.\n\nWhen there is a fight between androids, there is a very high probability that she will be involved, but she has never even been injured.\n\nShe has no luck with men, but she has an abundance of luck on her side.\n\nShe is very good at making omelettes.\n■ハルミ\nごくごく一般的な女の子のハルミ。\n\n演劇を見るのが大好きで、愛猫の名前もシンバにした。\n\nアンドロイド同士の闘いがあると、かなりの高確率で巻き込まれるが一度も怪我すらしたことがない。\n\n男運もないが、有り余る幸運を味方につけている。\n\n卵焼きを作るのがとても上手だ。",
+  "attributes": [
+    {
+      "value": "MIX1",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Tail-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doteye-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-Y",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Simba",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUyrfeP3qPXoPZVk5FGA6H81Jo4v9EvF5pzhvRmgzMHYw/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 127,
+  "chainId": "1",
+  "name": "September 21 ノウゼンカズラ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "21",
+      "trait_type": "日"
+    },
+    {
+      "value": "花のある人生",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ノウゼンカズラ",
+      "trait_type": "花"
+    }
+  ]
+}

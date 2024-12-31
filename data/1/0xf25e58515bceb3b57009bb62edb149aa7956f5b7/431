@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSnxn6P3o9vzjXtkryvwFwFLusihfWeiA7WojJQ5k7Byc/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 431,
+  "chainId": "1",
+  "name": "MEGURU",
+  "description": "■メグル",
+  "attributes": [
+    {
+      "value": "Chess",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin-Black",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Blackpink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "SuperSurprised-R",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Matchingcloth-06",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Stuffed Zombie3",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

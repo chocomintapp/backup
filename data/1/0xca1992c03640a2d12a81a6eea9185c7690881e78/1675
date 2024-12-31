@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRvXMLKYb3WbndYoTE1CVth3R2GZYnPTReB5SZZz86veV/nft.png",
+  "tokenId": 1675,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1675",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Pigtails"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cardigan"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Scarlet"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold 3 Hoop"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Silver Peace Sign"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Yellow Star"
+    }
+  ]
+}

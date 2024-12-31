@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNtuoMAj9JkT831ghjdUbBgsGq5QkgcbjWrmRQ9a21CPj/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 90,
+  "chainId": "1",
+  "name": "August 15 ヒマワリ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "15",
+      "trait_type": "日"
+    },
+    {
+      "value": "光輝と尊敬",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ヒマワリ",
+      "trait_type": "花"
+    }
+  ]
+}

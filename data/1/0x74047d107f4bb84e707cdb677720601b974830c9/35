@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSrpLCzD1yD3L6ebvjwftoMTnLsSB48pw3PHtp3u3PUqz/nft.png",
+  "nftContractAddress": "0x74047d107f4bb84e707cdb677720601b974830c9",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "1",
+  "name": "CYCLOPSTAR #0035",
+  "description": "Limited 1/1\n\nCyclopstar is a Japanese Kawaii NFT collections, And minted by their original contract (CLS).\n\nThis is Fanart of “VINY-USA’s collection [Nigiri meshizone](https://opensea.io/collection/nigiri-meshizone)\"",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Nigiri meshizone",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Zipup",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "VINY-USA",
+      "trait_type": "DESIGN"
+    },
+    {
+      "value": "Food",
+      "trait_type": "ACCESSORYS"
+    }
+  ]
+}

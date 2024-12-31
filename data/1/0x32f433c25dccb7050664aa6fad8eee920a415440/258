@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX3T8xtAE2LiojCuTydQr6vTJW6MWyXkhL6dswMRGQuat/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmYHukQvikxYoMmEw8U9UXrcrGN2nWPvjYT4gDJfZzNRfw/nft.mp4",
+  "tokenId": 258,
+  "chainId": "1",
+  "name": "THE JEWEL #258",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Pink Topaz",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Control device"
+    }
+  ]
+}

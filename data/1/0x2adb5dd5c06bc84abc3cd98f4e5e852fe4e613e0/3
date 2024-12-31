@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTD1FqahfCwHP44AkhCwdktaaCSg9reS5yNdcP5L8F7mB/nft.png",
+  "nftContractAddress": "0x2adb5dd5c06bc84abc3cd98f4e5e852fe4e613e0",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Roll [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nRoll\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR]",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Inner Rainbow",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Close",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Black",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "White Dress",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Winter Star",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "ELIXIR",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

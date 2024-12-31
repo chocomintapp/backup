@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP2oNV6TmwgAeG2dj8cvrPPghqNHKtK5tHtXCFnQi8bmq/nft.png",
+  "tokenId": 1,
+  "description": "Test NFT Ethereum Original contract",
+  "nftContractAddress": "0xcf85a8a5a13cb86614c5c6bc91e62c01f280811a",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Test NFT Ethereum",
+  "attributes": []
+}

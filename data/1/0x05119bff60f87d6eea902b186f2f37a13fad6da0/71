@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdDcRX29MRMWduoaYAuUt4Jnh2MdFLdTLEgG6rtEzBJVj/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 71,
+  "chainId": "1",
+  "name": "POPET No.71",
+  "description": "【物語】野心、闘志、信念。私の心を燃やす情熱の火。この街から全てが始まる。",
+  "attributes": [
+    {
+      "value": "社長",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "オフィス",
+      "trait_type": "origin"
+    },
+    {
+      "value": "カリスマ",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

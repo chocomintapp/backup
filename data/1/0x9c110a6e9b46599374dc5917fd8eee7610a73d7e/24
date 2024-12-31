@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTMJu928GNAXcA5JhzDRk3WTE7LxikCkPWVUhqHVKJNvf/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "POCO_Philine",
+  "description": "Philine-Chan",
+  "attributes": [
+    {
+      "value": "Spirited",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Bordeaux",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

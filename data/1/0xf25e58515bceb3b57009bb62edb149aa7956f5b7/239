@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVyQCjNot9YkPZdP1M89B6UJUq1pr68inVE62TsmmzXQK/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 239,
+  "chainId": "1",
+  "name": "JILL",
+  "description": "■ジル",
+  "attributes": [
+    {
+      "value": "Ninja3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.5",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "CurlingTsuno-Egreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "RobotEye4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Ftype",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "NARUKAMI-P",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "SensorE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

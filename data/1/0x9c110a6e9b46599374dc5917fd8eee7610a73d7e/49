@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQo2AtTCdRYNaYSm1EaQjTMubpuxLFDTt7AHmKys8ZQRd/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 49,
+  "chainId": "1",
+  "name": "POCO_Carol",
+  "description": "Carol-Chan\n",
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Eccentric",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

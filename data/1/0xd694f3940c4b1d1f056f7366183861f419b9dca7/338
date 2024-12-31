@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPwcx1TAFr2nfRKhjzj4aj4dMqbuHWftD9fExujysBQ55/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 338,
+  "chainId": "1",
+  "name": "April 19 ナシ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "4",
+      "trait_type": "月"
+    },
+    {
+      "value": "19",
+      "trait_type": "日"
+    },
+    {
+      "value": "愛の基盤",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ナシ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

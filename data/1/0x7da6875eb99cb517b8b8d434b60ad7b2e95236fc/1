@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSRDfLVEX3tbd4dvA4fJL2EdSyGk6C9stJ7qM9gwcMop8/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "KAIKA #1",
+  "description": "",
+  "attributes": [
+    {
+      "value": "stone",
+      "trait_type": "energy"
+    },
+    {
+      "value": "none",
+      "trait_type": "extra"
+    },
+    {
+      "value": "doll",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "purple",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "long layered",
+      "trait_type": "hair"
+    },
+    {
+      "value": "black",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "closed",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "pale",
+      "trait_type": "skin tone"
+    }
+  ]
+}

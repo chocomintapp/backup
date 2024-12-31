@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNwF6DoVjDtJrTXEhowj1ZG1F5a1JiBUa1WWZZauXrMgr/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "Güery",
+  "description": "He is one of the AlternativeVerth, which emerged when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "green",
+      "trait_type": "skin"
+    },
+    {
+      "value": "stylish_blue",
+      "trait_type": "eye"
+    },
+    {
+      "value": "green12",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_ear",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Equuleus",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

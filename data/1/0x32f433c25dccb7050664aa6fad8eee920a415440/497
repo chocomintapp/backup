@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWYaUM6eezWjynvqdCyY2piNFQF3h9WZUuQzA7kCM16q7/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmeXSYVAyiY4pMDduXWK4uwbLKgyp3Ms6xSzU2fBDsutyw/nft.mp4",
+  "tokenId": 497,
+  "chainId": "1",
+  "name": "THE JEWEL #497",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Clear Gold",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW4idKs6evHEYwWqzxcGdq5K1T2CN8D3NhYcobctfQXZD/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmUwrELPzCz3N2Ppsvaug5e15Rv7fJY95kX3Gicq4PuyFy/nft.mp4",
+  "tokenId": 280,
+  "chainId": "1",
+  "name": "THE JEWEL #280",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Sphene",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUAzQbgaVSbyp2dgUbG8MdGksfZfBixSuj36fcxjUfg7Z/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmRtAXEovLQBsKpHUNPupjbyRA7KtHNXw1FMsXERhh6QFA/nft.mp4",
+  "tokenId": 694,
+  "chainId": "1",
+  "name": "THE JEWEL #694",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": " Brown Hessonite Garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Tantalum",
+      "trait_type": "Control device"
+    }
+  ]
+}

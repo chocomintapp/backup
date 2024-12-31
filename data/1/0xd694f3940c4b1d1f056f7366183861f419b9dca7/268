@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdAyZAwvZwnrsFLnmBgqfQsmnmpYJHGyTYgH4YXmkTyjg/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 268,
+  "chainId": "1",
+  "name": "February 9 ヒヤシンス（ピンク）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "月"
+    },
+    {
+      "value": "9",
+      "trait_type": "日"
+    },
+    {
+      "value": "楽しい毎日",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ヒヤシンス",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

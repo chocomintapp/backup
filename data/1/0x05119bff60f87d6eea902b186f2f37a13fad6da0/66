@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfYP6bcFy3Bm4DgHguCt7ciZ73aM6D2eg5hTbpTddChfA/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 66,
+  "chainId": "1",
+  "name": "POPET No.66",
+  "description": "【物語】本当の美しさは愛から生まれる。愛し愛されること。それが私の渇望。",
+  "attributes": [
+    {
+      "value": "女優",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "オペラハウス",
+      "trait_type": "origin"
+    },
+    {
+      "value": "聡明",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

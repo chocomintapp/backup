@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTnWo7My13qFu3LZCSbooEpoEbXwc1iUitJronzLfBeX1/nft.gif",
+  "nftContractAddress": "0x9dc339b235910416bcd9d4c5f3cba8bb481eea51",
+  "animationUrl": "https://ipfs.io/ipfs/QmTnWo7My13qFu3LZCSbooEpoEbXwc1iUitJronzLfBeX1/nft.gif",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "#001 Class1-A  Mayumi Chiyoda",
+  "description": "She is a cool reader.  \nA mysterious girl who is always by the window.  \n  \n--------------------  \n  \nクールな読書家でいつも窓際に居る不思議な女子。  ",
+  "attributes": [
+    {
+      "value": "Miyabi High School",
+      "trait_type": "School"
+    },
+    {
+      "value": "Class 1-A",
+      "trait_type": "Grade"
+    },
+    {
+      "value": "Health committee member",
+      "trait_type": "Role"
+    }
+  ]
+}

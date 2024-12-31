@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNqLu8mVFnnAGspShA9zMXnus68ahWL8oaYP87CXEWv7z/nft.png",
+  "tokenId": 7,
+  "description": "Hello. I am Sato Tanaka. #0006",
+  "nftContractAddress": "0xaca13a43a412eb5cc9b065607a2ef32b8c1b2a32",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "I am Sato Tanaka #0006",
+  "attributes": [
+    {
+      "trait_type": "I am",
+      "value": "#0006"
+    },
+    {
+      "trait_type": "CATEGORY",
+      "value": "Hero"
+    },
+    {
+      "trait_type": "HERO",
+      "value": "Speed Fighter"
+    },
+    {
+      "trait_type": "ITEM",
+      "value": "Cyber Punch"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Pink"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTSfb26PVbfoDAEPzV97tYf6V94jsXMZgr5F8864Zgpoq/nft.png",
+  "nftContractAddress": "0x32a939de2fd6d94bb904af1f82bb0a64d932c2a7",
+  "animationUrl": "https://ipfs.io/ipfs/QmfJDNMHhxFAVpBWP3VonDG8sWLpwHKDV5mXAsvoKJAMgm/nft.mp4",
+  "tokenId": 39,
+  "chainId": "1",
+  "name": "ATUM #039",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SKY ANTHONY1 × SHADIA",
+      "trait_type": "Type"
+    },
+    {
+      "value": "PINK×WHITE×BLACK",
+      "trait_type": "Color"
+    }
+  ]
+}

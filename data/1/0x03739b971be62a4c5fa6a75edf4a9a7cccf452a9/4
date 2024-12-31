@@ -1,0 +1,28 @@
+{
+  "image": "https://amethyst-rare-boar-467.mypinata.cloud/ipfs/QmUcodJG9RYJPmH4tAFgDa8JaWcTs5iUQqnwVNKaWR5Fa9?_gl=1*92slqk*_ga*MTgyNjQ2NTQ4NS4xNzA0NTUyNjcy*_ga_5RMPXG14TE*MTcwNDU1MjY3NC4xLjEuMTcwNDU1NDMxNy40NS4wLjA.",
+  "nftContractAddress": "0x03739b971be62a4c5fa6a75edf4a9a7cccf452a9",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "CoolGirl of the season #004",
+  "description": "A collection based on the concept of CoolGirlNFT and the seasons.\n  \nWe want you to feel different scenery with CoolGirl depending on the season.\n  \nCoolGirlNFT⇒ https://opensea.io/collection/coolgirlnft",
+  "attributes": [
+    {
+      "value": "Anime viewing",
+      "trait_type": "hobby"
+    },
+    {
+      "value": "004",
+      "trait_type": "No."
+    },
+    {
+      "value": "coming soon",
+      "trait_type": "season"
+    },
+    {
+      "value": "coming soon",
+      "trait_type": "seasonal"
+    }
+  ],
+  "minted": "✅"
+}

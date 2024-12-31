@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUw79vXS1GJBbwLKGoYy3B5zC1XqdcMKWW218jffs1siJ/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "Beach Borne Bae #52",
+  "description": "Beach Borne Bae #52\nInspired by Tambja sagamiana / サガミリュウグウウミウシ",
+  "attributes": [
+    {
+      "value": "Double Bun",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "T-shirt",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Green",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Sea Slug",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

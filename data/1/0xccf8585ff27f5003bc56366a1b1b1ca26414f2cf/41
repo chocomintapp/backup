@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXUNsw8KrdfAjmYZ2BgGSSYppjoKMsKz9wYtxsRSbaLhu/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 41,
+  "chainId": "1",
+  "name": "WEAR BEAR×NARAKU EX \"RUSSO BROTHERS\"PRISONER WEAR",
+  "description": "WEARBERA×NARAKU コラボ記念FAエクスクルーシブキャラクター。盗人を生業とするスラム出身のルッソ兄弟、ひょんなことからマフィアの犯した犯罪の濡れ衣を着せられ、奈落に収監されてしまった。組織への復讐を胸に脱走、脱出不可能とされる奈落からの脱走を試みる。武闘派な兄のJOEと、IQ160の弟ANTHONYの兄弟",
+  "attributes": [
+    {
+      "value": "Prisoner wear",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Prisoner wear",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Russo Brothers",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Exclusive",
+      "trait_type": "Type"
+    }
+  ]
+}

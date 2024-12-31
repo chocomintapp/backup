@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYekpFDERwM3ABV7hXKxZqEtrMeKYSxf6cPdQ55XGyd4D/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 269,
+  "chainId": "1",
+  "name": "February 10 ジンチョウゲ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "月"
+    },
+    {
+      "value": "10",
+      "trait_type": "日"
+    },
+    {
+      "value": "栄光と不滅",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ジンチョウゲ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

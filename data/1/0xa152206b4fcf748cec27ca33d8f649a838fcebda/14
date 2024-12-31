@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc6TfDpToW4BVcgmiB5zeyWSnZfjey4KeaCpE9gma3n86/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "Twitter LOVE",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "シャック",
+      "trait_type": "人物"
+    },
+    {
+      "value": "パーカー",
+      "trait_type": "服装"
+    },
+    {
+      "value": "オレンジ　サングラス",
+      "trait_type": "メガネ"
+    },
+    {
+      "value": "キャップ",
+      "trait_type": "アイテム"
+    }
+  ]
+}

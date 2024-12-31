@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNgMaLFNmJMUcw4JuoLcbLXSbdj8nAjAJ2rZbPNdcvMQr/nft.png",
+  "tokenId": 15,
+  "description": "",
+  "nftContractAddress": "0x73509e51e8fc20f58978a86206b7a225a5116ee6",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #15",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Side Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Scarlet"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Silver Peace"
+    },
+    {
+      "trait_type": "Neck",
+      "value": ""
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Heart Silver"
+    }
+  ]
+}

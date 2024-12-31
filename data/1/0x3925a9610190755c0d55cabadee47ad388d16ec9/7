@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX2UUA6JhS9jEFvVh1TBb5NGGNTQVmgZtMJDoPL33QayP/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "Xu Special Edition",
+  "description": "Neo Tokyo Punks × Ambitious One CityのSpecial Giveaway",
+  "attributes": [
+    {
+      "value": "UpGirl",
+      "trait_type": "CREATOR"
+    }
+  ]
+}

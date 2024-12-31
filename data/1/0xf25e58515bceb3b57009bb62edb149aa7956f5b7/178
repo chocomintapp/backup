@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc2EGTNAte6ED1cafMjjgtRy15whKN1WNCGeKHQ5mzNPM/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 178,
+  "chainId": "1",
+  "name": "ISABELLA",
+  "description": "■イサベラ",
+  "attributes": [
+    {
+      "value": "Ninja3-Black",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-Pink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Spring",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Mitama-nihility",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

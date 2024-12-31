@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRjM79ZRRP2448FkxPiFxQvQz3nN7vNWRnsM4wmPnUDpX/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 255,
+  "chainId": "1",
+  "name": "BECKY",
+  "description": "■ベッキー",
+  "attributes": [
+    {
+      "value": "Deep-Skyblue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open5",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Crying-P",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Matchingcloth-07",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Matchingcloth-07",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "LeeLee-Normal",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

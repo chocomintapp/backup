@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbfiuVo6fZUDqJBbkjTt5pbzez6ghdnsMsc99ULmzG99C/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 117,
+  "chainId": "1",
+  "name": "Mist",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "Aries",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

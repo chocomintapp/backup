@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPSBriqoMFPFaftY7z8eWmhN76pUj3fc7XXuSahK9vr7W/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 447,
+  "chainId": "1",
+  "name": "MUYANG",
+  "description": "■ムーヤン\n@alicelamart1　コラボ作品\nhttps://opensea.io/collection/cupdoll\n　",
+  "attributes": [
+    {
+      "value": "Bright-Orange",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sad",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-Pink",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "A cup of doll 4",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

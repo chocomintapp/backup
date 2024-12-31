@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmecvmsZgKEcocNLg2nTNJMTnnncWuWux4eD8orHRBVcMv/nft.png",
+  "nftContractAddress": "0xf80a5668e2d9104a3918dccc77ec37b44c0de79b",
+  "animationUrl": "https://ipfs.io/ipfs/QmecvmsZgKEcocNLg2nTNJMTnnncWuWux4eD8orHRBVcMv/nft.png",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "Bikkuri_Girl #010",
+  "description": "びっくりした仕草をしている女の子のコレクション第10弾です\n恋に落ちたのか、何か見つけたのか、何にびっくりしているか…捉え方はあなた次第！\n\nThis is the 10th collection of girls making surprised gestures.\nWhether they've fallen in love, found something, or are surprised by what... it's up to you!",
+  "attributes": [
+    {
+      "value": "Otoha",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "A class",
+      "trait_type": "CLASS"
+    },
+    {
+      "value": "Special",
+      "trait_type": "Super"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZkDjDMMpbsnYrjFBzqQdtMpozbfPyjTHT1JCzjSYDa5B/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 47,
+  "chainId": "1",
+  "name": "Beach Borne Bae #75",
+  "description": "Beach Borne Bae #75\nInspired by Yellowfin goatfish / アカヒメジ",
+  "attributes": [
+    {
+      "value": "Braids",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "T-shirt",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

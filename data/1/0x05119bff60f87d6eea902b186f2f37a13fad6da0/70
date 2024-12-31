@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdHATj55PPTc62Bz5MjoAxriWFFSFhVFhYqBdS3NfbDzQ/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 70,
+  "chainId": "1",
+  "name": "POPET No.70",
+  "description": "【物語】宇宙の神秘とつながっている。わたしは全てを見る。わたしは全てを知りえる。",
+  "attributes": [
+    {
+      "value": "占い師",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ダウンタウン",
+      "trait_type": "origin"
+    },
+    {
+      "value": "神秘",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPvcKTcezpkp9N7Jxtb95HMNkJc1SYrYmCJNJUUciBAyK/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 316,
+  "chainId": "1",
+  "name": "FUYORI",
+  "description": "■フヨリ",
+  "attributes": [
+    {
+      "value": "bubble2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Time",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Mix3",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Crying-P",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie3",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "LeeLee-Rainbow",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

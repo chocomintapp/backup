@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme4TBtizf8pZTFSWaEfYZTWvm7KhVJ9brMBuyFEhxkRDQ/nft.png",
+  "tokenId": 22,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #22",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream Polka dots"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Calico"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Silk Hat Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_1"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bell"
+    }
+  ],
+  "minted": "✅"
+}

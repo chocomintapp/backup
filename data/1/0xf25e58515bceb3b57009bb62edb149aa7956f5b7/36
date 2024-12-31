@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWPdpCvG3JFxt9vPD6VJcDPkABMN8Bju4pFAU5YpExegD/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "1",
+  "name": "AKO",
+  "description": "A genius with an IQ over 220 who lives to destroy the android group created by Judas.\n\nHe developed the MIRAKO suit based on technology he stole from a certain project, and created the Ako-Android Unit.\n\nshe has never lost a head-to-head battle, but he has never won a single rock-paper-scissors match.\n\n■アコ\nユダの作るアンドロイド集団を駆逐するのが、生き甲斐のIQ220超えの天才。\n\nとあるプロジェクトから盗んできた技術を参考にMIRAKOスーツを開発し、アコアンドロイド部隊を創設。\n\n頭脳戦では負けなしだが、ジャンケンは一度も勝ったことがない。",
+  "attributes": [
+    {
+      "value": "MIX3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Black",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin-Black",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-ZBlack",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-BBW",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "MIRAKO-Head-Akaoni",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

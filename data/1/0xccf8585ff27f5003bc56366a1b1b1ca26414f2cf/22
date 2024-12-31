@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZFkEYJPi3XEkNNnFdewS5BBrsWmAGsjfQohS8UyKokMx/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "WEAR BEAR #105 “PETER” ×”Jumbo” from TMA",
+  "description": "WEAR BEAR 第11弾はクールなTHE MAFIA ANIMALSとのコラボシリーズ！それぞれがMAFIA幹部の衣装をまとって登場！\n “PETER”は幹部NO.002 \"Jumbo\"の衣装で登場\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Black jacket & Stole",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Black pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Dress shoes",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Peter",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Pipe cigarette",
+      "trait_type": "Accessories"
+    }
+  ]
+}

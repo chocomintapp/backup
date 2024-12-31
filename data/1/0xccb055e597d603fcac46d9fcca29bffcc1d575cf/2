@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ9fDob3RbZoMx1f6s2fDYZYL5AAUV1MMt1zEd8dxARfs/nft.gif",
+  "tokenId": 2,
+  "description": "名前:彩風（あやかじ）風神の高校生\n\n彩風は風神をモチーフにしたキャラクターです。雷文と対になる存在。\n\nマイペースで、我が儘な性格。宿題などの面倒ごとは全部他人に押し付けちゃう。おんぶしてもらうのが大好き。ふわふわ浮いて友達を驚かしたり、悪戯したりしちゃうぞ！\n\nHujin is the Japanese word for wind god. He is the god who controls the wind.\n\nName: Ayakaji, a high school student of the Hujin.\n\nAyakaji is a character based on the Hujin. He is the counterpart of Raibun.\n\nHe has a self-paced, selfish personality. She pushes all the troublesome things like homework to others. She loves to be carried on her back. She floats around, scaring her friends and playing pranks on them!\n",
+  "nftContractAddress": "0xccb055e597d603fcac46d9fcca29bffcc1d575cf",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Hujin",
+  "attributes": []
+}

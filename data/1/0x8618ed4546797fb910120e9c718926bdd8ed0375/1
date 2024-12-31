@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVEnGNTNypAdhVMV6ThoCM1NqiYjJtmU1smSRqhiDCuro/nft.png",
+  "nftContractAddress": "0x8618ed4546797fb910120e9c718926bdd8ed0375",
+  "animationUrl": "https://ipfs.io/ipfs/QmbHfkAiFtZBC5id4sejbaHTRupokKfnDqz68iHPqiAYaP/nft.gif",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Tanukichi Voxel ",
+  "description": "One woman rides a blue bird and someday she will be flying over Japan and across the great ocean.\nWe are encouraged by the sight of her riding in a yukata against the world.\nBecause it is a person who has a stronger will than anyone else, and who thinks for the sake of others more than anyone else.\nBut just for today, it is for you.\nHappy birthday, Tanukichi.\n\nFrom my heart, for you\nVEN",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": "Voxel"
+    },
+    {
+      "value": "100",
+      "trait_type": "VEN"
+    },
+    {
+      "value": "100",
+      "trait_type": "Tanukichi"
+    }
+  ],
+  "minted": "✅"
+}

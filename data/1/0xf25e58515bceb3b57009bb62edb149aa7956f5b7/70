@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd4o4Pr8Mp1VH8wLqHD3piCaTKaxowpJbQRicnFevaGJ2/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 70,
+  "chainId": "1",
+  "name": "LAOLAO",
+  "description": "One of the Ashen who have been at war with the Meta since time immemorial.\n\nNeedless to say, he is a skilled fighter, but Lao Lao is also an expert at brewing tea and coffee.\n\nHe can make any cheap item taste as deep and rich as a high quality product.\n\nLao Lao runs more than 100 tapioca shops around the world.\n■ラオラオ\n\n太古からメタ族と戦争状態の灰人の一人。\n\n戦闘能力の高さは言うまでもないが、ラオラオははお茶やコーヒーを淹れるのが得意。\n\nどんな安物も高級品のような奥深い味わいを出させる。\n\nラオラオが経営するタピオカ屋は世界に100店舗以上ある。",
+  "attributes": [
+    {
+      "value": "Fullmoon",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-White",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-ZombieAllwhite",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "LoliFoodie-White",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-RED",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dominion",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Silver",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Asiatic peoples",
+      "trait_type": "TYPE"
+    }
+  ]
+}

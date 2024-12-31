@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQWcWWaYPkKEcJgmept1oBE7TQEjnWFztWX1HS7XExwVa/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "1",
+  "name": "Organic Doge Mining",
+  "description": "File: PNG  \nSize: 2048x2048  \nTotal supply: 1  \nApproximately 14 million Dogecoins are mined per day. If it is done inorganically, it happens on its blockchain. If organically, whereas, it would happen in this way.  ",
+  "attributes": [
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "Face",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "Mini",
+      "trait_type": "genaration"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

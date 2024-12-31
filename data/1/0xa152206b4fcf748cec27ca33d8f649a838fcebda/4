@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRAZxD5KPaQz19GsAQvi6BU2HDj7paYHmhXDMHpnGHo9y/nft.jpeg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "OYAZI ",
+  "description": "ビッグショート",
+  "attributes": [
+    {
+      "value": "エレン",
+      "trait_type": "人物"
+    },
+    {
+      "value": "学ラン",
+      "trait_type": "服装"
+    },
+    {
+      "value": "ウェリントン型",
+      "trait_type": "メガネ"
+    },
+    {
+      "value": "🖕",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

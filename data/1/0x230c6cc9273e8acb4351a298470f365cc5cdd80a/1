@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf7y3Zstdi3AK7b5s1exzDg1h84WUhHTYJgrz9TJ3TSt6/nft.png",
+  "nftContractAddress": "0x230c6cc9273e8acb4351a298470f365cc5cdd80a",
+  "animationUrl": "https://ipfs.io/ipfs/Qmf7y3Zstdi3AK7b5s1exzDg1h84WUhHTYJgrz9TJ3TSt6/nft.png",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "朱 #000",
+  "description": "vermilion that represents the color of life",
+  "attributes": []
+}

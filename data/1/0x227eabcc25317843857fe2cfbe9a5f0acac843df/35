@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmauM4DewwYonREF8weKN89vfKVgPGii6drVkP5BdaWDug/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "1",
+  "name": "Beach Borne Bae #63",
+  "description": "Beach Borne Bae #63\nInspired by Blackfringe bigeye / ミナミクルマダイ",
+  "attributes": [
+    {
+      "value": "Medium Bob",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Turtleneck",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Green",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

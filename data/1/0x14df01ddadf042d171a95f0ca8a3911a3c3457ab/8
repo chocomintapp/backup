@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU1kmyyQBG1g9PQAqT7DTfwuMi8yD3qvF94TvMo4HPwkD/nft.gif",
+  "nftContractAddress": "0x14df01ddadf042d171a95f0ca8a3911a3c3457ab",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "#8",
+  "description": "ででんでんでででん👍",
+  "attributes": [
+    {
+      "value": "T-563",
+      "trait_type": "Head"
+    },
+    {
+      "value": "T-563",
+      "trait_type": "Face"
+    },
+    {
+      "value": "T-563",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "T-563",
+      "trait_type": "Job"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZRGayT9i1G6pHafEqCrCreLjb6FZHYiK9nhHNUoNP3Q1/nft.png",
+  "nftContractAddress": "0xeb10ee7e885623f3f6835c531491940beb801737",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "#006-Kermit Chair",
+  "description": "CoolGirl Campers #006のPFP用NFT。お気に入りギアは「カーミットチェア」。",
+  "attributes": [
+    {
+      "value": "Kermit Chair",
+      "trait_type": "Favorite"
+    },
+    {
+      "value": "Paint",
+      "trait_type": "Hobby"
+    }
+  ]
+}

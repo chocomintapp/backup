@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV1dSxTq3gfLugY5qtMcr1mZG9Yr1sY72c9eG68SCCyuk/nft.png",
+  "nftContractAddress": "0x2591dba17657edbd1e008e2e18c3ed3723bf5403",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Fungi Girl #5",
+  "description": "Mushroom, Female, Fungi Girl, Cute, AI Art, AI Drawing",
+  "attributes": [
+    {
+      "value": "Orange",
+      "trait_type": "Colors"
+    },
+    {
+      "value": "Mushroom Tree",
+      "trait_type": "Background type"
+    }
+  ]
+}

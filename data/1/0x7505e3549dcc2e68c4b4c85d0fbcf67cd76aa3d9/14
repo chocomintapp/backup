@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQYCg5pefmkJ92WKY1kC3snCQpWx2XUapjpk7ZwNG9i7A/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "わくわくくんの1日 Wakuwaku-kun Day #215",
+  "description": "今日外に出かけたら、\nこんなものがあるんだろうとかんがえてるの。\n\nそれが、おなかにでちゃうの。\nこの子はロボットなの。\n\nこころに思ったことがおなかにえいぞうで出ちゃうけどへいきなの。\n見られてもだいじょうぶ。\n\nともだちとケンカするとか、あそばないとかは一生ないの。\n\nロボットだからでんきを入れてもらわないとうごかない。\n\nピンチになるとおなかに『でんちを入れてください』と出る。\n\nこころで思ったことがお腹の表示に出ちゃうの。\nトイレに行きたいとか。\nロボットだけどおしりからトイレがでるよ。\n\nくまだからなつにかつやくするよ。\n人のきもちもわかるから、\n◯◯くんがおなかがいたいですとか、\nひょうじしておしえてくれるよ！\n\n☆小学2年生15番目の作品なので215のナンバーをふりました♪\n\nA day in the life of Wakuwaku-kun.\n\nThis child is thinking, \"If I go out today, this is what will happen.\"\n\nThat's what it shows in its tummy.\nHe is a robot.\n\nBecause he is a robot, he needs electricity to move.\n\nWhen he is in a pinch, his tummy displays the message, \"Please put electricity in me.\n\nIt also shows that he needs to go to the bathroom.\nIt's a robot, but it has a toilet that comes out of its buttocks.\n\nHe's a bear, so he can play in the summer.\n\nHe understands how people feel.\nIt can tell you things like, \"◯◯ has a tummy ache.\nand so on!\n\n\nThis is the 15th work in the second grade of elementary school, so I put the number 215 on it.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Animal",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Bear",
+      "trait_type": "Animal Type"
+    },
+    {
+      "value": "Kawaii",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Color"
+    }
+  ]
+}

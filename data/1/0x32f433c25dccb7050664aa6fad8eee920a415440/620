@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcnTL1hSiav3wZWUiQeucpDFg5yZf1fE17PcRwNYdP4W2/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWYrkmefBRyT71mZW9ky3bSC227Q4GrA4HdtyoNxrLzMa/nft.mp4",
+  "tokenId": 620,
+  "chainId": "1",
+  "name": "THE JEWEL #620",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Pink Mystic Topaz",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Control device"
+    }
+  ]
+}

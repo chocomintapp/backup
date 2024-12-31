@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbKt2XpkP7azZV7Q9X7iyUNrL2XSNYT54co1RXthL8CqT/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "June 1 レディースマントル",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "1",
+      "trait_type": "日"
+    },
+    {
+      "value": "ファッション",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "レディースマントル",
+      "trait_type": "花"
+    }
+  ]
+}

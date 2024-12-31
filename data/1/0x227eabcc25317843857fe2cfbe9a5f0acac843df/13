@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX3JMT8eVMsLfREspZ6AtVvyDR2DnQwK4wLywtTYb4pGn/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "Beach Borne Bae #41",
+  "description": "Beach Borne Bae #41\nInspired by Noble scallop / ヒオウギガイ",
+  "attributes": [
+    {
+      "value": "Short",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "School girl",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Orange",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Shellfish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

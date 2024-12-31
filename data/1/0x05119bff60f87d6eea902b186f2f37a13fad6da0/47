@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ6aLUo1iCnDw9ejNLWNXLyZSKXANv52FNdAjWvpwnRLt/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 47,
+  "chainId": "1",
+  "name": "POPET No.47",
+  "description": "【物語】\n秘密結社POPEXの参謀担当。空を自由に飛ぶことができる。「僕の計算によると、あの木にぶつかる確率は90%」",
+  "attributes": [
+    {
+      "value": "POPEX",
+      "trait_type": "job"
+    },
+    {
+      "value": "skill",
+      "trait_type": "skill"
+    },
+    {
+      "value": "秘密基地",
+      "trait_type": "origin"
+    },
+    {
+      "value": "インテリ",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

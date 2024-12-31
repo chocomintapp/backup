@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPHqAzVteAtEHvw2GjJx6zDBMuCuBdWkNPxkfwUQZ7RrQ/nft.png",
+  "nftContractAddress": "0x66029ef4f80ec33d290e2151dcd393c064c3794e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Pablo Schizo",
+  "description": "outsider art perchieving from schizophrenia collaborating with AI",
+  "attributes": []
+}

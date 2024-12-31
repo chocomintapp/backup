@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVf8PdmWFuc7ZZMePYqqzaxnXy43BjLN1viuw4yMUxHc1/nft.png",
+  "nftContractAddress": "0xc7d00cb7b91f8dd5b70d3be1e7b403d6d8a4e842",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "AstroGucchi",
+  "description": "AstroOTTO 2001は、「HOPE」をテーマにした2001体の宇宙開拓民（AstroOTTO）のPFPNFTアートコレクションです。AstroOTTO 2001 is a PFPNFT art collection of 2001 space pioneers (AstroOTTO) with the theme 'HOPE'.",
+  "attributes": [
+    {
+      "value": "NONE",
+      "trait_type": "BACKITEM"
+    },
+    {
+      "value": "Fire planet",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Boss",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Tousled",
+      "trait_type": "HELMET"
+    },
+    {
+      "value": "Reggaemodel",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Army",
+      "trait_type": "SPACE SUIT"
+    }
+  ]
+}

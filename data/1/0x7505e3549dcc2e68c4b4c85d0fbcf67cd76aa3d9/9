@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVonSe8THJBmqxtitLpn4SMMo2vjjMVDZAyxD37SDBySL/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "Rainbow Color Fish にじいろのさかなさん #212",
+  "description": "この子はずっとずっとずっとねがっていました。\n空を見てみたいし、\nまちを見てみたい、とんでみたかった。\n\nゆめがいっぱいあった。\nおたんじょう日のときにかないました。\n\nいつもいつもずっとずっとずっと思っていたらなれました。\n\nそしてしんかしました。\nつづきは「はねのついたさかなさん」です。\n\n☆小学2年生12番目の作品なので212のナンバーをふりました♪\n\nThis child has been longing for a long, long time.\nHe wanted to see the sky, the city, and fly.\n\nShe had so many dreams.\nOn her birthday, it came true.\n\nI thought about it all the time, all the time, all the time, all the time, and it came true.\n\nAnd then she evolved.\nTo be continued: \"Winged Fish\".",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Rainbow",
+      "trait_type": "Color"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Kawaii",
+      "trait_type": "Category"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc84CLESrL9mjBZSqyypAGnwT898GfEebjjQVGDZt4pqa/nft.JPG",
+  "tokenId": 4,
+  "description": "This is the collectors token for the owners of the Alibaba NFTs that we released in 2021. This is a first edition of 5 tokens",
+  "nftContractAddress": "0xa1b5e0298e25e4ecdfd50a050dfaccb720ae8735",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc84CLESrL9mjBZSqyypAGnwT898GfEebjjQVGDZt4pqa/nft.JPG",
+  "chainId": "1",
+  "name": "100 Dreams 4/5",
+  "attributes": []
+}

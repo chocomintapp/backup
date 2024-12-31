@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeUBdFkjL2M119JDv4QB7KcsFSqfXsJao3iMDUgHF8j1R/nft.JPG",
+  "tokenId": 3,
+  "description": "Autumn is my favorite season!\n\nThe colors and all the great foods that come with it as well.\nOriginally sold together with the painting\nPainted 2020\nKrs",
+  "nftContractAddress": "0x2e863f367a0888bec358e834cd7592084bf86876",
+  "animationUrl": "https://ipfs.io/ipfs/QmeUBdFkjL2M119JDv4QB7KcsFSqfXsJao3iMDUgHF8j1R/nft.JPG",
+  "chainId": "1",
+  "name": "Autumn Leaves",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

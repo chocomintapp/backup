@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmarfdo9j7yC6DZS1K18kuEJPzyBgQkNXSVY621ThKVAqH/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "Web3ならできる",
+  "attributes": [
+    {
+      "value": "ショータ",
+      "trait_type": "人物"
+    },
+    {
+      "value": "学ラン",
+      "trait_type": "服装"
+    },
+    {
+      "value": "Astar",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

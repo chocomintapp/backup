@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcvgtjJMnwXvfsqedkndP6FpxgUDMRG7UMQtVA3Lm8Qv4/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "MEIRIO",
+  "description": "A whiny girl with a sense of inspiration.\n\nSo psychic, she talks to ghosts and demons thinking they are real people.\n\nSometimes they become friends without realizing it.\n■メイリオ\n\n霊感強めの泣き虫な女の子。\n\nあまりにも霊感があるため、幽霊や悪魔を本当の人間だと思い話しかけてしまう。\n\nたまにそのまま気づかずに友達になることもある。",
+  "attributes": [
+    {
+      "value": "Deep-Skyblue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Star&tear4",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Purplepink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cry-Purple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Purpleblack",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Blue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Devil",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "HeadbandｰPP",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVJohjC7KRyzJvPUY9omQJpAsDA6eC221QswkdtsbKRGs/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x33ae0d5ffc3a11a0c07c0765aec892df864da95e",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "MAM #1",
+  "attributes": []
+}

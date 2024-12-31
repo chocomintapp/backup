@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZfqdV3gQTuDAEe3VmTiYJAsx8Wa872yGgpKR8Qregyqu/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 312,
+  "chainId": "1",
+  "name": "March 24 クロッカス",
+  "description": "",
+  "attributes": [
+    {
+      "value": "3",
+      "trait_type": "月"
+    },
+    {
+      "value": "24",
+      "trait_type": "日"
+    },
+    {
+      "value": "天真爛漫",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "クロッカス",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

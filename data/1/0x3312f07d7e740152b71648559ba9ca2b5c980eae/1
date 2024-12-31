@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRRAJFuoT3df9bYc6vUhFATVJeGWMEY17RzWwcwee66Se/nft.png",
+  "nftContractAddress": "0x3312f07d7e740152b71648559ba9ca2b5c980eae",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "sloth #643",
+  "description": "https://sloth-nft.life/api/sloths/643",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Pikapika",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Doya",
+      "trait_type": "EYE"
+    },
+    {
+      "value": "Boke-",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "Kiiro",
+      "trait_type": "PATTERN"
+    }
+  ]
+}

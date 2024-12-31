@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWN2AQWi2YBHUsVm1mQ4sqXbreu3afEWRWCQ237eyWEai/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 301,
+  "chainId": "1",
+  "name": "NAGOMI",
+  "description": "■ナゴミ",
+  "attributes": [
+    {
+      "value": "Cell division",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Blue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie2",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-red",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Mitama tomato-shock",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

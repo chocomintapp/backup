@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNU7fHEYYjKdG3V2McXXdDtzonTUosa2uKgKRssYPhFzN/nft.jpg",
+  "nftContractAddress": "0xb633dbee65f5f2218284c8d775f7efe33570179e",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Eggbird #015-Flying Narcissus Flycatcher",
+  "description": "Eggbird #015-Flying 『キビタキ』",
+  "attributes": [
+    {
+      "value": "Nature 野鳥",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Narcissus Flycatche　キビタキ",
+      "trait_type": "Species"
+    }
+  ]
+}

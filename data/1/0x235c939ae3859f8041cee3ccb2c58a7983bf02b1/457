@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRwAKrG23pVvYAEhFLEacF8j8LARsCDEZLXi1dtW4MrLY/nft.jpg",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 457,
+  "chainId": "1",
+  "name": "Werther",
+  "description": "New life born the coexistence with human and date. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.",
+  "attributes": [
+    {
+      "value": "Monster",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Close",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Plaid",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "3LOM",
+      "trait_type": "PROTO VALUE"
+    }
+  ]
+}

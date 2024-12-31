@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdrdznGWvLbZCaNviYSAVzWVrVUCRzYCsPuxXZZGCS2X1/nft.PNG",
+  "nftContractAddress": "0x1594692bac391779139492fd3fe8d96a7a044b0d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "sora's dream Kyo Maf edition",
+  "description": "A world of delusions and dreams of a young girl Sora. Individual characters appearing there. Each character has a unique name.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

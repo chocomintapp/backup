@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma4je6pbREMWPuSCunk7pAtL6FYfNJCAvJw5kk4eEsy3G/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "POPET No.22",
+  "description": "【物語】\n\nこの会社で僕は偉大なトップになるのさ。\n今はまだまだ始まったばかり。",
+  "attributes": [
+    {
+      "value": "ビジネスマン",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "オフィス",
+      "trait_type": "origin"
+    },
+    {
+      "value": "野心家",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

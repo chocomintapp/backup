@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf7W6abMYniVjHkpgDgy1roW2ZpQFBb8tm5BwXud2Du6R/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 276,
+  "chainId": "1",
+  "name": "February 17 ヒヤシンス（紫）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "月"
+    },
+    {
+      "value": "17",
+      "trait_type": "日"
+    },
+    {
+      "value": "悲哀",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ヒヤシンス",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

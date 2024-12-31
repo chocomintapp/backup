@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZg7Phcm4okvPgnF9TpuEXc7112xAxgpGa8AsHjFVahgH/nft.png",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "1",
+  "name": "Tokyo Expanding People 2099 #24 Liquid",
+  "description": "[En]\n\nLiquid.\n\nIt is an ambiguous state between gas and solid.\n\nModern humanity, which is immersed in the digital world day after day, resembles the expression of liquid on a computer.\n\nIn the real world, we are trapped by the constraints of time, and the liquid always changes form as the clock ticks forward.\n\nHowever, in digital representation, where time can be stopped through the use of simulation, it is possible to fix the liquid while maintaining its fluidity as a liquid.\n\nDoes it not feel as if the digital is tearing down the barriers between the metaphysical and the physical science?\n\n————————————————————————————————————————\n\n[日本語]\n\nLiquid。\n\nそれは気体と固体の中間である曖昧な状態。\n\n日々デジタルに漬け込む近代的人間らしさはコンピュータ上の液体表現に似ている。\n\n現実世界では時間という制約に囚われており時計の針が進むたびに液体は常に姿を変える。\n\nだがシュミレーションを用いて時間を制止することができるデジタル表現では、液体としての流動性を維持したまま固定することが可能である。\n\nデジタルは形而上、形而下の垣根を取り壊しているように感じないだろうか。\n",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Liquid"
+    }
+  ],
+  "minted": "✅"
+}

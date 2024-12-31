@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWmXWiFsvwBbq61SLA47ZL2Km7Gap3t2zZrDCV3k3GQCm/nft.jpg",
+  "nftContractAddress": "0xc698c3fefc643eb9de33258cf10314836eb6be14",
+  "animationUrl": "https://ipfs.io/ipfs/QmYXuW3D6KFCV4vZoguQeU3SZoYBAyTctyeYZiuiAARBiv/nft.glb",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "＃001 Fire Dragon [ Pottery ]",
+  "description": "[ Flame lily ]\nThe high heat of the fire that it spits out is a disaster for anyone who encounters it.\nThis dragon is called the Flame Lily because of its appearance of being engulfed in a terrifyingly beautiful flame.",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Dragon",
+      "trait_type": "Tribe"
+    },
+    {
+      "value": "Pottery",
+      "trait_type": "Base plate"
+    }
+  ]
+}

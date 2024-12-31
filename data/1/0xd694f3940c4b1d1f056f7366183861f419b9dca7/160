@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRTvaaZnUhiAuZfRi83fBK1c5bHHEoTtMGtBoDEr9HdzY/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 160,
+  "chainId": "1",
+  "name": "October 24 フェンネル",
+  "description": "",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "月"
+    },
+    {
+      "value": "24",
+      "trait_type": "日"
+    },
+    {
+      "value": "称賛",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "フェンネル",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

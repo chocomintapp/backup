@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTXTr8SQZ6XckWaUy3GnZ2NAL9cUC97sAYBKu1hmreT2U/nft.png",
+  "nftContractAddress": "0x2adb5dd5c06bc84abc3cd98f4e5e852fe4e613e0",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "Puzzle [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nPuzzle\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR]",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Black",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Checkeredot",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Sunglasses",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "ELIXIR",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

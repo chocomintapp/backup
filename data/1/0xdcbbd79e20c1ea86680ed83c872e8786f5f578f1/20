@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQbw9NAj66pw3tER2fRRcN2ptvudMeDsgmPHCyJrTmefu/nft.jpg",
+  "nftContractAddress": "0xdcbbd79e20c1ea86680ed83c872e8786f5f578f1",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "#17 VILLAINS BEAN THE SPIRIT OF LEAF",
+  "description": "Beans in 3D are here!! The second series is VILLAINS. They are MAMENGERS enemy.\nThis BEAN is The elite four of VILLAINS.\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "None",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Leaf symbol",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Spirit Rings",
+      "trait_type": "EAR ACCESSORY"
+    },
+    {
+      "value": "Spirit Rings",
+      "trait_type": "BODY ACCESSORY"
+    },
+    {
+      "value": "Elite Green",
+      "trait_type": "BODY COLOR"
+    },
+    {
+      "value": "Elemental Source",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "Forest Circle",
+      "trait_type": "ARTICLES"
+    },
+    {
+      "value": "Villains Sky V2",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

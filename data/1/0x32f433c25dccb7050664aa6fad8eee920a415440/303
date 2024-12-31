@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP7VfsPveUjjYAtsjruaZ37LmZrjqeJseAvVNWr6jVaBk/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc4pa9RCxgEDSaLs9G2JVBJpMjYhrCvZGAXWzDW9xkxhC/nft.mp4",
+  "tokenId": 303,
+  "chainId": "1",
+  "name": "THE JEWEL #303",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Blue Spinel",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

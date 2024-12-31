@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUBautmGY4Y2nav9ezpuaAvTVVpqYW5QiczxSDszQ41ay/nft.png",
+  "tokenId": 50,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #50",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Calico"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Ninja Costume"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_1"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "No Accessory"
+    }
+  ],
+  "minted": "✅"
+}

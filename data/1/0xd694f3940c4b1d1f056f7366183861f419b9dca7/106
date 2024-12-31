@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQPqY7vH4upBraoEGcuHANmVVUDHd6Gj2NZ3VWWubqbHz/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 106,
+  "chainId": "1",
+  "name": "August 31 コチョウラン",
+  "description": "",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "31",
+      "trait_type": "日"
+    },
+    {
+      "value": "幸福が飛んでくる",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "コチョウラン",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

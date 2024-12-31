@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUaXssExGGvaBkKjHmXDhj9ZQqqqEmP8WguhfZRksn381/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 351,
+  "chainId": "1",
+  "name": "May 2 チューリップ（白）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "2",
+      "trait_type": "日"
+    },
+    {
+      "value": "観察力",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "チューリップ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

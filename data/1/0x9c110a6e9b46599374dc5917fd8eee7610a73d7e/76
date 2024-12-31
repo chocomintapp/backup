@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS8co4cTnmJdNgGfuxj18e6QgHLynmcDjiKMH9U2aseD7/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 76,
+  "chainId": "1",
+  "name": "POCO_Penelope",
+  "description": "Penelope-Chan",
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Eccentric",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Splatter",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Undead",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVaDMzMBisiv1xg23vRwzF7vdrcQVQs3wEPaQDeLkuiZb/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "1",
+  "name": "Beach Borne Bae #70",
+  "description": "Beach Borne Bae #70\nInspired by Mushroom coral / ディスクコーラル",
+  "attributes": [
+    {
+      "value": "Short",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Overalls",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Coral",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

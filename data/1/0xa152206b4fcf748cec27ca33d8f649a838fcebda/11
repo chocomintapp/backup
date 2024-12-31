@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcNinY4TrqBycLwwCqxQcsT2dt2aPsnBiHnwG2ofztLw9/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "スマートなコントラクト",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "ヒダリック",
+      "trait_type": "人物"
+    },
+    {
+      "value": "ダークブラウンＴシャツ",
+      "trait_type": "服装"
+    },
+    {
+      "value": "イーサリアム",
+      "trait_type": "アイテム"
+    }
+  ]
+}

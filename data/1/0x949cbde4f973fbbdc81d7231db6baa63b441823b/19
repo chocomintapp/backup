@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVtJfKGxbKXmWnAwqQkcXvsTMn56aRMLdwU8TtQ85GkJv/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "TE #19",
+  "description": "",
+  "attributes": [
+    {
+      "value": "E",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "T",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "E",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "te",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW3MnHmAUpasqEdiEJF3Dct8A1KDBjKQDf6zYQgFK89mH/nft.jpg",
+  "nftContractAddress": "0x8e8323661a43e09abe7640479e561318a31c51fe",
+  "animationUrl": "https://ipfs.io/ipfs/QmW3MnHmAUpasqEdiEJF3Dct8A1KDBjKQDf6zYQgFK89mH/nft.jpg",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "PFP2",
+  "description": "Illustration",
+  "attributes": []
+}

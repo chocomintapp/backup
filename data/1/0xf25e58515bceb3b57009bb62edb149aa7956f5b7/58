@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYFqxwxoWruPLyb3VsoimthYKWAt41pwGhCcbnsVWJnpx/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 58,
+  "chainId": "1",
+  "name": "BILBIO",
+  "description": "BILBIO is a curious N'mou tribe member.\n\nShe is so curious that he once traveled halfway around the world in pursuit of a rare butterfly.\n\nRecently, he has learned to invest in stocks and has put all her money into it.\n■ビルビオ\n\n好奇心旺盛な”ン・モウ族”のBILBIO。\n\n好奇心が旺盛すぎて、珍しい蝶々を追いかけて地球を半周したこともある。\n\n最近では株式投資を憶えて、全財産を投入している。",
+  "attributes": [
+    {
+      "value": "Deep-Skyblue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Ponytail-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Shine-Orange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-YO",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Cat",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Orange",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

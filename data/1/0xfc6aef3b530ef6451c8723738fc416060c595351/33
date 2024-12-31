@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf92gwg1p4W7iRXCMzT9Shku4qL4LjLaXqaQqRcBpxcAs/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "1",
+  "name": "Doge Came, Doge Saw, Doge Selfied on the Moon",
+  "description": "File: PNG  \nSize: 2048x2048  \nTotal Supply: 1  \nWhile humans drag their feet, Doge has already landed on the Moon.",
+  "attributes": [
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "w/ body",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "Mini",
+      "trait_type": "genaration"
+    },
+    {
+      "value": "Fisheye Lens",
+      "trait_type": "Camera"
+    }
+  ]
+}

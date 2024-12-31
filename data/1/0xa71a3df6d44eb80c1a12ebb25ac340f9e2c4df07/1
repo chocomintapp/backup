@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNPQNHk7rwFDyC3CJX54bpotBBUqWQjnA9rjuv9TqHp4A/nft.mp4",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xa71a3df6d44eb80c1a12ebb25ac340f9e2c4df07",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "NFT COMIC",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

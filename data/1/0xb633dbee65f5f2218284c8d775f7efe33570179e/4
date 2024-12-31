@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmece8mBuUnDXLouqb6Lc52DxViMD5eu4yj56gDB5i6ZGA/nft.jpg",
+  "nftContractAddress": "0xb633dbee65f5f2218284c8d775f7efe33570179e",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Eggbird #046 Spot-billed duck ",
+  "description": "Eggbird #046 『カルガモ』\n",
+  "attributes": [
+    {
+      "value": "Nature 野鳥",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Duck カモ",
+      "trait_type": "Species"
+    }
+  ]
+}

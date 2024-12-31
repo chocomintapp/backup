@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWjZXm5M74XifecUP49oaTrAgGKaSgQGFzqxKaew2RvGY/nft.jpg",
+  "nftContractAddress": "0x0e801ee8706f41ca3b1b98571eb1312c7fc32482",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "malaise",
+  "description": "Illustrations are created using AI from the original shooting data.",
+  "attributes": []
+}

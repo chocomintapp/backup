@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXsM9pazwSf9RVNAtJ98j22udc2ZKhM3r61ybNs2w2Uc6/nft.jpg",
+  "tokenId": 1,
+  "description": "日本のクリプトアーティストmera takeru (メラ タケル)による４コマ漫画。",
+  "nftContractAddress": "0xd8f511d8870f3a34eb156c205583f6de61dd6d97",
+  "animationUrl": "https://ipfs.io/ipfs/QmXsM9pazwSf9RVNAtJ98j22udc2ZKhM3r61ybNs2w2Uc6/nft.jpg",
+  "chainId": "1",
+  "name": "SHIRLEY #1",
+  "attributes": [
+    {
+      "trait_type": "Episode",
+      "value": "#1"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaJHDh4M4E9CVgMWiq9obYA8WFX48ogsr16CH56YKGHKm/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "1",
+  "name": "#037-Kagawa-",
+  "description": "#037-Kagawa-",
+  "attributes": [
+    {
+      "value": "Aqua",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Shikoku",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Kagawa",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

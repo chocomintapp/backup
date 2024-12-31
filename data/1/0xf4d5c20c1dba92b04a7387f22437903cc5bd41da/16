@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWMYvfQDDpsytLp4FgxXmY27Rt4v1nETcF4ULL67WK7D5/nft.png",
+  "tokenId": 16,
+  "description": "She is #pict_chan dressed as a witch. She's always flying with her buddy the cat.",
+  "nftContractAddress": "0xf4d5c20c1dba92b04a7387f22437903cc5bd41da",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#pict_chan_14_witch",
+  "attributes": [
+    {
+      "trait_type": "#pict_chan",
+      "value": "owner"
+    }
+  ]
+}

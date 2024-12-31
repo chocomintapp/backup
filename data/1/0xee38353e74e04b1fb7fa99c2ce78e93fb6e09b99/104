@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfXmhrdMnaCjUVBy9YUe69WMMMwtar56WerHd7xP2bSZH/nft.png",
+  "nftContractAddress": "0xee38353e74e04b1fb7fa99c2ce78e93fb6e09b99",
+  "animationUrl": "",
+  "tokenId": 104,
+  "chainId": "1",
+  "name": "#0104 Series002 Secret",
+  "description": "未来の自律型電脳ゲーミングPC『Chirobo.』\n   \nPortable Network Graphics       \n2048×2048px",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Series 002",
+      "trait_type": "Series"
+    },
+    {
+      "value": "Secret",
+      "trait_type": "Category"
+    },
+    {
+      "value": "CircleIndustry type A",
+      "trait_type": "CPU"
+    },
+    {
+      "value": "DeltaTechnology type A",
+      "trait_type": "GPU"
+    },
+    {
+      "value": "CircleIndustry type A",
+      "trait_type": "RAM"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Magenta×Cyan",
+      "trait_type": "LED"
+    }
+  ]
+}

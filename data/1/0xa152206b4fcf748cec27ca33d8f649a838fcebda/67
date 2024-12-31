@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXQ5abH5PzAgLF46NCXxuZfGS2JVDvCGEqX9N7sH5cFgu/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 67,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "　wwwww",
+  "attributes": [
+    {
+      "value": "お猿さん",
+      "trait_type": "人物"
+    },
+    {
+      "value": "学ラン",
+      "trait_type": "服装"
+    },
+    {
+      "value": "Bitcoin",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

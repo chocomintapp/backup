@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdJ4nDFadEEHNryUbknninfgR4wudVveJgNvbSf9viAnz/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "THS #042",
+  "description": "【時】",
+  "attributes": [
+    {
+      "value": "butterfly",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "snake",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "winter cherry",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

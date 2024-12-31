@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmekX1bmLfYCFvnFBxDbBpm7cfmpecPvUbDBScHDpEGpaQ/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 242,
+  "chainId": "1",
+  "name": "POYEL",
+  "description": "■ポエル",
+  "attributes": [
+    {
+      "value": "MIX4",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Tail-Blue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Zombieyellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Maid robot(G)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "The Greens zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

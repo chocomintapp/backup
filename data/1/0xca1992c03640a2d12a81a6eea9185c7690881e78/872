@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmab3i9b259uPeXpREj4ViUrSR3knYPAuwwFZAHuXECCRm/nft.png",
+  "tokenId": 872,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #872",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Pocky"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Round"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Yellow Rose"
+    }
+  ]
+}

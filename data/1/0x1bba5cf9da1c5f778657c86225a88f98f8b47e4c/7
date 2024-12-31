@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXag2zp85HCNxVc5okhxrifmiM7w49mQdUQ9yCq7KWs2Y/nft.png",
+  "nftContractAddress": "0x1bba5cf9da1c5f778657c86225a88f98f8b47e4c",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "#016 Tim Barista",
+  "description": "This is Tim the barista.\nHe makes a good cup of coffee for everyone to relax.\nHowever, as a caveat, Tim has a cat tongue, so he can't drink hot coffee.",
+  "attributes": [
+    {
+      "value": "Tim",
+      "trait_type": "CHARACTER"
+    },
+    {
+      "value": "Job",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Barista",
+      "trait_type": "JOB"
+    }
+  ]
+}

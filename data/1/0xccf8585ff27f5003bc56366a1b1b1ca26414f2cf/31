@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSTNzqUZ4fD5xF4PFMt1QW3vErjv1Vb1eUBky8ZCMH15m/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "1",
+  "name": "WEAR BEAR #112 “TONY” BLACK DOT DOWN JK",
+  "description": "WEAR BEAR 第12弾はHIP HOPクルー“BEAR HOP”として音楽シーンに鮮烈デビュー！オールブラックコーデでクールに登場\n“TONY”は”BEAR HOP”オフィシャルFOODIEにドット柄のダウンジャケットで登場\n",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "“BEAR HOP” Foodie & Dot downjacket",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Black Trousers",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "“MIKE” Bear force 1",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": " Light Blue",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Tony",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Microphone",
+      "trait_type": "Accessories"
+    }
+  ]
+}

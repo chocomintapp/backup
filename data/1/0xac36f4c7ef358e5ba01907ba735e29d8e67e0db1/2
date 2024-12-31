@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdwmTSGC5ssC1Z6iD8ss6pZXd85Dhen6ca5CeyLM3Hvy9/nft.jpg",
+  "nftContractAddress": "0xac36f4c7ef358e5ba01907ba735e29d8e67e0db1",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Hina",
+  "description": "",
+  "attributes": [
+    {
+      "value": "helmsman",
+      "trait_type": "POSITION"
+    },
+    {
+      "value": "kemomimi",
+      "trait_type": "TEAM"
+    }
+  ]
+}

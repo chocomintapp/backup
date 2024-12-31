@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXkrBu1gxFszLXHVEH8LqHpQFBFqSLHwsNq3ux97etQSq/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "WEAR BEAR #098 “SAM” FOODIE&BULLDOG ",
+  "description": "WEAR BEAR 第10弾は原点であるFOODIEをオーソドックスにスタイリングしたベア達がなんとお供を連れて登場！\n“SAM”はイエローのBEAR FOODIEを着用し、BUDDYのラッパーブルドッグくんと登場\n",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "“PLAY BEAR” Foodie ",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "“addios”Jersey",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "“addios”EASY BOOST",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Type "
+    },
+    {
+      "value": "Sam",
+      "trait_type": "Model "
+    },
+    {
+      "value": "Bulldog",
+      "trait_type": "Buddy"
+    }
+  ],
+  "minted": "✅"
+}

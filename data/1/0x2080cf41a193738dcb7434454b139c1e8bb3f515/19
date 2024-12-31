@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQoiYdwmJaaHtAzRDrUVPZHMfQuvY5koj27A5FqB2CrDa/nft.png",
+  "tokenId": 19,
+  "description": "\"RedCap\" = \"Mummy\" x \"Goblin\" Wicker Funahashi\n「レッドキャップ」メイン種族マミー、サブ種族ゴブリン。名前はウィッカー舟橋。\n\nレッドキャップは、赤い帽子をかぶった悪鬼。極めて残虐な妖精で、赤い帽子は犠牲者の血で染められているという。聴覚が異常に発達しており、明かり一つ無い暗闇の中でも獲物の位置を特定できる。人間に対して非常に敵対的なので、育成の際はブリーダーとレッドキャップの二人きりにならないよう注意しよう。\n\n\"RedCap\" is an evil demon wearing a red hat. They are said to be an extremely cruel fairy, and their red hat is dyed with the blood of their victims. With its unusually developed sense of hearing, it is able to locate its prey even in the darkest of nights. They are very hostile to humans, so be careful not to turn your back on \"RedCap\" when training them.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#044 \"RedCap\" Wicker Funahashi",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Mummy"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Goblin"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

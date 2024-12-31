@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSmb1FM98WoSMhvbV78YJofXpzFbWXpFCC1L9EHxJ2Bu2/nft.png",
+  "tokenId": 1207,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1207",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Bluish White"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Pale Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Faint Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Pearl Studs"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Bit Coin"
+    }
+  ]
+}

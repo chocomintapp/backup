@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXhkJCwNNQSJA3SwS4qjiFjKHXR6V4pMgCSxbv2vdYpWn/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmYNESffRQJeui2HtVkPdMmRRFir2o8fS5jbSLETCMqos3/nft.mp4",
+  "tokenId": 91,
+  "chainId": "1",
+  "name": "THE JEWEL #091",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Jadeite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "bronze",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

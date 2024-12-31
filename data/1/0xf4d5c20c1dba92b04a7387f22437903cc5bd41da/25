@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdjJD3AYgo2d36BXyienZWPGpLSKYSvL3Z1uQbmDMikwC/nft.png",
+  "tokenId": 25,
+  "description": "She is #pict_chan dressed as a robot. She's a humanoid weapon with the latest AI.",
+  "nftContractAddress": "0xf4d5c20c1dba92b04a7387f22437903cc5bd41da",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#pict_chan_23_robot",
+  "attributes": [
+    {
+      "trait_type": "#pict_chan",
+      "value": "owner"
+    }
+  ]
+}

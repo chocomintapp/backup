@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUXTLusVdnYCnkXWA6mSV4WuaQBfPokRuTGcS5K9yTFaM/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 529,
+  "chainId": "1",
+  "name": "SERENA",
+  "description": "■セレーナ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Pink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "pankopa-Tshirt1",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "sheeeeneko2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "blueglass",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPv5t5EjD1aqzYBqu88mNx6TBEHFHxQyo2YNyg6ujLdWF/nft.jpeg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "OYAZI ",
+  "description": "ばね指",
+  "attributes": [
+    {
+      "value": "ジュウゾウ",
+      "trait_type": "人物"
+    },
+    {
+      "value": "非売品",
+      "trait_type": "super rare"
+    },
+    {
+      "value": "学ラン",
+      "trait_type": "服装"
+    },
+    {
+      "value": "ゴルフクラブ",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "BitCoin",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

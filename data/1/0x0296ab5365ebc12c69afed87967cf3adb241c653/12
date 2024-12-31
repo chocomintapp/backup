@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfYiPYzdmfjRcr32fNx8vzwffRX5Pz4DDydrubcAkqrYk/nft.jpg",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "天音[Amane]",
+  "description": "「大丈夫ですか、ここは危険ですので早くお戻りくださいね」\n\nあれは、天女にも出会ったのだろうか。寒い雪空の下、突然天使に出会った。\n\nあまりの可愛さに意識を失ってしまっていたのかもしれない。\n\n結局、それ以来彼女の姿は見ていない。",
+  "attributes": [
+    {
+      "value": "雪",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

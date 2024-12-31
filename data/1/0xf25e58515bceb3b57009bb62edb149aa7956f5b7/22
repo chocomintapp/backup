@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme2M9KZ2L6BBjjhtUrrM9k49bXjh1kQg4gnmRULFKR29D/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "JENNY",
+  "description": "A girl who longs to be an android.\n\nShe asked Judas to modify her, but he refused, so she painted No. 2 on her face and pretended to be an android.\n\nHe always comes home late at night from club activities, so he often gets tangled up with drunken old men.\n■JENNY\n\nアンドロイドに憧れてる少女。\n\nユダに改造してもらおうとお願いするが、断られてしまったため自ら顔に2番のペイントをしてアンドロイドのフリをしている。\n\nいつも部活動で夜遅く帰るため、酔っ払いのオジサンに絡まれることが多い。",
+  "attributes": [
+    {
+      "value": "Dot4",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.2",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Purple",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Yellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-PU",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Businessperson",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "EyeBall1",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

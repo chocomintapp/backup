@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU3ycvmZKWstcnkQZwQx71S78jXqC24gPMbq9yX6PDByM/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "1",
+  "name": "MIREI",
+  "description": "In his previous life, he was a human who wanted to have a kawaii face and practiced duck mouth.\n\nShe has loved saury since she was a child and decided to become a fisherman, but she has been fired from her job more than 10 times because she could not get up in the morning.\n\nBy the way, her hobby is visiting supermarkets.\n■ミレイ\n\n前世はカワイイ顔になりたくてアヒル口の練習をしていた人間。\n\n小さい頃からサンマが大好物dえ、漁師になることを決意するが、朝起きれなくて10回以上仕事をクビになっている。\n\nちなみに彼女の趣味はスーパーマーケット巡り",
+  "attributes": [
+    {
+      "value": "Night",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Duckstyle-P",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Mix4",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-ALLPink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Atype",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Duck Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

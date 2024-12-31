@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQBKmsPRM4LWsJpiYq43Gcct9oJqRDwhCyKSyLrSGDRk8/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "WEAR BEAR #102 “TONY” ×”J” from TMA",
+  "description": "WEAR BEAR 第11弾はクールなTHE MAFIA ANIMALSとのコラボシリーズ！それぞれがMAFIA幹部の衣装をまとって登場！\n “TONY”は幹部NO.042 \"J\"の衣装で登場\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "\"BEAR GOOSE\" DOWN JACKET",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Cold weather pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Snow boots",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Tony",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Sunglasses",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

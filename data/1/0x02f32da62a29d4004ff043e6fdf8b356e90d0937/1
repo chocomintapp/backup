@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWaQeQcBD1F6bHF5zyKmNUibP7nmEc7FZcjWXWrNsUBNz/nft.mp4",
+  "tokenId": 1,
+  "description": "The first in the Crypto Pair Planet series.\n\nA new world created by Cryptocurrency.\nThere is a new metropolis built by Cryptocurrency.",
+  "nftContractAddress": "0x02f32da62a29d4004ff043e6fdf8b356e90d0937",
+  "animationUrl": "https://ipfs.io/ipfs/QmWaQeQcBD1F6bHF5zyKmNUibP7nmEc7FZcjWXWrNsUBNz/nft.mp4",
+  "chainId": "1",
+  "name": "Crypto Pair Planet No.001 ETH/BTC"
+}

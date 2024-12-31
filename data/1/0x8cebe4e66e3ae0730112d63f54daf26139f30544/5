@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS533Ji7DNsNcosxXuxSbGQjQoLYYYRZkwM8mE3GhTRhX/nft.png",
+  "tokenId": 5,
+  "description": "",
+  "nftContractAddress": "0x8cebe4e66e3ae0730112d63f54daf26139f30544",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "CryptoSisters #5",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "CHARACTER",
+      "value": "Bit Coin"
+    },
+    {
+      "trait_type": "PRICE",
+      "value": "Flat"
+    }
+  ]
+}

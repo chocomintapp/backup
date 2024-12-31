@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUG6A3ogNLNA8cADpeM833DvEF9o6XCAZaguUpNVQtNsb/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmSi5KqgYuSF4ubMSLZrvKzdFNryeZDsNuUqp1tUi41nWH/nft.mp4",
+  "tokenId": 699,
+  "chainId": "1",
+  "name": "THE JEWEL #699",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Zircon",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

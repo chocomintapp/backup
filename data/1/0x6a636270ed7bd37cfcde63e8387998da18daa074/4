@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcy6yX9LrJcZHTsfYKRJrcozmP1Cm2N6XUhf3CdnFYfvm/nft.jpg",
+  "tokenId": 4,
+  "description": "A fox with the authority of a tiger.\nWho is the stronger, the tiger or the fox?\n\n虎の威を借る狐。\n虎と狐、強者は果たしてどちら？",
+  "nftContractAddress": "0x6a636270ed7bd37cfcde63e8387998da18daa074",
+  "animationUrl": "https://ipfs.io/ipfs/Qmcy6yX9LrJcZHTsfYKRJrcozmP1Cm2N6XUhf3CdnFYfvm/nft.jpg",
+  "chainId": "1",
+  "name": "Tiger&Fox",
+  "attributes": [],
+  "minted": "✅"
+}

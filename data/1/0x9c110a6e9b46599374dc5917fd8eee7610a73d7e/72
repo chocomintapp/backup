@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSyfLGGmQvY3XQFYHJo2YK8n2dEy9VvJRLhyigmLTWaCt/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 72,
+  "chainId": "1",
+  "name": "POCO_Charlotte",
+  "description": "Charlotte-Chan",
+  "attributes": [
+    {
+      "value": "Cream",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Pure",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

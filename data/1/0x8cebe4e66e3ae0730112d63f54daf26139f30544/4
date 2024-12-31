@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme9vyYesW85fSSU1eBkvv6P4h66CfvnWcTDJogzcprhSU/nft.png",
+  "tokenId": 4,
+  "description": "",
+  "nftContractAddress": "0x8cebe4e66e3ae0730112d63f54daf26139f30544",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "CryptoSisters #4",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "CHARACTER",
+      "value": "Bit Coin"
+    },
+    {
+      "trait_type": "PRICE",
+      "value": "High"
+    }
+  ]
+}

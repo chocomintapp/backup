@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSnf9Ai7azs49oy8qGd2p4pt9wu2FXXzWBZ8CexM3S3i4/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmTQwLa9AZvUWPnFBYA8Wvhv1z3LPkP3i8kjGhREgHv8wt/nft.mp4",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "#034 SakuraMochiMan",
+  "description": "SakuraMochiMan\n\nSakura Mochi is a rice cake rolled with salted cherry leaves.\n\n- Food Series\n- 3DCG Turntable\n- 1920 x 1920px",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Food",
+      "trait_type": "Type"
+    }
+  ]
+}

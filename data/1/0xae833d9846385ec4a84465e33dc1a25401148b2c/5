@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPzh3ouGfb27ZyjywV64mSX7UUQ5waKuwCqkRc3RhfEuB/nft.png",
+  "nftContractAddress": "0xae833d9846385ec4a84465e33dc1a25401148b2c",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "Dakko ex #005 gimo collab",
+  "description": "Dakko - Hug Girl Collection -\n\ngimo collaboration",
+  "attributes": [
+    {
+      "value": "EX",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "gimo",
+      "trait_type": "THEME"
+    },
+    {
+      "value": "Straight",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Loosely",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "gimo",
+      "trait_type": "HUG"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaFqS2xozirJS69PzhgJfdTr14GWHcu1yz1imRfJVVPdz/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 117,
+  "chainId": "1",
+  "name": "POCO_Ludovica",
+  "description": "Ludovica-Chan",
+  "attributes": [
+    {
+      "value": "Peculiar",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Schema-Chan Remake",
+      "trait_type": "SERIES"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWmwHaDfymY6ayAzLr5Q8obsp4KCRbWqaMZne6W1fP4Y9/nft.png",
+  "nftContractAddress": "0xdcbbd79e20c1ea86680ed83c872e8786f5f578f1",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "B.B MIRAKO. SP fanart#02",
+  "description": "This Bean is MIRAKO.s fanart PFP . \nBlack×Humanoid ver.",
+  "attributes": [
+    {
+      "value": "MIRAKO.SP",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "MIRAKO.SP",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "MIRAKO.SP",
+      "trait_type": "EAR ACCESSORY"
+    },
+    {
+      "value": "MIRAKO.SP",
+      "trait_type": "BODY ACCESSORY"
+    },
+    {
+      "value": "Humanoid Red",
+      "trait_type": "BODY COLOR"
+    },
+    {
+      "value": "MIRAKO.SP",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "None",
+      "trait_type": "ARTICLES"
+    },
+    {
+      "value": "MIRAKO.fanart",
+      "trait_type": "BACKGROUND"
+    }
+  ],
+  "minted": "✅"
+}

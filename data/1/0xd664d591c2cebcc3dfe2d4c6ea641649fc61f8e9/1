@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmciJYT3PC2fMwdPWYmbZSabmDJBYst9MxtHMBQTymQivX/nft.jpg",
+  "tokenId": 1,
+  "description": "THE FIRST ETH",
+  "nftContractAddress": "0xd664d591c2cebcc3dfe2d4c6ea641649fc61f8e9",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "THE FIRST ETH",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "pizza"
+    }
+  ],
+  "minted": ""
+}

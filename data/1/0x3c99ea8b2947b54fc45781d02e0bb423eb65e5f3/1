@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeYHAc7gYRQ5723yU899yTnm3igpmKXQb6HWV83SX3Scr/nft.jpg",
+  "nftContractAddress": "0x3c99ea8b2947b54fc45781d02e0bb423eb65e5f3",
+  "animationUrl": "https://ipfs.io/ipfs/QmeYHAc7gYRQ5723yU899yTnm3igpmKXQb6HWV83SX3Scr/nft.jpg",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "SUSHI BUG 1",
+  "description": "Errors in the program. Misalignment of daily life.",
+  "attributes": []
+}

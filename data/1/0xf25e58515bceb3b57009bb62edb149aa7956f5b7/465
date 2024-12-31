@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRgFTtJ9Y9ApoWwdbEK69P4DxF9UPe7HmK28zo9STjepp/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 465,
+  "chainId": "1",
+  "name": "HADLEY",
+  "description": "■ヘドリー",
+  "attributes": [
+    {
+      "value": "Deep-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open4",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Egreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Wide-Void",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "green bell pepper T-shirt",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Black",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

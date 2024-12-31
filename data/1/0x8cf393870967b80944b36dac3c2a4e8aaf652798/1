@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma8BGFcLHkwJtxHfJk7zZvNdhgot87drfGrDvTyXbQ9ft/nft.jpg",
+  "tokenId": 1,
+  "description": "He is rapper.",
+  "nftContractAddress": "0x8cf393870967b80944b36dac3c2a4e8aaf652798",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Rapper",
+  "attributes": []
+}

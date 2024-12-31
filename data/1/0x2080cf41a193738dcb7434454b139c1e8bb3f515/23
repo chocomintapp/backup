@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW5xubnQGtkeR21puB8vYXcEw1n9p7eggQL1DVU7HQ1ok/nft.png",
+  "tokenId": 23,
+  "description": "\"ZashikiWarashi\" = \"Ogre\" x \"Dwarf\" Hanako Tanaka\n「座敷童子」メイン種族は鬼、サブ種族ドワーフ。名前は田中花子。\n\n古い家に住み着くとされる日本の妖怪。家主に富をもたらす。身体は小さいが力がとても強い。鬼種族から和風の特性を、ドワーフ種族から小型の特性を引き継いでいる。子どもと一緒に遊ぶのが大好き。\n\nA Japanese yokai that is said to inhabit old houses. \"ZashikiWarashi\" brings wealth to the homeowner. They are small in size but very strong in power. They inherit Japanese characteristics from the \"Ogre\" species and small characteristics from the \"Dwarf\" species. \"ZashikiWarashi\" love to play with children.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#048 \"ZashikiWarashi\" Hanako Tanaka",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Ogre"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Dwarf"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

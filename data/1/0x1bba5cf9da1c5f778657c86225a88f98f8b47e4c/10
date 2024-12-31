@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma3w9va6Xg5iQXHkznEhzWR5nhU6QAvQ3ERZC874AeiE2/nft.png",
+  "nftContractAddress": "0x1bba5cf9da1c5f778657c86225a88f98f8b47e4c",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "#019 Tim Pizza Delivery",
+  "description": "This is Tim the pizza delivery cat.\nCall him Pizza Man!\n\nHis delivery range is 2 miles, so be careful when ordering.\n\nAlso, if you don't eat not only pizza and cola, but also vegetables, you'll get metabolic syndrome.",
+  "attributes": [
+    {
+      "value": "Tim",
+      "trait_type": "CHARACTER"
+    },
+    {
+      "value": "Job",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Pizza Delivery",
+      "trait_type": "JOB"
+    }
+  ]
+}

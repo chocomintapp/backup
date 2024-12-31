@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUSM8SjctNQ7g8nupy1CioiirwiTqDHz5Q9NYWLmjHaA5/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 62,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "監視機関",
+  "attributes": [
+    {
+      "value": "ベンスラー",
+      "trait_type": "人物"
+    },
+    {
+      "value": "着物",
+      "trait_type": "服装"
+    },
+    {
+      "value": "SEC",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "刀",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

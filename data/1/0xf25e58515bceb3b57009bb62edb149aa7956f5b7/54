@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNrjSpv76ypfuumXYxdQhvTTESPwRvpjXM3n48yyrmfzW/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 54,
+  "chainId": "1",
+  "name": "VEGA",
+  "description": "She loves KPOP as much as \"N'mou tribe\".\n\nAmong the Meta Tribe, she is the weaker one.\n\nTherefore, she is often trained by KATE.\n\n■ヴェガ\n\n”ン・モウ族”と同じくらいKPOPが大好き。\n\nメタ族の中で彼女はかなり弱い方。\n\nなので、よくKATEに特訓させられている。",
+  "attributes": [
+    {
+      "value": "MIX3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Red",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cry-Orange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-R",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-3EYES",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Devil",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Orange",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Meta tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

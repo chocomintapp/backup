@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQu5fpJTXJyoMZeASYGm4XnzUEpEaB8NYZ6KH6rob6cow/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 348,
+  "chainId": "1",
+  "name": "MARU",
+  "description": "■マル",
+  "attributes": [
+    {
+      "value": "AJISAI",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0004Miracle",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Anisu-Lolita",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dominion",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Angel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Angel Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

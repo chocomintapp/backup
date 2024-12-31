@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPWyShKvBbW3D19eNHVUC5Yt6aRUxLLxCYb7bxYEUFJJq/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 115,
+  "chainId": "1",
+  "name": "CARLY",
+  "description": "■キャリー",
+  "attributes": [
+    {
+      "value": "Entrance Heavenly",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Catstyle",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllYellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WG",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Archangel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Mix1",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

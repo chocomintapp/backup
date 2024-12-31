@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSsg4o1DCnazEtspLYrmiNXbSgb9SQP9ZJyfStVqjL17Q/nft.png",
+  "tokenId": 1,
+  "description": "NGC 1052 is an elliptical galaxy in the constellation of Whale. It was discovered by astronomer William Herschel on January 10, 1785.\nNGC 1052 is known to have an AGN at its center and a radio jet of v = 0.25c emitting in both directions from the center.\nThis image is from the 2cm survey archive data of the VLBA, which combines multiple radio telescopes owned by the National Radio Astronomy Observatory (NRAO), and was analyzed using Difmap imaging software.",
+  "nftContractAddress": "0x3d2ba15a0f53421cb57e24e9774fd9cc37d07477",
+  "animationUrl": "https://ipfs.io/ipfs/QmSsg4o1DCnazEtspLYrmiNXbSgb9SQP9ZJyfStVqjL17Q/nft.png",
+  "chainId": "1",
+  "name": "NGC1052",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": ""
+}

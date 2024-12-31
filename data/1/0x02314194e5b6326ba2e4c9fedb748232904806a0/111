@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUhDXAXyUgzCWrLCKufuN5pCw4vtbHG6CpW9BDZ5LewkY/nft.png",
+  "nftContractAddress": "0x02314194e5b6326ba2e4c9fedb748232904806a0",
+  "animationUrl": "",
+  "tokenId": 111,
+  "chainId": "1",
+  "name": "#001-桃[凪]",
+  "description": "縅Another Illust Collectionの作品。 宇和野そら(https://twitter.com/uwano5884)さんの作品を学習させて作成しております。",
+  "attributes": [
+    {
+      "value": "凪",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": "✅"
+}

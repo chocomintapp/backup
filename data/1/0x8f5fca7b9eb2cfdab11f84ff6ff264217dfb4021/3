@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTRpKb7eRDc6SAc1bre5w6FpURHwPJLXecGWkKsLuXPHk/nft.png",
+  "tokenId": 3,
+  "description": "Strategic-level simulation game fighter (blue)",
+  "nftContractAddress": "0x8f5fca7b9eb2cfdab11f84ff6ff264217dfb4021",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Strategic HEX #03",
+  "attributes": [
+    {
+      "trait_type": "size",
+      "value": "600x600"
+    }
+  ]
+}

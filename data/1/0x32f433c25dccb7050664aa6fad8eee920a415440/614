@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRuCB4ko683sYUih3aP87Gb9bPKsLEbuVt48esvg2UyJT/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmPRTujzwAqAZev8MDJsUe6zWjbpbcUrJVBBczWbdo2u1z/nft.mp4",
+  "tokenId": 614,
+  "chainId": "1",
+  "name": "THE JEWEL #614",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Black Spinel",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

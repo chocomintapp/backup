@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZgr4cqo6GQsgXabCAVK8KCB86vEVoYaZKzBstD16BsiN/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 65,
+  "chainId": "1",
+  "name": "POPET No.65",
+  "description": "【物語】　すべてのものは数字でできている。積み上げられてきた学問の山に、いつか僕も小さな石を積む。",
+  "attributes": [
+    {
+      "value": "数学者",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "大学",
+      "trait_type": "origin"
+    },
+    {
+      "value": "マイペース",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

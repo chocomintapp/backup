@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfWP5RVg1DVHYCCN2oovcMDDtRj5rKJ4Z8jzh7wZsr4yV/nft.gif",
+  "nftContractAddress": "0xe59d6a2d32113de5dd99ba564bbffc92d135d7d8",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "#0004 an donut",
+  "description": "京都で創業40年以上のパン屋チロル。\nこちらのパンを使ったNFTアート『Chirol-BreadHeadFriends.-』です。\n\nGraphics Interchange Format\n1024×1024px",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "series001",
+      "trait_type": "Series"
+    },
+    {
+      "value": "ann donut",
+      "trait_type": "BreadType"
+    },
+    {
+      "value": "anim004",
+      "trait_type": "Animation"
+    }
+  ]
+}

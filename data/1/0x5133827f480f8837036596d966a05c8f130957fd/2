@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP79bsidoiAD5suUEsX3WeULveSqeNabfvtNaXTJEYMSK/nft.png",
+  "tokenId": 2,
+  "description": "バックグラウンドが全く違う見ず知らずのアーティスト/クリエイター/マーケター/インフルエンサーがNFTという旗のもとに集まり、力を合わせて作り上げた作品です。この記憶と記録をブロックチェーン上に刻みます。 This is the work of a group of artists/creators/marketers/influencers, strangers from completely different backgrounds, who came together under the banner of NFT and joined forces to create this work of art. This memory and record will be inscribed on the blockchain.",
+  "nftContractAddress": "0x5133827f480f8837036596d966a05c8f130957fd",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "NFT JAPAN CREATOR COLLECTION",
+  "attributes": []
+}

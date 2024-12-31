@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX76uo3eZRfWfeRtKYxYqfzf7gQtDzTr4ZUPLmLpnuwjB/nft.gif",
+  "nftContractAddress": "0xfabe186f976ed2c93d3b37d7dc4d1bd3b2f6cdd8",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "KCS-chan",
+  "description": "HAPPY 5TH ANNIVERSARY KUCOIN!",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

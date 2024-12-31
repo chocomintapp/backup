@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW6SadU2C9nPJx7yTcdHFNC5eagL9sNgVvG85dR7vzJuW/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 222,
+  "chainId": "1",
+  "name": "ALETTA",
+  "description": "■アルエッタ",
+  "attributes": [
+    {
+      "value": "Bright-Pink",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Purple",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-ZRed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Matchingcloth-05(BLU)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bored Ape4",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

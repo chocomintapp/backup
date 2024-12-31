@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUVh7vf8oHUXK2EAmcuUT32tS5QWBtf4xwBrcCBwovi8s/nft.png",
+  "tokenId": 372,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "https://ipfs.io/ipfs/QmUVh7vf8oHUXK2EAmcuUT32tS5QWBtf4xwBrcCBwovi8s/nft.png",
+  "chainId": "1",
+  "name": "Curvy Mom #372",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Cool Blue"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Braid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Carmine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Pearl Studs"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Fallen Angel"
+    }
+  ]
+}

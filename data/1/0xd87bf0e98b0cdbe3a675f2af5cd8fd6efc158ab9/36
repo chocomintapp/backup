@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWBYxDcjmwcfwvDykLd5H1GgDCqNYtBgYdWSBAX56KgBv/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "1",
+  "name": "THS #070",
+  "description": "【滅】",
+  "attributes": [
+    {
+      "value": "peacock feather",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "snake",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "iris flower",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

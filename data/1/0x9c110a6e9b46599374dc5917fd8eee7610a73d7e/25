@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdVuRYK6sZ5iJt49TbDvArdVeGytRUyAysX3kK7tJAMJd/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "1",
+  "name": "POCO_Paula",
+  "description": "Paula-Chan",
+  "attributes": [
+    {
+      "value": "Optimistic",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "White",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

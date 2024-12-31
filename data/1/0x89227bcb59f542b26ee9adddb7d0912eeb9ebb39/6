@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZnCmRUN64ar22L3nRfUqGCx8eVNmohjjXhbsUkHfKtdt/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "#006-Yamagata-",
+  "description": "#006-Yamagata-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Gaia",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Tohoku",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Yamagata",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

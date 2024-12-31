@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRiYZ8TLVBiLy9UG968p6ZBAypymMTvfDpaKpYsWChXUC/nft.jpg",
+  "tokenId": 3,
+  "description": "test\nhttps://drive.google.com/drive/u/1/folders/1IQMWyBceR1hMo_z94aemcXDxWQsnVLS_",
+  "nftContractAddress": "0x105c72a799a0cd3810de288f82898ba50c358cc1",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "test",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

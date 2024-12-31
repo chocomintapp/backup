@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTYFcjpuNHb2PoCH97QMBjutt5rKJz3FBne1Aa7DDM44W/nft.png",
+  "tokenId": 25,
+  "description": "\"CheshireCat\" = \"Cait Sith\" x \"Unknown\" Alice Mushanokouji\n「チェシャ猫」メイン種族ケットシー、サブ種族Unknown。ケットシーの特殊亜種。名前はアリス武者小路。\n\n身体の一部を自由に消したり出現させたりできる。消えた身体の断面は異空間に繋がっているらしい。神出鬼没で気まぐれ。人をからかうことが大好き。脱走しやすいので、育成時はファームの戸締まりをきちんとするようにしよう。\n\n\"CheshireCat\" can make parts of its body disappear and appear at will. The section of the body that disappears seems to be connected to a different space. They are unpredictable and capricious, and loves to tease people. \"CheshireCat\" are prone to escaping, so be sure to keep your farm closed when breeding them.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#050 \"CheshireCat\" Alice Mushanokouji",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Cait Sith"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

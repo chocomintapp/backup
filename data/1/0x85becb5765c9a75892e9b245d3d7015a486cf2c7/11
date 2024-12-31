@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ23WBQh4ZDZEXR6YVp4r1ZZRAzNV55CBPoE5Xa8on35Y/nft.png",
+  "nftContractAddress": "0x85becb5765c9a75892e9b245d3d7015a486cf2c7",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "#case11 “”",
+  "description": "",
+  "attributes": [
+    {
+      "value": "DIRGE",
+      "trait_type": "organization"
+    }
+  ]
+}

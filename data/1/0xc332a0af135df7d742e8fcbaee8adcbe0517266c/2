@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSvvoCEPqPRMe9eyU4cbLmXpgziKAmrqv4TEcbuz67Sey/nft.png",
+  "nftContractAddress": "0xc332a0af135df7d742e8fcbaee8adcbe0517266c",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Happy Boys #111 - ホワイトタイガーボーイ（ハッピーボーイ）",
+  "description": "Special Happy Boys\n\n2023年最後のハッピーボーイは、縁起の良い龍虎がモチーフです✨\n\n肩に虎が乗ったら超絶開運間違いなし！白虎が邪悪エネルギーから守ってくれる😊竹の柄シャツはオシャレで縁起物✨\n\nハッピーボーイズは、地球をハッピーで支配するためにやってきた地球外生命体です 💕世界が愛と感謝と平和で満たされることを願っています 🕊\n\nThe last Happy Boy of 2023 features the auspicious motif of a dragon and tiger✨\n\nDefinitely a surefire boost in good luck if a tiger rides on your shoulders! The white tiger safeguards against negative energy 😊 A shirt with a bamboo pattern is not only stylish but also a charm for good fortune ✨\n\n\"Happy Boys\" came to rule the earth with happiness💕 May the world be full of love, gratitude and peace🕊",
+  "attributes": [
+    {
+      "value": "ホワイト",
+      "trait_type": "カラー"
+    },
+    {
+      "value": "ハッピーボーイ",
+      "trait_type": "ベース"
+    },
+    {
+      "value": "スペシャル",
+      "trait_type": "登場作品"
+    }
+  ]
+}

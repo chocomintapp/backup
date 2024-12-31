@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfMyd2z9sCgadNmCDkX2C7YAJTJMEfQFZpwL9Uvt6V65t/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Beach Borne Bae #30",
+  "description": "Beach Borne Bae #30\nInspired by Bluestreak cleaner wrasse / ホンソメワケベラ",
+  "attributes": [
+    {
+      "value": "Medium Bob",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

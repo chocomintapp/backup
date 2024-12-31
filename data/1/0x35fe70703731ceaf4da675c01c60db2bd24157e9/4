@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPPqZBPq38atktFTSgzu1kj1hYRSQTUovtC8b4gqK147t/nft.JPEG",
+  "nftContractAddress": "0x35fe70703731ceaf4da675c01c60db2bd24157e9",
+  "animationUrl": "https://ipfs.io/ipfs/QmbyisyGytTzkH9bmSWERG3sxH83Gsjj1iFbx3dM1YELbW/nft.mp4",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "KYOSO ",
+  "description": "KYOSO - Gold : TOKYOITE Music NFT Project\nMusic : MURPH , EdoLena \nArtworks : EdoLena \nVVAVE3 Live Limited Edition for dlednee\nThis full length music is available for one year CC0 from the date of airdropping.",
+  "attributes": [
+    {
+      "value": "Gold",
+      "trait_type": "KYOSO"
+    }
+  ]
+}

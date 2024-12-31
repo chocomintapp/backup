@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdWaasD9Br5H8eCwqu4vifUUr7LAfTKN2oaVwyyjGq75x/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "1",
+  "name": "THS #073",
+  "description": "【経】",
+  "attributes": [
+    {
+      "value": "goldfish",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "cosmos",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

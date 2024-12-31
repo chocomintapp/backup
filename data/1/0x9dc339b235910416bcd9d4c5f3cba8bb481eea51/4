@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVRb4Pdf7q1bbwSQJaNMfPWxrmubL8xSdiUuj77TaJa67/nft.gif",
+  "nftContractAddress": "0x9dc339b235910416bcd9d4c5f3cba8bb481eea51",
+  "animationUrl": "https://ipfs.io/ipfs/QmVRb4Pdf7q1bbwSQJaNMfPWxrmubL8xSdiUuj77TaJa67/nft.gif",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "#004 Class1-A Sayuri Nakagawa",
+  "description": "She is art oriented. She is especially fond of the season when the cherry blossoms are dancing.  \n------------------  \n彼女はアート志向で、桜の舞う季節が特にお気に入りです。",
+  "attributes": [
+    {
+      "value": "Miyabi High School",
+      "trait_type": "School"
+    },
+    {
+      "value": "Class 1-A",
+      "trait_type": "Grade"
+    },
+    {
+      "value": "Art Club",
+      "trait_type": "Role"
+    }
+  ]
+}

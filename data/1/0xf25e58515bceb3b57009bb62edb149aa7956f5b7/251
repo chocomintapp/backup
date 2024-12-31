@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbAogQDYpiENCzqGCifdqDoD7ByBhF7615Di27H7XoxSf/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 251,
+  "chainId": "1",
+  "name": "COCO",
+  "description": "■ココ",
+  "attributes": [
+    {
+      "value": "Bright-Green",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Egreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllRed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WEB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Green",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

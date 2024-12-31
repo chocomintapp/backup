@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUe6uTeY1tXxrpC2pT3FYHtN6ox2DbBKnWtttfxpwCDAx/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmPbFudrb2raupex6DWmUZiK3zgBbGyf766Aw3rRp51Lxy/nft.mp4",
+  "tokenId": 400,
+  "chainId": "1",
+  "name": "THE JEWEL #400",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Emperor Moissanite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Vanadium Alloy",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXXonU3SYSp3eceJEfqVugzk1ZaLMMi48jbq8zx4Fkez3/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 106,
+  "chainId": "1",
+  "name": "POCO_Gracia",
+  "description": "Gracia-Chan",
+  "attributes": [
+    {
+      "value": "Cheerful",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

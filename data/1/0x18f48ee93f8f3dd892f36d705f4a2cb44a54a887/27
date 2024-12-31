@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbPyJiCqEyJpEQZZH1o9EjC1e5ViARWtmaaMNNyTec2kD/nft.jpg",
+  "tokenId": 27,
+  "description": "Just snakin around jumping from planet to planet\nKrs 2008",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmbPyJiCqEyJpEQZZH1o9EjC1e5ViARWtmaaMNNyTec2kD/nft.jpg",
+  "chainId": "1",
+  "name": "Snakin"
+}

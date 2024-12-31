@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcnv6M4LZLqYsTMFXcVm6G9eHjDGXUwMwmZETSMT8SjTy/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmUjSCfnkp7JDcaNBgWqRR45WwpjMmop2B1qtCwTfepTyg/nft.mp4",
+  "tokenId": 700,
+  "chainId": "1",
+  "name": "THE JEWEL #700",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Rainbow Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Rainbow Neodymium",
+      "trait_type": "Control device"
+    }
+  ]
+}

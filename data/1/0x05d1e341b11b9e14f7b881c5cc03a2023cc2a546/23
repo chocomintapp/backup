@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTPND2FgkRxVxVSrzmEcEg15UhueL1tYC755XWJ33ym96/nft.gif",
+  "tokenId": 23,
+  "description": "Tsukusi  \n日本古来のフィギュアを発見したようだ  \nLooks like he found an ancient Japanese figure.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmZcuvhn6HLxVLP3PmzkzjSwB8VZbeKf23bvGYc9TyakCc/nft.mp4",
+  "chainId": "1",
+  "name": "Tsukusi #023",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Ancient"
+    }
+  ]
+}

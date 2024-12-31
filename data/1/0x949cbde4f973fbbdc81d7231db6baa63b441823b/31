@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaRevd3YTFtX4Ksq34SjmTVM8kUKwxN5NidCUxHDRPRsE/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "1",
+  "name": "MA #31",
+  "description": "",
+  "attributes": [
+    {
+      "value": "A",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "M",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "A",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "ma",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

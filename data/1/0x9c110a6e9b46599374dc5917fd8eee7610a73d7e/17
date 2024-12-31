@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeEFZbydAirB2UeRMjAzR95xc4wYzKgU6Xrsn5Gi4r1Zt/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "POCO_Carey",
+  "description": "Carey-Chan",
+  "attributes": [
+    {
+      "value": "Bright",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Cream",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

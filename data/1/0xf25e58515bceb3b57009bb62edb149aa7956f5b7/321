@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXNn2H9SQXVpLXpi7h7Su6LqQ4oN3QzQ1mBgmMW27cpEJ/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 321,
+  "chainId": "1",
+  "name": "TSUBAME",
+  "description": "■ツバメ",
+  "attributes": [
+    {
+      "value": "half-broken4",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open5",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Matchingcloth-06",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "glasses-blue(NE)",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Biscuit",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

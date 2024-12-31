@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVd9TKoXppY2ZvJMHjw3p3DFNDTCpPPAaNUnLyHtN9SVT/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 376,
+  "chainId": "1",
+  "name": "天凪　京子",
+  "description": "■KYOKO　AMANAGI\n■アマナギ　キョウコ\n■CNPR優先購入権付き",
+  "attributes": [
+    {
+      "value": "SakuraBlow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Anisu-tatoo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Narukami-Shima(N)Y",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Anisucap",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

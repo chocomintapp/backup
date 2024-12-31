@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS9MQJjB252BhHe8yFmHuSGecpdTZkkomuNn6nP3hZZHi/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 271,
+  "chainId": "1",
+  "name": "BELLA",
+  "description": "■ベラ",
+  "attributes": [
+    {
+      "value": "Deep-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Duckstyle-R",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sidelong glance",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "LoliFoodie-Red",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Duck Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

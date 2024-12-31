@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb2RtWVbxjLz9Q46ouxQ6Ts7Hnxd2Yo1KhzuvYC8syRwz/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "1",
+  "name": "Kaguya",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "KIMONO",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Yukiti Asakura",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "SLIGHT SMILE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "PESTLE",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    }
+  ]
+}

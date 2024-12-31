@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZFSsuJfCJFxCmCJ9hS98LwSNxtcYtuE8XPc92te1LFjd/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 112,
+  "chainId": "1",
+  "name": "SLA",
+  "description": "■スラ",
+  "attributes": [
+    {
+      "value": "Middle of the heavens",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Burstout-Laughing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Deeppink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Scornful-Lightblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-PWY(G)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Angel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "The Greens",
+      "trait_type": "TYPE"
+    }
+  ]
+}

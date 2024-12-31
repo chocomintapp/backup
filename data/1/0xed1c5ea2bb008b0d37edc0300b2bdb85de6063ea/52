@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZo7LTgjUvBokA9hHqit97cWVweFHEykZFNQqTtjqHvvf/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 52,
+  "chainId": "1",
+  "name": "loody",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "zombie",
+      "trait_type": "skin"
+    },
+    {
+      "value": "stylish_blue2",
+      "trait_type": "eye"
+    },
+    {
+      "value": "mask02",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_emblem",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Virgo",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

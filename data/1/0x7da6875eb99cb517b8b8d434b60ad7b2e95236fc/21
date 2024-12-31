@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeUdLHRHD6zNR7K1rLVzXr6PmWCUDmNBU8nWBD7pxptXP/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "KAIKA #21",
+  "description": "",
+  "attributes": [
+    {
+      "value": "flash",
+      "trait_type": "energy"
+    },
+    {
+      "value": "jewel freckles",
+      "trait_type": "extra"
+    },
+    {
+      "value": "doll",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "pink",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "buzz cut",
+      "trait_type": "hair"
+    },
+    {
+      "value": "pink",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "relaxed",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "dark",
+      "trait_type": "skin tone"
+    }
+  ]
+}

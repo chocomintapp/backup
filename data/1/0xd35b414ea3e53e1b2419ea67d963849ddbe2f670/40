@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ3iN6NZWWDArWv6MRFRpN6c3EsqJ3TL7AZ7ggHkAuqme/nft.png",
+  "tokenId": 40,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #40",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Red Tabby"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Medium Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_1"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Heart"
+    }
+  ]
+}

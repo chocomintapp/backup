@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVQbwgeQNcqzctz2qf6R98umwZaTYBBHRWq7m5KMTctGg/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 53,
+  "chainId": "1",
+  "name": "POPET No.53",
+  "description": "【物語】　みんなが隠しているんだ。\nこの街には秘密がある。\n僕が必ず暴いてみせる、1人だって構わない。",
+  "attributes": [
+    {
+      "value": "記者",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ダウンタウン",
+      "trait_type": "origin"
+    },
+    {
+      "value": "根暗",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZfX9xLQfmq5y1XaW25E1FiJSXnunRxLy7Mvvg4p1ZVPF/nft.gif",
+  "nftContractAddress": "0xe59d6a2d32113de5dd99ba564bbffc92d135d7d8",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "#0011 wiener curry",
+  "description": "\n京都で創業40年以上のパン屋チロル。\nこちらのパンを使ったNFTアート『Chirol-BreadHeadFriends.-』です。\n\nGraphics Interchange Format\n1024×1024px",
+  "attributes": [
+    {
+      "value": "series001",
+      "trait_type": "Series"
+    },
+    {
+      "value": "wiener curry",
+      "trait_type": "BreadType"
+    },
+    {
+      "value": "anim009",
+      "trait_type": "Animation"
+    }
+  ],
+  "minted": "✅"
+}

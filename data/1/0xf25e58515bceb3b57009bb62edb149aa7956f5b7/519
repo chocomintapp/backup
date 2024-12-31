@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSNpoMmerWrnXxcyr16VKAduficuXN4xgJoLpDzsbAxHL/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 519,
+  "chainId": "1",
+  "name": "REUM",
+  "description": "■リアム\n大人になりすぎた引きずるちゃん\n元Reum本人のPFP",
+  "attributes": [
+    {
+      "value": "REUM",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "REUM",
+      "trait_type": "Face"
+    },
+    {
+      "value": "REUM",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "REUM",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "REUM",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "REUM",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "REUM",
+      "trait_type": "Body"
+    },
+    {
+      "value": "REUM",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "REUM",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "REUM",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "REUM",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Saint",
+      "trait_type": "TYPE"
+    }
+  ]
+}

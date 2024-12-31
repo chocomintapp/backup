@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRY2ZTVrELn5jAg4yfxs3QdrUo251NyJ2ir1JtwhoiVwT/nft.jpg",
+  "nftContractAddress": "0xc698c3fefc643eb9de33258cf10314836eb6be14",
+  "animationUrl": "https://ipfs.io/ipfs/QmNYGqMm4xSXeTuouYs5Ky5QQMgb8Gc7yQW5tznNxe9SwM/nft.glb",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "＃003 Fenrir [ Black ]",
+  "description": "[ Fenrir ]\nThere was a beast that was prophesied to bring disaster to the gods. The giant wolf tore off the iron chains made by the gods. But later the wolf would be bound by a magic cord, \"Gleipnir\".\nUntil the day of the apocalypse.",
+  "attributes": [
+    {
+      "value": "Beast",
+      "trait_type": "Tribe"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Base plate"
+    }
+  ]
+}

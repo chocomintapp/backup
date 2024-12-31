@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSKQET1WjXhwZoerFYYXUd2uQvWrzJEtsAhqXvs5oAmS7/nft.jpg",
+  "tokenId": 1,
+  "description": "Profile image of Kozo Yamada, an expert on \"NFT games\" and \"GameFi\"\nIllustration by tama0104\nhttps://twitter.com/tama0104\n",
+  "nftContractAddress": "0x05073196192b06c19de9c3d2ee62c9333dbf1961",
+  "animationUrl": "https://ipfs.io/ipfs/QmSKQET1WjXhwZoerFYYXUd2uQvWrzJEtsAhqXvs5oAmS7/nft.jpg",
+  "chainId": "1",
+  "name": "KOZO_YAMADA(basic portrait)",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

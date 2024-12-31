@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRdoU4SgLXuDMLvt2Zgd4gAmpyYvs5weowBpuLLLwDq2h/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 232,
+  "chainId": "1",
+  "name": "HAZIEL",
+  "description": "■ハジエル",
+  "attributes": [
+    {
+      "value": "Harden",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Mix3",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Scornful-ZombieOdd2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-Y",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-N",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Piyochi-shock",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

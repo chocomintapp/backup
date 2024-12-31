@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQki5kYYxxVFkzn196pi4SnMJzYWUu78xpvjTkKNKwv5f/nft.mp4",
+  "nftContractAddress": "0xe5e541c33576f4d56ddcb3a3453d2c7975482c81",
+  "animationUrl": "https://ipfs.io/ipfs/QmQki5kYYxxVFkzn196pi4SnMJzYWUu78xpvjTkKNKwv5f/nft.mp4",
+  "tokenId": 51,
+  "chainId": "1",
+  "name": "Festival ticket No.101",
+  "description": "チケットの裏側にご注目。\nなんだかクセになりそうなマークが入っている。これは何だろうか。\n\n音楽：玉木千尋\n\nMusic: Chihiro Tamaki",
+  "attributes": [
+    {
+      "value": "2.5%",
+      "trait_type": "sign"
+    }
+  ],
+  "minted": ""
+}

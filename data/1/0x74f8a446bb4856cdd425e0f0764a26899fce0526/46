@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfXdzdL623usPX7ds52knnWZnEepvm9oof6yfaeBa8fH4/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 46,
+  "chainId": "1",
+  "name": "POCOEMOJI_w",
+  "description": "淵眠ちゃん/Fuchimin-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

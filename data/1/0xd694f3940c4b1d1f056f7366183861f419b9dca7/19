@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNkEAuarSrtoruXYZNwQQu2ssRaphdgb2paGu5mmainhs/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "June 5 ヒソップ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "5",
+      "trait_type": "日"
+    },
+    {
+      "value": "聖性",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ヒソップ",
+      "trait_type": "花"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSoG7oYk7QwPenq79Rpfm6Z5Gt8SSLN52AzyRny2BGCFV/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "HARU",
+  "description": "HARU loves Shibainu anyway.\n\nWhen he goes to pet stores, he spends an hour or two in front of the Shiba Inu showcase.\n\nBy the way, he gives them names on his own.\n■ハル\n\n柴犬がとにかく大好きなハル。\n\nペットショップに行っては、柴犬のショーケースの前に1時間も2時間も張り付いている。\n\nちなみに、勝手に名前をつけだす。",
+  "attributes": [
+    {
+      "value": "Bright-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-DeepBlue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie7",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

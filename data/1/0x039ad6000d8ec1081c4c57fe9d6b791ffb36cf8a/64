@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQxzxTHV7x7xmSDkcALSqSx5rki5mTc2dy8Zbu1Exhaw5/nft.PNG",
+  "nftContractAddress": "0x039ad6000d8ec1081c4c57fe9d6b791ffb36cf8a",
+  "animationUrl": "",
+  "tokenId": 64,
+  "chainId": "1",
+  "name": "mecha kawaii boy #3",
+  "description": "そまり。14歳。ハーフ。植物図鑑を眺めるのが好き。最近は鉱物にも興味がある。お気に入りのファッションアイテムは茶色の革靴（そろそろサイズがキツくなってきた）。",
+  "attributes": [
+    {
+      "value": "mecha kawaii boy",
+      "trait_type": "naco no art"
+    }
+  ]
+}

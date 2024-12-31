@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZvnKAvh26HY97qRwjfgVbM52dHASjz5mTezJJJW1Lgz2/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 271,
+  "chainId": "1",
+  "name": "February 12 パンジー（白）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "月"
+    },
+    {
+      "value": "12",
+      "trait_type": "日"
+    },
+    {
+      "value": "温順",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "パンジー",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQttiDgSv4Y3iFupQQB5AkHNms2MycjPXCPGtCZ3xcjzQ/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 90,
+  "chainId": "1",
+  "name": "XAOMEI",
+  "description": "XAOMEI is one of the most talented among the Blue Tribe.\n\nHowever, she is not able to make the most of her abilities because of her troublesome and slovenly character.\n\nShe respects bees and ants, who work hard all the time.\n■シャオメイ\n\n彼女は青人族の中でも飛びぬけて能力が高い。\n\nだが、面倒臭がり屋で、だらしない性格なので能力を活かしきれていない。\n\nずっと働き続けている蜂や蟻を尊敬している。",
+  "attributes": [
+    {
+      "value": "MIX1",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Green",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Green",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "LoliFoodie-White(BLU)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Blue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "GreenLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Green",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Blue Family",
+      "trait_type": "TYPE"
+    }
+  ]
+}

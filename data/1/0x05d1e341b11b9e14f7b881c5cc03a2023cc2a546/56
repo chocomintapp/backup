@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUxw85uoKcSmcPV3dH8PfH3jC6NmN2VTeK1X4TJR6W9rs/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmSrzaJza8dCEm2GQAAPakv8AwQugMSbY37J8Je9rB48Gb/nft.mp4",
+  "tokenId": 56,
+  "chainId": "1",
+  "name": "Dogu #056",
+  "description": "Dogu  \n017と023から産まれた新しいMIMI  \nNew MIMI spawned from 017 and 023",
+  "attributes": [
+    {
+      "value": "Player",
+      "trait_type": "TYPE"
+    }
+  ]
+}

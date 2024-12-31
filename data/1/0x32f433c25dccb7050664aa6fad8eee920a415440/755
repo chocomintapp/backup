@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmchaHmrKq9SsyayayjGZZDFvKwYExYGGCqiBXvaHevnwu/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmV2PXLvHi93EF4uUbtNuKGe3nH3vZYpLhuVVsDSa4rAus/nft.mp4",
+  "tokenId": 755,
+  "chainId": "1",
+  "name": "THE JEWEL #755",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Brown Zircon",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Iridium",
+      "trait_type": "Control device"
+    }
+  ]
+}

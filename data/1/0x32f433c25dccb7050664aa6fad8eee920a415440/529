@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfNnqNDzXZTEgB5XaGDCCwpGA7EMdJRKv2oSrfrpydZv3/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWb6xL4mf5w2r8MBcq5Uos9AGEKC5uwkGRnDrJQuhD3W9/nft.mp4",
+  "tokenId": 529,
+  "chainId": "1",
+  "name": "THE JEWEL #529",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Alexandrite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Brass",
+      "trait_type": "Control device"
+    }
+  ]
+}

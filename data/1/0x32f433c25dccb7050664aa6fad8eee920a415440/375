@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmashdJFusYNBRVyxGFoXBXkors4mDcQC1fYTTHj8P8XrW/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmTiTbanirVMJD25CRgVXQAGGuLngrd5gMBHreXv6aJb9y/nft.mp4",
+  "tokenId": 375,
+  "chainId": "1",
+  "name": "THE JEWEL #375",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Malaya Garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

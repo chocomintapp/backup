@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWnKPgS9AZe8Ag2mBJ9HC4uDMde3Cgdzvs2Am6qiFYhY1/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 304,
+  "chainId": "1",
+  "name": "MITSUKI",
+  "description": "■ミツキ",
+  "attributes": [
+    {
+      "value": "Bright-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Red",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Drool",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Curling-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-UOrange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees-camouflage",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-bob",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Devil",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Meta tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

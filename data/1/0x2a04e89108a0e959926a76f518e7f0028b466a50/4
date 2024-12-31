@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYTv3UXowH1btDm9KTjUhVTp1P7GU71y6SW7nJzwfnhsH/nft.png",
+  "tokenId": 4,
+  "description": "artist : ATH Sisters\nRarity : Rare\nTotal : 132\nmint : 1/ 1\n\nThe first title of ATH Sisters, a unit of Miss Bitcoin and Ven, is 【Explore the history of Bitcoin with Satoshi!】\nYou can collect part of the Bitcoin's history to have this NFT art !\n＊50% of the royalties paid to the author will be donated to a non-profit organization that supports teens who are having trouble in living because of Covid-19.\n\nミスビットコインとベンのユニット、ATH Sisters の最初の作品は【Explore the history of Bitcoin with Satoshi!（サトシと共にビットコインの歴史を探検しよう！） 】です。\nNFTを手に入れて、あなたもビットコインの歴史の参加者になってください(^^)\n＊作者へ支払われるロイヤリティーの50%は、コロナ禍で生活に困っている10代の若者を支援する非営利団体に寄付されます。\n\nATHS_102",
+  "nftContractAddress": "0x2a04e89108a0e959926a76f518e7f0028b466a50",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Explore the history of Bitcoin with Satoshi! 2106",
+  "attributes": [
+    {
+      "trait_type": "Voxel",
+      "value": "Rare"
+    }
+  ]
+}

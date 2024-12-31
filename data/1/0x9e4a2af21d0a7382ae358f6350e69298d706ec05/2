@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZWBrbKbXcWypwQELwXsqEZzsnVQUb7LBRWBEuPUtSi6e/nft.jpg",
+  "nftContractAddress": "0x9e4a2af21d0a7382ae358f6350e69298d706ec05",
+  "animationUrl": "https://ipfs.io/ipfs/QmZWBrbKbXcWypwQELwXsqEZzsnVQUb7LBRWBEuPUtSi6e/nft.jpg",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "SUKOTA-TOYS",
+  "description": "SUKOTA-TOYS",
+  "attributes": []
+}

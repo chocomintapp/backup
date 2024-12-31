@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNsmeNTsnEMyE5bZJxAXwyQ57pGDrtHtAg9zppiYiEm7e/nft.png",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 919,
+  "chainId": "1",
+  "name": "Max",
+  "description": "New life born the coexistence with human and data. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.",
+  "attributes": [
+    {
+      "value": "Angel",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Close",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Flame",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Nose Piercing",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Empty82",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "6LOM",
+      "trait_type": "PROTO VALUE"
+    },
+    {
+      "value": "Free",
+      "trait_type": "DRESS CODE"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY2xi59D5Q2bSJRS48LEcc2S3Qs2B2XJbDiJdBKoC1GFK/nft.jpg",
+  "tokenId": 1,
+  "description": "NFT発行テストです。",
+  "nftContractAddress": "0x96826d9ff57acd49f2c87080da9e3248869227ed",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "NFT発行テスト",
+  "minted": ""
+}

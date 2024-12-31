@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmevjpeb9L6ZPM8CpDrsXAvLfJpNgG92zG1DkFD2bQQfP7/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 362,
+  "chainId": "1",
+  "name": "MARIKA",
+  "description": "■マリカ",
+  "attributes": [
+    {
+      "value": "Middle of the heavens2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Lolitahair(B)",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-Uyellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-kanazawa(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Purple",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Cat",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

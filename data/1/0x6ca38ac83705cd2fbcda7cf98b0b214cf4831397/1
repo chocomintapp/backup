@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXzBxCANFE7gqfc4N77opVyF2B15M977vMbDKER6n6kmC/nft.png",
+  "tokenId": 1,
+  "description": "otacreate　photo",
+  "nftContractAddress": "0x6ca38ac83705cd2fbcda7cf98b0b214cf4831397",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "otacreate",
+  "attributes": []
+}

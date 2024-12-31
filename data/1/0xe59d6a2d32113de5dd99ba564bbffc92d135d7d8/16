@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmaf1W3B4BP1VAstZCDsWPKVcqGyU93Nwr95AH5716DHhC/nft.gif",
+  "nftContractAddress": "0xe59d6a2d32113de5dd99ba564bbffc92d135d7d8",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "#0016 mochi mochi kinako",
+  "description": "京都で創業40年以上のパン屋チロル。\nこちらのパンを使ったNFTアート『Chirol-BreadHeadFriends.-』です。\n\nGraphics Interchange Format\n1024×1024px",
+  "attributes": [
+    {
+      "value": "series001",
+      "trait_type": "Series"
+    },
+    {
+      "value": "mochi mochi kinako",
+      "trait_type": "BreadType"
+    },
+    {
+      "value": "anim002",
+      "trait_type": "Animation"
+    }
+  ],
+  "minted": "✅"
+}

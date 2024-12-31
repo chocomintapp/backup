@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaqJMSj7E6BoaLRRMPCL9Kn1xm3TXrJ2uX7XoVwFY6Dq1/nft.png",
+  "nftContractAddress": "0x587a7c97702628883b04360c936f1718d5e0201f",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "#003 猫又　Nekomata(Yokai cat)",
+  "description": "人に飼われている年老いた猫が変化したものと、山奥に棲む獣の二種類に大別される。\n尻尾が二本に分かれているので妖怪だとわかる。\n人を襲ったり、人に化けて人間をたぶらかしたりする。\n\nThere are two main types of Yokai: \nthose that are transformed from old cats kept by people, \nand beasts that live deep in the mountains.\n\nThey are recognizable as Yokai because their tails are split in two.\nThey attack people or disguise themselves as people to taunt them.",
+  "attributes": [],
+  "minted": ""
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQnLQoLuTEXvbrNZyUshuRZGwzG8k1BAQy1uzKKcjzLRz/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/Qme3bAgkK6BkEmWDDqeq6aSbekHQCQaCiD5nZo6C7knAmD/nft.mp4",
+  "tokenId": 88,
+  "chainId": "1",
+  "name": "Karel #088",
+  "description": "Karel  \nアートの見過ぎで目が疲れている  \nEyes are tired from looking at too much art.",
+  "attributes": [
+    {
+      "value": "Haus",
+      "trait_type": "TYPE"
+    }
+  ]
+}

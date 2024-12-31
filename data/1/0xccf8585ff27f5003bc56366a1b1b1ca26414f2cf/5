@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRfYxb9NNsriEViYKkAH6A1GgfmZv2GzFmiYox9MP91vo/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "WEAR BEAR #091 \"STEVE\" FOODIE&SHIBA",
+  "description": "WEAR BEAR 第10弾は原点であるFOODIEをオーソドックスにスタイリングしたベア達がなんとお供を連れて登場！\n“STEVE”はオフホワイトのBEAR FOODIEを着用し、BUDDYの柴犬と登場\n",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": " “PLAY BEAR” Foodie",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Denim pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "“addios”SAMBO",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Steve",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Shiba",
+      "trait_type": "Buddy"
+    }
+  ],
+  "minted": "✅"
+}

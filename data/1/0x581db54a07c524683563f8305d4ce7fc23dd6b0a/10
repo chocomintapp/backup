@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdaAVN7UFTgXVVsVJmCWnsyekVYqm3MorbDgfkNYJUsMN/nft.png",
+  "nftContractAddress": "0x581db54a07c524683563f8305d4ce7fc23dd6b0a",
+  "animationUrl": "https://ipfs.io/ipfs/QmeCdsRA8Jwfg3nHNoaTXaY3WKDunEcWj5EJnPS4cJhKWV/nft.mp4",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "Misorin#0010",
+  "description": "I wanted to escape from living like a rag\n\nI can't say for sure that this place I've found isn't hell.\n\nThere's a rumor here and there that it's a demon's world\n\nYou're a stinking bastard, but you've got the right to talk\n\nI don't feel any remorse for that.\n\nRather, I even feel liberated, and my pee-pee goes to heaven\n\nMy name is SUKEBE\n\nMy hobby is SUKEBE\n\nMy work is SUKEBE\n\nI LIKE SUKEBE\n\n\nボロ雑巾のように生きることから逃げ出したくて\n\nたどりついたここが地獄じゃないとも言い切ないし\n\n魔界だって噂もちらほら\n\nくさだせーくせに一丁前におしゃべりする\n\nことへの反省は無い\n\nむしろ解放だとすら感じてしょんべんは天へ\n\nMy name is SUKEBE\n\nMy hobby is SUKEBE\n\nMy work is SUKEBE\n\nI LIKE SUKEBE",
+  "attributes": [
+    {
+      "value": "SUKEBEstick",
+      "trait_type": "item"
+    },
+    {
+      "value": "My name is SUKEBE",
+      "trait_type": "song"
+    }
+  ]
+}

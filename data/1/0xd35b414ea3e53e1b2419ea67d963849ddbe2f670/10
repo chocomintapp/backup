@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ9wfBTTcmBXcJwyJDSzaNeVGZ7DdtL3EvgPCiDQWgP8D/nft.png",
+  "tokenId": 10,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #10",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach Pink Polka dots"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Buchi"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Black Baseball cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_5"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bell"
+    }
+  ]
+}

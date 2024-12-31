@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRnSkkFzBb2At9ombuEVqbokakYHZhbD25K5rtXCdm9Zj/nft.png",
+  "nftContractAddress": "0xee38353e74e04b1fb7fa99c2ce78e93fb6e09b99",
+  "animationUrl": "",
+  "tokenId": 113,
+  "chainId": "1",
+  "name": "#0113 Series000 No.011 \"gee Pattern\"",
+  "description": "未来の自律型電脳ゲーミングPC『Chirobo.』\n\ngeeちゃん×Chirobo.\n\nPortable Network Graphics       \n2048×2048px",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Series 000",
+      "trait_type": "Series"
+    },
+    {
+      "value": "gee Pattern",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Square type A",
+      "trait_type": "CPU"
+    },
+    {
+      "value": "DeltaTechnology type A",
+      "trait_type": "GPU"
+    },
+    {
+      "value": "CircleIndustry type A",
+      "trait_type": "RAM"
+    },
+    {
+      "value": "PaleColor",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Yellow×Purple",
+      "trait_type": "LED"
+    },
+    {
+      "value": "gee cyan",
+      "trait_type": "Sticker"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfVRyLxcmAfp2W5NheSwCeYsiXuKnWggvo6hZjXi5iNzJ/nft.png",
+  "nftContractAddress": "0x32f322055749fd058608eb342bd8c0ad6e463cdf",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "1st Thinker (2pp4)",
+  "description": "Everyone is first thinker.",
+  "attributes": [
+    {
+      "value": "Space ",
+      "trait_type": "DIMENSION"
+    },
+    {
+      "value": "Space Pink System",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Pupil",
+      "trait_type": "EYE"
+    },
+    {
+      "value": "Multiple",
+      "trait_type": "BODY IMAGE"
+    }
+  ]
+}

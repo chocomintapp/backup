@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTWs9Dr6SnZq6zhHvej6oDqrkMpEqUdEpoyTVwYea2KZc/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 205,
+  "chainId": "1",
+  "name": "CLAIRE",
+  "description": "■クレア",
+  "attributes": [
+    {
+      "value": "Entrance Heavenly",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Purple",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cry-Purple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-P(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "AkaOni",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

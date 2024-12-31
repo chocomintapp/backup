@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeJeWGFVHY5ryFu9NUDmTDN8dWBH3BVDtCY6k9nCqvvpx/nft.png",
+  "tokenId": 45,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #45",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bamboo Green"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "White"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Red Flower"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_4"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bell"
+    }
+  ]
+}

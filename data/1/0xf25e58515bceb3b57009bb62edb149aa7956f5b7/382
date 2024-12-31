@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcmpP48Non5q4hDCtpBnfJQPG8yXedutKMQNsfdZFcsuX/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 382,
+  "chainId": "1",
+  "name": "SHIOKA",
+  "description": "■シオカ",
+  "attributes": [
+    {
+      "value": "bubble9",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Despair",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Machimusume2",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-tom",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Mitama-Momo(H)W",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Tsuno-N",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "The Greens",
+      "trait_type": "TYPE"
+    }
+  ]
+}

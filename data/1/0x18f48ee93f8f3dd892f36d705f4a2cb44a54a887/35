@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYNwpmhvZBmoHpE1YcavvNYJUgJDz2kPd9qNywP58TnuK/nft.jpg",
+  "tokenId": 35,
+  "description": "The Yanola Thunderbird spreads its wings and takes fiight in the Magic Forest \nKrs 2009",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmYNwpmhvZBmoHpE1YcavvNYJUgJDz2kPd9qNywP58TnuK/nft.jpg",
+  "chainId": "1",
+  "name": "Yanola Thunderbird"
+}

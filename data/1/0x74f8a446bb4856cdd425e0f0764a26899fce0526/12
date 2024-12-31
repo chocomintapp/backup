@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcmn1KtUT5GJB6TJDfXequGCtyLHpvm3V5FghGFc1y5Pb/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "POCOEMOJI_jito",
+  "description": "Sirpa-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd9ofVG5Wrz7CE1cVQJvYSN6Eg5AaSFciSLyKvBu6THzA/nft.png",
+  "nftContractAddress": "0xca6aec18e85c23583d98ae65f78080fcedb046a4",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "1",
+  "name": "043 One-side Lovers : Series02-Beach [Beach Cruiser]",
+  "description": "■Fukuyoshi Rokka's Artwork collection \n\"One-side Lovers”\nSeries02-Beach\n:Sabatora's holiday!\n\n福吉ロッカのアートワークコレクション\n「One-side Lovers」\nシリーズ２-Beach\n:Sabatora's holiday!",
+  "attributes": [
+    {
+      "value": "Beach",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "Hair-color"
+    },
+    {
+      "value": "Long hair/braids",
+      "trait_type": "Hair-style"
+    },
+    {
+      "value": "Beach Cruiser/Bag/Love Cat",
+      "trait_type": "Item"
+    },
+    {
+      "value": "02/Beach",
+      "trait_type": "Series-number"
+    },
+    {
+      "value": "Big Clouds",
+      "trait_type": "Sky"
+    },
+    {
+      "value": "Aquamarine",
+      "trait_type": "Swimsuit-color"
+    },
+    {
+      "value": "Triangle bikini",
+      "trait_type": "Swimsuit-type"
+    }
+  ],
+  "minted": "✅"
+}

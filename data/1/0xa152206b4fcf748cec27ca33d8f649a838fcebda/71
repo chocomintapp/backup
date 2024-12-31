@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRKu4AvGPeXjzqXfjrqaMNyWoPeY5gKAQf5pV31Qs9EUU/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 71,
+  "chainId": "1",
+  "name": "OYAZI ",
+  "description": "マックでバイト",
+  "attributes": [
+    {
+      "value": "ズケレ",
+      "trait_type": "人物"
+    },
+    {
+      "value": "Ｔシャツ",
+      "trait_type": "服装"
+    },
+    {
+      "value": "キャップ",
+      "trait_type": "帽子"
+    },
+    {
+      "value": "サングラス",
+      "trait_type": "メガネ"
+    },
+    {
+      "value": "Bitcoin",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "チェーンネックレス",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

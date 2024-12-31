@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRrFxXRJjnLCtpxAkqEa9oNPpcFnWoJxiv3S5TAN6oCk9/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x23c3e7cb767cb0fc2a3c77d6ded68b0d154dffc2",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "salmon_00",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open_1"
+    },
+    {
+      "trait_type": "Topping",
+      "value": "Salmon"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Hand_rolled"
+    }
+  ],
+  "minted": ""
+}

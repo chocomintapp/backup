@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmemcysS3YJA8cNS8d8dRkVLQL6RRWmWNoKHRDRRtennnJ/nft.png",
+  "nftContractAddress": "0xdcbbd79e20c1ea86680ed83c872e8786f5f578f1",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "B.B MIRAKO. SP fanart#01",
+  "description": "This Bean is MIRAKO.s fanart PFP . \nPink×Android ver.",
+  "attributes": [
+    {
+      "value": "MIRAKO.SP",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "MIRAKO.SP",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "None",
+      "trait_type": "EAR ACCESSORY"
+    },
+    {
+      "value": "MIRAKO.SP",
+      "trait_type": "BODY ACCESSORY"
+    },
+    {
+      "value": "Android Pink",
+      "trait_type": "BODY COLOR"
+    },
+    {
+      "value": "MIRAKO.SP",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "None",
+      "trait_type": "ARTICLES"
+    },
+    {
+      "value": "MIRAKO.fanart",
+      "trait_type": "BACKGROUND"
+    }
+  ],
+  "minted": "✅"
+}

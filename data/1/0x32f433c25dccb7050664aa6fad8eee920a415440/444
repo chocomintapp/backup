@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWW658wKSZb5yUx5XmWUgDYDS5Q2dYakkdfyq6hubmvAA/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmfG1MaP3fkAmxX6ZwX5EYR788BLbSN6ei99BE7v9DXqkq/nft.mp4",
+  "tokenId": 444,
+  "chainId": "1",
+  "name": "THE JEWEL #444",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Hell Rainbow",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Hell Hematite",
+      "trait_type": "Control device"
+    }
+  ]
+}

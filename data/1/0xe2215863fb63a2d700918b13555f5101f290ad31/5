@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme2Mtnt6dGzC8LS39macfRuSVoekZhpmuBjQKTjnRTj5p/nft.png",
+  "nftContractAddress": "0xe2215863fb63a2d700918b13555f5101f290ad31",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "YAMA Quartet 05",
+  "description": "#テーマ：縁起物\n\n古くから商売繁盛の縁起物として親しまれている招き猫。  \n黒猫の右手を上げたアルパカくんは魔除けをしながら金運を招いて、白猫の左手を上げたBAくんは人や大きな福を招いているよ。\n\n#THEME: Lucky charms\n\nManekineko (Lucky cat) has been popular as a good-luck charm for good business since a very long time ago.  \nAlpaca Go Go, a black cat raising his right hand brings money and keeps evil spirits away. Odd eye BA, a white cat raising his left hand brings people and great fortune.\n\n---\n\nLeft character: Alpaca Go Go  \nRight character: Aoyoko  \nLeft character coloring: YO-CO  \nRight character coloring: Mai Kano  \nBackground: YO-CO",
+  "attributes": [
+    {
+      "value": "Alpaca Go Go",
+      "trait_type": "Main Character"
+    },
+    {
+      "value": "Aoyoko",
+      "trait_type": "Main Character"
+    },
+    {
+      "value": "YO-CO",
+      "trait_type": "Character coloring"
+    },
+    {
+      "value": "Mai Kano",
+      "trait_type": "Character coloring"
+    },
+    {
+      "value": "YO-CO",
+      "trait_type": "Background"
+    }
+  ]
+}

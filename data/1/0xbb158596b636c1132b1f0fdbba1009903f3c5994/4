@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWA1R5zTwn9HYyKp3sx4CYcZwNKFPHyE4KEz78WHa4f8W/nft.png",
+  "nftContractAddress": "0xbb158596b636c1132b1f0fdbba1009903f3c5994",
+  "animationUrl": "https://ipfs.io/ipfs/QmWA1R5zTwn9HYyKp3sx4CYcZwNKFPHyE4KEz78WHa4f8W/nft.png",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "NFTJPN Official #4",
+  "description": "NFTJPN official NFT #4 created exclusively for the sponsor of the 7th Curation Event on May 14, 2022. - Artist: Pinko @pin27144122",
+  "attributes": [
+    {
+      "value": "Pinko",
+      "trait_type": "ARTIST"
+    },
+    {
+      "value": "May 14, 2022",
+      "trait_type": "DATE"
+    },
+    {
+      "value": "7th Curation",
+      "trait_type": "EVENT"
+    }
+  ],
+  "minted": "✅"
+}

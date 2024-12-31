@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma8rgv5pJwxF57p4SsN9qxWUXuvYV6wzfC4XSu17HKFuf/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 397,
+  "chainId": "1",
+  "name": "GINNY",
+  "description": "■ジニー",
+  "attributes": [
+    {
+      "value": "bubble2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Red",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "JK2",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-3EYES",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Orochi-Hyou(H)S",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Meta tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdWa9MAABNbk2gJ3Mv5LDCUToAqVBB3RuwpkfNHiS4new/nft.gif",
+  "nftContractAddress": "0x14df01ddadf042d171a95f0ca8a3911a3c3457ab",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "#22",
+  "description": "モナリザだって焼き芋食べたい",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Mona Lisa",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Black Bread",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Sweet Potato",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "Mona Lisa",
+      "trait_type": "Job"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

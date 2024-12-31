@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf1NWpexQW8tdk6GqDGEWP7dFvYnerHcAc4DTdnumfH4d/nft.jpeg",
+  "nftContractAddress": "0xf74d502a2070a323d74328379aba71476ed69e0f",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "room#2",
+  "description": "All handmade,all one only.\nThis building is under construction.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWwDNdDpWPkiXVAy5SWSRS6sVyCwp1VKVrWSJrAmb1MZS/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 260,
+  "chainId": "1",
+  "name": "BRUNA",
+  "description": "■ブルーナ",
+  "attributes": [
+    {
+      "value": "Deep-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Time",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Skyblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "composed-smile",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "ETH High School",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Green",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bored Ape1",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

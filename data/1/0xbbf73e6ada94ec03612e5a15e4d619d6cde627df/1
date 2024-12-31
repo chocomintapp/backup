@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmaj7PVLaEu83anaf4xC2zk9Db95YaZcAJB3WW93BxdsfY/nft.jpg",
+  "tokenId": 1,
+  "description": "test",
+  "nftContractAddress": "0xbbf73e6ada94ec03612e5a15e4d619d6cde627df",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "TEST SAKURA",
+  "attributes": []
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUBgcxuTfMKj1WGsMERi49pX2ZdHinYW9Zj1st41aZoEd/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 211,
+  "chainId": "1",
+  "name": "December 14 エリカ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "14",
+      "trait_type": "日"
+    },
+    {
+      "value": "自立",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "エリカ",
+      "trait_type": "花"
+    }
+  ]
+}

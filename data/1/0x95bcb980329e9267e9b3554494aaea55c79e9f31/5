@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfBD6fRupqGYMdtVULEwNKcWgPP4LLopSqsDN3afd3dWQ/nft.png",
+  "nftContractAddress": "0x95bcb980329e9267e9b3554494aaea55c79e9f31",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "#005F~I want to spend christmas with you",
+  "description": "This work is a fan art of Cool Girl NFT.  \nThis work has been moved to another collection.  \nClick here for details.  \nhttps://opensea.io/assets/ethereum/0x03739b971be62a4c5fa6a75edf4a9a7cccf452a9/1  \n  \nこちらの作品はコレクション移動を行いました。  \n詳しくはこちらのURLからアクセスしてください。  \nhttps://opensea.io/assets/ethereum/0x03739b971be62a4c5fa6a75edf4a9a7cccf452a9/1",
+  "attributes": [
+    {
+      "value": "CoolGirlNFT",
+      "trait_type": "FANART"
+    },
+    {
+      "value": "001",
+      "trait_type": "No."
+    },
+    {
+      "value": "winter",
+      "trait_type": "season"
+    }
+  ]
+}

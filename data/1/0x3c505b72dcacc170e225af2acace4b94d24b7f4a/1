@@ -1,0 +1,24 @@
+{
+  "image": "https://amethyst-rare-boar-467.mypinata.cloud/ipfs/Qmebifqph1w7Dt1j1jQk76qRZm6SdaWmiZ4TKD91B9xWxL?_gl=1*1whukks*_ga*MTgyNjQ2NTQ4NS4xNzA0NTUyNjcy*_ga_5RMPXG14TE*MTcwNDU1MjY3NC4xLjEuMTcwNDU1NDU4Mi4zMy4wLjA.",
+  "nftContractAddress": "0x3c505b72dcacc170e225af2acace4b94d24b7f4a",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "In winter want to see your smile",
+  "description": "This is a collection depicting various moments of a girl named ZQN-chan, with the theme of \"with you\"..",
+  "attributes": [
+    {
+      "value": "ZQN",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "winter",
+      "trait_type": "season"
+    },
+    {
+      "value": "hot spring",
+      "trait_type": "place"
+    }
+  ],
+  "minted": "✅"
+}

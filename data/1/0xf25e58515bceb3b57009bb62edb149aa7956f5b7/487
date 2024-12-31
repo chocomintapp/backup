@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWqJCe8fzdqwRyqWBtJaUAuz4YqLWAyAwQDdnMasqLNSU/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 487,
+  "chainId": "1",
+  "name": "BEZY",
+  "description": "■ベズィ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0004Eye2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "LoliFoodie-Pink",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "LongEar",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dominion",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Angel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Angel Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

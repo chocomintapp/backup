@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTXuwJ755hHb58QoQcE8kqunZwP4vJ39CVBohpxsLWK6A/nft.PNG",
+  "tokenId": 1,
+  "description": "This is the first in a series of works depicting kawaii girl.\nThe author is Japanese illustrator MAGY.",
+  "nftContractAddress": "0x6f4c318fa256a40c34dfacac39701334895e6418",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Kawaii girl #001 S",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQki5kYYxxVFkzn196pi4SnMJzYWUu78xpvjTkKNKwv5f/nft.mp4",
+  "nftContractAddress": "0xe5e541c33576f4d56ddcb3a3453d2c7975482c81",
+  "animationUrl": "https://ipfs.io/ipfs/QmQki5kYYxxVFkzn196pi4SnMJzYWUu78xpvjTkKNKwv5f/nft.mp4",
+  "tokenId": 127,
+  "chainId": "1",
+  "name": "Festival ticket No.177",
+  "description": "ｵｼﾞﾁｬﾝの口癖一覧\n・いやいや\n・ワシが〜\n・いいじゃないですか〜\n・も〜・・・ワシ頑張ったよ\n・あ〜忙し忙し\netc...",
+  "attributes": [
+    {
+      "value": "2.5%",
+      "trait_type": "sign"
+    }
+  ],
+  "minted": ""
+}

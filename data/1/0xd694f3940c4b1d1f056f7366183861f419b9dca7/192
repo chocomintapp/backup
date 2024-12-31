@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRi8wiPsSGcnKyntCxuH3AQtUqDqQMjTR5RhgosYSX2gW/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 192,
+  "chainId": "1",
+  "name": "November 25 ゼラニウム（葉）",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "11",
+      "trait_type": "月"
+    },
+    {
+      "value": "25",
+      "trait_type": "日"
+    },
+    {
+      "value": "努力家",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ゼラニウム",
+      "trait_type": "花"
+    }
+  ]
+}

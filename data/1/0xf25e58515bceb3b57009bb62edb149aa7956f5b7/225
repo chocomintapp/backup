@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdkEMHHgaegtyxvjVz1rmFShCFrL1Mz6QPSCba3d6gdzX/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 225,
+  "chainId": "1",
+  "name": "MUMIAH",
+  "description": "■ムミヤ",
+  "attributes": [
+    {
+      "value": "Bright-Orange",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Catstyle",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Lightpink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-Zombiegreen",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-P",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "RareLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Black",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

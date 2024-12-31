@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf5sLNwscUwXqVB4SVoxmeATV4KWcEM7PLeqYjQqa7BKm/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 38,
+  "chainId": "1",
+  "name": "AMELIA",
+  "description": "AMELIA gets annoyed when her bangs hang down.\n\nShe buys a hair iron for the first time to put her bangs up forever more but I recently realized that I can't do that separately.\n\nA pretty girl with a miraculously bad head.\n■アメリア\n前髪が垂れてるとイライラしてしょうがないアメリア。\n\nもう永遠に前髪をアップにしたいと思ってヘアアイロンをはじめて購入するが、別にそんなことができないことに最近気づく。\n\n頭が奇跡的に悪い可愛らしい女の子。",
+  "attributes": [
+    {
+      "value": "Ninja2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Skyblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-USkyblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Whiteblue",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Skull-Panda",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

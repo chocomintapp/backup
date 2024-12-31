@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmewx8Y5Q47coSuFgWrQ68Q2MstgNMrYspj2DTrzg22QGe/nft.jpg",
+  "nftContractAddress": "0x9da659dae0b0041c25214e3bd55d388d2702a7f0",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "JUNK SLAM",
+  "description": "\".....Destruction....\"",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcXuMciomutMefWRdKVmq58w4WwbFe8seKGKbo9BSdTx3/nft.psd",
+  "tokenId": 1,
+  "description": "Human extinction",
+  "nftContractAddress": "0xd45965ac689c9afc8e4a96cbc8fc973ab694fa1b",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Omicron ",
+  "attributes": [
+    {
+      "trait_type": "Ethereum",
+      "value": "300 eth"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

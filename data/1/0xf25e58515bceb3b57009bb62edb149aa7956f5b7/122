@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZe4JXrVGNhX1pTymwFBtuVCt915TgxJwEEXv38ECFBLL/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 122,
+  "chainId": "1",
+  "name": "MUMI",
+  "description": "■ムミ",
+  "attributes": [
+    {
+      "value": "Dot9",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Skyblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-Uyellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees-Skyblue（G）",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Green",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Toy box",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "HeadbandｰWW",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "The Greens",
+      "trait_type": "TYPE"
+    }
+  ]
+}

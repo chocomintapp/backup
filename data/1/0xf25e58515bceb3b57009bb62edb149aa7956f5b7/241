@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZpZE3joEe8gZRPnwemddJudCQtoPkTJjDyep1odkwxrc/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 241,
+  "chainId": "1",
+  "name": "MEBAHEL",
+  "description": "■メバエル",
+  "attributes": [
+    {
+      "value": "MIX7",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Green",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-ZYellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WG",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bored Ape6",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Mix1",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

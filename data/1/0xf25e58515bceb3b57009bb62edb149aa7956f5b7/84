@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPjgseFpQV5bBSbaVr2F94E7prKx3oAScGzuSRAVCZe7h/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 84,
+  "chainId": "1",
+  "name": "LALA",
+  "description": "Drunk at all hours.\n\nQuick to open up to strangers.\n\nVery positive and friendly drunk.\n\nShe is often seen catching a complaining businessman, lecturing her and befriending him.\n\nShe has many hidden fans.\n■ララ\n\n四六時中酔っぱらってる。\n\n見ず知らずの人間と打ち解けるのが早い。\n\nすごく前向きでフレンドリーな酔っ払い。\n\n愚痴を言うサラリーマンを捕まえては説教して仲良くなってる姿が度々目撃されてる。\n\n彼女の隠れファンは多い。",
+  "attributes": [
+    {
+      "value": "Deep-Blue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-Skyblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Yellowblack",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Groggyman",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "EyeBall1",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

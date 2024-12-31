@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc7JTovisZorZW4zwtkyphBChMFkfNy1Bt8FngrGxSGjZ/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmPd7qNArFsz1K4xbSvMqeZYPJQwRNoZ45Wiv5a5JceL3v/nft.mp4",
+  "tokenId": 223,
+  "chainId": "1",
+  "name": "THE JEWEL #223",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Yellow Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

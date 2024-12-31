@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUqyGpiUBvihtTxKgy4s5yyjCKTgGJd6TygeSDcNUhVkD/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 251,
+  "chainId": "1",
+  "name": "January 23 ウインターグリーン",
+  "description": "",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "月"
+    },
+    {
+      "value": "23",
+      "trait_type": "日"
+    },
+    {
+      "value": "際立った個性",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ウインターグリーン",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

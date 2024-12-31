@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQNdp5jZTrGhFZPg6PYfeXMMLgFsZbGozeTysVJcZLpF1/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 213,
+  "chainId": "1",
+  "name": "December 16 マーガレット（白）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "16",
+      "trait_type": "日"
+    },
+    {
+      "value": "恋の行方",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "マーガレット",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

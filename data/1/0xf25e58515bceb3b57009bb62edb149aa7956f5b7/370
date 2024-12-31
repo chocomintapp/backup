@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTmQxTNtSyNGa5o7WFTqPo5pQQ9GTkZjBmV2L29oWceuN/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 370,
+  "chainId": "1",
+  "name": "NABIO",
+  "description": "■ナビオ",
+  "attributes": [
+    {
+      "value": "Rainbow-Mix3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Edo-wigRed",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye5",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-kanazawa",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bored Ape6",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

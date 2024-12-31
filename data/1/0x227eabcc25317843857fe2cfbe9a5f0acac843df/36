@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdBKJzvX9CQw6mG2Ep61UP7RS7aA5poSepnWUMXBrYVYy/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "1",
+  "name": "Beach Borne Bae #64",
+  "description": "Beach Borne Bae #64\nInspired by Redtoothed triggerfish / アカモンガラ",
+  "attributes": [
+    {
+      "value": "Medium Bob",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Off Shoulder",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

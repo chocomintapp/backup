@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdaxZ3fDNTxzCegZgQRJxkF4e41hJkc5RdVDcoNnHUM2g/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmSokU16EAL1SQ57MvxLi1pNznXmDTarofwy5Jy89KA2Ri/nft.mp4",
+  "tokenId": 145,
+  "chainId": "1",
+  "name": "THE JEWEL #145",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Green Amethyst",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

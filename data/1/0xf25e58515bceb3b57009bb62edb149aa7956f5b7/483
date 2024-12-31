@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWpNT2uGcQrtCW4XRHPwVFZkuBqfGsY3wuBgr7qo3qXKD/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 483,
+  "chainId": "1",
+  "name": "AZUKI",
+  "description": "■アズキ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.10",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Lolitahair-Mixpink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Eyes-Of-Flame",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Maid robot(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Toypoodle",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

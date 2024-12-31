@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQgFGxemtoACBmmwjhoHzE2ue9ZH2hYUDV5KGAyf656zj/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "POPET No.20",
+  "description": "【物語】\n\n今世紀最大の天才科学者。\n集中しすぎて自分の研究に巻き込まれよく怪我をしてしまう。　",
+  "attributes": [
+    {
+      "value": "科学者",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "研究室",
+      "trait_type": "origin"
+    },
+    {
+      "value": "お茶目",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

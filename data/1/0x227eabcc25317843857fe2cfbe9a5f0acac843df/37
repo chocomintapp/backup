@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS93aYSfLJarea3fheKZmg96TB6Af1E3CnUNGG9nQ8sZ8/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "1",
+  "name": "Beach Borne Bae #65",
+  "description": "Beach Borne Bae #65\nInspired by Splendid alfonsino / キンメダイ",
+  "attributes": [
+    {
+      "value": "Long",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Sweater",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Light Red",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

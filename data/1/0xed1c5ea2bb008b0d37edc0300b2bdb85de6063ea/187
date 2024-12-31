@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbHpWoGzHx3Yhvm1VMS3KvnJK5oU6afmWxTCdFrXdwhS9/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 187,
+  "chainId": "1",
+  "name": "Nora",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "Ursa Major",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV18iW4uWMpiCTqdNniNYmE6EXt6SpXxnrPjby2fY1ggp/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 150,
+  "chainId": "1",
+  "name": "ALICIA",
+  "description": "■アリシア",
+  "attributes": [
+    {
+      "value": "Dot1（made by YUDA）",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.0",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Deeppink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "RobotEye3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "West High School",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Green",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

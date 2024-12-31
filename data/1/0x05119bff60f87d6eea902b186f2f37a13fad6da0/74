@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb7q3Sph2k2uEd4QcG6KP8Yho1zD82B9sHqBkC7mLReuj/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 74,
+  "chainId": "1",
+  "name": "POPET No.74",
+  "description": "【物語】POPTOWNアイドルショートケーキ担当。ホイップのようにやわらかくていちごのように甘酸っぱい歌声。",
+  "attributes": [
+    {
+      "value": "アイドル",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ライブハウス",
+      "trait_type": "origin"
+    },
+    {
+      "value": "活発",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

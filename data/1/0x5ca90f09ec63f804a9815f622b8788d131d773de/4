@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRzGM98jQLbw8FT7TdJXpdJ7fCqnsV4Eh2gxPeMnFuD9c/nft.gif",
+  "nftContractAddress": "0x5ca90f09ec63f804a9815f622b8788d131d773de",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Flying Happy Nyao Cat in Nyatrix #001",
+  "description": "The grand adventure of Nyao begins now. \nThis story will give you courage, hope, and opportunities. \nBelieve in it. \nBelieve in your world.",
+  "attributes": [
+    {
+      "value": "tabby",
+      "trait_type": "pattern"
+    },
+    {
+      "value": "Nyatrix",
+      "trait_type": "place"
+    },
+    {
+      "value": "orange",
+      "trait_type": "body color"
+    },
+    {
+      "value": "sunglasses",
+      "trait_type": "eye"
+    },
+    {
+      "value": "dark blue",
+      "trait_type": "background"
+    }
+  ]
+}

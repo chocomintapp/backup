@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUt8Dvw7UR3VBVSkC9QpYf6ZXw9sDHPHyV8x6CEaYirEo/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 190,
+  "chainId": "1",
+  "name": "November 23 チャノキ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "11",
+      "trait_type": "月"
+    },
+    {
+      "value": "23",
+      "trait_type": "日"
+    },
+    {
+      "value": "ユーモア",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "チャノキ",
+      "trait_type": "花"
+    }
+  ]
+}

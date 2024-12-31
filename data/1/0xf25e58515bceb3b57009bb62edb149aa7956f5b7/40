@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPZTLJvT5E59G4RNxACfHCJbyy5PbPwVmT6VSrSqG9ve9/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "1",
+  "name": "UnknownA",
+  "description": "A mysterious life form that is both alive and able to compete with androids.\n\nIts habitat seems to be the western forest. They say to the moon, \"Come at me!\" and is frequently seen fighting with the moon.\n■未知A\n\n生身でありながらアンドロイドとも互角に戦える謎の生命体。\n\n西の森が生息地らしく、月に向かって「かかってこいや！」と喧嘩を売っているのが、頻繁に目撃されている。",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-ZRed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-Red",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-Zombie",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Cat",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Red",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Unknown",
+      "trait_type": "TYPE"
+    }
+  ]
+}

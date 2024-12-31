@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmavdJHdXDeRnvf6GEEMMGM2fmP3jmfUNZmWFN9sHiqpSR/nft.mp4",
+  "nftContractAddress": "0x58d900cae7a1e1703e8ad2470915741d4aee4794",
+  "animationUrl": "https://ipfs.io/ipfs/QmavdJHdXDeRnvf6GEEMMGM2fmP3jmfUNZmWFN9sHiqpSR/nft.mp4",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "Chapter 12",
+  "description": "Flowers are beautiful for being flowers.  \nWhat is the root of the living, the abstract, the static, the beautiful?\n",
+  "attributes": []
+}

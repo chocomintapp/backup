@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQs2RHjSoZt6JfxW6KTp6kp7JrQbNkxFS4qRFA1WtNzHi/nft.PNG",
+  "nftContractAddress": "0x2c568c22885a822323e27ef5b602111aba9bf039",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "Fan Autumn",
+  "description": "A little ghost who loves the fan.\nI modified it to look like autumn.",
+  "attributes": []
+}

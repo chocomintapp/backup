@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPtwUstNnjXkND8t1A9ahieFJcCS6ZnrxmzSDQ2ZHthPD/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 69,
+  "chainId": "1",
+  "name": "ZIZA",
+  "description": "Daughter of a blue man who is good at psychokinesis.\n\nBut ZIZA cannot use any psychokinesis.\n\nInstead, she has the arm strength comparable to that of the Meta tribe, and can fight demons on equal or better terms.\n\nZIZA's face when she is smiling is reputed to be scary.\nZIZA。\n■ジザ\nサイコキネシスが得意な青人の娘。\n\nだけどZIZAはサイコキネシスが一切使えない。\n\nその代わり、メタ族にも匹敵する腕力を持っており、悪魔とも対等以上に戦える。\n\nZIZAが笑ってる時の顔はとにかく怖いと評判だ。\n",
+  "attributes": [
+    {
+      "value": "Deep-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Madness",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Brightred",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-UOrange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Atype(BLU)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-Flower",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Demon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "HeadbandｰRR",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Blue Family",
+      "trait_type": "TYPE"
+    }
+  ]
+}

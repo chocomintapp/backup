@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTzyDMQuA6HYeSiuYJJ5VHStN5TND9qcMd4WdwsdLK7wA/nft.jpg",
+  "nftContractAddress": "0x2e89dc478e72c8c26becb82020faa1f687b2ed65",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Sun",
+  "description": "Sun, relax visioni",
+  "attributes": [
+    {
+      "value": "100",
+      "trait_type": "100"
+    }
+  ]
+}

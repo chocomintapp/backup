@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPnkykjGCCJuN2uGy5FZPc3Ttiijw75Pcy7KNwPytCPbS/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmUdB2fVYbs4oJfLzZRu4ki34cq3qGLbiYmiER8aa9E56J/nft.mp4",
+  "tokenId": 409,
+  "chainId": "1",
+  "name": "THE JEWEL #409",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Brown",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Iridium",
+      "trait_type": "Control device"
+    }
+  ]
+}

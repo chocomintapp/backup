@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfBujZJt72kxewzBpceREYpiyavhx3Uccw3j12vDRBBa7/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 67,
+  "chainId": "1",
+  "name": "HINATA",
+  "description": "HINATA was walking with her beloved dog and cat when an unexpected accident caused her to leave this world.\n\nHer good deeds in her previous life were recognized by God, and she is now living as an angel in the heavenly realm with her beloved dog, Sakura, and her cat, Coco.\n\nOnly Coco, her beloved cat, is a hairpin at her own request.\n\nHer dog Sakura liked Chihiro's hair color so much that she had it made the same color.\n■ヒナタ\n愛犬と愛猫と一緒に散歩中、不慮の事故によってこの世を去ることになってしまったヒナタ。\n\n前世での善行が神様に認められ、愛犬のサクラと愛猫のココと一緒に天使人として天界で暮らすことになった。\n\n愛猫のココだけは本人の希望で、ヘアピンとして。\n\n彼女の愛犬サクラはチヒロの髪色を気に入っていたので同じ毛色にしてもらった。",
+  "attributes": [
+    {
+      "value": "Dot1",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Tears",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-ALLPink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-White(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-coco",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Sakura",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Angel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Angel Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

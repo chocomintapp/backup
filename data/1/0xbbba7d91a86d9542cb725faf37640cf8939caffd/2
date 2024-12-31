@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRMiqxzTh28NSVUEiuq5FJBb4yXomLVgyA2fy6avm1DYM/nft.png",
+  "nftContractAddress": "0xbbba7d91a86d9542cb725faf37640cf8939caffd",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "VeryRealAnimals#2",
+  "description": "",
+  "attributes": [
+    {
+      "value": "dog",
+      "trait_type": "dog"
+    }
+  ]
+}

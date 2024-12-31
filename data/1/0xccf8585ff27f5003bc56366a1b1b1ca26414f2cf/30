@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX1sPj7aoDRBu4rHCwKNe7ZKSF3SefUkKaSYNTtoL1pb8/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "1",
+  "name": "WEAR BEAR #111 \"STEVE\" BLACK FOODIE&CAP",
+  "description": "WEAR BEAR 第12弾はHIP HOPクルー“BEAR HOP”として音楽シーンに鮮烈デビュー！オールブラックコーデでクールに登場\n“STEVE”は”BEAR HOP”オフィシャルCAPにハイブランドのFOODIEで登場\n",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "“CELINE” Foodie",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Black Trousers",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "“MIKE” Bear hop Air",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Steve",
+      "trait_type": "Model"
+    },
+    {
+      "value": "“BEAR HOP” Cap",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

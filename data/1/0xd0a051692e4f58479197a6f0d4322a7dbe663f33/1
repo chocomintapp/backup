@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU1zn7vB1sVpY9nwurXptUKSejUJacEraSYEABBcLzp28/nft.png",
+  "nftContractAddress": "0xd0a051692e4f58479197a6f0d4322a7dbe663f33",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Cool×Romaco#00 \"Genesis\"",
+  "description": "The concept of this collection is Cool and Bato.  \nBato is the inside out of love.  \n  \nThis work is a fan art of Cool Girl NFT and Bato NFT.  ",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Romaco",
+      "trait_type": "name"
+    },
+    {
+      "value": "Gen0",
+      "trait_type": "type"
+    },
+    {
+      "value": "Not words",
+      "trait_type": "words"
+    }
+  ]
+}

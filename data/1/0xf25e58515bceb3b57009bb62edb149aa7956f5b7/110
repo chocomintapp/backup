@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPzFe4Bj83MzSWLmWgB7U42Fyo8K2pYZwtuKLN1MdBnGG/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 110,
+  "chainId": "1",
+  "name": "JADA",
+  "description": "■ジャダ",
+  "attributes": [
+    {
+      "value": "Salad",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.5",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Skybluekpink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "RobotEye1",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Ftype(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Blue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Toy box",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

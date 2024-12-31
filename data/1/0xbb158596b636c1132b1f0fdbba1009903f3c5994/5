@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYr7m1KatrVtQuzC2zcLnVjgib61iY1DVj5kwfsNcojN1/nft.png",
+  "nftContractAddress": "0xbb158596b636c1132b1f0fdbba1009903f3c5994",
+  "animationUrl": "https://ipfs.io/ipfs/QmYr7m1KatrVtQuzC2zcLnVjgib61iY1DVj5kwfsNcojN1/nft.png",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "NFTJPN Official #5",
+  "description": "NFTJPN official NFT #5 created exclusively for the sponsor of the 7th Curation Event on May 14, 2022. - Artist: Yuka @kamogawayuka",
+  "attributes": [
+    {
+      "value": "Yuka",
+      "trait_type": "ARTIST"
+    },
+    {
+      "value": "May 14, 2022",
+      "trait_type": "DATE"
+    },
+    {
+      "value": "7th Curation",
+      "trait_type": "EVENT"
+    }
+  ],
+  "minted": "✅"
+}

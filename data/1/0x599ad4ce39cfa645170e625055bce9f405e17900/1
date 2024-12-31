@@ -1,0 +1,15 @@
+{
+  "image": "",
+  "nftContractAddress": "0x599ad4ce39cfa645170e625055bce9f405e17900",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Toksana",
+  "description": "Toksana",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfNikbz1SrnL2EuGEJ6fRKMjK2yxw91LZhvuQpkH7rGpL/nft.png",
+  "tokenId": 1,
+  "description": "name One line in tha world",
+  "nftContractAddress": "0x8170410078c254266eedf4f7a7f711d7bff41f22",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "One line in tha world"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVJfPjaTWXozWcHHNerBsZGmXjazz9n5fC4esZsqPUHnf/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmP7hcJ826bt7y7Lv4FHTov7XBA9RCwgSCPTQnFb4P4oym/nft.mp4",
+  "tokenId": 215,
+  "chainId": "1",
+  "name": "THE JEWEL #215",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Padparadscha Sapphire",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Tantalum",
+      "trait_type": "Control device"
+    }
+  ]
+}

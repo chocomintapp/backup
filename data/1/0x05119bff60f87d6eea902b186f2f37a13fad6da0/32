@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPh8nn3VjcQTdXbiAt6xsDXv2irVSJNKKqcQd8asn4DkK/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "1",
+  "name": "POPET No.32",
+  "description": "【物語】\n\n自由に生きよ。\n人間、みな野原のいしころ。\nどこかへ転がってもそこで骨になるだけ。",
+  "attributes": [
+    {
+      "value": "侍",
+      "trait_type": "job"
+    },
+    {
+      "value": "好奇心旺盛すぎ",
+      "trait_type": "skill"
+    },
+    {
+      "value": "武家屋敷",
+      "trait_type": "origin"
+    },
+    {
+      "value": "マイペース",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

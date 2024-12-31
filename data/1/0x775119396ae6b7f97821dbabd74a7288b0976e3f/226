@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQMUrNCCQynUMiqyrsraxGTr2w6fJjpYvxcKxFqQ1sdw5/nft.png",
+  "nftContractAddress": "0x775119396ae6b7f97821dbabd74a7288b0976e3f",
+  "animationUrl": "",
+  "tokenId": 226,
+  "chainId": "1",
+  "name": "C.R.E.A.M. X Baby Bunta 03",
+  "description": "C.R.E.A.M. story -cat rules everything around me-\n\nOne Cat's Story\n\nCode name \"Michael\n\nHe is a cat with artificial intelligence created by an engineer based on a cat's DNA. Michael's mission is \"Fashion x Street\", and he explores the street everyday for this mission. His special ability is that he can change his fur color and eye color freely according to the fashion. And he only wears it on the coolest things!\n\nA fashion icon in the cat world, Michael lives on the streets of the blockchain and leaves his mark every day.\n\nある1匹の猫のストーリー\n\nコードネーム『マイケル』\n\ndigital streetに生きる彼は、1人のエンジニアによって、とある猫のDNAを元に造られた人口知能を持った猫である マイケルに与えられた任務は『ファッション×street』この任務のために日々streetを探検している 彼の特殊能力はファッションに合わせて毛皮の色も眼の色も自由自在に変幻できる しかも最高にクールな物にしか身につけない\n\n猫界のファッションアイコンとなったマイケルはブロックチェーンのストリートに生き日々足跡を残している\n\nhistory is made one cat × one engineer’s story",
+  "attributes": [
+    {
+      "value": "black",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "BUNTA",
+      "trait_type": "BODY TYPE"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "EYE"
+    },
+    {
+      "value": "Basketball jersey",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "3Chainz",
+      "trait_type": "JEWELZ"
+    },
+    {
+      "value": "Paw pad",
+      "trait_type": "HEAD"
+    }
+  ]
+}

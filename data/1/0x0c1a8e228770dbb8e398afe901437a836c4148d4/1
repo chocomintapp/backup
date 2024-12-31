@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRNaY6aCt7nkfGs1QtnKQVBP3uDVUeKPQcqLdWJE7tWAE/nft.jpg",
+  "tokenId": 1,
+  "description": "The best gun sometimes",
+  "nftContractAddress": "0x0c1a8e228770dbb8e398afe901437a836c4148d4",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "As Valt",
+  "attributes": []
+}

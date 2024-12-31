@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTipc4ZPyNBbLZKKGtBX1QFngjjEvFV936z8CfBZzPcAb/nft.png",
+  "nftContractAddress": "0xca6aec18e85c23583d98ae65f78080fcedb046a4",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "1",
+  "name": "028 One-side Lovers : Series02-Beach [Surfer Girl]",
+  "description": "■Fukuyoshi Rokka's Artwork collection \n\"One-side Lovers”\nSeries02-Beach\n\n福吉ロッカのアートワークコレクション\n「One-side Lovers」\nシリーズ２-Beach",
+  "attributes": [
+    {
+      "value": "Beach",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "Hair-color"
+    },
+    {
+      "value": "Semi-long",
+      "trait_type": "Hair-style"
+    },
+    {
+      "value": "Surfboard/Bag",
+      "trait_type": "Item"
+    },
+    {
+      "value": "02/Beach",
+      "trait_type": "Series-number"
+    },
+    {
+      "value": "Blue sky",
+      "trait_type": "Sky"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Swimsuit-color"
+    },
+    {
+      "value": "Monokini",
+      "trait_type": "Swimsuit-type"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRcBYUjCdfATviDhB4R3qfm91kJp9JYHQJr4pFoRhBpZy/nft.jpg",
+  "nftContractAddress": "0xbb158596b636c1132b1f0fdbba1009903f3c5994",
+  "animationUrl": "https://ipfs.io/ipfs/QmRcBYUjCdfATviDhB4R3qfm91kJp9JYHQJr4pFoRhBpZy/nft.jpg",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "NFTJPN Official #3",
+  "description": "NFTJPN official NFT #3 created exclusively for the sponsor of the 6th Curation Event on April 9, 2022. - Artist: Shimizu Wakako @Simizu_wakako",
+  "attributes": [
+    {
+      "value": "Shimizu Wakako",
+      "trait_type": "ARTIST"
+    },
+    {
+      "value": "April 9, 2022",
+      "trait_type": "DATE"
+    },
+    {
+      "value": "6th Curation",
+      "trait_type": "EVENT"
+    }
+  ],
+  "minted": "✅"
+}

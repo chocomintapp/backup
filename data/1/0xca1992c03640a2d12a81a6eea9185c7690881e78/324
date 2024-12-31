@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc8Mbd59wmepAK1x44pwhDVccNqreaaTeP6ypoUeSkCRi/nft.png",
+  "tokenId": 324,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #324",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Cobalt Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Knit Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Silver Top Heart"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "White Glasses"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Black Bunny"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "British Shorthair"
+    }
+  ]
+}

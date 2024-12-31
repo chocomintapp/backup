@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc1ZYQfXcvskrp7xMqGk4mGfmGEum3vpWyL24Bko153vo/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWzAtgjKNkF5WV2HCF79pbXw5qCmamf2RmgqYAEY75Fcy/nft.mp4",
+  "tokenId": 455,
+  "chainId": "1",
+  "name": "THE JEWEL #455",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Yellow Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Control device"
+    }
+  ]
+}

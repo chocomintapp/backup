@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdNyf8wAWEhXSskRg6gykGmSbEosDbFre2FwTL4KgRo3n/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 78,
+  "chainId": "1",
+  "name": "SORA",
+  "description": "Sora is a caring and big sisterly person.\n\nShe is trusted by everyone around her and is always there for anyone's advice.\n\nHowever, she is always short of money, dropping her wallet on payday and lending it to people in need.\n■ソラ\n面倒見が良くて姉御肌のソラ。\n\n周りからの信頼も厚く、毎日のように誰かの相談にのっている。\n\nただ、お金には縁がないらしく給料日に財布は落とすわ、困っている人に貸してしまうわで、万年金欠。",
+  "attributes": [
+    {
+      "value": "Bright-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Pink",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Blue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sunglass-BE4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Dungarees-camouflage",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

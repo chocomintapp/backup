@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdXXXdLqzXXA7iEjoyrJ2ySDDNq1pZh7748UzaBg1fBW1/nft.jpg",
+  "tokenId": 19,
+  "description": "やちむん-パンツ\n\n沖縄の方言で焼き物の意味である、やちむん表現しました。\n\n手書きで描かれる丸い模様や唐草模様をあしらっています。\n\nYachimun Pants\n\nYachimun is an expression of the Okinawan dialect word for pottery.\n\nIt is decorated with hand-drawn round patterns and arabesque patterns.",
+  "nftContractAddress": "0xb0a266c39b3932ddab4a941e36c56cccead1b0fa",
+  "animationUrl": "https://ipfs.io/ipfs/QmRbPpVAtf4X2VAg26FgRsSZLCB8EZghxedMiWMVGq89hb/nft.glb",
+  "chainId": "1",
+  "name": "PRESS POTTERY Yachimun",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXqr1yp2kXybfaZYWF27iMDh2c1m29JxT7aFcphSBSYeF/nft.JPG",
+  "nftContractAddress": "0xd1f8aade1d996c02b5d62321716dc4b58f230f75",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "Immigration Letter #007",
+  "description": "Hamburger Kingdom",
+  "attributes": [
+    {
+      "value": "Hamburger Kingdom",
+      "trait_type": "TYPE"
+    }
+  ]
+}

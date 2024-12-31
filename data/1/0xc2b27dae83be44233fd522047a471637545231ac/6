@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQjHMQmTt2kA8FJVGz8W1YmnKhiF2j5JkpQzLQ6zANQi8/nft.jpg",
+  "nftContractAddress": "0xc2b27dae83be44233fd522047a471637545231ac",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "\"WAFUKU\"ART #001",
+  "description": "001\n\nWhite of the Beginning",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "candied straberries - 苺飴",
+      "trait_type": "accessory"
+    },
+    {
+      "value": "cat - 猫",
+      "trait_type": "character"
+    },
+    {
+      "value": "FND",
+      "trait_type": "originality"
+    },
+    {
+      "value": "White - 白",
+      "trait_type": "individuality"
+    },
+    {
+      "value": "kimono - 着物",
+      "trait_type": "wafuku"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNaQVMSjTpptxfhgzfwd4TREtGoHWu6t6BartH3jgjtmF/nft.png",
+  "tokenId": 142,
+  "description": "",
+  "nftContractAddress": "0xa3504b583db9090d46bb3c97e04eae5e61e3dfce",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #142",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Pixie Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Carmine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wide Neckline"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "See-Through"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Silver Peace"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Ethereum"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfQwaZ6Dac1ACtp9HyPHtJmSj3bhv2JT5Qv9gbqj1Q1hh/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "1",
+  "name": "Subbu",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "red",
+      "trait_type": "skin"
+    },
+    {
+      "value": "black_red",
+      "trait_type": "eye"
+    },
+    {
+      "value": "lpurple09",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "mars_emblem",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Lacerta",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

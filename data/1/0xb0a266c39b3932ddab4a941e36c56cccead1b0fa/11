@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPz3J3n7LGcdhFHnomXgsZqFLBwCiApSXtFgWQCAeKxfE/nft.jpg",
+  "tokenId": 11,
+  "description": "備前焼-メンズシャツ\n\n岡山県備前市周辺を産地とする炻器で、土の風合いが特徴的です。\n\n表面のざらざらとテカリを表現しています。\n\nBizen ware - Men's shirt\n\nBizen Pottery is a stoneware produced in and around Bizen City, Okayama Prefecture, and is characterized by its earthen texture.\n\nIt expresses the roughness and shine of the surface.",
+  "nftContractAddress": "0xb0a266c39b3932ddab4a941e36c56cccead1b0fa",
+  "animationUrl": "https://ipfs.io/ipfs/QmUwHuPbyBgVMpRVbHtZFQSDZ8CbPdi6x6KxagjmemBYgP/nft.glb",
+  "chainId": "1",
+  "name": "PRESS POTTERY Bizen",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQrE5bGB3DjNu1xjtjbmgemUehRtH8r5NrXdMqF87Mh7k/nft.png",
+  "tokenId": 1,
+  "description": "My rock world.",
+  "nftContractAddress": "0xf1147db1775de6ff5f44c74336ce24e56da2a686",
+  "animationUrl": "https://ipfs.io/ipfs/QmQrE5bGB3DjNu1xjtjbmgemUehRtH8r5NrXdMqF87Mh7k/nft.png",
+  "chainId": "1",
+  "name": "Studio apartment music",
+  "attributes": [],
+  "minted": "✅"
+}

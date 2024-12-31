@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXVPzxTg6JxqnstHtxfKCmLgPZ8xRNTdLsSLvzt39nJEk/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmb57k3HyqVnM8BuLqcEptVtKh1oyARFSjq6V6Qfjpqthh/nft.mp4",
+  "tokenId": 775,
+  "chainId": "1",
+  "name": "THE JEWEL #775",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Ice blue diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Zirconium",
+      "trait_type": "Control device"
+    }
+  ]
+}

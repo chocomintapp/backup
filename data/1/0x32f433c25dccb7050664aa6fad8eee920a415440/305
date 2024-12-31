@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcLTJCGVUn4kBumwAEcy4rKFUCknDRD2NV6zw71pvC635/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmc2SoPuK1hQuQUj5XsFWgzLA9gaxh1Y4huHzBZKwM7VhJ/nft.mp4",
+  "tokenId": 305,
+  "chainId": "1",
+  "name": "THE JEWEL #305",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Euclase",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

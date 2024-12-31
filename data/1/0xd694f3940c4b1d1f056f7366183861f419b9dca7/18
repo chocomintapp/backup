@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNkBEqroTeGvPLbq1fdcYegjrz3tBXe1KxMRq59BvbRzg/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "June 4 シャクナゲ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "4",
+      "trait_type": "日"
+    },
+    {
+      "value": "荘厳",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "シャクナゲ",
+      "trait_type": "花"
+    }
+  ]
+}

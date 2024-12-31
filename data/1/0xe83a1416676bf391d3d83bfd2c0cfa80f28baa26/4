@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYvX4GqRcFduwVaKUikUi6pJiFtLXNA9Fp2fxEX4oPj1x/nft.PNG",
+  "tokenId": 4,
+  "description": "Mysterious Ninja Kikyo's biggest rival and companion. He is unprecedented in quickness.\n<br>\n謎の忍者キキョウさんの最大のライバルでもあり、仲間でもあるニンジンさん。素早さは前に出るものはいない。",
+  "nftContractAddress": "0xe83a1416676bf391d3d83bfd2c0cfa80f28baa26",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Umeko Space Colony NFT #104 Ninjin",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Helmet",
+      "value": "Clear octagon"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Earthling"
+    },
+    {
+      "trait_type": "Space suit type",
+      "value": "Ninja clothes"
+    },
+    {
+      "trait_type": "Relationship with Umeko",
+      "value": "Mother's friend"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Japanese sword"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Ninja mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Mandarin oranges on the head"
+    }
+  ]
+}

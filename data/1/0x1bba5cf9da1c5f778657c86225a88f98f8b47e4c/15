@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmagnDDUJemKJxvJ5r9y7xYbmgErjmH8KUoNrRmYw4F6ak/nft.png",
+  "nftContractAddress": "0x1bba5cf9da1c5f778657c86225a88f98f8b47e4c",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "#024 Tim Hamburger Shop Clerk",
+  "description": "Tim is now trying to be a clerk at a hamburger shop.\nSome of the customers who come here seem to enjoy spending time with their friends, colleagues and family, while others are just working or sleeping.\nStill, Tim is very happy to think that he is doing something useful for the people of this town.",
+  "attributes": [
+    {
+      "value": "Job",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Tim",
+      "trait_type": "CHARACTER"
+    },
+    {
+      "value": "Hamburger Shop Clerk",
+      "trait_type": "JOB"
+    }
+  ]
+}

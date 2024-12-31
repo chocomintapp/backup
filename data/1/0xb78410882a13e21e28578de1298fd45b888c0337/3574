@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaZ8TUTvv3myZCUgf4bED551nPfPYv2Fq8wJuHnhEt5Aj/nft.png",
+  "nftContractAddress": "0xb78410882a13e21e28578de1298fd45b888c0337",
+  "animationUrl": "",
+  "tokenId": 3574,
+  "chainId": "1",
+  "name": "",
+  "description": "",
+  "attributes": [
+    {
+      "value": "GUREN",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "大苫辺尊",
+      "trait_type": "SIGNATURE STAMP"
+    }
+  ]
+}

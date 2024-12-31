@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYUbzAbVKPUaGo8eEgHqh8jPp6jokrs4YBeADjkw9UESq/nft.png",
+  "nftContractAddress": "0x5ed7274b0a49928b8d645e71f10a0d82c78e923c",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "Magic of Music",
+  "description": "It's magic music.",
+  "attributes": []
+}

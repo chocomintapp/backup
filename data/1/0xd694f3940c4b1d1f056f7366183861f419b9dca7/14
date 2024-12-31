@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbmB5EcgeCueyMi54n37QNZV6X6jKg4j7JuhhRaizcMme/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "May 31 スミレ（野生）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "31",
+      "trait_type": "日"
+    },
+    {
+      "value": "徒然の恋",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "スミレ",
+      "trait_type": "花"
+    }
+  ]
+}

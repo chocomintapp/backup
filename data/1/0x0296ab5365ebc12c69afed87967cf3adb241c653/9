@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbnD5AJpDUtGVSVniv34FvcgRPLRogMtha1mp6D3tLiJn/nft.jpg",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "巫弥[Fumi]",
+  "description": "「貴君の活躍、しかと拝見させていただいた。あとは任せなさい。」\n\n雲の世界でとても慕われている姉君。\n\nスーパーエリートで、一流大学を首席で卒業している。将来の統括者と言われている。",
+  "attributes": [
+    {
+      "value": "雲",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

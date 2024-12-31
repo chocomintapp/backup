@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWXXkSnmK7WzTnnSzA9YB3SCpqYR1unhK9WvDC8gsu9xe/nft.jpg",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 543,
+  "chainId": "1",
+  "name": "Saras",
+  "description": "New life born the coexistence with human and date. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.",
+  "attributes": [
+    {
+      "value": "Gods",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Tiara",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Hagoromo",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Wave",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "0LOM",
+      "trait_type": "PROTO VALUE"
+    }
+  ]
+}

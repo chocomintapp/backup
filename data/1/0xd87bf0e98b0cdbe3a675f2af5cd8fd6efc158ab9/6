@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXHJPd32evwECtt5XvQm1VwGkCb4wsfx11chnGTBGfo3v/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "THS #041",
+  "description": "【至】",
+  "attributes": [
+    {
+      "value": "butterfly",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "lotus flower",
+      "trait_type": "Mimicry"
+    }
+  ],
+  "minted": "✅"
+}

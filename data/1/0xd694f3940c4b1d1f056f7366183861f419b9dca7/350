@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUDpHEmuPMymdtHWbGjbaDniu9ZbHamSSJy78KAPr7Gp1/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 350,
+  "chainId": "1",
+  "name": "May 1 チューリップ（パーロット咲き）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "1",
+      "trait_type": "日"
+    },
+    {
+      "value": "愛の表現",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "チューリップ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

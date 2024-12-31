@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbuAN4BUSFu9vgHHDZJQzDNNuZZwvi77oUZwbfvvKEdXB/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 45,
+  "chainId": "1",
+  "name": "THS #080",
+  "description": "【不】",
+  "attributes": [
+    {
+      "value": "crane",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPVzSeKkJPzBsDLcfVETyjG5asfhh7QC2cScW4y8zf5WH/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "1",
+  "name": "THS #059",
+  "description": "【浄】",
+  "attributes": [
+    {
+      "value": "peacock",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "iris",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "goldfish",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

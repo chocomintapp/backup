@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ84DTbmhxLh3hs9jZc9VhSTAEs6pHvRiB8LY9xJEtv8M/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 374,
+  "chainId": "1",
+  "name": "朝妻峪　橋未",
+  "description": "■HASHIMI　AGATSUMADANI\n■アガツマダニ　ハシミ\n■CNPR優先権付ファンアート",
+  "attributes": [
+    {
+      "value": "bubble8",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Madness",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Anisu-china",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0001Eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "AnisuBody2",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Narukami-Su(M3)Y",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

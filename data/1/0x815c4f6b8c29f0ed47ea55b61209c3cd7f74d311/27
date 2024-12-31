@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZhY4sPpRt15ZZyZsEszoX7i1KMGwz1Vu8QFQS4pwtc61/nft.jpg",
+  "tokenId": 27,
+  "description": "The turtle wears the French flag colored turtle shell.",
+  "nftContractAddress": "0x815c4f6b8c29f0ed47ea55b61209c3cd7f74d311",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "French turtle",
+  "attributes": []
+}

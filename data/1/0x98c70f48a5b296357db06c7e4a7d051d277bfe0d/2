@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSZuafUyRUwELUNHURLC7Tsv2m849zDrPA91dJ9ScUo1L/nft.jpg",
+  "tokenId": 2,
+  "description": "A chick that brings happiness.",
+  "nftContractAddress": "0x98c70f48a5b296357db06c7e4a7d051d277bfe0d",
+  "animationUrl": "https://ipfs.io/ipfs/QmSZuafUyRUwELUNHURLC7Tsv2m849zDrPA91dJ9ScUo1L/nft.jpg",
+  "chainId": "1",
+  "name": " Chick"
+}

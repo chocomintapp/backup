@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY1cqSZenZNxbeg7XFLvF85yE5o4hB6P5JvpRhBzJSNQ2/nft.jpg",
+  "nftContractAddress": "0xf9eab9d7c674e8bbd3d9fb4eface166f306ad87a",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "#230003-rakugaki by Rica Ojara Manzana Official",
+  "description": "Rica Ojara Manzana is Contemporary artist in Tokyo.\nMany artworks, please check up my website.\nhttp://ojara.sakura.ne.jp/wp",
+  "attributes": [
+    {
+      "value": "by finger / Smartphones",
+      "trait_type": "Computer Graphics"
+    },
+    {
+      "value": "W4000 * H4908pix   year",
+      "trait_type": "Size"
+    },
+    {
+      "value": "2023",
+      "trait_type": "Year Created"
+    },
+    {
+      "value": "by (C)Rica Ojara Manzana",
+      "trait_type": "Contemporary Artists"
+    },
+    {
+      "value": "Happy-nyaan",
+      "trait_type": "Appraisal Agency"
+    }
+  ],
+  "minted": ""
+}

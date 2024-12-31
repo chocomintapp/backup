@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmckqpeDhE1b7o3J5VbwbKafvUD3x43a9qRpHySpnbwh6f/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "Mattie",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "blue",
+      "trait_type": "skin"
+    },
+    {
+      "value": "odd_red_blue",
+      "trait_type": "eye"
+    },
+    {
+      "value": "black11",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_ear",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Cetus",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

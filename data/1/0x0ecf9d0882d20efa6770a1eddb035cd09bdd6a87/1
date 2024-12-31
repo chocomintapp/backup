@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb5yfPmdNvHQ3y2DNyGyqneTyrPjT93nXLhftRYj6kKxW/nft.png",
+  "nftContractAddress": "0x0ecf9d0882d20efa6770a1eddb035cd09bdd6a87",
+  "animationUrl": "https://ipfs.io/ipfs/Qmb5yfPmdNvHQ3y2DNyGyqneTyrPjT93nXLhftRYj6kKxW/nft.png",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Since the birth",
+  "description": "Happy birthday!\nThank you for being born.\n\nI'm so glad to have met you.",
+  "attributes": [
+    {
+      "value": "10,227 ",
+      "trait_type": "days"
+    },
+    {
+      "value": "1,461",
+      "trait_type": "weeks"
+    },
+    {
+      "value": "336",
+      "trait_type": "months"
+    },
+    {
+      "value": "28",
+      "trait_type": "years"
+    },
+    {
+      "value": "1994.10.3",
+      "trait_type": "Date of birth"
+    },
+    {
+      "value": "2022.10.3",
+      "trait_type": "Date of mint"
+    }
+  ]
+}

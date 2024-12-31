@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSjxGFoQutyEbn9LEveTtHLNtX3yLmSBoigiL9KjYEMFm/nft.gif",
+  "nftContractAddress": "0x14df01ddadf042d171a95f0ca8a3911a3c3457ab",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "#2",
+  "description": "ピカっとするぜ！！\n目を開けて見つめるんだ。\n良いトリップできるぜ！！",
+  "attributes": [
+    {
+      "value": "Goro",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Goro",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Black business suit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Heavenly Experience",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background "
+    },
+    {
+      "value": "3D glasses",
+      "trait_type": "Option"
+    },
+    {
+      "value": "MIG",
+      "trait_type": "Job"
+    }
+  ],
+  "minted": "✅"
+}

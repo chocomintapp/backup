@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWip9wDqcTqdsFecBcyJSQc1px8qNob9wuYjSk93DwGz9/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 424,
+  "chainId": "1",
+  "name": "UnknownL",
+  "description": "■謎L",
+  "attributes": [
+    {
+      "value": "AJISAI",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks2",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Edo-wig",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye8",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-yokohama",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Stuffed Zombie3(Black）",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Unknown",
+      "trait_type": "TYPE"
+    }
+  ]
+}

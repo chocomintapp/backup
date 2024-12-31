@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeSTJbCHspoUhM7TS5weFvvWAP4uiCqrxca6oLTsMyUGe/nft.jpg",
+  "nftContractAddress": "0xac36f4c7ef358e5ba01907ba735e29d8e67e0db1",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Sarah",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Combatant",
+      "trait_type": "POSITION"
+    },
+    {
+      "value": "near future",
+      "trait_type": "TEAM"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcJnFLPTqKMZ7DigsEh3gV444EEcp6nPkGvqGWXu6e2Co/nft.png",
+  "tokenId": 1,
+  "description": "Crypto Clock is a handmade NFT that works like a real clock.\n",
+  "nftContractAddress": "0x74918d2200e40e9d40dc0d0f10ad593d373cf4bc",
+  "animationUrl": "https://gateway.pinata.cloud/ipfs/QmV3bJp8p2Ebt9UphcW8H1284X21R4y3orNu6VgsXEu74x/Origin/",
+  "chainId": "1",
+  "name": "Crystal Clock #Origin",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": "0"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Crystal"
+    }
+  ]
+}

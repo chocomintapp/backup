@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbiaotrWmhTfwDALGtdq9yWT8MNtyzN5WHEQoKL3h1Cga/nft.png",
+  "tokenId": 17,
+  "description": "\"Leprechaun\" = \"Dwarf\" x \"Succubus\" Leti Kuwabara\n「レプラコーン」メイン種族ドワーフ、サブ種族サキュバス。名前はレーティ桑原。\n\nレプラコーンはアイルランドのケルト妖精譚に伝わる妖精の一種。妖精の中でも、レプラコーンは自らのためにしか働かないことが特徴とされる。比較的おとなしい性格のモンスター娘が多いドワーフ種にしては珍しく、人を襲う。サキュバス種の血が入っている為と考えられている。\n\n\"Leprechaun\" are a type of fairy from Irish Celtic fairy tales. Among fairies, \"Leprechaun\" are characterized by the fact that they work only for themselves. They attack people, which is unusual for the \"Dwarf\" species, which has many monster girls with relatively docile personalities. This is believed to be due to their \"Succubus\" blood.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#042 \"Leprechaun\" Leti Kuwabara",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Dwarf"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Succubus"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "minted": "✅"
+}

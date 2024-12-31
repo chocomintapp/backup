@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVMgyWLWNiAmZARLKKxggS5hzGGFV3hCiYPqr1SGNVwmW/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 56,
+  "chainId": "1",
+  "name": "Super Ninja Uni-chan スーパーにんじゃユニちゃん #301",
+  "description": "この子はスーパーヒーローなの\n\nニンジャのスーパーヒーロです\n\nこの子はカラフルが好きで何でもカラフルのまちにしちゃうの\n\n雲の上をスーパーヒーローのように通っていくとまちがカラフルになっちゃうの\n\nこの子が通るとみんなをしあわせに明るくポカポカする気分にできるヒーローです！\n\n小学３年生第１弾リスト作品なので\n#301 の番号をふってます\n\n[Making Video](https://opensea.io/assets/matic/0x3342456c90e6a11bfea8db0fe04a205f4e39d2fb/6)\n\nThis girl is a superhero.\n\nShe is a ninja superhero.\n\nShe loves colorful things and she makes everything colorful in her city.\n\nShe goes through the clouds like a superhero and makes the city colorful!\n\nShe is a hero who can make everyone feel happy, bright and cheerful when she passes by!",
+  "attributes": [
+    {
+      "value": "Colorful",
+      "trait_type": "COLOR"
+    },
+    {
+      "value": "kawaii",
+      "trait_type": "Type"
+    },
+    {
+      "value": "NInja",
+      "trait_type": "Category"
+    }
+  ],
+  "minted": "✅"
+}

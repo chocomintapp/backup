@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY5s8h73roRBSGi61LjbjaXbiTYBd6fXgn14Nnr5gfhtP/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmUQc1uKvK6478ZCFwmZbnYrxWbutyaNbtLBudBsASsiiy/nft.mp4",
+  "tokenId": 314,
+  "chainId": "1",
+  "name": "THE JEWEL #314",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Black Yellow Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Tantalum",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

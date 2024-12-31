@@ -1,0 +1,67 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcA7w48DK1X4sD5m1uq7peRXngd1mbZ76KoHwUQJ26f5u/nft.png",
+  "nftContractAddress": "0x08853526dc120c16bbc587436993278e52f9eb80",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "六文灯里",
+  "description": "Villain side hideout #6\n\n\"6FU\"(Six feet under)\nClub, and jack of all trades\nIt`s where all the bad stuff happens...\n\n\"You shouldn`t come here...\"\n\n敵側 アジト#6\n\nアンダーグラウンドに位置する６FU.\nクラブ、何でも屋、\n油断すると魂を持っていかれるかも…\n\n\"あまりここには来ない方がいい…\"",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Character"
+    },
+    {
+      "value": "none",
+      "trait_type": "Belief"
+    },
+    {
+      "value": "6FU",
+      "trait_type": "Location"
+    },
+    {
+      "value": "human",
+      "trait_type": "Species"
+    },
+    {
+      "value": "none",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "7",
+      "trait_type": "apearance"
+    },
+    {
+      "value": "6",
+      "trait_type": "charisma"
+    },
+    {
+      "value": "5",
+      "trait_type": "intelligence"
+    },
+    {
+      "value": "6",
+      "trait_type": "luck"
+    },
+    {
+      "value": "6",
+      "trait_type": "mana"
+    },
+    {
+      "value": "5",
+      "trait_type": "speed"
+    },
+    {
+      "value": "6",
+      "trait_type": "spirit"
+    },
+    {
+      "value": "4",
+      "trait_type": "toughness"
+    },
+    {
+      "value": "4",
+      "trait_type": "strength"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU13Nb6LspsLRtLdTMNuYRud9qzHm4NudRMpv7R5ECnjp/nft.jpg",
+  "nftContractAddress": "0x759baad0314f3941f95077cd81344a89fe2e153d",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "MIMI Exclusive Art Print",
+  "description": "This is an art poster that combines the Hide series, Mimic series, and Bits series into one.",
+  "attributes": []
+}

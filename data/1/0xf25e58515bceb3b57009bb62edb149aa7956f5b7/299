@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeshmVsJWs9WZLuo1z6wwUKTC8aEEgupr6vnqxRWFE4cS/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 299,
+  "chainId": "1",
+  "name": "RIMI",
+  "description": "■リミ",
+  "attributes": [
+    {
+      "value": "Ninja3-Black",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open5",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Curling-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Purple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-R",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-LeeLee-Otoko",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Angel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Angel Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

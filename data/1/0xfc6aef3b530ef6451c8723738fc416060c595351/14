@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXhYZcmZFWFdp4P7T6BRe3ryPAbFzbpvqtij7aKLceT4w/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "Doge Tipping Station",
+  "description": "PNG 1024x1024  \nTotal supply 1/1  \nThis piece was born with the joy of receiving my first Doge tip. By the way, tipping stations are open 24/7!",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "Face",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "Rockets",
+      "trait_type": "object(s)"
+    },
+    {
+      "value": "Mother",
+      "trait_type": "generation"
+    }
+  ]
+}

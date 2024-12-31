@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYRc5jxnwzpD9wieuFkk6KJcJ6n3C8fsUUCGfUQjriUjh/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 137,
+  "chainId": "1",
+  "name": "October 1 キク",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "月"
+    },
+    {
+      "value": "1",
+      "trait_type": "日"
+    },
+    {
+      "value": "王侯にふさわしい壮麗さ",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "",
+      "trait_type": "花"
+    }
+  ]
+}

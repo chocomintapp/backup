@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPvQeRG4GtWiPyhQkUHfSkJTKmQeDCJfXLUDR54QjYtEL/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "Doge Unicormpire State Building",
+  "description": "File: PNG  \nSize: 2048x2048  \nTotal supply: 1  \nIt starts snowing in the space. Doge is lit up and so is her horn. A human and a doggy walk in the middle of the night and a bird sleeps.  ",
+  "attributes": [
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "Face",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "Mini",
+      "trait_type": "genaration"
+    },
+    {
+      "value": "Horn",
+      "trait_type": "Topping"
+    },
+    {
+      "value": "Bird",
+      "trait_type": "topping"
+    },
+    {
+      "value": "Earth",
+      "trait_type": "object(s)"
+    }
+  ]
+}

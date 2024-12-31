@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYwYpb21YGbAUdQ9fvsUPzHbeTsn8ydWB6bcRLdbjuHUY/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmQ1T2w63GkXNzcq65cxyedgQ7QRyvRiNnXn5QzGoHJy7d/nft.mp4",
+  "tokenId": 460,
+  "chainId": "1",
+  "name": "THE JEWEL #460",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Pink Topaz",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX2EzvX19CwpTybczbEoKgLUWWUA86CSN3ZWZqMT2d1cg/nft.jpg",
+  "nftContractAddress": "0x99c91fc98d7c3f297108615c2cd97cdfe38b9a4d",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "LOM Elixir #6",
+  "description": "This is a forbidden elixir that is said to have been created by the \"Unchangeable Witch\" who lives in the mountains of MOL dimension.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "COLOR"
+    }
+  ]
+}

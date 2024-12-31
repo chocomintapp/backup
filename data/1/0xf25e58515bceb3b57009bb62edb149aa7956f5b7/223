@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR3y4vpCBfq2TkGAvJbszZH96dzqbWsV7TwyhHdsfma1a/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 223,
+  "chainId": "1",
+  "name": "BAILEY",
+  "description": "■ベイリー",
+  "attributes": [
+    {
+      "value": "Change",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Blackpink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Zombiegreen",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-P",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Devil-hornesN",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

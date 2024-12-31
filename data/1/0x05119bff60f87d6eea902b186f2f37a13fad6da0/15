@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZSw1Qkdriio29gBWqrEkU7WHf4h4Yhktejx7jyEXC6rv/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "POPET No.15",
+  "description": "【物語】\n\nはじめて見る広い空。穏やかな風。ここがPOPETたちの暮らす街。僕も仲間になれるかな。",
+  "attributes": [
+    {
+      "value": "ロボット",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ダウンタウン",
+      "trait_type": "origin"
+    },
+    {
+      "value": "穏やか",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd8UohNhT7tMB5eLy3P17f2f9vzfnAdcYZRD5xPALa8m3/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmaoSe3DEEMrqYczWxN6wARLYfSqiQnBTMQ2cuAbvPbpgj/nft.mp4",
+  "tokenId": 292,
+  "chainId": "1",
+  "name": "THE JEWEL #292",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Yellow",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Control device"
+    }
+  ]
+}

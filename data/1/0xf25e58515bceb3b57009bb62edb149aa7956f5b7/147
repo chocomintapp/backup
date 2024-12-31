@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbPUQtPAfzW5L5dgkBbhWA5SSByeFVPFewZtCMuc2erbz/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 147,
+  "chainId": "1",
+  "name": "MOLLY",
+  "description": "■モリー",
+  "attributes": [
+    {
+      "value": "Change（HumanR）",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Mix1",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-BBlack",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Summer",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

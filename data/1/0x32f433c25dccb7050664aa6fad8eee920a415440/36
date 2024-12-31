@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR5B8zPBHQFby3dRb6QUaqQX7hPDexexo8AqEFycCRqEV/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmZRWH6dnjYCCbicQ1Aiu4VivpQLXQgpU2rQCyEQhzD1ca/nft.mp4",
+  "tokenId": 36,
+  "chainId": "1",
+  "name": "THE JEWEL #036",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Sugilite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "copper",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

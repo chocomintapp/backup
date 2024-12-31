@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXbtcBzZrwhCgJpresSDP8ULp8MEz1wx6Bo1dmpC3LfLt/nft.png",
+  "nftContractAddress": "0x3e1e6638bfffd769e06aa33db703d7f190e33a51",
+  "animationUrl": "",
+  "tokenId": 42,
+  "chainId": "1",
+  "name": "Wb#41",
+  "description": "Created by Wonder baby.",
+  "attributes": [
+    {
+      "value": "SNOW",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "BODY A",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "BABY RED",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "FLAG A",
+      "trait_type": "WEAPON"
+    },
+    {
+      "value": "BEANIE RED",
+      "trait_type": "HAT"
+    },
+    {
+      "value": "CIGAR",
+      "trait_type": "MOUTH"
+    }
+  ]
+}

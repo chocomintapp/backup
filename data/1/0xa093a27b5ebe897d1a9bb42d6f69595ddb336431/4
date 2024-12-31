@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUH2PGpfucjJehCTDZvM6LBdJzE5AyYiaMswSsbRHp5sz/nft.png",
+  "nftContractAddress": "0xa093a27b5ebe897d1a9bb42d6f69595ddb336431",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "SAMPLE #4",
+  "description": "The sample has a morphology that appears to be that of a quadruped, but many researchers, however, believe that it is not a foot used for walking, but for fixation.\n\n---\n\n四足動物のようにも見える形態を持ったサンプルだが、しかし多くの研究者は歩行に用いる足ではなく固着用の器官であると考えている。",
+  "attributes": []
+}

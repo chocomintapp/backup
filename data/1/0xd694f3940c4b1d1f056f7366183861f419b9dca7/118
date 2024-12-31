@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT4RVETb5NVcqyVGEmnpHKxzYk3TnA46U2c44AbMyjdQc/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 118,
+  "chainId": "1",
+  "name": "September 12 ミント",
+  "description": "",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "12",
+      "trait_type": "日"
+    },
+    {
+      "value": "有徳の人",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ミント",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

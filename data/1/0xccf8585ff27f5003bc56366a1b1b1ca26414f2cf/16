@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmREx7SwgTpcHaVrKqMZUDTzkaMq6avEf8DxgWRLtmtH2B/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "WEAR BEAR #100 \"CHAD\" FOODIE&SHISHIMARU(LION)",
+  "description": "WEAR BEAR 第10弾は原点であるFOODIEをオーソドックスにスタイリングしたベア達がなんとお供を連れて登場！\n初登場のブラックベア“CHAD”はゴールドのBEAR FOODIEを着用し、百獣の王ライオンの”ししまる”とともに登場\n",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "“SHISHIMARU” Foodie",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Wild Denim",
+      "trait_type": " Bottom "
+    },
+    {
+      "value": "“addios”Forum High ",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Chad",
+      "trait_type": "Model"
+    },
+    {
+      "value": "SHISHIMARU",
+      "trait_type": "Buddy"
+    }
+  ],
+  "minted": "✅"
+}

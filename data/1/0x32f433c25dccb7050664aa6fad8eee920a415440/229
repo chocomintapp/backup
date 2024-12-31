@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeHRhoksTevrBW6R3bY5JmA8bKRAUb5UxQL8ZVJVxp3ep/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmemduwavnm4MqMtF1rjF6KpMGCQYfcmXyzi9eVCiR2We6/nft.mp4",
+  "tokenId": 229,
+  "chainId": "1",
+  "name": "THE JEWEL #229",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Blue Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Control device"
+    }
+  ]
+}

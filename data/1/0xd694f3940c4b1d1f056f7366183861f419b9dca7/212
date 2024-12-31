@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWodoXzHGMfKmf2mhQKhrgH9eyPXzvJFmJaMqbdkcqr7a/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 212,
+  "chainId": "1",
+  "name": "December 15 ポトス",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "15",
+      "trait_type": "日"
+    },
+    {
+      "value": "永遠の富",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ポトス",
+      "trait_type": "花"
+    }
+  ]
+}

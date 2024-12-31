@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUbjudhJmjY9kXnHTUA5pqRhNEn6VT9ETwTf5wpaGf2ML/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 187,
+  "chainId": "1",
+  "name": "AGATA",
+  "description": "■アガタ",
+  "attributes": [
+    {
+      "value": "BLACK（made by YUDA）",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Blacklightblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Magic eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Ftype",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Piyochi-nihility",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "SensorA",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

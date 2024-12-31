@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR3VR6V2jnG2Fg8kC1qfxZzdnV3hFa9meME7LUQEGR1q7/nft.gif",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "Working Ganmichan#38",
+  "description": "神の手を持つがんみちゃんにかかれば、マシントラブルなど片手で十分だということがお分かりだろうか…",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "auto mechanic",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

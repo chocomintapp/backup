@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbVSPJHf79J57vkPQbU87SXU7YguE9J2YxJHy4kconoUo/nft.jpg",
+  "tokenId": 1,
+  "description": "eveningstar character",
+  "nftContractAddress": "0x1d4eb4869cd9095c7fbffcae0ddd45ff32f17158",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "eveningstar",
+  "attributes": [
+    {
+      "trait_type": "mean",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSRbTtS1awAf3GXQXsckoMxR8CoQZNbkepA5KmBcQYqwp/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 72,
+  "chainId": "1",
+  "name": "Athemuse",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "green",
+      "trait_type": "skin"
+    },
+    {
+      "value": "stylish_blue_star",
+      "trait_type": "eye"
+    },
+    {
+      "value": "enji02",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_ear",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Lacerta",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

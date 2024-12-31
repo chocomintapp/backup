@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmct6ijXqzLmKshCXFLLdhuc3oATxmfqAjEPq43bE6sM2N/nft.jpeg",
+  "nftContractAddress": "0x9ecb46c1f00ea663a50e520175b93c05b133f714",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "魔法少女になれるもん。I can be a magical girl.",
+  "description": "例え素質がなくても、心が純真でなくても、憧れることくらい平等であってほしいの。\n\nEven if you don't have the right qualities, even if you don't have a pure heart, I want you to at least be equal in your admiration.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

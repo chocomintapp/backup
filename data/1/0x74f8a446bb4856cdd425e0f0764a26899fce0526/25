@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWALKt86CSSkrT4bfVcGKRMnP8ooTYQbELMJwSHk9KEQx/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "1",
+  "name": "POCOEMOJI_yummy",
+  "description": "Mechthild-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfJC3rAgFu6y2atEjGZ7ivNVzEAZJXAFwg7s4hwKneyMa/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 276,
+  "chainId": "1",
+  "name": "BOTAN",
+  "description": "■ボタン",
+  "attributes": [
+    {
+      "value": "Deep-Blue（made by AKO）",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile of room",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "RobotEye1",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Etype",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bored Ape7",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

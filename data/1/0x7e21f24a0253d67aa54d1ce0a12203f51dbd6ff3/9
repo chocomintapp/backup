@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTQTdAtTwZkBHyFJi5RGoj3vFo5pa7Nr7RmDz3qGhWUL6/nft.png",
+  "tokenId": 9,
+  "description": "",
+  "nftContractAddress": "0x7e21f24a0253d67aa54d1ce0a12203f51dbd6ff3",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Punk Monkeys #9",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

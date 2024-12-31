@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZVRucSsxysaovMWvbJP1eEbi2VXz6uoxRkh1u6DkFoYR/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 168,
+  "chainId": "1",
+  "name": "November 1 ブリオニア",
+  "description": "",
+  "attributes": [
+    {
+      "value": "11",
+      "trait_type": "月"
+    },
+    {
+      "value": "1",
+      "trait_type": "日"
+    },
+    {
+      "value": "幸せの選択",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ブリオニア",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

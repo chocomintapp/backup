@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRJFb1TTcDG3HsPFgP6QQRL5WCNSa1ae33uNmhDkDjWau/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "YURI",
+  "description": "YURI loves pink and cats.\n\nShe and TSUMUGI get along very well with other pink lovers.\n\nHer cat, Willow, was originally a black cat, but after being around YURI for a long time, she turned pink before she knew it.\n\nShe is very curious and forgetful.\n■ユリ\n\nピンクと猫が大好きなユリ。\n\n同じピンク好き同士ツムギととても仲が良い。\n\n愛猫のウィローは元々は黒猫だったが、ユリの近くにずっといたらいつのまにかピンク色になっていた。\n\n好奇心旺盛で、物忘れが激しい。",
+  "attributes": [
+    {
+      "value": "Bright-Green",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Shine-Ruby",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie8",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Willow",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Pink",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

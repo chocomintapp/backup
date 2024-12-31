@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXQJHyvds5mZ4zhVwTzZVL1JfRk6TNRy6rJH6MrzU6zHu/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "sara",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "red",
+      "trait_type": "skin"
+    },
+    {
+      "value": "stylish_blue2",
+      "trait_type": "eye"
+    },
+    {
+      "value": "enji14",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_glass",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Cepheus",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

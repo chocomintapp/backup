@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYwvGCeTrQawc2H7suRTWyL4bHCbi4AnPSiaRZXsqVE62/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 67,
+  "chainId": "1",
+  "name": "POPET No.67",
+  "description": "【物語】　決して実現しない芸術。最も美しい絵はゆらめく夢の中にある。",
+  "attributes": [
+    {
+      "value": "画家",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ミュージアム",
+      "trait_type": "origin"
+    },
+    {
+      "value": "内向的",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

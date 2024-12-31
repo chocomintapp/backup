@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX5Nkcd7QsHvoCTYXX4GE4Ba7ipztB8yNQieKvd8v9KSg/nft.png",
+  "nftContractAddress": "0xee38353e74e04b1fb7fa99c2ce78e93fb6e09b99",
+  "animationUrl": "",
+  "tokenId": 110,
+  "chainId": "1",
+  "name": "#0110 Series000 No.008 \"RED GINGER WP\"",
+  "description": "未来の自律型電脳ゲーミングPC『Chirobo.』\n\n\"RED GINGER\" white paper FANart\n\nPortable Network Graphics       \n2048×2048px",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Series 000",
+      "trait_type": "Series"
+    },
+    {
+      "value": "RED GINGER",
+      "trait_type": "Category"
+    },
+    {
+      "value": "DeltaTechnology type A",
+      "trait_type": "CPU"
+    },
+    {
+      "value": "Square type A",
+      "trait_type": "GPU"
+    },
+    {
+      "value": "CircleIndustry type A",
+      "trait_type": "RAM"
+    },
+    {
+      "value": "PaleColor",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Yellow×Purple",
+      "trait_type": "LED"
+    },
+    {
+      "value": "RED GINGER",
+      "trait_type": "Sticker"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZfn5FaqAjhMBPKcK4QtB1d9e6W2YbKPcNErdoP2WWtAe/nft.png",
+  "nftContractAddress": "0x1bba5cf9da1c5f778657c86225a88f98f8b47e4c",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "#020 Tim Pasty Chef",
+  "description": "Tim is a pastry chef. He loves sweets, so he always wanted to make cakes.\nHe thought about becoming a writer specializing in sweets, but he thought, ``I might get fat if I eat too much sweets,'' so he quit his job just to eat.",
+  "attributes": [
+    {
+      "value": "Tim",
+      "trait_type": "CHARACTER"
+    },
+    {
+      "value": "Job",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Pasty Chef",
+      "trait_type": "JOB"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSQkZYKnu1SWe6cMoY1ZsNASSkRk4AHBA2Kb6p44X3kH3/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmdp6LszSAx9HkcFe1ejnJ9UVeoGQbB7DTwdJy5JLMmPcj/nft.mp4",
+  "tokenId": 524,
+  "chainId": "1",
+  "name": "THE JEWEL #524",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Rhodolite garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Charcoal",
+      "trait_type": "Control device"
+    }
+  ]
+}

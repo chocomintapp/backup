@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdQ8kaBMeh7hJTZzRovCU5oyCb2Wuajdna4FLb2G7pbDw/nft.png",
+  "tokenId": 36,
+  "description": "\"Unicorn\" = \"Unique Species\" Mint Nanami\n種族に属さない特殊なモンスター娘「ユニコーン」。名前はミント七海。\n\n美しい一角獣。その角はあらゆるものを浄化する。とても誇り高く、人間の飼い主に媚びることはない。非常に珍しく、世界中で数体しか確認されていない。\n\nA beautiful uni-corn. Its horns purify everything. \"Unicorn\" are very proud and do not flirt with their human owners. It is very rare and only a few have been identified worldwide.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#060 \"Unicorn\" Mint Nanami",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legend"
+    }
+  ]
+}

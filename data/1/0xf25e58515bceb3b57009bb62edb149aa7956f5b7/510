@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf6o6nmb75HYAW43bi5LP5D7YiDz1nLK1gR8GLGwTYAQE/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 510,
+  "chainId": "1",
+  "name": "KITSUKA",
+  "description": "■キツカ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0002Eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "uniform(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "glasses-red",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-surprised",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

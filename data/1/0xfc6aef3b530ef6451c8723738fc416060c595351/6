@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWXrmCJqeeZ848Hy5dmWRXhGBNdtRSPj93Kxjs1HHssfF/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Doge Heritage Moonlight",
+  "description": "PNG 1024x1024  \nTotal supply 1/1  \nDid Doge's price go down? No problem. It's just taking a rest in the moonlight.",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "w/ Body",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "Mother",
+      "trait_type": "genaration"
+    }
+  ]
+}

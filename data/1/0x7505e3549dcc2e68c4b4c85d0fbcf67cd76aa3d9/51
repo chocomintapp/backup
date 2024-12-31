@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfBQ6ShqJotnQt29sGRnjg9NC79jhs7BKjjpnyX1mxE7Q/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 51,
+  "chainId": "1",
+  "name": "Girls' Ghosts' Heart Party 女の子のおばけたちのハートパーティ #228",
+  "description": "These ghosts are all friends.\n\nEven though they are ghosts, they help people.\nIf someone is hurt, they will give you a cute bandage.\n\nIf you follow the dance of the ghosts, the ghost girl will come to you.\n\nToday is the birthday of the ghost with the heart, so she is wearing pink.\nThey may look scary, but they are kind.\nThey all run away, but pink makes them look kind, so the ghosts want to be pink too.\n\nThey are pink because their friends are pink.\nOnce you turn pink, you can't go back.\nEveryone agreed and became pink.\nIt's a testimony that they are best friends.\n\nAll these children wear ribbons.\nThey wear the same ribbons because they are best friends.\n\nThey are good friends and never fight with each other.\nAt first, they all belonged to the same family.\nBut they were too many and split up.\nWhen they stay over, they stay at the house where they used to live together.\n\n\nこのおばけたちはみんな友だちで、みんなおばけ。\n\nおばけなのに人のことをたすけてくれるの。\n人がケガしてたら、おばけのかわいいばんそうこうをくれる。\n\nおばけのダンスをおどればおばけちゃんがきてくれる。\n\n今日はハートのあるおばけちゃんのたんじょう日でピンクにしてる。\nこわそうに見えるけどやさしい子たち。\nみんなにげていっちゃうけど、ピンクだとやさしく見えるから女の子とかきょうみをしめしてくれるから、おばけちゃんたちもなりたくてピンクになってるの。\n\n友だちがピンクにしてるからピンクにしてる。いちどピンクにしたらもどれない。\nみんななっとくしてピンクになった。\nしんゆうのあかしなの。\n\nこの子たちはみんなリボンをつけてる。\nしんゆうだからおんなじものをつけてる。\n\nなかよしでケンカすることはぜんぜんないけど、\nさいしょはみんなかぞくだったけどいっぱいいすぎてわかれちゃったの。\nとまるときはむかしみんないっしょにすんでたいえにとまるよ。",
+  "attributes": [
+    {
+      "value": "ghost",
+      "trait_type": "Type"
+    },
+    {
+      "value": "kawaii",
+      "trait_type": "Category"
+    },
+    {
+      "value": "pink",
+      "trait_type": "Color"
+    }
+  ],
+  "minted": "✅"
+}

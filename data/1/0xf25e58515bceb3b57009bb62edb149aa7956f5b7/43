@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQueENZ83FZAgT7NNec6gRWbbKxrqjeKJsz5woymvkjqj/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "1",
+  "name": "UnknownC",
+  "description": "Unknown C is obsessed with catching golden sunfish.\n\nShe is often seen in the river to the north, and there are rumors that she may be the girl who went missing while out fishing for saury in the past. There are rumors that she may be the girl who went missing while fishing for saury in the past.\n\nThere is also a rumor that she has the most delicious saury in the world, and saury-loving androids are searching for her with all their eyes.\n■未知C\n\n金のサンマを獲ることに憑りつかれている未知C。\n\n北にある川で度々目撃されており、昔サンマ漁に行き行方不明になってしまった少女なのでは？という噂話がある。\n\n世界一美味しいサンマを持っているという噂もあり、サンマ好きのアンドロイドが血眼になって探している。",
+  "attributes": [
+    {
+      "value": "Rainbow-Mix2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Blondepink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-BYellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-Yellow",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-Zombie3",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Goldsaury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Deepyellow",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Unknown",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR3DGdnugV74zDr5GxQ3vnGm23HYvuPTHAATvrZJNVF6N/nft.png",
+  "nftContractAddress": "0xe2215863fb63a2d700918b13555f5101f290ad31",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "YAMA Quartet 06",
+  "description": "#テーマ：縁起物\n\nお稲荷様は、商売繁盛、学業成就、五穀豊穣など、様々な願いを叶えてくれる、いつも頼りになる身近な神の使いです。  \n叶野舞とYO-COのテイストを取り入れた神秘的な作品に仕上がりました。\n\n#THEME: Lucky charms\n\n\nInari-sama is a familiar messenger of God who can always be relied on to fulfill various requests such as prosperous business, academic achievement, and a good harvest.  \nThe work is finished in a mystical style with Mai Kano and YO-CO.\n\n---\n\nLeft character: Mai Kano  \nRight character: YO-CO  \nLeft character coloring: Alpaca Go Go  \nRight character coloring: Aoyoko  \nBackground: Alpaca Go Go",
+  "attributes": [
+    {
+      "value": "Mai Kano",
+      "trait_type": "Main Character"
+    },
+    {
+      "value": "YO-CO",
+      "trait_type": "Main Character"
+    },
+    {
+      "value": "Alpaca Go Go",
+      "trait_type": "Character coloring"
+    },
+    {
+      "value": "Aoyoko",
+      "trait_type": "Character coloring"
+    },
+    {
+      "value": "Alpaca Go Go",
+      "trait_type": "Background"
+    }
+  ]
+}

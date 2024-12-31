@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcMDXaWJ3yYasWUV1dSwxhDX3BoyY62vdLvHshJbLUsRW/nft.png",
+  "tokenId": 9,
+  "description": "Hello. I am Sato Tanaka. #0008",
+  "nftContractAddress": "0xaca13a43a412eb5cc9b065607a2ef32b8c1b2a32",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "I am Sato Tanaka #0008",
+  "attributes": [
+    {
+      "trait_type": "I am",
+      "value": "#0008"
+    },
+    {
+      "trait_type": "CATEGORY",
+      "value": "JOB"
+    },
+    {
+      "trait_type": "JOB",
+      "value": "Angel"
+    },
+    {
+      "trait_type": "ITEM",
+      "value": "Lovely Arrow"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Blue"
+    }
+  ]
+}

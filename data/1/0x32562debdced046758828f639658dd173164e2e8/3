@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU39Deaz6vo2mAyznMgQfsrLLfURRQRLnWrDuRninsvfv/nft.gif",
+  "tokenId": 3,
+  "description": "I will be selling my metaverse with numbers. The first one is #001 without any decoration. After that, I plan to collaborate with various artists and sell versions with different decorations and environmental music.\n\nYou can enjoy a sample here.\nhttps://hubs.mozilla.com/XvFPSKG/the-forest-house-001/\nOwners will be able to get the original file \"Cryptoplaces_001.spoke\" from the unlocked ipfs URL.\nOnce you have the file, import it from the Hubs spoke and use it.\nhttps://hubs.mozilla.com/spoke\nOnce you've created your world, invite your friends and have a party!\nThis data can be used in Mozilla hubs.\nThe owner should perform the following steps to obtain spoke data.\n\n1_ Go to this page and sign your wallet. \"https://lock.chocomint.app/locks/98693b96-3057-4fd9-bc28-ca4393141508\"\n\n2_ Click on the \"Unlock\" button to display the Password.\n\n3_ Go to the \"locked content\" page.\n\n4_ Enter the password you got, and click \"Unlock_02\". Go to the next page.\n\n5_ Click \"Click here\" to download the Hubs spoke file.\n\nFor more information on how to use the Hubs spoke file, please refer to this page.\n\"https://ipfs.fleek.co/ipfs/QmQ1fANKcbaB\nvTgUiZJvBC3TYKy9hZPG356vU4cV8TJmTg/\"",
+  "nftContractAddress": "0x32562debdced046758828f639658dd173164e2e8",
+  "animationUrl": "https://ipfs.io/ipfs/QmPvVGoAYuzUkxbVXyTbXp8742p1GAv9M4Tc87ZtA1JSfx/nft.mp4",
+  "chainId": "1",
+  "name": "Crypto places #001 : Forest house"
+}

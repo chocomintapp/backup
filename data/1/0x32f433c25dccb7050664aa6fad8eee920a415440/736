@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTpsw6cfKHioUHjaGu65ssN6uXT5dhEN2sKimfCzjYBzj/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmTpmsnqq2vr5dVLrFaNQ5zFTh3w53jUDuCwA5SUf7Guui/nft.mp4",
+  "tokenId": 736,
+  "chainId": "1",
+  "name": "THE JEWEL #736",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Blue Sapphire",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Iridium",
+      "trait_type": "Control device"
+    }
+  ]
+}

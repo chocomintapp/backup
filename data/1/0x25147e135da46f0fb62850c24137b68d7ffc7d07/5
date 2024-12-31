@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTh8jz5g4cqpGQzfaraRR4krddLiEffAYs1rooqLmZBYd/nft.png",
+  "nftContractAddress": "0x25147e135da46f0fb62850c24137b68d7ffc7d07",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "BE KOBE NFT CREATIVE AWARD #5",
+  "description": "第1回 BE KOBE NFT CREATIVE AWARD Discordスタンプ部門 入賞作品\n\n【タイトル】\nいこーべ！\n\n【制作者】\nわお 様\n\n【コンセプト】\n神戸といえばやっぱり港のイメージ🌊\nかわいいカモメのキャラとわかりやすいダジャレで使いやすいスタンプを目指しました！",
+  "attributes": [
+    {
+      "value": "Discordスタンプ",
+      "trait_type": "部門"
+    }
+  ],
+  "minted": "✅"
+}

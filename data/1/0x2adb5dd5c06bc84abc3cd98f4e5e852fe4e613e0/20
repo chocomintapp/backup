@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdSEfoen8uLQe9kW8NhRcwPMfoNaN2YMcJ7QVyczuwfBn/nft.png",
+  "nftContractAddress": "0x2adb5dd5c06bc84abc3cd98f4e5e852fe4e613e0",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "Linyu [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nLinyu\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR EVO]",
+  "attributes": [
+    {
+      "value": "Angel",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Green",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Halo",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Sunglasses",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Hair Tie",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "EVO",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

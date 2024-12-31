@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSC8Hy5JDUabqiWaWyxvxD5TBvXRypZRbA876bXyKRgjn/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "May 29 ワイルドストロベリー",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "29",
+      "trait_type": "日"
+    },
+    {
+      "value": "徳の成果",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ワイルドストロベリー",
+      "trait_type": "花"
+    }
+  ]
+}

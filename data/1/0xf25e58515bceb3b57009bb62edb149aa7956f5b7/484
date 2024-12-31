@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfW1L1bhkY4vMTHy3UzwSFmUWuZNnRTJK2y2YJwAXWHvk/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 484,
+  "chainId": "1",
+  "name": "BRITNEY",
+  "description": "■ブリトニー",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.8",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye7",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "AnisuBody",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Toypoodle-Italian greyhound",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

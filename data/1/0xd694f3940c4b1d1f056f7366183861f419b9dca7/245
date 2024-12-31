@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZtM9ffvDgDB3h7V32qztbbYxaHfpuCeXMfhR6CTgEERW/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 245,
+  "chainId": "1",
+  "name": "January 17 モンステラ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "月"
+    },
+    {
+      "value": "17",
+      "trait_type": "日"
+    },
+    {
+      "value": "一途な幸せ",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "モンステラ",
+      "trait_type": "花"
+    }
+  ]
+}

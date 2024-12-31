@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmakKcsqLakaKKiSwP3HqgPNhiwboiuSFAkvpzZMqeW2Ae/nft.png",
+  "nftContractAddress": "0x03b44d08bcac91ee05b1723403faa6572b74b6ab",
+  "animationUrl": "https://ipfs.io/ipfs/QmcV9vLc7zbvNkJ7PmiQ3XwQU3pdPb6RDDpjVp5Xf85pch/nft.mp4",
+  "tokenId": 29,
+  "chainId": "1",
+  "name": "#055 PopsicleMatchaMan",
+  "description": "PopsicleMatchaMan\n\n- Food Series\n- 3DCG Turntable\n- 1920 x 1920px",
+  "attributes": [
+    {
+      "value": "Food",
+      "trait_type": "Type"
+    }
+  ]
+}

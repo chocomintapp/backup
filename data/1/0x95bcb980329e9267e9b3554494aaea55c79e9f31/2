@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQCpujDxLFTJ6pykZc8jCk1C3LxtJYMPrtiqimdNr1Jvb/nft.png",
+  "nftContractAddress": "0x95bcb980329e9267e9b3554494aaea55c79e9f31",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "#002F~Summer memories with Cool Girl~",
+  "description": "This work is a fan art of Cool Girl NFT.  \n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "CoolGirlNFT",
+      "trait_type": "Fanart"
+    },
+    {
+      "value": "009",
+      "trait_type": "No."
+    },
+    {
+      "value": "summer",
+      "trait_type": "season"
+    }
+  ]
+}

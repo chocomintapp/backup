@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXNDWkGFNkmc87eH1WDM6ie2ud4iiRDPEjJjBx1cyFSyd/nft.jpg",
+  "tokenId": 1,
+  "description": "Neo Disabillities\n\nThis is a challenging experiment.\nI was born with a physical disability, and this is my NFT project.\nI propose a new form of charity in the world of cryptography.",
+  "nftContractAddress": "0x397f64e534ca3489e5f39df6f5396d406b2aa827",
+  "animationUrl": "https://ipfs.io/ipfs/QmXNDWkGFNkmc87eH1WDM6ie2ud4iiRDPEjJjBx1cyFSyd/nft.jpg",
+  "chainId": "1",
+  "name": "The Invention of Solitude",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

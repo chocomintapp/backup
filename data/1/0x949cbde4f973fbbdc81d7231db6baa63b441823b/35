@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQK1wtiRabFBkv9aK3KdU1yfzCdygv6UbHVivLiXLSq4j/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "1",
+  "name": "MO #35",
+  "description": "",
+  "attributes": [
+    {
+      "value": "O",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "M",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "O",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "mo",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

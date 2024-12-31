@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW599ob6yZxVQhX47kUStkWhKVHaM4KGXEBzVymNCYLCU/nft.png",
+  "nftContractAddress": "0xa92a9c76497bc17f8261d40bcd38adad510372c1",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "Petit_Lillian",
+  "description": "This is Lillian-chan.\n\nSpecial respect for the *FuChiMing* v2.\n(URL: https://opensea.io/collection/fuchimingv2)",
+  "attributes": [
+    {
+      "value": "gray",
+      "trait_type": "heir"
+    },
+    {
+      "value": "mouse",
+      "trait_type": "animal"
+    },
+    {
+      "value": "florist",
+      "trait_type": "job"
+    }
+  ]
+}

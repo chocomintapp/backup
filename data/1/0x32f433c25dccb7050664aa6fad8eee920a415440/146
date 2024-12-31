@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPb89pgKVapRfLR66DdP14oX48dCaaU3iDoRP8hYtYMn5/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmeV4mCPZaKyYLxdvGHXd9kFki4EKmazaXsC8HpL4XJSR5/nft.mp4",
+  "tokenId": 146,
+  "chainId": "1",
+  "name": "THE JEWEL #146",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Alexandrite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

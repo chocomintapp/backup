@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZHU26MtRM7715YskYEB21U9pfQLQRQw3iLKhZNvXzhQd/nft.png",
+  "tokenId": 8,
+  "description": "",
+  "nftContractAddress": "0xd35b414ea3e53e1b2419ea67d963849ddbe2f670",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Obake_Ghost Cat #8",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Striped"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Red Tabby"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Silk Hat Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thin Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_2"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Green Bow tie"
+    }
+  ]
+}

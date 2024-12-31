@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY81R7onGZH5ZxFQXvN7tyRqCLqfdVTzH5h9s49K2bjao/nft.MP4",
+  "tokenId": 1,
+  "description": "Hold me tight. 4/15",
+  "nftContractAddress": "0x7b189e339c0521fbb11fce79aa52afc3e932e983",
+  "animationUrl": "https://ipfs.io/ipfs/QmY81R7onGZH5ZxFQXvN7tyRqCLqfdVTzH5h9s49K2bjao/nft.MP4",
+  "chainId": "1",
+  "name": "BlueRing | Octopus Hug - BitCoin - #4",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmefjMdSnaS99vKE7Fp4QEBr9NkvoACnDm7Ngjktd1HuK4/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 453,
+  "chainId": "1",
+  "name": "Sanae Ishihata",
+  "description": "■イシハタ　サナエ\n@goroishihata　ファンアート作品\nhttps://linktr.ee/goroishihata",
+  "attributes": [
+    {
+      "value": "A divisive fall",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Green pepper1",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile of room",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0002Eye5",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Whitelightgreen",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "GORO ISHIHATA2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZxPP35BCDwGjQ8kP4EkQ2Z93ZcKgfnNuv61PAxVYhFPq/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 492,
+  "chainId": "1",
+  "name": "FUUKA",
+  "description": "■フウカ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Red",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "OkameSmile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-Orange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Anisu-tatoo",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-3EYES",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "TMA mafiamouse",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-DeepRed",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Meta tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

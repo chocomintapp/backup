@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbpT8Kbjz22ajaUcyRD89iFtV5yBiMRxVnnqxryzVzomN/nft.png",
+  "nftContractAddress": "0x0296ab5365ebc12c69afed87967cf3adb241c653",
+  "animationUrl": "",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "優花[Yuuka]",
+  "description": "「今年一年の無事を祈り、祝杯を」 \n\n祝い酒は神様への贈り物。年に一度のこの祈りの日に優花はなにを祈るのか。",
+  "attributes": [
+    {
+      "value": "花",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": ""
+}

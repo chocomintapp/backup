@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNvJdagdQC6p9XkM6NcdiEr2DJqSdwvcTbavPab74uG67/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmSoYSGJbMf67GzgEy3PZW5YNmB5g5bVsuHaBfhbYCYb4K/nft.mp4",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "THE JEWEL #021",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "amber",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

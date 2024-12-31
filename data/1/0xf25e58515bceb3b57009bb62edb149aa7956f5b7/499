@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXtEFBqNvCvFND7us8CBz9dcP8ZajmtGC3T7t2B8o3Sej/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 499,
+  "chainId": "1",
+  "name": "LAMIA",
+  "description": "■ラミア",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0004Miracle",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-Light5(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "innu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Asiatic peoples",
+      "trait_type": "TYPE"
+    }
+  ]
+}

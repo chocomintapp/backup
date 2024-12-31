@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVTkRD9u2THpG9SUJt1VohJSGkJp2TWwL7J93HMfNDFeW/nft.jpg",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 39,
+  "chainId": "1",
+  "name": "Tokyo Expanding People 2099 #28 Claire",
+  "description": "［日本語］クレア\n\n昔から臆病者だと言われてきた。\n\n物事をスムーズに進めるためには言葉を押し殺すのが最もだと思う。\nだがその分洞察力には自信がある。\n\nダンがあの船長の元で働くと聞きつけた時も私は止めなかった。\n\nドレイクは睡眠薬を常に持ち歩いている。\n船員を海に沈め宝を独占する気だ。\nドレイクの非道さに自ら挑む男はそうそういない、大抵は徴募により連れてこられる。\n\nダンの企みにはすぐ気づいた。\nダンはドレイクを。\n\n皆が全て魔の海域に潜むクラーケンのせいにしようとしている。\nだが私は今回も生き延びる。\n\n今までそうしてきたように、傍観者として。\n\n\n［En］Claire\n\nI have always been told that I am a coward.\n\nI think it’s best to stifle words to keep things running smoothly. \nBut I’m also a man of insight.\n\nWhen I heard Dann would work for the captain, I didn’t stop him.\n\nDrake carries sleeping pills with him at all times.\nHe wants to drown the crew and monopolize the treasure.\nFew men would challenge Drake’s inhumanity, and conscripts bring in most.\n\nDann knew immediately what he was up to. \nDann knew what Drake was up to.\nEveryone is trying to blame it all on the kraken lurking in the Bermuda triangle.\n\nBut I will survive this time as I have done in the past, as a bystander.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Pirates",
+      "trait_type": "Claire"
+    }
+  ]
+}

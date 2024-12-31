@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZYeYDsNzHpH9cVSGyFLcovhmVvbRY76oe7eaSVt4oEnG/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 68,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "うひょひょひょ〜",
+  "attributes": [
+    {
+      "value": "イケバナ",
+      "trait_type": "人物"
+    },
+    {
+      "value": "ワイシャツ",
+      "trait_type": "服装"
+    },
+    {
+      "value": "オーバル型",
+      "trait_type": "メガネ"
+    },
+    {
+      "value": "眼光ビーム",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "学生帽",
+      "trait_type": "帽子"
+    }
+  ],
+  "minted": "✅"
+}

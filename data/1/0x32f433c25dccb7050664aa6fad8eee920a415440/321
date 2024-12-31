@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbSz98ZwFzMuPBbYLu5M4kSfYSa2655TmPaf3dn2UJH1R/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmNPKdAaLeUacrSVz7vD9gHBBkwFVh5Q7aJyGq6w46s9Xt/nft.mp4",
+  "tokenId": 321,
+  "chainId": "1",
+  "name": "THE JEWEL #321",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Blue Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Palladium",
+      "trait_type": "Control device"
+    }
+  ]
+}

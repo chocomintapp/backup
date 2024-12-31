@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeYyshGncPRv5VKvBQ1J9scVF3pmXY2WYRc4YtMCHutAE/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 205,
+  "chainId": "1",
+  "name": "December 8 プリムラオブコニカ",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "8",
+      "trait_type": "日"
+    },
+    {
+      "value": "少年時代の希望",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "プリムラ",
+      "trait_type": "花"
+    }
+  ]
+}

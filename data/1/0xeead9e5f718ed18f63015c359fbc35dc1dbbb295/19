@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRqUUgSSdgcLBEJ2uAeiZhhLVNPhtpFGYcQcx79vPMb31/nft.png",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "Tokyo Expanding People 2099 #16 Rogue",
+  "description": "[日本語]\n\nこの町にきたのは、ただの偶然だった。\n\nこの町の人は皆、顔が暗い。どうやらあのギャングどもが原因のようだ。\n娼婦の女の子でさえ、俺と話す時には少し怯えていた。\n\n俺は花屋でバラを買い、あの子に渡しにいくと、奴らが彼女を攫う最中だった。\n俺たちは、敗者は町から出ていくことを条件に決闘をした。\n\n俺は勝利し、奴らは町を去った。\n\n----------------------------------------------------------\n\nBartender「この町を救ってくれて感謝する、あの日の酒は俺の奢りだ。」\n\nSheriff「坊主のおかげで、俺のバッジも輝きを取り戻した気がするよ。」\n\nProstitute「素敵なお花をくれてありがとう。とても綺麗ね。」\n\nRogue「いいさ、俺はこの町から君という素敵な花をいただいたから、ね…」\n\nProstitute「次はどこにいくの？私、蒸気機関車に乗ってみたい！」\n\nRogue「じゃあ行こうか。」\n\nBartender「まったく、たいした奴だ。」\n\nSheriff「この町で、悪さをするなら俺が捕まえるからな。」\n\nRogue「次こそは、目当ての宝を掘り当てに来るよ。」\n\n\n[English]\n\nI happened to visit this town.\n\nEveryone in this town looks gloomy. Apparently it’s because of those gangsters.\nEven the prostitute was a little scared when she was talking to me.\n\nI went to the flower shop to buy some roses for the girl. As I was on my way to give her the rose, she was about to be kidnapped by a gang.\n\nWe fought a duel with the loser who must to leave town.\n\nI won and they left town.\n\n----------------------------------------------------------\n\nBartender “Thanks for saving this town, the bill that day was on me.”\n\nSheriff “My badge has some shine back because of your job, Thank you.”\n\nProstitute “Thanks for the nice flowers. I love those.”\n\nRogue “No problem, this town gave me such a nice flower, you know...”\n\nProstitute “Where are you going next? I want to ride on a steam train!”\n\nRogue “Okay, Let’s go then.”\n\nBartender “You’re a real piece of work, aren’t you?”\n\nSheriff “If you try anything bad in this town, I’ll catch you.”\n\nRogue ” You’ll see me hovering about with the heavy jute sack next time.”\n\n—The End—",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Bartender",
+      "trait_type": "Character 1"
+    },
+    {
+      "value": "Sheriff",
+      "trait_type": "Character 2"
+    },
+    {
+      "value": "Prostitute",
+      "trait_type": "Character 3"
+    },
+    {
+      "value": "Rogue",
+      "trait_type": "Character 4"
+    },
+    {
+      "value": "Pioneer Days",
+      "trait_type": "The End"
+    }
+  ]
+}

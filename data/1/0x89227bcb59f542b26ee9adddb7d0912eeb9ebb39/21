@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRtqpucVnwvSM7H1A5Zg9G2DDDVUto59XfiqWwmv1rg1f/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "#021-Gifu-",
+  "description": "#021-Gifu-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Flare",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Chubu",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Gifu",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

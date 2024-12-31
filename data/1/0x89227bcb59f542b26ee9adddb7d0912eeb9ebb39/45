@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVpVEpchJewjtwsf1ot5iYPLL22JJxEKdNJAosyyedSdC/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 45,
+  "chainId": "1",
+  "name": "#045-Miyazaki-",
+  "description": "#045-Miyazaki-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Gaia",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kyushu",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Miyazaki",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

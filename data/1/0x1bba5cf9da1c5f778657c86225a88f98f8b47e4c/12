@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXJZjYcyUtLubgW7xjYfkgzMhnGpKATRduh18hn4maJ7h/nft.png",
+  "nftContractAddress": "0x1bba5cf9da1c5f778657c86225a88f98f8b47e4c",
+  "animationUrl": "",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "#021 Tim Fan Art of The Mafia Animals(No.034 Via)",
+  "description": "Tim admires Mr. Via of the Mafia.\nTim is very happy that he was able to purchase Via's long-awaited figure.\nHe's wearing a suit and imitating Via, but he's holding a candy cigarette in his hand.",
+  "attributes": [
+    {
+      "value": "Tim",
+      "trait_type": "CHARACTER"
+    },
+    {
+      "value": "Fan Art",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "Mr.Via of the Mafia",
+      "trait_type": "JOB"
+    }
+  ]
+}

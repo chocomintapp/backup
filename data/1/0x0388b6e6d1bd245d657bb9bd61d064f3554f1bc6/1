@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZHJtaCALMs7drGtT34wxYowHmDmdHKbGyNHWjo3CsF32/nft.jpg",
+  "nftContractAddress": "0x0388b6e6d1bd245d657bb9bd61d064f3554f1bc6",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Microraptor",
+  "description": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": ""
+}

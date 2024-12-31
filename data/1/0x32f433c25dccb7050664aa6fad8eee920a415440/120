@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXFsjHnBrHCy1r51DLeQXkT4FgMgD9GSC18gjNs7YJrWR/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmYpTKxH5xKJsgUZJNSqWAeYLg12qZ5YnQiyhtZJFFDago/nft.mp4",
+  "tokenId": 120,
+  "chainId": "1",
+  "name": "THE JEWEL #120",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Benitoite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTQXzDYRRTXwBpk2YTrqJ3sDhxPvfRmQaxt9uVF9t9852/nft.jpg",
+  "nftContractAddress": "0xb633dbee65f5f2218284c8d775f7efe33570179e",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Eggbird #014-Flying Oriental Greenfinch",
+  "description": "Eggbird #014-Flying 『カワラヒワ』",
+  "attributes": [
+    {
+      "value": "Nature 野鳥",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Oriental Greenfinch　カワラヒワ ",
+      "trait_type": "Species"
+    }
+  ]
+}

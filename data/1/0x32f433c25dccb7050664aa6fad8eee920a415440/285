@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSM2Z3hpvF2VejQrcCLUhgVTA2zELiTMuHDEsoeMMp2Q8/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmUPz43WZpLJoRLjEsWfdt2Jp9pWuHfuBMPSqJ1m262vE1/nft.mp4",
+  "tokenId": 285,
+  "chainId": "1",
+  "name": "THE JEWEL #285",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Zirconium",
+      "trait_type": "Control device"
+    }
+  ]
+}

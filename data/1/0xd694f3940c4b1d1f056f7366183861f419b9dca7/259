@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTmMxyytX6i3xTT6V9dVUkpxHV8iGd8tqeDWMUzAQFJX9/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 259,
+  "chainId": "1",
+  "name": "January 31 エレモフィア",
+  "description": "",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "月"
+    },
+    {
+      "value": "31",
+      "trait_type": "日"
+    },
+    {
+      "value": "あこがれの人",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "エレモフィア",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

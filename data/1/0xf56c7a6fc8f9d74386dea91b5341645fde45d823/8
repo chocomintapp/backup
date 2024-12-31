@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmboEEAff3Yf6EfFQZSHHm4pdYTbGeeoo2WUBsDoFP7BxK/nft.png",
+  "nftContractAddress": "0xf56c7a6fc8f9d74386dea91b5341645fde45d823",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "CoolGirl Weapons #008",
+  "description": "CoolGirlNFT×武器のファンアート作品",
+  "attributes": [
+    {
+      "value": "black sword",
+      "trait_type": "Weapons"
+    }
+  ],
+  "minted": "✅"
+}

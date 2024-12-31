@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmetvACHxehCwQP2scybtAhajC9E7R2Ar1MgBDLcMnpyYt/nft.png",
+  "nftContractAddress": "0x95a295d60abf12bcd13922d060e211c2b2790a66",
+  "animationUrl": "https://ipfs.io/ipfs/QmX3P8R2rVEN9vu7u265Yr1Fg2KWFd2Tt9TBiPYnKThyMQ/nft.mp4",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "CUBE #001",
+  "description": "A mysterious cube world.",
+  "attributes": []
+}

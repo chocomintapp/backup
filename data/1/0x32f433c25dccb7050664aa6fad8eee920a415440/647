@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX7HxY51fRUrwNKWf4NbYH4nTUYR5e8no8YeM54T2BH3g/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmYv2GtMjtLRWgcfE3CBEipW3uf7QskbrSLi6bU9kPtZuY/nft.mp4",
+  "tokenId": 647,
+  "chainId": "1",
+  "name": "THE JEWEL #647",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Black Purple Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

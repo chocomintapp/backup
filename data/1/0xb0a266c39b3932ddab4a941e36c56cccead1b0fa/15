@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSjaX8Sgd2eCJNjLDSdUtYL2tZdYTuge9xyeEnJNWpSLR/nft.jpg",
+  "tokenId": 15,
+  "description": "九谷焼-トップス\n\n九谷焼は、石川県加賀地方で生産される陶磁器です。\n\n色鮮やかな絵付けが特徴で、陶器表面の艶感と併せて表現しました。\n\nKutani ware - TOPS\n\nKutani ware is a ceramic ware produced in the Kaga region of Ishikawa Prefecture.\n\nIt is characterized by its vividly colored paintings, which are expressed along with the glossy surface of the pottery.",
+  "nftContractAddress": "0xb0a266c39b3932ddab4a941e36c56cccead1b0fa",
+  "animationUrl": "https://ipfs.io/ipfs/QmPbN1e5bj25si82N4dtDwZua5Jg1eLCK6cGCPomBQK6yn/nft.glb",
+  "chainId": "1",
+  "name": "PRESS POTTERY Kutani",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

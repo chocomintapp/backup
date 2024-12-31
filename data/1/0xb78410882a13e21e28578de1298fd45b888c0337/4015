@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPffpFgE1scRSXJ3mwgCV1tSu6W2BQ8s9W2dFE3SyqvNP/nft.png",
+  "nftContractAddress": "0xb78410882a13e21e28578de1298fd45b888c0337",
+  "animationUrl": "",
+  "tokenId": 4015,
+  "chainId": "1",
+  "name": "",
+  "description": "",
+  "attributes": [
+    {
+      "value": "PURPLE",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "面足尊",
+      "trait_type": "SIGNATURE STAMP"
+    }
+  ]
+}

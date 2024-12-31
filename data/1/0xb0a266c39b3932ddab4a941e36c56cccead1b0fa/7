@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme8ocTKH4H2afsmUY5hma7ifum3h1F9NQuAcVpYhzXin7/nft.jpg",
+  "tokenId": 7,
+  "description": "萩焼-スカート\n\n萩焼は山口県萩市一帯で焼かれる陶器です。\n\nさまざまある表現方法の中から、ガラス釉薬を使用した、奥行きのある表現を選んでいます。\n\nHagi ware - Skirt\n\nHagi ware is a type of pottery fired in the Hagi area of Yamaguchi Prefecture.\n\nAmong the various methods of expression, I have chosen to use glass glaze, which gives the piece depth.",
+  "nftContractAddress": "0xb0a266c39b3932ddab4a941e36c56cccead1b0fa",
+  "animationUrl": "https://ipfs.io/ipfs/QmT6KDkmutak4JMVsFfK967wmKv2qFWqMbGirScwBBSFzL/nft.glb",
+  "chainId": "1",
+  "name": "PRESS POTTERY  Hagi",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "3"
+    }
+  ]
+}

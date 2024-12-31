@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNoxaVQTkMTodx4CSXb7i3bmwNATTdpcRH8Ch3kDesnHH/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 342,
+  "chainId": "1",
+  "name": "DONA",
+  "description": "■ドナ",
+  "attributes": [
+    {
+      "value": "half-broken3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Red",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllOrange",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Matchingcloth-05",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-3EYES",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "glasses-red(NE)",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "LeeLee-Normal",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Dragcap",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Meta tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

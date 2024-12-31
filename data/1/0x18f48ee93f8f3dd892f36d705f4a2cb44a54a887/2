@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmarQg8J28mVU4SeVvAqz8fDJAuASY4jBTLEHkjfS9M8kD/nft.jpg",
+  "tokenId": 2,
+  "description": "The Bee Bus of magic forest\nCreated by Krs in 2009",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmarQg8J28mVU4SeVvAqz8fDJAuASY4jBTLEHkjfS9M8kD/nft.jpg",
+  "chainId": "1",
+  "name": "BeeBus"
+}

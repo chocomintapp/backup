@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYYnVYsjKeHA56yXAKTbPyDsHywCUJM2kX6pyvUyzo5gu/nft.png",
+  "nftContractAddress": "0xb78410882a13e21e28578de1298fd45b888c0337",
+  "animationUrl": "",
+  "tokenId": 4498,
+  "chainId": "1",
+  "name": "",
+  "description": "",
+  "attributes": [
+    {
+      "value": "面足尊",
+      "trait_type": "面足尊"
+    },
+    {
+      "value": "面足尊",
+      "trait_type": "SIGNATURE STAMP"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcZXHkY6D8D6oeZUTcCXxXijtNxcVK6tPRk7ZCsUCSuwb/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmP3Acpm9NwWyHPgD7pVyweGUo3PVv7WrxjRPQ6rtxASTe/nft.mp4",
+  "tokenId": 514,
+  "chainId": "1",
+  "name": "THE JEWEL #514",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Aquamarine",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Iridium",
+      "trait_type": "Control device"
+    }
+  ]
+}

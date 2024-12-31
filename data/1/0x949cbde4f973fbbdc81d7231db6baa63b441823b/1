@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSHH56EBH3ZGxqzcP8yKkQPHfVDxCnphSMYKATyWguGQt/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "A #1",
+  "description": "",
+  "attributes": [
+    {
+      "value": " A",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "none",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "A",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "a",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU34DKxL5nbohjiBnNmQ6y1oDmzednCAXqVkUxnMLCHfm/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 45,
+  "chainId": "1",
+  "name": "POPET No.45",
+  "description": "【物語】\nいつも煙草をふかしながら、\n秘密のノートに何かを書いている。\n「何を書いているかって？...完成したら見せてあげるよ」",
+  "attributes": [
+    {
+      "value": "文筆家",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ダウンタウン",
+      "trait_type": "origin"
+    },
+    {
+      "value": "温厚",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

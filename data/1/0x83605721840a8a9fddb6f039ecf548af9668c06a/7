@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPfw3SWWEVZaDpxeTBJc4ANbvqtQqd9TkfibopguR1rJV/nft.png",
+  "nftContractAddress": "0x83605721840a8a9fddb6f039ecf548af9668c06a",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "CryptoNinja #034",
+  "description": "#034",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Saika - 雑賀",
+      "trait_type": "Clan"
+    },
+    {
+      "value": "Pistols - 銃",
+      "trait_type": "Weapon"
+    },
+    {
+      "value": "One-shot Sure-hit - 一発必中",
+      "trait_type": "Ninjutsu"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXosPkA5USwmNF59nk3f5fKC2xEUsvSEcmHuGNxNNAjxM/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "NI #22",
+  "description": "",
+  "attributes": [
+    {
+      "value": "I",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "N",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "I",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "ni",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

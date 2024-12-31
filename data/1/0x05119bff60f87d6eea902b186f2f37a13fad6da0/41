@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUCn9awH1hKg7G3MHLQ2J6fHDYwbfZ8ZeS3BXSuLgb4Bv/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 41,
+  "chainId": "1",
+  "name": "POPET No.41",
+  "description": "【物語】\n\nはじめてもつクラス。\n不安だけど憧れだった先生にやっとなれたから。\n頑張らないと...。",
+  "attributes": [
+    {
+      "value": "教師",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "学校",
+      "trait_type": "origin"
+    },
+    {
+      "value": "内向的",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

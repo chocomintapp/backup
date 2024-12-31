@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVZerHUFzMrDsLeHqEbFuerHUgxNUuVbY9DZuryYbPW3u/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 144,
+  "chainId": "1",
+  "name": "October 8 ガーベラ（黄）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "月"
+    },
+    {
+      "value": "8",
+      "trait_type": "日"
+    },
+    {
+      "value": "究極美",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ガーベラ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

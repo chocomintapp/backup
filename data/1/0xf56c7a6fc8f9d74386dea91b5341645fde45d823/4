@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme5RLrfcY6UYsBhn6VfsEzueRzq89EU1zjbwScHuLccio/nft.png",
+  "nftContractAddress": "0xf56c7a6fc8f9d74386dea91b5341645fde45d823",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "CoolGirl Weapons #004",
+  "description": "CoolGirlNFT×武器のファンアート作品",
+  "attributes": [
+    {
+      "value": "KATANA",
+      "trait_type": "Weapons"
+    }
+  ],
+  "minted": "✅"
+}

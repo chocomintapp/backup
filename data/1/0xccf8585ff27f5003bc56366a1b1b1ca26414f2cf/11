@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXWD4N9knU4sFjfsMPvy4EPWdTEWce1TKLs8oSBK2E6Qp/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "WEAR BEAR #097” CHRIS” FOODIE&SIBERIAN HUSKY ",
+  "description": "WEAR BEAR 第10弾は原点であるFOODIEをオーソドックスにスタイリングしたベア達がなんとお供を連れて登場！\n“CHRIS”はカーキのBEAR FOODIEを着用し、BUDDYのハスキーくんと登場\n",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "“PLAY BEAR” Foodie",
+      "trait_type": "Tops "
+    },
+    {
+      "value": "Duck Painter pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "“addios”CAMPUS",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "Type "
+    },
+    {
+      "value": "Chris”",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Siberian husky",
+      "trait_type": "Buddy"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXqUrSCCxSfzCABXWJW6rbXp5p7wHR7oNKYbhdQA5X4fU/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Party Sheep Club × Ambitious One City Special Edition",
+  "description": "Party Sheep Club × Ambitious One CityのSpecial Giveaway特典",
+  "attributes": [
+    {
+      "value": "PSC Hoodie",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Silver Hoop",
+      "trait_type": "EARRING"
+    },
+    {
+      "value": "Star-Shaped Sunglasses",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Black",
+      "trait_type": "FUR"
+    },
+    {
+      "value": "Party Hat",
+      "trait_type": "HAT"
+    },
+    {
+      "value": "Reindeer",
+      "trait_type": "MOUTH"
+    }
+  ]
+}

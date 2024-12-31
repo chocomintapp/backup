@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmacMDsNQp2kUm2hPZTBgg4GTfBEok5AiVeGPpxcAcFhTk/nft.gif",
+  "tokenId": 41,
+  "description": "Lako  \n鮮やかな色と幾何学的な造形を見つけた  \nHe found bright colors and geometric shapes.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmWPVgEx611zVtSwcovUqYi3KPdKk1ciDCyjWHMHHbFMCW/nft.mp4",
+  "chainId": "1",
+  "name": "Lako #041",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Construct"
+    }
+  ]
+}

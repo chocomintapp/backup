@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaakP2R5wCvrCBR37rJAQV6vKjTQxhJ7jdLXXxtx22EJf/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmXQiEtbB11N2Nt5PvPfWiQQSrwCZYq6VmqYFTciowUMRs/nft.mp4",
+  "tokenId": 142,
+  "chainId": "1",
+  "name": "THE JEWEL #142",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Blue diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "gold",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

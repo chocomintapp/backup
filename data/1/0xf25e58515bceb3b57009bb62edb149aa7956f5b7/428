@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbnr2UFNrH6XJrBPiBFawEXWRWrDpGuSULJS4XJ4koz2E/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 428,
+  "chainId": "1",
+  "name": "SATOMI",
+  "description": "■サトミ",
+  "attributes": [
+    {
+      "value": "Light-Purple",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0002Eye4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-kanazuen",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Green",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Toypoodle",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

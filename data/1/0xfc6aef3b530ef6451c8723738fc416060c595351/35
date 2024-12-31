@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNQHCNEREfpVdgKxcrgb6sQYYcHNqJWn6NFvC93rSb7xs/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "1",
+  "name": "Dogitmap",
+  "description": "File: PNG  \nSize: 2048x2048  \nTotal Supply: 1  \nDo you see an F shape there? Nah, I think you're tired.",
+  "attributes": [
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "Face",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "Mother",
+      "trait_type": "genaration"
+    },
+    {
+      "value": "Mini",
+      "trait_type": "generation"
+    },
+    {
+      "value": "Infant",
+      "trait_type": "generation"
+    },
+    {
+      "value": "Fetus",
+      "trait_type": "generation"
+    },
+    {
+      "value": "Orange Block",
+      "trait_type": "object(s)"
+    }
+  ]
+}

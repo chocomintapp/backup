@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRXEdar7L8bH2QdfyqCDtpkno9xaVowtUBHnZp8tvBUdy/nft.jpg",
+  "nftContractAddress": "0xd1f8aade1d996c02b5d62321716dc4b58f230f75",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "A : Traveling Man #019",
+  "description": "Traveling Man",
+  "attributes": [
+    {
+      "value": "Traveling",
+      "trait_type": "TYPE"
+    }
+  ]
+}

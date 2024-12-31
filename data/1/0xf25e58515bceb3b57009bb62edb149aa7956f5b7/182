@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaE2psUHztUG1SjvZbSDe5rKsTJLZZtmgC56VdGKW3hhp/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 182,
+  "chainId": "1",
+  "name": "SEERE",
+  "description": "■シーレ",
+  "attributes": [
+    {
+      "value": "Deep-Blue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Devil-kanji",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Archangel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Hornes-N",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Hell Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

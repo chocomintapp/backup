@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcVybRKmspRZqLbA1XkasUxrLarewax69PaxJMXCLFFDG/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmSKvkKUsoyKHDE7Zzvx3Eg2znUKGmaWJp5vNnfAzEBz47/nft.mp4",
+  "tokenId": 591,
+  "chainId": "1",
+  "name": "THE JEWEL #591",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "luberite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Brass",
+      "trait_type": "Control device"
+    }
+  ]
+}

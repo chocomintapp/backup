@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYL5Ec27zwjkY9c7Q3eGm917x1A9pAppvDQ8yrC8nP44T/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 341,
+  "chainId": "1",
+  "name": "DANIELA",
+  "description": "■ダニエラ\n",
+  "attributes": [
+    {
+      "value": "Bright-Pink",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Matchingcloth-03(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-tragic",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Blue",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

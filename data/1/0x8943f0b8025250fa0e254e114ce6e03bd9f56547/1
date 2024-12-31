@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYgLqvvQDf9CLia76fjkePwuBZp4xBYW3L5N8usPh9VQm/nft.jpg",
+  "nftContractAddress": "0x8943f0b8025250fa0e254e114ce6e03bd9f56547",
+  "animationUrl": "https://ipfs.io/ipfs/QmVzFfXyoomPf4Bt5FfJBGZMjoFk7qYez2XuJs9s2W1RtL/nft.jpg",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "20201108 #45",
+  "description": "Ink on charcoal paper \n(3072  ×  4096 px)",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

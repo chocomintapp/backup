@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSvJuLUiynDRy6S2BaACgK5DqmQc4H8doCerrSYRpnQzD/nft.gif",
+  "tokenId": 16,
+  "description": "Crow  \n太陽神に可愛がられている強運の持ち主  \nHe is a lucky Mimi who is loved by the Sun God.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmXMQ6jJdr9XSDu8YEHRWbMToMBqRTNBNR24t7bJWiU9Q8/nft.mp4",
+  "chainId": "1",
+  "name": "Crow #016",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    }
+  ]
+}

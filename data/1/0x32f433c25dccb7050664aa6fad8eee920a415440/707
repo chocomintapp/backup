@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVgmsqdBdsCk8H7YT7Sha7MyA2iSdACEAtyt7tc6Q2nVc/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmQkjc3SLhy41LvDNxWku7vHZJBogdrJQzLXy6PobbXqDv/nft.mp4",
+  "tokenId": 707,
+  "chainId": "1",
+  "name": "THE JEWEL #707",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "mint green beryl",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Tantalum",
+      "trait_type": "Control device"
+    }
+  ]
+}

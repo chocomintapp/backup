@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWeGzNQobMCcrNTwWBJqtEAHXVW7GSKDghXR6qf54Bxh9/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 44,
+  "chainId": "1",
+  "name": "RE #44",
+  "description": "",
+  "attributes": [
+    {
+      "value": "E",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "R",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "E",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "re",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

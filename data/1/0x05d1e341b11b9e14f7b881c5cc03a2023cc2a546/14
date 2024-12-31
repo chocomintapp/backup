@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNRXPswi4iUbzEWyaX1VkNMyftuz6wdrYtzkMCk3KiqFZ/nft.gif",
+  "tokenId": 14,
+  "description": "Keshi  \nとがったツノに見えるものは柔らかいので触っても痛くはない  \nWhat looks like a pointy horn is soft and not painful to touch.  ",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmVk59pMBCurKBrBKtJcExkg6Rs2Cc34FUx1iL2bqUufue/nft.mp4",
+  "chainId": "1",
+  "name": "Keshi #014",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "VOICE",
+      "value": "Mimi"
+    }
+  ]
+}

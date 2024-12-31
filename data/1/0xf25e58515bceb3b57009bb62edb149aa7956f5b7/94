@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd6UGNQKS3DDuBfMvRCFKJXYUbb3B53s3eTo9dr7rAGUX/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 94,
+  "chainId": "1",
+  "name": "KIARA",
+  "description": "KIARA has a very bright and positive personality.\n\nShe yearns to be from an everlasting summer home and goes to tanning salons all year round.\n\nShe is the type of person who explores everything when she is passionate about it, and she is dexterous in everything she does.\n\nHer cat Oreo loves her very much.\n■キアラ\n\nめちゃくちゃ性格が明るくてポジティブなキアラ。\n\n常夏出身に憧れて、年中日焼けサロンに通っている。\n\n熱中するととことん探求するタイプで、器用になんでもこなす。\n\n愛猫のOreoはそんなキアラが大好きだ。",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin-Black",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-B(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Black",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Oreo",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

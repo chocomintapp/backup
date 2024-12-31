@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYFCucYL4JjGa6XzKTt2QenFg9kff1gpyWYc5EhC8aAES/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 380,
+  "chainId": "1",
+  "name": "心月　歌奈恵",
+  "description": "■KANAE　KOKORODSUKI\n■ココロヅキ　カナエ\n■CNPR購入優先権付",
+  "attributes": [
+    {
+      "value": "murmuring of a river",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Star&tear4",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Anisu-china(MIX1)",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye10",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "JK2",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-Kimera-Leetama",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

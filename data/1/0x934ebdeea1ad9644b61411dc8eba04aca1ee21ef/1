@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme2Mq3NaWh1Y5FdH2PNRwEQJjirShPogRyc9GzoWh6mch/nft.jpg",
+  "nftContractAddress": "0x934ebdeea1ad9644b61411dc8eba04aca1ee21ef",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "テスト",
+  "description": "テスト",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "990",
+      "trait_type": "テスト"
+    },
+    {
+      "value": "9",
+      "trait_type": "テスト"
+    },
+    {
+      "value": "8",
+      "trait_type": "テスト"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

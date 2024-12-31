@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRradCZyxtgHxTajPa79gDJuwu199XmgKAvKZC1dPQKdr/nft.jpg",
+  "nftContractAddress": "0xdcbbd79e20c1ea86680ed83c872e8786f5f578f1",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "#18 VILLAINS BEAN THE BOSS",
+  "description": "Beans in 3D are here!! The second series is VILLAINS. They are MAMENGERS enemy.\nThis BEAN is The boss of VILLAINS.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Super Bad horn",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Super ETH",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "None",
+      "trait_type": "EAR ACCESSORY"
+    },
+    {
+      "value": "Soul Harness",
+      "trait_type": "BODY ACCESSORY"
+    },
+    {
+      "value": "Rainbow",
+      "trait_type": "BODY COLOR"
+    },
+    {
+      "value": "Boss SP",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "Magic circle",
+      "trait_type": "ARTICLES"
+    },
+    {
+      "value": "Villains Sky",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

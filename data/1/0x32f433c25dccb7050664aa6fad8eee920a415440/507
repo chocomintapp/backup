@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXhK6p43vjW4P4Htww6amE8JFJKjKiGMaxFDfL7FRhTRZ/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmdtCYdAKq6mMsGRrXdBK1jLtVBGckRqEjRJrPvFDtKSX8/nft.mp4",
+  "tokenId": 507,
+  "chainId": "1",
+  "name": "THE JEWEL #507",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Orange",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Bronze",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeyrJoB3hBGJPJZANGfQtwKDVK2FksWeU76ZcBFPEabq4/nft.jpg",
+  "nftContractAddress": "0xdf8aca3bfb8ea17413a302e4b856f802448465a4",
+  "animationUrl": "https://ipfs.io/ipfs/QmZbstNCaE43jfntj1B3KHpJcNg1qzKuvrnnWeqKkeLarR/nft.mp4",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Rambut Hitam by Rica Ojara Manzana 2023",
+  "description": "This is Rica Ojara Manzana, Contemporary artist at Tokyo.\nMy art works, very minimal, just put in the cookie tin, something. This time, I put on my black long hair, early life. Perhaps 35 years old. I had very beautiful hair at young time. Also, I was very proud of my black, shiny hair, that every day with the wind. Passed long time, and never back again. \n\nThis art works the original appraisal agency \"Happy Nyaan\" proves that it is genuine.\n",
+  "attributes": [
+    {
+      "value": "Black long Hair",
+      "trait_type": "Human"
+    },
+    {
+      "value": "Happy Nyaan",
+      "trait_type": "Appraisal Agency"
+    },
+    {
+      "value": "Rica Ojara Manzana",
+      "trait_type": "Copyright"
+    }
+  ]
+}

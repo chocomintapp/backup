@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcEhAFf95rSiZMTYCqoP6uSHHeUvinoKhHZUNkHh8ieLC/nft.png",
+  "tokenId": 991,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #991",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Bluish White"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heterochromia"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Pale Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Half Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tube Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Silver Rhombus"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "White Cat"
+    }
+  ]
+}

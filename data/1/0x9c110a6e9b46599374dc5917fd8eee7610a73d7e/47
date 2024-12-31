@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWP2BqSYYEo1P4LGeFf7Agzaqx6ouk4StqX59wZM77ayY/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 47,
+  "chainId": "1",
+  "name": "POCO_Claudia",
+  "description": "Claudia-Chan",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Introverted",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

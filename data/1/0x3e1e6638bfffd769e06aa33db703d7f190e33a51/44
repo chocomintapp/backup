@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdFzFibKkQUXrV4aHbyfc3KfVkS33NoDEZsPFL3JLwYd5/nft.png",
+  "nftContractAddress": "0x3e1e6638bfffd769e06aa33db703d7f190e33a51",
+  "animationUrl": "",
+  "tokenId": 44,
+  "chainId": "1",
+  "name": "Wb#43",
+  "description": "Created by Wonder baby.",
+  "attributes": [
+    {
+      "value": "THUNDER",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "BODY C",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "DOUBLE-BREASTED D",
+      "trait_type": "CLOTHING"
+    },
+    {
+      "value": "RIFLE A",
+      "trait_type": "WEAPON"
+    },
+    {
+      "value": "CAP CAMO Flower",
+      "trait_type": "HAT"
+    },
+    {
+      "value": "CIGAR",
+      "trait_type": "MOUTH"
+    }
+  ]
+}

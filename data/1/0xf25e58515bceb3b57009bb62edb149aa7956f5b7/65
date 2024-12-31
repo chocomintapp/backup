@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYWBvjwUZBM1DLGT3pZAZYJdhT5vtQ3vTjM67CZaVNkeQ/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 65,
+  "chainId": "1",
+  "name": "CARRO",
+  "description": "CARRO has a cute face and a ferocious personality.\n\nShe is a single-minded individual who does everything by force.\n\nRecently, she is into growing plants.\n■カロ\n可愛い顔をして性格は狂暴。\n\nなんでもかんでも力任せの単細胞。\n\n最近植物を育てることにハマっている。",
+  "attributes": [
+    {
+      "value": "Deep-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Blue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllPurple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Atype(G)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dominion",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "MIRAKO-AntennaLeft-A",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "The Greens",
+      "trait_type": "TYPE"
+    }
+  ]
+}

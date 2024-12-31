@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYkTYYue7PuAVYzGba2ts7DJdhHKtk1vkXZPEN8Xj2CuR/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 229,
+  "chainId": "1",
+  "name": "JELIEL",
+  "description": "■ジェリエル",
+  "attributes": [
+    {
+      "value": "Demon World Entrance",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Blue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-ZBlue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-W",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Raaamen",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "SandLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Ribon-Blue",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

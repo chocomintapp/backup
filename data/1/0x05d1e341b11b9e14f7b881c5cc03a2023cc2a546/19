@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbPLkT9mWuLCcVuutrZSHix7XngK14gcuYNsAAEQfiJE8/nft.gif",
+  "tokenId": 19,
+  "description": "O-C  \nMIMIMATES collection に擬態している  \nMimicking the MIMIMATES collection",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmbQ8EwztPyoh9EXMY43CvzbejyZbFGu9LFp8ifr5GWNzW/nft.mp4",
+  "chainId": "1",
+  "name": "O-C #019",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Hide"
+    },
+    {
+      "trait_type": "MIMIC",
+      "value": "Hide"
+    }
+  ]
+}

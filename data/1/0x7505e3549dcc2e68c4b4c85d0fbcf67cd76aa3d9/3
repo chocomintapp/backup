@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbK9sD1B7CMLf2PtnDv8HUsmxBad91Qi4G28oUb5RoWgg/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "ラリーちゃん Larry-chan #206",
+  "description": "まだ２さいなのにすぐにまえがみが長くなるの。\nうしろのかみはすぐきる。\nこの子はとくしゅでクレヨンをさわると目が大きくなってほんきモードになる。\nえんぴつではならない。\n\n☆小学２年生６ばん目の作品なので206のナンバーをふりました♪\n\nHe is only 2 years old, but his bangs get long very quickly.\nHe cuts the hair in the back immediately.\nHe has a special kind of eyes that get bigger and more serious when he touches a crayon.\nHe does not do this with a pencil.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Baby",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Kawaii",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Color"
+    }
+  ]
+}

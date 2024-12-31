@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWARntD2AH982ndbCFmWkqrtK5AdPpDMPLuEEZ3tFdhQa/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "THS #050",
+  "description": "【増】",
+  "attributes": [
+    {
+      "value": "buckleya lanceolata",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "dragonfly",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

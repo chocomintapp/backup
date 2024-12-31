@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWjp6pC4GXhzV1XLBEf8LimFbFZJCL3h8mKiRBshceVJW/nft.png",
+  "nftContractAddress": "0x91f97d36f860354290e7c1d71686c700836994bf",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "#004 welcome HOOKY! ",
+  "description": "「HOOKY!」とは・・・ 応援できるアイドル！ファン参加型NFT「HOOKY!project」です。 彼女たちと一緒に、夢をつかんでみませんか？ あなたの応援で、彼女たちはどんどん大きくなっていきます。 ロードマップの最終目標は「フィジカルライブ」です。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "plane",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "AKANE",
+      "trait_type": "member"
+    },
+    {
+      "value": "HOOKY!",
+      "trait_type": "group"
+    },
+    {
+      "value": "Full",
+      "trait_type": "series"
+    },
+    {
+      "value": "FUMIKO",
+      "trait_type": "member"
+    },
+    {
+      "value": "MIKA",
+      "trait_type": "member"
+    },
+    {
+      "value": "KOMACHI",
+      "trait_type": "member"
+    },
+    {
+      "value": "SAYAKA",
+      "trait_type": "member"
+    }
+  ]
+}

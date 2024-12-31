@@ -1,0 +1,11 @@
+{
+  "image": "https://icy-waterfall-9908.ryo-takahashi-work.workers.dev/1.png",
+  "nftContractAddress": "0x138c31200cc098a1ff9816082899cc5f3b76740e",
+  "animationUrl": "https://metakawaii-api.vercel.app/api/drop/mp4/1",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "5",
+  "description": "5",
+  "attributes": [],
+  "minted": ""
+}

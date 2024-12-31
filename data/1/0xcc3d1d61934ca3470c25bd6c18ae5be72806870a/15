@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdtWU2KUaQDaV5T1ZRQrjVUBtCcFzxJqD1ZS5VMh5rvLr/nft.png",
+  "nftContractAddress": "0xcc3d1d61934ca3470c25bd6c18ae5be72806870a",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "#009 怒り",
+  "description": "",
+  "attributes": [
+    {
+      "value": "感情",
+      "trait_type": "Category"
+    },
+    {
+      "value": "吹き出し",
+      "trait_type": "Accessory"
+    }
+  ]
+}

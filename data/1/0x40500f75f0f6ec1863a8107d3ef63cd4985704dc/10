@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWiU6TY1bgubtt6gSumoVzgDm3MtQanwUkQVi8d4yQH7w/nft.gif",
+  "tokenId": 10,
+  "description": "SSKIDS is a kids' event that brings together music-loving communities and families. We won't be able to host it for a while due to Cobit-19, we look forward to seeing everyone again. \n\n■website https://goodvibes.town/ \n\n■twitter https://twitter.com/goodvibestown",
+  "nftContractAddress": "0x40500f75f0f6ec1863a8107d3ef63cd4985704dc",
+  "animationUrl": "https://ipfs.io/ipfs/QmWiU6TY1bgubtt6gSumoVzgDm3MtQanwUkQVi8d4yQH7w/nft.gif",
+  "chainId": "1",
+  "name": "SSKIDS #010 A",
+  "attributes": []
+}

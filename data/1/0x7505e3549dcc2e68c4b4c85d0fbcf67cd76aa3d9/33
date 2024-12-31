@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVCWMt6GLwgCmpc2iDg3Mm42cjudnzgjsWAfRw6scWTYu/nft.mp4",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "1",
+  "name": "06 なぞだけどカラフル Mystery but Colorful #218",
+  "description": "チクタクチクタクッ♪ ジャジャーンッ❣️\n\n「なぞですよ♪\nなんでもなぞですよ♪\n本人もわかりません♪」\n\nカラより\n\n☆小学2年生18番目の作品なので218のナンバーをふりました♪\n\nカラ１周年まつりに参加してくださったみなさまへ\n限定特典のNFTです！\n00はカラ家用に保管します。\n\n今後、なんと♪ 変身する予定です♪\nちょこっとずつちがうか、まったくちがうか、どんな変身でしょう？\n実はカラ一家総出で準備中です😂\n\n初挑戦です！うまくいくかも含めて\nいっしょにワクワクしていただけますように✨\n\n2022年12月1日に変身ッしました！\n10種類、ちょっとずつちがう変身になってます♪\n\n“It's a mystery.\nAnything is a mystery.\nI don't know either, as I painted this.”\n\nFrom COLOR\n\n☆This is the 18th work in the second grade, so I numbered it 218.\n\nTo everyone who participated in the COLORNFTKids 1st Anniversary Festival!\nIt's NFT, a limited edition benefit!\n00 will be kept for the COLOR family.\n\nIn the future, it will be transformed.\nWhat kind of transformation will it be, a little different or completely different?\nActually, the whole COLOR family is preparing for it 😂.\n\nIt's my first try! We'll see if it works out.\nI hope you will be excited with me✨\n\nTransformed on December 1, 2022!\n10 different transformations, each one a little different from the last.",
+  "attributes": [
+    {
+      "value": "mystery",
+      "trait_type": "Type"
+    },
+    {
+      "value": "kawaii",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Colorful",
+      "trait_type": "Color"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY7DoiLV1D1YdyBetgwkuUUsJqtcH8KPGP3B7zoVnrpoq/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 118,
+  "chainId": "1",
+  "name": "RIA",
+  "description": "■リア",
+  "attributes": [
+    {
+      "value": "Right side of the heavens",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-Pink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-RW(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Orange",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Businessperson",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Orange",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

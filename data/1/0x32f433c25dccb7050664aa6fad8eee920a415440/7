@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme8ZKrnFj7pG24wZDaSYsvu6unpwaZc4rs1XwQErmT8m3/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmf4gQ41oatBxfdgsm45DUor42gGr4fK3sECWLDUy8kuck/nft.mp4",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "THE JEWEL #007",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "pink sapphire",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Pink Gold",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

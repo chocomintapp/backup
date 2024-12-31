@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVgjWzHVn2LQ9xyrdtck4UEWFTxsjUy8R5dBqviddN8Tq/nft.gif",
+  "nftContractAddress": "0x14df01ddadf042d171a95f0ca8a3911a3c3457ab",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "#23",
+  "description": "LEPになるぜ",
+  "attributes": [
+    {
+      "value": "LEP",
+      "trait_type": "Face"
+    },
+    {
+      "value": "LEP",
+      "trait_type": "Head"
+    },
+    {
+      "value": "KUMADA",
+      "trait_type": "Body"
+    },
+    {
+      "value": "LEP",
+      "trait_type": "Job"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    }
+  ],
+  "minted": ""
+}

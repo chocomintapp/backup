@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYJczmaw1xpEhKRcn69b5aoFpKcCixiAfFtip4YBNMUZw/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "KI #7",
+  "description": "",
+  "attributes": [
+    {
+      "value": "I",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "K",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "I",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "ki",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

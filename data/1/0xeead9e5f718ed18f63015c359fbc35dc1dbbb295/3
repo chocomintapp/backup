@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaHK69nsQUf2Wa9ZsByKgTMnR3S3TucCNxX2n96txE2eG/nft.png",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Tokyo Expanding People 2099 #4hrdk1",
+  "description": "Our first priority was to sublimate the body as art by making it faithful to the original body.\nWe wanted to express the X-gender identity, so we gave him a hard surface skin with a metallic texture that gives the impression of a strong will to live, and has beautiful long hair with a gradation of blue and pink colors.\nHe also decorated his hair with cherry blossoms that bloom outwardly, just like a glimpse of his own inner powerful and soft energy.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Model",
+      "trait_type": "Custom"
+    }
+  ]
+}

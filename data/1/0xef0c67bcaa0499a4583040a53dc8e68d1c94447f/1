@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQciVh5adtaLCMkCibQT5zdKaT6BqTPoURmPkMkyokk97/nft.png",
+  "nftContractAddress": "0xef0c67bcaa0499a4583040a53dc8e68d1c94447f",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "KeN.PFP",
+  "description": "my PFP",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": ""
+}

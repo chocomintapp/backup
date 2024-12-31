@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPkSRd8W6RcbNCYqxxL1VCCM9roNPhDPQsdevzH1b6eEi/nft.png",
+  "nftContractAddress": "0xf15d19d29e1d48f51df68f446cf96b517bab4658",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "I AM",
+  "description": "This picture expresses me.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": ""
+}

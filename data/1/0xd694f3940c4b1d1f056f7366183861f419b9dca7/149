@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPTueRngMMVhyg9tac8WLf9R84QmL57QptayLtFRqK2d6/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 149,
+  "chainId": "1",
+  "name": "October 13 ガーベラ（オレンジ）",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "10",
+      "trait_type": "月"
+    },
+    {
+      "value": "13",
+      "trait_type": "日"
+    },
+    {
+      "value": "続ける力",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ガーベラ",
+      "trait_type": "花"
+    }
+  ]
+}

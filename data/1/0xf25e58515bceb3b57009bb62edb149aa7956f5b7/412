@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVwRDSnrRD9wTTYcx16juTY4LJDyXWSWpeP3dKusLh7Rc/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 412,
+  "chainId": "1",
+  "name": "ALINA",
+  "description": "■アリーナ",
+  "attributes": [
+    {
+      "value": "Cell division",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Purple",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllPurple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-PU",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "glasses-yellow(NE)",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNP-Luna-P(shining)",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

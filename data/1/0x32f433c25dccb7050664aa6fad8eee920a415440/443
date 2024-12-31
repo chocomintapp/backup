@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbYECs7V6WVCmq68XCajpXwQoKco6VophH7ZKYBV5Cnb3/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmX2TjhTHkUTcYd7T1G2TNa4c4D3uUhCZ5kYXkLG5Kk5o1/nft.mp4",
+  "tokenId": 443,
+  "chainId": "1",
+  "name": "THE JEWEL #443",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Yellow Calcite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Control device"
+    }
+  ]
+}

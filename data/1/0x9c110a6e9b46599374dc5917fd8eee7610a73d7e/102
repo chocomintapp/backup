@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaCNLg534wrGHzAA4rxmQYZVqXti4Y6nZ7QZVKQ3HWpv4/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 102,
+  "chainId": "1",
+  "name": "POCO_Rosine",
+  "description": "Rosine-Chan",
+  "attributes": [
+    {
+      "value": "Brave",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Sci-Fi",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

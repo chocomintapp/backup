@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXU8UB9jJ9nsNU7PMC6wnTY3841aTSSf2auJa8XmPBCYT/nft.png",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0x8cebe4e66e3ae0730112d63f54daf26139f30544",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "CryptoSisters #2",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "CHARACTER",
+      "value": "Bit Coin"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Rainbow Shiny"
+    },
+    {
+      "trait_type": "PRICE",
+      "value": "ATH"
+    }
+  ]
+}

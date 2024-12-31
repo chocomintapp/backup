@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeXAZRRs5s8YMpK3azkCHS1evQVVfRwgqj2EXP7YcBVge/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 84,
+  "chainId": "1",
+  "name": "Silvana",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "sunburn",
+      "trait_type": "skin"
+    },
+    {
+      "value": "black_red",
+      "trait_type": "eye"
+    },
+    {
+      "value": "malon05",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "mars_glass",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Horologium",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

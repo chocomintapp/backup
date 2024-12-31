@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme2B1tf9hcGEtn5Yh5Nx4MqSjBJv3wNydWe1o7Q1rHw8D/nft.png",
+  "tokenId": 507,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #507",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Wavy Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cutout Top"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Neck Accessories",
+      "value": "Gold Peace Sign"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Fork"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Pistol"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Captain Hat"
+    }
+  ]
+}

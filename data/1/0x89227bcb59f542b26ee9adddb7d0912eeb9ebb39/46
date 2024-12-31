@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVgzg2T516cEeaSQqcP3bJqX8VPugZycZwvpXoySdt3c7/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 46,
+  "chainId": "1",
+  "name": "#046-Kagoshima-",
+  "description": "#046-Kagoshima-",
+  "attributes": [
+    {
+      "value": "Gaia",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kyushu",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Kagoshima",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

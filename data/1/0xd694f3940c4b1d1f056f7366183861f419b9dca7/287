@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdWNWCgbds9XtpHEEdoBHFRfya4VjDvNaaiNChUy4yPJV/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 287,
+  "chainId": "1",
+  "name": "February 28 シネラリア",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "月"
+    },
+    {
+      "value": "28",
+      "trait_type": "日"
+    },
+    {
+      "value": "快活",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "シネラリア",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

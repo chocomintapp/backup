@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYq6RpbKLLho76tNctPwHDBdBc3UL13CzBwPCokeM5obL/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "WEAR BEAR #096 “SCOTT” FOODIE&EXOTIC SHORTHAIR",
+  "description": "WEAR BEAR 第10弾は原点であるFOODIEをオーソドックスにスタイリングしたベア達がなんとお供を連れて登場！\n“SCOTT”は濃いブルーのBEAR FOODIEを着用し、BUDDYのエキゾチックショートヘアくんと登場\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "“PLAY BEAR” Foodie",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Deckies Chinos",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "“MIKE” Cortez",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Scott",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Exotic shorthair",
+      "trait_type": "Buddy"
+    }
+  ]
+}

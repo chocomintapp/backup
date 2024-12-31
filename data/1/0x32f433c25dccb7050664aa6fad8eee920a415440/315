@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPk3yfvpuzC5pzWQkhX88gsWTAeasvWQyCJAwCqWcG4An/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmcBtKBq5ypvUCDLaPGCLsfPToSrNzVjAzZuzahkQuDTeT/nft.mp4",
+  "tokenId": 315,
+  "chainId": "1",
+  "name": "THE JEWEL #315",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

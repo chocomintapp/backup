@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTGNVv1oY5kaJphZQ5KXYmmdV2tgmhTY3JPaCsf5k3Tbk/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 337,
+  "chainId": "1",
+  "name": "RITSUKI",
+  "description": "■リツキ",
+  "attributes": [
+    {
+      "value": "Entrance Heavenly3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Lolitahair",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-OddGY",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "LoliFoodie-Black",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "NARUKAMI-P",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

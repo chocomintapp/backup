@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPzoqoaxPswSCPmVhom5AscwVpn4a2iPmruQydCDzkn9N/nft.gif",
+  "tokenId": 48,
+  "description": "Popo  \nファンキーであり知性的  \nFunky and intelligent",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmZCwnrkw4yw22aZLRV4FuXtCXLboCq6ZnAWhRuxKEVubc/nft.mp4",
+  "chainId": "1",
+  "name": "Popo #048",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Construct"
+    },
+    {
+      "trait_type": "VOICE",
+      "value": "Mimi"
+    }
+  ]
+}

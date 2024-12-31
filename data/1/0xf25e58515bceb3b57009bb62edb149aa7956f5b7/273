@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWDH6K4qy2amxWCiYajQ1kUkXn413hTYjdP13DYmCL5n8/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 273,
+  "chainId": "1",
+  "name": "BRUNETTA",
+  "description": "■ブルネッタ",
+  "attributes": [
+    {
+      "value": "Bright-Green",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew3",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-Uyellow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-WBW",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-tragic",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

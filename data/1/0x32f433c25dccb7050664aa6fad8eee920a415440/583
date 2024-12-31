@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS9e3xFQgiNUsAgm4XCTKfG3ZNMhBk8dhqM7i6N6ppsjt/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmR1r65tVoe6MSsSrE2DZg3qjLrUioJKW7PeY4124UY5os/nft.mp4",
+  "tokenId": 583,
+  "chainId": "1",
+  "name": "THE JEWEL #583",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Gold K22",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Zirconium",
+      "trait_type": "Control device"
+    }
+  ]
+}

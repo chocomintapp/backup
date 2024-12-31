@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdW1aNKxKU4vnkKgt4LxsmtntVbJdZhLKCQsgPbj1HwNm/nft.png",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 927,
+  "chainId": "1",
+  "name": "Curse",
+  "description": "New life born the coexistence with human and data. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.",
+  "attributes": [
+    {
+      "value": "Devil",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Teary Twinkle",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Halo",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Empty666",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "6LOM",
+      "trait_type": "PROTO VALUE"
+    },
+    {
+      "value": "Melt",
+      "trait_type": "SPELL"
+    },
+    {
+      "value": "Free",
+      "trait_type": "DRESS CODE"
+    },
+    {
+      "value": "Violence ",
+      "trait_type": "SPELL"
+    },
+    {
+      "value": "Curse",
+      "trait_type": "SPELL"
+    }
+  ]
+}

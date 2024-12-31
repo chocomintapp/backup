@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYpqZtEorKABngGKMK32ee3oppmvnasPVW9BC8aVq8oVM/nft.gif",
+  "tokenId": 18,
+  "description": "This is a collection of GIFs of Kawaii SKULL. A skeleton made of 24x24 pixels. Isn't it cute?",
+  "nftContractAddress": "0xe0bc16aac08327a5446c5c9af48e2a1f23c5271b",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Kawaii SKULL GIFS COLLECTION 18",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

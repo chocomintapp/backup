@@ -1,0 +1,20 @@
+{
+  "image": "ipfs://bafkreiaf6chtitpq33u42loesqe47o7mqapaewoipzvqbzphg4j4snlury",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 20,
+  "chainId": "1",
+  "name": "Another Ganmichan #1",
+  "description": "いつもと違うがんみちゃん。これもまたいい！",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "another",
+      "trait_type": "series"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

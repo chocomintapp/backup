@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZk2SsRSQmujjxATmf1LvPSrHfxZoQdzySX6hj5xP6DPX/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "1",
+  "name": "#025-Shiga-",
+  "description": "#025-Shiga-",
+  "attributes": [
+    {
+      "value": "Aqua",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kansai",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Shiga",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

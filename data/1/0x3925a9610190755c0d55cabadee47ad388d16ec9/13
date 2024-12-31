@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRvVH29Ave5YjBSDJ3QBDxCkhg5bJ5HW1D9voQJtzxkGp/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "Kank",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "HIKYAKU",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Rairu Tobaru",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "SMILE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "HOOK",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    }
+  ]
+}

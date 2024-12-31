@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdUdrfigazS6b44Y2hJusMbT9rSLJoMZowCbxfP2ksEib/nft.jpeg",
+  "nftContractAddress": "0x09c0c9b4876b7570f2ae2bdd31dfedb755d72787",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "HUNIMAL #P-03",
+  "description": "Human + Animal = Hunimal\n\nThe idea for Hunimals originated from a word play: When the words human and animal are combined it results in Hunimal. It is a collaboration with hair stylist ASASHI, who styled the hair of 6 models (3 boys, 3 girls), which were then photographed. Yuko drew on the face and body in the photos to create Hunimal characters.",
+  "attributes": [
+    {
+      "value": "Hunimal",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Grey",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Mandrill + Harry",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Team Hunimals",
+      "trait_type": "FASHION"
+    },
+    {
+      "value": "Regent",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "1950s",
+      "trait_type": "STYLE"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSBwyZXnUU3Pu5zUopgyguKutf1kbLNP8bHWLefmuU8a6/nft.jpg",
+  "tokenId": 1,
+  "description": "I'm nobody else.",
+  "nftContractAddress": "0x5fbe3b1ac606ccce9773ccceae44a082486d27fc",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "NOBODY No.0",
+  "attributes": []
+}

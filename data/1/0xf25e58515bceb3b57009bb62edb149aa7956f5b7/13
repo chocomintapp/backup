@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeFP1JqLgREKvVmHoBfWCq5mPhHscToeXwJvcS3dSSdeD/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 13,
+  "chainId": "1",
+  "name": "HIMARI",
+  "description": "Himali is a biting animal.\n\nIf left unchecked, she will even chew on the pillars of the house she lives in.\n\nSo she usually carries a saury with her in case she gets the urge to bite.\n■ヒマリ\n\nとにかく噛みつき癖がすごいヒマリ。\n\n放っておくと自分の住んでる家の柱まで噛んでしまう始末。\n\nなので普段から噛みつき衝動がきたときのためにサンマを持ち歩いている。\n",
+  "attributes": [
+    {
+      "value": "Deep-Orange",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Star&tear3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Duckstyle-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-ZombieAllred",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Redblack",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-hank",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Red",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Duck Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

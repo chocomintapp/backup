@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcaax6UDeBzYN9HJ7pd5wDSehMSYU6PY8QJXXvk1PnWs9/nft.jpg",
+  "nftContractAddress": "0x95921d70f9656dc996ae20a80e0744edd6c01763",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "SHO ARTWORKS #001",
+  "description": "Fish wearing a belly band",
+  "attributes": [
+    {
+      "value": "01",
+      "trait_type": "A"
+    },
+    {
+      "value": "01",
+      "trait_type": "B"
+    },
+    {
+      "value": "01",
+      "trait_type": "C"
+    }
+  ]
+}

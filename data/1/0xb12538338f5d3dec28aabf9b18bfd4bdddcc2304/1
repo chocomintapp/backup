@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcMttmPiWj6sV6ESDYPeT9JzkX9WzroWGCEE7MrYi8FxV/nft.jpg",
+  "nftContractAddress": "0xb12538338f5d3dec28aabf9b18bfd4bdddcc2304",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "BabyDragonNFT_XXX",
+  "description": "BabyDragonNFT giveaway on  twitter!\nThis is limited edition.\nNo.XXX1.",
+  "attributes": [
+    {
+      "value": "S-horn",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Odd-Blue/Yellow",
+      "trait_type": "EYE"
+    },
+    {
+      "value": "Wing",
+      "trait_type": "WING"
+    },
+    {
+      "value": "Black",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Bling-bling",
+      "trait_type": "ITEM1"
+    },
+    {
+      "value": "None",
+      "trait_type": "ITEM2"
+    },
+    {
+      "value": "01",
+      "trait_type": "POSE"
+    },
+    {
+      "value": "XXX",
+      "trait_type": "Number"
+    },
+    {
+      "value": "Skyblue",
+      "trait_type": "BACK"
+    }
+  ]
+}

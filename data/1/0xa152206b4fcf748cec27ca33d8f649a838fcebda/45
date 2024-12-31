@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbswo2qgrrkNwASd4qUP5av12iF57RRTKbSFNJdcid39f/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 45,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "Make America Great Again",
+  "attributes": [
+    {
+      "value": "スランプ",
+      "trait_type": "人物"
+    },
+    {
+      "value": "スーツ",
+      "trait_type": "服装"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZWGjruEQhx7MuY7TdkxNjqeEp6uSyAL2XmR13FQL4nBt/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "HINA",
+  "description": "HINA is a shy girl who looks good with a big red ribbon.\n\nHer dog, Abby, always tries to go in the opposite direction of Hina's walk because she thinks she is in a superior position.\n\nMinette, a cat's hairpin that Hina cares too much for to come to life, is often\nMinette is the name of a cat hairpin.\n\nIt came to life because HINA cherishes it too much, and she ruins it at every turn.\n■ヒナ\n大きな赤いリボンがよく似合う、照れ屋のヒナ。\n\n彼女の愛犬アビーは、自分の方が立場が上だと思っているので、いつもヒナの歩く方向とは逆に行こうとする。\n\nヒナが大事にしすぎて命が宿った猫のヘアピン（ミネット）は、よくヒナのことを説教している。",
+  "attributes": [
+    {
+      "value": "Deep-Blue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-URed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-R",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Minette",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Abby",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Ribon-Red",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

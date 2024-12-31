@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf5DoPrDmzkzuNR4VxhiEBwBokR66Db8z9HZGkbTLsCPk/nft.gif",
+  "tokenId": 8,
+  "description": "Squidots go to Sweden!",
+  "nftContractAddress": "0x4d1273fa32cd441d8ca97ba0741134f3f30e9532",
+  "animationUrl": "https://ipfs.io/ipfs/QmT1w7FF4WamLLcd3tU7Rw2vSq5zQLFPnc3xxYk8p42NCJ/nft.gif",
+  "chainId": "1",
+  "name": "Squidots Sweden"
+}

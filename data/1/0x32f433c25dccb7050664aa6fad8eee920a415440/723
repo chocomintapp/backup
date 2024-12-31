@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmciAMH5YLtfGaXxAtpmH16ZuQdQUZHCTzTPfk6Th4WShK/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmPBJec7NonoVz52EUpPEKPW9YEdTNMdYR7XjNN1nwgSrP/nft.mp4",
+  "tokenId": 723,
+  "chainId": "1",
+  "name": "THE JEWEL #723",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

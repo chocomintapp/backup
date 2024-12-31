@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNTEjB918bdKGj5L88E9VQxTQD7zU66nd3xsG5fTZjvAC/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmYHaBiDsE2QDqEftxxtNbpwPCLugZ6hbA6iHss5rtzxkq/nft.mp4",
+  "tokenId": 555,
+  "chainId": "1",
+  "name": "THE JEWEL #555",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Paradise Blue",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "White Tungsten",
+      "trait_type": "Control device"
+    }
+  ]
+}

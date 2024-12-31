@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYVHLWak2kkBTmFwTk44r9usrFUzSnsrUR5RZyhbjDpfv/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 57,
+  "chainId": "1",
+  "name": "ASAHI",
+  "description": "She has never shown much emotion since she was human, and no one has seen her laugh since she became an android.\n\nHowever, according to her, her sense of humor has become more shallow than when she was human, and she seems to be laughing all the time.\n\nDespite her appearance, her fighting ability is below the middle class.\n■アサヒ\n\n人間の頃から感情があまり表に出ていなかったが、アンドロイドになってからというもの笑った顔を見た者はいない。\n\nだが、彼女曰く笑いのツボが人間の頃より浅くなり、いつも爆笑しているようだ。\n\n見た目に反して戦闘力は中の下。",
+  "attributes": [
+    {
+      "value": "Deep-Blue",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "No.9",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-White",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "RobotEye2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-SUIT-Dtype",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-Zombie4",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Devil",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Silver",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

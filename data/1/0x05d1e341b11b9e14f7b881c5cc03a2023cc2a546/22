@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPpTgjZQrkpwdeo5yB1Jxvo13uFSSjygpSUErmtUSFtHM/nft.gif",
+  "tokenId": 22,
+  "description": "Sakura  \nおしとやかな性格で赤いホクロが特徴  \nShe is graceful and has a red mole.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmZ1YfhGVh3JszytftCbGK6MZw3KU9BdJyDhrNNvv5wrVW/nft.mp4",
+  "chainId": "1",
+  "name": "Sakura #022",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    }
+  ]
+}

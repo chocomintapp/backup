@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaEpFr3jmdmJ9ErknTMj2JXpBME3szLFpVeFTJ9TgjqSN/nft.gif",
+  "tokenId": 6,
+  "description": "Malaky  \n鋭い透察力と反骨精神が持ち味  \nHe has a keen sense of perception and a rebellious spirit.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmcbAigk3fuPH2Eu2oi3Yh5RR18ySaWGbsEWZueVjsCS8J/nft.mp4",
+  "chainId": "1",
+  "name": "Malaky #006",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    }
+  ]
+}

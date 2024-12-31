@@ -1,0 +1,19 @@
+{
+  "image": "",
+  "nftContractAddress": "0xd27211ae68b87029d0eced06f178a9a4d8397aeb",
+  "animationUrl": "https://ipfs.io/ipfs/QmSyvn1E3VUfsMMt4j7TBd3rt4GKsJq2E44GWKUWQaya54/nft.gif",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "POC第1章No.3　生命の起源",
+  "description": "地球が無事形成されたころ、火山活動により水蒸気が発生。\n地球で初めての雨だ。\nそして海が生まれた。\n我々はチキンDNAを持った生命の種「マイクロチキン」を水中に放流した。\nこれが地球の生命の起源である。",
+  "attributes": [
+    {
+      "value": "第1章",
+      "trait_type": "章"
+    },
+    {
+      "value": "支配者チキン",
+      "trait_type": "チキン種別"
+    }
+  ]
+}

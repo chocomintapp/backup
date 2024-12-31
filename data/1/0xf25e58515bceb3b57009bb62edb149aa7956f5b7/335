@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmThUkTkXoZkuJg6pCtyuQbuwPEr7WfmaxBR8esTHMBnw6/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 335,
+  "chainId": "1",
+  "name": "AKIRA",
+  "description": "■アキラ",
+  "attributes": [
+    {
+      "value": "spread of infection4",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Ahiru",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Anisu-Hostess",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-Uperple",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-kabukicho",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bored Ape7",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Pink",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

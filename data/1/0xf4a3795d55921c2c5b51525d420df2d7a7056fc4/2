@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeuAYx1W5UnhF66C6R6ajYHQuq3nGmUu5HkdWtQ2J3KVn/nft.png",
+  "nftContractAddress": "0xf4a3795d55921c2c5b51525d420df2d7a7056fc4",
+  "animationUrl": "https://ipfs.io/ipfs/QmZBjEygCAqgiSoKn5tC2thTujweqaVba2BCNs6hJvtx3G/nft.mp4",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "masque M green",
+  "description": "choose your face.\nwhat kind of person are you playing?",
+  "attributes": [],
+  "minted": ""
+}

@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQx2gdD4tjXj2hjbSeAkYzjrt2nWVRE4eiLpFyWQyMXh6/nft.png",
+  "nftContractAddress": "0xa91588083acf89d21e3ff1c7a52aaca4304d59e7",
+  "animationUrl": "https://ipfs.io/ipfs/QmQx2gdD4tjXj2hjbSeAkYzjrt2nWVRE4eiLpFyWQyMXh6/nft.png",
+  "tokenId": 79,
+  "chainId": "1",
+  "name": "Paper #79",
+  "description": "Paper #79 was birth on April 19, 2022.\n\nSuddenly one day, a meteorite fell on the house of a revolutionary. Inside the meteorite was a piece of paper, and while the revolutionary was playing with origami, Paper Revin was born. Inspired by its unique shape, the revolutionary decided to create the \"I Am Paper\" NFT collection, which is stored semi-permanently on the Ethereum blockchain and offered worldwide as an NFT employing the standard ERC-720.",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Rhombus W2",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Binoculars",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Miffy",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Sword",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Anklet",
+      "trait_type": "Accessories"
+    }
+  ],
+  "minted": "✅"
+}

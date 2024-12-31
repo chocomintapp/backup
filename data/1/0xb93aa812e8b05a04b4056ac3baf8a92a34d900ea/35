@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWoR3j5jPhMSNEhq8u1iRm5TsCZC1CNbfYqWU4zPzCKio/nft.gif",
+  "tokenId": 35,
+  "description": "The PolygonLow project provides file-locked NFTs (.glb) of moving NPCs and VRM and VOX data for collectibles of low polygon characters.\nhttps://lock.chocomint.app/locks/620069e2-0bc3-4985-acc8-aeb15f4672b9\n\nPlease join the Discord.\nhttps://discord.gg/85JVzJaatT\n\nYou can get a completely one-of-a-kind NFT. Get it now!",
+  "nftContractAddress": "0xb93aa812e8b05a04b4056ac3baf8a92a34d900ea",
+  "animationUrl": "https://ipfs.io/ipfs/QmP8Daxbb8EvaKnN72wE4ox8qzkCgR1fa7zZYgb1oadwVm/nft.glb",
+  "chainId": "1",
+  "name": "PolygonLow#35 3D View",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "HUMAN"
+    },
+    {
+      "trait_type": "HAIR COLOR",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "PANTS COLOR",
+      "value": "Camo"
+    },
+    {
+      "trait_type": "SHIRT COLOR",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "SHOES COLOR",
+      "value": "Purple"
+    }
+  ]
+}

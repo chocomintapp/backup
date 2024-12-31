@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVinnoNrzwxnToQhsfEcpqottMx6xwZB6Wrq9pVt5ekCL/nft.png",
+  "nftContractAddress": "0x25147e135da46f0fb62850c24137b68d7ffc7d07",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "BE KOBE NFT CREATIVE AWARD #8",
+  "description": "第1回 BE KOBE NFT CREATIVE AWARD 『王子公園ハイム』マクアート部門 入賞作品\n\n【タイトル】\nYUME KOBE\n\n【制作者】\nYoshi-f-Japan 様\n\n【コンセプト】\nこの作品は元々、エアブラシを使いイラストボードに描いたアナログアートでした。\nかなり昔に描いたものですが、今ではパソコンで簡単に同じ表現ができるようになりました。\n今回、デジタル化に伴い画面比率の変更や色変換等を行いましたがオリジナルのイラストもおおよそこのイメージのままになります。\n山、街、海の全てが近い距離にある夢の街神戸を表現したアートになります。",
+  "attributes": [
+    {
+      "value": "『王子公園ハイム』マクアート",
+      "trait_type": "部門"
+    }
+  ],
+  "minted": "✅"
+}

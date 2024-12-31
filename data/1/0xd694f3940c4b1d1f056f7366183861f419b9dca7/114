@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeU4kvmgo9eQEuKG1aUzs8BDEcG6eZH6KCUqYxJa75mxX/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 114,
+  "chainId": "1",
+  "name": "September 8 サボテン",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "9",
+      "trait_type": "月"
+    },
+    {
+      "value": "8",
+      "trait_type": "日"
+    },
+    {
+      "value": "燃える心",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "サボテン",
+      "trait_type": "花"
+    }
+  ]
+}

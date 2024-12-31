@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPhsgPEDX9q1kb3mhLKMaYacywmZ5Fqtydnrdy7ahGo3j/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 50,
+  "chainId": "1",
+  "name": "POCO_Connie",
+  "description": "Connie-Chan",
+  "attributes": [
+    {
+      "value": "Black",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Introverted",
+      "trait_type": "PERSONALITY"
+    }
+  ],
+  "minted": "✅"
+}

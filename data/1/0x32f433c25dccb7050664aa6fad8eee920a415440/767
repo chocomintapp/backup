@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTAb3aeo3HnpUobL8C4F4GjXfJZ6FCaeQJ61tkLxoDUJv/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmRekC5GzTJHbCZmS2XpWgdX26sW2aqrmmtEPxP7xa52E9/nft.mp4",
+  "tokenId": 767,
+  "chainId": "1",
+  "name": "THE JEWEL #767",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Blue Sapphire",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Charcoal",
+      "trait_type": "Control device"
+    }
+  ]
+}

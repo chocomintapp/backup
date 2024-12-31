@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVuKgiZzecharxrBoUPUZbAH28JpMnrg23Y3wjEgzUfng/nft.png",
+  "nftContractAddress": "0x62d6b939fafd143c56ef2580f56939fbbc29a13b",
+  "animationUrl": "https://ipfs.io/ipfs/QmYNoa5bVm5uNwb8T2YSbKAJgjkWcRGv1RBxgeGLrsSrB7/nft.html",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "The Sleeping Beauty/眠り姫 #1",
+  "description": "We hope for a future without terrorism and violence.\n",
+  "attributes": []
+}

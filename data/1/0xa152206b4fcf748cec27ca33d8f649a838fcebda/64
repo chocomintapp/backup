@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdnW8wJSogMYnPbFeEZWuSqUCyt1x2M2UYt3QKcKyD8F6/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 64,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "論破王",
+  "attributes": [
+    {
+      "value": "シロユキ",
+      "trait_type": "人物"
+    },
+    {
+      "value": "学ラン",
+      "trait_type": "服装"
+    },
+    {
+      "value": "🖕🖕",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSSV3SA9ixg4nAXQZnw4hduD2KhRy5UatGj7WBnfw5fna/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 191,
+  "chainId": "1",
+  "name": "GOMORY",
+  "description": "■ゴモリー",
+  "attributes": [
+    {
+      "value": "GOLD",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smiling-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Ponytail-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doubt-White",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Devil（BLU）",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-Neye",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Groggyman",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Hell Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNNTt1uDH59jyHEuPWtLG9Pw83Jcdf2BNdvJJvHR9E82i/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmbZ3ZtZvBZnTUcY4Sv7T7RFht35M7vxSWQ66VuEowhBhh/nft.mp4",
+  "tokenId": 690,
+  "chainId": "1",
+  "name": "THE JEWEL #690",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Purple Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Control device"
+    }
+  ]
+}

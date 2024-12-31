@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVdBDyL8SQFoqd7M8Skfs2GqBhyxzSTPAnRHAvEAHVRdx/nft.png",
+  "nftContractAddress": "0x6c9fafd68809c2d4e1964d5b5bcda40f03884168",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Club JACK 54CON",
+  "description": "不義あれど敬愛される円卓の騎士「ランスロット」をモデルに、トランプのClub♣Jを制作しました。\n忠義と不義の二面性を表現したカードデザインをご堪能下さい。  \nWe created the Club♣JACK of playing cards based on the model of \"Lancelot\", the unjust but respected knight of the Round Table.\nPlease enjoy the card design that expresses the duality of loyalty and dishonesty.",
+  "attributes": [
+    {
+      "value": "club",
+      "trait_type": "symbol"
+    },
+    {
+      "value": "11",
+      "trait_type": "number"
+    }
+  ]
+}

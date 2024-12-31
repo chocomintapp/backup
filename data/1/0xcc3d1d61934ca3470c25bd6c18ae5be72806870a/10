@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXPUe5ndmwK4JnsZCgPXqgHXzY9joBDyr5macUwT4GZdE/nft.png",
+  "nftContractAddress": "0xcc3d1d61934ca3470c25bd6c18ae5be72806870a",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "#004 雨/傘",
+  "description": "",
+  "attributes": [
+    {
+      "value": "June",
+      "trait_type": "Season"
+    }
+  ]
+}

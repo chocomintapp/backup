@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZSYfqiYRMvN5yE4QVkRxcjBpefMTZ1tb7mJ2s5kzaP3W/nft.jpg",
+  "tokenId": 5,
+  "description": "The inkstone is a tool for making ink, and the ink that is mixed with it is used to write calligraphy.\n\n硯は墨をするための道具です。\n混ざり合って出来た墨は書をしたためるためのもの。",
+  "nftContractAddress": "0x6a636270ed7bd37cfcde63e8387998da18daa074",
+  "animationUrl": "https://ipfs.io/ipfs/QmZSYfqiYRMvN5yE4QVkRxcjBpefMTZ1tb7mJ2s5kzaP3W/nft.jpg",
+  "chainId": "1",
+  "name": "Inkstone",
+  "attributes": [],
+  "minted": "✅"
+}

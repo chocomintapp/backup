@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTb1nG1hTmkCD26bWMg3cawQkVuFwdDvmXs9UwTzr93Pq/nft.jpg",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "Tokyo Expanding People 2099 #17 Ecology",
+  "description": "[日本語]\n\n枯れ木が渇ききって割れた皮膚を突き破り轟々と牙を剥いている。\n\n環境保全とはなにか。\n\n本来の意味である「生態系」を考えた時に我々、の一人称になっていることが多い。\n\nエコロジーを掲げるのであれば本当に人間への還元は必要なのだろうか。\n\nこの還元が環境に新たな問題を引き起こす、エコロジーの負のサイクルとはなっていないだろうか。\n\n権力という機会を自然への還元に活かしてくれる人間の登場に期待したい。\n\n--------------------------------------------------------------\n\n[En]\n\nDead trees are roaring and tusking through thirsty, cracked skin.\n\nWhat is environmental conservation?\n\nWhen we think about the original meaning of ‘ecology’, we, are often in the first person.\n\nIf we are to uphold ecology, do we really need to give back to humans?\n\nIs this a negative ecological cycle that causes new problems for the environment?\n\nWe would like to see the emergence of people who can utilize the opportunity of power to give back to nature.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Ecology",
+      "trait_type": "Manifesto"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUGdKDhKbd5d4PWeEX4xPe5n8gRqxQwKhk6XRwqLsJAMB/nft.png",
+  "nftContractAddress": "0xeb10ee7e885623f3f6835c531491940beb801737",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "#003-Two-burner",
+  "description": "CoolGirl Campers #003のPFP用NFT。お気に入りギアは「ツーバーナー」。",
+  "attributes": [
+    {
+      "value": "Cooking",
+      "trait_type": "HOBBY"
+    },
+    {
+      "value": "Two-burner",
+      "trait_type": "FAVORITE"
+    }
+  ]
+}

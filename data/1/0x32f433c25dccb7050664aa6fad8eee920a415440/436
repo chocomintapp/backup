@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVmdAXAYWckdgthd5p4SEatouN5KBiiquHNa5Yr1WZ19v/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmXBq5coXifMcM5nPXau9BqLoGJmKzGikEF5TkMi65ZS77/nft.mp4",
+  "tokenId": 436,
+  "chainId": "1",
+  "name": "THE JEWEL #436",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Smoky Quartz",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

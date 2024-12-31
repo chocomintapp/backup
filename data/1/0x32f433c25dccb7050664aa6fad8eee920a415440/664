@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfGEGyx93wRQtrsUaSuZzJBU5A7P4g8EkLgNhMagWfsRS/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWAenYEb5cSSNmGq4fnMdEwTzV1dvZfjjyMWUQynVmT8m/nft.mp4",
+  "tokenId": 664,
+  "chainId": "1",
+  "name": "THE JEWEL #664",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Bubble Purple",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVnBBgj66LDd1u9aPJZA2PEmgLJCNDHep4raY7akeRYZG/nft.png",
+  "nftContractAddress": "0x95bcb980329e9267e9b3554494aaea55c79e9f31",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "#004F~Japanese Mythology \"Ama no Iwato Kakure\"~",
+  "description": "This work is a fan art of KOJIPRO-GODz origin  ",
+  "attributes": [
+    {
+      "value": "AMENOUZUME",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "KOJIKI",
+      "trait_type": "MYTHOLOGY"
+    },
+    {
+      "value": "AMANOIWATO",
+      "trait_type": "PLACE"
+    }
+  ],
+  "minted": "✅"
+}

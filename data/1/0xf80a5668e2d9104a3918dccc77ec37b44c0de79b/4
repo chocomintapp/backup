@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPkLN84rqCwcQTCkQjPKYBZEiQEjBFzr3PhcedFFXdTNy/nft.png",
+  "nftContractAddress": "0xf80a5668e2d9104a3918dccc77ec37b44c0de79b",
+  "animationUrl": "https://ipfs.io/ipfs/QmPkLN84rqCwcQTCkQjPKYBZEiQEjBFzr3PhcedFFXdTNy/nft.png",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Bikkuri_Girl #003",
+  "description": "びっくりした仕草をしている女の子のコレクション第3弾です\n恋に落ちたのか、何か見つけたのか、何にびっくりしているか…捉え方はあなた次第！\n\nThis is the 3rd collection of girls making surprised gestures.\nWhether they've fallen in love, found something, or are surprised by what... it's up to you!",
+  "attributes": [
+    {
+      "value": "Koharu",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "A class",
+      "trait_type": "CLASS"
+    }
+  ],
+  "minted": "✅"
+}

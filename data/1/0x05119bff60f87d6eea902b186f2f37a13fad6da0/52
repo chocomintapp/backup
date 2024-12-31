@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdds7RZb2qM62smNR6HA1K5WT3hPkXZfFkdNcHpHnphRn/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 52,
+  "chainId": "1",
+  "name": "POPET No.52",
+  "description": "【物語】　みんなは恐竜なんてもういないっていうけど世界は広いから。\nこの街にも恐竜の手掛かりがあるかも、、",
+  "attributes": [
+    {
+      "value": "地質学者",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "博物館",
+      "trait_type": "origin"
+    },
+    {
+      "value": "好奇心旺盛",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

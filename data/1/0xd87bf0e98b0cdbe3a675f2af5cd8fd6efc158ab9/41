@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTU8cAD23HJnNyfa1CeecAbAc8d8DPQadnVFTpRwMhZHT/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 41,
+  "chainId": "1",
+  "name": "THS #076",
+  "description": "【心】",
+  "attributes": [
+    {
+      "value": "hummingbird",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "sun",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "iris flower",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

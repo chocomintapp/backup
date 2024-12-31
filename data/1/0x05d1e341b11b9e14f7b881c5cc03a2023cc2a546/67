@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbsbKbNSMuffm3sfhpmyYXmXjRxW2YGtW5xQKa57o2HyB/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmWsQ3bvxarpYrsCQm9cMmurQRxwf1uRz5336bywofv2XQ/nft.mp4",
+  "tokenId": 67,
+  "chainId": "1",
+  "name": "Walt #067",
+  "description": "Walt  \n現代的で新しい感覚や流行が好き  \nHe likes modern, new sensations and trends.",
+  "attributes": [
+    {
+      "value": "Haus",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfMZax717WqwSEpv7HBVDfAo3nXbqPBMnDmzo5SMJPAhV/nft.png",
+  "nftContractAddress": "0x2adb5dd5c06bc84abc3cd98f4e5e852fe4e613e0",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "Fate [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nFate\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR EVO]",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Green",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "White",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Black",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Eyepatch",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "White",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "EVO",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

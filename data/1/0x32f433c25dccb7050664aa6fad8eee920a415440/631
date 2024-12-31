@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeDsUqLKW5wptDhrjcDqdvkoNf8Sz1HCA3L7bBgZ8V36H/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmYuGa2rDaBtzh5jg3qBw1h9N6M2EdzdHtbmevnDgLyDQx/nft.mp4",
+  "tokenId": 631,
+  "chainId": "1",
+  "name": "THE JEWEL #631",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Clear Green",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Mithril",
+      "trait_type": "Control device"
+    }
+  ]
+}

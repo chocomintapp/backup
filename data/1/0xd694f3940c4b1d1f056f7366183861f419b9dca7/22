@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSYgS9JVX2u4DjbyCaUQ46DpM7me9n5aus6C65H5r3qnv/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "June 8 ハルジオン",
+  "description": "",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "7",
+      "trait_type": "日"
+    },
+    {
+      "value": "追憶の愛",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ハルジオン",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQNur8HgdhVz917s5xXV1YR83goZ3KwwUvDq7StkV8UZm/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 40,
+  "chainId": "1",
+  "name": "Yua",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "KIMONO",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Uni Ikura",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "SMILE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "ANTENNA",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "SPECTER",
+      "trait_type": "RACE"
+    }
+  ]
+}

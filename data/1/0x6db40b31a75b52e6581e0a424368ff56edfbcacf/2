@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTnBHY1GQCLuCyEv5BYLnEhSP1DGMn91XV5dyEuT2AqSf/nft.jpg",
+  "nftContractAddress": "0x6db40b31a75b52e6581e0a424368ff56edfbcacf",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Don't stare at me like that!",
+  "description": "The boy with glasses smiles a little shyly.\n\n「そんなに見つめないで」\n\nちょっと照れたように笑うメガネの子。\n\nSize: 2325 * 3253",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "blue",
+      "trait_type": "Eyes"
+    }
+  ]
+}

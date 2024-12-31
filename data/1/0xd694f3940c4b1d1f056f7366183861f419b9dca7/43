@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaQ9uWoBH4NuxfHNbuuEiTr7evQHcVf7yKU8MV6jpUoh3/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "1",
+  "name": "June 29 カラー（白）",
+  "description": "",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "29",
+      "trait_type": "日"
+    },
+    {
+      "value": "清純さ",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "カラー",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmbv6Y4BUHVGVw3PYK6FwSQ4nVUCKiHa5oRYhcTLHKawPF/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "Luna",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "NINJA",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Uni Ikura",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "NATURAL",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "NINJA SWORD",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "HUMAN",
+      "trait_type": "RACE"
+    }
+  ]
+}

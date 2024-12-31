@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWEWM4ZoWQhnruPpJSmLCjazcFT4x39DkR7EpgjGwxuSx/nft.jpg",
+  "nftContractAddress": "0xdcbbd79e20c1ea86680ed83c872e8786f5f578f1",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "#11 VILLAINS BEAN THE MUSIC KILLER",
+  "description": "Beans in 3D are here!! The second series is VILLAINS. They are MAMENGERS enemy.",
+  "attributes": [
+    {
+      "value": "Heasso Phone",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Face earrings",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Earrings",
+      "trait_type": "EAR ACCESSORY"
+    },
+    {
+      "value": "None",
+      "trait_type": "BODY ACCESSORY"
+    },
+    {
+      "value": "Psycho Purple",
+      "trait_type": "BODY COLOR"
+    },
+    {
+      "value": "Cassette Vest",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "Record",
+      "trait_type": "ARTICLES"
+    },
+    {
+      "value": "Villains Sky",
+      "trait_type": "BACKGROUND"
+    }
+  ],
+  "minted": "✅"
+}

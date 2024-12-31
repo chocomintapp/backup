@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXeFrmv3mCsTBYsM2uoR4WJaN6h7grLXnQZihhTh3vh85/nft.png",
+  "tokenId": 30,
+  "description": "\"Orc\" = \"Goblin\" x \"Ogre\" Urko Niijima\n「オーク」メイン種族ゴブリン、サブ種族は鬼。名前はウルコ新島。\n\nオークは大型のゴブリン種。鬼との混血で大型になった。力が強く知能も高い。村を作って集団で暮らすこともある。つがいの概念が強く、夫によく尽くすことで知られている。\n\n\"Orc\" are a large \"Goblin\" species. \"Orc\" became large by mixing with the \"Ogre\" species. They are powerful and intelligent, and sometimes live in groups in villages. They have a strong concept of mating and are known to be devoted to their husbands.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#055 \"Orc\" Urko Niijima",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Goblin"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Ogre"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

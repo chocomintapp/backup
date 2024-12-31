@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSSUKGs9VC6Gok9arJBV5GUJcJfxWa4s2Y1vo6Y7fXhCn/nft.jpg",
+  "tokenId": 57,
+  "description": "Sometimes i can't handle the sounds of the world so I put on my headphones and just shut it out\nKrs\n2008",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmSSUKGs9VC6Gok9arJBV5GUJcJfxWa4s2Y1vo6Y7fXhCn/nft.jpg",
+  "chainId": "1",
+  "name": "Headphones"
+}

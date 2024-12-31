@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdrqySj7WZQwg6xw9x8DPgUt1V1DL2vgKVi3khJLGrhDw/nft.gif",
+  "nftContractAddress": "0xc668427c1197dc199419cb86ea4cdde8d079d092",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "飾り気  affectation",
+  "description": "弱い心に真っ赤な紅を塗り重ねる。この思い、誰にも気付かれませんように。\n\nPaint your weak heart with a bright red crimson. I hope no one notices this thought.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

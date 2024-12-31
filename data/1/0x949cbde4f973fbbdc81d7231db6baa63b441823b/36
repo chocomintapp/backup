@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXaUBauKkaPxjNa5FKYhjTaZrvN5HkLNQShzR9xWxc9Kh/nft.png",
+  "nftContractAddress": "0x949cbde4f973fbbdc81d7231db6baa63b441823b",
+  "animationUrl": "",
+  "tokenId": 36,
+  "chainId": "1",
+  "name": "YA #36",
+  "description": "",
+  "attributes": [
+    {
+      "value": "A",
+      "trait_type": "VOWEL"
+    },
+    {
+      "value": "Y",
+      "trait_type": "CONSONANT"
+    },
+    {
+      "value": "A",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "ya",
+      "trait_type": "PRONUNCIATION"
+    }
+  ]
+}

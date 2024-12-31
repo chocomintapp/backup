@@ -1,0 +1,52 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbERfA6EKZrdiCSZ5RdeivsrzgDhReL6tn55jFrWPR9v1/nft.png",
+  "tokenId": 110,
+  "description": "",
+  "nftContractAddress": "0xa3504b583db9090d46bb3c97e04eae5e61e3dfce",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #110",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Wavy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lovely Passion"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Olive Green"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Pearl Necklace"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Fork"
+    }
+  ],
+  "minted": ""
+}

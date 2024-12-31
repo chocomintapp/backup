@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTjQWq1jEVde3pu1PcCuJYw6nj2xFcq7YbKxgrRgpxu1H/nft.png",
+  "nftContractAddress": "0x2adb5dd5c06bc84abc3cd98f4e5e852fe4e613e0",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "Listenia [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nListenia\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR]",
+  "attributes": [
+    {
+      "value": "Subterranean",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Green",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Black",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Gas Mask",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Ribbon",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Violence",
+      "trait_type": "SPELL"
+    },
+    {
+      "value": "ELIXIR",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

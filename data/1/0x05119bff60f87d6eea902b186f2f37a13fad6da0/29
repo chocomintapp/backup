@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcEbE44GtHQaBg3GV9QJMM1fCRy76BwaCCYJFjgrPyu1o/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "1",
+  "name": "POPET No.29",
+  "description": "【物語】\n\nこの街では日々楽しいことがはじまっている。\nみんなで楽しまなきゃもったいない。\n「おはPOPE！配信見にきてくれてありがとう！」",
+  "attributes": [
+    {
+      "value": "インフルエンサー",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ダウンタウン",
+      "trait_type": "origin"
+    },
+    {
+      "value": "エネルギッシュ",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

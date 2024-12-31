@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWbxdQMqrKmobBZLGAKJ3xn8HX6zmSnQWd3LxeVQy7Azv/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 63,
+  "chainId": "1",
+  "name": "POCO_Cheryl",
+  "description": "Cheryl-Chan\n\n",
+  "attributes": [
+    {
+      "value": "Amber",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Cheerful",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUr9bbkEG3NoPqberhNWtvGw9FRmCQv9r8xJbaDcUTs6A/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmUmwASaiUdoHgWvLwUkt1kvpsqmXR6NGUcSMy8ktBR7U7/nft.mp4",
+  "tokenId": 565,
+  "chainId": "1",
+  "name": "THE JEWEL #565",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Golden Rutil Quartz",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVvfvfpPfhx3MJ4DfJ9kg5jKC7fK4PN7QEVSyr7RJNZgW/nft.png",
+  "nftContractAddress": "0x409b07998a57ea3ce0a5cca167f4a3c223428589",
+  "animationUrl": "https://ipfs.io/ipfs/QmVvfvfpPfhx3MJ4DfJ9kg5jKC7fK4PN7QEVSyr7RJNZgW/nft.png",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Malmööö",
+  "description": "A limited edition of 5 NFTs that I created for meeting with a delelgation from the city of Malmo that visited Tokyo in November 2022\n\nI used the same design to make a tshirt that I wore for the occasion. ",
+  "attributes": []
+}

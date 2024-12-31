@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNazf44xTzPi5KicWt6jF7dcUiYf9GbBh8UyKhJKgD8Cn/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmTwXsCHLe7KrB8YPSqvzL8u36ZQ3CH46VunoSyxS75UF5/nft.mp4",
+  "tokenId": 115,
+  "chainId": "1",
+  "name": "THE JEWEL #115",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "orange",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

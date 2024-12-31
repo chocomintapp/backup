@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVp6KoZ6XYrjZgPvqRbAk4KKSRkGdtcm7pQV1ZtumwDeP/nft.jpg",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "POPET No.3",
+  "description": "【物語】\n\n今日も満員だ。この街にオレたち5人を知らない者はいない。「!?　まさかあそこにいるのは...。」",
+  "attributes": [
+    {
+      "value": "ベーシスト",
+      "trait_type": "job"
+    },
+    {
+      "value": "惹きつけるビート",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ライブハウス",
+      "trait_type": "origin"
+    },
+    {
+      "value": "ナルシスト",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

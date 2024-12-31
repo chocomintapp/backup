@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfQMkGcyoeSU8M8yeu4FWeB5RvK8MbdSD1JVzd5636vNo/nft.jpg",
+  "nftContractAddress": "0xb7aa2ffc401b1980376f7abc03f76bc41ef6f87b",
+  "animationUrl": "https://ipfs.io/ipfs/QmfQMkGcyoeSU8M8yeu4FWeB5RvK8MbdSD1JVzd5636vNo/nft.jpg",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Rising Dragon",
+  "description": "天に登る龍は、碁石を追ってどこまでも…。",
+  "attributes": [],
+  "minted": "✅"
+}

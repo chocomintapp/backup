@@ -1,0 +1,20 @@
+{
+  "image": "",
+  "nftContractAddress": "0x7cff1caed41eb33aff74fa0052b51be50bc3a95c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "fuyofuyo,s  song",
+  "description": "ふよふよのうた",
+  "attributes": [
+    {
+      "value": "50",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": ""
+}

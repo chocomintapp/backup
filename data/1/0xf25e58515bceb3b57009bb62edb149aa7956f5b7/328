@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU6NsKnU9SQaHSJaqsbN8qtW47gZhYw6XF3YrQ8pnXHqG/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 328,
+  "chainId": "1",
+  "name": "KUON",
+  "description": "■クオン",
+  "attributes": [
+    {
+      "value": "bubble9",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Chew2",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Medium-Skyblue",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Anisu0002Eye",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Oiran-yoshiwara",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-yoshiwara",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Raaamen",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-red(NE）",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Piyochi-nihility",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVKgoA87RoWtUWQPdtxAp8M97wrDrD9zmE4HBQrVHTQ32/nft.gif",
+  "tokenId": 43,
+  "description": "Ilya  \n未来を信じている  \nHe believes in the future.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmcmTBD3K51WgdWuiABRc8vrqdmFcesLDhSnRPWx8mSdH9/nft.mp4",
+  "chainId": "1",
+  "name": "Ilya #043",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Construct"
+    }
+  ]
+}

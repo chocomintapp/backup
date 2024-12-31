@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaLTgSfgoViD8ddThXwp5uD39kRR2ek6MMmz3MjcXioUS/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 122,
+  "chainId": "1",
+  "name": "KAIKA #122",
+  "description": "",
+  "attributes": [
+    {
+      "value": "dark",
+      "trait_type": "energy"
+    },
+    {
+      "value": "halloween blood",
+      "trait_type": "extra"
+    },
+    {
+      "value": "sleepy",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "orange",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "medium",
+      "trait_type": "hair"
+    },
+    {
+      "value": "underlayer",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "smooch",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "dark",
+      "trait_type": "skin tone"
+    }
+  ]
+}

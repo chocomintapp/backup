@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWdMVg3hGen6pumnewB7kjsRqDaFhPqsQvGP4Afn1dUPJ/nft.gif",
+  "tokenId": 25,
+  "description": "Anzu  \n傷のように見えるものは彼なりのおしゃれ  \nWhat looks like a scar is fashionable in his own way.",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmRXTqwYTA1meG5MTuMGZKBkV1HSnEBia4W2MpzQsx3Sgd/nft.mp4",
+  "chainId": "1",
+  "name": "Anzu #025",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "MIMIC",
+      "value": "Mate"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbG2Nsxfc3y7kzwdxUgkmy1SRVmDvUX24HHxygE1WMYMm/nft.png",
+  "tokenId": 1,
+  "description": "自画像です",
+  "nftContractAddress": "0x50d99133133661ebd0d1309aea2fc5e05327731d",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "jigazou"
+}

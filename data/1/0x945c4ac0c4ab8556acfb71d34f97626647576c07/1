@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTwszMETST7QA3LkcXLC2DS1APkiHCy12Mq8Wo1jaTikZ/nft.png",
+  "nftContractAddress": "0x945c4ac0c4ab8556acfb71d34f97626647576c07",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Samurai Menbou #1",
+  "description": "This is one in a series of generative NFT art \"Samurai Menbou\" minted in Ethereum.",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Kasumi",
+      "trait_type": "NAME"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQwGf7gymmTyr2kAXqmC7egQxZvZ6JAidrRzDuaWrUg8F/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 493,
+  "chainId": "1",
+  "name": "ESTELLE",
+  "description": "■エステル",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Red",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Nothing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sunglass-P1",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "uniform",
+      "trait_type": "Body"
+    },
+    {
+      "value": "SkullPanda-3EYES",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "TMA mafiamouse2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Meta tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYmzWiESeswZRC8WRNJDsXaKvsKJNov9Lf3UtG2qidNFt/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 181,
+  "chainId": "1",
+  "name": "ANE",
+  "description": "■アネ",
+  "attributes": [
+    {
+      "value": "Ninja3-Pastel",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Blonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-UBrightgreen",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Orochi-drunk",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUAwKMufLEpneGdyoWcXFfgpfFN2EpeqZj4mMzzgGbjEb/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmPwKgZAkWJg2LQEBKq8QCmz4EzDtWv1ChR2R5CNEaVrKu/nft.mp4",
+  "tokenId": 693,
+  "chainId": "1",
+  "name": "THE JEWEL #693",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Ambrigonite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS6AZZsRp3fC9g7cgEjaukWydi7gQWTfLQ7pdJcxUqHFH/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 464,
+  "chainId": "1",
+  "name": "GRETTA",
+  "description": "■グレタ",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "ANISU-Long3",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-yokohama(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Mirakomask2",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Arkdemon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Candle Head (草）",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

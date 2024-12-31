@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPAkxc2J8zybusFKn3TFuyH5GGxx1GGZm5MgLncNCPSX3/nft.png",
+  "nftContractAddress": "0xefb12bc325da0270e828162458326749d5878102",
+  "animationUrl": "https://ipfs.io/ipfs/QmXP8Vejph6kfWZZH36ueUuhRSRzwTyUFuX9s4KtEXRBZd/nft.glb",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "Ballerbit #60C Book",
+  "description": "Walking score machine in cool City Edition uniforms!",
+  "attributes": []
+}

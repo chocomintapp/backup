@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmb3j33dPaZBYYBNm7Uu5gT7Zh67dNVzEzJuaE85ymYpWa/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmSi1Q23wdUcdE6uANnQbrZLRLCkPvp8nVwKKAzRuoiCQR/nft.mp4",
+  "tokenId": 535,
+  "chainId": "1",
+  "name": "THE JEWEL #535",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Pezzotite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Tantalum",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSbF46wyQY2XCjnKN1VzrdqZ47fxcfDtcvpBAV1dxk9xx/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 143,
+  "chainId": "1",
+  "name": "AYA",
+  "description": "■アヤ",
+  "attributes": [
+    {
+      "value": "Cell division",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Cell division",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Chew2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Tail-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Normal-AllRed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "ETH High School",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

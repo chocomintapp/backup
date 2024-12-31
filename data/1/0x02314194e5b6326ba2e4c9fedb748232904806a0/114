@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTT1yTqbxta1byXe6dgsvxZXeW4wSFFPnRTtHJwGTp7og/nft.png",
+  "nftContractAddress": "0x02314194e5b6326ba2e4c9fedb748232904806a0",
+  "animationUrl": "",
+  "tokenId": 114,
+  "chainId": "1",
+  "name": "#008 [凪]「人道」",
+  "description": "人の子よ、仏の教えを学び良い行いをするのだ。",
+  "attributes": [
+    {
+      "value": "凪",
+      "trait_type": "属性"
+    }
+  ],
+  "minted": "✅"
+}

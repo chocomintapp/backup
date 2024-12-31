@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSMVegHbccniNpKQBHNqP9HwBZ8rM7sR7FSW7F3NKH4ma/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 305,
+  "chainId": "1",
+  "name": "LIME",
+  "description": "■ライム",
+  "attributes": [
+    {
+      "value": "Entrance Heavenly2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Smile of room",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Tail-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "AnisuEye4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Maid robot",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-red(NE）",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Mitama-nihility",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

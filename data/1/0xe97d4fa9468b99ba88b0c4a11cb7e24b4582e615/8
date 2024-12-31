@@ -1,0 +1,35 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX9ujapwiVEgjUBwxRXiNcDKEDvJ2DpL8YzsbXQbqPXzw/nft.png",
+  "nftContractAddress": "0xe97d4fa9468b99ba88b0c4a11cb7e24b4582e615",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "#008_Uguisu",
+  "description": "オオルリやコマドリと一緒にユニットを組んでいるアイドル。 \nステージでは華やかなパフォーマンスを披露する彼女だが、実は内心臆病なところがあって警戒心も強く、 その日常生活は謎に包まれている。 \n巷の噂では彼女の姿を見かけると幸運が訪れるらしいが、時々そっくりさんが間違えられることもしばしば。",
+  "attributes": [
+    {
+      "value": "female",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "Horornis diphone",
+      "trait_type": "scientific name"
+    },
+    {
+      "value": "Mountain",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "Forest",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "Spring",
+      "trait_type": "Season"
+    },
+    {
+      "value": "Summer",
+      "trait_type": "Season"
+    }
+  ]
+}

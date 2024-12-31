@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW6XQJdSb1iqiEA8iKUykAk3Q4NxoQZQd8hXG47nCjrvf/nft.png",
+  "nftContractAddress": "0xeb10ee7e885623f3f6835c531491940beb801737",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "#004-Projector",
+  "description": "CoolGirl Campers #004のPFP用NFT。お気に入りギアは「モバイルプロジェクター」。",
+  "attributes": [
+    {
+      "value": "Watching Anime",
+      "trait_type": "HOBBY"
+    },
+    {
+      "value": "Projector",
+      "trait_type": "FAVORITE"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUhAsZVZMWkSZsdmE7eXanZ11kda7MrvzVHfjUzirUom8/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 74,
+  "chainId": "1",
+  "name": "UnknownE",
+  "description": "There are even references to its presence in the eastern forest, as if it has been confirmed for more than 1,000 years.\n\nIt is not particularly harmful, but it is scary because it just stares at you.\n\nBy the way, a brave person gave him some piroshki that he had, and he ate it with relish.\n■未知E\n1000年以上前から、東の森に存在が確認されているような文献まである。\n\n特に害はないのだが、ひたすら見つめてくるので怖い。\n\nちなみに勇気ある者が、持っていたピロシキをあげてみたところ、美味しそうに食べたそうだ。",
+  "attributes": [
+    {
+      "value": "Chess",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Tail-Blue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Scornful-Zombiered",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-BBW",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Blue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dominion",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Unknown",
+      "trait_type": "TYPE"
+    }
+  ]
+}

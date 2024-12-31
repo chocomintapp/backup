@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPZTRbKQkY6dXx4CcnYmAqfdZzrmb9VeatP8KSbM7H87D/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "1",
+  "name": "#043-Oita-",
+  "description": "#043-Oita-",
+  "attributes": [
+    {
+      "value": "Gaia",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kyushu",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Oita",
+      "trait_type": "Prefecture"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRmt68jqz7Ac3rEsVMSiJ7BepCR3TTVDPvSDKdgGLLZWf/nft.JPG",
+  "nftContractAddress": "0x58d39cf4c04bee81a8322bc480ee6e0f9a43781a",
+  "animationUrl": "https://ipfs.io/ipfs/QmPQwhtu7saPs8SrQQZV8kTjUjJ6hvgzZCVTtZRDGUeyzo/nft.MP4",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "test2",
+  "description": "eureca test2",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

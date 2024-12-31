@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcimtHGR8o2ua2DbDb1ZnbUMwBXBiAZzq23CY7hd4WQRx/nft.jpg",
+  "tokenId": 1,
+  "description": "The biker roams the badlands between the Magic Forest and Devil City\nKrs 2008",
+  "nftContractAddress": "0x18f48ee93f8f3dd892f36d705f4a2cb44a54a887",
+  "animationUrl": "https://ipfs.io/ipfs/QmcimtHGR8o2ua2DbDb1ZnbUMwBXBiAZzq23CY7hd4WQRx/nft.jpg",
+  "chainId": "1",
+  "name": "Biker"
+}

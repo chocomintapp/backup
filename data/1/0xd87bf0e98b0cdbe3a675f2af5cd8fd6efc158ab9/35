@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWwuSR6fhwg5hCdroduCr4T9Jcy66fU1UTFD7Zswt3wuP/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 35,
+  "chainId": "1",
+  "name": "THS #071",
+  "description": "【空】",
+  "attributes": [
+    {
+      "value": "hydrangea leaves",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "goldfish",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "peacock",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

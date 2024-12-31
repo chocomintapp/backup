@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme3YAyNZJaHn1R2MKwV8upnu1FQuxWyRpL249SpJkJSsv/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 43,
+  "chainId": "1",
+  "name": "POPET No.43",
+  "description": "【物語】\n\n釣りとは人生。\n大事なことは忍耐。\nこの暇な時をいかに楽しむか。",
+  "attributes": [
+    {
+      "value": "フィッシャーマン",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "川",
+      "trait_type": "origin"
+    },
+    {
+      "value": "寡黙",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

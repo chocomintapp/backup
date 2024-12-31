@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQeVx64e2vbCXez8BER4uY137Z9DKYT86H3bzZKhJjapw/nft.png",
+  "nftContractAddress": "0xb78410882a13e21e28578de1298fd45b888c0337",
+  "animationUrl": "",
+  "tokenId": 316,
+  "chainId": "1",
+  "name": "YACHIYO MUSEUM #316",
+  "description": "Yachiyo means eternity in Japanese. This project was launched to pass on the splendor of Japanese ukiyo-e to future generations. This can be achieved by fusing Ukiyo-e with NFT technology.",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "BLACK",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "国常立尊",
+      "trait_type": "SIGNATURE STAMP"
+    }
+  ]
+}

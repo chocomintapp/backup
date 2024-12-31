@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQb2sN6WtpJFi3xogbywiMzWBZuUeC7LC97jXHEpH9cfh/nft.jpg",
+  "nftContractAddress": "0x72f477d2f866c3c22694f23ad5e3792bd93d2cff",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "Alpaca Woo Hoo #09",
+  "description": "ニャンコに憧れる、着ぐるみなアルパカくん。\n僕のわがまま聞いてくれる？\n\n---\n\nA Shy alpaca in a stuffed costume to be a kitten.\nWill you listen to my selfishness?",
+  "attributes": [
+    {
+      "value": "Toy",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Animal",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

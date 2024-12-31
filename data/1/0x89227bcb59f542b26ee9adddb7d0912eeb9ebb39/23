@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcqpE4sQ6HU7PLVghc4pPsmPq7k2FjqPLU3zy1MDDvrcp/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "#023-Aichi-",
+  "description": "#023-Aichi-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Aqua",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Chubu",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Aichi",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

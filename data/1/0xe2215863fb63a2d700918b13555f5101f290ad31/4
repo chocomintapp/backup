@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd1CFXc8Qkfc6JZcBBHsv7YnbjAFea87Tk2zMUCajxYFS/nft.png",
+  "nftContractAddress": "0xe2215863fb63a2d700918b13555f5101f290ad31",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "YAMA Quartet 04",
+  "description": "#テーマ：はじまり\n\n旅の途中荒野で地図を眺める鳥さん。  \n何かを悟っているかのようなBA。  \nこの先に待ち受けている冒険とは...？\n\n#THEME: Beginning\n\nBird looking at a map in the wilderness during a trip.  \nOdd eye BA as if realizing something.  \nWhat adventure awaits us ahead...?\n\n---\n\nMain Character: Mai Kano   \nSub Character: Aoyoko  \nCharacter coloring: YO-CO  \nBackground: Alpaca Go Go",
+  "attributes": [
+    {
+      "value": "Mai Kano",
+      "trait_type": "Main Character"
+    },
+    {
+      "value": "Aoyoko",
+      "trait_type": "Sub Character"
+    },
+    {
+      "value": "YO-CO",
+      "trait_type": "Character coloring"
+    },
+    {
+      "value": "Alpaca Go Go",
+      "trait_type": "Background"
+    }
+  ]
+}

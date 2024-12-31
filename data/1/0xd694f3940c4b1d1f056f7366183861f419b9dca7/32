@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYkXLwgC9w5aUC8mAfwgkxKBSPyAwvqmzvSc6Mi6NkYce/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "1",
+  "name": "June 18 アオイ（白）",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "17",
+      "trait_type": "日"
+    },
+    {
+      "value": "女性の野心",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "アオイ",
+      "trait_type": "花"
+    }
+  ]
+}

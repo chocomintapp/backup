@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW6bbjGkhMZhXDr23EFKwapKFVCV1G7dCCrvSAL9fyKxV/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 521,
+  "chainId": "1",
+  "name": "SATORI",
+  "description": "■サトリ",
+  "attributes": [
+    {
+      "value": "pankopa-catguardian-spirit",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "neko2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "neko",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM High School-Autumn",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Round glasses-black",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "neko2",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXfLo8xNsNH5YRDEukeX9SXFzRLFLhHGm2cHtnt44a3X5/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 490,
+  "chainId": "1",
+  "name": "FREYA",
+  "description": "■フレア",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Orange",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0007Eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WB(G)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Blue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "LongEar(G)",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-surprised",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "The Greens",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "QmRRXgtF4c8DssmNADyxRuAoUDwxJA6VMM4ivkSpsLUeA9",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 78,
+  "chainId": "1",
+  "name": "POPET No.78",
+  "description": "【物語】こちらイエロー。ひとりは怖いから、ぼくはここでまっているよ。",
+  "attributes": [
+    {
+      "value": "ヒーロー",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "郵便局",
+      "trait_type": "origin"
+    },
+    {
+      "value": "臆病",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

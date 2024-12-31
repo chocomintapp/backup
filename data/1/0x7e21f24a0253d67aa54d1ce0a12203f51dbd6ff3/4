@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbEKs5LAhCpoy3CUDSfZj25bcssp5fSCZb54VcMquXgw7/nft.png",
+  "tokenId": 4,
+  "description": "",
+  "nftContractAddress": "0x7e21f24a0253d67aa54d1ce0a12203f51dbd6ff3",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Punk Monkeys #4",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Male"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "Yellowish Brown"
+    },
+    {
+      "trait_type": "MASK",
+      "value": "Scary Mask"
+    }
+  ],
+  "minted": ""
+}

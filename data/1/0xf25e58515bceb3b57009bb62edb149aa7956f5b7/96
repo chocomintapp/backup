@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQM6GgbwFArHTY9REf4YApdVna7B7Jbc7fdEWUt4DLNPu/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 96,
+  "chainId": "1",
+  "name": "RAMI",
+  "description": "MIRAKO Fan art work part 3.\n■ラミ\n\nMIRAKのファンアート作品パート3。\n\n■MIRAKO↓\nhttps://opensea.io/collection/mirako",
+  "attributes": [
+    {
+      "value": "MIRAKOBack2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-Pink",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-FULLSUIT-BType(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Dominion",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

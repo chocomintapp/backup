@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfGjtj3yPjtpkcEwKq6sL5SJBY77PGmG187NRf3Dcq7yB/nft.jpg",
+  "nftContractAddress": "0xda45f0935217c07ca18b33a3a4c20f3de52e3f32",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "#002 Ghostman of the dark night【闇夜のゴーストマン】",
+  "description": "時空「旧世界」を超えて一人の男が滅びゆく現代に紛れ込み未来を探し求めては人間たちと深く関わっていくストーリー\n\nA story about a man who transcends the \"old world\" in time and space, slips into the perishing modern world, searches for the future, and becomes deeply involved with humans.",
+  "attributes": [
+    {
+      "value": "man",
+      "trait_type": "gekiga"
+    },
+    {
+      "value": "night",
+      "trait_type": "gost"
+    },
+    {
+      "value": "illusion",
+      "trait_type": "dark"
+    }
+  ]
+}

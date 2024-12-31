@@ -1,0 +1,55 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTU228Lu44rdeFKdYzTzUdswzaV4hLV9dsNCe2oFh2ZiH/nft.png",
+  "tokenId": 1630,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #1630",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Wild Green"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Rock Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sensual Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "V-Neck Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold Rhombus"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "Ash Cat"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Western Hat"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Fallen Angel"
+    }
+  ]
+}

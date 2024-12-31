@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQG6MCpM8rRQxTbWUUwsA6Kb4vzD6Rmzq98GndtVbskFC/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 273,
+  "chainId": "1",
+  "name": "February 14 ガジュマル",
+  "description": "",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "月"
+    },
+    {
+      "value": "14",
+      "trait_type": "日"
+    },
+    {
+      "value": "沢山の幸せ",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ガジュマル",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRUDcfvEgAF7qNrk9bK2r5a6SzksRWe3gkk4dUc7YFD7q/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 104,
+  "chainId": "1",
+  "name": "August 29 バレリアン",
+  "description": "",
+  "attributes": [
+    {
+      "value": "8",
+      "trait_type": "月"
+    },
+    {
+      "value": "29",
+      "trait_type": "日"
+    },
+    {
+      "value": "善良",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "バレリアン",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

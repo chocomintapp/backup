@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTWUCTZ81YjFoqwcpYS6aYrYsG7P5GfM2ePAZzYVW8aMD/nft.png",
+  "nftContractAddress": "0x74f8a446bb4856cdd425e0f0764a26899fce0526",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "POCOEMOJI_memomemo",
+  "description": "Sophia-Chan",
+  "attributes": [
+    {
+      "value": "Emoji",
+      "trait_type": "SERIES"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV52YwGamTx2E9TnD1hVBaMnbxoCfLwRRjiX63JrjM2QX/nft.png",
+  "nftContractAddress": "0xf80a5668e2d9104a3918dccc77ec37b44c0de79b",
+  "animationUrl": "",
+  "tokenId": 27,
+  "chainId": "1",
+  "name": "Bikkuri_Girl #026",
+  "description": "びっくりした仕草をしている女の子のコレクション第26弾です\n恋に落ちたのか、何か見つけたのか、何にびっくりしているか…捉え方はあなた次第！\n\nThis is the 26th collection of girls making surprised gestures.\nWhether they've fallen in love, found something, or are surprised by what... it's up to you!",
+  "attributes": [
+    {
+      "value": "Lucias",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "A class",
+      "trait_type": "CLASS"
+    }
+  ],
+  "minted": "✅"
+}

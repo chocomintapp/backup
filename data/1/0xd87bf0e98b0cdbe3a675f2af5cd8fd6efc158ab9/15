@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmULniUETb525i7zyLguLuJyVNKKaaHe4xyYFRqqKcLUL5/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "THS #049",
+  "description": "【死】",
+  "attributes": [
+    {
+      "value": "pine",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "shrimp",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "tiger",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

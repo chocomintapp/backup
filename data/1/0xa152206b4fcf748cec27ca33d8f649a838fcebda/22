@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXDEpKMkhsw8XkcNhpPYpDXo29VVaJQDA7gjBS14WYPZR/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "アフロ",
+  "attributes": [
+    {
+      "value": "ザム",
+      "trait_type": "人物"
+    },
+    {
+      "value": "裸",
+      "trait_type": "服装"
+    },
+    {
+      "value": "アフロ",
+      "trait_type": "髪型"
+    },
+    {
+      "value": "ボクシンググローブ",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

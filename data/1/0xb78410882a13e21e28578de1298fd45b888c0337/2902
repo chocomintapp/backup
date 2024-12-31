@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRaqtSfnns7CseecoGpAUxBDkUDM9oZjBmgjwmc1H12tZ/nft.png",
+  "nftContractAddress": "0xb78410882a13e21e28578de1298fd45b888c0337",
+  "animationUrl": "",
+  "tokenId": 2902,
+  "chainId": "1",
+  "name": "",
+  "description": "",
+  "attributes": [
+    {
+      "value": "BLUE PURPLE",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "0xe1800ba96bb47e8036257f7338c8952db3ff3e6e",
+      "trait_type": "SIGNATURE STAMP"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT3ZQ9W3ojcHLX3meMSRt8kmSJUh9pywxMuGGdG1RrQqX/nft.png",
+  "nftContractAddress": "0xe42231c015e4e871aac6713ee45c961626e9271c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "First_Chicken",
+  "description": "the first NFT of Hero_of_Chickens",
+  "attributes": [],
+  "minted": ""
+}

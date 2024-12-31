@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeWWgsXxfrLidsSsQsvdsUFUe2itpvT1LPU78q1jTJRwZ/nft.gif",
+  "tokenId": 49,
+  "description": "Olga  \n前衛芸術家の真似をしている  \nImitating avant-garde artists.\n",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmX9oWtiviSDhdUdsE9UbbgKmNjQbWfkm1oE3Hg5F3gDho/nft.mp4",
+  "chainId": "1",
+  "name": "Olga #049",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Construct"
+    },
+    {
+      "trait_type": "VOICE",
+      "value": "Mimi"
+    }
+  ]
+}

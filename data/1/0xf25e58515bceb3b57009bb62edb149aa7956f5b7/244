@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVonpmv5N2LyF1wCoMPmJX7K9sLnx9JCZYoE4A6Ff9Lmv/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 244,
+  "chainId": "1",
+  "name": "MIHAEL",
+  "description": "■ミハエル",
+  "attributes": [
+    {
+      "value": "Salad",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Duckstyle-P",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Ponytail-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Scornful-ZombieOdd1",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-YP",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Purple",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Duck Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

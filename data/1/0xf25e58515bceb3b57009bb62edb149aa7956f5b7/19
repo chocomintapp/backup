@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXy92bYP5HENxDVNBeub4CZyvPKiRV5yZDbyDmCS5bVLu/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 19,
+  "chainId": "1",
+  "name": "YUKA",
+  "description": "Her name is probably YUKA.\n\nHer memory seems to be fuzzy since she was turned into a zombie by a bad demon.\n\nShe finally caught the demon that turned her into a zombie several years ago and asked him how to become human again, but he stubbornly refused to tell her.\n\nSince then, she has been dragging the demon around in her body for 10 years.\n■YUKA\n彼女の名前は、たぶんYUKA。\n\n悪い悪魔にゾンビにされてしまってから記憶が曖昧らしい。\n\n数年前に彼女をゾンビにした悪魔をやっとのことで捕まえ、人間に戻る方法を尋ねるが、悪魔は頑なにその口を閉ざしている。\n\n以降10年にわたって肌身離さず悪魔を引きずりまわしている。",
+  "attributes": [
+    {
+      "value": "Deep-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smiling-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Aihair-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cry-ZombieRed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie6",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Devil",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Red",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXe19NUzAq9Vbob5qQ4oCjQmMsQvpFDhKstMFgasRSNCE/nft.jpg",
+  "nftContractAddress": "0xb633dbee65f5f2218284c8d775f7efe33570179e",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "Eggbird #053 Northern Goshawk",
+  "description": "Eggbird #053 『オオタカ』 ",
+  "attributes": [
+    {
+      "value": "Nature 野鳥",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Hawk 鷹",
+      "trait_type": "Species"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmREg2H8zWMxJheVa4TLktu9Trm7NMtsG7QpNLNK4oupkt/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "Addison",
+  "description": "He is one of the AlternativeVerth, which emerged when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "shigeru",
+      "trait_type": "skin"
+    },
+    {
+      "value": "odd_yellow_blue",
+      "trait_type": "eye"
+    },
+    {
+      "value": "lpurple07",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_emblem",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Ursa Major",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

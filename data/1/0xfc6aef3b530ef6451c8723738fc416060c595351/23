@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPCTCt4ZMPCMMvgF5vaa8SjaKyun35vREQKbQwb9jGKCG/nft.png",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "",
+  "tokenId": 23,
+  "chainId": "1",
+  "name": "A Human Sitting on Doge beside A Bird in The Space",
+  "description": "File: PNG  \nSize: 2048x2048  \nTotal supply: 1  \nShh... Climb up the ladder and just stay there thinking of what you really hope.  ",
+  "attributes": [
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "Face",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "PNG",
+      "trait_type": "file"
+    },
+    {
+      "value": "Mini",
+      "trait_type": "genaration"
+    },
+    {
+      "value": "Bird",
+      "trait_type": "Topping"
+    },
+    {
+      "value": "Human",
+      "trait_type": "topping"
+    },
+    {
+      "value": "Satellite",
+      "trait_type": "object(s)"
+    }
+  ]
+}

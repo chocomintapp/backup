@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaaHYGxEbmcPUqRfGVwut9nnnTWkZ9XEJ9gZNUvoj8B6v/nft.jpg",
+  "nftContractAddress": "0xac36f4c7ef358e5ba01907ba735e29d8e67e0db1",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "Rin",
+  "description": "",
+  "attributes": [
+    {
+      "value": "kemomimi",
+      "trait_type": "TEAM"
+    },
+    {
+      "value": "Navigator",
+      "trait_type": "POSITION"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZTZp2TVHbCgzDo2XjwQS3QhR3VhijE4RAGjwaKd7fcEv/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 218,
+  "chainId": "1",
+  "name": "JANZZ",
+  "description": "■ジャンズ",
+  "attributes": [
+    {
+      "value": "GOLD",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lolitahair-Whitepink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-ZBlue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WPuB(G)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Green",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bored Ape5",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "The Greens zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

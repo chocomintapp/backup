@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPyrsAJuuu7ujjRUqxEwaBZBimQZP7QFo8BpqNmWwwD4k/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 155,
+  "chainId": "1",
+  "name": "LANA",
+  "description": "■ラナ",
+  "attributes": [
+    {
+      "value": "Deep-Orange",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Madness",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hostesshair-Brightgreen",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sunglass-BE2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "South High School",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin2-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Businessperson",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "HeadbandｰPP",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

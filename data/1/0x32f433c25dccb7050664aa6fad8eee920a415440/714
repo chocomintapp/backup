@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmceugnWJ5et4NqCEh667QTfVqVLXSMp1TnhAPm4npFMZg/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmS9TZpqgFwtvaE29MeANrJwNFSwPKMEbnT6zLHYLQ6y5W/nft.mp4",
+  "tokenId": 714,
+  "chainId": "1",
+  "name": "THE JEWEL #714",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Green",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Purple copper",
+      "trait_type": "Control device"
+    }
+  ]
+}

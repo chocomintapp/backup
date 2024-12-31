@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSumxb2GXhE7UefZNQL7z6xvMEXRUGkwESi1g6GBESepE/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 520,
+  "chainId": "1",
+  "name": "SAEKO",
+  "description": "■サエコ",
+  "attributes": [
+    {
+      "value": "pankopa-catguardian-spirit",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "neko",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Anisu-HostessBlonde",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "neko",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "pankopa-foodie1",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "neko1",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

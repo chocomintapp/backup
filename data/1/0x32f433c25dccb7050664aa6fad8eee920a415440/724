@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbWnF8vM77K8DpFdAWtwMdigTGwduAfMFwCQ81kb7ood1/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmVyYXjjJYe1iNFQyjZC15aehD8ZqPyFhRLE4nLnphZX1m/nft.mp4",
+  "tokenId": 724,
+  "chainId": "1",
+  "name": "THE JEWEL #724",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Pink zircon",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "manganese",
+      "trait_type": "Control device"
+    }
+  ]
+}

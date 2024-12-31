@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZfhnsaP2HeCf9Fny7xmxMLs4zVNYfqrb2zCBCcWm22CW/nft.jpeg",
+  "nftContractAddress": "0xcfdcf10b40cbb978813e7849ff56eefbf77ca531",
+  "animationUrl": "https://ipfs.io/ipfs/QmZfhnsaP2HeCf9Fny7xmxMLs4zVNYfqrb2zCBCcWm22CW/nft.jpeg",
+  "tokenId": 31,
+  "chainId": "1",
+  "name": "Soccer Love",
+  "description": "This NFT was created as a gift for my good friend Ken for his Birthday in 2022\n\nIt depicts a soccer boot and the World Cup trophy on a green soccer field\n\nHappy Birthday Ken!",
+  "attributes": []
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUmDudcmEYVANT8wgeVVkLaugpYNDf6g6SPztymt5mJFM/nft.jpg",
+  "nftContractAddress": "0x72f477d2f866c3c22694f23ad5e3792bd93d2cff",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Alpaca Woo Hoo #06",
+  "description": "ぬいぐるみに憧れる、ビッグリボンなアルパカくん。\nもしほどけたら、上手に結んでくれる？\n\n---\n\nA Shy alpaca with a big bow tie wants to be a toy. If it comes undone, will you tie it well?",
+  "attributes": [
+    {
+      "value": "Toy",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Shirt",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Light Purple",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

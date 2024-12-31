@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmcr3MQbsKiF7KV3Lp4wgjdv5fHvQ8uup3XHn5DPQ4ZX8o/nft.jpg",
+  "tokenId": 30,
+  "description": "嫌いなら是非他行ってくださいね",
+  "nftContractAddress": "0x408264f0ccab882db8a9c2efc13ecc15c4c2e198",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "HOKAIKE",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "minted": "✅"
+}

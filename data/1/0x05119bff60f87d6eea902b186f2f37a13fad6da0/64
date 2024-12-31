@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcWwXYCJ9A8FUNk57BGRcKNfkAuAP6bffLttYku4SALZZ/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 64,
+  "chainId": "1",
+  "name": "POPET No.64",
+  "description": "【物語】　POPTOWNの天才ドクタードロシー。「 私のもとに来たからにはもう大丈夫。」",
+  "attributes": [
+    {
+      "value": "医者",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "病院",
+      "trait_type": "origin"
+    },
+    {
+      "value": "カリスマ",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRcQfkJyTbC14hjVN9YV7W9ZPHMEnGjy43zx3ywj1p8xP/nft.png",
+  "nftContractAddress": "0x74047d107f4bb84e707cdb677720601b974830c9",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "1",
+  "name": "CYCLOPSTAR #0028",
+  "description": "Limited 1/1\n\nCyclopstar is a Japanese Kawaii NFT collections, And minted by their original contract (CLS).\n\nThis is Fanart of “326’s collection [326factory](https://opensea.io/collection/326)\"",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "326factory",
+      "trait_type": "BODY"
+    },
+    {
+      "value": "Mecha",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "326factory",
+      "trait_type": "DESIGN"
+    },
+    {
+      "value": "Monstarz",
+      "trait_type": "ACCESSORYS"
+    }
+  ]
+}

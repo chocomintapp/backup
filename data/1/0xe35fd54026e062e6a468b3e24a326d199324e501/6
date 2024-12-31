@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPK2eCZ31cfB1rg6tQUCymtRZDqmhoeYBupHuU8k6LiNp/nft.png",
+  "nftContractAddress": "0xe35fd54026e062e6a468b3e24a326d199324e501",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "1",
+  "name": "Dakko season1 #006",
+  "description": "Dakko - Hug Girl Collection -\n\nシーズン1『ねまき× 抱き枕』\n\n髪色が日本の伝統色になっています\n\n色名：瑠璃 るり\n\nSeason 1『SleepWear & HugPillow』\n\nTraditional Japanese colors are used for hair color\n\nColor Name:ruri",
+  "attributes": [
+    {
+      "value": "season1 vol.1",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "SleepWear & HugPillow",
+      "trait_type": "THEME"
+    },
+    {
+      "value": "Ponytail",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Pajamas",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Animal",
+      "trait_type": "HUG"
+    }
+  ],
+  "minted": "✅"
+}

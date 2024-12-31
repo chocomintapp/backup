@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdn2gpovCns7nicirmFGYR5o6sLayMPtWWKqrzGEGDLAY/nft.png",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "Tokyo Exopanding People 2099 #11 Energy-holder",
+  "description": "English\n\nNo matter how rotten we are, no matter how much we hate reality, we all have the will to push you up. It is a challenge to a higher happiness that reacts to and accumulates external stimulation and tries to define itself. But energy is invisible. It would be impossible to reproduce it perfectly. But many people do not realize how important it is in the fog of the advancing world. I hope that the model you hold in your hand will also become your Energy.\n\n日本語\n\nどんなに腐っていても例えどんなに現実を憎んでいても、誰しもどこかに進もうとする意志がある。それは外側から受けた刺激に反応し蓄積し、自分を定義づけようとする崇高な幸福への挑戦状である。だがエナジーは不可視である。完全に再現することも不可能だろう。しかし、進みゆく世の中の霧の中でいかに大事なものか気づいていない人々は多い。手に取ったモデルがまたあなたのエナジーになることを望む。",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Energyholder"
+    }
+  ],
+  "minted": "✅"
+}

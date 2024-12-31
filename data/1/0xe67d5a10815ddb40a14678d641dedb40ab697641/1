@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUmMaXtxZmxsAmJdZMtqbFhNLRXrQ7HWgs1FzQ1gdhzAL/nft.png",
+  "nftContractAddress": "0xe67d5a10815ddb40a14678d641dedb40ab697641",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "#1",
+  "description": "A nymph of ʻapapane",
+  "attributes": [
+    {
+      "value": "Firebrick",
+      "trait_type": "LIP"
+    },
+    {
+      "value": "Long curly hair with parted bangs",
+      "trait_type": "HAIRSTYLE"
+    },
+    {
+      "value": "Lace and pearls",
+      "trait_type": "NECKLACE"
+    },
+    {
+      "value": "Shoulder strap ruffle",
+      "trait_type": "CLOTHING"
+    }
+  ]
+}

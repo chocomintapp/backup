@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbzHaCRpmf8zU8XTLytxXvCAcZei5YiM2JfnznhMayHqc/nft.png",
+  "tokenId": 1,
+  "description": "Collectible GWS(Gamassho-Wood-Stump) series",
+  "nftContractAddress": "0xa8631c1d2d99637e9ee8ef29156be7166c457b7a",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "GWS#1-LogHouse1"
+}

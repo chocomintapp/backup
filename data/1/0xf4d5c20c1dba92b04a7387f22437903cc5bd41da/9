@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU1Qn8aaWH2eCqWBgz4utwbjTVx179WzPbgxvJvGXfxyd/nft.png",
+  "tokenId": 9,
+  "description": "She is #pict_chan dressed as a dog. She loves to play with balls.",
+  "nftContractAddress": "0xf4d5c20c1dba92b04a7387f22437903cc5bd41da",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#pict_chan_07_dog",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "#pict_chan",
+      "value": "owner"
+    }
+  ]
+}

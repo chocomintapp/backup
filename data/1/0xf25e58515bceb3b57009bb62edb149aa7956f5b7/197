@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNSzD7LTgCEhMFoK57RrFvYEsv5SCH97wMDisVmg2Leim/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 197,
+  "chainId": "1",
+  "name": "ALISON",
+  "description": "■アリソン",
+  "attributes": [
+    {
+      "value": "Salad",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Drool",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Green",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Light eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie1",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "BlueLizards",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "SensorA",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

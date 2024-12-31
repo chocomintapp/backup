@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXsD3UsaG8TWn11TXZNgQ8RPrmE8ow1KTY6uqSJvU5p3p/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 73,
+  "chainId": "1",
+  "name": "POCO_Camilla",
+  "description": "Camilla-Chan",
+  "attributes": [
+    {
+      "value": "Yellow",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Spirited",
+      "trait_type": "PERSONALITY"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSfSNXcosyMvs3HCXn7A18L6UfwbdyjMZheAD9XcNKEs1/nft.png",
+  "nftContractAddress": "0xe35fd54026e062e6a468b3e24a326d199324e501",
+  "animationUrl": "",
+  "tokenId": 58,
+  "chainId": "1",
+  "name": "Dakko season1 #058",
+  "description": "Dakko - Hug Girl Collection -\n\nシーズン1『ねまき× 抱き枕』\n\n髪色が日本の伝統色になっています\n\n色名：薄花 うすはな\n\nSeason 1『SleepWear & HugPillow』\n\nTraditional Japanese colors are used for hair color\n\nColor Name:usuhana",
+  "attributes": [
+    {
+      "value": "season1 vol.1",
+      "trait_type": "CATEGORY"
+    },
+    {
+      "value": "SleepWear & HugPillow",
+      "trait_type": "THEME"
+    },
+    {
+      "value": "Bob Cut",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Loungewear",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Hug Pillow",
+      "trait_type": "HUG"
+    }
+  ],
+  "minted": "✅"
+}

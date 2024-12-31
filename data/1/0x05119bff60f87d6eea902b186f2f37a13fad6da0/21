@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRb4c3fyjCyr1v1Hnq1brr9rip5LbMvN3i8J16MdWaXQN/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "POPET No.21",
+  "description": "【物語】\n\nあの子、やっと退院できた。\nお家でもお薬ちゃんと飲むかしら、、、",
+  "attributes": [
+    {
+      "value": "ナース",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "病院",
+      "trait_type": "origin"
+    },
+    {
+      "value": "静か",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTk5ce7YdFcz9odqAM2AzYWQTLgEJucVuzRiaMXn436hF/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "THS #055",
+  "description": "【日】",
+  "attributes": [
+    {
+      "value": "eel",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbsQupBEiEGQpSYsPvgdn1kabuRDf3tLaEbgyAckPVN6B/nft.png",
+  "tokenId": 4,
+  "description": "\"Vrtra\" = \"Dragon\" x \"Demon\" Jannu Kondo\n\n「ヴリトラ」メイン種族ドラゴン、サブ種族デーモン。名前はジャヌー近藤。\n\n天候を操る邪竜。ドラゴン種から外見的特徴を、デビル種からは「悪」の特性を受け継いでいます。非常に勝ち気な性格で、自分以外の生き物を見下しています。\n\nAn evil dragon that controls the weather. They inherited its appearance from the dragon species and its \"evil\" characteristics from the devil species. They are very competitive and looks down on all living things except themselves.",
+  "nftContractAddress": "0x2080cf41a193738dcb7434454b139c1e8bb3f515",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "#029 \"Vrtra\" Jannu Kondo",
+  "minted": "✅",
+  "attributes": [
+    {
+      "trait_type": "Main Species",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Sub Species",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Named"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

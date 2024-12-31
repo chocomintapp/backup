@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUepT6wtfmAGpWgKrVDdZbK7VJMjkYGR6B23mkwahrESk/nft.png",
+  "nftContractAddress": "0x83605721840a8a9fddb6f039ecf548af9668c06a",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "CryptoNinja #035",
+  "description": "035",
+  "attributes": [
+    {
+      "value": "Ritual of Taizan Fukun - 泰山府君祭",
+      "trait_type": "Ninjutsu"
+    },
+    {
+      "value": "Fuma - 風魔",
+      "trait_type": "Clan"
+    },
+    {
+      "value": "Talisman Paper - 呪符",
+      "trait_type": "Weapon"
+    }
+  ]
+}

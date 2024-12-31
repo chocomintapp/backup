@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmStqaabnP73B7rXNpTVGhMYHAXpsriujkAM4aqTysY8xF/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 16,
+  "chainId": "1",
+  "name": "HIMIKO",
+  "description": "Look, she is still trying to send a lost angel back to his mother: Really?\n\nLook, she is still trying to send a lost angel back to his mother: ・・・・・\n\nReally?\n■HIMIKO\n\nHIMIKOの雰囲気と容姿から怖がる人が大勢いるが、彼女はとにかく優しい。\n\nほら、今も迷子の天使を母親の元へ送り届けようとしてる・・・・・\n\n本当に？？？",
+  "attributes": [
+    {
+      "value": "Deep-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Deep-Red",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Heart-Red",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Silver",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-BGreen",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WRB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Angel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Red",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human zombie",
+      "trait_type": "TYPE"
+    }
+  ]
+}

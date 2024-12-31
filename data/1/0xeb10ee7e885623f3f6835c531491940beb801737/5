@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT228jc655ky8tqrk6fZD44bTkFM8FqfybgTFKeq6kpKW/nft.png",
+  "nftContractAddress": "0xeb10ee7e885623f3f6835c531491940beb801737",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "#005-Axe",
+  "description": "CoolGirl Campers #005のPFP用NFT。お気に入りギアは「薪割り様の斧」。",
+  "attributes": [
+    {
+      "value": "Karate",
+      "trait_type": "HOBBY"
+    },
+    {
+      "value": "Axe",
+      "trait_type": "FAVORITE"
+    }
+  ]
+}

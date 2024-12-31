@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVWojeUWoQUo3b3N5A7Kdk5JdM8zV6jR6TSSsz1XuhC38/nft.png",
+  "nftContractAddress": "0xc7d00cb7b91f8dd5b70d3be1e7b403d6d8a4e842",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "G1",
+  "description": "AstroOTTO 2001 is an NFT art project of 2001 original character space pioneers (AstroOTTO) set in a virtual universe (canned space).",
+  "attributes": [
+    {
+      "value": "rabbit",
+      "trait_type": "helmet"
+    },
+    {
+      "value": "orange",
+      "trait_type": "suit"
+    },
+    {
+      "value": "bee",
+      "trait_type": "face"
+    },
+    {
+      "value": "heart mark",
+      "trait_type": "point"
+    },
+    {
+      "value": "outer space1",
+      "trait_type": "background"
+    }
+  ]
+}

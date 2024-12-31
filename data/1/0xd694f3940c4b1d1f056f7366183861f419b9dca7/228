@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeAtxfjk1seL2f7j1i6eYt7EHTx4A7hatHg8f3ro4WGNF/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 228,
+  "chainId": "1",
+  "name": "December 31 マーガレット（黄）",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "12",
+      "trait_type": "月"
+    },
+    {
+      "value": "31",
+      "trait_type": "日"
+    },
+    {
+      "value": "美しい容姿",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "マーガレット",
+      "trait_type": "花"
+    }
+  ]
+}

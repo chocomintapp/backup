@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRrvBvkmA5tsnmY5CboPdKcG7KUcg5q3Hy1au1ibwNtCv/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 33,
+  "chainId": "1",
+  "name": "MIO",
+  "description": "Mio is a super genius with an IQ of over 180.\n\nAlthough she is a high school girl, she is admired by the police and the heads of state.\n\nHer daily routine is to eat French fries with an angel.\n\nIncidentally, the angel is reluctant to eat them, but she can't say anything because Mio is so cute.\n■ミオ\nミオはIQ180超えの超天才。\n\n女子高生でありながら、警察関係者や国のトップたちから一目置かれる存在。\n\n天使と一緒に、ポテトフライを食べるのが日課。\n\nちなみに天使は嫌々食べているが、ミオが可愛いので何も言えずにいる。",
+  "attributes": [
+    {
+      "value": "Ninja2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Deeppink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sharp-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-B",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Archangel",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

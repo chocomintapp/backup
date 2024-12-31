@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNxnkPUoxYcw9sh2KNZod4Ro6oPBYxewXCKU4Y3rtM2P5/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmb41n1RHdNQJoMgcRZdoEgX29dfke4PAz71XEiueMerU1/nft.mp4",
+  "tokenId": 70,
+  "chainId": "1",
+  "name": "THE JEWEL #070",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Black Pink Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "tantalum",
+      "trait_type": "Control device"
+    }
+  ]
+}

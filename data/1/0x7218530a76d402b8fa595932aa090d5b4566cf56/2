@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTaNo2ussk9qnBoJioCwLowKcTnkdp6JJpUYYSovKvkaa/nft.png",
+  "nftContractAddress": "0x7218530a76d402b8fa595932aa090d5b4566cf56",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "arami-Profile Girl #17",
+  "description": "arami color girl's wa-iro collectionより、『Platina\"mon rêve\"Girl』   \n  \n\"Platina\"mon rêve\"Girl\" from arami color girl's wa-iro collection \n\n3000 × 3000 px  ",
+  "attributes": [
+    {
+      "value": "Platina",
+      "trait_type": "color girl"
+    },
+    {
+      "value": "Platina",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Mint Green",
+      "trait_type": "EYE"
+    },
+    {
+      "value": "18",
+      "trait_type": "AGE"
+    }
+  ]
+}

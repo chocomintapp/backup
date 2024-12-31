@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdfQsBAQGmfLFYScdLLUZE1Dtba5rNmNcYcwk91vixPmK/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 180,
+  "chainId": "1",
+  "name": "November 13 マネッチア",
+  "description": "",
+  "attributes": [
+    {
+      "value": "11",
+      "trait_type": "月"
+    },
+    {
+      "value": "13",
+      "trait_type": "日"
+    },
+    {
+      "value": "沢山のはなし",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "マネッチア",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

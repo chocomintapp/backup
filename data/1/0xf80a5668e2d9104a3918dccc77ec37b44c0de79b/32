@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY8mAvhoF7EEidL8oAwvF1ZexNW42mnoDv58LbQi4ekKd/nft.png",
+  "nftContractAddress": "0xf80a5668e2d9104a3918dccc77ec37b44c0de79b",
+  "animationUrl": "",
+  "tokenId": 32,
+  "chainId": "1",
+  "name": "Bikkuri_Girl #031",
+  "description": "びっくりした仕草をしている女の子のコレクション第31弾です\n恋に落ちたのか、何か見つけたのか、何にびっくりしているか…捉え方はあなた次第！\n\nThis is the 31th collection of girls making surprised gestures.\nWhether they've fallen in love, found something, or are surprised by what... it's up to you!",
+  "attributes": [
+    {
+      "value": "R!ihO",
+      "trait_type": "NAME"
+    },
+    {
+      "value": "A class",
+      "trait_type": "CLASS"
+    }
+  ]
+}

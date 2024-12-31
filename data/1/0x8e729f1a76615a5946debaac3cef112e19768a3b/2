@@ -1,0 +1,23 @@
+{
+  "image": "ipfs://QmVpg1CxeZ1zLCpt1mULBnvHyyc8Jmee9HVkF3MhHVpUAd/nft.png",
+  "nftContractAddress": "0x8e729f1a76615a5946debaac3cef112e19768a3b",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Wrapped Erem",
+  "description": "She is also known as \"ShelteredGasGirl\".\nShe is very smart, serious, top class in sports and studies, and her friends trust her.\nHowever, she often wastes her money at GASTARBUCKS.\nListen to her theme track : [\"Wrap Everything in Creativity\"](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/108166958112520494863791058685566282124917034736759554581194984552029061382154/)",
+  "attributes": [
+    {
+      "value": "Ethereum",
+      "trait_type": "Blockchain"
+    },
+    {
+      "value": "Gas (Trenta)",
+      "trait_type": "Items"
+    },
+    {
+      "value": "Smart Contracts",
+      "trait_type": "Types of Cryptocurrencies"
+    }
+  ]
+}

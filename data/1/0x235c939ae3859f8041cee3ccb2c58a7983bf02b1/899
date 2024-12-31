@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd612pez7HLkhDtC5JKjFJXsw5yPBmYKq3YponSAjnVwx/nft.png",
+  "nftContractAddress": "0x235c939ae3859f8041cee3ccb2c58a7983bf02b1",
+  "animationUrl": "",
+  "tokenId": 899,
+  "chainId": "1",
+  "name": "Nogi",
+  "description": "New life born the coexistence with human and data. \nIt has power to realize cryptocurrency.\nThe way to get such a BABY is the beginning of this collections. \nIf you spend 40weeks with this MOM, you will be faced to make various choices.\nYou may overturn daily life by spending time with MOM. \nPlease achieve the birth of BABY.",
+  "attributes": [
+    {
+      "value": "Devil",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Mine",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Wink",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Navy",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Nose Piercing",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Empty79",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "6LOM",
+      "trait_type": "PROTO VALUE"
+    },
+    {
+      "value": "Polycrystalline",
+      "trait_type": "SPELL"
+    },
+    {
+      "value": "Violence",
+      "trait_type": "SPELL"
+    },
+    {
+      "value": "Free",
+      "trait_type": "DRESS CODE"
+    }
+  ]
+}

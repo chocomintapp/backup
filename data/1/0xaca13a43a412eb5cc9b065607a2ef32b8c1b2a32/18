@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTh4ZQE3wFRK54PH7aVNSYtQtJZdX7fZBbY96wvEK9RuX/nft.png",
+  "tokenId": 18,
+  "description": "Hello. I am Sato Tanaka. #0017",
+  "nftContractAddress": "0xaca13a43a412eb5cc9b065607a2ef32b8c1b2a32",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "I am Sato Tanaka #0017",
+  "attributes": [
+    {
+      "trait_type": "I am",
+      "value": "#0017"
+    },
+    {
+      "trait_type": "CATEGORY",
+      "value": "KAIJU"
+    },
+    {
+      "trait_type": "KAIJU",
+      "value": "Super Giant Squid"
+    },
+    {
+      "trait_type": "ITEM",
+      "value": "Catherine"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Yellow"
+    }
+  ]
+}

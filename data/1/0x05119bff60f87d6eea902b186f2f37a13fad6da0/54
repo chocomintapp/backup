@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmerPguSpRP1XTEQ6yGxytSDQhdSF5kGfQ89qqnN5K7Ukq/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 54,
+  "chainId": "1",
+  "name": "POPET No.54",
+  "description": "【物語】好奇心に溢れ気付いたらどこかに行っている。もしかしたら化けて近くにいるのかもしれない。",
+  "attributes": [
+    {
+      "value": "神様",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "神出鬼没",
+      "trait_type": "origin"
+    },
+    {
+      "value": "好奇心",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

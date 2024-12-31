@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUZm1GhJiTL2QBbQqw9kvySdLMo4BrWi3DX8qZDqasqPq/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmfTRDtLAVnAmqb2BnW2mBgZSph347LiqqoPFwrmJ1TckA/nft.mp4",
+  "tokenId": 173,
+  "chainId": "1",
+  "name": "THE JEWEL #173",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Tantalum",
+      "trait_type": "Control device"
+    }
+  ],
+  "minted": "✅"
+}

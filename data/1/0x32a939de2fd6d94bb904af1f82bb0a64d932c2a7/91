@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTVqrv8HY2R5W3kt9wUTDSuG4NQy8CG6P2gnVCbd3tHGY/nft.png",
+  "nftContractAddress": "0x32a939de2fd6d94bb904af1f82bb0a64d932c2a7",
+  "animationUrl": "https://ipfs.io/ipfs/QmRW7ArPWo5jXgxiq6mgFxuj7uRH8bi8t1Cy1fxcLkFSyD/nft.mp4",
+  "tokenId": 91,
+  "chainId": "1",
+  "name": "ATUM #094",
+  "description": "",
+  "attributes": [
+    {
+      "value": "SKY ANTHONY8",
+      "trait_type": "Type"
+    },
+    {
+      "value": "GREEN CAMO",
+      "trait_type": "Color"
+    }
+  ]
+}

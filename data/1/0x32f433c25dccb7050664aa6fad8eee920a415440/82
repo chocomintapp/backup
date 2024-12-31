@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU4fBam1t1vyGJxHwwsP4sqzqG5XuTGKkjRYEnuhVZWVg/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmRBHgX9enNAVnsERFmCjhn72Zd3Qp9tnpkyBCUBd4Ux8Z/nft.mp4",
+  "tokenId": 82,
+  "chainId": "1",
+  "name": "THE JEWEL #082",
+  "description": "THE JEWEL NFT",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "green",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaCx3wh8HGfUQtVCP9ocoqYbgZXVNnAii4VpW4qWTZ8Mn/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 47,
+  "chainId": "1",
+  "name": "THS #082",
+  "description": "【一】",
+  "attributes": [
+    {
+      "value": "hand",
+      "trait_type": "Mimicry"
+    },
+    {
+      "value": "lotus flower",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

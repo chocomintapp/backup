@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXDfY2Bhbp9AWNqBAMMaXTr8aUCc9SLj3gnPjNo2VrHvT/nft.png",
+  "nftContractAddress": "0x349c5afbaa966450f0e5fcd194fc71737fd13769",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "ROAR",
+  "description": "Barking girl.",
+  "attributes": [],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZDNpe9a8f6rMPkzV7q7vVLqqWst3onUfxt6NHMNgh3KA/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 127,
+  "chainId": "1",
+  "name": "CALBIO",
+  "description": "■カルビオ",
+  "attributes": [
+    {
+      "value": "Entrance Heavenly4",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Monster",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Mhair-Skyblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Shine-Odd2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Whiteblue",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Blue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Saury-Red",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Rainbow",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "N'mou tribe",
+      "trait_type": "TYPE"
+    }
+  ]
+}

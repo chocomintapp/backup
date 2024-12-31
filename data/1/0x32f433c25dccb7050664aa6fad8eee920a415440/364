@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQc4wPsMxf4aaY8Fra7pyoZPb1zRwWcLsLayBFgG6Dg26/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmWzKhJ8A8QU6jjS64oQVj5i4TUTP4ECnDdxwn5f17MLNb/nft.mp4",
+  "tokenId": 364,
+  "chainId": "1",
+  "name": "THE JEWEL #364",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Mint Green Beryl",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Silver",
+      "trait_type": "Control device"
+    }
+  ]
+}

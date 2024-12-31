@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ6W6UK4k45ZdSnYEFXWeyJLe67Af2v365po1CREp4M3T/nft.jpg",
+  "nftContractAddress": "0xc698c3fefc643eb9de33258cf10314836eb6be14",
+  "animationUrl": "https://ipfs.io/ipfs/QmcUg7FDvUWF7CowRvXpUyDzXJGvqP96D2RzvpdweAU8Fz/nft.glb",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "#006 Leviathan",
+  "description": "[ Leviathan ]  \nEven the sharpest spear cannot harm its hard skin, and anything that stands in its way will be consumed by the flames breathed from its mouth.  \nIs it pride or loneliness that she keeps in her body, or is it ......",
+  "attributes": [
+    {
+      "value": "Dragon",
+      "trait_type": "Tribe"
+    },
+    {
+      "value": "None",
+      "trait_type": "Base plate"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image": "",
+  "nftContractAddress": "0x99c91fc98d7c3f297108615c2cd97cdfe38b9a4d",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "1",
+  "name": "",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "COLOR"
+    }
+  ]
+}

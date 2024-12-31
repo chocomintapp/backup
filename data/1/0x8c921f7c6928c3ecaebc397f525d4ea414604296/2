@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXDbCrEMQmCaWgkTXrKjrRgiEJs7gbGKNFgnVp145c6XD/nft.png",
+  "nftContractAddress": "0x8c921f7c6928c3ecaebc397f525d4ea414604296",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Kitty Boy",
+  "description": "Kitty Boy",
+  "attributes": [],
+  "minted": "✅"
+}

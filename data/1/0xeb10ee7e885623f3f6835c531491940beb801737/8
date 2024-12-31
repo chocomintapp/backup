@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUSZt35t4d41nZWt5XnhZqF79pwYZjsRVNESG9id6oLBa/nft.png",
+  "nftContractAddress": "0xeb10ee7e885623f3f6835c531491940beb801737",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "#008-camping cot",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Camping Cot",
+      "trait_type": "Favorite"
+    },
+    {
+      "value": "nap",
+      "trait_type": "Hobby"
+    }
+  ]
+}

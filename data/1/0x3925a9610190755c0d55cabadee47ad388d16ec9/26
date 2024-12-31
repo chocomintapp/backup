@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWxUhjwE2XDyr536n1Gm6ScRtgBfgmCWram6NdfRrjgwq/nft.png",
+  "nftContractAddress": "0x3925a9610190755c0d55cabadee47ad388d16ec9",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "1",
+  "name": "Raiyuu",
+  "description": "Ambitious One City GENESIS NFT Special Edition",
+  "attributes": [
+    {
+      "value": "TECH ARMOR",
+      "trait_type": "COSTUME"
+    },
+    {
+      "value": "Insecta",
+      "trait_type": "CREATOR"
+    },
+    {
+      "value": "UNKNOWN",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "SHURIKEN",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "ANDROID",
+      "trait_type": "RACE"
+    }
+  ]
+}

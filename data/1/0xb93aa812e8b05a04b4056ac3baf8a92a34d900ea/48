@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQjwdrcfm58wsRLHd9XyCa5JUnj12CRsBieE9ysmaycpC/nft.gif",
+  "tokenId": 48,
+  "description": "The PolygonLow project provides file-locked NFTs (.glb) of moving NPCs and VRM and VOX data for collectibles of low polygon characters. \nhttps://lock.chocomint.app/locks/7a42d11d-bb1b-4a3e-b504-41b0a05c2f5a\n\nPlease join the Discord. https://discord.gg/85JVzJaatT\n\nYou can get a completely one-of-a-kind NFT. Get it now!",
+  "nftContractAddress": "0xb93aa812e8b05a04b4056ac3baf8a92a34d900ea",
+  "animationUrl": "https://ipfs.io/ipfs/QmUrnhesqjJFxDSAwzyXBNxyZinpRFse2FjFjehRfu6oCq/nft.mp4",
+  "chainId": "1",
+  "name": "PolygonLow#48",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "GOLEM"
+    }
+  ]
+}

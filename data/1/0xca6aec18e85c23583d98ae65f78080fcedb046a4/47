@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbmTKjmR15mYLLtdgbjqDLTzCxK6dBcWnUryzaBXZ9RSp/nft.png",
+  "nftContractAddress": "0xca6aec18e85c23583d98ae65f78080fcedb046a4",
+  "animationUrl": "",
+  "tokenId": 47,
+  "chainId": "1",
+  "name": "047 One-side Lovers : Series02-Beach [Sunset]",
+  "description": "■Fukuyoshi Rokka's Artwork collection \n\"One-side Lovers”\nSeries02-Beach\n\n福吉ロッカのアートワークコレクション\n「One-side Lovers」\nシリーズ２-Beach",
+  "attributes": [
+    {
+      "value": "Beach",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "Hair-color"
+    },
+    {
+      "value": "Wavy",
+      "trait_type": "Hair-style"
+    },
+    {
+      "value": "None",
+      "trait_type": "Item"
+    },
+    {
+      "value": "02/Beach",
+      "trait_type": "Series-number"
+    },
+    {
+      "value": "Sunset",
+      "trait_type": "Sky"
+    },
+    {
+      "value": "Pink border/Sky Blue",
+      "trait_type": "Swimsuit-color"
+    },
+    {
+      "value": "Tie-side-bikini",
+      "trait_type": "Swimsuit-type"
+    }
+  ],
+  "minted": "✅"
+}

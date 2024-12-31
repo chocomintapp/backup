@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTKSYe48EL7Nr1KsZkAfyBGBZTg4TCdqyiDU32Sa6wQXw/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 282,
+  "chainId": "1",
+  "name": "CADY",
+  "description": "■キャディ",
+  "attributes": [
+    {
+      "value": "Deep-Yellow",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open3",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Blue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cry-Darkblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Robody-WhiteRabbit",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "NARUKAMI-B",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by YUDA)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

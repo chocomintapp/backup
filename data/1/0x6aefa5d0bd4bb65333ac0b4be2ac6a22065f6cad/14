@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPpDPkV6PLgC8Drpn3cvAgn9KurQQob1KhyDEFvkHA7qC/nft.png",
+  "nftContractAddress": "0x6aefa5d0bd4bb65333ac0b4be2ac6a22065f6cad",
+  "animationUrl": "",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "Rabbit girl #11『あずき』PFP",
+  "description": "Rabbit girl #11『あずき』PFP",
+  "attributes": [
+    {
+      "value": "あずき",
+      "trait_type": "Character"
+    },
+    {
+      "value": "PFP",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,51 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbDrrkv7HpjG3d4LZgjXfBLdupPfExaDPa9BWrnbugPZJ/nft.png",
+  "nftContractAddress": "0x7e00bee9ce676f3d83613b184caa6bf69c980ca9",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "CyberAnimeDOLL #004 Hiruda ( ヒルダ )_Model1",
+  "description": "このPFP NFT（プロフィール画像）をご購入いただくと、対象キャラクターの「3DCGアバターのフルセット（＝アバターVRMファイル＋改変用データ）」を、Discord内のNFT所有者限定チャンネルにてダウンロード可能です。立体的なキャラクターをメタバースやアプリ等で、お楽しみください！\n\n「NFT版アバター利用規約」は、このコレクションの説明文、もしくはCyberAimeDOLLサイト内にリンクを貼付しています。\n\nこのアバターは、NFT以外の販売手段でも売っていますが、利用規約の許諾範囲が異なります。このNFT版アバターが、全販売手段の中で最もビジネス向きであり、許諾範囲を広く設定しています。CyberAnimeDOOLサイト内で、販売手段別の利用規約の比較表があるので、ご確認ください。\n\nアバター利用規約の比較表は下記でご確認いただけます。\nhttps://daichi-shinpo.com/cyberanimedoll-terms-of-use.html\n\nご購入後にヒルダの3DCGアバターファイルを入手できるDiscordは下記です。\nhttps://discord.com/invite/2tkaby7b6T\n\n＝＝＝＝＝\n\nWhen you purchase this PFP NFT (profile image), you will be able to download a full set of 3DCG avatars (= avatar VRM file + data for modification) of the target character on the NFT owners-only channel in Discord. Please enjoy the 3D characters in the Metaverse, apps, etc!\n\nThe NFT version of the \"Avatar Terms of Use\" can be found in the description of this collection or on the CyberAimeDOLL site with a link attached. \n\nThese avatars are also sold by means other than NFT, but the scope of permission under the Terms of Use is different. This NFT version of Avatar is the most business oriented of all sales methods and has the widest scope of licensing. Please refer to the CyberAnimeDOOL website for a table comparing the \"Terms of Use\" for each means of sale.\n\nA comparative chart of the Avatar Terms of Use can be found below.\nhttps://daichi-shinpo.com/cyberanimedoll-terms-of-use.html\n\nThe Discord where you can obtain Hilda's 3DCG avatar file after your purchase is below.\nhttps://discord.com/invite/2tkaby7b6T",
+  "attributes": [
+    {
+      "value": "Sparkling Energist - 煌めきのエナジスタ",
+      "trait_type": "Byword - 通り名"
+    },
+    {
+      "value": "Fire Spirit Magic - 火の精霊魔法, Using of Explosive Liquid - 爆発液の使用",
+      "trait_type": "Art of self-defense - 護身術"
+    },
+    {
+      "value": "Inferno - インフェルノ",
+      "trait_type": "Autonomous mechanical pet - 自律型機械ペット"
+    },
+    {
+      "value": "Eternal forest - 永遠の森 - エターナルフォレスト",
+      "trait_type": "Clan - クラン"
+    },
+    {
+      "value": "Elf - エルフ",
+      "trait_type": "Entity concept - 存在概念 種族"
+    },
+    {
+      "value": "Red - あか",
+      "trait_type": "Eye color - 目の色"
+    },
+    {
+      "value": "Red - あか",
+      "trait_type": "Hair color - 髪色"
+    },
+    {
+      "value": "Long Choppy and Braids - 長束 x 三つ編み",
+      "trait_type": "Hairstyle - 髪型"
+    },
+    {
+      "value": "Drastic Medicine Witch - 劇薬薬師",
+      "trait_type": "Occupation - 職業"
+    },
+    {
+      "value": "Blaze Heart - ブレイズハート",
+      "trait_type": "PTAA Name - PTAA名"
+    }
+  ]
+}

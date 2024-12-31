@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUhZSfYx1GSL3qubnPcuaAtALm5DyoWLcBnz5273BkkX8/nft.mp4",
+  "nftContractAddress": "0xdb4969706380e8ffbbcb9226278f5701f93dec74",
+  "animationUrl": "https://ipfs.io/ipfs/QmUhZSfYx1GSL3qubnPcuaAtALm5DyoWLcBnz5273BkkX8/nft.mp4",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "Moving Craftwork #008 Neon Sign",
+  "description": "Neon sign of a tavern in Shinjuku",
+  "attributes": []
+}

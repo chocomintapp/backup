@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPay95YTmtcozBrVMoX3brhR5LbJ88CUhmtW1vM3EVJog/nft.png",
+  "nftContractAddress": "0xd7a22292f15f5779cedf2f74a2683730f138310d",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "BTK#15",
+  "description": "けんちゃんはイタリアにやってきました。水の都ベネチアの美しい街並みを眺めながら、ゴンドラに揺られて優雅な時間を。ゴンドリエーレ風の帽子とスカーフも似合っていますね。そして、旅の途中で手に入れたかばんには、おみやげがたくさん入っている様子。どうやらシチリア産のレモンは、かばんに入りきらなかったようです。なにはともあれ、レモンのビールで乾杯してから考えましょうか！\n\nKen-chan came to Italy. He spent an elegant time in a gondola while viewing the beautiful cityscape of Venice, the city of water. The gondolier-style hat and scarf also look good on him. And the bag he picked up during his trip seems to be full of souvenirs. Apparently, the Sicilian lemons didn't fit in the bag. At any rate, let's toast with a lemon beer and then he'll think about it!",
+  "attributes": [
+    {
+      "value": "Turquoise Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Fruit Ale With Lemon",
+      "trait_type": "Beer Style"
+    },
+    {
+      "value": "Italy",
+      "trait_type": "Country"
+    },
+    {
+      "value": "Italy",
+      "trait_type": "Decoration"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Eye"
+    },
+    {
+      "value": "Tulip",
+      "trait_type": "Glass"
+    },
+    {
+      "value": "More Open",
+      "trait_type": "Tongue"
+    }
+  ]
+}

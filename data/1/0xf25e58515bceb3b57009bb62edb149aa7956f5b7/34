@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaLYGj7tuRbrdNHCEgHecwwpdgNoasZUoqsfEAnrNUi4u/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 34,
+  "chainId": "1",
+  "name": "AZUMI",
+  "description": "MIRAKO Fan art work part 1.\n■アズミ\n\nMIRAKOファンアート作品パート1。\n\n■MIRAKO↓\nhttps://opensea.io/collection/mirako",
+  "attributes": [
+    {
+      "value": "Dot2",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Ponytail-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "RobotEye4",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "MIRAKO-FULLSUIT-AType",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Kuro",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by AKO)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

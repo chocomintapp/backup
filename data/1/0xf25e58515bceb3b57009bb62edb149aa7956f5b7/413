@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaBG2y3uqWc41YdTp3H5dTeosFCRBLgGPiRdFxyPf4GaY/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 413,
+  "chainId": "1",
+  "name": "BELLANCA",
+  "description": "■ベランカ",
+  "attributes": [
+    {
+      "value": "Dot7",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-Big",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Darkblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Doteye-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Maid robot",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNP-Luna-Metal",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

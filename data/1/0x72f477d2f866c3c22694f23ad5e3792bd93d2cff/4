@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTMcTzngWhnKPGfQGF1eciVUVug6fD9SD7Da26TV29aW9/nft.jpg",
+  "nftContractAddress": "0x72f477d2f866c3c22694f23ad5e3792bd93d2cff",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Alpaca Woo Hoo #04",
+  "description": "ぬいぐるみに憧れる、オーバーオールなアルパカくん。\nペアルックで写真とってみない？\n\n---\n\nA Shy alpaca in overalls wants to be a toy.\nWhy don't we take a picture having same style?",
+  "attributes": [
+    {
+      "value": "Toy",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Overalls",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Light Green",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

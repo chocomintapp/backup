@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZXuVQc9RGUePEjVwuuynf7a8mqYwVZsmwHLzGeaiwuxq/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 320,
+  "chainId": "1",
+  "name": "TSUKINA",
+  "description": "■ツキナ",
+  "attributes": [
+    {
+      "value": "space-time transfer3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Drool",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Lightblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Mad-Skyblue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "AnisuBody2",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Skyblue",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Rimless glasses-red(NE）",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "CNPR-LeeLee-Otoko",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Angel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Angel Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

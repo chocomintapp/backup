@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdfRAvoAYi2fpRmcVK2whNd1T5saKJmbuxv7YZqffSAZG/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmQ8v3fFGbPT7GRdF9ZMZKzLL272gdvA8kAQaHasyEUd7S/nft.mp4",
+  "tokenId": 73,
+  "chainId": "1",
+  "name": "Oska #073",
+  "description": "Oska  \n機械仕掛けのロボットが大好き  \nLove mechanical robots.",
+  "attributes": [
+    {
+      "value": "Haus",
+      "trait_type": "TYPE"
+    }
+  ]
+}

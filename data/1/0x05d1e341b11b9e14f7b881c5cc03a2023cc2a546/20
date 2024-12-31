@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV55hK7Ao8tTv5n57gCjXNJPaF9y2S4uF7XSkdsL8xmJJ/nft.gif",
+  "tokenId": 20,
+  "description": "GTC  \nGentangle Colors collection に擬態している  \nMimicking the Gentangle Colors collection",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmPsqLWSxtC5CAVZvCKtmQm2T6cS4pimbikHmua2Kk3DU5/nft.mp4",
+  "chainId": "1",
+  "name": "GTC #020",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Tsitraton"
+    },
+    {
+      "trait_type": "MIMIC",
+      "value": "Gentangle Colors"
+    }
+  ]
+}

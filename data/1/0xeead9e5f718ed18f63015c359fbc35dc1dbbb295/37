@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf1sBN49v9vvX5UHPcfh8b1AzNnvaZdDvU2RH6EVgJudQ/nft.jpg",
+  "nftContractAddress": "0xeead9e5f718ed18f63015c359fbc35dc1dbbb295",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "1",
+  "name": "Tokyo Expanding People 2099 #26 Anna",
+  "description": "［日本語］アンナ\n\nダンは、ある時から人が変わってしまった。\nそう、両親と妹をある海賊に殺されてからだ。\n\nアンナは、ダンの家族の仇討ちを手伝うべく、彼を父の海賊団に入団させた。\n彼自身が海賊になることで、犯人である海賊が探しやすくなると思ったから。\n\nしかし、ここ最近、またダンの様子がおかしい。\nそれは決まって、私の父を見ている時だ。\n\n［En］ANNA\n\nDann was a changed man at one point in his life.\nYes, after a certain pirate killed his parents and sister.\nAnna enlisted him in her father’s pirate crew to help Dan avenge his family’s death.\n\nHe thought that by becoming a pirate himself, it would be easier to find the pirates who did this.\n\nRecently, however, Dann has been acting strangely again.\nIt is, of course, when he is looking at my father.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Pirates",
+      "trait_type": "Anna"
+    }
+  ]
+}

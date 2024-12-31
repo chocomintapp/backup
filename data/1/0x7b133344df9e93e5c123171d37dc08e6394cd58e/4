@@ -1,0 +1,36 @@
+{
+  "image": "https://ipfs.io/ipfs/QmauLDpcN22aD1KTCjBZSV5HpPXdmMKKsZQFUMJgMsBht1/nft.jpg",
+  "nftContractAddress": "0x7b133344df9e93e5c123171d37dc08e6394cd58e",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "Steampunk Rhino #059",
+  "description": "The collection is based on the concept of graffiti drawn by boys playing in back alleys. 100 animal portraits.All are one-of-a-kind.路地裏で遊ぶ少年たちが描いたグラフィティというコンセプトのコレクション。100枚の動物の肖像画。すべて一点ものです。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "rhino",
+      "trait_type": "Animals"
+    },
+    {
+      "value": "blue",
+      "trait_type": "Color"
+    },
+    {
+      "value": "brick",
+      "trait_type": "Wall"
+    },
+    {
+      "value": "hat",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "monocle",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "pipe",
+      "trait_type": "Accessory"
+    }
+  ]
+}

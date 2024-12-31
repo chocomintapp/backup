@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQwnyXW32JvstP1ymrc4CC1BM86Xny9XYWQfYS2hmG3yh/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmTJBn968RaoKorjpmHR2ph6DKjnQmbD3mYw4TyWdF2ek9/nft.mp4",
+  "tokenId": 17,
+  "chainId": "1",
+  "name": "THE JEWEL #017",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "jadeite",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "green",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

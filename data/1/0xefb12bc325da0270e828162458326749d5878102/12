@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmR2Xj9cHjgeeX61usoPu7PLVMbTznDYg7g3ByEbXxekQm/nft.png",
+  "nftContractAddress": "0xefb12bc325da0270e828162458326749d5878102",
+  "animationUrl": "https://ipfs.io/ipfs/QmaHku1eNPQoEJky4pbMTpoQ51DHPAsygo82wFbbFrwrLA/nft.glb",
+  "tokenId": 12,
+  "chainId": "1",
+  "name": "Ballerbit #93C Bre",
+  "description": "NFL legendary player is an iron man QB!!",
+  "attributes": []
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXX5VshrXq38BUMQNjxdWV9gUYDYw6oL3gTtAJrk3BWTq/nft.JPG",
+  "nftContractAddress": "0x70c5f67027331fd5183159860cf3fb06aea2852a",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "kazushifukami",
+  "description": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

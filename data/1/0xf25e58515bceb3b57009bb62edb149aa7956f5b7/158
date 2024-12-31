@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ8ArvfRePsxFxfygV4azRKWDnm758U19fWBdi9M6LBb5/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 158,
+  "chainId": "1",
+  "name": "NATSU",
+  "description": "■ナツ",
+  "attributes": [
+    {
+      "value": "Entrance Heavenly3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shorthair-Purple",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Healing Light",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Dress-White",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pin-Yellow",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Luna",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "LunaAngel-Circle",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Angel Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

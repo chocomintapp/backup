@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXRzCzzFBxAi6aiWhUpergpS8rqTTeYtAEs7FHwqFh7tz/nft.png",
+  "nftContractAddress": "0xa093a27b5ebe897d1a9bb42d6f69595ddb336431",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "SAMPLE #3",
+  "description": "This Nanvolian fossil sample is the first to have two facial organs associated with a single trunk. \n\nThis sample suggests that the facial organ may be a distinct organ from the head of the extant organism.\n\n---\n\n1つの幹部に2つの顔状器官(facial organ)が付随している初めてのサンプルである。このサンプルは、顔状器官が現生生物の頭部とは全く異なる器官である可能性を示唆している。",
+  "attributes": []
+}

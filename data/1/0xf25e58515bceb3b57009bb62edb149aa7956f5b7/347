@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXWrQmxc7n6XrrzhZE72vU4aCcZEH6ZD6wp2gU26h7Xrp/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 347,
+  "chainId": "1",
+  "name": "MEGUMI",
+  "description": "■メグミ",
+  "attributes": [
+    {
+      "value": "RED-DBSM",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile-Afaint",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Edo-wigBlue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0002Eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-tobitashinchi",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "LeeLee-cry",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Snow Country)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

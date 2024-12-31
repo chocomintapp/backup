@@ -1,0 +1,31 @@
+{
+  "image": "",
+  "nftContractAddress": "0xfc6aef3b530ef6451c8723738fc416060c595351",
+  "animationUrl": "https://ipfs.io/ipfs/QmSJBBiaBYABUTZqoMNYCBxba5jbTxYHaRxcj5fTT7Ndz2/nft.gif",
+  "tokenId": 36,
+  "chainId": "1",
+  "name": " Once Spring Comes,,, Doge Will Be,,,",
+  "description": "File: GIF  \nSize: 2000x2000  \nTotal Supply: 1  \nIt's always coldest before the spring. ",
+  "attributes": [
+    {
+      "value": "2D",
+      "trait_type": "dimensions"
+    },
+    {
+      "value": "w/ body",
+      "trait_type": "face or w/ body"
+    },
+    {
+      "value": "GIF",
+      "trait_type": "file"
+    },
+    {
+      "value": "Fetus",
+      "trait_type": "genaration"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfW1bzkHhgwoe5Ajng1FoVL75ncWwLkVYuPYS4hjXHXcM/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmZmY1M1kDJGAzXr2PYU9BQ42UPPVYQ7tZ7iRBN7tSubtD/nft.mp4",
+  "tokenId": 14,
+  "chainId": "1",
+  "name": "THE JEWEL #014",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "dravite tourmaline",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "manganese",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV1BtihrEJ5HjoWzjpbPRjpSDGo9GDMqKmfcszgt7R1h4/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "HilHeb",
+  "description": "He is one of the AlternativeVerth, which emerged when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "normal",
+      "trait_type": "skin"
+    },
+    {
+      "value": "normal_blue",
+      "trait_type": "eye"
+    },
+    {
+      "value": "white13",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_emblem",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Hercules",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

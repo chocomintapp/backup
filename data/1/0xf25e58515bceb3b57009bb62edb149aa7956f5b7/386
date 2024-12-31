@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTLH9EcU4p134HRPjH3EAkJKYfcegdEJCycf4qWk9d41h/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 386,
+  "chainId": "1",
+  "name": "YUMEKA",
+  "description": "■ユメカ",
+  "attributes": [
+    {
+      "value": "Deep-Yellow(HumanR)",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks3",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Laughing-N",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Curling-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Anisu0002Eye3",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Purpleblack",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "NARUKAMI-B",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

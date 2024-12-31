@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmThLGQPrLcF7pzZDwRxmHvfNXf9E5G99U1nVijxPEaPcD/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmXrdQDH7Ecbt8zvGfzY1VFWdNkWceeaFDpae1ygnoHARV/nft.mp4",
+  "tokenId": 662,
+  "chainId": "1",
+  "name": "THE JEWEL #662",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Bubble Light Blue",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Manganese",
+      "trait_type": "Control device"
+    }
+  ]
+}

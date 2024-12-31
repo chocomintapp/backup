@@ -1,0 +1,48 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeBZtEWQkPkprcoVRhjiiYQv2WdCHuQUNiKxnkkGVkxJe/nft.png",
+  "nftContractAddress": "0xca6aec18e85c23583d98ae65f78080fcedb046a4",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "005 One-side Lovers : Series02-Beach [Happy Holidays]",
+  "description": "■Fukuyoshi Rokka's Artwork collection \n\"One-side Lovers”\nSeries02-Beach\n\n福吉ロッカのアートワークコレクション\n「One-side Lovers」\nシリーズ２-Beach\n2022年キフネ荘クリスマス会作品",
+  "attributes": [
+    {
+      "value": "Beach",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Orange Brown",
+      "trait_type": "Hair-color"
+    },
+    {
+      "value": "Semi-long",
+      "trait_type": "Hair-style"
+    },
+    {
+      "value": "Sparkling wine",
+      "trait_type": "Item"
+    },
+    {
+      "value": "02/Beach",
+      "trait_type": "Series-number"
+    },
+    {
+      "value": "Blue sky",
+      "trait_type": "Sky"
+    },
+    {
+      "value": "Red/White",
+      "trait_type": "Swimsuit-color"
+    },
+    {
+      "value": "Christmas type swimsuit",
+      "trait_type": "Swimsuit-type"
+    },
+    {
+      "value": "Afternoon",
+      "trait_type": "Time-zone"
+    }
+  ],
+  "minted": "✅"
+}

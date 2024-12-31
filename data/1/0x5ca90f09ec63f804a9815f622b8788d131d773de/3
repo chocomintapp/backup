@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPDZFxZasPhVabV8VVcadYszJ5sbHfcz974MDg19TL68X/nft.gif",
+  "nftContractAddress": "0x5ca90f09ec63f804a9815f622b8788d131d773de",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "Flying Happy Cat to Itsukushima Shrine #001",
+  "description": "The next destination for the Flying Cat is Itsukushima Shrine.\nWe pray for peace all over the world from a beautiful shrine in Japan.",
+  "attributes": [
+    {
+      "value": "tabby",
+      "trait_type": "pattern"
+    },
+    {
+      "value": "Itsukushima Shrine",
+      "trait_type": "place"
+    },
+    {
+      "value": "orange",
+      "trait_type": "body color"
+    },
+    {
+      "value": "blue",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "background"
+    }
+  ]
+}

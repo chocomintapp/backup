@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmdq6vBMoL3emEJAphmnP5KcFvpFGwZVCT4p6i7FRBHxNh/nft.gif",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 24,
+  "chainId": "1",
+  "name": "Working Ganmichan #43",
+  "description": "究極の誇りを手にしたがんみちゃん！\nその辺のモンスターでは一瞬だ！\nGanmichan's got ultimate pride!\nShe can take down any monster in the area in an instant!",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "fighter",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": ""
+}

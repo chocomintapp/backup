@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRwLeg6nEHhU1FPcGA9jSizSi2ADnTBW5yu5Js8y4QsgV/nft.gif",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmRo8KDvp9wQAY5w1Aj3bxVDkSuwkxeRhYU226EHmnSZGp/nft.mp4",
+  "tokenId": 83,
+  "chainId": "1",
+  "name": "Lilly #083",
+  "description": "Lilly  \n鋭い世界観と愛嬌を持ち合わせている  \nHe has a sharp view of the world and a charming personality.",
+  "attributes": [
+    {
+      "value": "Haus",
+      "trait_type": "TYPE"
+    }
+  ]
+}

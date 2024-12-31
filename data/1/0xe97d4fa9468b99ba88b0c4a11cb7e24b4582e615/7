@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmexiaXYErbU6u2SF9SjDtuL2xA1FoZfctDdm77VBhNj4W/nft.png",
+  "nftContractAddress": "0xe97d4fa9468b99ba88b0c4a11cb7e24b4582e615",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "#007_Shimaenaga",
+  "description": "北海道全域に生息し「雪の妖精」と呼ばれる可憐な小鳥。\nおとなしそうに見えて結構活発なキャラにギャップ萌えするファンが多く、\n彼女の推しグッズが多数作られているらしい。",
+  "attributes": [
+    {
+      "value": "famale",
+      "trait_type": "Charactor"
+    },
+    {
+      "value": "Aegithalos caudatus japonicus",
+      "trait_type": "Scientific name"
+    },
+    {
+      "value": "Town",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "Forest",
+      "trait_type": "Habitat"
+    },
+    {
+      "value": "Winter",
+      "trait_type": "Season"
+    }
+  ],
+  "minted": "✅"
+}

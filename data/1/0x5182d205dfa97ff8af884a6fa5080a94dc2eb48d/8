@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUVBVmk8kzuRxmPz69YuJzJRCtGi9UQEiHPW1m5yaxsjD/nft.gif",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 8,
+  "chainId": "1",
+  "name": "Ganmichan's gifs #5",
+  "description": "nantekottai",
+  "attributes": [
+    {
+      "value": "gifs",
+      "trait_type": "series"
+    },
+    {
+      "value": "nantekottai",
+      "trait_type": "situation"
+    }
+  ],
+  "minted": "✅"
+}

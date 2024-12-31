@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfVzE8AKti2jrfZyzHkYCza6C9knoYLyr3ZKF32tVJAAi/nft.png",
+  "nftContractAddress": "0xa92a9c76497bc17f8261d40bcd38adad510372c1",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "Petit_Sarah",
+  "description": "This is Sarah-chan.\n\nSpecial respect for the *FuChiMing* v2.\n(URL: https://opensea.io/collection/fuchimingv2)",
+  "attributes": [
+    {
+      "value": "pink",
+      "trait_type": "heir"
+    },
+    {
+      "value": "bear",
+      "trait_type": "animal"
+    },
+    {
+      "value": "apple",
+      "trait_type": "accessory"
+    }
+  ]
+}

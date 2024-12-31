@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeW6jYBawKAadcesqxdzFt3VxJ4cmLnrqmhpFsbdKAXjP/nft.jpg",
+  "nftContractAddress": "0xdcbbd79e20c1ea86680ed83c872e8786f5f578f1",
+  "animationUrl": "",
+  "tokenId": 18,
+  "chainId": "1",
+  "name": "#15 VILLAINS BEAN THE SPIRIT OF WATER",
+  "description": "Beans in 3D are here!! The second series is VILLAINS. They are MAMENGERS enemy.\nThis BEAN is The elite four of VILLAINS.",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "None",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "Water symbol",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "Spirit Rings",
+      "trait_type": "EAR ACCESSORY"
+    },
+    {
+      "value": "Spirit Rings",
+      "trait_type": "BODY ACCESSORY"
+    },
+    {
+      "value": "Elite Blue",
+      "trait_type": "BODY COLOR"
+    },
+    {
+      "value": "Elemental Source",
+      "trait_type": "WEAR"
+    },
+    {
+      "value": "Ice Circle",
+      "trait_type": "ARTICLES"
+    },
+    {
+      "value": "Villains Sky V2",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

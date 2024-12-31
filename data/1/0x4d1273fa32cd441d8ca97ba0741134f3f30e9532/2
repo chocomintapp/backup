@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXsRMmpLjocVWTHWCdCkCXMdqVMSgeUgidGjZqeJMj8jF/nft.gif",
+  "tokenId": 2,
+  "description": "Squidots go to Vietnam!",
+  "nftContractAddress": "0x4d1273fa32cd441d8ca97ba0741134f3f30e9532",
+  "animationUrl": "https://ipfs.io/ipfs/QmTxFdKAFaqNnEq79k4hMP7Zn7vLaEDM2ro4KUp2omARc2/nft.gif",
+  "chainId": "1",
+  "name": "Squidots Vietnam"
+}

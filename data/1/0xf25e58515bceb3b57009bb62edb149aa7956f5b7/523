@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRjfAAWxXB44vx39v5wPQF6ynD4vVCss5TjdhFWmPHGKD/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 523,
+  "chainId": "1",
+  "name": "UI",
+  "description": "■ウイ",
+  "attributes": [
+    {
+      "value": "pankopa-catguardian-spirit",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Face",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Catstyle",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Red",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "neko2",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-tobitashinchi",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "matatabineko",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Red",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Android (made by TOMOMI)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

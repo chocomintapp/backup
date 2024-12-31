@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNq5wVUM7ojo624hCGATDh8UXevJToxFTGN9HQ1QN3a9Q/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "1",
+  "name": "KAIKA #11",
+  "description": "",
+  "attributes": [
+    {
+      "value": "fragment pink",
+      "trait_type": "energy"
+    },
+    {
+      "value": "none",
+      "trait_type": "extra"
+    },
+    {
+      "value": "foxy",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "green",
+      "trait_type": "eye color"
+    },
+    {
+      "value": "straight",
+      "trait_type": "hair"
+    },
+    {
+      "value": "ombre",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "closed",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "pale",
+      "trait_type": "skin tone"
+    }
+  ]
+}

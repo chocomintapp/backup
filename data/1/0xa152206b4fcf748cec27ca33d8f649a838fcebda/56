@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma9pPMTTmLVn44PQqXtGcHiLEDWCkfVTyiAwN6hsa3P1f/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 56,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "GOX",
+  "attributes": [
+    {
+      "value": "カルパス",
+      "trait_type": "人物"
+    },
+    {
+      "value": "サイバーアーマー",
+      "trait_type": "服装"
+    },
+    {
+      "value": "レーザーゴーグル",
+      "trait_type": "メガネ"
+    },
+    {
+      "value": "ビームソード",
+      "trait_type": "アイテム"
+    },
+    {
+      "value": "GOX",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeXAuak2hf8RMDsLqZezbo84zLaPZNeXErq1URHNut7A9/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 491,
+  "chainId": "1",
+  "name": "FINLEY",
+  "description": "■フィナリー",
+  "attributes": [
+    {
+      "value": "PNG",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin-Black",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Tail-Blue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-UBlue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "DBSM-Foodie9(BL)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "LongEar(BLU)",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "golden retriever",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Blue Family",
+      "trait_type": "TYPE"
+    }
+  ]
+}

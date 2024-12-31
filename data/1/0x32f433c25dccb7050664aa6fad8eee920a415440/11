@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQkVp6qh1fLUw7oSyeGWvsAbozY6PgMcpgF6bT88CiLrC/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmTX5m896gWLENDcVoxGuoV2gque8tJ3sQoAphszFgzyv8/nft.mp4",
+  "tokenId": 11,
+  "chainId": "1",
+  "name": "THE JEWEL #011",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Bekily Blue Garnet",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "silver",
+      "trait_type": "Control device"
+    },
+    {
+      "value": "Genesis",
+      "trait_type": "Shine"
+    }
+  ]
+}

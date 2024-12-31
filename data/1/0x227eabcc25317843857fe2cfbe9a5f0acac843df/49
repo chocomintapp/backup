@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVwsBhVw1vLVchmEXjjx6RPbG6X9UZif9N5TwLvwATzn1/nft.jpg",
+  "nftContractAddress": "0x227eabcc25317843857fe2cfbe9a5f0acac843df",
+  "animationUrl": "",
+  "tokenId": 49,
+  "chainId": "1",
+  "name": "Beach Borne Bae #77",
+  "description": "Beach Borne Bae #77\nInspired by Longhorn cowfish / コンゴウフグ",
+  "attributes": [
+    {
+      "value": "Bob",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "V-Neck Dress",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "CREATURE"
+    }
+  ]
+}

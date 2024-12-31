@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/QmexH4Eau95FbkWJkP2Z6B6LyEidaa7LLurzNHo6kQQZL2/nft.png",
+  "nftContractAddress": "0xe6961ae83a76c35839eb8626115c25287a27583c",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "PixelCollectorSaga #012Leonard(with wanyudou)",
+  "description": "",
+  "attributes": [
+    {
+      "value": "algabalan",
+      "trait_type": "clan"
+    },
+    {
+      "value": "human",
+      "trait_type": "race"
+    },
+    {
+      "value": "male",
+      "trait_type": "sex"
+    },
+    {
+      "value": "wanyudou",
+      "trait_type": "cryptid"
+    },
+    {
+      "value": "flame",
+      "trait_type": "element"
+    },
+    {
+      "value": "hammer",
+      "trait_type": "wepon"
+    },
+    {
+      "value": " blacksmith",
+      "trait_type": "job"
+    },
+    {
+      "value": "Wheel of Fortune",
+      "trait_type": "special"
+    }
+  ]
+}

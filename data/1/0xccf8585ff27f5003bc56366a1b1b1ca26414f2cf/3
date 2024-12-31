@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXDHsVKfyMhofjwfDBr3nqxTWFCiLAB1Keevyj7e4wncB/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "WEAR BEAR #090 \"MATT\" SUNSET BORDER T-SHIRTS",
+  "description": "WEAR BEAR 第9弾はスケーターファッションを着こなすストリートスタイル レアキャラ“MATT”は早朝のサーフィン帰りをSNAP！寡黙でクールなMATTはモーニングコーヒー片手にレトロながらのTシャツとデニム＆ムートンブーツのサーファーコーデがイケメン！",
+  "attributes": [
+    {
+      "value": "Silver&Gold accessories",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Matt",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Ugg boots",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Border SUNSET T-Shirts",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "Navy",
+      "trait_type": "Type"
+    }
+  ],
+  "minted": "✅"
+}

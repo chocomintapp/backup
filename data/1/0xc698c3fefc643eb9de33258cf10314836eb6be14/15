@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc8Pa4f5q8zpHp97N4kf7nAgbzKSnw9PZhmJrfp6esG4g/nft.jpg",
+  "nftContractAddress": "0xc698c3fefc643eb9de33258cf10314836eb6be14",
+  "animationUrl": "https://ipfs.io/ipfs/QmcEJYxb2RYiJ2tHEjRTUtcTah8BHvbrRxumZvRi5ojnqm/nft.glb",
+  "tokenId": 15,
+  "chainId": "1",
+  "name": "＃003 Fenrir [ Stone ]",
+  "description": "[ Fenrir ]\nThere was a beast that was prophesied to bring disaster to the gods. The giant wolf tore off the iron chains made by the gods. But later the wolf would be bound by a magic cord, \"Gleipnir\".\nUntil the day of the apocalypse.",
+  "attributes": [
+    {
+      "value": "Beast",
+      "trait_type": "Tribe"
+    },
+    {
+      "value": "Pottery",
+      "trait_type": ""
+    }
+  ]
+}

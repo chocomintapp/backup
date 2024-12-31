@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaMzJ2HuxNgMGwziT8kv2WEfENHicWaW7q3YMUMKaw4AK/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 63,
+  "chainId": "1",
+  "name": "POPET No.63",
+  "description": "【物語】POPTOWNにさまようプライドの高いゴーストPOPET。夜になると街のどこかに現れる。",
+  "attributes": [
+    {
+      "value": "ゴースト",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "ダウンタウン",
+      "trait_type": "origin"
+    },
+    {
+      "value": "高潔",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

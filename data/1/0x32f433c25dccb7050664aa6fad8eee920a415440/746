@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVCLgeqWeh1ci1ABBcS3WoGwbhuabj7bNSHtLTvNMrz6h/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmbCFFmydFrvyD7fJkZ3UDTi2KCJa8onSGeyFkiaR29Sfd/nft.mp4",
+  "tokenId": 746,
+  "chainId": "1",
+  "name": "THE JEWEL #746",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Brown Zircon",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

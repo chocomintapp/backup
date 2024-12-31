@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdrqySj7WZQwg6xw9x8DPgUt1V1DL2vgKVi3khJLGrhDw/nft.gif",
+  "nftContractAddress": "0x27cac3a1b07bc5f96ab64ef5bd3db863962ee1fa",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "飾り気 affectation",
+  "description": "髪を巻き、真っ赤な口紅を塗り重ねる。本当は弱い心を持っていること、誰にも気付かれませんように。\n\nCurl your hair and apply a layer of bright red lipstick. May no one find out that I really have a weak heart.",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

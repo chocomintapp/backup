@@ -1,0 +1,40 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSP12fL98zyW7JXrQwaE9GqjhmJRTpxs8yxvNWENgamMs/nft.png",
+  "nftContractAddress": "0xee38353e74e04b1fb7fa99c2ce78e93fb6e09b99",
+  "animationUrl": "",
+  "tokenId": 106,
+  "chainId": "1",
+  "name": "#0106 Series000 No.004\"NOAK_Patten\"",
+  "description": "未来の自律型電脳ゲーミングPC『Chirobo.』\n\nNOAK_Patten\nPortable Network Graphics       \n2048×2048px",
+  "attributes": [
+    {
+      "value": "Series 000",
+      "trait_type": "Series"
+    },
+    {
+      "value": "NOAK_Patten",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Square type A",
+      "trait_type": "CPU"
+    },
+    {
+      "value": "DeltaTechnology type A",
+      "trait_type": "GPU"
+    },
+    {
+      "value": "Square type A",
+      "trait_type": "RAM"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Yellow×Purple",
+      "trait_type": "LED"
+    }
+  ],
+  "minted": "✅"
+}

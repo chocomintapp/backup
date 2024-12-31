@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNr67bVvjU87uZkaaxUHNp88EjX2knHN851KbwHUW2kf9/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "1",
+  "name": "May 24 カキツバタ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "5",
+      "trait_type": "月"
+    },
+    {
+      "value": "24",
+      "trait_type": "日"
+    },
+    {
+      "value": "幸福は必ずくる",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "カキツバタ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

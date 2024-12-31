@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRvijUdMZdRZAY5smZzonW8FUukJSJCjv5SNdTVyq649u/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/Qmb2q91PxpTL7SSaFmL6E3RUR6k7QozBAZbDkhJv67btX5/nft.mp4",
+  "tokenId": 594,
+  "chainId": "1",
+  "name": "THE JEWEL #594",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Clear Black",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Zirconium",
+      "trait_type": "Control device"
+    }
+  ]
+}

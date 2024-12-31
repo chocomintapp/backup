@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmaz3kGTfvJTSRk7SnBjQfCiuz5r4x3G2geAcajTwcqHwR/nft.png",
+  "nftContractAddress": "0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9",
+  "animationUrl": "",
+  "tokenId": 45,
+  "chainId": "1",
+  "name": "Red Unicorn 赤いユニコーン #223",
+  "description": "[青いユニコーン](https://opensea.io/assets/ethereum/0x7505e3549dcc2e68c4b4c85d0fbcf67cd76aa3d9/43/)のシリーズ作です✨\n\nこの子たちは4しゅるいの色の子たちです。おかあさんとお父さんは虹色でおでこに雲とユニコーンのマークがついています。\n\n赤ユニコーン、オレンジユニコーン、みどりユニコーン、青ユニコーンで、ちょっとしたとくちょうがついて生まれました。\n\nこの子はおでこに炎のもようのとくちょうがあります。かぞくとすぐわかるようになっています。\n\n赤いちゃんは女の子です。\n\nうんどうでみんなが走るのでつかれているとき、ばしーんとすると、みんなが足が速くなるし、自分にもつかえます。\n\n４人のユニコーンはあらそったことがありません。\nかぞくがおうちの中のおしごとをそれぞれたのしくやっているからです。\n\n※小学2年生23番目の作品なので223の番号をつけました。\n\nThese children are the four main colors. The mommy and daddy are rainbow colored and have a cloud and unicorn symbol on their foreheads.\n\nThey are a red unicorn, an orange unicorn, a green unicorn, and a blue unicorn. \n\nThis child has a flame-like feature on his forehead. It is easily recognizable as a family member.\n\nRed-chan is a girl.\n\nWhen everyone is tired from running, she can make everyone's legs faster with the power of her flame. This power can also be used for herself.\n\nThe four unicorns have never fought. That is because each member of the family is happily going about his or her business in the house.\n\n※Since this is the 23rd work by a second grader, I have assigned it the number 223.\n",
+  "attributes": [
+    {
+      "value": "Unicorn",
+      "trait_type": "Type"
+    },
+    {
+      "value": "kawaii",
+      "trait_type": "Category"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Color"
+    }
+  ],
+  "minted": "✅"
+}

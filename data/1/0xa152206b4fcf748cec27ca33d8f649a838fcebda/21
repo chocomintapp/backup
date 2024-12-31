@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW71fJ2zfVLZJaHPkjvK16g4WnUWNA7X7UBdibhRRacM9/nft.jpg",
+  "nftContractAddress": "0xa152206b4fcf748cec27ca33d8f649a838fcebda",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "OYAZI",
+  "description": "5階級制覇",
+  "attributes": [
+    {
+      "value": "ワイザー",
+      "trait_type": "人物"
+    },
+    {
+      "value": "裸",
+      "trait_type": "服装"
+    },
+    {
+      "value": "拳",
+      "trait_type": "アイテム"
+    }
+  ],
+  "minted": "✅"
+}

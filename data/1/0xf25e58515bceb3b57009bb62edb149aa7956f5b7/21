@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmP9EJdiyu2wNz5rwRjhXsShmoY9Y1zHSQi95jrzHD3eXE/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 21,
+  "chainId": "1",
+  "name": "LIAM",
+  "description": "Oliver, a hairpin who has been given an ego by a certain magician, gags in my ear every day.\n\nShe always resists desperately so that she does not die from laughing so hard.\n\nHer beloved Shiba Inu is always annoyed at her almost laughing at Oliver's boring gags.\n■リアム\n\nとある魔術師によって自我が芽生えたヘアピンのオリバーに、毎日のように耳元でギャグを言われている。\n\n笑い転げて死んでしまわないように、いつも必死に抵抗している。\n\n愛犬の柴犬はオリバーのつまらないギャグに笑いそうになっている彼女にいつもイライラしている。",
+  "attributes": [
+    {
+      "value": "Dot3",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Burstout-Laughing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Black",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cry-Green",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WPuB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-oliver",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shibainu",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdVmrzSn9NQacP12kmRnzaDoSD33ZQFRyri9yRY4Y87b7/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 65,
+  "chainId": "1",
+  "name": "Musica",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "normal",
+      "trait_type": "skin"
+    },
+    {
+      "value": "normal_brown",
+      "trait_type": "eye"
+    },
+    {
+      "value": "malon01",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "sun_glass",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Delphinus",
+      "trait_type": "Nearest constellation"
+    }
+  ]
+}

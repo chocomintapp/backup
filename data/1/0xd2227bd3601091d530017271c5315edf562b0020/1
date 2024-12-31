@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNn6Tsc4poboRSgq3GwZTRm9nQbL5hQyDRjNoY9ory7AA/nft.png",
+  "nftContractAddress": "0xd2227bd3601091d530017271c5315edf562b0020",
+  "animationUrl": "https://ipfs.io/ipfs/Qmd3tuZYTrUQfgkGSX6irFY3LLbJBmHbyZ767VRiwtWD4z/nft.glb",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "NAE#01",
+  "description": "",
+  "attributes": []
+}

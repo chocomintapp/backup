@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSbdnWrpGdWQaLffaJmmG6AYRdzjvf6GArhRsu7oLGTnv/nft.jpg",
+  "nftContractAddress": "0x72f477d2f866c3c22694f23ad5e3792bd93d2cff",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "Alpaca Woo Hoo #02",
+  "description": "ぬいぐるみに憧れる、セーラー服のアルパカくん。\nぎゅっと抱きしめると、ピーチの香りを感じるかな？\n\n---\n\nA Shy alpaca in a sailor suit wants to be a toy.\nWhen you hug him tightly, can you feel the scent of peach?",
+  "attributes": [
+    {
+      "value": "Toy",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "Sailor",
+      "trait_type": "STYLE"
+    },
+    {
+      "value": "Light Yellow",
+      "trait_type": "BACKGROUND"
+    }
+  ]
+}

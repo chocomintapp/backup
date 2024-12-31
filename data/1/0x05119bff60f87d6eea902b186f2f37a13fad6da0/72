@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbpGUujenTbYyRy3rgm7L5SXEAuYRZRmGewMnbSntSeRG/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 72,
+  "chainId": "1",
+  "name": "POPET No.72",
+  "description": "【物語】POPETヴィラン社員。髪から電気をだして、明るくしたり機械を動かしたりすることができる。",
+  "attributes": [
+    {
+      "value": "POPETヴィラン",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "アジト",
+      "trait_type": "origin"
+    },
+    {
+      "value": "強気",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

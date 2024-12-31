@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPe5RCcChPxX18mC5oFYPaMmeKBbtzkjCnd6m5B8Bj35u/nft.png",
+  "nftContractAddress": "0x23338273d630a3f912a586d5c89410a39224be10",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "1",
+  "name": "OnTheFrog #1",
+  "description": "ep.1",
+  "attributes": []
+}

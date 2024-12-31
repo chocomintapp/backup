@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeiCBKuS9DTwgqvVeXudfC6RmJiST46j2tBq1y33F4PGQ/nft.png",
+  "nftContractAddress": "0xd87bf0e98b0cdbe3a675f2af5cd8fd6efc158ab9",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "1",
+  "name": "THS #062",
+  "description": "【夢】",
+  "attributes": [
+    {
+      "value": "chili pepper",
+      "trait_type": "Mimicry"
+    }
+  ]
+}

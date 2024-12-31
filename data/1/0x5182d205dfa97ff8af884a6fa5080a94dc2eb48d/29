@@ -1,0 +1,20 @@
+{
+  "image": "ipfs://bafkreiad6tlb7s55gu55wvr6kl6nb7jtnpykrjjoixqvb4uo7teoztccha",
+  "nftContractAddress": "0x5182d205dfa97ff8af884a6fa5080a94dc2eb48d",
+  "animationUrl": "",
+  "tokenId": 29,
+  "chainId": "1",
+  "name": "Working Ganmichan #45",
+  "description": "がんみ三姉妹の数奇な物語\nがんみちゃんは魔導士！！",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "working",
+      "trait_type": "series"
+    },
+    {
+      "value": "wizard",
+      "trait_type": "situation"
+    }
+  ]
+}

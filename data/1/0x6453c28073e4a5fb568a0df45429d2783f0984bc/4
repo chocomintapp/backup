@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXFu7AeDHfJXYZ1AW9NnjUm4v56HLk64bDA1cikLMQbpw/nft.gif",
+  "nftContractAddress": "0x6453c28073e4a5fb568a0df45429d2783f0984bc",
+  "animationUrl": "https://ipfs.io/ipfs/QmXFu7AeDHfJXYZ1AW9NnjUm4v56HLk64bDA1cikLMQbpw/nft.gif",
+  "tokenId": 4,
+  "chainId": "1",
+  "name": "HuntingTrophy_Byakhee",
+  "description": "Defeated a swarm of monsters. Got the Byakhee Hunting Trophy. \n \nモンスターのむれをたおした。ビヤーキーのハンティングトロフィーをてにいれた。  \n  \n**Charisma**: 15 of 25  \n**Intelligence**: 18 of 25  \n**Luck**: 10 of 25  \n**Power**: 10 of 25  \n**Speed**: 25 of 25",
+  "attributes": [
+    {
+      "value": "Insect",
+      "trait_type": "DEPARTMENT"
+    },
+    {
+      "value": "Modern and contemporary monsters",
+      "trait_type": "RACE"
+    },
+    {
+      "value": "Cthulhu Mythos",
+      "trait_type": "Status"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRB1dK7Ki3cTaFMQzapVGB67AH9rUDHXnac2T9HjWWVip/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 63,
+  "chainId": "1",
+  "name": "RAVEN",
+  "description": "She is so strong that she can compete for the first or second place in everlasting summer when it comes to arm strength.\n\nDespite his appearance, he is also very smart.\n\nShe is a demon exterminator by profession.\n\nShe is scary like a demon when she is working, but usually has a mild and gentle personality.\n■レイヴン\n彼女は腕力なら常夏でも1位2位を争うほどの強さ。\n\n見た目に反して頭もすごくいい。\n\n職業は悪魔退治。\n\n仕事中は鬼のように怖いが、普段は温厚で優しい性格だ。",
+  "attributes": [
+    {
+      "value": "Deep-Red",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Pompadour-Purple",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-W(B)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Demon",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human (Everlasting Summer)",
+      "trait_type": "TYPE"
+    }
+  ]
+}

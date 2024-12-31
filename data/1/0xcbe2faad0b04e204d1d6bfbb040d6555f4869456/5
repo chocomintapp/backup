@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQU6ySdUPDPwMzsZ1dnbo8fwTo4faFTjdvL4B9BqLxG6G/nft.png",
+  "nftContractAddress": "0xcbe2faad0b04e204d1d6bfbb040d6555f4869456",
+  "animationUrl": "",
+  "tokenId": 5,
+  "chainId": "1",
+  "name": "CoolGirl Campers #005",
+  "description": "",
+  "attributes": [
+    {
+      "value": "Karate",
+      "trait_type": "HOBBY"
+    },
+    {
+      "value": "Axe",
+      "trait_type": "FAVORITE"
+    }
+  ],
+  "minted": "✅"
+}

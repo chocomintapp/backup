@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW1HyBnMUeV72Fp5GhS1iUmPgpWh1prQJx6sphqezQw71/nft.png",
+  "nftContractAddress": "0xfad5eadab43dbaa3d8b52a93ae1f7bafddad26b9",
+  "animationUrl": "https://ipfs.io/ipfs/QmW1HyBnMUeV72Fp5GhS1iUmPgpWh1prQJx6sphqezQw71/nft.png",
+  "tokenId": 2,
+  "chainId": "1",
+  "name": "OkCat",
+  "description": "OkCat",
+  "attributes": [],
+  "minted": "✅"
+}

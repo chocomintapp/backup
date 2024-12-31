@@ -1,0 +1,39 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSz5Ymgme3GkVyrg6kKDX4iUrLTkMV6M4UTumjesZ5JmM/nft.png",
+  "nftContractAddress": "0x7da6875eb99cb517b8b8d434b60ad7b2e95236fc",
+  "animationUrl": "",
+  "tokenId": 9,
+  "chainId": "1",
+  "name": "KAIKA #10",
+  "description": "",
+  "attributes": [
+    {
+      "value": "flash",
+      "trait_type": "energy"
+    },
+    {
+      "value": "none",
+      "trait_type": "extra"
+    },
+    {
+      "value": "smile",
+      "trait_type": "eyes"
+    },
+    {
+      "value": "long wavy",
+      "trait_type": "hair"
+    },
+    {
+      "value": "pink",
+      "trait_type": "hair color"
+    },
+    {
+      "value": "open smile",
+      "trait_type": "mouth"
+    },
+    {
+      "value": "dark",
+      "trait_type": "skin tone"
+    }
+  ]
+}

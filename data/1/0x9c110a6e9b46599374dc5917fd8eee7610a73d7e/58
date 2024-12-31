@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmejPh9m2U7GTSkw4pX41Ego97rjegFidaiYWqWp1uRn5S/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 58,
+  "chainId": "1",
+  "name": "POCO_Cordula",
+  "description": "Cordula-Chan",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Violent",
+      "trait_type": "PERSONALITY"
+    }
+  ],
+  "minted": "✅"
+}

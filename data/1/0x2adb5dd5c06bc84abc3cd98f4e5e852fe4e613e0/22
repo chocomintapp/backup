@@ -1,0 +1,43 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmd37Wfm27SytDMA4w3E2hNemvcEDcWiWL79k8yy6jsYFt/nft.png",
+  "nftContractAddress": "0x2adb5dd5c06bc84abc3cd98f4e5e852fe4e613e0",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "Marmalade [Mode: Transforming]",
+  "description": "LOM BABY [Phase: MOM]\nMarmalade\n\nThe figure has undergone a spectacular transformation by the magic power of [LOM ELIXIR EVO]",
+  "attributes": [
+    {
+      "value": "Fallen Angel",
+      "trait_type": "DNA"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "SKIN"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "CLOTHES"
+    },
+    {
+      "value": "Goggles",
+      "trait_type": "ITEM"
+    },
+    {
+      "value": "Black",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "EVO",
+      "trait_type": "LOM ELIXIR"
+    }
+  ]
+}

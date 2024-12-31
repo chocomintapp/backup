@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaT3ZPgck2V1LbizWZoyhtNZAwUnW7CSGcWmDK8Ytf7ZV/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 88,
+  "chainId": "1",
+  "name": "POCO_Elun",
+  "description": "Elun_Chan\n",
+  "attributes": [
+    {
+      "value": "Lime",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Cheerful",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Alias",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

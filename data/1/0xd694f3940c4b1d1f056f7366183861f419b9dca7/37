@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ518FEqoTJJZCHG2W8ZrE7ZDPrn85jiuftpmXUegsmG9/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 37,
+  "chainId": "1",
+  "name": "June 23 スターチス",
+  "description": "",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "月"
+    },
+    {
+      "value": "23",
+      "trait_type": "日"
+    },
+    {
+      "value": "永遠に買わらぬ愛",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "スターチス",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRXNg1H7vThscF3eSd37B167KQbUBUP3fK2MFNH2Hoxsc/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 322,
+  "chainId": "1",
+  "name": "YUZUKI",
+  "description": "■ユズキ",
+  "attributes": [
+    {
+      "value": "bubble5",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Face"
+    },
+    {
+      "value": "pinkcheeks2",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Gape2",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-White",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Evileyes-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Jk-P(W)",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cat-Red",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Chacha",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Headphone-Red",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Asiatic peoples",
+      "trait_type": "TYPE"
+    }
+  ]
+}

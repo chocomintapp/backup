@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWfoLc2twYvVhnxRqBqHzsQWNae9FcZVHbbvUHpgdR81N/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 25,
+  "chainId": "1",
+  "name": "MAO",
+  "description": "MAO is so serious and good looking.\n\nHowever, he is too serious and his face becomes too serious when he listens to others.\n\nWhen he listens intently, Mao's face is so scary that even the devil runs away in fear.\n■マオ\n\nMAOはすごく真面目で、容姿端麗。\n\nだが真面目過ぎて人の話を聞くときに顔が真剣になりすぎてしまうところがある。\n\n真剣に話を聞いてる時のマオの顔は悪魔ですら恐れ逃げるほど怖い。",
+  "attributes": [
+    {
+      "value": "Bright-Orange",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Star&tear2",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Frightened",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Medium-Pink",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Wide-Void",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WEB",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Penguin-Pink",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Radish-tragic",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

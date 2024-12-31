@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPKa3RWr6nC82wR6zAfhqgUpHD6Amd9RMD4gZPA6p2pCw/nft.png",
+  "tokenId": 544,
+  "description": "",
+  "nftContractAddress": "0xca1992c03640a2d12a81a6eea9185c7690881e78",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #544",
+  "attributes": [
+    {
+      "trait_type": "Skin Tone",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Red Eyes"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Carmine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Slip"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ear Accessories",
+      "value": "Gold 3 Hoop"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Halo Angel Ring"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Fallen Angel"
+    },
+    {
+      "trait_type": "Feature",
+      "value": "Varicose Veins"
+    }
+  ]
+}

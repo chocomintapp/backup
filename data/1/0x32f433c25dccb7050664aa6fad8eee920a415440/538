@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPF9V7fABUaHAGCW5dapQS5eprPPS65pZ77VzjPY3DeP3/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmeEf9AHnNLF95aSJRjE449e9HuTdY54H2hWkJga6FWXoy/nft.mp4",
+  "tokenId": 538,
+  "chainId": "1",
+  "name": "THE JEWEL #538",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Titanium",
+      "trait_type": "Control device"
+    }
+  ]
+}

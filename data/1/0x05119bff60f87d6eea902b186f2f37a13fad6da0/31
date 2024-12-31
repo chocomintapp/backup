@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRwDvirs4qbWZyET5eEZhWTUKfQAMVq9T24Aq3v5yCqAi/nft.png",
+  "nftContractAddress": "0x05119bff60f87d6eea902b186f2f37a13fad6da0",
+  "animationUrl": "",
+  "tokenId": 31,
+  "chainId": "1",
+  "name": "POPET No.31",
+  "description": "【物語】\n\n歴史のかけらを集めるとたどり着く。\nあの文明はたしかに存在したのだから。",
+  "attributes": [
+    {
+      "value": "考古学者",
+      "trait_type": "job"
+    },
+    {
+      "value": "No data",
+      "trait_type": "skill"
+    },
+    {
+      "value": "洞窟",
+      "trait_type": "origin"
+    },
+    {
+      "value": "探究心",
+      "trait_type": "personality"
+    }
+  ],
+  "minted": "✅"
+}

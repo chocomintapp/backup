@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQPcAyJuY1xv2qsrQNyHjTzMipGWtrix9MMbkW2dPa1Bp/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 169,
+  "chainId": "1",
+  "name": "SOLANA",
+  "description": "■ソラナ",
+  "attributes": [
+    {
+      "value": "Fullmoon",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Open",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bob-Skyblue",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Light eye",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lolita-Lightbluewhite",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Mitama-nihility",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

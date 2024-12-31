@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSw3erbiNuwK4TAv79KWNfJfqiHaxTCvsDfzCQmiXiUfM/nft.jpg",
+  "nftContractAddress": "0xb7aa2ffc401b1980376f7abc03f76bc41ef6f87b",
+  "animationUrl": "https://ipfs.io/ipfs/QmSw3erbiNuwK4TAv79KWNfJfqiHaxTCvsDfzCQmiXiUfM/nft.jpg",
+  "tokenId": 3,
+  "chainId": "1",
+  "name": "I am the king",
+  "description": "神の一手を極めんとするナルカミ‥。\nNarukami trying to master God's move",
+  "attributes": [],
+  "minted": "✅"
+}

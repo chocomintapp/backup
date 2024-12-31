@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVEbhgmqFac6M2wEDFrCuDUjh2hKdiZuCLEKh9znwyVMY/nft.jpg",
+  "tokenId": 1,
+  "description": "The man in the mask, Shibuya-san.\nHe's looking at you.",
+  "nftContractAddress": "0xf50cac7ef63fc00d4943e7753da7653f1158d5c1",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Shibuya In the Mask",
+  "attributes": [],
+  "minted": ""
+}

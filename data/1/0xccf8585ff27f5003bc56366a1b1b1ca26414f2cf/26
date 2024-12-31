@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeRn3rhW9XuuEyvihAADeRusm2rL8exb4ETaAXgeGS42f/nft.png",
+  "nftContractAddress": "0xccf8585ff27f5003bc56366a1b1b1ca26414f2cf",
+  "animationUrl": "",
+  "tokenId": 26,
+  "chainId": "1",
+  "name": "WEAR BEAR #108 “SAM” ×”SHIVA” from TMA",
+  "description": "WEAR BEAR 第11弾はクールなTHE MAFIA ANIMALSとのコラボシリーズ！それぞれがMAFIA幹部の衣装をまとって登場！\n “SAM”は幹部NO.032 \"SHIVA\"の衣装で登場\n",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "White jacket",
+      "trait_type": "Tops"
+    },
+    {
+      "value": "White pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Dress shoes",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Sam",
+      "trait_type": "Model"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Gold necklace",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Wine",
+      "trait_type": "Food"
+    }
+  ]
+}

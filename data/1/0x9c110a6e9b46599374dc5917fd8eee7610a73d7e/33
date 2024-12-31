@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmScXWiBK2EKBxrAnKJW41WocAr9MrXTiKouhSHBbU7vT2/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "https://ipfs.io/ipfs/QmPDNS5BoXEKSbK9jgQTAzP2WNRdwfNcFBZupQFtSYjfPr/nft.mp4",
+  "tokenId": 33,
+  "chainId": "1",
+  "name": "POCO_二神ルイ anime",
+  "description": "@0TL_ Commission",
+  "attributes": [
+    {
+      "value": "Commission",
+      "trait_type": "RARITY"
+    }
+  ],
+  "minted": "✅"
+}

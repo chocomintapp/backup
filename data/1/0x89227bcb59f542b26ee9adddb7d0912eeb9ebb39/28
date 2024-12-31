@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZfactbmVKwPtMindettJhyCEtH8AqQS9nphJAJZY3f7L/nft.png",
+  "nftContractAddress": "0x89227bcb59f542b26ee9adddb7d0912eeb9ebb39",
+  "animationUrl": "",
+  "tokenId": 28,
+  "chainId": "1",
+  "name": "#028-Hyogo-",
+  "description": "#028-Hyogo-",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "Aqua",
+      "trait_type": "Hero"
+    },
+    {
+      "value": "Kansai",
+      "trait_type": "Region"
+    },
+    {
+      "value": "Hyogo",
+      "trait_type": "Prefecture"
+    }
+  ]
+}

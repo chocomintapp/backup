@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcDuZKsNDSCgyYhXpTH8nQKRug7CgjMXkzXvyQLUSNo3N/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmPYtBB4W2dSB3VkHY8hRjkpexrxVjoLtKTtXjrD422v2E/nft.mp4",
+  "tokenId": 648,
+  "chainId": "1",
+  "name": "THE JEWEL #648",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Green Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Control device"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYD67eZR84b8HnAmvgVWXwBt4GcNfFc1aWXdw7PAQZoJi/nft.png",
+  "nftContractAddress": "0x9c110a6e9b46599374dc5917fd8eee7610a73d7e",
+  "animationUrl": "",
+  "tokenId": 30,
+  "chainId": "1",
+  "name": "POCO_Clara",
+  "description": "Clara-Chan",
+  "attributes": [
+    {
+      "value": "Mischievous",
+      "trait_type": "PERSONALITY"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Multicolor",
+      "trait_type": "HAIR"
+    },
+    {
+      "value": "Sci-Fi",
+      "trait_type": "STYLE"
+    }
+  ],
+  "minted": "✅"
+}

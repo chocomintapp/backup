@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbUytaubE9wFrX6m5deJYQqqf7aQ9ubmcCyzWj7wA6nzy/nft.PNG",
+  "nftContractAddress": "0x3edc2579f668ba936471224388bedba291da94b0",
+  "animationUrl": "",
+  "tokenId": 22,
+  "chainId": "1",
+  "name": "#234",
+  "description": "このNFTはNMO（NFT Marketing Orchestra）コミュニティ参加権となっています。\n\nThis NFT is the right to participate in the NMO (NFT Marketing Orchestra) community.",
+  "attributes": [
+    {
+      "value": "トランペット-Trumpet",
+      "trait_type": "楽器-instrument"
+    }
+  ]
+}

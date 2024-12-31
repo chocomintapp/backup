@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmddpPHBSLkSADAAwifbVoFxbMHT2EvFeMDbaqGdgvYv8Y/nft.MOV",
+  "tokenId": 1,
+  "description": "moica",
+  "nftContractAddress": "0xa4886cc70ca0259ff1a7ea136f8ee18956fefd37",
+  "animationUrl": "https://ipfs.io/ipfs/QmddpPHBSLkSADAAwifbVoFxbMHT2EvFeMDbaqGdgvYv8Y/nft.MOV",
+  "chainId": "1",
+  "name": "moica"
+}

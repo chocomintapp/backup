@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZLetoGZ6PezojC4CUsdfhjGjaptZ9ribTna8GM9VH5fv/nft.png",
+  "tokenId": 1,
+  "description": "This work depicts the heroic figure of Mr. Fujiwara, who is active in cyberspace.",
+  "nftContractAddress": "0xb6ae8590a3e7f942e405c4be7509d8e7537612ad",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "SNS Icon \"Mr Fujiwara\"",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Icon"
+    }
+  ]
+}

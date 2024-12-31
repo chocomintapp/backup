@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY9GWCyaShvq4g22QoQmBnSoJjkgoX2XNGExre3piggGk/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmbRudZPHJ2N253W3QAKc4wKSUxQWgLEtZMDc83joBzY4E/nft.mp4",
+  "tokenId": 720,
+  "chainId": "1",
+  "name": "THE JEWEL #720",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "Diamond",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "Charcoal",
+      "trait_type": "Control device"
+    }
+  ]
+}

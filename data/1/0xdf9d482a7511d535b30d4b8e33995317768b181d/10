@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYQyboNbHQva1TxL9aDHzbsMwh6VbrGwWsU9TAe78ZPdT/nft.png",
+  "tokenId": 10,
+  "description": "The creature \"HUMLEO\" found in Japan can live forever without eating food. Therefore, they have no mouth.",
+  "nftContractAddress": "0xdf9d482a7511d535b30d4b8e33995317768b181d",
+  "animationUrl": "https://ipfs.io/ipfs/QmZ84T49RdBM1yEqsHH6LgcdB2mzFZGpFN4t1srs4EBKpG/nft.mp4",
+  "chainId": "1",
+  "name": "HUMLEO #10",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Purple"
+    }
+  ],
+  "minted": "✅"
+}

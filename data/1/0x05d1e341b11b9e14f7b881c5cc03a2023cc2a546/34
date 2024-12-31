@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSEDQrT54fUmsDXYkW4jdqLnpVTvyDYEJoivQMQe14wrd/nft.gif",
+  "tokenId": 34,
+  "description": "Budo  \n014と022から産まれた新しいMIMI  \nNew MIMI spawned from 014 and 022",
+  "nftContractAddress": "0x05d1e341b11b9e14f7b881c5cc03a2023cc2a546",
+  "animationUrl": "https://ipfs.io/ipfs/QmQzWRKt8AFvidyAhdexdS7LDkSChZq8yCEWruzkdXYxzT/nft.mp4",
+  "chainId": "1",
+  "name": "Budo #034",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Creator"
+    },
+    {
+      "trait_type": "VOICE",
+      "value": "Mimi"
+    }
+  ]
+}

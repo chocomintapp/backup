@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU7bcPTqN3p1bvsyS9zWCC836hb7g3MQHDd6cgeP1iaae/nft.jpg",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 343,
+  "chainId": "1",
+  "name": "April 24 ストレリチア",
+  "description": "",
+  "attributes": [
+    {
+      "value": "4",
+      "trait_type": "月"
+    },
+    {
+      "value": "24",
+      "trait_type": "日"
+    },
+    {
+      "value": "気取った恋",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "ストレリチア",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

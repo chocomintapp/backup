@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVAfHV6ymuk9QhL7Tmk52YmLA3eL3Wp4A8wsDe7yU4SeG/nft.JPG",
+  "nftContractAddress": "0xd694f3940c4b1d1f056f7366183861f419b9dca7",
+  "animationUrl": "",
+  "tokenId": 230,
+  "chainId": "1",
+  "name": "January 2 タケ",
+  "description": "",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "月"
+    },
+    {
+      "value": "2",
+      "trait_type": "日"
+    },
+    {
+      "value": "高い言葉",
+      "trait_type": "花言葉"
+    },
+    {
+      "value": "タケ",
+      "trait_type": "花"
+    }
+  ],
+  "minted": "✅"
+}

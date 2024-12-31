@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSuFAEN7iG7uDE3gcpr8qmxSd7aYjpaox2qkmBkZ2PCyK/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 291,
+  "chainId": "1",
+  "name": "YUIMARU",
+  "description": "Collaboration work with Yimaru\nI'm dragging a certain person...\n@Yuimaru_Illust\nhttps://lit.link/Yuimaru\n■ゆいまる\nゆぃまるちゃんとのコラボ作品♪\nとある人を引きずっています…\n@Yuimaru_Illust\nhttps://lit.link/Yuimaru",
+  "attributes": [
+    {
+      "value": "magamaga",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile of room",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Straight-Brown",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Destructive ray",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Foodie-WBW",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "ICCHI",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "Bunny-Black",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}

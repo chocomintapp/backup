@@ -1,0 +1,44 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaT6aMq6oL2YrZHNrxon29xufWgDNogMkKzGMq7ukxVZo/nft.png",
+  "tokenId": 119,
+  "description": "",
+  "nftContractAddress": "0xa3504b583db9090d46bb3c97e04eae5e61e3dfce",
+  "animationUrl": "",
+  "chainId": "1",
+  "name": "Curvy Mom #119",
+  "minted": "",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mwah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Knit Dress"
+    },
+    {
+      "trait_type": "Clothing Color",
+      "value": "Light Gray"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Lemon Slice"
+    }
+  ]
+}

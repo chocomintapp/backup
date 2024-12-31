@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaZDQNrYf3avMkph8Mq4VcjdAnjJ5NzEjE3YyixeukNv5/nft.jpg",
+  "nftContractAddress": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "animationUrl": "https://ipfs.io/ipfs/QmV1Jbu6JyxK45PuhNHn2ynauUskDceDMf24unEYbQxgVP/nft.mp4",
+  "tokenId": 756,
+  "chainId": "1",
+  "name": "THE JEWEL #756",
+  "description": "THE JEWEL NFT",
+  "attributes": [
+    {
+      "value": "onyx",
+      "trait_type": "Jewel"
+    },
+    {
+      "value": "gold",
+      "trait_type": "Control device"
+    }
+  ]
+}

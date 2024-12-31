@@ -1,0 +1,32 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZguh5Hj8bjBrAiXCEqZd3XyTeH16XLQrE27stTcCEcEn/nft.png",
+  "nftContractAddress": "0xed1c5ea2bb008b0d37edc0300b2bdb85de6063ea",
+  "animationUrl": "",
+  "tokenId": 76,
+  "chainId": "1",
+  "name": "Natálka",
+  "description": "He is one of the AlternativeVerth, which was manifested when a contractor appeared in Alternative 7.Alternative7に契約者が現れた事がきっかけとなり顕現した、AlternativeVerthの一人。",
+  "attributes": [
+    {
+      "value": "shigeru",
+      "trait_type": "skin"
+    },
+    {
+      "value": "normal_cyan_star",
+      "trait_type": "eye"
+    },
+    {
+      "value": "lpurple03",
+      "trait_type": "hairfront"
+    },
+    {
+      "value": "mars_ear",
+      "trait_type": "planet"
+    },
+    {
+      "value": "Pegasus",
+      "trait_type": "Nearest constellation"
+    }
+  ],
+  "minted": "✅"
+}

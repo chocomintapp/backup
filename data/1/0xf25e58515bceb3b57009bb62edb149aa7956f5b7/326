@@ -1,0 +1,59 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW4SfswAo3gmZ4ZNiELFSGb9Wx45KrrZA4VZUVf7jdErc/nft.png",
+  "nftContractAddress": "0xf25e58515bceb3b57009bb62edb149aa7956f5b7",
+  "animationUrl": "",
+  "tokenId": 326,
+  "chainId": "1",
+  "name": "SATSUKI",
+  "description": "■サツキ",
+  "attributes": [
+    {
+      "value": "Ninja3-Pastel",
+      "trait_type": "Backgroud"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Facepaint"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Edo-wig",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Surprised-Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Oiran-kabukicho",
+      "trait_type": "Body"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Hairpin"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Orochi-drunk",
+      "trait_type": "drag-item"
+    },
+    {
+      "value": "NONE",
+      "trait_type": "Headitem"
+    },
+    {
+      "value": "Human",
+      "trait_type": "TYPE"
+    }
+  ]
+}
