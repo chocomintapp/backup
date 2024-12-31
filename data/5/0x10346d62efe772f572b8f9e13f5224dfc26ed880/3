@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPNcJDDMZ2ptg5VXTczhSLMAXLHy1mKv8NVm8vLZsQN3H/nft.png",
+  "nftContractAddress": "0x10346d62efe772f572b8f9e13f5224dfc26ed880",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "5",
+  "name": "高野テスト３",
+  "description": "そしてこれも高野テストです",
+  "attributes": []
+}

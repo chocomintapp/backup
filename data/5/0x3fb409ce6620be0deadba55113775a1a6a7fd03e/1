@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma7TVfMG5qiUEkRVXUwBbUDU9VVw7yVy1KWRFkv9TDAcM/nft.png",
+  "nftContractAddress": "0x3fb409ce6620be0deadba55113775a1a6a7fd03e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "テスト01",
+  "description": "あいうえお",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "Shiberu",
+      "trait_type": "Type"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdMG5rWjG5CLMiuyumBrcNvSuMT7QXD55UqWSmrT3YfN5/nft.png",
+  "nftContractAddress": "0x593be1ab287ea5ef6f0a07a1724ecfb1593238fc",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "mt #1",
+  "description": "mt #1",
+  "attributes": []
+}

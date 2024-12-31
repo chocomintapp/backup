@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNRForUGdsxA79JRMH5jjjK6Afbw9tLJm4bV2f4zchs1t/nft.png",
+  "nftContractAddress": "0xcfa3ca5922acb696d1f4ecc6fe8a40797a92223b",
+  "animationUrl": "",
+  "tokenId": 10,
+  "chainId": "5",
+  "name": "Item-4",
+  "description": "レアリティ：★★★★",
+  "attributes": [
+    {
+      "value": "4",
+      "trait_type": "Rarity"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "",
+  "nftContractAddress": "0x10346d62efe772f572b8f9e13f5224dfc26ed880",
+  "animationUrl": "https://ipfs.io/ipfs/QmNSPUZ3woA8WNNpqJQs2GuSGN3jLgDDqfSV4xDSTinEzu/nft.gif",
+  "tokenId": 5,
+  "chainId": "5",
+  "name": "POC gif版",
+  "description": "",
+  "attributes": []
+}

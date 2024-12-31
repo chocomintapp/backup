@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSmFzT1kQky93jvSo4GnroFPMrSb9G5Z4GPUsyr6pbopk/nft.jpeg",
+  "nftContractAddress": "0x47bb4bce05c254c8f930d6837caa32b48c0acd5a",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "first",
+  "description": "freedom",
+  "attributes": [
+    {
+      "value": "200",
+      "trait_type": "choco"
+    },
+    {
+      "value": "500",
+      "trait_type": "sweet"
+    }
+  ]
+}

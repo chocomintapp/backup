@@ -1,0 +1,16 @@
+{
+  "image": "",
+  "nftContractAddress": "0x2945b6efca2006e6f44309a93a0a3b0abda48ac3",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "test",
+  "description": "test",
+  "minted": "",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

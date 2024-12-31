@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSZHQkAWSZv2mw9bAEZ7LaBrDsYqtWXf15FVs3HwgE8Xm/nft.jpg",
+  "nftContractAddress": "0xc42549e191cbc8cef253214aa3a4c719e1fb6725",
+  "animationUrl": "https://ipfs.io/ipfs/QmSZHQkAWSZv2mw9bAEZ7LaBrDsYqtWXf15FVs3HwgE8Xm/nft.jpg",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "aa",
+  "description": "sa",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

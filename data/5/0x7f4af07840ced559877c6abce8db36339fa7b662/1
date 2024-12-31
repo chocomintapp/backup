@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ1VjWko1yXndXNdWSW1wyup9M5PdofnPqjXHb6asi5fN/nft.png",
+  "nftContractAddress": "0x7f4af07840ced559877c6abce8db36339fa7b662",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "テストしてます",
+  "description": "By mycon\n6月22日　NFT発行テスト\n\n▼権利内容 ・せかビーでワインを飲める権利 ・チケット権利の販売権（二次販売） ・NFT保有者限定のコミュニティへの参加権（マル秘情報の提供等） ※作品所有者が、NFTデザインを使用しグッズ制作/販売/配布を行う行為は禁止といたします。",
+  "attributes": [
+    {
+      "value": "白",
+      "trait_type": "背景"
+    },
+    {
+      "value": "黒",
+      "trait_type": "作品"
+    }
+  ]
+}

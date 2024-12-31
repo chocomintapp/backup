@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmayTWbdKfxR7omx5gtqTjnk5ox7WwvxFr77rwNkYQdZRQ/nft.jpg",
+  "nftContractAddress": "0xc6a9e31896ef1913930c089bf4f73c3e23eadddd",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "5",
+  "name": "omusugi",
+  "description": "noriganimai",
+  "attributes": [
+    {
+      "value": "sio",
+      "trait_type": "nori"
+    }
+  ]
+}

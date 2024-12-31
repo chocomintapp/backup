@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmemEohV9BV9MEj7trNbQWXJNVzmcLagTTEZTUv4fWKWjq/nft.png",
+  "nftContractAddress": "0x63456668b4a8b53398a6caf1f2b53f66a1d89480",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "TEST1",
+  "description": "温泉のアイコン（フリー素材）",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": "✅"
+}

@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNpmkDvMtpeGtYgAoUi1Unp3dZ4Fw8banY4NSvFiBk8do/nft.jpg",
+  "nftContractAddress": "0xc13845ae12bde2d6c672e840fceb4de69bbb6fb2",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "DAISUKE",
+  "description": "My PFP",
+  "attributes": [],
+  "minted": ""
+}

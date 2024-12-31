@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPvnH1fN1ip3bqrJDuQqZ1eiHgKpYJYGYEqw4f3ixPiGb/nft.mp4",
+  "nftContractAddress": "0x295d4b567d40944607302fd806f7b38d70190f3b",
+  "animationUrl": "https://ipfs.io/ipfs/QmPvnH1fN1ip3bqrJDuQqZ1eiHgKpYJYGYEqw4f3ixPiGb/nft.mp4",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "test",
+  "description": "test",
+  "attributes": []
+}

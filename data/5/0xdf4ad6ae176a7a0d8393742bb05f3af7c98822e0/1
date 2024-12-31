@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSJ1nkaMCaLuD9NGKPoD2ZXRNbMNZSCgWkoDgB5xKhJYF/nft.jpg",
+  "nftContractAddress": "0xdf4ad6ae176a7a0d8393742bb05f3af7c98822e0",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "MCS",
+  "description": "実験",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

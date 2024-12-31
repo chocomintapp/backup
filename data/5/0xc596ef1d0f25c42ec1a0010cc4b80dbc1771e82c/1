@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUtbhVdhrivdUi1VeqoP8D3ju8ZeJaNU1TSkcRbENnL9X/nft.jpg",
+  "nftContractAddress": "0xc596ef1d0f25c42ec1a0010cc4b80dbc1771e82c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "test",
+  "description": "test",
+  "attributes": [
+    {
+      "value": "ipfs://QmagAbt2kGSWKbKcu1VTtTN68XXLjKV4Zt9ezwxpLzSDie",
+      "trait_type": "glb_r"
+    },
+    {
+      "value": "ipfs://QmagAbt2kGSWKbKcu1VTtTN68XXLjKV4Zt9ezwxpLzSDie",
+      "trait_type": "glb_l"
+    }
+  ]
+}

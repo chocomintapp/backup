@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX4J3NFTxXf42MEzPhPYvDeGyyy2a1wVJefKKibkA2GNp/nft.PNG",
+  "nftContractAddress": "0x21606f48c7f53882bf75d30ec616a4167143decc",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "neko",
+  "description": "",
+  "minted": "✅",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "1"
+    }
+  ]
+}

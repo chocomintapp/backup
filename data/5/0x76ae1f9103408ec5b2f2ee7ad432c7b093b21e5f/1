@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWDo25iwCugYn5arsVYDVhmmNpcyYKwE22VgjwNn3xwHj/nft.png",
+  "nftContractAddress": "0x76ae1f9103408ec5b2f2ee7ad432c7b093b21e5f",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "hiratestテスト修正",
+  "description": "テストNFTです。",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "テスト"
+    },
+    {
+      "value": "aaaaa",
+      "trait_type": "オーナー協賛"
+    },
+    {
+      "value": "あああ",
+      "trait_type": "協賛２"
+    }
+  ]
+}

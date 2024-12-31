@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS9Sxq96SXHdjooAzAm5aRoyfPQia8RdSpWaeRXANVgdM/nft.png",
+  "nftContractAddress": "0x76ae1f9103408ec5b2f2ee7ad432c7b093b21e5f",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "5",
+  "name": "tesu",
+  "description": "tesu",
+  "attributes": [
+    {
+      "value": "bbb",
+      "trait_type": "aaa"
+    },
+    {
+      "value": "ddd",
+      "trait_type": "ccc"
+    }
+  ]
+}

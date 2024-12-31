@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaZDZdgAJ7hUkxmsFhb5gZaZ6fTFThzDjad7e9FLXJxTC/nft.png",
+  "nftContractAddress": "0xddea80eda9a14215e683fc978529dfd8d7304a0d",
+  "animationUrl": "https://ipfs.io/ipfs/QmWC9JTWUgzat8pgsgjq2ybbJGY5WHdJwTKk7vQe5JybzT/nft.glb",
+  "tokenId": 2,
+  "chainId": "5",
+  "name": "mgns002",
+  "description": "mgns002",
+  "attributes": []
+}

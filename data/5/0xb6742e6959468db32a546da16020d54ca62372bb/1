@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUnjZ55Gnr3krUYfLJgzKknFK9EnXJ48pWnRqSKSad1Tf/nft.jpg",
+  "nftContractAddress": "0xb6742e6959468db32a546da16020d54ca62372bb",
+  "animationUrl": "https://ipfs.io/ipfs/QmZmBiZpFmbLL6kaA3D1Z2VEvADTCoPTKTgUMHzJWV7GZy/nft.glb",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "bunta test",
+  "description": "test",
+  "attributes": [
+    {
+      "value": "test",
+      "trait_type": "test"
+    }
+  ]
+}

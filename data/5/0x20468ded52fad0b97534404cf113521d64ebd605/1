@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNpmkDvMtpeGtYgAoUi1Unp3dZ4Fw8banY4NSvFiBk8do/nft.jpg",
+  "nftContractAddress": "0x20468ded52fad0b97534404cf113521d64ebd605",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "DICEK",
+  "description": "MY-Profile",
+  "attributes": []
+}

@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRURVtfVXJxLrmnowFh95aM4qP8i2Su1MCtAt3Q15rvhy/nft.png",
+  "nftContractAddress": "0x294ca47c679dd22485559c39d4b73312996e088d",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "fdafdas",
+  "description": "fdafdasfdas",
+  "attributes": [
+    {
+      "value": "fda",
+      "trait_type": "fdas"
+    }
+  ],
+  "minted": ""
+}

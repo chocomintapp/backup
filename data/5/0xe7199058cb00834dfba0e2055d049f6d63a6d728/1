@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmcG1uhTo74vu9jqexgm1fKQ7C3rHPy9ejde5szpPwK6wv/nft.png",
+  "nftContractAddress": "0xe7199058cb00834dfba0e2055d049f6d63a6d728",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "test-tokenID-1",
+  "description": "これはテストだよ",
+  "attributes": [
+    {
+      "value": "丸い",
+      "trait_type": "頭"
+    }
+  ],
+  "minted": ""
+}

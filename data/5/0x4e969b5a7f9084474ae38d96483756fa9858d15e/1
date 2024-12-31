@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdU2v2VHANfkwLnzBZjuD97beKLGVnuDLLPeHU7X5kiQY/nft.png",
+  "nftContractAddress": "0x4e969b5a7f9084474ae38d96483756fa9858d15e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "gastest",
+  "description": "gastest",
+  "attributes": []
+}

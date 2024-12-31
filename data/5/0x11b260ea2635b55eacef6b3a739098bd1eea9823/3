@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmf5dDop1g6pSuWYen1QT2L6QJqvtksBcTyeLfuq4rXsrU/nft.jpeg",
+  "nftContractAddress": "0x11b260ea2635b55eacef6b3a739098bd1eea9823",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "5",
+  "name": "wine",
+  "description": "",
+  "attributes": []
+}

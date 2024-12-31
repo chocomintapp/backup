@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRS7L8PH3APY46PDMxVspMaSYh9KDcfy1Cny7VhWrpgUW/nft.jpg",
+  "nftContractAddress": "0x2945b6efca2006e6f44309a93a0a3b0abda48ac3",
+  "animationUrl": "https://ipfs.io/ipfs/QmdQjHEQaaRUC3FbV5PurzuLoK9oLtARuLKTbYa7qALqKN/nft.html",
+  "tokenId": 2,
+  "chainId": "5",
+  "name": "test2",
+  "description": "I want Japan to be a prosperous, peaceful and ever-evolving country.",
+  "attributes": [],
+  "minted": "✅"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "",
+  "nftContractAddress": "0x63456668b4a8b53398a6caf1f2b53f66a1d89480",
+  "animationUrl": "",
+  "tokenId": 6,
+  "chainId": "5",
+  "name": "TEST",
+  "description": "TEST",
+  "attributes": [
+    {
+      "value": "PPP",
+      "trait_type": "Ownership"
+    },
+    {
+      "value": "QQQ",
+      "trait_type": "Friendship"
+    }
+  ]
+}

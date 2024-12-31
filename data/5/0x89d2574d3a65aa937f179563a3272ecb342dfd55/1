@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQd31dYZCx5JHC33GtrxVjtM4ntcLpNzJSBs4HLLFEn16/nft.jpg",
+  "nftContractAddress": "0x89d2574d3a65aa937f179563a3272ecb342dfd55",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "jellyfish",
+  "description": "",
+  "attributes": []
+}

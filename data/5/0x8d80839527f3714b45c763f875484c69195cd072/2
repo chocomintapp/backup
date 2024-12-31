@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmY7sGx8LzzLrVFywBo4Db6Wuwh2ai1wKLXiGcGBYUTPh2/nft.png",
+  "nftContractAddress": "0x8d80839527f3714b45c763f875484c69195cd072",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "5",
+  "name": "fug",
+  "description": "fuga",
+  "attributes": [],
+  "minted": ""
+}

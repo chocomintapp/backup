@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWgv7JNJF7wG4nzp6MrgXa6dMR3qCro8z4EdfBXvCm727/nft.png",
+  "nftContractAddress": "0x67f000850ae6cacd3e46dbe27d9fb6fa5a5bbe22",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "Special",
+  "description": "First Edition",
+  "attributes": [
+    {
+      "value": "t",
+      "trait_type": "ttt"
+    }
+  ]
+}

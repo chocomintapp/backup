@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS6GrTdUvRz8NwehKnztCRYMVWgGr8j5fKQEaZYR6RGZ2/nft.jpg",
+  "nftContractAddress": "0xc4a7be405562b6fb9f8940b9432013b57f3e0551",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "TEST Shio Onigiri",
+  "description": "Japanese Salted Rice Balls on Test",
+  "attributes": [
+    {
+      "value": "TEST",
+      "trait_type": "kome"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS4B4SevNmNrKdBpHfe72o1mQrF7m9UTkfcjV9odgrinQ/nft.png",
+  "nftContractAddress": "0x1625ac085ddb2ed8ce0d5a6501f651556d89c60e",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "Tifa",
+  "description": "AITifa",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

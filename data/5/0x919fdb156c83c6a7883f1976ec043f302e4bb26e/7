@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPto9ZjTnmgxzHLhyRk3kftMM4sS6SpauLAZ6J45s2pyN/nft.png",
+  "nftContractAddress": "0x919fdb156c83c6a7883f1976ec043f302e4bb26e",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "5",
+  "name": "CV_Test7",
+  "description": "CV_Test7",
+  "attributes": []
+}

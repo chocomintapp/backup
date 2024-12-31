@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXoWiJqpbRZd6C2y8VQU3ebPLUKdfk5zYH5qP6phX1CmP/nft.jpeg",
+  "nftContractAddress": "0x4ad281ca6ba3feb07b491e93b5f241f358756931",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "Hello",
+  "description": "Let's momomommo",
+  "attributes": []
+}

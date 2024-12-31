@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX4wmSCoeNzaxTw5oLCUTMzuv5ujtJquZojUipvamN7E5/nft.png",
+  "nftContractAddress": "0x63456668b4a8b53398a6caf1f2b53f66a1d89480",
+  "animationUrl": "",
+  "tokenId": 3,
+  "chainId": "5",
+  "name": "TESTスプーン",
+  "description": "テスト",
+  "attributes": [],
+  "minted": "✅"
+}

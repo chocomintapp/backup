@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmS9Sxq96SXHdjooAzAm5aRoyfPQia8RdSpWaeRXANVgdM/nft.png",
+  "nftContractAddress": "0x76ae1f9103408ec5b2f2ee7ad432c7b093b21e5f",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "5",
+  "name": "TEST",
+  "description": "TEST",
+  "attributes": [
+    {
+      "value": "テスト",
+      "trait_type": "テスト"
+    },
+    {
+      "value": "丸々会社",
+      "trait_type": "オーナー協賛"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

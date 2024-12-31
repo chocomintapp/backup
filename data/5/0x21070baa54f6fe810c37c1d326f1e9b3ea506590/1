@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZspCHSZrSAoCnuXLatcPAjL7jHXsty1A2xHVUgT5p3kX/nft.png",
+  "nftContractAddress": "0x21070baa54f6fe810c37c1d326f1e9b3ea506590",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "hippo #1",
+  "description": "Hello hippo :)",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmX2AqxmgRKQb3MCPpCzxw86jxUZa2CtKYbZ4PDJdw2XXa/nft.png",
+  "nftContractAddress": "0x5166a1de2659671a6c6bd0756c18934b7d1fa825",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "Test",
+  "description": "TTTT",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "1"
+    }
+  ]
+}

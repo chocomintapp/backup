@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXTMSHP6saC1vpoJih1hNBK67T3r8qvfHTxFQSRQiXigF/nft.png",
+  "nftContractAddress": "0x3a04ce250abb7c25ab6e4bbe1a614d600693aff5",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "5",
+  "name": "banana",
+  "description": "iiiii",
+  "attributes": []
+}

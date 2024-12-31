@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUnjZ55Gnr3krUYfLJgzKknFK9EnXJ48pWnRqSKSad1Tf/nft.jpg",
+  "nftContractAddress": "0xb6742e6959468db32a546da16020d54ca62372bb",
+  "animationUrl": "https://ipfs.io/ipfs/QmSRDyW13zBAsX6ZmbmTCqvLdtQ5EXeQJEqbhqU3XYqXFX/nft.glb",
+  "tokenId": 2,
+  "chainId": "5",
+  "name": "test box",
+  "description": "text",
+  "attributes": []
+}

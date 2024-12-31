@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfXrm1vp9SxRJUhf3poZBXVEk1sS2FdoySnX8P1BQW2ox/nft.png",
+  "nftContractAddress": "0x63456668b4a8b53398a6caf1f2b53f66a1d89480",
+  "animationUrl": "",
+  "tokenId": 7,
+  "chainId": "5",
+  "name": "テスト１",
+  "description": "テスト",
+  "attributes": [
+    {
+      "value": "Ownership",
+      "trait_type": "Ownership"
+    },
+    {
+      "value": "Friendship",
+      "trait_type": "Friendship"
+    }
+  ]
+}

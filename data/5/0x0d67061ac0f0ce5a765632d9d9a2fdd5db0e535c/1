@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaGeBpiyGvNCEUKywTgNyrtCX8fKZMg5rhpo97M9DaCcn/nft.png",
+  "nftContractAddress": "0x0d67061ac0f0ce5a765632d9d9a2fdd5db0e535c",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "opai",
+  "description": "test",
+  "attributes": []
+}

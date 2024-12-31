@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUSi1yu1pQAh2Rc4ATBwojXhgqRLWqTwpSdyqgzV3vXdA/nft.jpg",
+  "nftContractAddress": "0xf1ca050e188741d075b55dae55858020232cd9ef",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "ueyama",
+  "description": "this is test",
+  "attributes": []
+}

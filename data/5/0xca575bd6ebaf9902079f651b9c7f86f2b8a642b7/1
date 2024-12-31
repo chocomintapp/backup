@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWdDfLQN4gcaLUPyFzdYbKxkFMCz2moR6yiChwSAywpiq/nft.gif",
+  "nftContractAddress": "0xca575bd6ebaf9902079f651b9c7f86f2b8a642b7",
+  "animationUrl": "https://ipfs.io/ipfs/QmWdDfLQN4gcaLUPyFzdYbKxkFMCz2moR6yiChwSAywpiq/nft.gif",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "mint#1",
+  "description": "#1",
+  "attributes": []
+}

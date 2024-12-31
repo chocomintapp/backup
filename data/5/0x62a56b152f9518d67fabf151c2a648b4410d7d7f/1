@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZESAVR2y8oPY4frngSq17PQyTedFQEPxYRs1f1Hzv7or/nft.jpg",
+  "nftContractAddress": "0x62a56b152f9518d67fabf151c2a648b4410d7d7f",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "Rabbit People Series2 #1",
+  "description": "ウサギ人間シリーズ２その１",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "HP"
+    },
+    {
+      "value": "1",
+      "trait_type": "MP"
+    },
+    {
+      "value": "10",
+      "trait_type": "STR"
+    }
+  ]
+}

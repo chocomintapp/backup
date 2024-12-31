@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdBpWznhbFdkfvxLxzEoBf8eZvTVN2LZbkFVfVia4PFV7/nft.jpeg",
+  "nftContractAddress": "0x01ab98f1c9260e57b992a0454dd6a9b6fb5ccfb5",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "おためし",
+  "description": "おためし",
+  "attributes": []
+}

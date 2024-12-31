@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc2t9Jzj2rYwWEuvHwSkSZSGCgG5WuLqJ5yURfgo8GTBk/nft.jpg",
+  "nftContractAddress": "0x2945b6efca2006e6f44309a93a0a3b0abda48ac3",
+  "animationUrl": "https://ipfs.io/ipfs/QmVjQnMytwsWegDK2TFHSDfpehnGLUsgpY7N3pgWksJ9eT/nft.html",
+  "tokenId": 5,
+  "chainId": "5",
+  "name": "The Sleeping Beauty #007",
+  "description": "I believe that equal knowledge and information is the key to peace.",
+  "attributes": []
+}

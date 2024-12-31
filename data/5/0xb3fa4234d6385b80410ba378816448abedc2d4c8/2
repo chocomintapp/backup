@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUhRn7RbZNMUbU2SUYdcLaTZ4eYZ5sBkggR2PcVU7YBj4/nft.png",
+  "nftContractAddress": "0xb3fa4234d6385b80410ba378816448abedc2d4c8",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "5",
+  "name": "Multichain",
+  "description": "",
+  "attributes": []
+}

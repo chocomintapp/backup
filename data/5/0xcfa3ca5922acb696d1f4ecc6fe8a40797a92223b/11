@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUDmTwWY34pdssTHiUr8yhrcm9Whj2BXdcWfQKxqaroXJ/nft.png",
+  "nftContractAddress": "0xcfa3ca5922acb696d1f4ecc6fe8a40797a92223b",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "5",
+  "name": "Itme-2",
+  "description": "レアリティ：★★",
+  "attributes": [
+    {
+      "value": "2",
+      "trait_type": "Rarity"
+    }
+  ]
+}

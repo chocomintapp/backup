@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaJ9Lzd51C1TN3GXVbqqX445EUKYHHkJKpaJKAtSeCKAX/nft.jpg",
+  "nftContractAddress": "0xc6a9e31896ef1913930c089bf4f73c3e23eadddd",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "onigiri",
+  "description": "gomashio",
+  "attributes": [
+    {
+      "value": "japan",
+      "trait_type": "nori"
+    },
+    {
+      "value": "niigata",
+      "trait_type": "kome"
+    }
+  ],
+  "minted": "✅"
+}

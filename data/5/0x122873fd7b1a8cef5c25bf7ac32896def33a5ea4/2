@@ -1,0 +1,24 @@
+{
+  "image": "https://ipfs.io/ipfs/QmctAPXani1sWWKmzbMTLsP43Wq9pt5UPVzvpBAMsY7iGp/nft.png",
+  "nftContractAddress": "0x122873fd7b1a8cef5c25bf7ac32896def33a5ea4",
+  "animationUrl": "",
+  "tokenId": 2,
+  "chainId": "5",
+  "name": "yamucha2",
+  "description": "yamuyamu",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": "月"
+    },
+    {
+      "value": "2",
+      "trait_type": "日"
+    },
+    {
+      "value": "無駄",
+      "trait_type": "花言葉"
+    }
+  ],
+  "minted": ""
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQd31dYZCx5JHC33GtrxVjtM4ntcLpNzJSBs4HLLFEn16/nft.jpg",
+  "nftContractAddress": "0xb7b255f131811ed43da0756f17e82939c6400ab5",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "jellyfish",
+  "description": "The aquarium I went to one day",
+  "attributes": []
+}

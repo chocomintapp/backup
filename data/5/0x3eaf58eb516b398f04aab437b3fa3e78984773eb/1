@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSiCe2gE2CywhZirowogaKv4gs2G4zG9mA3NN7UTeRxuU/nft.jpg",
+  "nftContractAddress": "0x3eaf58eb516b398f04aab437b3fa3e78984773eb",
+  "animationUrl": "https://ipfs.io/ipfs/QmPnmgyLFKv2wUj2nJhw3okUSDoG3M5TbVYEHFQr6KHYiQ/nft.mp4",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "みんなでスノボ",
+  "description": "みんなでスノボしてる姿をNFTにしてみた",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": ""
+}

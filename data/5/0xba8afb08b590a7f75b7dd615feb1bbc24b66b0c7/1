@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQ1jhzNs1cSUd1Lb9NGfRUUZupUpG3ZuSaR1ZMEWXQJyL/nft.jpg",
+  "nftContractAddress": "0xba8afb08b590a7f75b7dd615feb1bbc24b66b0c7",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "Something New",
+  "description": "Nothing to see here...",
+  "attributes": [
+    {
+      "value": "2023",
+      "trait_type": "Vintage"
+    }
+  ]
+}

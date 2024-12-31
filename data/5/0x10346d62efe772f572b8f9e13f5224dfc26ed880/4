@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQPh4aLC47o8GXRdmUqgbw8a84RCq5PduhAQXeQ8EwC6j/nft.png",
+  "nftContractAddress": "0x10346d62efe772f572b8f9e13f5224dfc26ed880",
+  "animationUrl": "",
+  "tokenId": 4,
+  "chainId": "5",
+  "name": "プロパティテスト",
+  "description": "これはプロパティテストです",
+  "attributes": [
+    {
+      "value": "value",
+      "trait_type": "プロパティ"
+    },
+    {
+      "value": "A",
+      "trait_type": "テスト"
+    },
+    {
+      "value": "4",
+      "trait_type": "中"
+    }
+  ]
+}

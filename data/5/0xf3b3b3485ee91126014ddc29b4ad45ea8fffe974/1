@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYk6x1n5nwByZpbwGkvE4j1AnTYyaEWqFbBBDErt76zao/nft.jpg",
+  "nftContractAddress": "0xf3b3b3485ee91126014ddc29b4ad45ea8fffe974",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "5",
+  "name": "Kitty",
+  "description": "Lovely Kitty",
+  "attributes": [
+    {
+      "value": "brown",
+      "trait_type": "color"
+    }
+  ]
+}
