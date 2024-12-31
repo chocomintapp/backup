@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVaCoLvsj32TZ9ixNbSFuuhguaaueKsa2Yjg12CsGmLqZ/nft.jpg",
+  "tokenId": 1,
+  "description": "noa1",
+  "nftContractAddress": "0x696a04f6bece8f9fe26464c5a120dd371afd24d5",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "noa1",
+  "attributes": []
+}

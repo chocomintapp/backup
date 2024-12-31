@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQghUx6GM1cPMsAZSBzxNdMUF5Z3pxEzsB4YkX9ybApGb/nft.jpg",
+  "tokenId": 1,
+  "description": "The advent of the king.",
+  "nftContractAddress": "0x305f5b9b2d248e479931925a1816309fd85eb40a",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "Bitcoin King"
+}

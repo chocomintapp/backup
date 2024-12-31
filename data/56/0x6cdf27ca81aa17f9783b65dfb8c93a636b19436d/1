@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qma1sRDf51Lc7icCcidtn9r9DPuvniHWAdDT7MRmvmhgBW/nft.png",
+  "tokenId": 1,
+  "description": "RITA's NFT",
+  "nftContractAddress": "0x6cdf27ca81aa17f9783b65dfb8c93a636b19436d",
+  "animationUrl": "https://ipfs.io/ipfs/Qma1sRDf51Lc7icCcidtn9r9DPuvniHWAdDT7MRmvmhgBW/nft.png",
+  "chainId": "56",
+  "name": "RITA"
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmfSKgE5XWiyMZL1aKR9JWme84gUAmKTwR7N6eXWrGNFqr/nft.jpg",
+  "tokenId": 1,
+  "description": "dear deer",
+  "nftContractAddress": "0x81a25531aed5a6e8f4648ebf798b5d7a6fd737c7",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "dear deer",
+  "attributes": [
+    {
+      "trait_type": "deer",
+      "value": "0.1bnb"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmU3DkeG12jxy2km2i9Zg4J5j7z3KRZGNSTCRinAGKP7gD/nft.jpg",
+  "tokenId": 1,
+  "description": "SAMURAI",
+  "nftContractAddress": "0x9ee03636641341677f9f1e29cc0eed252f7599c5",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "SAMURAI",
+  "attributes": []
+}

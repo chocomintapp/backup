@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQHt7Mnx3CTQ3XLD9jdANqS1hPUVX44FeE5uy2maQEZSs/nft.jpeg",
+  "tokenId": 3,
+  "description": "#3",
+  "nftContractAddress": "0x4bbb67faa8e122378a5100560588c261369991ed",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "sango",
+  "attributes": []
+}

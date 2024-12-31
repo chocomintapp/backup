@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXMnxgSaZjMDYPL1df1bSWvh9LpA94WHpjYnQukYgmPyx/nft.jpeg",
+  "tokenId": 1,
+  "description": "This is a sleeping dog who wear orange hat",
+  "nftContractAddress": "0x295b50454601c34f39e5c8746dc2ce208f623f56",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "Sleeping Dog with orange hat",
+  "attributes": [],
+  "minted": ""
+}

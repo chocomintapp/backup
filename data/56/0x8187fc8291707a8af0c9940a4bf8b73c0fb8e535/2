@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW52hoSUMkUfM5rjD5N1JeJscWd5FpcUkJXQvGiFKZ1HK/nft.jpeg",
+  "tokenId": 2,
+  "description": "zombie is coming",
+  "nftContractAddress": "0x8187fc8291707a8af0c9940a4bf8b73c0fb8e535",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "zombie",
+  "attributes": []
+}

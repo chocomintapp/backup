@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZzHavboMWZjyTVbWy9Y1x2wTfdJbreCAbw35o1jCd8k5/nft.png",
+  "tokenId": 2,
+  "description": "NFTs Puppets",
+  "nftContractAddress": "0x93f95572dc4618e53237e6fcf25e23ca2a767eaa",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "Puppets BR",
+  "attributes": [
+    {
+      "trait_type": "Quantity ",
+      "value": "1"
+    },
+    {
+      "trait_type": "Temporada ",
+      "value": "1"
+    }
+  ]
+}

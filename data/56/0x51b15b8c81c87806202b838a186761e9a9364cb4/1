@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdnSBa76kPpinEBZYV86qenmwAEAUCrZVYas8xRyc7NF9/nft.jpg",
+  "nftContractAddress": "0x51b15b8c81c87806202b838a186761e9a9364cb4",
+  "animationUrl": "https://ipfs.io/ipfs/QmdnSBa76kPpinEBZYV86qenmwAEAUCrZVYas8xRyc7NF9/nft.jpg",
+  "tokenId": 1,
+  "chainId": "56",
+  "name": "Juggle Puddle",
+  "description": "A juggle fills one drop at a time.",
+  "attributes": [
+    {
+      "value": "6",
+      "trait_type": "Rings"
+    },
+    {
+      "value": "Blue Boy",
+      "trait_type": "Special Guest"
+    },
+    {
+      "value": "Beginner",
+      "trait_type": "Mastery Level"
+    },
+    {
+      "value": "Swagging",
+      "trait_type": "Style"
+    }
+  ]
+}

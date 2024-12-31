@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQSL7N9JXkWMAnYdAFLbGZ6FJHFDFooU22giXUyUsCgha/nft.png",
+  "nftContractAddress": "0x344f16885b806358ca4d726c2599294797c687fc",
+  "animationUrl": "https://ipfs.io/ipfs/QmbywCFBXpwf91giSA7nVDQcfLL3kU6LeCJsydn4y8sMaX/nft.glb",
+  "tokenId": 33,
+  "chainId": "56",
+  "name": "PolygonLowGEN #33",
+  "description": "NFT Avatar Wearables NPC Project for the Open Metaverse",
+  "attributes": [
+    {
+      "value": "Container",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Sandalblack",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Camouflage",
+      "trait_type": "Lowerbody"
+    },
+    {
+      "value": "Tshirtwhite",
+      "trait_type": "Upperbody"
+    },
+    {
+      "value": "Necktiepink",
+      "trait_type": "Reversemark"
+    },
+    {
+      "value": "None",
+      "trait_type": "Suit"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Eye"
+    },
+    {
+      "value": "Bluelong",
+      "trait_type": "Hair"
+    }
+  ]
+}

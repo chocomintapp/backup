@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSJFjePFCK6isWLkxLgzoLpD8YByXtk2snppe3dcUfcbU/nft.png",
+  "tokenId": 170,
+  "description": "",
+  "nftContractAddress": "0xb09ce53c21059c6f5bf280f36336889d1cb8befe",
+  "animationUrl": "https://ipfs.io/ipfs/QmSJFjePFCK6isWLkxLgzoLpD8YByXtk2snppe3dcUfcbU/nft.png",
+  "chainId": "56",
+  "name": "ONE PUNK Dick",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

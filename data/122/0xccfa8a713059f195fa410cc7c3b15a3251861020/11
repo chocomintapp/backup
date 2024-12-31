@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmazTvZu8HoqipYB1YTJVHcg76zFLzd7agkqPqjnS5bBKs/nft.png",
+  "nftContractAddress": "0xccfa8a713059f195fa410cc7c3b15a3251861020",
+  "animationUrl": "",
+  "tokenId": 11,
+  "chainId": "122",
+  "name": "FUC#011",
+  "description": "The Fuxels University Club (FUC) is a collection of 100 NFTs - unique digital collectibles living on the Fuse Network. Each FUC acts as a Discord Membership Pass and grants access to the Fuse University, a place where members can learn how to use and take adventages on the Fuse Network by weekly online classes and exclusive digital content, as well as exclusive OATs and POAPs for assisting each class. Future benefits will be unlocked according the FUC Roadmap.",
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "O.G. Pass",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Student",
+      "trait_type": "Role"
+    }
+  ]
+}

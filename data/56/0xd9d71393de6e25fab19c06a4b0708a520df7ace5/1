@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaJmPJbinDAYnjFPUmtfND4TtftwHbcBPFPtKVzPwq1dP/nft.jpg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0xd9d71393de6e25fab19c06a4b0708a520df7ace5",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "sagawa",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

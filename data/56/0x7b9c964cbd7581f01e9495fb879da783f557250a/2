@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaW4qfxvWeRdj7WNqTar2peQ6459dU1ATyJX6uQYVeTse/nft.gif",
+  "nftContractAddress": "0x7b9c964cbd7581f01e9495fb879da783f557250a",
+  "animationUrl": "https://ipfs.io/ipfs/QmaW4qfxvWeRdj7WNqTar2peQ6459dU1ATyJX6uQYVeTse/nft.gif",
+  "tokenId": 2,
+  "chainId": "56",
+  "name": "Boobies!",
+  "description": "Boobies, Boobies, Booooooobies! A PrincePog NFT",
+  "attributes": [
+    {
+      "value": "APY-1,000,000,000,000,000,000,000,000,000.00% ",
+      "trait_type": "A passive roi in the form of.... You guessed it, Boobies!"
+    }
+  ]
+}

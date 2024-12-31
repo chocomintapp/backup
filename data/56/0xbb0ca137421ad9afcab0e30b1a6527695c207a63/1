@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWX7UpViao5VYoyhiNNpWSFdQEUfqns317HLwhSv9CLHK/nft.png",
+  "nftContractAddress": "0xbb0ca137421ad9afcab0e30b1a6527695c207a63",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "56",
+  "name": "generative by SAI #1",
+  "description": "generative by SAI Changed",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

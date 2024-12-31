@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZbAb9ieQ5yquaWcGga7PYMGSuguaDgDqwZrs4Nui1mq6/nft.png",
+  "tokenId": 973,
+  "description": "With the title Abaporu, which means \"aba\" and \"poru\" - \"man who eats\", in Tupi-Guarani, Tarsila do Amaral's painting, dated 1928, is the most valuable painting in Brazilian art.\nWe chose this NFT to close our collection because it is a notorious work of art, in many ways: the artist, his relationships, his historical moment and above all for translating the feeling of Brazilianness.\n",
+  "nftContractAddress": "0xfd3794b39890d5f1ce70835918ae5fbf3d647259",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "Abaporu #73",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "73"
+    },
+    {
+      "trait_type": "Season",
+      "value": "1"
+    }
+  ]
+}

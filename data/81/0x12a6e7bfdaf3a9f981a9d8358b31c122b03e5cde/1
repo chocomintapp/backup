@@ -1,0 +1,15 @@
+{
+  "image": "",
+  "tokenId": 1,
+  "description": "test-shibuya",
+  "nftContractAddress": "0x12a6e7bfdaf3a9f981a9d8358b31c122b03e5cde",
+  "animationUrl": "",
+  "chainId": "81",
+  "name": "test-shibuya",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

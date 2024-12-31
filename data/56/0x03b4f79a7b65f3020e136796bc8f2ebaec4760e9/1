@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZn2XWWXpo3Y3CkFKd8LxLqELj2mqLwDQXopCeXjEC5dn/nft.png",
+  "tokenId": 1,
+  "description": "It is a rock of color that imaged BTC",
+  "nftContractAddress": "0x03b4f79a7b65f3020e136796bc8f2ebaec4760e9",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "#BTCrock ",
+  "minted": ""
+}

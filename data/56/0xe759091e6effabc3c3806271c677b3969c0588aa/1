@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNYS4VBR8FwqSyTFAejj733hiGZjGc1VTfDXattPQq4rs/nft.jpeg",
+  "tokenId": 1,
+  "description": "サザエさんとドラえもんとバカボンのパパの合成",
+  "nftContractAddress": "0xe759091e6effabc3c3806271c677b3969c0588aa",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "サザエぼん"
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmdxP985a573waFRtZNs7k3hLLSfvqntBxGCnQejS8M9zt/nft.jpg",
+  "tokenId": 1,
+  "description": "I made it",
+  "nftContractAddress": "0x3e3dbcb4fd15f176b200d962203d73c9a02ac074",
+  "animationUrl": "https://ipfs.io/ipfs/QmdxP985a573waFRtZNs7k3hLLSfvqntBxGCnQejS8M9zt/nft.jpg",
+  "chainId": "56",
+  "name": "face01"
+}

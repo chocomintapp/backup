@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNnUj4NYH7nLNBHC6hDrw4rWYmn4Wj53gZv2Ha1ihkbhW/nft.jpg",
+  "tokenId": 2,
+  "description": "ifrit monster god",
+  "nftContractAddress": "0xe21a9bc70cff0bc126379120615ded53a2c04be4",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "ifrit",
+  "attributes": []
+}

@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/Qme22oZcoVT6ykc8MYsdgZKgtuCBDjDxhbnDoaxQYth4Bj/nft.jpg",
+  "tokenId": 1,
+  "description": "A simple watch",
+  "nftContractAddress": "0xd54ff7c640fc39727d7ec58e20ae92444e0f8b53",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "watch"
+}

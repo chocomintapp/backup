@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUERSu8t3nGXnpS5FcvGQcuFG1xWwUgPmg8qUP2Ar628B/nft.png",
+  "tokenId": 865,
+  "description": "The Portrait of Adele Bloch-Bauer I, also known as “The Golden Lady”, employed long years of Gustav Klimt until it was completed in 1907.\nThe work was once one of the most expensive paintings in history, no wonder, it represents a portrait of a time of splendor in Paris and Vienna.\nOur NFT pays tribute to the beauty of the work, the delicacy of the details and to one of the greatest painters of all time.\n",
+  "nftContractAddress": "0xfd3794b39890d5f1ce70835918ae5fbf3d647259",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "The Portrait of Adele Bloch-Bauer I #65",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "65"
+    },
+    {
+      "trait_type": "Season",
+      "value": "1"
+    }
+  ]
+}

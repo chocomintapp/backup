@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZoKg4ThaX1D36vjwcicC7XVwQ5iFWpheHMdVggQvdMP6/nft.jpeg",
+  "nftContractAddress": "0x6fe385c02b238d56da366c7589c189f56e30c5d9",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "56",
+  "name": "DOG",
+  "description": "Surprise",
+  "attributes": [],
+  "minted": ""
+}

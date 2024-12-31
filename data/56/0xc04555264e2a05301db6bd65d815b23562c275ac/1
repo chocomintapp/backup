@@ -1,0 +1,15 @@
+{
+  "image": "",
+  "nftContractAddress": "0xc04555264e2a05301db6bd65d815b23562c275ac",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "56",
+  "name": "Djurgården IF Clock.",
+  "description": "Awsome things can happen.",
+  "attributes": [
+    {
+      "value": "1",
+      "trait_type": ""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZrcVz64aSNdTMmaFiYxYRmQBqac1EEbrn2vq6CdZjZeN/nft.png",
+  "nftContractAddress": "0x51b15b8c81c87806202b838a186761e9a9364cb4",
+  "animationUrl": "https://ipfs.io/ipfs/QmZrcVz64aSNdTMmaFiYxYRmQBqac1EEbrn2vq6CdZjZeN/nft.png",
+  "tokenId": 2,
+  "chainId": "56",
+  "name": "Jogi Productions",
+  "description": "The dream lives on",
+  "attributes": [
+    {
+      "value": "Logo",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Juggler",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "Freedom",
+      "trait_type": "Dream"
+    }
+  ]
+}

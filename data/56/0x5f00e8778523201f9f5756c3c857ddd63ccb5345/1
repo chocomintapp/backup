@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRERvfMGBDpQ9CTNjjP46RdnBtRKDaMESVFVFcDFD5TeN/nft.png",
+  "tokenId": 1,
+  "description": "BNBtest",
+  "nftContractAddress": "0x5f00e8778523201f9f5756c3c857ddd63ccb5345",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "BNBtest"
+}

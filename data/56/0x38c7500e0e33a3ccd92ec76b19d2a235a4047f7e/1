@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc3n6YJbRmWt1EbJVJzT8i6rrBtY2ExsLh1xqrUF3HJH6/nft.jpg",
+  "tokenId": 1,
+  "description": "My 1st NFT",
+  "nftContractAddress": "0x38c7500e0e33a3ccd92ec76b19d2a235a4047f7e",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "Ajisai",
+  "attributes": []
+}

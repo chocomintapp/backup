@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeWppD5Z5mdtFy3EcgYdJvBBzebHqp2oW7u3kq42aKef1/nft.jpeg",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x994b19a6a041ee81f1bcd68b06eeb66ad9d8cdaf",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "Chick",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

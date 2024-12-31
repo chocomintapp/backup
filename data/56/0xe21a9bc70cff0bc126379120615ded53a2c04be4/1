@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmTUNrHBuw2GFnJX5pb2r7VCQbUxAC6wha2SG5zuEMNcV3/nft.jpg",
+  "tokenId": 1,
+  "description": "japan",
+  "nftContractAddress": "0xe21a9bc70cff0bc126379120615ded53a2c04be4",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "Assassin",
+  "attributes": []
+}

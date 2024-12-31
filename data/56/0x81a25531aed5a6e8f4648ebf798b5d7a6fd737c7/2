@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZ9PKsjqA1m1VmVwgMsb84DamLcQbbSGbxaubJCfaiTg3/nft.jpg",
+  "tokenId": 2,
+  "description": "",
+  "nftContractAddress": "0x81a25531aed5a6e8f4648ebf798b5d7a6fd737c7",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "nomad tourist",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "0.1bnb"
+    }
+  ]
+}

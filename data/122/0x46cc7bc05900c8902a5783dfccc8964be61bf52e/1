@@ -1,0 +1,16 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPf8bkZXkBYtWLexKMxQRAEP1jEUESbDDYdt7KFcw9KSb/nft.png",
+  "nftContractAddress": "0x46cc7bc05900c8902a5783dfccc8964be61bf52e",
+  "animationUrl": "https://ipfs.io/ipfs/QmSP37anFWBZewnbejFbNuwViksyqKMTcKCkV8kz762GQQ/nft.webm",
+  "tokenId": 1,
+  "chainId": "122",
+  "name": "InfraRedLove",
+  "description": "We make love, we give radiation♥",
+  "attributes": [
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ],
+  "minted": ""
+}

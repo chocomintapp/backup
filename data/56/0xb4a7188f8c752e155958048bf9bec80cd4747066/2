@@ -1,0 +1,28 @@
+{
+  "image": "https://ipfs.io/ipfs/Qmc7Eq5MQxegNadTri74mNoJL5LQpsfDFwuzoFjp2Ys8Np/nft.png",
+  "tokenId": 2,
+  "description": "On this day we will celebrate world wide Jazz Day.",
+  "nftContractAddress": "0xb4a7188f8c752e155958048bf9bec80cd4747066",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "Jazz Day",
+  "attributes": [
+    {
+      "trait_type": "purple",
+      "value": "1"
+    },
+    {
+      "trait_type": "music",
+      "value": "1"
+    },
+    {
+      "trait_type": "april",
+      "value": "1"
+    },
+    {
+      "trait_type": "30",
+      "value": "1"
+    }
+  ],
+  "minted": ""
+}

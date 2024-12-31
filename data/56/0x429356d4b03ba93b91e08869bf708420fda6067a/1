@@ -1,0 +1,11 @@
+{
+  "image": "https://ipfs.io/ipfs/QmQR9HVrNR2cw8ZppfTHUPQHRXvyTbYND5eVi945MAwry3/nft.png",
+  "nftContractAddress": "0x429356d4b03ba93b91e08869bf708420fda6067a",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "56",
+  "name": "yay!",
+  "description": "yaaa",
+  "attributes": [],
+  "minted": ""
+}

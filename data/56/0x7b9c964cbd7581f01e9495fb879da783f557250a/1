@@ -1,0 +1,31 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbG7PxgMB1LVQ9r7wkcT6CLT8JdLGKKcPNws3VVPPFPC5/nft.png",
+  "nftContractAddress": "0x7b9c964cbd7581f01e9495fb879da783f557250a",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "56",
+  "name": "Bob's Big Balls",
+  "description": "#1 from the exclusive collection, Deez Nuts, brought to by the Dixel NFT Co. Artist name, PrincePog.",
+  "attributes": [
+    {
+      "value": "3\"",
+      "trait_type": "Girth"
+    },
+    {
+      "value": "8\"",
+      "trait_type": "Length"
+    },
+    {
+      "value": "8/10",
+      "trait_type": "Hardness"
+    },
+    {
+      "value": "8/10",
+      "trait_type": "Stamina"
+    },
+    {
+      "value": "32",
+      "trait_type": "Age"
+    }
+  ]
+}

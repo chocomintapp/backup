@@ -1,0 +1,27 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbqmvXWLMMq1svSmMsDmPmi4n7w4qV3fHKcvCH1JB71EU/nft.png",
+  "tokenId": 1,
+  "description": "",
+  "nftContractAddress": "0x52cf7ade93c07d4cd4907fefc3db992aa4efe7bd",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "ikeike",
+  "attributes": [
+    {
+      "trait_type": "2",
+      "value": "2"
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ]
+}

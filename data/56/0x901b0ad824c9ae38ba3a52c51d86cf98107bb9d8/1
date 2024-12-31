@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbmqnuxixTLcPxLtkraGAD9StuCyn7o4WzKUYCTRbsaRt/nft.png",
+  "tokenId": 1,
+  "description": "Even Androids Get Angry About The Society Today.",
+  "nftContractAddress": "0x901b0ad824c9ae38ba3a52c51d86cf98107bb9d8",
+  "animationUrl": "https://ipfs.io/ipfs/QmcXtkfKiqHj8ZxMDWRRJnXacDQQ6s5EX6AsS9tSVRvTVw/nft.gif",
+  "chainId": "56",
+  "name": "Droid Rage",
+  "attributes": [
+    {
+      "trait_type": "Power",
+      "value": "300ug"
+    }
+  ]
+}

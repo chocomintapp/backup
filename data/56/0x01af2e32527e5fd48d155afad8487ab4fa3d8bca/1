@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVBBEnKifCgjeELmus88rz4p786TmdEP4Z974N7F84fSH/nft.png",
+  "tokenId": 1,
+  "description": "sample",
+  "nftContractAddress": "0x01af2e32527e5fd48d155afad8487ab4fa3d8bca",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "luckystrike"
+}

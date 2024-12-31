@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUPTW21L4k3QwNMuwpED4TrPgmRB96cBkSF5E3bbtkwqj/nft.png",
+  "tokenId": 28,
+  "description": "It couldn't be different, the most famous painting in the world in our first NFT!\nOur re-reading is a joke, with due respect to the work of Leonardo da Vinci, made with simple lines, basic geometric shapes, but that when looking at the original work, without leaving any doubts about what it is about, sharpening the curiosity to know more about her",
+  "nftContractAddress": "0xfd3794b39890d5f1ce70835918ae5fbf3d647259",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "Mona Lisa #28",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "28"
+    },
+    {
+      "trait_type": "Season",
+      "value": "1"
+    }
+  ],
+  "minted": "✅"
+}

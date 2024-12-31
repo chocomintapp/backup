@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmZdGzzeWHof4a5pU5qe2Xwz8kvv1qLR8Wy2bs98fwB1kv/nft.jpeg",
+  "tokenId": 1,
+  "description": "shib1",
+  "nftContractAddress": "0xd8c43d7207b46f70d81ae1be703ed8614e5969e9",
+  "animationUrl": "",
+  "chainId": "81",
+  "name": "shibutest1"
+}

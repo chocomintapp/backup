@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPfVuz5Z51y3jjtUfx4NcrS9iseQsMy2acHu6dXLwsbnT/nft.jpg",
+  "tokenId": 1,
+  "description": "kappa is Japanmonster",
+  "nftContractAddress": "0x8187fc8291707a8af0c9940a4bf8b73c0fb8e535",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "kappa",
+  "attributes": []
+}

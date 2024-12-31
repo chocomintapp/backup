@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmYVv9FQRAbv8Cy9cEAR2c95TN6VNLf8pJRiDYTeukvebm/nft.jpg",
+  "tokenId": 1,
+  "description": "Created based on inspiration from favorite singer",
+  "nftContractAddress": "0x984d3386465856e67636eb2304be77d22ed2d710",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "Lovely Grs 1",
+  "attributes": []
+}

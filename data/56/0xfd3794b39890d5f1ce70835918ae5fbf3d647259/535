@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUBxo9CgKMxVQGK7qzbrbiA5BTJTvmzB4Z1RKDb5Ro9U2/nft.png",
+  "tokenId": 535,
+  "description": "Van Gogh's Self-Portrait of September 1889, where he appears with his wavy hair and beard, amplified in the hallucinatory arabesques in the background, was considered by great painters as \"absolutely fantastic\" and many historians believe it to have been his last self-portrait.\nOur NFT honors this misunderstood genius with this painting, which, as he said in letters to his brother Theo, appears with much calmer facial expressions but with the same insecure appearance as before.\n",
+  "nftContractAddress": "0xfd3794b39890d5f1ce70835918ae5fbf3d647259",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "Self-Portrait #35",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "35"
+    },
+    {
+      "trait_type": "Season",
+      "value": "1"
+    }
+  ]
+}

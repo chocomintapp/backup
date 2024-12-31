@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWBdmfjMpj7wNQFKAUcztTTzrKvHu9A8hqN6aq42i3n1t/nft.png",
+  "tokenId": 256,
+  "description": "Leonardo da Vinci managed to achieve perfection in his design, placing man at the center of the world and as the measure of all things.\nOur NFT certainly doesn't have the same pretension, after all our models are not exactly classic beauty references, but with a touch of grace, we pay a small tribute to the great man who signed this and many other important works for humanity.\n",
+  "nftContractAddress": "0xfd3794b39890d5f1ce70835918ae5fbf3d647259",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "Vitruvian Man #56",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "56"
+    },
+    {
+      "trait_type": "Season",
+      "value": "1"
+    }
+  ],
+  "minted": "✅"
+}

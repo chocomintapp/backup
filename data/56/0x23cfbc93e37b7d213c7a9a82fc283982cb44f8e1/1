@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmXZakyuEiiBpiUNLAskctjZZDyZanozRHaAkKC3sPvxQT/nft.jpg",
+  "nftContractAddress": "0x23cfbc93e37b7d213c7a9a82fc283982cb44f8e1",
+  "animationUrl": "",
+  "tokenId": 1,
+  "chainId": "56",
+  "name": "kontes",
+  "description": "test",
+  "attributes": [
+    {
+      "value": "pink",
+      "trait_type": "color"
+    },
+    {
+      "value": "",
+      "trait_type": ""
+    }
+  ]
+}

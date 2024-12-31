@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmbkgAzZVcSVHCqDMo5T6zibFTRST3tovJ6crErqdjToZR/nft.PNG",
+  "tokenId": 1,
+  "description": "It will be a prototype.",
+  "nftContractAddress": "0xbd2b9dde48bc8ce56e4726e9e4dea07c9ca02f99",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "Flower Dolphin"
+}

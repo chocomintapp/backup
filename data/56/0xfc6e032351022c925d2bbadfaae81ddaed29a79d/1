@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmaymrUMNTS58TbskmHoNLHgeUFcJnanD17xd5dBtTvK26/nft.png",
+  "tokenId": 1,
+  "description": "LASI loves parties and festivals!  \nA lot of people are having a great time and he shows up and   becomes friends with everyone in no time.  \n\nラッシーくんはパーティーやお祭りが大好き！  \n大勢でワイワイ楽しんでいるところにヒョッコリ現れて、あっという間にみんなと友達になるよ。  ",
+  "nftContractAddress": "0xfc6e032351022c925d2bbadfaae81ddaed29a79d",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "#001 LASI - The Festival Lover.",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Akane's Family"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Rabbit"
+    }
+  ]
+}

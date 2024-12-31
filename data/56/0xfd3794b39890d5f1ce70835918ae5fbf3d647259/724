@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmVuWBfRaeDTaEHe8gscQpawYgnduTiPD7FvvxM7uJPuLC/nft.png",
+  "tokenId": 724,
+  "description": "In this NFT we honor the canvas that is an unavoidable icon of the Renaissance, and has already been referenced in fashion, design, cinema, music, and several other cultural means.\nThe Birth of Venus, painted by Botticelli between 1482 and 1485, depicts the Goddess, naked, emerging from the waters in a shell, hiding her naked condition.\n",
+  "nftContractAddress": "0xfd3794b39890d5f1ce70835918ae5fbf3d647259",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "The Birth of Venus #24",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "24"
+    },
+    {
+      "trait_type": "Season",
+      "value": "1"
+    }
+  ]
+}

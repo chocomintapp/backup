@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmSRtvQSYCYbB9gNBmJBSiFfG9Afz5ubj5RdCGQSsfYybX/nft.png",
+  "nftContractAddress": "0x344f16885b806358ca4d726c2599294797c687fc",
+  "animationUrl": "https://ipfs.io/ipfs/QmYqukRAo9UASwEELKXzUH86vsRKrgD9X4norAmDMAmTsy/nft.glb",
+  "tokenId": 22,
+  "chainId": "56",
+  "name": "PolygonLowGEN #22",
+  "description": "NFT Avatar Wearables NPC Project for the Open Metaverse",
+  "attributes": [
+    {
+      "value": "Sauna",
+      "trait_type": "Background"
+    },
+    {
+      "value": "White",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Brownshoelace",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Slacksbule",
+      "trait_type": "Lowerbody"
+    },
+    {
+      "value": "Longtpurple",
+      "trait_type": "Upperbody"
+    },
+    {
+      "value": "Redribbon",
+      "trait_type": "Reversemark"
+    },
+    {
+      "value": "Blacksuit",
+      "trait_type": "Suit"
+    },
+    {
+      "value": "Xx",
+      "trait_type": "Eye"
+    },
+    {
+      "value": "Momiage",
+      "trait_type": "Hair"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmWpQyvkFEUGQRRopKXmJiVcZazuHqJG65mng5jAXHWA2x/nft.gif",
+  "tokenId": 2,
+  "description": "a",
+  "nftContractAddress": "0x2bec9d926ed94ab3b8601ac375db385a2630394a",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "chocoAーgif",
+  "attributes": [
+    {
+      "trait_type": "b",
+      "value": "c"
+    }
+  ]
+}

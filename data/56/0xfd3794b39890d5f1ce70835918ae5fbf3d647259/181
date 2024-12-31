@@ -1,0 +1,20 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUS73gKsgDwJ37SXGdoo1kHm3Wxh7GG9c8NiheL6hDpQ3/nft.png",
+  "tokenId": 181,
+  "description": "She, Frida Kahlo, certainly could not be left out of our collection.\nWe chose the “Self-portrait dedicated to Dr. Eloesser” from 1940 as the artist's reference, because in the painting Frida is the one she liked best, dressed in flowers, flowers that remain alive through her painting.\nIn an NFT with strong colors and simple lines, we seek to honor this incredible artist, who remains eternal through her works.",
+  "nftContractAddress": "0xfd3794b39890d5f1ce70835918ae5fbf3d647259",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "Frida Kahlo #81",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "81"
+    },
+    {
+      "trait_type": "Season",
+      "value": "1"
+    }
+  ],
+  "minted": "✅"
+}

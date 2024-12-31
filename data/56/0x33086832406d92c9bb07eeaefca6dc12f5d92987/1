@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmT22T8XwXQZNPF6twoqEL1eTJQPXSVr6CpByaAxJfYHQx/nft.png",
+  "tokenId": 1,
+  "description": "LSD",
+  "nftContractAddress": "0x33086832406d92c9bb07eeaefca6dc12f5d92987",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "LightSpeed Dreams",
+  "attributes": []
+}

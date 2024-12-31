@@ -1,0 +1,19 @@
+{
+  "image": "https://ipfs.io/ipfs/QmV1huEK1o2S4JiZdtC3PJz8GAMWKc1opCvsPsvsVXr5MQ/nft.png",
+  "tokenId": 613,
+  "description": "A dramatic artist, the greatest representative of the Baroque, Caravaggio recreated, in 1595, a new Medusa, the great figure of Greek mythology.\nOur NFT invites you to see the original work, whose force of expression continues to impress those who observe it, the severed head seems to take on a life of its own in a terrifying expression.\n",
+  "nftContractAddress": "0xfd3794b39890d5f1ce70835918ae5fbf3d647259",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "Medusa #13",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "13"
+    },
+    {
+      "trait_type": "Season",
+      "value": "1"
+    }
+  ]
+}

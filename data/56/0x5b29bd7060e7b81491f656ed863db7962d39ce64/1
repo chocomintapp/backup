@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmeKjv4VVSahGeig9nJLQXH2piFtawKVCWFNvNTA1p1ABB/nft.jpg",
+  "tokenId": 1,
+  "description": "Bolotihovo",
+  "nftContractAddress": "0x5b29bd7060e7b81491f656ed863db7962d39ce64",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "TBR",
+  "attributes": []
+}

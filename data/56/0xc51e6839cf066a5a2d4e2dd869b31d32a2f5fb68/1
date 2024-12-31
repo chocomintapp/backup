@@ -1,0 +1,9 @@
+{
+  "image": "https://ipfs.io/ipfs/QmUd3xDJe7pMXdUHpmLZYxKe52r2RyaHh8HwVXBJJn9NbX/nft.png",
+  "tokenId": 1,
+  "description": "Cat & Coin",
+  "nftContractAddress": "0xc51e6839cf066a5a2d4e2dd869b31d32a2f5fb68",
+  "animationUrl": "https://ipfs.io/ipfs/QmZ8t2AYSBr1ofsiAKmYuenMR9CcsyDrUhL5ehowuGVGci/nft.gif",
+  "chainId": "56",
+  "name": "CoinCats_Coin"
+}

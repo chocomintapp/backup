@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmW22dBJmWdvLr3f4tv6t5BjmLxKt2qcVU2RTiiUsf2yZi/nft.jpg",
+  "tokenId": 3,
+  "description": "chally-photo",
+  "nftContractAddress": "0x696a04f6bece8f9fe26464c5a120dd371afd24d5",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "chally",
+  "attributes": []
+}

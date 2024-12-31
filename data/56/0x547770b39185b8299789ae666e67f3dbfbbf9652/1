@@ -1,0 +1,10 @@
+{
+  "image": "https://ipfs.io/ipfs/QmRbfCn75gc763yFbK9CccMADUEowPaoyRLueuyX5UUTzv/nft.jpg",
+  "tokenId": 1,
+  "description": "aliens",
+  "nftContractAddress": "0x547770b39185b8299789ae666e67f3dbfbbf9652",
+  "animationUrl": "",
+  "chainId": "56",
+  "name": "aliens",
+  "attributes": []
+}

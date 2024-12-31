@@ -1,0 +1,47 @@
+{
+  "image": "https://ipfs.io/ipfs/QmacyfnxsnQ5BFPq4Xvi12sJGsnRkw4bE5sD9YeN911utR/nft.png",
+  "nftContractAddress": "0x344f16885b806358ca4d726c2599294797c687fc",
+  "animationUrl": "https://ipfs.io/ipfs/QmYE5rABejbGHHUniEioTqMoWvYPiGt6y1DG9z2UBJVUde/nft.glb",
+  "tokenId": 45,
+  "chainId": "56",
+  "name": "PolygonLowGEN #45",
+  "description": "NFT Avatar Wearables NPC Project for the Open Metaverse",
+  "attributes": [
+    {
+      "value": "Container",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Alian",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Shoesred",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Slacksbule",
+      "trait_type": "Lowerbody"
+    },
+    {
+      "value": "Tanktopcream",
+      "trait_type": "Upperbody"
+    },
+    {
+      "value": "Minipgmana",
+      "trait_type": "Reversemark"
+    },
+    {
+      "value": "Lightbluesuit",
+      "trait_type": "Suit"
+    },
+    {
+      "value": "Xx",
+      "trait_type": "Eye"
+    },
+    {
+      "value": "Bluethreeseven",
+      "trait_type": "Hair"
+    }
+  ]
+}

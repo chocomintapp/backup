@@ -1,0 +1,15 @@
+{
+  "image": "https://ipfs.io/ipfs/QmNYSTYB2XtHALZgWHwdaggvrCdNqx2Jhor4DajNbksrJk/nft.mp4",
+  "nftContractAddress": "0x7b9c964cbd7581f01e9495fb879da783f557250a",
+  "animationUrl": "https://ipfs.io/ipfs/QmNYSTYB2XtHALZgWHwdaggvrCdNqx2Jhor4DajNbksrJk/nft.mp4",
+  "tokenId": 3,
+  "chainId": "56",
+  "name": "The Patriot",
+  "description": "\"I Pledge Allegiance To This Flag, and To The United States of Boobies\"",
+  "attributes": [
+    {
+      "value": "Priceless",
+      "trait_type": "Super Uber Rare"
+    }
+  ]
+}
